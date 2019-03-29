@@ -1,0 +1,44 @@
+<templateSet group="John Python">
+  <template name="rps" value="$name$: PS = PS('$name$', $parent$, $END$)" description="Reportlab ParagraphStyle" toReformat="true" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="parent" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python_Class" value="true" />
+    </context>
+  </template>
+  <template name="rpsize" value="**font_space($num$)" description="Reportlab ParagraphStyle fontsize and leading" toReformat="true" toShortenFQNames="true">
+    <variable name="num" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python_Class" value="true" />
+    </context>
+  </template>
+  <template name="rts" value="$name$: TS = TS([&#10;  ('$style$', $END$)&#10;], $parent$)" description="Reportlab TableStyle" toReformat="true" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="style" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="parent" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python_Class" value="true" />
+    </context>
+  </template>
+  <template name="rpalign" value="alignment=TA_$direction$" description="Reportlab ParagraphStyle alignment" toReformat="true" toShortenFQNames="true">
+    <variable name="direction" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python_Class" value="true" />
+    </context>
+  </template>
+  <template name="rtfont" value="('FONT', ($sc$, $sr$), ($ec$, $er$), FONT, $size$, lead($size$))," description="Reportlab TableStyle font" toReformat="true" toShortenFQNames="true">
+    <variable name="sc" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="sr" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ec" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="er" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="size" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python_Class" value="true" />
+    </context>
+  </template>
+  <template name="typing" value="if TYPE_CHECKING:&#10;  import sc.sql as sql" description="if TYPE_CHECKING:" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>

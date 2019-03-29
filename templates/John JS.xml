@@ -1,0 +1,77 @@
+<templateSet group="John JS">
+  <template name="vs" value="$varName$: string&#10;$END$" description="variable: $varName$: string;" toReformat="true" toShortenFQNames="true">
+    <variable name="varName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="vn" value="$varName$: number&#10;$END$" description="variable: $varName$: number;" toReformat="true" toShortenFQNames="true">
+    <variable name="varName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="vb" value="$varName$: boolean&#10;$END$" description="variable: $varName$: boolean;" toReformat="true" toShortenFQNames="true">
+    <variable name="varName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="pub" value="public $name$: $type$" description="public constructor" toReformat="true" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="priv" value="private $name$: $type$" description="priv constructor" toReformat="true" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="lt" value="let {$END$} = $from$" description="let {} = from" toReformat="true" toShortenFQNames="true">
+    <variable name="from" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="fat" value="($param$) =&gt; {&#10;    $END$&#10;}" description="() =&gt; {} in typescript" toReformat="true" toShortenFQNames="true">
+    <variable name="param" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="fn" value="export function $FN$($PARAMS$) {&#10;    $END$&#10;}" description="named function without comments" toReformat="true" toShortenFQNames="true">
+    <variable name="FN" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="lo" value="console.log($val$)" description="console.log" toReformat="true" toShortenFQNames="true">
+    <variable name="val" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="ter" value="$COND$ ? $EXPR$ : $END$" description="Ternary operator" toReformat="true" toShortenFQNames="true">
+    <variable name="COND" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="tt" value="@Type(() =&gt; $v$)" description="@Type(() =&gt; $v$)" toReformat="true" toShortenFQNames="true">
+    <variable name="v" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="srt" value=".sort((a, b) =&gt; a.name.localeCompare(b.name))&#10;$END$" description=".sort((a, b) =&gt; a.name.localeCompare(b.name))" toReformat="true" toShortenFQNames="true" />
+</templateSet>

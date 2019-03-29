@@ -1,0 +1,38 @@
+<templateSet group="John HTML">
+  <template name="icon" value="&lt;md-icon md-svg-icon=&quot;$icon$&quot;&gt;&lt;/md-icon&gt;" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="icon" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="pa" value="&lt;page&gt;&#10;  &lt;page-header&gt;&lt;/page-header&gt;&#10;  &lt;page-body&gt;&#10;  &#10;    &lt;page-card&gt;&#10;      &lt;page-card-header&gt;$header$&lt;/page-card-header&gt;&#10;      &#10;      &lt;page-card-body&gt;&#10;        $END$&#10;      &lt;/page-card-body&gt;&#10;      &#10;    &lt;/page-card&gt;&#10;    &#10;  &lt;/page-body&gt;&#10;&lt;/page&gt;" description="page layout" toReformat="true" toShortenFQNames="true">
+    <variable name="header" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="card" value="&lt;page-card&gt;&#10;  &lt;page-card-header&gt;$header$&lt;/page-card-header&gt;&#10;  &#10;  &lt;page-card-body&gt;&#10;    $END$&#10;  &lt;/page-card-body&gt;&#10;&lt;/page-card&gt;" description="page-card" toReformat="true" toShortenFQNames="true">
+    <variable name="header" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="inp" value="&lt;md-input-container class=&quot;md-block&quot;&gt;&#10;  &lt;label&gt;$label$&lt;/label&gt;&#10;  &lt;input type=&quot;text&quot;&#10;         gg-autofocus&#10;         name=&quot;$name$&quot;&#10;         ng-model=&quot;ctrl.$model$&quot;&#10;         required&gt;&#10;&lt;/md-input-container&gt;" description="input-cont" toReformat="true" toShortenFQNames="true">
+    <variable name="label" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="model" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="inc" value="&lt;md-input-container&gt;&#10;  &lt;label translate=&quot;$trans$&quot;&gt;$label$&lt;/label&gt;&#10;  &lt;input type=&quot;$type$&quot; name=&quot;$name$&quot; ng-model=&quot;ctrl.$model$&quot; required&gt;&#10;&lt;/md-input-container&gt;" description="input container" toReformat="true" toShortenFQNames="true">
+    <variable name="trans" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="label" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="name" expression="snakeCase(label)" defaultValue="&quot;&quot;" alwaysStopAt="false" />
+    <variable name="model" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

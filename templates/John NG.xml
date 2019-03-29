@@ -1,0 +1,28 @@
+<templateSet group="John NG">
+  <template name="mdpanel" value="&lt;md-expansion-panel md-component-id=&quot;$id$&quot;&gt;&#10;  &lt;md-expansion-panel-collapsed&gt;&#10;    &lt;h4 class=&quot;md-title&quot;&gt;$title$&lt;/h4&gt;&#10;    &lt;div class=&quot;md-summary&quot;&gt;&lt;/div&gt;&#10;    &lt;md-expansion-panel-icon&gt;&lt;/md-expansion-panel-icon&gt;&#10;  &lt;/md-expansion-panel-collapsed&gt;&#10;&#10;  &lt;md-expansion-panel-expanded&gt;&#10;    &lt;md-expansion-panel-header md-no-sticky ng-click=&quot;$panel.collapse()&quot;&gt;&#10;      &lt;h4 class=&quot;md-title&quot;&gt;$title$&lt;/h4&gt;&#10;      &lt;div class=&quot;md-summary&quot;&gt;&lt;/div&gt;&#10;      &lt;md-expansion-panel-icon&gt;&lt;/md-expansion-panel-icon&gt;&#10;    &lt;/md-expansion-panel-header&gt;&#10;    &lt;md-expansion-panel-content&gt;&#10;      $END$&#10;    &lt;/md-expansion-panel-content&gt;&#10;  &lt;/md-expansion-panel-expanded&gt;&#10;&lt;/md-expansion-panel&gt;" description="md-expansion-panel" toReformat="true" toShortenFQNames="true">
+    <variable name="title" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="id" expression="lowercaseAndDash(title)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="mitem" value="&lt;multi-item [is]=&quot;ctrl.isMulti&quot; [(check)]=&quot;ctrl.multi.$prop$&quot;&gt;&#10;  $END$&#10;&lt;/multi-item&gt;" description="multi-item" toReformat="true" toShortenFQNames="true">
+    <variable name="prop" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="a-in" value="@Input() $name$: $type$" description="@Input()" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="gcell" value="cellTemplate: `&lt;div class=&quot;ui-grid-cell-contents&quot;&gt;{{ row.entity.$v$ }}&lt;/div&gt;`" description="cellTemplate" toReformat="true" toShortenFQNames="true">
+    <variable name="v" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

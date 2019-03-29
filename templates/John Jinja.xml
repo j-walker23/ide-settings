@@ -1,0 +1,106 @@
+<templateSet group="John Jinja">
+  <template name="jinelse" value="{% else %}&#10; $END$" description="A simple else line" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="Django" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="jinblock" value="{% block $BLOCKNAME$ %}&#10;$END$&#10;{% endblock %}&#10;" description="A generic jinja block" toReformat="true" toShortenFQNames="true">
+    <variable name="BLOCKNAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Django" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="jinext" value="{% extends &quot;$SOMETHING$&quot; %}" description="An extend tag" toReformat="true" toShortenFQNames="true">
+    <variable name="SOMETHING" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Django" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="jinforin" value="{% for $NEEDLE$ in $HAYSTACK$ %}&#10;$END$&#10;{% endfor %}" description="A for in block" toReformat="true" toShortenFQNames="true">
+    <variable name="NEEDLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="HAYSTACK" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Django" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="jinif" value="{% if $CONDITION$ %}&#10;$END$&#10;{% endif %}" description="A simple if" toReformat="true" toShortenFQNames="true">
+    <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Django" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="jinimp" value="(% import &quot;$IMPORT$&quot; %}" description="A simple import" toReformat="true" toShortenFQNames="true">
+    <variable name="IMPORT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Django" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="jinimpas" value="{% import &quot;$IMPORT$&quot; as $ALIAS$ %}" description="A simple import as line" toReformat="true" toShortenFQNames="true">
+    <variable name="IMPORT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ALIAS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Django" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="jinifelse" value="{% if $CONDITION$ %}&#10;$STUFF$&#10;{% else %}&#10;$OTHER_STUFF$&#10;{% endif %}&#10;$END$&#10;    " description="A simple if/else" toReformat="true" toShortenFQNames="true">
+    <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="STUFF" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="OTHER_STUFF" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Django" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="jinwith" value="{% with $VAR$ %}&#10;$END$&#10;{% endwith %}" description="A jinja with statement" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="jininc" value="{% include $INCLUDE$ %}&#10;$END$" description="A simple include" toReformat="true" toShortenFQNames="true">
+    <variable name="INCLUDE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="urlforstatic" value="{{ url_for('static', filename='$FILENAME$') }}" description="A url_for function for static files" toReformat="true" toShortenFQNames="true">
+    <variable name="FILENAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="jinset" value="{% set $name$ = $val$ %}&#10;" description="Jinja2 set" toReformat="true" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="val" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Django" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="jinmac" value="{% macro $fn$($var$) -%}&#10;$END$&#10;{% endmacro %}&#10;" description="jinja macro" toReformat="true" toShortenFQNames="true">
+    <variable name="fn" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Django" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="jincall" value="{% call $name$($var$) %}&#10;$END$&#10;{% endcall %}" description="jinja call macro" toReformat="true" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Django" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

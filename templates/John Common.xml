@@ -1,0 +1,8 @@
+<templateSet group="John Common">
+  <template name="''" value="'$SURROUND$'" description="quotes" toReformat="true" toShortenFQNames="true">
+    <variable name="SURROUND" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
