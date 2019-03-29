@@ -9,6 +9,12 @@
         <mark key="^" line="0" column="37" />
         <mark key="." line="0" column="37" />
       </file>
+      <file name="/Dummy.txt" timestamp="1553860846552">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1553861633372">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/code/sc/web/.gitignore" timestamp="1553859618990">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="35" column="11" />
@@ -31,6 +37,7 @@
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/sentry_sdk/hub.py" timestamp="1553862205784" />
       <file name="$USER_HOME$/Desktop/jba_config/templates copy/jw-py.xml" timestamp="1553856269053">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="20" />
@@ -70,7 +77,14 @@
         <mark key="." line="0" column="28" />
         <mark key="^" line="0" column="28" />
       </file>
-      <file name="/code/sc/web/instance/local/vmoptions" timestamp="1553854953546">
+      <file name="/code/sc/web/sc/coms/ext/flasks.py" timestamp="1553860913831">
+        <mark key="'" line="86" column="6" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="29" column="1" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="/code/sc/web/instance/local/vmoptions" timestamp="1553860887423">
         <mark key="'" line="25" column="32" />
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -84,10 +98,12 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
       </file>
-      <file name="/code/sc/web/sc/coms/ext/sentry.py" timestamp="1553847327588">
-        <mark key="[" line="26" column="12" />
-        <mark key="]" line="26" column="12" />
-        <mark key="." line="26" column="12" />
+      <file name="/code/sc/web/sc/coms/ext/sentry.py" timestamp="1553862794148">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="150" column="42" />
+        <mark key="]" line="150" column="41" />
+        <mark key="^" line="150" column="41" />
+        <mark key="." line="150" column="41" />
       </file>
       <file name="/code/sc/medrank/.gitignore" timestamp="1553859588392" />
       <file name="$USER_HOME$/Desktop/jba_config/templates copy/jinja.xml" timestamp="1553856185989">
@@ -132,40 +148,44 @@
       <jump line="105" column="36" filename="/code/sc/web/.gitignore" />
       <jump line="104" column="36" filename="/code/sc/web/.gitignore" />
       <jump line="0" column="0" filename="/code/sc/web/.gitignore" />
+      <jump line="87" column="6" filename="/code/sc/web/sc/coms/ext/flasks.py" />
+      <jump line="73" column="18" filename="/code/sc/web/sc/coms/ext/sentry.py" />
+      <jump line="97" column="14" filename="/code/sc/web/sc/coms/ext/sentry.py" />
+      <jump line="9" column="0" filename="/code/sc/web/sc/coms/ext/sentry.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSByYXZlbiBpbXBvcnQgQ2xpZW50LCBtaWRkbGV3YXJlCmZyb20gcmF2ZW4uY29udHJpYi5mbGFzayBpbXBvcnQgU2VudHJ5CmZyb20gcmF2ZW4ubWlkZGxld2FyZSBpbXBvcnQgQ2xvc2luZ0l0ZXJhdG9yCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBleHRyYSA9IGV2Lgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBHcmFkbGUKLmlkZWEvKiovZ3JhZGxlLnhtbAo=</text>
+        <text encoding="base64">ICB0YWdzID0gZXYuZ2V0KCd0YWdzJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LmlkZWEvKiovbGlicmFyaWVzCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBHcmFkbGUgYW5kIE1hdmVuIHdpdGggYXV0by1pbXBvcnQKIyBXaGVuIHVzaW5nIEdyYWRsZSBvciBNYXZlbiB3aXRoIGF1dG8taW1wb3J0LCB5b3Ugc2hvdWxkIGV4Y2x1ZGUgbW9kdWxlIGZpbGVzLAojIHNpbmNlIHRoZXkgd2lsbCBiZSByZWNyZWF0ZWQsIGFuZCBtYXkgY2F1c2UgY2h1cm4uICBVbmNvbW1lbnQgaWYgdXNpbmcKIyBhdXRvLWltcG9ydC4KIyAuaWRlYS9tb2R1bGVzLnhtbAojIC5pZGVhLyouaW1sCiMgLmlkZWEvbW9kdWxlcwo=</text>
+        <text encoding="base64">ICBmcm9tIC4gaW1wb3J0IGxvZ19pZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBDTWFrZQpjbWFrZS1idWlsZC0qLwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBNb25nbyBFeHBsb3JlciBwbHVnaW4KLmlkZWEvKiovbW9uZ29TZXR0aW5ncy54bWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBHcmFkbGUKLmlkZWEvKiovZ3JhZGxlLnhtbAo=</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>app.</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
