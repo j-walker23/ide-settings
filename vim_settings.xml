@@ -12,7 +12,7 @@
       <file name="/code/sc/web/static/web/views/listings/edits/edit-item/items/al-categories.ts" timestamp="1553875130539">
         <mark key="'" line="4" column="11" />
       </file>
-      <file name="/code/sc/web/sc/coms/ext/logs.py" timestamp="1553871626773" />
+      <file name="/code/sc/web/sc/coms/ext/logs.py" timestamp="1553878130734" />
       <file name="/usr/local/Cellar/python/3.7.2_2/Frameworks/Python.framework/Versions/3.7/lib/python3.7/traceback.py" timestamp="1553873748394" />
       <file name="$APPLICATION_CONFIG_DIR$/codestyles/john-default-code-style.xml" timestamp="1553855496667">
         <mark key="'" line="18" column="34" />
@@ -29,6 +29,9 @@
       </file>
       <file name="$USER_HOME$/Desktop/jba_config/codestyles/Default.xml" timestamp="1553855451034">
         <mark key="'" line="134" column="0" />
+      </file>
+      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1553877795076">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="/code/sc/medrank/.gitignore" timestamp="1553859588392" />
       <file name="$USER_HOME$/Desktop/jba_config/templates copy/jinja.xml" timestamp="1553856185989">
@@ -73,12 +76,12 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.ts" timestamp="1553875291711">
-        <mark key="'" line="7" column="19" />
-        <mark key="[" line="11" column="7" />
-        <mark key="]" line="11" column="6" />
-        <mark key="." line="11" column="6" />
-        <mark key="^" line="11" column="6" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.ts" timestamp="1553877108395">
+        <mark key="'" line="54" column="28" />
+        <mark key="[" line="55" column="37" />
+        <mark key="]" line="55" column="45" />
+        <mark key="." line="55" column="45" />
+        <mark key="^" line="55" column="45" />
       </file>
       <file name="$USER_HOME$/Desktop/jba_config/templates copy/html_xml.xml" timestamp="1553856174772">
         <mark key="'" line="16" column="12" />
@@ -86,6 +89,12 @@
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
         <mark key="^" line="0" column="28" />
+      </file>
+      <file name="/code/sc/web/sc/mods/factory.py" timestamp="1553877728678">
+        <mark key="[" line="29" column="2" />
+        <mark key="]" line="29" column="3" />
+        <mark key="." line="29" column="3" />
+        <mark key="^" line="29" column="3" />
       </file>
       <file name="/code/sc/web/sc/coms/ext/flasks.py" timestamp="1553860913831">
         <mark key="'" line="86" column="6" />
@@ -111,18 +120,18 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
       </file>
-      <file name="/code/sc/web/sc/coms/testing/utils.py" timestamp="1553874480698">
-        <mark key="[" line="245" column="22" />
-        <mark key="]" line="245" column="21" />
-        <mark key="^" line="245" column="21" />
-        <mark key="." line="245" column="22" />
+      <file name="/code/sc/web/sc/coms/testing/utils.py" timestamp="1553878067778">
+        <mark key="[" line="197" column="75" />
+        <mark key="]" line="197" column="104" />
+        <mark key="^" line="197" column="104" />
+        <mark key="." line="197" column="104" />
       </file>
-      <file name="/code/sc/web/sc/coms/ext/sentry.py" timestamp="1553874476927">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="41" column="14" />
-        <mark key="]" line="41" column="23" />
-        <mark key="." line="41" column="23" />
-        <mark key="^" line="41" column="23" />
+      <file name="/code/sc/web/sc/coms/ext/sentry.py" timestamp="1553877832678">
+        <mark key="'" line="119" column="42" />
+        <mark key="[" line="45" column="18" />
+        <mark key="]" line="46" column="14" />
+        <mark key="." line="46" column="14" />
+        <mark key="^" line="46" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -174,40 +183,44 @@
       <jump line="4" column="11" filename="/code/sc/web/static/web/views/listings/edits/edit-item/items/al-categories.ts" />
       <jump line="71" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.ts" />
       <jump line="38" column="19" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.ts" />
+      <jump line="54" column="28" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.ts" />
+      <jump line="48" column="19" filename="/code/sc/web/sc/coms/ext/sentry.py" />
+      <jump line="0" column="0" filename="/code/sc/web/instance/local/develop_settings.py" />
+      <jump line="119" column="42" filename="/code/sc/web/sc/coms/ext/sentry.py" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">ICBvbkFkZCgpIHsKICAgIGxldCBjYXQgPSB7CiAgICAgIGNhdGVnb3J5SWQ6IHVuZGVmaW5lZCwKICAgICAgZGlzcGxheU5hbWU6IHVuZGVmaW5lZCwKICAgIH0KICAgIHRoaXMucmVzLmFkZGl0aW9uYWxfY2F0ZWdvcmllcyA9IFsuLi50aGlzLnJlcy5hZGRpdGlvbmFsX2NhdGVnb3JpZXMsIGNhdF0KICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBzZW50cnkuc2V0dXAoYXBwKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkaXJlY3RpdmVzOiBbXSwK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxuZy1mb3JtIG5hbWU9ImZvcm0iPgogICAgICA8cCBjbGFzcz0ibWQtc3ViaGVhZCBzdWJoZWFkIG10LTAiPlByaW1hcnkgQ2F0ZWdvcnk8L3A+CiAgICAgIDxhbC1jYXRlZ29yeQogICAgICAgIFtpdGVtXT0iY3RybC5yZXMucHJpbWFyeV9jYXRlZ29yeSIKICAgICAgICAoZG9jaGFuZ2UpPSJjdHJsLm9uUHJpbWFyeSgkZXZlbnQpIgogICAgICA+PC9hbC1jYXRlZ29yeT4KICAgICAgPHAgY2xhc3M9Im1kLXN1YmhlYWQgc3ViaGVhZCBtdC0yMCI+QWRkaXRpb25hbCBDYXRlZ29yaWVzPC9wPgogICAgICA8ZGl2CiAgICAgICAgY2xhc3M9Im1iLTE2IgogICAgICAgIG5nLXJlcGVhdD0iY2F0IGluIGN0cmwucmVzLmFkZGl0aW9uYWxfY2F0ZWdvcmllcyIKICAgICAgICBsYXlvdXQKICAgICAgICBsYXlvdXQtYWxpZ249InN0YXJ0IGNlbnRlciIKICAgICAgPgogICAgICAgIDxhbC1jYXRlZ29yeQogICAgICAgICAgW2ldPSIkaW5kZXgiCiAgICAgICAgICBmbGV4CiAgICAgICAgICBob2xkZXI9IkFkZGl0aW9uYWwgQ2F0ZWdvcnkiCiAgICAgICAgICBbY2F0XT0iY2F0IgogICAgICAgICAgKGRvY2hhbmdlKT0iY3RybC5vbkFkZENhdCgkZXZlbnQpIgogICAgICAgICAgW3JlcXVpcmVkXT0iZmFsc2UiCiAgICAgICAgPjwvYWwtY2F0ZWdvcnk+CiAgICAgICAgPG1kLWJ1dHRvbiBjbGFzcz0ibWQtaWNvbi1idXR0b24iIChjbGljayk9ImN0cmwub25SZW1vdmUoY2F0KSI+CiAgICAgICAgICA8bWQtaWNvbiBtZC1zdmctaWNvbj0iY2xlYXIiPjwvbWQtaWNvbj4KICAgICAgICA8L21kLWJ1dHRvbj4KICAgICAgPC9kaXY+CiAgICAgIDxtZC1idXR0b24gY2xhc3M9Im1kLXByaW1hcnkgbWQtaHVlLTMiIChjbGljayk9ImN0cmwub25BZGQoKSI+CiAgICAgICAgQWRkIEFub3RoZXIgQ2F0ZWdvcnkKICAgICAgPC9tZC1idXR0b24+CiAgICA8L25nLWZvcm0+Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBASW5wdXQoKSByZXMK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgQE91dHB1dCgpIG9ucmVzdWx0cyA9IG5ldyBFdmVudEVtaXR0ZXI8QnV5TnVtYmVyW10+KCkKCiAgb25TZWFyY2goKSB7CiAgICAvLyBPbmNlIHlvdSBoYXZlIHRoZSBwaG9uZSBudW1iZXIgc2VhcmNoIHJlc3VsdHMgZnJvbSB0d2lsaW8KICAgIC8vIEVtaXQgcmVzdWx0cyB0byBwYXJlbnQgcGFnZSBjb21wb25lbnQKICAgIHRoaXMub25yZXN1bHRzLmVtaXQoIllvdXIgc2VhcmNoIHJlc3VsdHMgdG8gYmUgdXNlZCBpbiBCdXlOdW1iZXJzTGlzdENvbXBvbmVudCIpCiAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgb25QcmltYXJ5KHsgaSwgY2F0IH06IHsgY2F0OiBHTUJDYXRlZ29yeTsgaTogbnVtYmVyIH0pIHsKICAgIHRoaXMucmVzLnByaW1hcnlfY2F0ZWdvcnkgPSBjYXQKICAgIHRoaXMuc2F2ZSgpCiAgfQoKICBvbkFkZENhdCh7IGksIGNhdCB9OiB7IGNhdDogR01CQ2F0ZWdvcnk7IGk6IG51bWJlciB9KSB7CiAgICB0aGlzLnJlcy5hZGRpdGlvbmFsX2NhdGVnb3JpZXMuc3BsaWNlKGksIDEsIGNhdCkKICAgIHRoaXMuc2F2ZSgpCiAgfQoKICBzYXZlKCkgewogICAgdGhpcy5yZXMuYWRkaXRpb25hbF9jYXRlZ29yaWVzLnJlbW92ZShjID0+ICFjLmNhdGVnb3J5SWQpCiAgICB0aGlzLmRvcmVzLmVtaXQoeyAuLi50aGlzLnJlcyB9KQogIH0KCiAgb25SZW1vdmUoY2F0KSB7CiAgICB0aGlzLnJlcy5hZGRpdGlvbmFsX2NhdGVnb3JpZXMgPSB0aGlzLnJlcy5hZGRpdGlvbmFsX2NhdGVnb3JpZXMuZmlsdGVyKAogICAgICBjID0+IGMgIT09IGNhdAogICAgKQogIH0K</text>
+        <text encoding="base64">ICAgIC8vIE9uY2UgeW91IGhhdmUgdGhlIHBob25lIG51bWJlciBzZWFyY2ggcmVzdWx0cyBmcm9tIHR3aWxpbwogICAgLy8gRW1pdCByZXN1bHRzIHRvIHBhcmVudCBwYWdlIGNvbXBvbmVudAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29tcG9uZW50LCBFdmVudEVtaXR0ZXIsIElucHV0LCBPdXRwdXQgfSBmcm9tICdqdy1uZy1mb3J3YXJkJwppbXBvcnQgeyBHTUJDYXRlZ29yeSB9IGZyb20gJy4uLy4uLy4uLy4uLy4uLy4uL2NvZGUvc2Mvd2ViL3N0YXRpYy9jb21tb24vaW50ZXJmYWNlcy9nbWInCmltcG9ydCB7IEF1dGhMb2MgfSBmcm9tICcuLi8uLi8uLi8uLi8uLi8uLi9jb2RlL3NjL3dlYi9zdGF0aWMvY29tbW9uL21vZGVscy9hdXRoX2xvY3MubW9kZWwnCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZG9jaGFuZ2UuZW1pdCgiWW91ciBzZWFyY2ggcmVzdWx0cyB0byBiZSB1c2VkIGluIEJ1eU51bWJlcnNMaXN0Q29tcG9uZW50IikK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZnJvbQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICBvbkFkZCgpIHsKICAgIGxldCBjYXQgPSB7CiAgICAgIGNhdGVnb3J5SWQ6IHVuZGVmaW5lZCwKICAgICAgZGlzcGxheU5hbWU6IHVuZGVmaW5lZCwKICAgIH0KICAgIHRoaXMucmVzLmFkZGl0aW9uYWxfY2F0ZWdvcmllcyA9IFsuLi50aGlzLnJlcy5hZGRpdGlvbmFsX2NhdGVnb3JpZXMsIGNhdF0KICB9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0YWdzLCBleHRyYSA9IHV0aWxzLmRpY3RnZXQoZXYsICd0YWdzJywgJ2V4dHJhJykK</text>
+        <text encoding="base64">ICBkaXJlY3RpdmVzOiBbXSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF0dGFjaF9zdGFja3RyYWNlPVRydWUsCg==</text>
+        <text encoding="base64">ICAgIDxuZy1mb3JtIG5hbWU9ImZvcm0iPgogICAgICA8cCBjbGFzcz0ibWQtc3ViaGVhZCBzdWJoZWFkIG10LTAiPlByaW1hcnkgQ2F0ZWdvcnk8L3A+CiAgICAgIDxhbC1jYXRlZ29yeQogICAgICAgIFtpdGVtXT0iY3RybC5yZXMucHJpbWFyeV9jYXRlZ29yeSIKICAgICAgICAoZG9jaGFuZ2UpPSJjdHJsLm9uUHJpbWFyeSgkZXZlbnQpIgogICAgICA+PC9hbC1jYXRlZ29yeT4KICAgICAgPHAgY2xhc3M9Im1kLXN1YmhlYWQgc3ViaGVhZCBtdC0yMCI+QWRkaXRpb25hbCBDYXRlZ29yaWVzPC9wPgogICAgICA8ZGl2CiAgICAgICAgY2xhc3M9Im1iLTE2IgogICAgICAgIG5nLXJlcGVhdD0iY2F0IGluIGN0cmwucmVzLmFkZGl0aW9uYWxfY2F0ZWdvcmllcyIKICAgICAgICBsYXlvdXQKICAgICAgICBsYXlvdXQtYWxpZ249InN0YXJ0IGNlbnRlciIKICAgICAgPgogICAgICAgIDxhbC1jYXRlZ29yeQogICAgICAgICAgW2ldPSIkaW5kZXgiCiAgICAgICAgICBmbGV4CiAgICAgICAgICBob2xkZXI9IkFkZGl0aW9uYWwgQ2F0ZWdvcnkiCiAgICAgICAgICBbY2F0XT0iY2F0IgogICAgICAgICAgKGRvY2hhbmdlKT0iY3RybC5vbkFkZENhdCgkZXZlbnQpIgogICAgICAgICAgW3JlcXVpcmVkXT0iZmFsc2UiCiAgICAgICAgPjwvYWwtY2F0ZWdvcnk+CiAgICAgICAgPG1kLWJ1dHRvbiBjbGFzcz0ibWQtaWNvbi1idXR0b24iIChjbGljayk9ImN0cmwub25SZW1vdmUoY2F0KSI+CiAgICAgICAgICA8bWQtaWNvbiBtZC1zdmctaWNvbj0iY2xlYXIiPjwvbWQtaWNvbj4KICAgICAgICA8L21kLWJ1dHRvbj4KICAgICAgPC9kaXY+CiAgICAgIDxtZC1idXR0b24gY2xhc3M9Im1kLXByaW1hcnkgbWQtaHVlLTMiIChjbGljayk9ImN0cmwub25BZGQoKSI+CiAgICAgICAgQWRkIEFub3RoZXIgQ2F0ZWdvcnkKICAgICAgPC9tZC1idXR0b24+CiAgICA8L25nLWZvcm0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>al-categories</text>
+        <text>any</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
