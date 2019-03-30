@@ -3,21 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/structlog/dev.py" timestamp="1553967705560" />
       <file name="/Python Console" timestamp="1553894984295">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1553891608416">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code/sc/web/sc/coms/ext/logs.py" timestamp="1553963091830">
-        <mark key="'" line="176" column="33" />
-        <mark key="[" line="213" column="0" />
-        <mark key="]" line="213" column="0" />
-        <mark key="." line="213" column="0" />
+      <file name="/code/sc/web/sc/coms/ext/logs.py" timestamp="1553967858979">
+        <mark key="'" line="219" column="26" />
+        <mark key="[" line="219" column="14" />
+        <mark key="]" line="219" column="26" />
+        <mark key="." line="219" column="26" />
+        <mark key="^" line="219" column="26" />
       </file>
       <file name="/scratch" timestamp="1553958806867">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/code/sc/web/Pipfile" timestamp="1553967597821" />
       <file name="$USER_HOME$/Desktop/jba_config/templates copy/md.xml" timestamp="1553856332723">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="26" />
@@ -111,12 +114,11 @@
         <mark key="^" line="197" column="84" />
         <mark key="." line="197" column="84" />
       </file>
-      <file name="/code/sc/web/sc/coms/ext/logsrender.py" timestamp="1553961875953">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="13" column="3" />
-        <mark key="." line="15" column="0" />
+      <file name="/code/sc/web/sc/coms/ext/logsrender.py" timestamp="1553968295714">
+        <mark key="[" line="41" column="10" />
+        <mark key="]" line="41" column="36" />
+        <mark key="." line="41" column="36" />
+        <mark key="^" line="41" column="36" />
       </file>
       <file name="/code/sc/web/sc/coms/ext/sentry.py" timestamp="1553960654072">
         <mark key="'" line="68" column="16" />
@@ -197,40 +199,41 @@
       <jump line="217" column="33" filename="/code/sc/web/sc/coms/ext/logs.py" />
       <jump line="42" column="0" filename="/code/sc/web/sc/coms/ext/logsrender.py" />
       <jump line="70" column="23" filename="/code/sc/web/sc/coms/ext/jsoncoders.py" />
+      <jump line="219" column="26" filename="/code/sc/web/sc/coms/ext/logs.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICByYXBpZAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV2ZW50X2RpY3QgPSByZWNvcmQuX19kaWN0X18uZ2V0KCdlZCcsIHt9KQo=</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBpc2luc3RhbmNlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgTG9jYWxSZW5kZXJlcihDb25zb2xlUmVuZGVyZXIpOgogICIiIiIiIgoKICBkZWYgX19jYWxsX18oc2VsZiwgXywgX18sIGV2ZW50X2RpY3QpOgogICAgIiIiIiIiCiAgICBzaW8gPSBTdHJpbmdJTygpCiAgICBldmVudF9kaWN0ID0gcmVjb3JkLl9fZGljdF9fLmdldCgnZWQnLCB7fSkKICAgIG5hbWVwYWQsIG1zZ3BhZCwgbmFtZWNvbCwga2V5LCB2YWx1ZSA9IHNlbGYubmFtZV9wYWQsIHNlbGYubXNnX3BhZCwgc2VsZi5OQU1FLCBzZWxmLktFWSwgc2VsZi5WQUxVRQogICAgbmFtZSA9IHJlY29yZC5uYW1lCiAgICBsZXZlbCA9IHJlY29yZC5sZXZlbG5hbWUubG93ZXIoKQogICAgbGV2Y29sID0gc2VsZi5MRVZFTFNbbGV2ZWxdCiAgICBsb2dpZCA9IHJlY29yZC5sb2dpZCBvciAnTm9uZScKICAgICMgbXNnID0gc3RyKHJlY29yZC5tc2cpCiAgICAjIGlmIGxlbihtc2cpID4gbXNncGFkOgogICAgIyAgIG1zZyA9IG1zZ1s6bXNncGFkIC0gNF0gKyAnLi4uJwogICAgbXNnICs9ICciJwoKICAgIHNpby53cml0ZShmJ1t7bGV2Y29sfXtsZXZlbDo4fXtyZXNldH1dIHticmJsYWNrfXtsb2dpZDoxMX17cmVzZXR9IHtuYW1lY29sfXtuYW1lOntuYW1lcGFkfX17cmVzZXR9ICJ7bXNnOnttc2dwYWR9fScpCgogICAgc3RhY2sgPSBldmVudF9kaWN0LnBvcCgnc3RhY2snLCBOb25lKQogICAgZXhjID0gZXZlbnRfZGljdC5wb3AoJ2V4Y2VwdGlvbicsIE5vbmUpCgogICAgaWYgbm90IHNlbGYuaGlkZV9lZDoKICAgICAgaXRlbXMgPSBbXQogICAgICBmb3IgayBpbiBzZWxmLlNPUlQ6CiAgICAgICAgaWYgayBpbiBldmVudF9kaWN0OgogICAgICAgICAgaXRlbXMuYXBwZW5kKChrLCBzdHIoZXZlbnRfZGljdC5wb3AoaykpKSkKICAgICAgYXRvbXMgPSBsaXN0KGV2ZW50X2RpY3QuaXRlbXMoKSkgKyBpdGVtcwogICAgICBlbGxpcCA9IGxhbWJkYSB2YWw6IHZhbAogICAgICAjIGVsbGlwID0gbGFtYmRhIHZhbDogKHZhbFs6MzBdICsgJy4uLicpIGlmIGxlbih2YWwpID4gMzAgZWxzZSB2YWwKICAgICAgaWYgYXRvbXM6CiAgICAgICAgbG9nX2F0b20gPSAnICcuam9pbihmJ3trZXl9e2t9e3Jlc2V0fXticmJsYWNrfT17cmVzZXR9e3ZhbHVlfXtlbGxpcChzdHIodikpfXtyZXNldH0nIGZvciBrLCB2IGluIGF0b21zKQogICAgICAgIHNpby53cml0ZShmJyB7bG9nX2F0b219JykKCiAgICBpZiBzdGFjayBpcyBub3QgTm9uZToKICAgICAgc2lvLndyaXRlKCJcbiIgKyBzdGFjaykKICAgICAgaWYgZXhjIGlzIG5vdCBOb25lOgogICAgICAgIHNpby53cml0ZSgiXG5cbiIgKyAiPSIgKiA3OSArICJcbiIpCiAgICBpZiBleGMgaXMgbm90IE5vbmU6CiAgICAgIHNpby53cml0ZSgiXG4iICsgZXhjKQoKICAgIHJldHVybiBzaW8uZ2V0dmFsdWUoKQoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAKY2xhc3MgTG9jYWxSZW5kZXJlcihDb25zb2xlUmVuZGVyZXIpOiAgCiAgIiIiIiIiCiAgCiAgZGVmIF9fY2FsbF9fKHNlbGYsICphcmdzLCAqKmt3YXJncyk6Cg==</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBzZWxmLmhpZGVfZWQ6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzZXRfcmVjb3JkX2ZhY3RvcnkoKQo=</text>
+        <text encoding="base64">ICAgICMgbXNnID0gc3RyKHJlY29yZC5tc2cpCiAgICAjIGlmIGxlbihtc2cpID4gbXNncGFkOgogICAgIyAgIG1zZyA9IG1zZ1s6bXNncGFkIC0gNF0gKyAnLi4uJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2lkID0gcmVjb3JkLmxvZ2lkIG9yICdOb25lJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAjIHJvb3QgbG9nZ2VyIGxldmVsIGlzIHdhcm4gbGV2ZWwgYnkgZGVmYXVsdAogIGxvZ2dpbmcuZ2V0TG9nZ2VyKCkuc2V0TGV2ZWwobG9nZ2luZy5OT1RTRVQpCiAgc2V0X3JlY29yZF9mYWN0b3J5KCkK</text>
+        <text encoding="base64">ICAgIGxldmVsID0gcmVjb3JkLmxldmVsbmFtZS5sb3dlcigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzZXRfaGFuZGxlcihsb2dnaW5nLkRFQlVHLCBnZXRfaGFuZGxlcigpLCBmb3JtYXR0ZXIpCg==</text>
+        <text encoding="base64">ICAgIG5hbWUgPSByZWNvcmQubmFtZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzZXRfaGFuZGxlcihsb2dnaW5nLkRFQlVHLCBnZXRfaGFuZGxlcigpLCBmb3JtYXR0ZXIpCg==</text>
+        <text encoding="base64">ICAgICAgZHVtcHMsCg==</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>, \</text>
+        <text>event_dict.pop('event')</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
