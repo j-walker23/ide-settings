@@ -3,7 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/structlog/dev.py" timestamp="1553967705560" />
+      <file name="$APPLICATION_CONFIG_DIR$/codestyles/Default.xml" timestamp="1553855432596">
+        <mark key="[" line="0" column="40" />
+        <mark key="]" line="0" column="37" />
+        <mark key="^" line="0" column="37" />
+        <mark key="." line="0" column="37" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1553860846552">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Python Console" timestamp="1553894984295">
         <mark key="[" line="0" column="0" />
       </file>
@@ -17,44 +25,15 @@
         <mark key="." line="219" column="26" />
         <mark key="^" line="219" column="26" />
       </file>
-      <file name="/scratch" timestamp="1553958806867">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/code/sc/web/Pipfile" timestamp="1553967597821" />
-      <file name="$USER_HOME$/Desktop/jba_config/templates copy/md.xml" timestamp="1553856332723">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="0" column="26" />
-        <mark key="." line="0" column="26" />
-        <mark key="^" line="0" column="26" />
-      </file>
-      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1553947339823">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="48" column="13" />
-        <mark key="]" line="48" column="17" />
-        <mark key="." line="48" column="17" />
-        <mark key="^" line="48" column="17" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jba_config/templates copy/jinja.xml" timestamp="1553856185989">
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="0" column="25" />
-        <mark key="^" line="0" column="25" />
-        <mark key="." line="0" column="25" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/codestyles/Default.xml" timestamp="1553855432596">
-        <mark key="[" line="0" column="40" />
-        <mark key="]" line="0" column="37" />
-        <mark key="^" line="0" column="37" />
-        <mark key="." line="0" column="37" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1553860846552">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/code/sc/web/static/web/views/nav-toolbar/nav-toolbar.ts" timestamp="1553959679951">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="191" column="48" />
         <mark key="]" line="191" column="97" />
         <mark key="." line="191" column="97" />
         <mark key="^" line="191" column="97" />
+      </file>
+      <file name="/scratch" timestamp="1553958806867">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1553958802043">
         <mark key="[" line="0" column="0" />
@@ -74,6 +53,12 @@
         <mark key="]" line="19" column="7" />
         <mark key="^" line="19" column="7" />
         <mark key="." line="19" column="7" />
+      </file>
+      <file name="$USER_HOME$/Desktop/jba_config/templates copy/md.xml" timestamp="1553856332723">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+        <mark key="^" line="0" column="26" />
       </file>
       <file name="/code/sc/web/sc/mods/factory.py" timestamp="1553960167858">
         <mark key="[" line="28" column="19" />
@@ -101,6 +86,13 @@
         <mark key="^" line="29" column="1" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1553947339823">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="48" column="13" />
+        <mark key="]" line="48" column="17" />
+        <mark key="." line="48" column="17" />
+        <mark key="^" line="48" column="17" />
+      </file>
       <file name="/code/sc/web/instance/local/vmoptions" timestamp="1553860887423">
         <mark key="'" line="25" column="32" />
         <mark key="[" line="22" column="0" />
@@ -114,11 +106,11 @@
         <mark key="^" line="197" column="84" />
         <mark key="." line="197" column="84" />
       </file>
-      <file name="/code/sc/web/sc/coms/ext/logsrender.py" timestamp="1553968295714">
-        <mark key="[" line="41" column="10" />
-        <mark key="]" line="41" column="36" />
-        <mark key="." line="41" column="36" />
-        <mark key="^" line="41" column="36" />
+      <file name="/code/sc/web/sc/coms/ext/logsrender.py" timestamp="1553968559623">
+        <mark key="[" line="45" column="10" />
+        <mark key="]" line="45" column="31" />
+        <mark key="." line="45" column="31" />
+        <mark key="^" line="45" column="31" />
       </file>
       <file name="/code/sc/web/sc/coms/ext/sentry.py" timestamp="1553960654072">
         <mark key="'" line="68" column="16" />
@@ -126,6 +118,12 @@
         <mark key="]" line="46" column="62" />
         <mark key="." line="46" column="62" />
         <mark key="^" line="46" column="62" />
+      </file>
+      <file name="$USER_HOME$/Desktop/jba_config/templates copy/jinja.xml" timestamp="1553856185989">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="25" />
       </file>
       <file name="/code/sc/web/sc/coms/ext/jsoncoders.py" timestamp="1553961671244">
         <mark key="'" line="70" column="23" />
@@ -233,7 +231,7 @@
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>event_dict.pop('event')</text>
+        <text>event_dict.keys()</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
