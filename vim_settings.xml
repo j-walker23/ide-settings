@@ -130,12 +130,12 @@
         <mark key="." line="235" column="28" />
       </file>
       <file name="/code/sc/web/sc/coms/dm/view.py" timestamp="1554145606767" />
-      <file name="/code/sc/web/sc/coms/ext/sentry.py" timestamp="1554146559030">
-        <mark key="'" line="98" column="4" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-        <mark key="^" line="198" column="20" />
+      <file name="/code/sc/web/sc/coms/ext/sentry.py" timestamp="1554154473508">
+        <mark key="'" line="141" column="0" />
+        <mark key="[" line="96" column="51" />
+        <mark key="]" line="96" column="52" />
+        <mark key="." line="96" column="52" />
+        <mark key="^" line="96" column="52" />
       </file>
       <file name="/code/sc/web/sc/coms/ext/jsoncoders.py" timestamp="1553961671244">
         <mark key="'" line="70" column="23" />
@@ -147,11 +147,6 @@
       <file name="/classful.py" timestamp="1554143624536" />
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="/code/sc/web/instance/local/vmoptions" />
-      <jump line="10" column="26" filename="/code/sc/web/instance/local/vmoptions" />
-      <jump line="11" column="26" filename="/code/sc/web/instance/local/vmoptions" />
-      <jump line="15" column="4" filename="/code/sc/web/instance/local/vmoptions" />
-      <jump line="37" column="0" filename="/code/sc/web/instance/local/vmoptions" />
       <jump line="17" column="0" filename="/code/sc/web/instance/local/vmoptions" />
       <jump line="31" column="0" filename="/code/sc/web/instance/local/vmoptions" />
       <jump line="22" column="2" filename="/code/sc/web/instance/local/vmoptions" />
@@ -247,42 +242,45 @@
       <jump line="268" column="6" filename="/code/sc/web/cli/ones.py" />
       <jump line="298" column="19" filename="/code/sc/web/cli/ones.py" />
       <jump line="211" column="9" filename="/code/sc/web/sc/coms/testing/utils.py" />
+      <jump line="205" column="0" filename="/code/sc/web/sc/coms/ext/sentry.py" />
+      <jump line="29" column="0" filename="/code/sc/web/sc/coms/ext/sentry.py" />
+      <jump line="191" column="4" filename="/code/sc/web/sc/coms/ext/sentry.py" />
+      <jump line="189" column="0" filename="/code/sc/web/sc/coms/ext/sentry.py" />
+      <jump line="141" column="0" filename="/code/sc/web/sc/coms/ext/sentry.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAjIHBsYXRzID0gUGxhdGZvcm0uc2VhcmNoKFBsYXRmb3JtLmtpbmQuaW5fKFsnZ29vZ2xlJywgJ2ZhY2Vib29rJ10pLCBmaWVsZHM9J2lkJykua2V5X2J5KCdpZCcpCiAgIwogICMgIyBBZGQgdG90YWxzIGZvciBraW5kcwogICMgaHlicmlkcyA9IFtMb2NhdGlvbi5scF90b3RhbChwaWQsIHAua2luZCkgZm9yIHBpZCwgcCBpbiBwbGF0cy5pdGVtcygpXQogICMgIyBBZGQgcmF0aW5ncyBmb3Iga2luZHMKICAjIGh5YnJpZHMgKz0gW0xvY2F0aW9uLmxwX3JhdGluZyhwaWQsIHAua2luZCkgZm9yIHBpZCwgcCBpbiBwbGF0cy5pdGVtcygpXQogICMKICAjIGxvY3MgPSAoTG9jYXRpb24uc2VhcmNoKGh5YnJpZHM9aHlicmlkcykKICAjICAgICAgICAgLmpvaW4oTG9jYXRpb24uZG9jKQogICMgICAgICAgICApCgogICMgZG9jcyA9IChDYW1wYWlnbi5zZWFyY2goKQogICMgICAgICAgICAuam9pbihDYW1wYWlnbi5wbGF0Zm9ybXMpCiAgIyAgICAgICAgICkK</text>
+        <text encoding="base64">ZGVmIGdldF9tc2dfZnJvbV9ldmVudChyZWNvcmQ6IExvZ1JlY29yZCk6CiAgIiIiIiIiCiAgcmV0ID0gZ2V0YXR0cihyZWNvcmQsICdtZXNzYWdlJywgTm9uZSkgb3IgcmVjb3JkLm1zZwogIHN0cnVjdCA9IEZhbHNlCiAgaWYgaXNpbnN0YW5jZShyZWNvcmQubXNnLCBkaWN0KSBhbmQgJ2V2ZW50JyBpbiByZWNvcmQubXNnOgogICAgc3RydWN0ID0gVHJ1ZQogICAgcmV0ID0gcmVjb3JkLm1zZ1snZXZlbnQnXQogICAgaWYgaXNpbnN0YW5jZShyZXQsIChkaWN0LCBsaXN0KSk6CiAgICAgIHJldCA9IGR1bXBzKHJldCkKICByZXR1cm4gcmV0LCBzdHJ1Y3QKCgpjbGFzcyBTZW50cnlGb3JtYXR0ZXIobG9nZ2luZy5Gb3JtYXR0ZXIpOgogICIiIiIiIgoKICBkZWYgZm9ybWF0KHNlbGYsIHJlY29yZDogTG9nUmVjb3JkKToKICAgICIiIiIiIgogICAgc3VwZXIoKS5mb3JtYXQocmVjb3JkKQogICAgaWYgaXNpbnN0YW5jZShyZWNvcmQubXNnLCBkaWN0KSBhbmQgJ2V2ZW50JyBpbiByZWNvcmQubXNnOgogICAgICBtc2csIHN0cnVjdCA9IGdldF9tc2dfZnJvbV9ldmVudChyZWNvcmQpCiAgICAgIHJlY29yZC5tc2cgPSBtc2cKICAgICAgaWYgc3RydWN0IGFuZCByZWNvcmQuZXhjX2luZm8gb3IgcmVjb3JkLnN0YWNrX2luZm86CiAgICAgICAgcmVjb3JkLmV4Y19pbmZvID0gcmVjb3JkLnN0YWNrX2luZm8gPSBOb25lCiAgICByZXR1cm4gcmVjb3JkLm1zZwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgIyBwcmludChhbC5uYW1lLCBhbC5nb29nbGVfY291bnQsIGFsLmdvb2dsZV9hdmcpCg==</text>
+        <text encoding="base64">ICAjIHBsYXRzID0gUGxhdGZvcm0uc2VhcmNoKFBsYXRmb3JtLmtpbmQuaW5fKFsnZ29vZ2xlJywgJ2ZhY2Vib29rJ10pLCBmaWVsZHM9J2lkJykua2V5X2J5KCdpZCcpCiAgIwogICMgIyBBZGQgdG90YWxzIGZvciBraW5kcwogICMgaHlicmlkcyA9IFtMb2NhdGlvbi5scF90b3RhbChwaWQsIHAua2luZCkgZm9yIHBpZCwgcCBpbiBwbGF0cy5pdGVtcygpXQogICMgIyBBZGQgcmF0aW5ncyBmb3Iga2luZHMKICAjIGh5YnJpZHMgKz0gW0xvY2F0aW9uLmxwX3JhdGluZyhwaWQsIHAua2luZCkgZm9yIHBpZCwgcCBpbiBwbGF0cy5pdGVtcygpXQogICMKICAjIGxvY3MgPSAoTG9jYXRpb24uc2VhcmNoKGh5YnJpZHM9aHlicmlkcykKICAjICAgICAgICAgLmpvaW4oTG9jYXRpb24uZG9jKQogICMgICAgICAgICApCgogICMgZG9jcyA9IChDYW1wYWlnbi5zZWFyY2goKQogICMgICAgICAgICAuam9pbihDYW1wYWlnbi5wbGF0Zm9ybXMpCiAgIyAgICAgICAgICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgY3N2cy53cml0ZV9jc3YocmV0KQo=</text>
+        <text encoding="base64">CiAgIyBwcmludChhbC5uYW1lLCBhbC5nb29nbGVfY291bnQsIGFsLmdvb2dsZV9hdmcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcmludCgnbGVuJywgbGVuKGFscykpCg==</text>
+        <text encoding="base64">CiAgY3N2cy53cml0ZV9jc3YocmV0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgcHJpbnQoZG9jc1swXSkKICBwcmludChkb2NzWzFdKQo=</text>
+        <text encoding="base64">ICBwcmludCgnbGVuJywgbGVuKGFscykpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgcHJpbnQoZG9jc1swXSkKICBwcmludChkb2NzWzFdKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcmludChsZW4oYXNzKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhc3MgPSB7ZC5kb2NfaWQgZm9yIGQgaW4gZG9jc30K</text>
+        <text encoding="base64">ICBwcmludChsZW4oYXNzKSkK</text>
       </register>
-      <register name="9" type="4">
-        <text>dict(
-      
-    )</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBhc3MgPSB7ZC5kb2NfaWQgZm9yIGQgaW4gZG9jc30K</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>get_msg_from_event(record)</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
