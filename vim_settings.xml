@@ -17,19 +17,19 @@
         <mark key="^" line="42" column="3" />
         <mark key="." line="42" column="3" />
       </file>
-      <file name="/code/sc/web/cli/ones.py" timestamp="1554149640421">
-        <mark key="'" line="270" column="6" />
-        <mark key="[" line="314" column="2" />
-        <mark key="]" line="315" column="17" />
-        <mark key="." line="315" column="17" />
-        <mark key="^" line="315" column="17" />
+      <file name="/code/sc/web/cli/ones.py" timestamp="1554151342034">
+        <mark key="'" line="298" column="19" />
+        <mark key="[" line="286" column="0" />
+        <mark key="]" line="286" column="0" />
+        <mark key="^" line="347" column="35" />
+        <mark key="." line="286" column="0" />
       </file>
-      <file name="/code/sc/web/sc/coms/ext/logs.py" timestamp="1554147303434">
+      <file name="/code/sc/web/sc/coms/ext/logs.py" timestamp="1554151421158">
         <mark key="'" line="147" column="2" />
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
-        <mark key="^" line="65" column="24" />
+        <mark key="[" line="94" column="16" />
+        <mark key="]" line="94" column="18" />
+        <mark key="." line="94" column="18" />
+        <mark key="^" line="94" column="18" />
       </file>
       <file name="/code/sc/web/sc/app/locations/restful.py" timestamp="1554148315766" />
       <file name="/scratch" timestamp="1553958806867">
@@ -114,6 +114,7 @@
         <mark key="^" line="155" column="77" />
       </file>
       <file name="/code/sc/web/sc/core/accbinds.py" timestamp="1554145594269" />
+      <file name="/code/sc/web/sc/app/dashboard/dash.py" timestamp="1554150009957" />
       <file name="/code/sc/web/instance/local/vmoptions" timestamp="1553860887423">
         <mark key="'" line="25" column="32" />
         <mark key="[" line="22" column="0" />
@@ -121,8 +122,8 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/code/sc/web/sc/coms/testing/utils.py" timestamp="1554147643612">
-        <mark key="'" line="193" column="27" />
+      <file name="/code/sc/web/sc/coms/testing/utils.py" timestamp="1554151462209">
+        <mark key="'" line="211" column="9" />
         <mark key="[" line="235" column="29" />
         <mark key="]" line="235" column="28" />
         <mark key="^" line="235" column="28" />
@@ -146,8 +147,6 @@
       <file name="/classful.py" timestamp="1554143624536" />
     </filemarks>
     <jumps>
-      <jump line="32" column="4" filename="/code/sc/web/instance/local/vmoptions" />
-      <jump line="6" column="4" filename="/code/sc/web/instance/local/vmoptions" />
       <jump line="20" column="0" filename="/code/sc/web/instance/local/vmoptions" />
       <jump line="10" column="26" filename="/code/sc/web/instance/local/vmoptions" />
       <jump line="11" column="26" filename="/code/sc/web/instance/local/vmoptions" />
@@ -246,40 +245,44 @@
       <jump line="0" column="0" filename="/code/sc/web/instance/local/notes.txt" />
       <jump line="193" column="27" filename="/code/sc/web/sc/coms/testing/utils.py" />
       <jump line="268" column="6" filename="/code/sc/web/cli/ones.py" />
+      <jump line="298" column="19" filename="/code/sc/web/cli/ones.py" />
+      <jump line="211" column="9" filename="/code/sc/web/sc/coms/testing/utils.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcmludCgpCg==</text>
+        <text encoding="base64">ICAjIHBsYXRzID0gUGxhdGZvcm0uc2VhcmNoKFBsYXRmb3JtLmtpbmQuaW5fKFsnZ29vZ2xlJywgJ2ZhY2Vib29rJ10pLCBmaWVsZHM9J2lkJykua2V5X2J5KCdpZCcpCiAgIwogICMgIyBBZGQgdG90YWxzIGZvciBraW5kcwogICMgaHlicmlkcyA9IFtMb2NhdGlvbi5scF90b3RhbChwaWQsIHAua2luZCkgZm9yIHBpZCwgcCBpbiBwbGF0cy5pdGVtcygpXQogICMgIyBBZGQgcmF0aW5ncyBmb3Iga2luZHMKICAjIGh5YnJpZHMgKz0gW0xvY2F0aW9uLmxwX3JhdGluZyhwaWQsIHAua2luZCkgZm9yIHBpZCwgcCBpbiBwbGF0cy5pdGVtcygpXQogICMKICAjIGxvY3MgPSAoTG9jYXRpb24uc2VhcmNoKGh5YnJpZHM9aHlicmlkcykKICAjICAgICAgICAgLmpvaW4oTG9jYXRpb24uZG9jKQogICMgICAgICAgICApCgogICMgZG9jcyA9IChDYW1wYWlnbi5zZWFyY2goKQogICMgICAgICAgICAuam9pbihDYW1wYWlnbi5wbGF0Zm9ybXMpCiAgIyAgICAgICAgICkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgLmZpbHRlcigpCg==</text>
+        <text encoding="base64">CiAgIyBwcmludChhbC5uYW1lLCBhbC5nb29nbGVfY291bnQsIGFsLmdvb2dsZV9hdmcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAuZmlsdGVyKCkK</text>
+        <text encoding="base64">CiAgY3N2cy53cml0ZV9jc3YocmV0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFsKQo=</text>
+        <text encoding="base64">ICBwcmludCgnbGVuJywgbGVuKGFscykpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAud2l0aF9lbnRpdGllcwo=</text>
+        <text encoding="base64">CiAgcHJpbnQoZG9jc1swXSkKICBwcmludChkb2NzWzFdKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZ1bmMuc3VtKGZ1bmMuSUYoUmV2aWV3Lm9yaWdpbiwgMSwgMCkpLmxhYmVsKCdyZXZpZXdfY291bnQnKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5maWx0ZXIoKQo=</text>
+        <text encoding="base64">ICBwcmludChsZW4oYXNzKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmaWVsZHMgPSAnbmFtZSxmb3JtYXR0ZWQsaXNfbGVnaXQsb2lkJwo=</text>
+        <text encoding="base64">ICBhc3MgPSB7ZC5kb2NfaWQgZm9yIGQgaW4gZG9jc30K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBoeWJyaWRzID0gW0xvY2F0aW9uLmludl9jb3VudCwgTG9jYXRpb24uc3BsaXRfY291bnQsIExvY2F0aW9uLnJldl9jb3VudCwgTG9jYXRpb24uYXZnX3JhdGluZywgTG9jYXRpb24uZG9jX25hbWVdCg==</text>
+      <register name="9" type="4">
+        <text>dict(
+      
+    )</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>'name'</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
