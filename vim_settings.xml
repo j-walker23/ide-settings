@@ -3,16 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/structlog/stdlib.py" timestamp="1554159442608">
+      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/structlog/stdlib.py" timestamp="1554205979562">
+        <mark key="'" line="346" column="33" />
         <mark key="[" line="456" column="36" />
         <mark key="]" line="458" column="33" />
         <mark key="." line="458" column="33" />
         <mark key="^" line="458" column="33" />
       </file>
-      <file name="/Python Console" timestamp="1554161117498">
+      <file name="/Python Console" timestamp="1554206564207">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1554157811845">
+      <file name="/fragment.py" timestamp="1554206667225">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code/sc/web/sc/coms/ext/securty.py" timestamp="1554143746540">
@@ -29,12 +30,12 @@
         <mark key="^" line="347" column="35" />
         <mark key="." line="286" column="0" />
       </file>
-      <file name="/code/sc/web/sc/coms/ext/logs.py" timestamp="1554161779029">
-        <mark key="'" line="115" column="0" />
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="148" column="16" />
-        <mark key="." line="148" column="16" />
-        <mark key="^" line="148" column="16" />
+      <file name="/code/sc/web/sc/coms/ext/logs.py" timestamp="1554206237172">
+        <mark key="'" line="117" column="0" />
+        <mark key="[" line="69" column="46" />
+        <mark key="]" line="70" column="33" />
+        <mark key="." line="70" column="33" />
+        <mark key="^" line="70" column="33" />
       </file>
       <file name="/scratch" timestamp="1553958806867">
         <mark key="[" line="0" column="0" />
@@ -62,6 +63,9 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
         <mark key="^" line="24" column="14" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/structlog/_loggers.py" timestamp="1554206046391">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/sentry_sdk/integrations/logging.py" timestamp="1554161595659">
         <mark key="'" line="153" column="17" />
@@ -95,6 +99,9 @@
         <mark key="]" line="55" column="45" />
         <mark key="." line="55" column="45" />
         <mark key="^" line="55" column="45" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/structlog/processors.py" timestamp="1554206009658">
+        <mark key="'" line="194" column="8" />
       </file>
       <file name="/code/sc/web/sc/mods/web/rest/accounts_view.py" timestamp="1554128610101">
         <mark key="'" line="89" column="20" />
@@ -130,12 +137,12 @@
         <mark key="." line="294" column="42" />
         <mark key="^" line="294" column="42" />
       </file>
-      <file name="/code/sc/web/sc/coms/ext/logsrender.py" timestamp="1554159493582">
-        <mark key="'" line="61" column="8" />
-        <mark key="[" line="22" column="19" />
-        <mark key="]" line="22" column="35" />
-        <mark key="^" line="22" column="35" />
-        <mark key="." line="22" column="35" />
+      <file name="/code/sc/web/sc/coms/ext/logsrender.py" timestamp="1554206563596">
+        <mark key="'" line="73" column="8" />
+        <mark key="[" line="29" column="28" />
+        <mark key="]" line="29" column="44" />
+        <mark key="^" line="29" column="44" />
+        <mark key="." line="29" column="44" />
       </file>
       <file name="/code/sc/web/sc/coms/ext/sentry.py" timestamp="1554161116503">
         <mark key="'" line="79" column="32" />
@@ -153,9 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="48" filename="/code/sc/web/sc/coms/ext/sentry.py" />
-      <jump line="96" column="0" filename="/code/sc/web/sc/coms/ext/sentry.py" />
-      <jump line="115" column="0" filename="/code/sc/web/sc/coms/ext/sentry.py" />
       <jump line="31" column="0" filename="/code/sc/web/sc/coms/ext/sentry.py" />
       <jump line="31" column="6" filename="/code/sc/web/sc/mods/web/rest/accounts_view.py" />
       <jump line="0" column="0" filename="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/sentry_sdk/integrations/logging.py" />
@@ -253,40 +257,43 @@
       <jump line="103" column="12" filename="/code/sc/web/sc/coms/ext/logs.py" />
       <jump line="115" column="0" filename="/code/sc/web/sc/coms/ext/logs.py" />
       <jump line="153" column="17" filename="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/sentry_sdk/integrations/logging.py" />
+      <jump line="346" column="33" filename="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/structlog/stdlib.py" />
+      <jump line="194" column="8" filename="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/structlog/processors.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/structlog/_loggers.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICBpZiAK</text>
+        <text encoding="base64">ICBzZXRfcmVjb3JkX2ZhY3RvcnkoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAjIGZvcm1hdHRlciA9IHN0ZGxpYi5Qcm9jZXNzb3JGb3JtYXR0ZXIoCg==</text>
+        <text encoding="base64">ICAgIHJlY29yZCA9IG9sZF9mYWN0b3J5KCphcmdzLCAqKmt3YXJncykKICAgIHJlY29yZC5sb2dpZCA9IGxvZ19pZC5maW5kKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgVGhlIGFuZCBjbGF1c2Ugc2F2ZXMgdXMgY2hlY2tpbmcgZm9yIFBZMyBpbiB0aGUgZm9ybWF0dGVyLgo=</text>
+        <text encoding="base64">ICBpZiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZyb20gLmxvZ3NyZW5kZXIgaW1wb3J0IExvY2FsUmVuZGVyZXIK</text>
+        <text encoding="base64">ICAjIGZvcm1hdHRlciA9IHN0ZGxpYi5Qcm9jZXNzb3JGb3JtYXR0ZXIoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgRm9ybWF0dGVyKHN0ZGxpYi5Qcm9jZXNzb3JGb3JtYXR0ZXIpOgogICIiIiIiIgoKICBkZWYgX19pbml0X18oc2VsZiwgKmFyZ3MsICoqa3dhcmdzKToKICAgIHN1cGVyKCkuX19pbml0X18oKmFyZ3MsICoqa3dhcmdzKQoKICBkZWYgZm9ybWF0KHNlbGYsIHJlY29yZCk6CiAgICAiIiIiIiIKICAgIHMgPSBzdXBlcigpLmZvcm1hdChyZWNvcmQpCiAgICByZWNvcmQuZXhjX3RleHQgPSBOb25lCiAgICByZWNvcmQuZXhjX2luZm8gPSBOb25lCiAgICByZXR1cm4gcwo=</text>
+        <text encoding="base64">ICAgICMgVGhlIGFuZCBjbGF1c2Ugc2F2ZXMgdXMgY2hlY2tpbmcgZm9yIFBZMyBpbiB0aGUgZm9ybWF0dGVyLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKCkuZm9ybWF0KHJlY29yZCkK</text>
+        <text encoding="base64">ICAgIGZyb20gLmxvZ3NyZW5kZXIgaW1wb3J0IExvY2FsUmVuZGVyZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMga2VlcF9leGNfaW5mbz1UcnVlLAogICAgIyBrZWVwX3N0YWNrX2luZm89VHJ1ZSwK</text>
+        <text encoding="base64">Y2xhc3MgRm9ybWF0dGVyKHN0ZGxpYi5Qcm9jZXNzb3JGb3JtYXR0ZXIpOgogICIiIiIiIgoKICBkZWYgX19pbml0X18oc2VsZiwgKmFyZ3MsICoqa3dhcmdzKToKICAgIHN1cGVyKCkuX19pbml0X18oKmFyZ3MsICoqa3dhcmdzKQoKICBkZWYgZm9ybWF0KHNlbGYsIHJlY29yZCk6CiAgICAiIiIiIiIKICAgIHMgPSBzdXBlcigpLmZvcm1hdChyZWNvcmQpCiAgICByZWNvcmQuZXhjX3RleHQgPSBOb25lCiAgICByZWNvcmQuZXhjX2luZm8gPSBOb25lCiAgICByZXR1cm4gcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVjb3JkLmV4Y190ZXh0ID0gTm9uZQogICAgICAgICAgICByZWNvcmQuZXhjX2luZm8gPSBOb25lCg==</text>
+        <text encoding="base64">ICAgIHN1cGVyKCkuZm9ybWF0KHJlY29yZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVjb3JkKQo=</text>
+        <text encoding="base64">ICAgICMga2VlcF9leGNfaW5mbz1UcnVlLAogICAgIyBrZWVwX3N0YWNrX2luZm89VHJ1ZSwK</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>stack</text>
+        <text>''</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
