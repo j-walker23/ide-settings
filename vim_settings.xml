@@ -10,12 +10,12 @@
         <mark key="." line="458" column="33" />
         <mark key="^" line="458" column="33" />
       </file>
-      <file name="/code/sc/web/sc/utils.py" timestamp="1554225068831">
+      <file name="/code/sc/web/sc/utils.py" timestamp="1554226213269">
         <mark key="'" line="330" column="2" />
-        <mark key="[" line="540" column="18" />
-        <mark key="]" line="544" column="4" />
-        <mark key="^" line="544" column="4" />
-        <mark key="." line="544" column="4" />
+        <mark key="[" line="547" column="31" />
+        <mark key="]" line="547" column="37" />
+        <mark key="^" line="547" column="37" />
+        <mark key="." line="547" column="37" />
       </file>
       <file name="/Python Console" timestamp="1554206564207">
         <mark key="[" line="0" column="0" />
@@ -160,12 +160,12 @@
         <mark key="^" line="29" column="44" />
         <mark key="." line="29" column="44" />
       </file>
-      <file name="/code/sc/web/sc/coms/ext/sentry.py" timestamp="1554225013482">
-        <mark key="'" line="199" column="15" />
+      <file name="/code/sc/web/sc/coms/ext/sentry.py" timestamp="1554226361522">
+        <mark key="'" line="201" column="15" />
         <mark key="[" line="107" column="42" />
-        <mark key="]" line="108" column="1" />
-        <mark key="." line="108" column="1" />
-        <mark key="^" line="108" column="1" />
+        <mark key="]" line="108" column="23" />
+        <mark key="." line="108" column="23" />
+        <mark key="^" line="108" column="23" />
       </file>
       <file name="/code/sc/web/sc/coms/ext/jsoncoders.py" timestamp="1553961671244">
         <mark key="'" line="70" column="23" />
@@ -279,37 +279,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgZXZbJ2RhdGEnXS51cGRhdGUoe2s6IHYgZm9yIGssIHYgaW4gZWQuaXRlbXMoKSBpZiB2IGFuZCB2IGlzIG5vdCBOb25lIGFuZCB2ICE9ICcnfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIHJlY29yZC5sZXZlbG5hbWUgIT0gJ0VSUk9SJzoKICAgICAgZXZbJ2RhdGEnXS51cGRhdGUoY29vbD0nYml0Y2gnLCBvbmU9MikKICAgICAgcHJpbnQocmVjb3JkKQo=</text>
+        <text encoding="base64">ICBpZiB2YWw6CiAgICByZXR1cm4gRmFsc2UKICBlbHNlOgogICAgcmV0dXJuIFRydWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAjIGRhdGEgPSBjcnVtYi5nZXQoJ2RhdGEnKSBvciB7fQogICMgaWYgbm90IGRhdGEuZ2V0KCdzdGFja19pbmZvJyk6CiAgIyAgIGRhdGEucG9wKCdzdGFja19pbmZvJywgTm9uZSkKICAjIGV4dHJhcyA9IGRhdGEuZ2V0KCdleHRyYScpCiAgIyBpZiBleHRyYXM6CiAgIyAgIGVkID0gZXh0cmFzLnBvcCgnZWQnLCBOb25lKQogICMgICBpZiBlZDoKICAjICAgICBlZC5wb3AoJ3Rhc2snLCBOb25lKQogICMgICAgIGVkLnBvcCgndGlkJywgTm9uZSkKICAjICAgICBpZiBlZDoKICAjICAgICAgIGV4dHJhc1snZWQnXSA9IGVkCiAgIyBpZiBub3QgZXh0cmFzOgogICMgICBkYXRhLnBvcCgnZXh0cmEnLCBOb25lKQogICMgY3J1bWIudXBkYXRlKGRhdGE9ZGF0YSkKICAjIHByaW50KCcjJyAqIDIwLCByZXByKGNydW1iKSkKICAjIHByaW50KHJlcHIoaGludCkpCgo=</text>
+        <text encoding="base64">ICAgICAgcGFzcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UocmVjb3JkLm1zZywgZGljdCkgYW5kICdldmVudCcgaW4gcmVjb3JkLm1zZzoK</text>
+        <text encoding="base64">ICAgIGlmIHJlY29yZC5sZXZlbG5hbWUgIT0gJ0VSUk9SJzoKICAgICAgZXZbJ2RhdGEnXS51cGRhdGUoY29vbD0nYml0Y2gnLCBvbmU9MikKICAgICAgcHJpbnQocmVjb3JkKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIyBtc2csIHN0cnVjdCA9Cg==</text>
+        <text encoding="base64">ICAjIGRhdGEgPSBjcnVtYi5nZXQoJ2RhdGEnKSBvciB7fQogICMgaWYgbm90IGRhdGEuZ2V0KCdzdGFja19pbmZvJyk6CiAgIyAgIGRhdGEucG9wKCdzdGFja19pbmZvJywgTm9uZSkKICAjIGV4dHJhcyA9IGRhdGEuZ2V0KCdleHRyYScpCiAgIyBpZiBleHRyYXM6CiAgIyAgIGVkID0gZXh0cmFzLnBvcCgnZWQnLCBOb25lKQogICMgICBpZiBlZDoKICAjICAgICBlZC5wb3AoJ3Rhc2snLCBOb25lKQogICMgICAgIGVkLnBvcCgndGlkJywgTm9uZSkKICAjICAgICBpZiBlZDoKICAjICAgICAgIGV4dHJhc1snZWQnXSA9IGVkCiAgIyBpZiBub3QgZXh0cmFzOgogICMgICBkYXRhLnBvcCgnZXh0cmEnLCBOb25lKQogICMgY3J1bWIudXBkYXRlKGRhdGE9ZGF0YSkKICAjIHByaW50KCcjJyAqIDIwLCByZXByKGNydW1iKSkKICAjIHByaW50KHJlcHIoaGludCkpCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIyBpZiBzdHJ1Y3QgYW5kIHJlY29yZC5leGNfaW5mbyBvciByZWNvcmQuc3RhY2tfaW5mbzoKICAgICAgIyAgIHJlY29yZC5leGNfaW5mbyA9IHJlY29yZC5leGNfdGV4dCA9IHJlY29yZC5zdGFja19pbmZvID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UocmVjb3JkLm1zZywgZGljdCkgYW5kICdldmVudCcgaW4gcmVjb3JkLm1zZzoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0cnVjdCA9IFRydWUK</text>
+        <text encoding="base64">ICAgICAgIyBtc2csIHN0cnVjdCA9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzdHJ1Y3QgPSBGYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgIyBpZiBzdHJ1Y3QgYW5kIHJlY29yZC5leGNfaW5mbyBvciByZWNvcmQuc3RhY2tfaW5mbzoKICAgICAgIyAgIHJlY29yZC5leGNfaW5mbyA9IHJlY29yZC5leGNfdGV4dCA9IHJlY29yZC5zdGFja19pbmZvID0gTm9uZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzZXRfcmVjb3JkX2ZhY3RvcnkoKQo=</text>
+        <text encoding="base64">ICAgIHN0cnVjdCA9IFRydWUK</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>dictset(ed) - dictset(tags)</text>
+        <text>bool</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
