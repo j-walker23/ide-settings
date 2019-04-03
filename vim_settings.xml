@@ -208,8 +208,12 @@
       <file name="/code/sc/web/static/web/views/dashboard/dashboard.ts" timestamp="1554243097881">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/code/sc/web/sc/coms/ext/sentry.py" timestamp="1554305897875">
+      <file name="/code/sc/web/sc/coms/ext/sentry.py" timestamp="1554319422760">
         <mark key="'" line="77" column="0" />
+        <mark key="[" line="149" column="33" />
+        <mark key="]" line="150" column="1" />
+        <mark key="^" line="150" column="1" />
+        <mark key="." line="150" column="1" />
       </file>
       <file name="/code/sc/web/sc/coms/ext/jsoncoders.py" timestamp="1553961671244">
         <mark key="'" line="70" column="23" />
@@ -322,13 +326,13 @@
       <jump line="77" column="0" filename="/code/sc/web/sc/coms/ext/sentry.py" />
     </jumps>
     <registers>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICBmaW5nZXJwcmludCArPSBsb2dfZmluZ2Vycwo=</text>
+      </register>
+      <register name="2" type="4">
         <text>select *
 from cpt
 ;</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -346,10 +350,10 @@ from cpt
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmcm9tIC52aWV3cyBpbXBvcnQgYnAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmcm9tIC4uLmNvbXMuZXh0IGltcG9ydCBzaW8sIGNlbGVyeSwgb2F1dGgyLCBjbGFzc2Z1bAo=</text>
+        <text encoding="base64">ICBmcm9tIC52aWV3cyBpbXBvcnQgYnAK</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
