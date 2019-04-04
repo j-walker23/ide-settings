@@ -38,6 +38,12 @@
         <mark key="." line="67" column="11" />
         <mark key="^" line="67" column="11" />
       </file>
+      <file name="/code/sc/web/static/common/common.conf.ts" timestamp="1554392972274">
+        <mark key="[" line="28" column="12" />
+        <mark key="]" line="29" column="13" />
+        <mark key="." line="29" column="13" />
+        <mark key="^" line="29" column="13" />
+      </file>
       <file name="/code/sc/web/sc/mods/web/rest/accounts/platforms_view.py" timestamp="1554245231609">
         <mark key="[" line="109" column="39" />
         <mark key="]" line="109" column="50" />
@@ -148,6 +154,12 @@
       <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/sentry_sdk/integrations/flask.py" timestamp="1554331697110">
         <mark key="'" line="158" column="15" />
       </file>
+      <file name="/code/sc/web/static/web/sentry.ts" timestamp="1554392977356">
+        <mark key="[" line="25" column="11" />
+        <mark key="]" line="25" column="11" />
+        <mark key="." line="25" column="11" />
+        <mark key="^" line="25" column="11" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.ts" timestamp="1553877108395">
         <mark key="'" line="54" column="28" />
         <mark key="[" line="55" column="37" />
@@ -213,6 +225,9 @@
         <mark key="." line="155" column="0" />
         <mark key="^" line="155" column="77" />
       </file>
+      <file name="/code/sc/web/node_modules/@sentry/types/dist/options.d.ts" timestamp="1554392514835">
+        <mark key="'" line="76" column="7" />
+      </file>
       <file name="/code/sc/web/instance/local/vmoptions" timestamp="1553860887423">
         <mark key="'" line="25" column="32" />
         <mark key="[" line="22" column="0" />
@@ -262,7 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/code/sc/web/instance/local/notes.txt" />
       <jump line="193" column="27" filename="/code/sc/web/sc/coms/testing/utils.py" />
       <jump line="268" column="6" filename="/code/sc/web/cli/ones.py" />
       <jump line="298" column="19" filename="/code/sc/web/cli/ones.py" />
@@ -362,40 +376,41 @@
       <jump line="67" column="16" filename="/code/sc/web/sc/mods/web/rest/__init__.py" />
       <jump line="128" column="2" filename="/code/sc/web/sc/coms/ext/sio.py" />
       <jump line="23" column="25" filename="/code/sc/web/sc/coms/ext/sio.py" />
+      <jump line="76" column="7" filename="/code/sc/web/node_modules/@sentry/types/dist/options.d.ts" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICBfbG9nID0gZ2V0X2xvZ2dlcignc2MuY29tcy5leHQuc29ja2V0cycpCg==</text>
+        <text encoding="base64">ICAgIGFjY291bnRfbmFtZTogZGF0YS5hY2NvdW50Lm5hbWUsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJvbGU6IGFwcC51c2VyLnJvbGUuZGVzY3JpcHRpb24sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIGdldF91c2VyKCkK</text>
+        <text encoding="base64">ICAgIGFjYzogYXBwLmFjY291bnQubmFtZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGxvZy5lcnJvcihmJ0ludmFsaWQgUGVybXM6IHtyZXF1ZXN0LmVuZHBvaW50fScpCg==</text>
+        <text encoding="base64">ICAgIGFjY291bnRpZDogYXBwLmFjY291bnQuaWQsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">d2Fybl9jb2RlID0gNDA5Cg==</text>
+        <text encoding="base64">ICBtb2R1bGU6ICd3ZWInLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZy5leGNlcHRpb24oZSkK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFwcC5wcm9jZXNzX3Jlc3BvbnNlKFJlc3BvbnNlKCcnKSkKICAgICAgICAgIHJhaXNlCg==</text>
+        <text encoding="base64">aWYgKGFwcC5sb2NhbCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgpjbGFzcyBLbm93bkVycm9yKFdlYkVycm9yKToKICAiIiJBbHJlYWR5IGhhdmUgd2FybmluZyBjcmVhdGVkIiIiCgogIGRlZiBfX2luaXRfXyhzZWxmLCBtc2csICoqXyk6CiAgICBzdXBlcigpLl9faW5pdF9fKG1zZywgY29kZT1jb25zdC53YXJuX2NvZGUpCg==</text>
+        <text encoding="base64">ICBfbG9nID0gZ2V0X2xvZ2dlcignc2MuY29tcy5leHQuc29ja2V0cycpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcyA9IGR1bXBzKHBhcmFtcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
