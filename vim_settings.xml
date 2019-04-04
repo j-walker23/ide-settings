@@ -31,18 +31,19 @@
         <mark key="^" line="119" column="13" />
         <mark key="." line="119" column="0" />
       </file>
-      <file name="/code/sc/web/node_modules/raven-js/plugins/angular.js" timestamp="1554391585689" />
+      <file name="/code/sc/web/node_modules/raven-js/plugins/angular.js" timestamp="1554396127746" />
       <file name="/code/sc/web/Pipfile" timestamp="1554375495006">
         <mark key="[" line="67" column="11" />
         <mark key="]" line="67" column="11" />
         <mark key="." line="67" column="11" />
         <mark key="^" line="67" column="11" />
       </file>
-      <file name="/code/sc/web/static/common/common.conf.ts" timestamp="1554392972274">
-        <mark key="[" line="28" column="12" />
-        <mark key="]" line="29" column="13" />
-        <mark key="." line="29" column="13" />
-        <mark key="^" line="29" column="13" />
+      <file name="/code/sc/web/static/common/common.conf.ts" timestamp="1554396037502">
+        <mark key="'" line="198" column="0" />
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="0" />
+        <mark key="." line="155" column="0" />
+        <mark key="^" line="155" column="0" />
       </file>
       <file name="/code/sc/web/sc/mods/web/rest/accounts/platforms_view.py" timestamp="1554245231609">
         <mark key="[" line="109" column="39" />
@@ -87,6 +88,12 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
         <mark key="^" line="24" column="14" />
+      </file>
+      <file name="/code/sc/web/static/common/interceptors/resource-interceptor.ts" timestamp="1554395975870">
+        <mark key="'" line="14" column="44" />
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
       </file>
       <file name="/code/sc/web/sc/mods/offline/__init__.py" timestamp="1554326188068">
         <mark key="[" line="8" column="55" />
@@ -277,19 +284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="193" column="27" filename="/code/sc/web/sc/coms/testing/utils.py" />
-      <jump line="268" column="6" filename="/code/sc/web/cli/ones.py" />
-      <jump line="298" column="19" filename="/code/sc/web/cli/ones.py" />
-      <jump line="211" column="9" filename="/code/sc/web/sc/coms/testing/utils.py" />
-      <jump line="205" column="0" filename="/code/sc/web/sc/coms/ext/sentry.py" />
-      <jump line="29" column="0" filename="/code/sc/web/sc/coms/ext/sentry.py" />
-      <jump line="189" column="0" filename="/code/sc/web/sc/coms/ext/sentry.py" />
-      <jump line="141" column="0" filename="/code/sc/web/sc/coms/ext/sentry.py" />
-      <jump line="192" column="0" filename="/code/sc/web/sc/coms/testing/utils.py" />
-      <jump line="134" column="25" filename="/code/sc/web/sc/coms/ext/sentry.py" />
-      <jump line="123" column="11" filename="/code/sc/web/sc/coms/ext/sentry.py" />
-      <jump line="136" column="19" filename="/code/sc/web/sc/coms/ext/sentry.py" />
-      <jump line="175" column="11" filename="/code/sc/web/sc/coms/ext/sentry.py" />
       <jump line="179" column="24" filename="/code/sc/web/sc/coms/ext/sentry.py" />
       <jump line="59" column="31" filename="/code/sc/web/sc/coms/ext/logs.py" />
       <jump line="141" column="22" filename="/code/sc/web/sc/coms/ext/logs.py" />
@@ -377,40 +371,53 @@
       <jump line="128" column="2" filename="/code/sc/web/sc/coms/ext/sio.py" />
       <jump line="23" column="25" filename="/code/sc/web/sc/coms/ext/sio.py" />
       <jump line="76" column="7" filename="/code/sc/web/node_modules/@sentry/types/dist/options.d.ts" />
+      <jump line="198" column="0" filename="/code/sc/web/static/common/common.conf.ts" />
+      <jump line="12" column="13" filename="/code/sc/web/static/common/interceptors/resource-interceptor.ts" />
+      <jump line="20" column="2" filename="/code/sc/web/static/common/interceptors/resource-interceptor.ts" />
+      <jump line="32" column="40" filename="/code/sc/web/static/common/interceptors/resource-interceptor.ts" />
+      <jump line="63" column="13" filename="/code/sc/web/static/common/interceptors/resource-interceptor.ts" />
+      <jump line="78" column="35" filename="/code/sc/web/static/common/interceptors/resource-interceptor.ts" />
+      <jump line="80" column="35" filename="/code/sc/web/static/common/interceptors/resource-interceptor.ts" />
+      <jump line="40" column="51" filename="/code/sc/web/static/common/interceptors/resource-interceptor.ts" />
+      <jump line="92" column="79" filename="/code/sc/web/static/common/interceptors/resource-interceptor.ts" />
+      <jump line="0" column="48" filename="/code/sc/web/static/common/interceptors/resource-interceptor.ts" />
+      <jump line="122" column="35" filename="/code/sc/web/static/common/interceptors/resource-interceptor.ts" />
+      <jump line="95" column="32" filename="/code/sc/web/static/common/interceptors/resource-interceptor.ts" />
+      <jump line="14" column="44" filename="/code/sc/web/static/common/interceptors/resource-interceptor.ts" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFjY291bnRfbmFtZTogZGF0YS5hY2NvdW50Lm5hbWUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJvbGU6IGFwcC51c2VyLnJvbGUuZGVzY3JpcHRpb24sCg==</text>
+        <text encoding="base64">ICAgIHdpdGhTY29wZShzY29wZSA9PiB7CiAgICAgIHNjb3BlLnNldEV4dHJhcyh7IGNhdXNlIH0pCiAgICAgIGNhcHR1cmVFeGNlcHRpb24oZXhlYykKICAgIH0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFjYzogYXBwLmFjY291bnQubmFtZSwK</text>
+        <text encoding="base64">ICAgICAgICBjb25maWc6IHJlYXNvbi5jb25maWcsCiAgICAgICAgc3RhdHVzOiByZWFzb24uc3RhdHVzLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFjY291bnRpZDogYXBwLmFjY291bnQuaWQsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBtb2R1bGU6ICd3ZWInLAo=</text>
+        <text encoding="base64">RXhjZXB0aW9uSGFuZGxlci4kaW5qZWN0ID0gWyckd2luZG93J10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIC8vIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aWYgKGFwcC5sb2NhbCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBfbG9nID0gZ2V0X2xvZ2dlcignc2MuY29tcy5leHQuc29ja2V0cycpCg==</text>
+        <text encoding="base64">ICAgIGNhcHR1cmVFeGNlcHRpb24obmV3IEVycm9yKG1zZykpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICwK</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>new Error(msg)</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
