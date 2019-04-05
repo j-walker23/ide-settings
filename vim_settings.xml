@@ -24,11 +24,10 @@
         <mark key="^" line="111" column="28" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/code/sc/web/cli/ones.py" timestamp="1554496665253">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="50" column="81" />
+      <file name="/code/sc/web/cli/ones.py" timestamp="1554498750326">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="/code/sc/web/sc/coms/ext/logs.py" timestamp="1554376129811">
         <mark key="'" line="51" column="26" />
@@ -48,6 +47,12 @@
         <mark key="]" line="21" column="21" />
         <mark key="." line="21" column="21" />
         <mark key="^" line="21" column="21" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1554498039774">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="15" />
+        <mark key="^" line="2" column="15" />
+        <mark key="." line="2" column="15" />
       </file>
       <file name="/code/sc/web/static/common/components/http-error/http-error.ts" timestamp="1554421977356">
         <mark key="[" line="0" column="7" />
@@ -356,37 +361,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcmludCgnVHdpbGlvJywgbGVuKGZyb21fdHdpbGlvX3NpZHMpLCAnIyBJbiBTb2NpYWxDbGltYicsIGxlbihhY2NzX2FuZF9sb2NzX3NpZHMpKQo=</text>
+        <text encoding="base64">ICBwcmludChsZW4obG9jcykpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcmludChsb2NzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcmludChsZW4oYWNjcyksIGxlbihsb2NzKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcmludChzaWRzKQogIHByaW50KGxlbihzaWRzKSkK</text>
+        <text encoding="base64">ICBkaWZmID0gZnJvbV90d2lsaW9fc2lkcyAtIGFjY3NfYW5kX2xvY3Nfc2lkcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAjIGZyb21fdHdpbGlvX3NpZHMgPSB7cy5zaWQgZm9yIHMgaW4gdHdpbGlvX2NsaWVudCgpLm1lc3NhZ2luZy5zZXJ2aWNlcy5saXN0KCl9CiAgIyB3cml0ZV9sb2NhbF9qc29uKCdzaWRzJywgZnJvbV90d2lsaW9fc2lkcykKICAjIHR3aWxzID0gcmVhZF9sb2NhbF9qc29uKCdzaWRzJykKICAjIHByaW50KCdGcm9tIFR3aWxpbycsIGxlbih0d2lscykpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcmludChzaWRzWzBdLnNpZCkK</text>
+        <text encoding="base64">ICBwcmludCgnVHdpbGlvJywgbGVuKGZyb21fdHdpbGlvX3NpZHMpLCAnIyBJbiBTb2NpYWxDbGltYicsIGxlbihhY2NzX2FuZF9sb2NzX3NpZHMpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QGFwcF9jdHgoNjQ3KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIGFsaWduUHJlZml4ZXMoKSB7CiAgICAgIC8vIEB0cy1pZ25vcmUKICAgICAgbGV0IGxvbmdlc3QgPSBsb2dkb3duLl9pbnN0YW5jZXMuc29ydChmdW5jdGlvbihhLCBiKSB7CiAgICAgICAgcmV0dXJuIGIub3B0cy5wcmVmaXgubGVuZ3RoIC0gYS5vcHRzLnByZWZpeC5sZW5ndGgKICAgICAgfSlbMF0KCiAgICAgIC8vIEB0cy1pZ25vcmUKICAgICAgbG9nZG93bi5faW5zdGFuY2VzCiAgICAgICAgLmZvckVhY2goZnVuY3Rpb24oaW5zdGFuY2UpIHsKICAgICAgICAgIGxldCBwYWRkaW5nID0gbmV3IEFycmF5KE1hdGgubWF4KGxvbmdlc3Qub3B0cy5wcmVmaXgubGVuZ3RoIC0gaW5zdGFuY2Uub3B0cy5wcmVmaXgubGVuZ3RoICsgMSwgMCkpLmpvaW4oJyAnKQogICAgICAgICAgaW5zdGFuY2Uub3B0cy5wcmVmaXggPSBpbnN0YW5jZS5vcHRzLnByZWZpeCArIHBhZGRpbmcKICAgICAgICB9KQogICAgfQoK</text>
+        <text encoding="base64">ICBwcmludChsZW4oYWNjcyksIGxlbihsb2NzKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbGQubG9nKCdsb2cnKQogICAgICBsZC5kZWJ1ZygnZGVidWcnKQogICAgICBsZC5lcnJvcignZXJyb3InKQogICAgICBsZC5pbmZvKCdpbmZvJykKICAgICAgbGQud2Fybignd2FybicpCg==</text>
+        <text encoding="base64">ICBwcmludChzaWRzKQogIHByaW50KGxlbihzaWRzKSkK</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>from_twilio_sids</text>
+        <text>locs_diff</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
