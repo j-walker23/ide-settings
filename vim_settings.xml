@@ -24,7 +24,7 @@
         <mark key="^" line="111" column="28" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/code/sc/web/node_modules/@sentry/types/dist/severity.d.ts" timestamp="1554503093633" />
+      <file name="/code/sc/web/node_modules/@sentry/types/dist/severity.d.ts" timestamp="1554505652435" />
       <file name="/code/sc/web/cli/ones.py" timestamp="1554499667420">
         <mark key="[" line="63" column="13" />
         <mark key="]" line="63" column="39" />
@@ -112,12 +112,11 @@
         <mark key="." line="195" column="19" />
         <mark key="^" line="195" column="19" />
       </file>
-      <file name="/code/sc/web/static/web/sentry.ts" timestamp="1554505222434">
+      <file name="/code/sc/web/static/web/sentry.ts" timestamp="1554505857337">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="61" column="49" />
-        <mark key="]" line="62" column="13" />
-        <mark key="^" line="62" column="13" />
-        <mark key="." line="62" column="13" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.ts" timestamp="1553877108395">
         <mark key="'" line="54" column="28" />
@@ -386,37 +385,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRyeSB7fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICh0eXBlb2YgYXJnICE9PSAnb2JqZWN0JykgcmV0dXJuIHRydWUK</text>
+        <text encoding="base64">CiAgLy8gT25seSBvbmUgdGhhdCBpcyBtaXNzaW5nIHNpbmNlIHdhcm4gdnMgd2FybmluZwogIGlmICghKHNldmVyaXR5IGluIFNldmVyaXR5KSkKICAgIHNldmVyaXR5ID0gJ3dhcm5pbmcnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0eXBlb2YgCg==</text>
+        <text encoding="base64">ICAgIGlmICh0eXBlb2YgYXJnICE9PSAnb2JqZWN0JykgcmV0dXJuIHRydWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzaW86IGFueQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB0eXBlb2YgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBzaW86IGFueQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhKQo=</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhvcHRzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>level</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
