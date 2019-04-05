@@ -56,8 +56,8 @@
         <mark key="]" line="215" column="0" />
         <mark key="." line="215" column="0" />
       </file>
-      <file name="/code/sc/web/static/common/common.conf.ts" timestamp="1554492099837">
-        <mark key="'" line="349" column="36" />
+      <file name="/code/sc/web/static/common/common.conf.ts" timestamp="1554500838255">
+        <mark key="'" line="10" column="44" />
         <mark key="[" line="21" column="19" />
         <mark key="]" line="21" column="21" />
         <mark key="." line="21" column="21" />
@@ -114,6 +114,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="/code/sc/web/node_modules/logdown/index.d.ts" timestamp="1554502017684" />
       <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/sentry_sdk/integrations/logging.py" timestamp="1554329159793">
         <mark key="'" line="186" column="36" />
       </file>
@@ -167,12 +168,12 @@
       <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/sentry_sdk/integrations/flask.py" timestamp="1554331697110">
         <mark key="'" line="158" column="15" />
       </file>
-      <file name="/code/sc/web/static/web/sentry.ts" timestamp="1554397211467">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="15" column="10" />
-        <mark key="]" line="15" column="12" />
-        <mark key="." line="15" column="12" />
-        <mark key="^" line="15" column="12" />
+      <file name="/code/sc/web/static/web/sentry.ts" timestamp="1554501546527">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="30" column="22" />
+        <mark key="]" line="30" column="25" />
+        <mark key="." line="30" column="25" />
+        <mark key="^" line="30" column="25" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.ts" timestamp="1553877108395">
         <mark key="'" line="54" column="28" />
@@ -195,6 +196,13 @@
         <mark key="^" line="158" column="22" />
         <mark key="." line="158" column="22" />
       </file>
+      <file name="/code/sc/web/README.md" timestamp="1554501074543">
+        <mark key="'" line="108" column="0" />
+        <mark key="[" line="105" column="28" />
+        <mark key="]" line="106" column="24" />
+        <mark key="^" line="106" column="24" />
+        <mark key="." line="106" column="24" />
+      </file>
       <file name="/code/sc/web/sc/mods/web/rest/accounts_view.py" timestamp="1554405807304">
         <mark key="'" line="81" column="17" />
         <mark key="[" line="88" column="21" />
@@ -216,10 +224,11 @@
         <mark key="." line="155" column="0" />
         <mark key="^" line="155" column="77" />
       </file>
-      <file name="/code/sc/web/static/web/services/sockets.service.ts" timestamp="1554423887235">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="/code/sc/web/static/web/services/sockets.service.ts" timestamp="1554501148972">
+        <mark key="[" line="20" column="5" />
+        <mark key="]" line="20" column="9" />
+        <mark key="." line="20" column="9" />
+        <mark key="^" line="20" column="9" />
       </file>
       <file name="/code/sc/web/instance/local/vmoptions" timestamp="1553860887423">
         <mark key="'" line="25" column="32" />
@@ -270,13 +279,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="284" column="0" filename="/code/sc/web/sc/coms/testing/utils.py" />
-      <jump line="84" column="16" filename="/code/sc/web/sc/coms/ext/sentry.py" />
-      <jump line="191" column="15" filename="/code/sc/web/sc/coms/ext/sentry.py" />
-      <jump line="53" column="4" filename="/code/sc/web/sc/utils.py" />
-      <jump line="330" column="2" filename="/code/sc/web/sc/utils.py" />
-      <jump line="138" column="18" filename="/code/sc/web/sc/coms/ext/sentry.py" />
-      <jump line="158" column="0" filename="/code/sc/web/sc/coms/testing/utils.py" />
       <jump line="95" column="23" filename="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/sentry_sdk/integrations/logging.py" />
       <jump line="186" column="36" filename="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/sentry_sdk/integrations/logging.py" />
       <jump line="321" column="33" filename="/code/sc/web/sc/coms/testing/utils.py" />
@@ -370,6 +372,13 @@
       <jump line="566" column="6" filename="/code/sc/web/static/common/utils.ts" />
       <jump line="388" column="28" filename="/code/sc/web/static/common/components/search-bar/search-bar.ts" />
       <jump line="349" column="36" filename="/code/sc/web/static/common/common.conf.ts" />
+      <jump line="128" column="40" filename="/code/sc/web/static/common/common.conf.ts" />
+      <jump line="10" column="44" filename="/code/sc/web/static/common/common.conf.ts" />
+      <jump line="9" column="0" filename="/code/sc/web/README.md" />
+      <jump line="103" column="0" filename="/code/sc/web/README.md" />
+      <jump line="28" column="52" filename="/code/sc/web/static/web/sentry.ts" />
+      <jump line="30" column="2" filename="/code/sc/web/static/web/sentry.ts" />
+      <jump line="0" column="0" filename="/code/sc/web/static/web/sentry.ts" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -403,7 +412,7 @@
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>a.name</text>
+        <text>log</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
