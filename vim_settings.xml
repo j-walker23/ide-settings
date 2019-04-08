@@ -159,12 +159,12 @@
         <mark key="." line="49" column="45" />
         <mark key="^" line="49" column="45" />
       </file>
-      <file name="/code/sc/web/gce/startup-script.sh" timestamp="1554711215444">
+      <file name="/code/sc/web/gce/startup-script.sh" timestamp="1554715726608">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="46" column="8" />
-        <mark key="]" line="46" column="1" />
-        <mark key="^" line="46" column="1" />
-        <mark key="." line="46" column="1" />
+        <mark key="[" line="750" column="0" />
+        <mark key="]" line="750" column="0" />
+        <mark key="^" line="767" column="0" />
+        <mark key="." line="750" column="0" />
       </file>
       <file name="/code/sc/web/templates/web.html" timestamp="1554642311376">
         <mark key="[" line="36" column="0" />
@@ -426,8 +426,8 @@
       <file name="/code/sc/web/node_modules/@types/moment-timezone/node_modules/moment/package.json" timestamp="1554599577894">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/code/sc/web/gce/startup-script-back.sh" timestamp="1554711183505">
-        <mark key="'" line="287" column="2" />
+      <file name="/code/sc/web/gce/startup-script-back.sh" timestamp="1554715325323">
+        <mark key="'" line="249" column="9" />
         <mark key="[" line="279" column="14" />
         <mark key="]" line="279" column="15" />
         <mark key="." line="279" column="15" />
@@ -511,6 +511,13 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="61" column="30" />
       </file>
+      <file name="/code/sc/web/sc/coms/ext/classful.py" timestamp="1554713668713">
+        <mark key="'" line="121" column="9" />
+        <mark key="[" line="175" column="26" />
+        <mark key="]" line="175" column="76" />
+        <mark key="." line="175" column="76" />
+        <mark key="^" line="175" column="76" />
+      </file>
       <file name="/code/sc/web/static/common/components/saved-searches/saved-searched.ints.ts" timestamp="1554620587924">
         <mark key="'" line="20" column="2" />
         <mark key="[" line="1" column="9" />
@@ -579,10 +586,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="19" filename="/code/trash/sentry-javascript/packages/browser/src/integrations/breadcrumbs.ts" />
-      <jump line="131" column="21" filename="/code/sc/web/sc/coms/ext/logs.py" />
-      <jump line="80" column="10" filename="/code/sc/web/sc/coms/ext/logs.py" />
-      <jump line="0" column="0" filename="/code/sc/web/node_modules/@types/moment-timezone/node_modules/moment/package.json" />
       <jump line="28" column="1" filename="/code/sc/web/static/common/components/saved-searches/saved-searched.ints.ts" />
       <jump line="21" column="2" filename="/code/sc/web/static/common/components/saved-searches/saved-searched.ints.ts" />
       <jump line="60" column="4" filename="/code/sc/web/static/common/components/saved-searches/saved-searches.service.ts" />
@@ -679,34 +682,38 @@
       <jump line="829" column="0" filename="/code/sc/web/gce/startup-script.sh" />
       <jump line="287" column="2" filename="/code/sc/web/gce/startup-script-back.sh" />
       <jump line="24" column="0" filename="/code/sc/web/gce/startup-script.sh" />
+      <jump line="116" column="4" filename="/code/sc/web/sc/coms/ext/classful.py" />
+      <jump line="121" column="9" filename="/code/sc/web/sc/coms/ext/classful.py" />
+      <jump line="0" column="0" filename="/code/sc/web/gce/startup-script-back.sh" />
+      <jump line="249" column="9" filename="/code/sc/web/gce/startup-script-back.sh" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">CmNsYXNzIEZsdWVudFJlbmRlcmVyKG9iamVjdCk6CiAgIiIiIiIiCgogIGRlZiBfX2NhbGxfXyhzZWxmLCBfLCBfXywgZWQpOgogICAgIiIiIiIiCiAgICByb3cgPSBbZidhcHAuZGV2JywgaW50KHRpbWUudGltZSgpKSwgZWRdCgogICAgcmV0ID0gZHVtcHMoICAjIDJ4IGZhc3RlciB0aGFuIG5hdGl2ZQogICAgICByb3csCiAgICAgICMgbnVtYmVyX21vZGU9cmFwaWRqc29uLk5NX05BVElWRSwKICAgICAgZGVmYXVsdD1qc29uY29kZXJzLmhhbmRsZV9sb2dnaW5nCiAgICApCiAgICByZXR1cm4gcmV0CgoKY2xhc3MgU29ja2V0KFNvY2tldEhhbmRsZXIpOgogICIiIiIiIgoKICBkZWYgZW1pdChzZWxmLCByZWNvcmQpOgogICAgdHJ5OgogICAgICBzID0gc2VsZi5mb3JtYXQocmVjb3JkKQogICAgICBzZWxmLnNlbmQocyArICdcbicpCiAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICBzZWxmLmhhbmRsZUVycm9yKHJlY29yZCkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAjIHByb2Nlc3NvciA9IEZsdWVudFJlbmRlcmVyKCkK</text>
+        <text encoding="base64">I21rZGlyIC1wIC9ldGMvZ29vZ2xlLWZsdWVudGQvY29uZmlnLmQvCiNzdWRvIHJtIC9ldGMvZ29vZ2xlLWZsdWVudGQvY29uZmlnLmQvKgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bWtkaXIgLXAgL2V0Yy9nb29nbGUtZmx1ZW50ZC9jb25maWcuZC8Kc3VkbyBybSAvZXRjL2dvb2dsZS1mbHVlbnRkL2NvbmZpZy5kLyoK</text>
+        <text encoding="base64">CiNjYXQgPi9ldGMvZ29vZ2xlLWZsdWVudGQvY29uZmlnLmQvbmdpbnguY29uZiA8PCBFT0YKIzxzb3VyY2U+CiMgIEB0eXBlIHRhaWwKIyAgZm9ybWF0IG5vbmUKIyAgcGF0aCAvdmFyL2xvZy9uZ2lueC9hY2Nlc3MubG9nCiMgIHBvc19maWxlIC92YXIvbGliL2dvb2dsZS1mbHVlbnRkL3Bvcy9uZ2lueC1hY2Nlc3MucG9zCiMgIHJlYWRfZnJvbV9oZWFkIHRydWUKIyAgdGFnIG5naW54LWFjY2VzcwojPC9zb3VyY2U+CiMKIzxzb3VyY2U+CiMgIEB0eXBlIHRhaWwKIyAgZm9ybWF0IG5vbmUKIyAgcGF0aCAvdmFyL2xvZy9uZ2lueC9lcnJvci5sb2cKIyAgcG9zX2ZpbGUgL3Zhci9saWIvZ29vZ2xlLWZsdWVudGQvcG9zL25naW54LWVycm9yLnBvcwojICByZWFkX2Zyb21faGVhZCB0cnVlCiMgIHRhZyBuZ2lueC1lcnJvcgojPC9zb3VyY2U+CiNFT0YK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgU29ja2V0SGFuZGxlcignbG9jYWxob3N0JywgNTE3MCksCiAgICBTb2NrZXQoJy92YXIvcnVuL2ZsdWVudC9mbHVlbnQuc29jaycsIE5vbmUpLAo=</text>
+        <text encoding="base64">Cjxzb3VyY2U+CiAgQHR5cGUgdGFpbAoKICBmb3JtYXQgL14oPzxtZXNzYWdlPig/PHRpbWU+W14gXSpccypbXiBdKiBbXiBdKikgLio/W15JTkZPfEVSUk9SfFdBUk5JTkd8REVCVUd8Q1JJVElDQUxdKig/PHNldmVyaXR5PklORk98RVJST1J8V0FSTklOR3xERUJVR3xDUklUSUNBTCk/Lio/KSQvCgogIHBhdGggL3Zhci9sb2cvc3lzbG9nCiAgcG9zX2ZpbGUgL3Zhci9saWIvZ29vZ2xlLWZsdWVudGQvcG9zL3N5c2xvZy5wb3MKICByZWFkX2Zyb21faGVhZCB0cnVlCiAgdGFnIHN5c2xvZwoKCjwvc291cmNlPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcyA9IHNlbGYubWFrZVBpY2tsZShyZWNvcmQpCg==</text>
+        <text encoding="base64">ICAgIHRpbWVfZm9ybWF0ICIlYiAlZCAlSDolTTolUyIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwb3J0IDIwMDAxICAgIyBvcHRpb25hbC4gNTE3MCBieSBkZWZhdWx0Cg==</text>
+        <text encoding="base64">ICAgIGV4cHJlc3Npb24gL15cPCg/PHByaT5bMC05XSspXD4oPzx0aW1lPlteIF0qIHsxLDJ9W14gXSogW14gXSopICg/PGhvc3Q+W14gXSopICg/PGlkZW50PlthLXpBLVowLTlfXC9cLlwtXSopKD86XFsoPzxwaWQ+WzAtOV0rKVxdKT8oPzpbXlw6XSpcOik/ICooPzxhcHA+XHcrKSAqKD88bWVzc2FnZT4uKikkL2ltCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4cHJlc3Npb24gL14oPzxmaWVsZDE+XGQrKTooPzxmaWVsZDI+XHcrKSQvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAjIG9ubHkgYWNjZXB0IGNvbm5lY3Rpb25zIGZyb20gbG9jYWxob3N0IC0gdG8gb3BlbiB0aGlzIHVwLCBjaGFuZ2UgdG8gMC4wLjAuMAo=</text>
+        <text encoding="base64">ICAgIHRpbWVfZm9ybWF0ICVZLSVtLSVkICVIOiVNOiVTICV6CiAgICB0eXBlcyBpZDppbnRlZ2VyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRpbWVfa2V5IGxvZ3RpbWUK</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
