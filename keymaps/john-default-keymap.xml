@@ -114,6 +114,9 @@
     <keyboard-shortcut first-keystroke="meta alt up" />
     <keyboard-shortcut first-keystroke="shift meta k" />
   </action>
+  <action id="PublishGroup.Upload">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
