@@ -68,12 +68,12 @@
         <mark key="." line="49" column="45" />
         <mark key="^" line="49" column="45" />
       </file>
-      <file name="/code/sc/web/gce/startup-script.sh" timestamp="1554722884566">
+      <file name="/code/sc/web/gce/startup-script.sh" timestamp="1554726064495">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="752" column="35" />
-        <mark key="]" line="752" column="33" />
-        <mark key="." line="752" column="33" />
-        <mark key="^" line="752" column="33" />
+        <mark key="[" line="786" column="0" />
+        <mark key="]" line="786" column="0" />
+        <mark key="." line="786" column="0" />
+        <mark key="^" line="785" column="13" />
       </file>
       <file name="/code/sc/web/static/invite/invite.data.ts" timestamp="1554640465700">
         <mark key="'" line="19" column="25" />
@@ -198,6 +198,7 @@
       <file name="/code/sc/web/sc/mods/web/rest/accounts/gmb_questions_view.py" timestamp="1554626707474">
         <mark key="'" line="12" column="0" />
       </file>
+      <file name="/logs.py" timestamp="1554725862934" />
       <file name="/code/sc/web/gce/travis_build.py" timestamp="1554642488858">
         <mark key="'" line="94" column="0" />
         <mark key="[" line="78" column="23" />
@@ -242,7 +243,7 @@
         <mark key="^" line="27" column="14" />
         <mark key="." line="27" column="14" />
       </file>
-      <file name="/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7/logging/__init__.py" timestamp="1554705987911" />
+      <file name="/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7/logging/__init__.py" timestamp="1554724923226" />
       <file name="/code/sc/web/package.json" timestamp="1554642068021">
         <mark key="'" line="97" column="27" />
         <mark key="[" line="18" column="11" />
@@ -331,11 +332,12 @@
         <mark key="^" line="56" column="33" />
         <mark key="." line="56" column="8" />
       </file>
-      <file name="/code/sc/web/sc/coms/ext/logs.py" timestamp="1554711330785">
-        <mark key="'" line="96" column="2" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="/code/sc/web/sc/coms/ext/logs.py" timestamp="1554726554116">
+        <mark key="'" line="92" column="11" />
+        <mark key="[" line="146" column="34" />
+        <mark key="]" line="147" column="3" />
+        <mark key="." line="147" column="3" />
+        <mark key="^" line="147" column="3" />
       </file>
       <file name="/code/sc/web/static/web/web.ts" timestamp="1554641532680">
         <mark key="'" line="215" column="11" />
@@ -433,6 +435,11 @@
         <mark key="^" line="106" column="24" />
         <mark key="." line="106" column="24" />
       </file>
+      <file name="/code/sc/web/sc/mods/factory.py" timestamp="1554725956270">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/structlog/processors.py" timestamp="1554702058199">
         <mark key="[" line="180" column="8" />
         <mark key="]" line="180" column="7" />
@@ -460,8 +467,8 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/code/sc/web/sc/coms/ext/sentry.py" timestamp="1554599781811">
-        <mark key="'" line="122" column="0" />
+      <file name="/code/sc/web/sc/coms/ext/sentry.py" timestamp="1554725342807">
+        <mark key="'" line="72" column="59" />
         <mark key="[" line="86" column="77" />
         <mark key="]" line="86" column="88" />
         <mark key="^" line="86" column="88" />
@@ -547,8 +554,8 @@
         <mark key="^" line="75" column="16" />
         <mark key="." line="75" column="16" />
       </file>
-      <file name="/code/sc/web/sc/coms/ext/logsrender.py" timestamp="1554711339563">
-        <mark key="'" line="83" column="6" />
+      <file name="/code/sc/web/sc/coms/ext/logsrender.py" timestamp="1554725930315">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
@@ -569,11 +576,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="41" filename="/code/sc/web/static/common/components/saved-searches/saved-searches.service.ts" />
-      <jump line="166" column="15" filename="/code/sc/web/static/common/components/saved-searches/saved-searches.service.ts" />
-      <jump line="54" column="2" filename="/code/sc/web/static/common/components/saved-searches/saved-searches.service.ts" />
-      <jump line="34" column="17" filename="/code/sc/web/static/common/components/saved-searches/saved-searches.ts" />
-      <jump line="47" column="11" filename="/code/sc/web/static/common/mixins/dialog.ts" />
       <jump line="30" column="28" filename="/code/sc/web/static/common/search/search-page.ts" />
       <jump line="102" column="7" filename="/code/sc/web/static/common/search/search.ts" />
       <jump line="133" column="24" filename="/code/sc/web/static/web/web.conf.ts" />
@@ -669,40 +671,45 @@
       <jump line="40" column="11" filename="/code/sc/web/instance/local/develop_settings.py" />
       <jump line="41" column="0" filename="/code/sc/web/instance/local/develop_settings.py" />
       <jump line="4" column="0" filename="/code/sc/web/instance/local/develop_settings.py" />
+      <jump line="94" column="0" filename="/code/sc/web/sc/coms/ext/logs.py" />
+      <jump line="92" column="11" filename="/code/sc/web/sc/coms/ext/logs.py" />
+      <jump line="51" column="27" filename="/code/sc/web/sc/coms/ext/logsrender.py" />
+      <jump line="0" column="0" filename="/code/sc/web/sc/coms/ext/logsrender.py" />
+      <jump line="72" column="59" filename="/code/sc/web/sc/coms/ext/sentry.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">cm0gLWYgL2V0Yy9nb29nbGUtZmx1ZW50ZC9jb25maWcuZC9hcGFjaGUuY29uZgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cm0gLWYgL2V0Yy9nb29nbGUtZmx1ZW50ZC9jb25maWcuZC9hcGFjaGUuY29uZgo=</text>
+        <text encoding="base64">ICBpZiBGYWxzZToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CjxmaWx0ZXIgbmdpbngtZXJyb3I+CiAgQHR5cGUgcmVjb3JkX3RyYW5zZm9ybWVyCiAgZW5hYmxlX3J1YnkgdHJ1ZQogIDxyZWNvcmQ+CiAgICBodHRwUmVxdWVzdCAkeyB7InJlcXVlc3RNZXRob2QiID0+IHJlY29yZFsnbWV0aG9kJ10sICJyZXF1ZXN0VXJsIiA9PiByZWNvcmRbJ3BhdGgnXSwgInJlcXVlc3RTaXplIiA9PiByZWNvcmRbJ3NpemUnXSwgInN0YXR1cyIgPT4gcmVjb3JkWydjb2RlJ10sICJ1c2VyQWdlbnQiID0+IHJlY29yZFsnYWdlbnQnXSwgInJlbW90ZUlwIiA9PiByZWNvcmRbJ3JlbW90ZSddLCAic2VydmVySXAiID0+IHJlY29yZFsnaG9zdCddLCAicmVmZXJlciIgPT4gcmVjb3JkWydyZWZlcmVyJ119IH0KICA8L3JlY29yZD4KICByZW1vdmVfa2V5cyBtZXRob2QsIHBhdGgsIHNpemUsIGNvZGUsIGFnZW50LCByZW1vdGUsIGhvc3QsIHJlZmVyZXIKPC9maWx0ZXI+Cg==</text>
+        <text encoding="base64">ICAgIEhhbmRsZShzeXMuc3Rkb3V0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PHNvdXJjZT4KICBAdHlwZSB0YWlsCiAgZm9ybWF0IG5vbmUKICBwYXRoIC92YXIvbG9nL25naW54L2FjY2Vzcy5sb2cKICBwb3NfZmlsZSAvdmFyL2xpYi9nb29nbGUtZmx1ZW50ZC9wb3MvbmdpbngtYWNjZXNzLnBvcwogIHJlYWRfZnJvbV9oZWFkIHRydWUKICB0YWcgbmdpbngtYWNjZXNzCjwvc291cmNlPgoKPHNvdXJjZT4KICBAdHlwZSB0YWlsCiAgZm9ybWF0IG5vbmUKICBwYXRoIC92YXIvbG9nL25naW54L2Vycm9yLmxvZwogIHBvc19maWxlIC92YXIvbGliL2dvb2dsZS1mbHVlbnRkL3Bvcy9uZ2lueC1lcnJvci5wb3MKICByZWFkX2Zyb21faGVhZCB0cnVlCiAgdGFnIG5naW54LWVycm9yCjwvc291cmNlPgoK</text>
+        <text encoding="base64">CmNsYXNzIEhhbmRsZShTdHJlYW1IYW5kbGVyKToKCiAgZGVmIGVtaXQoc2VsZiwgcmVjb3JkKToKICAgICIiIgogICAgRW1pdCBhIHJlY29yZC4KCiAgICBJZiBhIGZvcm1hdHRlciBpcyBzcGVjaWZpZWQsIGl0IGlzIHVzZWQgdG8gZm9ybWF0IHRoZSByZWNvcmQuCiAgICBUaGUgcmVjb3JkIGlzIHRoZW4gd3JpdHRlbiB0byB0aGUgc3RyZWFtIHdpdGggYSB0cmFpbGluZyBuZXdsaW5lLiAgSWYKICAgIGV4Y2VwdGlvbiBpbmZvcm1hdGlvbiBpcyBwcmVzZW50LCBpdCBpcyBmb3JtYXR0ZWQgdXNpbmcKICAgIHRyYWNlYmFjay5wcmludF9leGNlcHRpb24gYW5kIGFwcGVuZGVkIHRvIHRoZSBzdHJlYW0uICBJZiB0aGUgc3RyZWFtCiAgICBoYXMgYW4gJ2VuY29kaW5nJyBhdHRyaWJ1dGUsIGl0IGlzIHVzZWQgdG8gZGV0ZXJtaW5lIGhvdyB0byBkbyB0aGUKICAgIG91dHB1dCB0byB0aGUgc3RyZWFtLgogICAgIiIiCiAgICB0cnk6CiAgICAgIG1zZyA9IHNlbGYuZm9ybWF0KHJlY29yZCkKICAgICAgc3RyZWFtID0gc2VsZi5zdHJlYW0KICAgICAgIyBpc3N1ZSAzNTA0NjogbWVyZ2VkIHR3byBzdHJlYW0ud3JpdGVzIGludG8gb25lLgogICAgICBwcmludCgnIyMjIycsIHJlcHIobXNnKSwgJyMjIyMnLCBlbmQ9JycpCiAgICAgIHN0cmVhbS53cml0ZShtc2cgKyBzZWxmLnRlcm1pbmF0b3IpCiAgICAgIHNlbGYuZmx1c2goKQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgc2VsZi5oYW5kbGVFcnJvcihyZWNvcmQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CjxmaWx0ZXIgbmdpbngtZXJyb3I+CiAgQHR5cGUgcmVjb3JkX3RyYW5zZm9ybWVyCiAgZW5hYmxlX3J1YnkgdHJ1ZQogIDxyZWNvcmQ+CiAgICBodHRwUmVxdWVzdCAkeyB7InJlcXVlc3RNZXRob2QiID0+IHJlY29yZFsnbWV0aG9kJ10sICJyZXF1ZXN0VXJsIiA9PiByZWNvcmRbJ3BhdGgnXSwgInJlcXVlc3RTaXplIiA9PiByZWNvcmRbJ3NpemUnXSwgInN0YXR1cyIgPT4gcmVjb3JkWydjb2RlJ10sICJ1c2VyQWdlbnQiID0+IHJlY29yZFsnYWdlbnQnXSwgInJlbW90ZUlwIiA9PiByZWNvcmRbJ3JlbW90ZSddLCAic2VydmVySXAiID0+IHJlY29yZFsnaG9zdCddLCAicmVmZXJlciIgPT4gcmVjb3JkWydyZWZlcmVyJ119IH0KICA8L3JlY29yZD4KICByZW1vdmVfa2V5cyBtZXRob2QsIHBhdGgsIHNpemUsIGNvZGUsIGFnZW50LCByZW1vdGUsIGhvc3QsIHJlZmVyZXIKPC9maWx0ZXI+Cg==</text>
+        <text encoding="base64">ICAjIGlmIGFwcC5sb2NhbDoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjIGVsc2U6CiAgIyAgIGhzID0gW1RpbWVkUm90YXRpbmdGaWxlSGFuZGxlcigpXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PHNvdXJjZT4KICBAdHlwZSB0YWlsCiAgZm9ybWF0IG5vbmUKICBwYXRoIC92YXIvbG9nL25naW54L2FjY2Vzcy5sb2cKICBwb3NfZmlsZSAvdmFyL2xpYi9nb29nbGUtZmx1ZW50ZC9wb3MvbmdpbngtYWNjZXNzLnBvcwogIHJlYWRfZnJvbV9oZWFkIHRydWUKICB0YWcgbmdpbngtYWNjZXNzCjwvc291cmNlPgoKPHNvdXJjZT4KICBAdHlwZSB0YWlsCiAgZm9ybWF0IG5vbmUKICBwYXRoIC92YXIvbG9nL25naW54L2Vycm9yLmxvZwogIHBvc19maWxlIC92YXIvbGliL2dvb2dsZS1mbHVlbnRkL3Bvcy9uZ2lueC1lcnJvci5wb3MKICByZWFkX2Zyb21faGVhZCB0cnVlCiAgdGFnIG5naW54LWVycm9yCjwvc291cmNlPgo=</text>
+        <text encoding="base64">ICAgIGV4cHJlc3Npb24gL14oPzxob3N0PlteIF0qKSBbXiBdKiAoPzx1c2VyPlteIF0qKSBcWyg/PHRpbWU+W15cXV0qKVxdICIoPzxtZXRob2Q+XFMrKSg/OiArKD88cGF0aD5bXiBdKikgK1xTKik/IiAoPzxjb2RlPlteIF0qKSAoPzxzaXplPlteIF0qKSQvCiAgICB0aW1lX2Zvcm1hdCAlZC8lYi8lWTolSDolTTolUyAlego=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBzdWRvIC91c3Ivc2hhcmUvZ29vZ2xlL3J1bi1zdGFydHVwLXNjcmlwdHMK</text>
+        <text encoding="base64">CiAgPGZvcm1hdD4KICAgIEB0eXBlIGpzb24KICA8L2Zvcm1hdD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bWtkaXIgLXAgL2V0Yy9nb29nbGUtZmx1ZW50ZC9jb25maWcuZC8K</text>
+        <text encoding="base64">ICAgIG51bWJlcl9tb2RlPXJhcGlkanNvbi5OTV9OQVRJVkUsCg==</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>sc-</text>
+        <text encoding="base64">SGFuZGxlLCA=</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
