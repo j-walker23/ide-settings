@@ -17,12 +17,12 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="24" column="14" />
       </file>
-      <file name="/code/sc/web/gce/startup-script.sh" timestamp="1554846670444">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="821" column="0" />
-        <mark key="]" line="821" column="0" />
-        <mark key="." line="821" column="0" />
-        <mark key="^" line="717" column="40" />
+      <file name="/code/sc/web/gce/startup-script.sh" timestamp="1554849297716">
+        <mark key="'" line="814" column="13" />
+        <mark key="[" line="805" column="9" />
+        <mark key="]" line="805" column="12" />
+        <mark key="." line="805" column="12" />
+        <mark key="^" line="805" column="12" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/structlog/_config.py" timestamp="1554830455683" />
       <file name="/code/sc/web/instance/local/shit-hj.txt" timestamp="1554704984216">
@@ -44,11 +44,11 @@
         <mark key="^" line="86" column="88" />
         <mark key="." line="86" column="88" />
       </file>
-      <file name="/code/sc/web/sc/coms/ext/logstypes.py" timestamp="1554833970219">
-        <mark key="'" line="75" column="0" />
+      <file name="/code/sc/web/sc/mods/config.py" timestamp="1554849493200" />
+      <file name="/code/sc/web/sc/coms/ext/logstypes.py" timestamp="1554849098508">
+        <mark key="'" line="19" column="6" />
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
-        <mark key="^" line="69" column="33" />
         <mark key="." line="69" column="0" />
       </file>
       <file name="/code/sc/web/sc/const.py" timestamp="1554831229546">
@@ -77,12 +77,11 @@
         <mark key="." line="175" column="76" />
         <mark key="^" line="175" column="76" />
       </file>
-      <file name="/code/sc/web/sc/coms/ext/logprocessors.py" timestamp="1554833199907">
-        <mark key="'" line="25" column="9" />
-        <mark key="[" line="106" column="31" />
-        <mark key="]" line="106" column="51" />
-        <mark key="." line="106" column="51" />
-        <mark key="^" line="106" column="51" />
+      <file name="/code/sc/web/sc/coms/ext/logprocessors.py" timestamp="1554849270397">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="37" column="45" />
       </file>
       <file name="/code/sc/web/sc/coms/ext/flasks.py" timestamp="1554833189445" />
       <file name="/code/sc/web/sc/coms/ext/logsrender.py" timestamp="1554728860137">
@@ -94,8 +93,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/code/sc/web/static/web/vendors.ts" />
-      <jump line="132" column="16" filename="/code/sc/web/static/common/common.conf.ts" />
       <jump line="153" column="20" filename="/code/sc/web/static/common/common.conf.ts" />
       <jump line="23" column="28" filename="/code/sc/web/static/common/directives/copy-to-clip.directive.ts" />
       <jump line="222" column="16" filename="/code/sc/web/static/common/mixins/dialog.ts" />
@@ -194,15 +191,29 @@
       <jump line="66" column="0" filename="/code/sc/web/sc/coms/ext/logstypes.py" />
       <jump line="25" column="9" filename="/code/sc/web/sc/coms/ext/logprocessors.py" />
       <jump line="178" column="0" filename="/code/sc/web/sc/coms/ext/classful.py" />
+      <jump line="19" column="6" filename="/code/sc/web/sc/coms/ext/logstypes.py" />
+      <jump line="814" column="13" filename="/code/sc/web/gce/startup-script.sh" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0b2RvOgogICAgTmVlZCB0byBkbyB0aGUgd29yayBpbiBmbHVlbnRkCiAgICBTZXZlcml0eSwgTWVzc2FnZSwgU3RhY2t0cmFjZSwgTGFiZWxzCiAgICAgICJzb3VyY2VMb2NhdGlvbiI6IHsKICAgICAgICAgICAgImZpbGUiOiByZWNvcmQuZmlsZW5hbWUsCiAgICAgICAgICAgICJmdW5jdGlvbiI6IHJlY29yZC5mdW5jTmFtZSwKICAgICAgICAgICAgImxpbmUiOiByZWNvcmQubGluZW5vLAogICAgICAgIH0sCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICBlZFsnbG9nZ2luZy5nb29nbGVhcGlzLmNvbS9sYWJlbHMnXSA9IHt9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgZWRbJ3RocmVhZCddID0gcmVjb3JkLnRocmVhZAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBmb3JtYXQgbmdpbngKICBwYXRoIC92YXIvbG9nL25naW54L2FjY2Vzcy5sb2cK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">dHRwX3VwZ3JhZGU9JyRodHRwX3VwZ3JhZGUnCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>expires='$expires'
 sent_http_content_type='$sent_http_content_type'
 host='$host'
@@ -211,29 +222,17 @@ remote_addr='$remote_addr'
 proxy_add_x_forwarded_for='$proxy_add_x_forwarded_for'
 h</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ZXhwaXJlcz0nJGV4cGlyZXMnCnNlbnRfaHR0cF9jb250ZW50X3R5cGU9JyRzZW50X2h0dHBfY29udGVudF90eXBlJwpob3N0PSckaG9zdCcKcmVxdWVzdF91cmk9JyRyZXF1ZXN0X3VyaScKcmVtb3RlX2FkZHI9JyRyZW1vdGVfYWRkcicKcHJveHlfYWRkX3hfZm9yd2FyZGVkX2Zvcj0nJHByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3InCmh0dHBfdXBncmFkZT0nJGh0dHBfdXBncmFkZScK</text>
       </register>
-      <register name="5" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CjxmaWx0ZXIgbmdpbngtYWNjZXNzPgogIEB0eXBlIHJlY29yZF90cmFuc2Zvcm1lcgogIGVuYWJsZV9ydWJ5IHRydWUKICA8cmVjb3JkPgogICAgaHR0cFJlcXVlc3QgJHsgeyJyZXF1ZXN0TWV0aG9kIiA9PiByZWNvcmRbJ21ldGhvZCddLCAicmVxdWVzdFVybCIgPT4gcmVjb3JkWydwYXRoJ10sICJyZXF1ZXN0U2l6ZSIgPT4gcmVjb3JkWydzaXplJ10sICJzdGF0dXMiID0+IHJlY29yZFsnY29kZSddLCAidXNlckFnZW50IiA9PiByZWNvcmRbJ2FnZW50J10sICJyZW1vdGVJcCIgPT4gcmVjb3JkWydyZW1vdGUnXSwgInNlcnZlcklwIiA9PiByZWNvcmRbJ2hvc3QnXSwgInJlZmVyZXIiID0+IHJlY29yZFsncmVmZXJlciddfSB9CiAgPC9yZWNvcmQ+CiAgcmVtb3ZlX2tleXMgbWV0aG9kLCBwYXRoLCBzaXplLCBjb2RlLCBhZ2VudCwgcmVtb3RlLCBob3N0LCByZWZlcmVyCjwvZmlsdGVyPgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJyJyZXF1ZXN0VGltZSI6ICIkcmVxdWVzdF90aW1lIiwgJwo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">PGZpbHRlciBuZ2lueC1hY2Nlc3M+CiAgQHR5cGUgcmVjb3JkX3RyYW5zZm9ybWVyCiAgZW5hYmxlX3J1YnkgdHJ1ZQogIDxyZWNvcmQ+CiAgICBodHRwUmVxdWVzdCAkeyB7InJlcXVlc3RNZXRob2QiID0+IHJlY29yZFsnbWV0aG9kJ10sICJyZXF1ZXN0VXJsIiA9PiByZWNvcmRbJ3BhdGgnXSwgInJlcXVlc3RTaXplIiA9PiByZWNvcmRbJ3NpemUnXSwgInN0YXR1cyIgPT4gcmVjb3JkWydjb2RlJ10sICJ1c2VyQWdlbnQiID0+IHJlY29yZFsnYWdlbnQnXSwgInJlbW90ZUlwIiA9PiByZWNvcmRbJ3JlbW90ZSddLCAic2VydmVySXAiID0+IHJlY29yZFsnaG9zdCddLCAicmVmZXJlciIgPT4gcmVjb3JkWydyZWZlcmVyJ119IH0KICA8L3JlY29yZD4KICByZW1vdmVfa2V5cyBtZXRob2QsIHBhdGgsIHNpemUsIGNvZGUsIGFnZW50LCByZW1vdGUsIGhvc3QsIHJlZmVyZXIKPC9maWx0ZXI+</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>EOF</text>
+        <text>{}</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
