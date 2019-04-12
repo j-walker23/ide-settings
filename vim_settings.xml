@@ -3,17 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/code/sc/web/sc/mods/config.py" timestamp="1555048011749">
+        <mark key="[" line="155" column="27" />
+        <mark key="]" line="155" column="34" />
+        <mark key="^" line="155" column="34" />
+        <mark key="." line="155" column="34" />
+      </file>
       <file name="/code/sc/web/gce/startup-script-back.sh" timestamp="1554931599853">
         <mark key="[" line="156" column="0" />
         <mark key="]" line="156" column="0" />
         <mark key="." line="156" column="0" />
       </file>
-      <file name="/code/sc/web/sc/coms/ext/logs.py" timestamp="1554834435074">
-        <mark key="'" line="90" column="41" />
-        <mark key="[" line="26" column="2" />
-        <mark key="]" line="27" column="95" />
-        <mark key="." line="27" column="95" />
-        <mark key="^" line="27" column="95" />
+      <file name="/code/sc/web/sc/coms/ext/logs.py" timestamp="1555047951248">
+        <mark key="'" line="62" column="29" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="^" line="88" column="1" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="/code/sc/web/sc/__init__.py" timestamp="1554831060505">
         <mark key="'" line="26" column="4" />
@@ -28,6 +34,19 @@
         <mark key="]" line="83" column="17" />
         <mark key="^" line="83" column="17" />
         <mark key="." line="83" column="17" />
+      </file>
+      <file name="/code/sc/web/sc/mods/web/__init__.py" timestamp="1555046016092">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+      </file>
+      <file name="/code/sc/web/sc/coms/ext/sio.py" timestamp="1555045950681">
+        <mark key="'" line="128" column="1" />
+        <mark key="[" line="128" column="2" />
+        <mark key="]" line="128" column="1" />
+        <mark key="." line="128" column="1" />
+        <mark key="^" line="128" column="1" />
       </file>
       <file name="/code/sc/web/sc/mods/factory.py" timestamp="1554725956270">
         <mark key="[" line="26" column="0" />
@@ -63,7 +82,7 @@
         <mark key="^" line="12" column="33" />
         <mark key="." line="12" column="33" />
       </file>
-      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1554720880771">
+      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1555045620190">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
@@ -76,6 +95,12 @@
         <mark key="]" line="15" column="3" />
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="3" />
+      </file>
+      <file name="/code/sc/web/sc/mods/offline/__init__.py" timestamp="1555046035773">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="9" column="1" />
       </file>
       <file name="/code/sc/web/sc/coms/ext/sentry.py" timestamp="1554730892873">
         <mark key="'" line="1" column="0" />
@@ -99,12 +124,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="19" filename="/code/sc/web/static/web/components/chips/email-list.dialog.ts" />
-      <jump line="159" column="14" filename="/code/sc/web/static/web/views/nav-toolbar/nav-toolbar.ts" />
-      <jump line="110" column="18" filename="/code/sc/web/static/web/views/reviews/reviews.ts" />
-      <jump line="31" column="21" filename="/code/sc/web/static/web/views/reviews/item/fb-comments/fb-comments.ts" />
-      <jump line="226" column="16" filename="/code/sc/web/static/common/common.conf.ts" />
-      <jump line="453" column="21" filename="/code/sc/web/static/common/components/ms-navigation/ms-navigation.ts" />
       <jump line="68" column="2" filename="/code/sc/web/static/common/components/smart-search/smart-search.ts" />
       <jump line="546" column="49" filename="/code/sc/web/static/common/components/smart-search/smart-search.ts" />
       <jump line="17" column="13" filename="/code/sc/web/webpacks/shares/base.ts" />
@@ -199,40 +218,46 @@
       <jump line="57" column="18" filename="/code/sc/web/sc/coms/ext/logstypes.py" />
       <jump line="66" column="22" filename="/code/sc/web/sc/coms/ext/logstypes.py" />
       <jump line="102" column="2" filename="/code/sc/web/sc/coms/ext/logprocessors.py" />
+      <jump line="97" column="2" filename="/code/sc/web/sc/coms/ext/sio.py" />
+      <jump line="129" column="2" filename="/code/sc/web/sc/coms/ext/sio.py" />
+      <jump line="0" column="0" filename="/code/sc/web/sc/coms/ext/sio.py" />
+      <jump line="62" column="29" filename="/code/sc/web/sc/coms/ext/logs.py" />
+      <jump line="103" column="25" filename="/code/sc/web/sc/coms/ext/sio.py" />
+      <jump line="128" column="1" filename="/code/sc/web/sc/coms/ext/sio.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">PGZpbHRlciBuZ2lueC1hY2Nlc3M+CiAgQHR5cGUgcmVjb3JkX3RyYW5zZm9ybWVyCiAgZW5hYmxlX3J1YnkgdHJ1ZQogIDxyZWNvcmQ+CiAgICBodHRwUmVxdWVzdCAkeyB7InJlcXVlc3RNZXRob2QiID0+IHJlY29yZFsnbWV0aG9kJ10sICJyZXF1ZXN0VXJsIiA9PiByZWNvcmRbJ3BhdGgnXSwgInJlcXVlc3RTaXplIiA9PiByZWNvcmRbJ3NpemUnXSwgInN0YXR1cyIgPT4gcmVjb3JkWydjb2RlJ10sICJ1c2VyQWdlbnQiID0+IHJlY29yZFsnYWdlbnQnXSwgInJlbW90ZUlwIiA9PiByZWNvcmRbJ3JlbW90ZSddLCAic2VydmVySXAiID0+IHJlY29yZFsnaG9zdCddLCAicmVmZXJlciIgPT4gcmVjb3JkWydyZWZlcmVyJ119IH0KICA8L3JlY29yZD4KICByZW1vdmVfa2V5cyBtZXRob2QsIHBhdGgsIHNpemUsIGNvZGUsIGFnZW50LCByZW1vdGUsIGhvc3QsIHJlZmVyZXIKPC9maWx0ZXI+Cg==</text>
+        <text encoding="base64">CmNsYXNzIFRlc3RGaWx0ZXIobG9nZ2luZy5GaWx0ZXIpOgogICIiIiIiIgoKICBkZWYgZmlsdGVyKHNlbGYsIHJlY29yZCk6CiAgICBwcmludCgnd3RmJywgcmVjb3JkLm1zZykKICAgIHJldHVybiBGYWxzZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsb2dfZm9ybWF0IGpzb25fY29tYmluZWQgZXNjYXBlPWpzb24gJ3sgImh0dHBSZXF1ZXN0IjogeycKICAgICAgJyJyZXF1ZXN0TWV0aG9kIjogIiRyZXF1ZXN0X21ldGhvZCIsICcKICAgICAgJyJyZXF1ZXN0VXJsIjogIiRyZXF1ZXN0X3VyaSIsICcKICAgICAgJyJyZXF1ZXN0U2l6ZSI6ICIkcmVxdWVzdF9sZW5ndGgiLCAnCiAgICAgICcicmVzcG9uc2VTaXplIjogIiRieXRlc19zZW50IiwgJwogICAgICAnInN0YXR1cyI6ICIkc3RhdHVzIiwgJwogICAgICAnInVzZXJBZ2VudCI6ICIkaHR0cF91c2VyX2FnZW50IiwgJwogICAgICAnInJlbW90ZUlwIjogIiRyZW1vdGVfYWRkciIsICcKICAgICAgJyJyZWZlcmVyIjogIiRodHRwX3JlZmVyZXIiLCAnCiAgICAgICcic2VydmVySXAiOiAiJGhvc3QiIH0sICcKICAgICAgJyJyZXF1ZXN0VGltZSI6ICIkcmVxdWVzdF90aW1lIiwgJwogICAgICAnInVwc3RyZWFtUmVzcG9uc2VUaW1lIjogIiR1cHN0cmVhbV9yZXNwb25zZV90aW1lIiwgJwogICAgICAnInRpbWUiOiAiJHRpbWVfbG9jYWwiIH0nOwo=</text>
+        <text encoding="base64">CiAgIyBsbCA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCdnZXZlbnR3ZWJzb2NrZXQuaGFuZGxlcicpCiAgIyBsbC5zZXRMZXZlbChsb2dnaW5nLkVSUk9SKQogICMgbGwuYWRkRmlsdGVyKFRlc3RGaWx0ZXIoKSkKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICcicmVxdWVzdCI6IiRyZXF1ZXN0IiwgJwo=</text>
+        <text encoding="base64">ICBbbG9nZ2luZy5nZXRMb2dnZXIobCkuc2V0TGV2ZWwobG9nZ2luZy5JTkZPKSBmb3IgbCBpbiBhcHAuY29uZmlnWydJTkZPUyddXQogIFtsb2dnaW5nLmdldExvZ2dlcihsKS5zZXRMZXZlbChsb2dnaW5nLldBUk4pIGZvciBsIGluIGFwcC5jb25maWdbJ1dBUk5TJ11dCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICcicmVxdWVzdCI6IiRyZXF1ZXN0IiwgJwo=</text>
+        <text encoding="base64">ICBbbG9nZ2luZy5nZXRMb2dnZXIobCkuc2V0TGV2ZWwobG9nZ2luZy5JTkZPKSBmb3IgbCBpbiBhcHAuY29uZmlnWydJTkZPUyddXQogIFtsb2dnaW5nLmdldExvZ2dlcihsKS5zZXRMZXZlbChsb2dnaW5nLldBUk4pIGZvciBsIGluIGFwcC5jb25maWdbJ1dBUk5TJ11dCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICcidGltZSI6ICIkdGltZV9sb2NhbCIsICcK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBUZXN0RmlsdGVyCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsb2dfZm9ybWF0IGpzIGVzY2FwZT1qc29uICd7ICJodHRwUmVxdWVzdCI6IHsnCiAgfSwgJwogIH0nOwo=</text>
+        <text encoding="base64">ICBbbG9nZ2luZy5nZXRMb2dnZXIobCkuc2V0TGV2ZWwobG9nZ2luZy5XQVJOKSBmb3IgbCBpbiBhcHAuY29uZmlnWydXQVJOUyddXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAnInJlcXVlc3RNZXRob2QiOiAiJHJlcXVlc3RfbWV0aG9kIiwgJwogICcicmVxdWVzdFVybCI6ICIkcmVxdWVzdF91cmkiLCAnCiAgJyJyZXF1ZXN0U2l6ZSI6ICIkcmVxdWVzdF9sZW5ndGgiLCAnCiAgJyJyZXNwb25zZVNpemUiOiAiJGJ5dGVzX3NlbnQiLCAnCiAgJyJzdGF0dXMiOiAiJHN0YXR1cyIsICcKICAnInVzZXJBZ2VudCI6ICIkaHR0cF91c2VyX2FnZW50IiwgJwogICcicmVtb3RlSXAiOiAiJHJlbW90ZV9hZGRyIiwgJwogICcicmVmZXJlciI6ICIkaHR0cF9yZWZlcmVyIiwgJwogICcicHJvdG9jb2wiOiAiJHNlcnZlcl9wcm90b2NvbCIsICcKICAnInNlcnZlcklwIjogIiRob3N0IiAK</text>
+        <text encoding="base64">ICBmcm9tIC4uLmNvbXMuZXh0IGltcG9ydCBzaW8sIGNlbGVyeQo=</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>nginx</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
