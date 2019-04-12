@@ -66,12 +66,12 @@
         <mark key="." line="175" column="76" />
         <mark key="^" line="175" column="76" />
       </file>
-      <file name="/code/sc/web/sc/coms/ext/logprocessors.py" timestamp="1555064017092">
+      <file name="/code/sc/web/sc/coms/ext/logprocessors.py" timestamp="1555066236980">
         <mark key="'" line="102" column="2" />
-        <mark key="[" line="30" column="18" />
-        <mark key="]" line="30" column="30" />
-        <mark key="." line="30" column="30" />
-        <mark key="^" line="30" column="30" />
+        <mark key="[" line="14" column="71" />
+        <mark key="]" line="14" column="70" />
+        <mark key="." line="14" column="70" />
+        <mark key="^" line="14" column="70" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1555042519640">
         <mark key="[" line="0" column="0" />
@@ -108,12 +108,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="9" column="1" />
       </file>
-      <file name="/code/sc/web/sc/coms/ext/sentry.py" timestamp="1554730892873">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="86" column="77" />
-        <mark key="]" line="86" column="88" />
-        <mark key="^" line="86" column="88" />
-        <mark key="." line="86" column="88" />
+      <file name="/code/sc/web/sc/coms/ext/sentry.py" timestamp="1555066204187">
+        <mark key="'" line="95" column="7" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="81" column="88" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="/usr/local/etc/nginx/nginx.conf" timestamp="1555043756618">
         <mark key="'" line="82" column="0" />
@@ -121,16 +121,15 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/code/sc/web/gce/startup-script.sh" timestamp="1555053031219">
+      <file name="/code/sc/web/gce/startup-script.sh" timestamp="1555065880002">
         <mark key="'" line="705" column="12" />
-        <mark key="[" line="814" column="0" />
-        <mark key="]" line="814" column="0" />
-        <mark key="." line="814" column="0" />
-        <mark key="^" line="814" column="0" />
+        <mark key="[" line="802" column="0" />
+        <mark key="]" line="802" column="0" />
+        <mark key="." line="802" column="0" />
+        <mark key="^" line="711" column="33" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="546" column="49" filename="/code/sc/web/static/common/components/smart-search/smart-search.ts" />
       <jump line="17" column="13" filename="/code/sc/web/webpacks/shares/base.ts" />
       <jump line="37" column="58" filename="/code/sc/web/static/web/sentry.ts" />
       <jump line="74" column="0" filename="/code/sc/web/static/web/sentry.ts" />
@@ -230,40 +229,41 @@
       <jump line="103" column="25" filename="/code/sc/web/sc/coms/ext/sio.py" />
       <jump line="128" column="1" filename="/code/sc/web/sc/coms/ext/sio.py" />
       <jump line="705" column="12" filename="/code/sc/web/gce/startup-script.sh" />
+      <jump line="100" column="7" filename="/code/sc/web/sc/coms/ext/sentry.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICBza2lwID0gJ2V2ZW50JywgJ2h0dHBSZXF1ZXN0JywgJ2xvZ2dpbmcuZ29vZ2xlYXBpcy5jb20vc291cmNlTG9jYXRpb24nLCAnc2V2ZXJpdHknLCAnYm9keScK</text>
+        <text encoding="base64">ICBpZiAnbG9nZW50cnknIGluIGV2OgogICAgcHJpbnQoJyMnICogMTAsICdMT0cnLCB0eXBlKGV2Wydsb2dlbnRyeSddWydtZXNzYWdlJ10pLCBldlsnbG9nZW50cnknXVsnbWVzc2FnZSddKQogIGVsc2U6CiAgICBwcmludCgnIycgKiAxMDAsICdNaXNzaW5nIGxvZ2VudHJ5JykKICBwcmludCgnIycgKiAxMCwgJ0hJTlQnLCBoaW50KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAKICBmb3IgaywgdiBpbiBlZC5pdGVtcygpOgogICAgaWYgayBpbiBza2lwOgogICAgICBjb250aW51ZQogICAgaWYgbm90IGlzaW5zdGFuY2UodiwgUFJJTUlUSVZFUyk6CiAgICAgIGNvbnRpbnVlCiAgICBsYWJlbHNba10gPSBzdHIodikKICBlZCA9IGRpY3QoZGljdHNldChlZCkgLSBkaWN0c2V0KGxhYmVscykpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZCA9IHsnMSc6IDEsICcyJzogMiwgJzMnOiAzfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBhW2tdID0gdgogIGQucG9wKGspCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZCA9IGRpY3QoMT0pCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CmRlZiBjbGVhbl9ldmVudChfLCBfXywgZWQ6IERpY3QpOgogICIiIiIiIgogIHJldHVybiB7azogdiBmb3IgaywgdiBpbiBlZC5pdGVtcygpIGlmIG5vdCB1dGlscy5pc2VtcHR5KHYpfQoKCmRlZiBhZGRfcmVxdWVzdChfLCBfXywgZWQpIC0+IERpY3Q6CiAgIiIiIiIiCiAgaWYgaGFzX3JlcXVlc3RfY29udGV4dCgpOgogICAgZnJvbSBmbGFzayBpbXBvcnQgcmVxdWVzdAogICAgZWQudXBkYXRlKAogICAgICBodHRwUmVxdWVzdD1kaWN0KAogICAgICAgIHJlcXVlc3RVcmw9cmVxdWVzdC51cmwsCiAgICAgICAgcmVxdWVzdE1ldGhvZD1yZXF1ZXN0Lm1ldGhvZCwKICAgICAgICByZXF1ZXN0U2l6ZT1yZXF1ZXN0LmNvbnRlbnRfbGVuZ3RoLAogICAgICAgIHVzZXJBZ2VudD1yZXF1ZXN0LnVzZXJfYWdlbnQuc3RyaW5nLAogICAgICAgIHJlZmVyZXI9cmVxdWVzdC5yZWZlcnJlciwKICAgICAgICByZW1vdGVJcD1yZXF1ZXN0LnJlbW90ZV9hZGRyLAogICAgICApKQogIHJldHVybiBlZAoK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyAgQGxvZ19sZXZlbCB0cmFjZQojICBlbWl0X3VubWF0Y2hlZF9saW5lcyB0cnVlCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICBAbG9nX2xldmVsIHRyYWNlCiAgZW1pdF91bm1hdGNoZWRfbGluZXMgdHJ1ZQo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CjxmaWx0ZXIgbmdpbngtYWNjZXNzPgogIEB0eXBlIHJlY29yZF90cmFuc2Zvcm1lcgogIGVuYWJsZV9ydWJ5CiAgPHJlY29yZD4KICAgICR7cmVjb3JkWyJodHRwUmVxdWVzdCJdWyJsYXRlbmN5Il19ICR7cmVjb3JkWyJsYXRlbmN5Il19cwogIDwvcmVjb3JkPgogIHJlbW92ZV9rZXlzIGxhdGVuY3kKPC9maWx0ZXI+Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICcidGltZSI6ICIkdGltZV9sb2NhbCIsICcK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CmNsYXNzIFRlc3RGaWx0ZXIobG9nZ2luZy5GaWx0ZXIpOgogICIiIiIiIgoKICBkZWYgZmlsdGVyKHNlbGYsIHJlY29yZCk6CiAgICBwcmludCgnd3RmJywgcmVjb3JkLm1zZykKICAgIHJldHVybiBGYWxzZQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>ed.pop(k)</text>
+        <text>'&quot;latency&quot;: &quot;$request_time&quot;, '</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
