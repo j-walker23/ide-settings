@@ -9,10 +9,11 @@
         <mark key="^" line="155" column="34" />
         <mark key="." line="155" column="34" />
       </file>
-      <file name="/code/sc/web/gce/startup-script-back.sh" timestamp="1554931599853">
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="156" column="0" />
-        <mark key="." line="156" column="0" />
+      <file name="/code/sc/web/gce/startup-script-back.sh" timestamp="1555067300336">
+        <mark key="[" line="276" column="9" />
+        <mark key="]" line="276" column="13" />
+        <mark key="." line="276" column="13" />
+        <mark key="^" line="276" column="13" />
       </file>
       <file name="/code/sc/web/sc/coms/ext/logs.py" timestamp="1555052933668">
         <mark key="'" line="61" column="29" />
@@ -66,12 +67,12 @@
         <mark key="." line="175" column="76" />
         <mark key="^" line="175" column="76" />
       </file>
-      <file name="/code/sc/web/sc/coms/ext/logprocessors.py" timestamp="1555066236980">
-        <mark key="'" line="102" column="2" />
-        <mark key="[" line="14" column="71" />
-        <mark key="]" line="14" column="70" />
-        <mark key="." line="14" column="70" />
-        <mark key="^" line="14" column="70" />
+      <file name="/code/sc/web/sc/coms/ext/logprocessors.py" timestamp="1555067560524">
+        <mark key="'" line="25" column="36" />
+        <mark key="[" line="27" column="46" />
+        <mark key="]" line="28" column="1" />
+        <mark key="." line="28" column="1" />
+        <mark key="^" line="28" column="1" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1555042519640">
         <mark key="[" line="0" column="0" />
@@ -121,7 +122,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/code/sc/web/gce/startup-script.sh" timestamp="1555065880002">
+      <file name="/code/sc/web/gce/startup-script.sh" timestamp="1555067262420">
         <mark key="'" line="705" column="12" />
         <mark key="[" line="802" column="0" />
         <mark key="]" line="802" column="0" />
@@ -210,7 +211,6 @@
       <jump line="28" column="22" filename="/code/sc/web/sc/__init__.py" />
       <jump line="25" column="4" filename="/code/sc/web/sc/__init__.py" />
       <jump line="100" column="22" filename="/code/sc/web/sc/coms/ext/logprocessors.py" />
-      <jump line="25" column="9" filename="/code/sc/web/sc/coms/ext/logprocessors.py" />
       <jump line="178" column="0" filename="/code/sc/web/sc/coms/ext/classful.py" />
       <jump line="19" column="6" filename="/code/sc/web/sc/coms/ext/logstypes.py" />
       <jump line="814" column="13" filename="/code/sc/web/gce/startup-script.sh" />
@@ -230,40 +230,41 @@
       <jump line="128" column="1" filename="/code/sc/web/sc/coms/ext/sio.py" />
       <jump line="705" column="12" filename="/code/sc/web/gce/startup-script.sh" />
       <jump line="100" column="7" filename="/code/sc/web/sc/coms/ext/sentry.py" />
+      <jump line="25" column="36" filename="/code/sc/web/sc/coms/ext/logprocessors.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICBpZiAnbG9nZW50cnknIGluIGV2OgogICAgcHJpbnQoJyMnICogMTAsICdMT0cnLCB0eXBlKGV2Wydsb2dlbnRyeSddWydtZXNzYWdlJ10pLCBldlsnbG9nZW50cnknXVsnbWVzc2FnZSddKQogIGVsc2U6CiAgICBwcmludCgnIycgKiAxMDAsICdNaXNzaW5nIGxvZ2VudHJ5JykKICBwcmludCgnIycgKiAxMCwgJ0hJTlQnLCBoaW50KQo=</text>
+        <text encoding="base64">CiAgIyBTdGFja2RyaXZlciBzYXlzIHN0YWNrdHJhY2Ugc2hvdWxkIGJlIGluc2VydGVkIGFzIG1lc3NhZ2UuCiAgIyBBbmQgZXZlbnQgaXMgc2V0IHRvIG1lc3NhZ2UgaW4gZmx1ZW50ZAogIGlmICdleGNlcHRpb24nIGluIGVkOgogICAgZWRbJ2V2ZW50J10gPSBlZC5wb3AoJ2V4Y2VwdGlvbicpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpZiAnbG9nZW50cnknIGluIGV2OgogICAgcHJpbnQoJyMnICogMTAsICdMT0cnLCB0eXBlKGV2Wydsb2dlbnRyeSddWydtZXNzYWdlJ10pLCBldlsnbG9nZW50cnknXVsnbWVzc2FnZSddKQogIGVsc2U6CiAgICBwcmludCgnIycgKiAxMDAsICdNaXNzaW5nIGxvZ2VudHJ5JykKICBwcmludCgnIycgKiAxMCwgJ0hJTlQnLCBoaW50KQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgQGxvZ19sZXZlbCB0cmFjZQojICBlbWl0X3VubWF0Y2hlZF9saW5lcyB0cnVlCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBAbG9nX2xldmVsIHRyYWNlCiAgZW1pdF91bm1hdGNoZWRfbGluZXMgdHJ1ZQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyAgQGxvZ19sZXZlbCB0cmFjZQojICBlbWl0X3VubWF0Y2hlZF9saW5lcyB0cnVlCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBAbG9nX2xldmVsIHRyYWNlCiAgZW1pdF91bm1hdGNoZWRfbGluZXMgdHJ1ZQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CjxmaWx0ZXIgbmdpbngtYWNjZXNzPgogIEB0eXBlIHJlY29yZF90cmFuc2Zvcm1lcgogIGVuYWJsZV9ydWJ5CiAgPHJlY29yZD4KICAgICR7cmVjb3JkWyJodHRwUmVxdWVzdCJdWyJsYXRlbmN5Il19ICR7cmVjb3JkWyJsYXRlbmN5Il19cwogIDwvcmVjb3JkPgogIHJlbW92ZV9rZXlzIGxhdGVuY3kKPC9maWx0ZXI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICcidGltZSI6ICIkdGltZV9sb2NhbCIsICcK</text>
+        <text encoding="base64">CjxmaWx0ZXIgbmdpbngtYWNjZXNzPgogIEB0eXBlIHJlY29yZF90cmFuc2Zvcm1lcgogIGVuYWJsZV9ydWJ5CiAgPHJlY29yZD4KICAgICR7cmVjb3JkWyJodHRwUmVxdWVzdCJdWyJsYXRlbmN5Il19ICR7cmVjb3JkWyJsYXRlbmN5Il19cwogIDwvcmVjb3JkPgogIHJlbW92ZV9rZXlzIGxhdGVuY3kKPC9maWx0ZXI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICcidGltZSI6ICIkdGltZV9sb2NhbCIsICcK</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>'&quot;latency&quot;: &quot;$request_time&quot;, '</text>
+        <text>logid</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
