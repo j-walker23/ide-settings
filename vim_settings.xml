@@ -68,6 +68,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="9" column="1" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b9634198-1e4c-4f84-9159-24bfaa2d9c4c/console.sql" timestamp="1555100343330">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="14" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="1" column="14" />
+      </file>
       <file name="/usr/local/etc/nginx/nginx.conf" timestamp="1555081112842">
         <mark key="'" line="82" column="0" />
         <mark key="[" line="78" column="52" />
@@ -82,12 +88,12 @@
         <mark key="." line="802" column="0" />
         <mark key="^" line="711" column="33" />
       </file>
-      <file name="/code/sc/web/sc/sql/globals/__init__.py" timestamp="1555096781216">
-        <mark key="'" line="76" column="1" />
-        <mark key="[" line="160" column="23" />
-        <mark key="]" line="160" column="19" />
-        <mark key="." line="160" column="19" />
-        <mark key="^" line="160" column="19" />
+      <file name="/code/sc/web/sc/sql/globals/__init__.py" timestamp="1555100573338">
+        <mark key="'" line="131" column="2" />
+        <mark key="[" line="161" column="14" />
+        <mark key="]" line="161" column="17" />
+        <mark key="." line="161" column="17" />
+        <mark key="^" line="161" column="17" />
       </file>
       <file name="/code/sc/web/static/web/components/chips/subs-chips.ts" timestamp="1555097701361">
         <mark key="'" line="35" column="9" />
@@ -130,11 +136,11 @@
         <mark key="." line="35" column="16" />
       </file>
       <file name="/code/sc/web/static/web/components/chips/locadmin-chips.ts" timestamp="1555097042986" />
-      <file name="/code/sc/web/instance/env.txt" timestamp="1555098986820">
+      <file name="/code/sc/web/instance/env.txt" timestamp="1555100530863">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="." line="0" column="2" />
-        <mark key="^" line="0" column="2" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="4" />
       </file>
       <file name="/code/sc/web/sc/utils.py" timestamp="1555093574185">
         <mark key="[" line="321" column="45" />
@@ -244,9 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="2" filename="/code/sc/web/sc/coms/ext/logs.py" />
-      <jump line="0" column="0" filename="/code/sc/web/instance/local/shit-hj.txt" />
-      <jump line="83" column="6" filename="/code/sc/web/sc/coms/ext/logsrender.py" />
       <jump line="35" column="13" filename="/code/sc/web/sc/coms/ext/logsrender.py" />
       <jump line="98" column="6" filename="/code/sc/web/sc/coms/ext/logsrender.py" />
       <jump line="829" column="0" filename="/code/sc/web/gce/startup-script.sh" />
@@ -344,6 +347,9 @@
       <jump line="40" column="0" filename="/code/sc/web/static/web/views/settings/locations/locations.ts" />
       <jump line="27" column="6" filename="/code/sc/web/sc/sql/review/__init__.py" />
       <jump line="28" column="19" filename="/code/sc/web/instance/local/develop_settings.py" />
+      <jump line="157" column="59" filename="/code/sc/web/sc/sql/globals/__init__.py" />
+      <jump line="55" column="6" filename="/code/sc/web/sc/sql/globals/__init__.py" />
+      <jump line="131" column="2" filename="/code/sc/web/sc/sql/globals/__init__.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -377,7 +383,7 @@
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>local</text>
+        <text>label</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
