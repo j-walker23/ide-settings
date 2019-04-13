@@ -134,6 +134,13 @@
         <mark key="^" line="55" column="19" />
         <mark key="." line="58" column="0" />
       </file>
+      <file name="/code/sc/web/static/web/sentry.ts" timestamp="1555179944674">
+        <mark key="'" line="4" column="5" />
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="27" />
+        <mark key="^" line="6" column="27" />
+        <mark key="." line="6" column="27" />
+      </file>
       <file name="/code/sc/web/sc/mods/web/__init__.py" timestamp="1555046016092">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="14" column="0" />
@@ -311,7 +318,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="0" filename="/code/sc/web/sc/coms/ext/logs.py" />
       <jump line="92" column="11" filename="/code/sc/web/sc/coms/ext/logs.py" />
       <jump line="51" column="27" filename="/code/sc/web/sc/coms/ext/logsrender.py" />
       <jump line="0" column="0" filename="/code/sc/web/sc/coms/ext/logsrender.py" />
@@ -411,6 +417,7 @@
       <jump line="86" column="20" filename="/code/sc/web/static/web/web.ts" />
       <jump line="31" column="30" filename="/code/sc/web/webpacks/serve.ts" />
       <jump line="42" column="18" filename="/code/sc/web/webpacks/serve.ts" />
+      <jump line="4" column="5" filename="/code/sc/web/static/web/sentry.ts" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -444,7 +451,7 @@
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>, 'stripeProvider'</text>
+        <text>!app.local</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
