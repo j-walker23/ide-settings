@@ -82,7 +82,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="dbkey" value="$p$ = Column(Integer, ForeignKey('$n$', **const.FK_ALL), nullable=False$END$)" description="FoeignKey" toReformat="true" toShortenFQNames="true">
+  <template name="dbkey" value="$p$ = Column(Integer, ForeignKey('$n$', **const.FK_DEL), nullable=False$END$)" description="FoeignKey" toReformat="true" toShortenFQNames="true">
     <variable name="p" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="n" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
