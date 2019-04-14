@@ -31,12 +31,12 @@
         <mark key="." line="16" column="2" />
         <mark key="^" line="16" column="2" />
       </file>
-      <file name="/code/sc/web/static/web/views/boost/boost.html" timestamp="1555269145189">
+      <file name="/code/sc/web/static/web/views/boost/boost.html" timestamp="1555271402370">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="9" />
-        <mark key="]" line="12" column="13" />
-        <mark key="." line="12" column="13" />
-        <mark key="^" line="12" column="13" />
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="14" column="27" />
+        <mark key="." line="14" column="27" />
+        <mark key="^" line="14" column="27" />
       </file>
       <file name="/code/sc/web/static/common/components/saved-searches/saved-searches.ts" timestamp="1555267313523">
         <mark key="[" line="12" column="9" />
@@ -68,6 +68,7 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
+      <file name="/code/sc/web/static/web/views/survey-summary/pivot/star-pivot.html" timestamp="1555271368021" />
       <file name="/code/sc/web/static/common/search/select-hidden/select-hidden.ts" timestamp="1555268926494">
         <mark key="'" line="9" column="25" />
         <mark key="[" line="3" column="0" />
@@ -89,12 +90,12 @@
         <mark key="^" line="27" column="19" />
         <mark key="." line="27" column="19" />
       </file>
-      <file name="/code/sc/web/static/web/views/boost/boost.ts" timestamp="1555269705534">
+      <file name="/code/sc/web/static/web/views/boost/boost.ts" timestamp="1555269724759">
         <mark key="'" line="52" column="14" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="38" column="17" />
-        <mark key="^" line="38" column="17" />
-        <mark key="." line="38" column="17" />
+        <mark key="[" line="49" column="4" />
+        <mark key="]" line="49" column="3" />
+        <mark key="^" line="49" column="3" />
+        <mark key="." line="49" column="3" />
       </file>
       <file name="/code/sc/web/sc/mods/web/rest/accounts/boost_locs_view.py" timestamp="1555252974141">
         <mark key="'" line="26" column="17" />
@@ -267,40 +268,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdG9yLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8bWQtbWVudS1pdGVtPgogICAgICAgICAgICAgICAgPG1kLWJ1dHRvbgogICAgICAgICAgICAgICAgICAoY2xpY2spPSJjdHJsLm9uTXVsdGlDYXJkcygkZXZlbnQpIgogICAgICAgICAgICAgICAgICBuZy1kaXNhYmxlZD0iIWN0cmwuc2VsZWN0ZWRDYXJkcy5sZW5ndGgiPgogICAgICAgICAgICAgICAgICBGaXJlIFJlcG9ydCBDYXJkcwogICAgICAgICAgICAgICAgPC9tZC1idXR0b24+CiAgICAgICAgICAgICAgPC9tZC1tZW51LWl0ZW0+CiAgICAgICAgICAgICAgPG1kLW1lbnUtaXRlbT4KICAgICAgICAgICAgICAgIDxtZC1idXR0b24gdWktc3JlZj0id2ViLmFsZXJ0LWdyb3VwcyI+CiAgICAgICAgICAgICAgICAgIFZpZXcgQWxlcnQgR3JvdXBzCiAgICAgICAgICAgICAgICA8L21kLWJ1dHRvbj4KICAgICAgICAgICAgICA8L21kLW1lbnUtaXRlbT4KICAgICAgICAgICAgICA8bWQtbWVudS1pdGVtIG5nLWlmPSJjdHJsLnVuc3ViIj4KICAgICAgICAgICAgICAgIDxtZC1idXR0b24gdWktc3JlZj0iLnVuc3VicyI+VW5zdWJzY3JpYmVzPC9tZC1idXR0b24+CiAgICAgICAgICAgICAgPC9tZC1tZW51LWl0ZW0+CiAgICAgICAgICAgICAgPG1kLW1lbnUtaXRlbT4KICAgICAgICAgICAgICAgIDxtZC1idXR0b24KICAgICAgICAgICAgICAgICAgKGNsaWNrKT0iY3RybC5vblJlbW92ZSgkZXZlbnQpIgogICAgICAgICAgICAgICAgICBuZy1kaXNhYmxlZD0iIWN0cmwuc2VsZWN0ZWQubGVuZ3RoIj4KICAgICAgICAgICAgICAgICAgRGVsZXRlCiAgICAgICAgICAgICAgICA8L21kLWJ1dHRvbj4KICAgICAgICAgICAgICA8L21kLW1lbnUtaXRlbT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZmlsdGVyczogcGFyYW1GaWx0ZXJzKCksCg==</text>
+        <text encoding="base64">ICAgIHNlbGVjdG9yLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKCkK</text>
+        <text encoding="base64">ICAgICAgZmlsdGVyczogcGFyYW1GaWx0ZXJzKCksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBMaXN0aW5nSW5zaWdodERldGFpbHNDb21wb25lbnQuc3RhdGUsCg==</text>
+        <text encoding="base64">ICAgIHN1cGVyKCkK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICBMaXN0aW5nSW5zaWdodERldGFpbHNDb21wb25lbnQuc3RhdGUsCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">bGV0IHNlbGVjdG9yID0gJ2xpc3RpbmdzJwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICBDcmVhdGUgbm90aWZpY2F0aW9uIGdyb3VwcyB0byBrZWVwIHRoZSB0ZWFtIGluZm9ybWVkIG9mIHBvc2l0aXZlIGFuZAogICAgICAgIG5lZ2F0aXZlIGN1c3RvbWVyIHJldmlld3MgaW4gcmVhbC10aW1lLg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>/**
  * @ngdoc component
  * @name notesSearch
  */</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbGV0ICRzdGF0ZSA9IGdldFN0YXRlKCkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRvYXN0U2ltcGxlKCdMb2NhdGlvbiBoYXMgYmVlbiBzYXZlZCcpCg==</text>
+        <text encoding="base64">ICAgICAgbGV0ICRzdGF0ZSA9IGdldFN0YXRlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>%s//BoostParams</text>
       </register>
       <register name="-" type="4">
-        <text>RepcardParams</text>
+        <text encoding="base64">dGhpcy5yZXBzJCA9IA==</text>
       </register>
       <register name="/" type="4">
         <text>AssignDashParams</text>
