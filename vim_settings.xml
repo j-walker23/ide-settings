@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/code/sc/web/static/common/models/boost-loc.model.ts" timestamp="1555252617806">
-        <mark key="[" line="14" column="19" />
-        <mark key="]" line="15" column="11" />
-        <mark key="." line="15" column="11" />
-        <mark key="^" line="15" column="11" />
+      <file name="/code/sc/web/static/common/models/boost-loc.model.ts" timestamp="1555282167903">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+        <mark key="^" line="12" column="16" />
       </file>
       <file name="/code/sc/web/static/web/web.nav.ts" timestamp="1555272844588">
         <mark key="[" line="190" column="18" />
@@ -23,6 +23,13 @@
       </file>
       <file name="/code/sc/web/static/web/views/listings/listings.html" timestamp="1555269566549">
         <mark key="'" line="68" column="0" />
+      </file>
+      <file name="/code/sc/web/static/web/views/boost/details/boost-details.ts" timestamp="1555284307605">
+        <mark key="'" line="81" column="0" />
+        <mark key="[" line="37" column="32" />
+        <mark key="]" line="37" column="38" />
+        <mark key="." line="37" column="38" />
+        <mark key="^" line="37" column="38" />
       </file>
       <file name="/code/sc/web/static/web/views/notes/search/notes-search.ts" timestamp="1555268982069">
         <mark key="[" line="13" column="0" />
@@ -43,14 +50,24 @@
         <mark key="^" line="88" column="22" />
         <mark key="." line="88" column="22" />
       </file>
+      <file name="/code/sc/web/static/web/views/reviews/share/share-review.dialog.ts" timestamp="1555280144162">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="1" />
+        <mark key="^" line="6" column="1" />
+        <mark key="." line="6" column="1" />
+      </file>
       <file name="/code/sc/web/static/web/views/boost/select-listing/post-facebook-confirmation.dialog.html" timestamp="1555276364962" />
-      <file name="/code/sc/web/static/common/common.conf.ts" timestamp="1555275786638" />
-      <file name="/code/sc/web/static/web/views/boost/boost.html" timestamp="1555276840188">
+      <file name="/code/sc/web/static/common/common.conf.ts" timestamp="1555280951858">
+        <mark key="[" line="230" column="0" />
+        <mark key="]" line="230" column="0" />
+        <mark key="." line="230" column="0" />
+      </file>
+      <file name="/code/sc/web/static/web/views/boost/boost.html" timestamp="1555281216660">
         <mark key="'" line="62" column="10" />
-        <mark key="[" line="62" column="45" />
-        <mark key="]" line="62" column="50" />
-        <mark key="." line="48" column="100" />
-        <mark key="^" line="62" column="50" />
+        <mark key="[" line="47" column="24" />
+        <mark key="]" line="47" column="28" />
+        <mark key="." line="47" column="28" />
+        <mark key="^" line="47" column="28" />
       </file>
       <file name="/code/sc/web/static/common/components/saved-searches/saved-searches.ts" timestamp="1555267313523">
         <mark key="[" line="12" column="9" />
@@ -58,8 +75,11 @@
         <mark key="^" line="12" column="21" />
         <mark key="." line="12" column="21" />
       </file>
-      <file name="/code/sc/web/static/web/views/survey-summary/pivot/star-pivot.ts" timestamp="1555274537049">
-        <mark key="'" line="52" column="0" />
+      <file name="/code/sc/web/static/web/views/reportcard/conf/reportcard-conf.ts" timestamp="1555280733284">
+        <mark key="[" line="24" column="46" />
+        <mark key="]" line="24" column="68" />
+        <mark key="." line="24" column="68" />
+        <mark key="^" line="24" column="68" />
       </file>
       <file name="/code/sc/web/sc/sql/platform/auth_loc/__init__.py" timestamp="1555272108263">
         <mark key="[" line="46" column="64" />
@@ -67,14 +87,17 @@
         <mark key="^" line="46" column="63" />
         <mark key="." line="46" column="63" />
       </file>
-      <file name="/code/sc/web/static/web/views/boost/select-listing/select-listing.dialog.ts" timestamp="1555276878370">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="14" />
-        <mark key="^" line="4" column="14" />
-        <mark key="." line="4" column="14" />
+      <file name="/code/sc/web/static/web/views/boost/select-listing/select-listing.dialog.ts" timestamp="1555282265502">
+        <mark key="[" line="6" column="76" />
+        <mark key="]" line="6" column="75" />
+        <mark key="^" line="6" column="75" />
+        <mark key="." line="6" column="75" />
       </file>
       <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1555273860464">
         <mark key="'" line="41" column="32" />
+      </file>
+      <file name="/code/sc/web/static/common/interceptors/resource-interceptor.ts" timestamp="1555282392429">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="/code/sc/web/static/web/views/boost/details/boost-details.html" timestamp="1555268397679">
         <mark key="[" line="6" column="16" />
@@ -90,6 +113,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
         <mark key="^" line="21" column="0" />
+      </file>
+      <file name="/code/sc/web/static/web/views/loc-reportcard/conf/loc-reportcard-conf.dialog.html" timestamp="1555281022089">
+        <mark key="[" line="0" column="36" />
+        <mark key="]" line="0" column="35" />
+        <mark key="." line="0" column="35" />
+        <mark key="^" line="0" column="35" />
       </file>
       <file name="/code/sc/web/migrations/versions/8bb7309d210c__118.py" timestamp="1555273829211">
         <mark key="'" line="0" column="0" />
@@ -107,13 +136,31 @@
         <mark key="^" line="45" column="3" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="/code/sc/web/static/web/views/reviews/list/reviews-list.ts" timestamp="1555276429594" />
-      <file name="/code/sc/web/static/web/views/boost/boost.ts" timestamp="1555276800012">
+      <file name="/code/sc/web/static/web/views/reviews/list/reviews-list.ts" timestamp="1555280850208">
+        <mark key="[" line="128" column="102" />
+        <mark key="]" line="128" column="116" />
+        <mark key="^" line="128" column="116" />
+        <mark key="." line="128" column="116" />
+      </file>
+      <file name="/code/sc/web/static/web/views/reviews/post-facebook/confirmation/post-facebook-confirmation.dialog.html" timestamp="1555281102935">
+        <mark key="[" line="0" column="43" />
+        <mark key="]" line="0" column="42" />
+        <mark key="." line="0" column="42" />
+        <mark key="^" line="0" column="42" />
+      </file>
+      <file name="/code/sc/web/static/web/views/boost/boost.ts" timestamp="1555284115074">
         <mark key="'" line="61" column="24" />
-        <mark key="[" line="63" column="64" />
-        <mark key="]" line="63" column="78" />
-        <mark key="." line="63" column="78" />
-        <mark key="^" line="63" column="78" />
+        <mark key="[" line="63" column="45" />
+        <mark key="]" line="63" column="45" />
+        <mark key="." line="63" column="45" />
+        <mark key="^" line="63" column="45" />
+      </file>
+      <file name="/code/sc/web/sc/mods/web/rest/accounts/boost_locs_view.py" timestamp="1555282802289">
+        <mark key="'" line="26" column="17" />
+        <mark key="[" line="31" column="34" />
+        <mark key="]" line="31" column="13" />
+        <mark key="." line="31" column="13" />
+        <mark key="^" line="31" column="13" />
       </file>
       <file name="/code/sc/web/static/web/views/gmb-posts/details/gmb-posts-details.html" timestamp="1555267732924">
         <mark key="'" line="95" column="51" />
@@ -130,7 +177,26 @@
         <mark key="." line="28" column="36" />
         <mark key="^" line="28" column="36" />
       </file>
+      <file name="/code/sc/web/node_modules/@types/angular-material/index.d.ts" timestamp="1555279429540" />
+      <file name="/code/sc/web/static/web/views/loc-reportcard/conf/loc-reportcard-conf.ts" timestamp="1555280748300">
+        <mark key="[" line="24" column="49" />
+        <mark key="]" line="24" column="80" />
+        <mark key="." line="24" column="80" />
+        <mark key="^" line="24" column="80" />
+      </file>
       <file name="/code/sc/web/static/assets/icons.svg" timestamp="1555272931350" />
+      <file name="/code/sc/web/static/web/views/reviews/share/share-review.dialog.html" timestamp="1555281094151">
+        <mark key="[" line="0" column="63" />
+        <mark key="]" line="0" column="62" />
+        <mark key="." line="0" column="62" />
+        <mark key="^" line="0" column="62" />
+      </file>
+      <file name="/code/sc/web/static/web/views/reviews/post-facebook/post-facebook.dialog.ts" timestamp="1555280151163">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="6" column="1" />
+        <mark key="^" line="6" column="1" />
+        <mark key="." line="6" column="1" />
+      </file>
       <file name="/code/sc/web/sc/sql/platform/auth_loc/boost_loc.py" timestamp="1555273290660">
         <mark key="'" line="28" column="38" />
         <mark key="[" line="31" column="37" />
@@ -141,18 +207,30 @@
       <file name="/code/sc/web/static/web/views/reportcard/reportcard.ts" timestamp="1555269453178">
         <mark key="'" line="110" column="2" />
       </file>
-      <file name="/Python Console" timestamp="1555273790180">
-        <mark key="[" line="0" column="0" />
+      <file name="/code/sc/web/static/web/views/reportcard/conf/reportcard-conf.dialog.html" timestamp="1555281032767">
+        <mark key="[" line="0" column="45" />
+        <mark key="]" line="0" column="44" />
+        <mark key="." line="0" column="44" />
+        <mark key="^" line="0" column="44" />
       </file>
       <file name="/code/sc/web/static/web/views/nav-toolbar/user-accounts/user-accounts.html" timestamp="1555269609850">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="/code/sc/web/static/common/components/date-search/date-search.dialog.ts" timestamp="1555280093291">
+        <mark key="'" line="11" column="13" />
+      </file>
       <file name="/code/sc/web/node_modules/angular-material/modules/closure/dialog/dialog.js" timestamp="1555278221599" />
-      <file name="/code/sc/web/static/common/typings/ng-modules.d.ts" timestamp="1555276137761">
-        <mark key="[" line="72" column="13" />
-        <mark key="]" line="72" column="24" />
-        <mark key="^" line="72" column="24" />
-        <mark key="." line="72" column="24" />
+      <file name="/code/sc/web/sc/mods/web/rest/accounts/revenue_conversion_view.py" timestamp="1555281611626" />
+      <file name="/code/sc/web/static/common/typings/ng-modules.d.ts" timestamp="1555280962713">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+      </file>
+      <file name="/code/sc/web/static/web/views/reviews/post-facebook/post-facebook.dialog.html" timestamp="1555281048946">
+        <mark key="[" line="1" column="64" />
+        <mark key="]" line="1" column="63" />
+        <mark key="." line="1" column="63" />
+        <mark key="^" line="1" column="63" />
       </file>
       <file name="/code/sc/web/static/common/components/grid/grid.ts" timestamp="1555274460727">
         <mark key="[" line="65" column="0" />
@@ -160,11 +238,11 @@
         <mark key="^" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="/code/sc/web/static/web/views/notes/notes.ts" timestamp="1555274921168">
-        <mark key="'" line="227" column="0" />
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="176" column="0" />
-        <mark key="." line="176" column="0" />
+      <file name="/code/sc/web/static/common/components/date-search/date-search.ts" timestamp="1555280805375">
+        <mark key="[" line="39" column="42" />
+        <mark key="]" line="39" column="62" />
+        <mark key="^" line="39" column="62" />
+        <mark key="." line="39" column="62" />
       </file>
       <file name="/code/sc/web/static/web/views/boost/search/boost-auto.service.ts" timestamp="1555267014174">
         <mark key="[" line="11" column="63" />
@@ -172,12 +250,13 @@
         <mark key="." line="11" column="67" />
         <mark key="^" line="11" column="67" />
       </file>
-      <file name="/code/sc/web/static/web/components/chips/auth-locations/auth-locations.ts" timestamp="1555276261792">
-        <mark key="'" line="7" column="29" />
+      <file name="/code/sc/web/static/web/views/reviews/manual-reply/manual.dialog.html" timestamp="1555281075056">
+        <mark key="[" line="0" column="45" />
+        <mark key="]" line="0" column="44" />
+        <mark key="." line="0" column="44" />
+        <mark key="^" line="0" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555273535937">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="/code/sc/web/static/web/views/reviews/post-facebook/confirmation/post-facebook-confimation.dialog.ts" timestamp="1555280197474" />
       <file name="/code/sc/web/sc/coms/search/search.py" timestamp="1555273786582">
         <mark key="'" line="217" column="22" />
         <mark key="[" line="214" column="9" />
@@ -185,18 +264,27 @@
         <mark key="^" line="214" column="32" />
         <mark key="." line="214" column="32" />
       </file>
-      <file name="/code/sc/web/static/common/components/dialog/sc-dialog.ts" timestamp="1555276484371">
+      <file name="/code/sc/web/static/common/components/dialog/sc-dialog.ts" timestamp="1555280737957">
         <mark key="'" line="9" column="2" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="9" column="2" />
-        <mark key="^" line="9" column="2" />
-        <mark key="." line="9" column="2" />
+        <mark key="[" line="37" column="6" />
+        <mark key="]" line="37" column="8" />
+        <mark key="^" line="37" column="8" />
+        <mark key="." line="37" column="8" />
       </file>
-      <file name="/code/sc/web/static/web/views/gmb-posts/gmb-posts.html" timestamp="1555276831974">
-        <mark key="'" line="52" column="23" />
+      <file name="/code/sc/web/static/common/models/auth_locs.model.ts" timestamp="1555284291675">
+        <mark key="[" line="42" column="19" />
+        <mark key="]" line="43" column="11" />
+        <mark key="^" line="43" column="11" />
+        <mark key="." line="43" column="11" />
       </file>
       <file name="/code/sc/web/sc/mods/web/rest/accounts/listings_view.py" timestamp="1555252314164">
         <mark key="'" line="114" column="28" />
+      </file>
+      <file name="/code/sc/web/static/common/components/date-search/date-search.dialog.html" timestamp="1555281008697">
+        <mark key="[" line="0" column="62" />
+        <mark key="]" line="0" column="61" />
+        <mark key="." line="0" column="61" />
+        <mark key="^" line="0" column="61" />
       </file>
       <file name="/code/sc/web/static/web/views/nav-toolbar/user-accounts/user-accounts.ts" timestamp="1555269605274">
         <mark key="'" line="228" column="0" />
@@ -204,14 +292,18 @@
       <file name="/code/sc/web/static/web/views/settings/locations/details/location-details.ts" timestamp="1555268324307">
         <mark key="'" line="151" column="0" />
       </file>
+      <file name="/code/sc/web/static/web/components/virt-list/auth-loc-virt-list.ts" timestamp="1555281060320">
+        <mark key="'" line="60" column="13" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="7" column="2" />
+        <mark key="^" line="7" column="2" />
+        <mark key="." line="7" column="2" />
+      </file>
       <file name="/code/sc/web/static/web/views/notes/notes.html" timestamp="1555269625162">
         <mark key="'" line="82" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="12" filename="/code/sc/web/static/web/views/survey-summary/question/agg-question.html" />
-      <jump line="58" column="0" filename="/code/sc/web/static/web/views/survey-summary/question/agg-question.html" />
-      <jump line="32" column="35" filename="/code/sc/web/static/web/views/survey-summary/question/agg-question.html" />
       <jump line="1" column="13" filename="/code/sc/web/static/web/views/survey-summary/question/agg-question.html" />
       <jump line="13" column="17" filename="/code/sc/web/static/web/views/survey-summary/question/agg-question.html" />
       <jump line="0" column="3" filename="/code/sc/web/static/web/views/survey-summary/question/agg-question.html" />
@@ -309,40 +401,43 @@
       <jump line="7" column="29" filename="/code/sc/web/static/web/components/chips/auth-locations/auth-locations.ts" />
       <jump line="9" column="2" filename="/code/sc/web/static/common/components/dialog/sc-dialog.ts" />
       <jump line="59" column="24" filename="/code/sc/web/static/web/views/boost/boost.ts" />
+      <jump line="11" column="13" filename="/code/sc/web/static/common/components/date-search/date-search.dialog.ts" />
+      <jump line="56" column="13" filename="/code/sc/web/static/web/components/virt-list/auth-loc-virt-list.ts" />
+      <jump line="0" column="0" filename="/code/sc/web/static/common/interceptors/resource-interceptor.ts" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBzdGF0aWMgdGVtcGxhdGUgPSBgYAo=</text>
+        <text encoding="base64">ICAgIGlmIChwYXJhbXMuYWxfaWQgJiYgIXBhcmFtcy5ib29zdF9pZCkKICAgICAgcmV0dXJuICRhbHMub25lKHBhcmFtcy5hbF9pZCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCBzaG93ID0gdGhpcy5zaG93Cg==</text>
+        <text encoding="base64">ICAgIGlmIChwYXJhbXMuYWxfaWQgJiYgIXBhcmFtcy5ib29zdF9pZCkKICAgICAgcmV0dXJuICRhbHMub25lKHBhcmFtcy5hbF9pZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYWwgPSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAkb25Jbml0KCkge30K</text>
+        <text encoding="base64">ICBAdmlldy5nZXRieWlkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzaG93ID0gZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGVyciA9PiB7CiAgICAgICAgcmV0dXJuIG1lKEJvb3N0TG9jLCB7IGlkOiBwYXJhbXMuYm9vc3RfaWQsIGF1dGhfaWQ6IHBhcmFtcy5hdXRoX2lkIH0sIGFwcC5hY2NvdW50KQogICAgICB9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBvayA9ICdJIGhhdmUgcGVybWlzc2lvbicK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gb2soKTogU2NEaWFsb2cK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYXNkZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmYnKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgQHZpZXcuc2F2ZQogIGRlZiBwdXQoc2VsZiwgXyk6CiAgICAiIiIiIiIK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gY2FuY2VsKCk6IFNjRGlhbG9nCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhbCcsIHRoaXMuYWwpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//BoostParams</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">W3RpdGxlXT0iY3RybC50aXRsZSIg</text>
+        <text>BoostLoc</text>
       </register>
       <register name="/" type="4">
         <text>AssignDashParams</text>
