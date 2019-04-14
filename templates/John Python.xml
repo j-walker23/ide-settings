@@ -41,4 +41,122 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="pr" value="print('$text$', $text$)" description="print format" toReformat="true" toShortenFQNames="true">
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="dbs" value="$p$ = Column(String($v$)$END$)" description="db.String" toReformat="true" toShortenFQNames="true">
+    <variable name="p" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="v" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="dbb" value="$p$ = Column(Boolean, nullable=False, default=False)$END$" description="db.Boolean" toReformat="true" toShortenFQNames="true">
+    <variable name="p" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="dbd" value="$p$ = Column(ArrowType$END$)" description="db.Datetim" toReformat="true" toShortenFQNames="true">
+    <variable name="p" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="dbcol" value="$p$ = Column($n$)" description="db.Col" toReformat="true" toShortenFQNames="true">
+    <variable name="p" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="n" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="dbrelm" value="$prop$: List['sql.$model$'] = relationship('$model$', secondary='$sec$', backref=backref('$back$'))" description="many to many" toReformat="true" toShortenFQNames="true">
+    <variable name="prop" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="model" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="sec" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="back" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="dbkey" value="$p$ = Column(Integer, ForeignKey('$n$', **const.FK_ALL), nullable=False$END$)" description="FoeignKey" toReformat="true" toShortenFQNames="true">
+    <variable name="p" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="n" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="dbrel" value="$prop$: List['sql.$model$'] = relationship('$model$', cascade='all, delete-orphan', passive_deletes=True)" description="one to many" toReformat="true" toShortenFQNames="true">
+    <variable name="prop" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="model" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="dbt" value="$p$ = Column(Text)$END$" description="db.Text" toReformat="true" toShortenFQNames="true">
+    <variable name="p" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="dbi" value="$p$ = Column(Integer)$END$" description="db.Integer" toReformat="true" toShortenFQNames="true">
+    <variable name="p" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="dbf" value="$p$ = Column(Float)$END$" description="db.Float" toReformat="true" toShortenFQNames="true">
+    <variable name="p" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="lo" value="log.info(f'$v$')" description="log" toReformat="true" toShortenFQNames="true">
+    <variable name="v" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="fix" value="@pytest.fixture&#10;def $name$():&#10;  &quot;&quot;&quot;&quot;&quot;&quot;&#10;  &#10;  return $END$&#10;" description="@pytest.fixture" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+      <option name="Python_Class" value="false" />
+    </context>
+  </template>
+  <template name="dbj" value="$p$ = Column(JSON$END$)" description="JSONType" toReformat="true" toShortenFQNames="true">
+    <variable name="p" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="ptf" value="def test_$name$(self):&#10;  &quot;&quot;&quot;$what$&quot;&quot;&quot;&#10;  $END$&#10;" description="pytest class test fn" toReformat="true" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="what" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="dbe" value="$p$ = Column(Enum($clas$), default=$clas$$END$)" description="db.Enum" toReformat="true" toShortenFQNames="true">
+    <variable name="p" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="clas" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="loo" value="log = get_logger(__name__)" description="logging.getLogger()" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="dbrelo" value="$prop$: 'sql.$model$' = relationship('$model$', uselist=False)" description="one to one" toReformat="true" toShortenFQNames="true">
+    <variable name="prop" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="model" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
