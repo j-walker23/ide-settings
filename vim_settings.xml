@@ -9,11 +9,11 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="19" />
       </file>
-      <file name="/code/sc/web/static/web/views/survey-summary/survey-summary.html" timestamp="1555200593804">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-        <mark key="^" line="62" column="100" />
+      <file name="/code/sc/web/static/web/views/survey-summary/survey-summary.html" timestamp="1555202122311">
+        <mark key="[" line="64" column="17" />
+        <mark key="]" line="64" column="16" />
+        <mark key="." line="64" column="16" />
+        <mark key="^" line="64" column="16" />
       </file>
       <file name="/code/sc/web/static/web/web.ts" timestamp="1555176207666">
         <mark key="'" line="86" column="20" />
@@ -21,12 +21,12 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="/code/sc/web/static/web/views/survey-summary/question/agg-question.html" timestamp="1555200092295">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="0" column="23" />
-        <mark key="^" line="0" column="23" />
-        <mark key="." line="0" column="23" />
+      <file name="/code/sc/web/static/web/views/survey-summary/question/agg-question.html" timestamp="1555203607412">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="6" column="45" />
+        <mark key="]" line="6" column="45" />
+        <mark key="." line="6" column="45" />
+        <mark key="^" line="0" column="32" />
       </file>
       <file name="/code/sc/web/static/common/common.conf.ts" timestamp="1555176359852">
         <mark key="[" line="121" column="17" />
@@ -141,11 +141,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="/code/sc/web/static/common/components/card/sc-card.sass" timestamp="1555200312061">
-        <mark key="[" line="14" column="17" />
-        <mark key="]" line="14" column="18" />
-        <mark key="." line="14" column="18" />
-        <mark key="^" line="15" column="1" />
+      <file name="/code/sc/web/static/common/components/card/sc-card.sass" timestamp="1555203591539">
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="20" column="10" />
+        <mark key="." line="20" column="10" />
+        <mark key="^" line="20" column="10" />
       </file>
       <file name="/code/sc/web/static/common/components/page/page.ts" timestamp="1555195446768">
         <mark key="'" line="8" column="18" />
@@ -312,10 +312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="0" filename="/code/sc/web/sc/coms/ext/logs.py" />
-      <jump line="0" column="0" filename="/code/sc/web/sc/coms/ext/logprocessors.py" />
-      <jump line="19" column="0" filename="/code/sc/web/sc/coms/ext/logs.py" />
-      <jump line="97" column="0" filename="/code/sc/web/sc/coms/ext/logs.py" />
       <jump line="43" column="6" filename="/code/sc/web/sc/coms/ext/logs.py" />
       <jump line="82" column="41" filename="/code/sc/web/sc/coms/ext/logs.py" />
       <jump line="58" column="0" filename="/code/sc/web/sc/coms/ext/logprocessors.py" />
@@ -412,40 +408,44 @@
       <jump line="0" column="3" filename="/code/sc/web/static/web/views/survey-summary/question/agg-question.html" />
       <jump line="21" column="21" filename="/code/sc/web/static/common/components/card/sc-card.ts" />
       <jump line="57" column="0" filename="/code/sc/web/static/web/views/survey-summary/question/agg-question.html" />
+      <jump line="28" column="19" filename="/code/sc/web/static/web/views/survey-summary/question/agg-question.html" />
+      <jump line="16" column="19" filename="/code/sc/web/static/web/views/survey-summary/question/agg-question.html" />
+      <jump line="3" column="1" filename="/code/sc/web/static/web/views/survey-summary/question/agg-question.html" />
+      <jump line="60" column="0" filename="/code/sc/web/static/web/views/survey-summary/question/agg-question.html" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNsYXNzPSJtLTgiCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxzcGFuIG5nLWlmPSJjdHJsLmkgPT0gMyI+e3tjdHJsLnEudGV4dH19PC9zcGFuPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAuY29udGVudAo=</text>
+        <text encoding="base64">PHNjLWNhcmQ+CiAgCjwvc2MtY2FyZD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IDE2cHgK</text>
+        <text encoding="base64">PHNjLWNhcmQ+CiAgCjwvc2MtY2FyZD4KPGRpdiBjbGFzcz0iYWdnLXF1ZXN0aW9uIj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBib3gtc2hhZG93OiAwIDFweCAzcHggMCByZ2JhKDAsIDAsIDAsIC4yKSwgMCAxcHggMXB4IDAgcmdiYSgwLCAwLCAwLCAuMTQpLCAwIDJweCAxcHggLTFweCByZ2JhKDAsIDAsIDAsIC4xMikK</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iYWdnLXF1ZXN0aW9uIj4KICA8ZGl2IGNsYXNzPSIiIGZsZXggbGF5b3V0PSJjb2x1bW4iPgogICAgPGRpdiBsYXlvdXQ9InJvdyI+CiAgICAgIDxkaXYgbGF5b3V0PSJjb2x1bW4iIGNsYXNzPSJxLW51bSI+e3sgY3RybC5pICsgMSB9fTwvZGl2PgogICAgICA8ZGl2IGxheW91dD0iY29sdW1uIiBmbGV4PSJncm93Ij4KICAgICAgICA8ZGl2IGxheW91dD0icm93IiBjbGFzcz0icS10aXRsZSI+e3sgY3RybC5xLnR5cGUgfX08L2Rpdj4KICAgICAgICA8ZGl2IGxheW91dD0icm93IiBjbGFzcz0icS1zdWJ0aXRsZSI+CiAgICAgICAgICB7eyBjdHJsLnEudGV4dCB9fQogICAgICAgICAgPHNwYW4gbmctaWY9ImN0cmwuaSA9PSAzIj57e2N0cmwucS50ZXh0fX08L3NwYW4+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgoKICAgICAgPGRpdiBsYXlvdXQ9InJvdyI+CiAgICAgICAgPG1kLWJ1dHRvbgogICAgICAgICAgY2xhc3M9Im1kLXJhaXNlZCBtZC1pY29uLWJ1dHRvbiIKICAgICAgICAgIHVpLXNyZWY9Ii5jb21wYXJlKHtzaWQ6IGN0cmwuc2lkLCBieTogJ2RvYycsIHFpZDogY3RybC5xLnFpZCwgdHlwZTogY3RybC5xLnR5cGV9KSI+CiAgICAgICAgICA8bWQtaWNvbiBtZC1zdmctaWNvbj0icGVyc29uIj48L21kLWljb24+CiAgICAgICAgICA8bWQtdG9vbHRpcD4KICAgICAgICAgICAgQ29tcGFyZSBwcm92aWRlcidzIHJlc3VsdHMgb2YgdGhlIHt7IGN0cmwucS50eXBlIH19CiAgICAgICAgICAgIHF1ZXN0aW9uCiAgICAgICAgICA8L21kLXRvb2x0aXA+CiAgICAgICAgPC9tZC1idXR0b24+CiAgICAgICAgPG1kLWJ1dHRvbgogICAgICAgICAgY2xhc3M9Im1kLXJhaXNlZCBtZC1pY29uLWJ1dHRvbiIKICAgICAgICAgIHVpLXNyZWY9Ii5jb21wYXJlKHtzaWQ6IGN0cmwuc2lkLCBieTogJ2xvYycsIHFpZDogY3RybC5xLnFpZCwgdHlwZTogY3RybC5xLnR5cGV9KSI+CiAgICAgICAgICA8bWQtaWNvbiBtZC1zdmctaWNvbj0iYnVzaW5lc3MiPjwvbWQtaWNvbj4KICAgICAgICAgIDxtZC10b29sdGlwPgogICAgICAgICAgICBDb21wYXJlIGxvY2F0aW9uJ3MgcmVzdWx0cyBvZiB0aGUge3sgY3RybC5xLnR5cGUgfX0KICAgICAgICAgICAgcXVlc3Rpb24KICAgICAgICAgIDwvbWQtdG9vbHRpcD4KICAgICAgICA8L21kLWJ1dHRvbj4KICAgICAgPC9kaXY+CgogICAgPC9kaXY+CiAgICA8bWQtZGl2aWRlciBjbGFzcz0ibWItMTYiPjwvbWQtZGl2aWRlcj4KICAgIDxkaXYgbGF5b3V0PSJyb3ciIGNsYXNzPSJjaG9pY2Utc3RhdHMiPgoKICAgICAgPGRpdiBmbGV4IG5nLXJlcGVhdD0iYyBpbiBjdHJsLnEuY2hvaWNlcyI+CiAgICAgICAgPGRpdiBjbGFzcz0icS1uYW1lIj57eyBjLmlkIH19PC9kaXY+CiAgICAgICAgPGRpdj57eyBjLnBlcmNlbnQgKiAxMDAgfCBudW1iZXI6MSB9fSU8L2Rpdj4KICAgICAgICA8ZGl2Pih7eyBjLmNvdW50IH19KTwvZGl2PgogICAgICA8L2Rpdj4KCiAgICAgIDxkaXYgZmxleCBuZy1pZj0iY3RybC5xLnNraXBwZWQiPgogICAgICAgIDxkaXYgY2xhc3M9InEtbmFtZSI+Ti9BPC9kaXY+CiAgICAgICAgPGRpdj57eyBjdHJsLnEuc2tpcHBlZF9wZXJjZW50ICogMTAwIHwgbnVtYmVyOjEgfX0lPC9kaXY+CiAgICAgICAgPGRpdj4oe3sgY3RybC5xLnNraXBwZWQgfX0pPC9kaXY+CiAgICAgIDwvZGl2PgoKICAgICAgPGRpdiBmbGV4PgogICAgICAgIDxkaXYgY2xhc3M9InEtbmFtZSI+UmF0aW5nPC9kaXY+CiAgICAgICAgPGRpdj57eyBjdHJsLnEuYXZnIHwgbnVtYmVyOiAyIH19PC9kaXY+CiAgICAgICAgPGRpdj4oe3sgY3RybC5xLnRvdGFsIH19KTwvZGl2PgogICAgICA8L2Rpdj4KCiAgICA8L2Rpdj4KICA8L2Rpdj4KPC9kaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xhc3M9Im0tOCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNsYXNzPSJtLTgiCg==</text>
+        <text encoding="base64">ICAgICAgICA8L3NjLWNhcmQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxleC1ndC1zbT0iNTAiCiAgICAgICAgICAgIGxheW91dD0iY29sdW1uIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjLWNhcmQ+Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8YWdnLXF1ZXN0aW9uCiAgICAgICAgICBbcV09InNhcSIKICAgICAgICAgIFtpXT0iJGluZGV4IgogICAgICAgICAgW3NpZF09ImFnZy5zaWQiCiAgICAgICAgICBmbGV4LWd0LXNtPSI1MCIKICAgICAgICAgIGxheW91dD0iY29sdW1uIgogICAgICAgICAgbmctcmVwZWF0PSJzYXEgaW4gYWdnLnF1ZXN0aW9ucyI+CiAgICAgICAgPC9hZ2ctcXVlc3Rpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGZsZXgtZ3Qtc209IjUwIgogICAgICAgICAgbGF5b3V0PSJjb2x1bW4iCiAgICAgICAgICBuZy1yZXBlYXQ9InNhcSBpbiBhZ2cucXVlc3Rpb25zIgo=</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
