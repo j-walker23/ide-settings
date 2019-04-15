@@ -25,11 +25,7 @@
         <mark key="'" line="68" column="0" />
       </file>
       <file name="/code/sc/web/static/web/views/boost/details/boost-details.ts" timestamp="1555284307605">
-        <mark key="'" line="81" column="0" />
-        <mark key="[" line="37" column="32" />
-        <mark key="]" line="37" column="38" />
-        <mark key="." line="37" column="38" />
-        <mark key="^" line="37" column="38" />
+        <mark key="'" line="76" column="0" />
       </file>
       <file name="/code/sc/web/static/web/views/notes/search/notes-search.ts" timestamp="1555268982069">
         <mark key="[" line="13" column="0" />
@@ -95,8 +91,8 @@
         <mark key="^" line="6" column="75" />
         <mark key="." line="6" column="75" />
       </file>
-      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1555273860464">
-        <mark key="'" line="41" column="32" />
+      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1555325153603">
+        <mark key="'" line="38" column="9" />
       </file>
       <file name="/code/sc/web/static/common/interceptors/resource-interceptor.ts" timestamp="1555282392429">
         <mark key="'" line="0" column="0" />
@@ -151,11 +147,10 @@
         <mark key="^" line="0" column="42" />
       </file>
       <file name="/code/sc/web/static/web/views/boost/boost.ts" timestamp="1555284115074">
-        <mark key="'" line="61" column="24" />
-        <mark key="[" line="63" column="45" />
-        <mark key="]" line="63" column="45" />
-        <mark key="." line="63" column="45" />
-        <mark key="^" line="63" column="45" />
+        <mark key="[" line="7" column="45" />
+        <mark key="]" line="7" column="45" />
+        <mark key="." line="7" column="45" />
+        <mark key="^" line="7" column="45" />
       </file>
       <file name="/code/sc/web/sc/mods/web/rest/accounts/boost_locs_view.py" timestamp="1555282802289">
         <mark key="'" line="26" column="17" />
@@ -215,6 +210,12 @@
         <mark key="." line="0" column="44" />
         <mark key="^" line="0" column="44" />
       </file>
+      <file name="/code/sc/web/instance/env.txt" timestamp="1555325226481">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+      </file>
       <file name="/code/sc/web/static/web/views/nav-toolbar/user-accounts/user-accounts.html" timestamp="1555269609850">
         <mark key="'" line="0" column="0" />
       </file>
@@ -223,11 +224,6 @@
       </file>
       <file name="/code/sc/web/node_modules/angular-material/modules/closure/dialog/dialog.js" timestamp="1555278221599" />
       <file name="/code/sc/web/sc/mods/web/rest/accounts/revenue_conversion_view.py" timestamp="1555281611626" />
-      <file name="/code/sc/web/static/common/typings/ng-modules.d.ts" timestamp="1555280962713">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-      </file>
       <file name="/code/sc/web/static/web/views/reviews/post-facebook/post-facebook.dialog.html" timestamp="1555281048946">
         <mark key="[" line="1" column="64" />
         <mark key="]" line="1" column="63" />
@@ -291,7 +287,7 @@
       <file name="/code/sc/web/static/web/views/nav-toolbar/user-accounts/user-accounts.ts" timestamp="1555269605274">
         <mark key="'" line="228" column="0" />
       </file>
-      <file name="/code/sc/web/instance/local/shit-notes.txt" timestamp="1555324179946">
+      <file name="/code/sc/web/instance/local/shit-notes.txt" timestamp="1555325011834">
         <mark key="'" line="150" column="64" />
         <mark key="[" line="146" column="64" />
         <mark key="]" line="172" column="0" />
@@ -313,7 +309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="/code/sc/web/static/web/views/survey-summary/question/agg-question.html" />
       <jump line="87" column="2" filename="/code/sc/web/static/web/web.ts" />
       <jump line="42" column="27" filename="/code/sc/web/static/web/views/survey-summary/survey-summary.html" />
       <jump line="29" column="0" filename="/code/sc/web/static/web/views/survey-summary/question/agg-question.html" />
@@ -413,6 +408,7 @@
       <jump line="1" column="0" filename="/code/sc/web/instance/local/boost-listing-model.rtf" />
       <jump line="125" column="22" filename="/code/sc/web/instance/local/shit-notes.txt" />
       <jump line="150" column="64" filename="/code/sc/web/instance/local/shit-notes.txt" />
+      <jump line="38" column="9" filename="/code/sc/web/instance/local/develop_settings.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -447,7 +443,7 @@ repetition.</text>
         <text>%s//BoostParams</text>
       </register>
       <register name="-" type="4">
-        <text>Because</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>AssignDashParams</text>
