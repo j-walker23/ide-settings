@@ -57,10 +57,11 @@
         <mark key="." line="6" column="1" />
       </file>
       <file name="/code/sc/web/static/web/views/boost/select-listing/post-facebook-confirmation.dialog.html" timestamp="1555276364962" />
-      <file name="/code/sc/web/static/common/common.conf.ts" timestamp="1555280951858">
-        <mark key="[" line="230" column="0" />
-        <mark key="]" line="230" column="0" />
-        <mark key="." line="230" column="0" />
+      <file name="/code/sc/web/instance/local/boost-listing-model.rtf" timestamp="1555322132697">
+        <mark key="[" line="7" column="42" />
+        <mark key="]" line="7" column="41" />
+        <mark key="^" line="7" column="41" />
+        <mark key="." line="7" column="41" />
       </file>
       <file name="/code/sc/web/static/web/views/boost/boost.html" timestamp="1555281216660">
         <mark key="'" line="62" column="10" />
@@ -289,12 +290,12 @@
       <file name="/code/sc/web/static/web/views/nav-toolbar/user-accounts/user-accounts.ts" timestamp="1555269605274">
         <mark key="'" line="228" column="0" />
       </file>
-      <file name="/code/sc/web/instance/local/shit-notes.txt" timestamp="1555313537703">
-        <mark key="'" line="80" column="0" />
-        <mark key="[" line="111" column="155" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="80" column="0" />
+      <file name="/code/sc/web/instance/local/shit-notes.txt" timestamp="1555320660778">
+        <mark key="'" line="95" column="71" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="146" column="63" />
+        <mark key="." line="146" column="63" />
+        <mark key="^" line="146" column="63" />
       </file>
       <file name="/code/sc/web/static/web/views/settings/locations/details/location-details.ts" timestamp="1555268324307">
         <mark key="'" line="151" column="0" />
@@ -311,7 +312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="21" filename="/code/sc/web/static/common/components/card/sc-card.ts" />
       <jump line="57" column="0" filename="/code/sc/web/static/web/views/survey-summary/question/agg-question.html" />
       <jump line="28" column="19" filename="/code/sc/web/static/web/views/survey-summary/question/agg-question.html" />
       <jump line="16" column="19" filename="/code/sc/web/static/web/views/survey-summary/question/agg-question.html" />
@@ -411,40 +411,43 @@
       <jump line="0" column="0" filename="/code/sc/web/instance/local/shit-notes.txt" />
       <jump line="99" column="88" filename="/code/sc/web/instance/local/shit-notes.txt" />
       <jump line="80" column="0" filename="/code/sc/web/instance/local/shit-notes.txt" />
+      <jump line="95" column="71" filename="/code/sc/web/instance/local/shit-notes.txt" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">V2VsbCBmdWNrIHNoaXQsIGkgbmVlZCB0byBhc2sgYWdhaW4gZm9yIGEgYWRkeSBiYXRjaCB0b25pZ2h0IHdoZW4geW91IGNhbiBwcmV0dHkgcGxlYXNlLgpOb3QgYSBydXNoIHRoaXMgdGltZSwgaSBzdGlsbCBoYXZlIGhhbGYuCgpOb3JtYWxseSBpIHdvdWxkIGp1c3QgZ28gdG8gYmVkIGFuZCBidWcgeW91IHRvbW9ycm93IGJ1dCBvbiBUaHVyc2RheSBJIHByb21pc2VkIGkgd291bGQgaGF2ZSBzb21ldGhpbmcKdG8gc2hvdyBmb3IgQm9vc3QgQWRzIGZpbmFsbHkgYWZ0ZXIgYSBtb250aCBhbmQgSSd2ZSBiZWVuIHN0dWNrIGFsbCB3ZWVrZW5kIG9uIGEgc2hpdHR5IGFwaSBhdXRoZW50aWNhdGlvbiBidWcuCgpTbyB5ZWFoLCBpIGhhdmUgb2JsaXRlcmF0ZWQgbXkgZHJ1Z3MuIEkgZG9uJ3Qga25vdyBob3cgbXVjaCBleHRyYSB5b3UgZ290IGZyb20gVHlsZXIKYnV0IGkgaG9wZSBpdCdzIGVub3VnaCB0byBnZXQgbWUgdGhyb3VnaCBHb29nbGVzIEdheSBBZHMgbG9sLiAKTGFzdGx5LCBwbGVhc2UgbGV0IG1lIGtub3cgaWYgc2hhdW5hL3lvdXJtb20gaGFzIG1vcmUgc2hpdCB0byBzZWxsIHNvIGkgY2FuIGdldCBzb21lIG1vbmllcy4KSSBhbHdheXMgZmVlbCBiZXR0ZXIgaWYgaSBrbm93IGknbSBub3QgZ29pbmcgdG8gZGVwbGV0ZSB1cywgc2NyZXdpbmcgeW91IG92ZXIgdG9vLgoKVGhhbmtzIG5pZwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChwYXJhbXMuYWxfaWQgJiYgIXBhcmFtcy5ib29zdF9pZCkKICAgICAgcmV0dXJuICRhbHMub25lKHBhcmFtcy5hbF9pZCkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChwYXJhbXMuYWxfaWQgJiYgIXBhcmFtcy5ib29zdF9pZCkKICAgICAgcmV0dXJuICRhbHMub25lKHBhcmFtcy5hbF9pZCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYWwgPSAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBAdmlldy5nZXRieWlkCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGVyciA9PiB7CiAgICAgICAgcmV0dXJuIG1lKEJvb3N0TG9jLCB7IGlkOiBwYXJhbXMuYm9vc3RfaWQsIGF1dGhfaWQ6IHBhcmFtcy5hdXRoX2lkIH0sIGFwcC5hY2NvdW50KQogICAgICB9KQo=</text>
-      </register>
-      <register name="7" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYXNkZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmYnKQo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Q29tcGFueSBOYW1lOiBTb2NpYWxDbGltYgo=</text>
+      </register>
+      <register name="3" type="4">
+        <text>I must have over answered on other questions so this part will be brief to avoid
+repetition.</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IG5lZ2F0aXZlIApmZWVkYmFjay4K</text>
+      </register>
+      <register name="6" type="4">
+        <text>remedying  
+any</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">QnVzaW5lc3MgTW9kZWw6IE15IGNvbXBhbnkgb3BlcmF0ZXMgYW4gZS1jb21tZXJjZSBzdG9yZSB0byBzZWxsIHdpZGdldHMgb25saW5lLiBXZSBoYXZlIHNldmVyYWwgCmRpZmZlcmVudCBzYXNkZgo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">V2VsbCBmdWNrIHNoaXQsIGkgbmVlZCB0byBhc2sgYWdhaW4gZm9yIGEgYWRkeSBiYXRjaCB0b25pZ2h0IHdoZW4geW91IGNhbiBwcmV0dHkgcGxlYXNlLgpOb3QgYSBydXNoIHRoaXMgdGltZSwgaSBzdGlsbCBoYXZlIGhhbGYuCgpOb3JtYWxseSBpIHdvdWxkIGp1c3QgZ28gdG8gYmVkIGFuZCBidWcgeW91IHRvbW9ycm93IGJ1dCBvbiBUaHVyc2RheSBJIHByb21pc2VkIGkgd291bGQgaGF2ZSBzb21ldGhpbmcKdG8gc2hvdyBmb3IgQm9vc3QgQWRzIGZpbmFsbHkgYWZ0ZXIgYSBtb250aCBhbmQgSSd2ZSBiZWVuIHN0dWNrIGFsbCB3ZWVrZW5kIG9uIGEgc2hpdHR5IGFwaSBhdXRoZW50aWNhdGlvbiBidWcuCgpTbyB5ZWFoLCBpIGhhdmUgb2JsaXRlcmF0ZWQgbXkgZHJ1Z3MuIEkgZG9uJ3Qga25vdyBob3cgbXVjaCBleHRyYSB5b3UgZ290IGZyb20gVHlsZXIKYnV0IGkgaG9wZSBpdCdzIGVub3VnaCB0byBnZXQgbWUgdGhyb3VnaCBHb29nbGVzIEdheSBBZHMgbG9sLiAKTGFzdGx5LCBwbGVhc2UgbGV0IG1lIGtub3cgaWYgc2hhdW5hL3lvdXJtb20gaGFzIG1vcmUgc2hpdCB0byBzZWxsIHNvIGkgY2FuIGdldCBzb21lIG1vbmllcy4KSSBhbHdheXMgZmVlbCBiZXR0ZXIgaWYgaSBrbm93IGknbSBub3QgZ29pbmcgdG8gZGVwbGV0ZSB1cywgc2NyZXdpbmcgeW91IG92ZXIgdG9vLgoKVGhhbmtzIG5pZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgQHZpZXcuc2F2ZQogIGRlZiBwdXQoc2VsZiwgXyk6CiAgICAiIiIiIiIK</text>
+        <text encoding="base64">ICAgIGlmIChwYXJhbXMuYWxfaWQgJiYgIXBhcmFtcy5ib29zdF9pZCkKICAgICAgcmV0dXJuICRhbHMub25lKHBhcmFtcy5hbF9pZCkK</text>
       </register>
       <register name=":" type="4">
         <text>%s//BoostParams</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JnBhc3NpdmU9MTIwOTYwMCZzYWN1PTEmaWdub3Jlc2hhZG93PTAmaGw9ZW4mYWN1aT0yJmZsb3duYW1lPWdsaWZ3ZWJzaWduaW4m</text>
+        <text>amazingness</text>
       </register>
       <register name="/" type="4">
         <text>AssignDashParams</text>
