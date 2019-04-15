@@ -47,6 +47,9 @@
         <mark key="^" line="404" column="55" />
         <mark key="." line="404" column="55" />
       </file>
+      <file name="/code/sc/web/sc/app/integs/bulk/incoming.py" timestamp="1555359616680">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/code/sc/web/static/web/web.ts" timestamp="1555272639899">
         <mark key="[" line="87" column="14" />
         <mark key="]" line="88" column="22" />
@@ -59,7 +62,6 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="/code/sc/web/static/web/views/boost/select-listing/post-facebook-confirmation.dialog.html" timestamp="1555276364962" />
       <file name="/code/sc/web/instance/local/boost-listing-model.rtf" timestamp="1555324172503">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="22" column="0" />
@@ -181,14 +183,12 @@
         <mark key="." line="28" column="36" />
         <mark key="^" line="28" column="36" />
       </file>
-      <file name="/code/sc/web/node_modules/@types/angular-material/index.d.ts" timestamp="1555279429540" />
       <file name="/code/sc/web/static/web/views/loc-reportcard/conf/loc-reportcard-conf.ts" timestamp="1555280748300">
         <mark key="[" line="24" column="49" />
         <mark key="]" line="24" column="80" />
         <mark key="." line="24" column="80" />
         <mark key="^" line="24" column="80" />
       </file>
-      <file name="/code/sc/web/static/assets/icons.svg" timestamp="1555272931350" />
       <file name="/code/sc/web/static/web/views/reviews/share/share-review.dialog.html" timestamp="1555281094151">
         <mark key="[" line="0" column="63" />
         <mark key="]" line="0" column="62" />
@@ -235,8 +235,6 @@
       <file name="/code/sc/web/static/common/components/date-search/date-search.dialog.ts" timestamp="1555280093291">
         <mark key="'" line="11" column="13" />
       </file>
-      <file name="/code/sc/web/node_modules/angular-material/modules/closure/dialog/dialog.js" timestamp="1555278221599" />
-      <file name="/code/sc/web/sc/mods/web/rest/accounts/revenue_conversion_view.py" timestamp="1555281611626" />
       <file name="/code/sc/web/static/common/typings/ng-modules.d.ts" timestamp="1555280962713">
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="0" />
@@ -272,7 +270,6 @@
         <mark key="." line="0" column="44" />
         <mark key="^" line="0" column="44" />
       </file>
-      <file name="/code/sc/web/static/web/views/reviews/post-facebook/confirmation/post-facebook-confimation.dialog.ts" timestamp="1555280197474" />
       <file name="/code/sc/web/instance/google-ads.yaml" timestamp="1555359298660">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="29" />
@@ -298,7 +295,6 @@
         <mark key="^" line="43" column="11" />
         <mark key="." line="43" column="11" />
       </file>
-      <file name="/code/sc/web/static/web/views/notes/details/note-adv/note-adv.ts" timestamp="1555344232784" />
       <file name="/code/sc/web/sc/mods/web/rest/accounts/listings_view.py" timestamp="1555252314164">
         <mark key="'" line="114" column="28" />
       </file>
@@ -333,7 +329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="0" filename="/code/sc/web/static/web/views/survey-summary/survey-summary.html" />
       <jump line="28" column="27" filename="/code/sc/web/static/web/views/survey-summary/survey-summary.html" />
       <jump line="149" column="30" filename="/code/sc/web/static/common/components/page/page.ts" />
       <jump line="119" column="0" filename="/code/sc/web/static/common/components/page/page.ts" />
@@ -433,6 +428,7 @@
       <jump line="13" column="28" filename="/code/sc/web/instance/google-ads.yaml" />
       <jump line="20" column="60" filename="/code/sc/web/cli/ads_auth.py" />
       <jump line="23" column="0" filename="/code/sc/web/cli/ads_auth.py" />
+      <jump line="0" column="0" filename="/code/sc/web/sc/app/integs/bulk/incoming.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
