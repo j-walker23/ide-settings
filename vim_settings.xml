@@ -238,6 +238,12 @@
         <mark key="^" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
+      <file name="/code/sc/web/static/web/views/notes/notes.ts" timestamp="1555274921168">
+        <mark key="'" line="227" column="0" />
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="176" column="0" />
+        <mark key="." line="176" column="0" />
+      </file>
       <file name="/code/sc/web/static/common/components/date-search/date-search.ts" timestamp="1555280805375">
         <mark key="[" line="39" column="42" />
         <mark key="]" line="39" column="62" />
@@ -289,6 +295,12 @@
       <file name="/code/sc/web/static/web/views/nav-toolbar/user-accounts/user-accounts.ts" timestamp="1555269605274">
         <mark key="'" line="228" column="0" />
       </file>
+      <file name="/code/sc/web/instance/local/shit-notes.txt" timestamp="1555294945444">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+      </file>
       <file name="/code/sc/web/static/web/views/settings/locations/details/location-details.ts" timestamp="1555268324307">
         <mark key="'" line="151" column="0" />
       </file>
@@ -304,7 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="13" filename="/code/sc/web/static/web/views/survey-summary/question/agg-question.html" />
       <jump line="13" column="17" filename="/code/sc/web/static/web/views/survey-summary/question/agg-question.html" />
       <jump line="0" column="3" filename="/code/sc/web/static/web/views/survey-summary/question/agg-question.html" />
       <jump line="21" column="21" filename="/code/sc/web/static/common/components/card/sc-card.ts" />
@@ -404,40 +415,41 @@
       <jump line="11" column="13" filename="/code/sc/web/static/common/components/date-search/date-search.dialog.ts" />
       <jump line="56" column="13" filename="/code/sc/web/static/web/components/virt-list/auth-loc-virt-list.ts" />
       <jump line="0" column="0" filename="/code/sc/web/static/common/interceptors/resource-interceptor.ts" />
+      <jump line="0" column="0" filename="/code/sc/web/instance/local/shit-notes.txt" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIChwYXJhbXMuYWxfaWQgJiYgIXBhcmFtcy5ib29zdF9pZCkKICAgICAgcmV0dXJuICRhbHMub25lKHBhcmFtcy5hbF9pZCkK</text>
+      <register name="1" type="4">
+        <text encoding="base64">V2VsbCBmdWNrIHNoaXQsIGkgbmVlZCB0byBhc2sgYWdhaW4gZm9yIGEgYWRkeSBiYXRjaCB0b25pZ2h0IHdoZW4geW91IGNhbiBwcmV0dHkgcGxlYXNlLgpOb3QgYSBydXNoIHRoaXMgdGltZSwgaSBzdGlsbCBoYXZlIGhhbGYuCgpOb3JtYWxseSBpIHdvdWxkIGp1c3QgZ28gdG8gYmVkIGFuZCBidWcgeW91IHRvbW9ycm93IGJ1dCBvbiBUaHVyc2RheSBJIHByb21pc2VkIGkgd291bGQgaGF2ZSBzb21ldGhpbmcKdG8gc2hvdyBmb3IgQm9vc3QgQWRzIGZpbmFsbHkgYWZ0ZXIgYSBtb250aCBhbmQgSSd2ZSBiZWVuIHN0dWNrIGFsbCB3ZWVrZW5kIG9uIGEgc2hpdHR5IGFwaSBhdXRoZW50aWNhdGlvbiBidWcuCgpTbyB5ZWFoLCBpIGhhdmUgb2JsaXRlcmF0ZWQgbXkgZHJ1Z3MuIEkgZG9uJ3Qga25vdyBob3cgbXVjaCBleHRyYSB5b3UgZ290IGZyb20gVHlsZXIKYnV0IGkgaG9wZSBpdCdzIGVub3VnaCB0byBnZXQgbWUgdGhyb3VnaCBHb29nbGVzIEdheSBBZHMgbG9sLiAKTGFzdGx5LCBwbGVhc2UgbGV0IG1lIGtub3cgaWYgc2hhdW5hL3lvdXJtb20gaGFzIG1vcmUgc2hpdCB0byBzZWxsIHNvIGkgY2FuIGdldCBzb21lIG1vbmllcy4KSSBhbHdheXMgZmVlbCBiZXR0ZXIgaWYgaSBrbm93IGknbSBub3QgZ29pbmcgdG8gZGVwbGV0ZSB1cywgc2NyZXdpbmcgeW91IG92ZXIgdG9vLgoKVGhhbmtzIG5pZwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGlmIChwYXJhbXMuYWxfaWQgJiYgIXBhcmFtcy5ib29zdF9pZCkKICAgICAgcmV0dXJuICRhbHMub25lKHBhcmFtcy5hbF9pZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYWwgPSAK</text>
+        <text encoding="base64">ICAgIGlmIChwYXJhbXMuYWxfaWQgJiYgIXBhcmFtcy5ib29zdF9pZCkKICAgICAgcmV0dXJuICRhbHMub25lKHBhcmFtcy5hbF9pZCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAdmlldy5nZXRieWlkCg==</text>
+        <text encoding="base64">ICAgICAgYWwgPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGVyciA9PiB7CiAgICAgICAgcmV0dXJuIG1lKEJvb3N0TG9jLCB7IGlkOiBwYXJhbXMuYm9vc3RfaWQsIGF1dGhfaWQ6IHBhcmFtcy5hdXRoX2lkIH0sIGFwcC5hY2NvdW50KQogICAgICB9KQo=</text>
+        <text encoding="base64">ICBAdmlldy5nZXRieWlkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGVyciA9PiB7CiAgICAgICAgcmV0dXJuIG1lKEJvb3N0TG9jLCB7IGlkOiBwYXJhbXMuYm9vc3RfaWQsIGF1dGhfaWQ6IHBhcmFtcy5hdXRoX2lkIH0sIGFwcC5hY2NvdW50KQogICAgICB9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYXNkZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmYnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgQHZpZXcuc2F2ZQogIGRlZiBwdXQoc2VsZiwgXyk6CiAgICAiIiIiIiIK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYXNkZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmYnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhbCcsIHRoaXMuYWwpCg==</text>
+        <text encoding="base64">CiAgQHZpZXcuc2F2ZQogIGRlZiBwdXQoc2VsZiwgXyk6CiAgICAiIiIiIiIK</text>
       </register>
       <register name=":" type="4">
         <text>%s//BoostParams</text>
       </register>
       <register name="-" type="4">
-        <text>BoostLoc</text>
+        <text>god damnit</text>
       </register>
       <register name="/" type="4">
         <text>AssignDashParams</text>
