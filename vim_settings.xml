@@ -114,6 +114,9 @@
         <mark key="." line="24" column="68" />
         <mark key="^" line="24" column="68" />
       </file>
+      <file name="/code/sc/web/static/web/views/settings/platforms/connect-platform/connect-platform.html" timestamp="1555363994217">
+        <mark key="'" line="21" column="0" />
+      </file>
       <file name="/code/sc/web/sc/sql/platform/auth_loc/__init__.py" timestamp="1555272108263">
         <mark key="[" line="46" column="64" />
         <mark key="]" line="46" column="63" />
@@ -274,16 +277,17 @@
         <mark key="^" line="134" column="0" />
         <mark key="." line="134" column="0" />
       </file>
+      <file name="/code/sc/web/static/web/views/nav-toolbar/integrations/ads/ads.html" timestamp="1555364017302">
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="6" column="41" />
+        <mark key="." line="6" column="41" />
+        <mark key="^" line="6" column="41" />
+      </file>
       <file name="/code/sc/web/static/web/views/nav-toolbar/user-accounts/user-accounts.html" timestamp="1555269609850">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="/code/sc/web/static/common/components/date-search/date-search.dialog.ts" timestamp="1555280093291">
         <mark key="'" line="11" column="13" />
-      </file>
-      <file name="/code/sc/web/static/common/typings/ng-modules.d.ts" timestamp="1555280962713">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
       </file>
       <file name="/code/sc/web/static/web/views/reviews/post-facebook/post-facebook.dialog.html" timestamp="1555281048946">
         <mark key="[" line="1" column="64" />
@@ -310,11 +314,11 @@
         <mark key="." line="11" column="67" />
         <mark key="^" line="11" column="67" />
       </file>
-      <file name="/code/sc/web/static/web/views/nav-toolbar/integrations/ads/ads.ts" timestamp="1555363738706">
-        <mark key="[" line="10" column="15" />
-        <mark key="]" line="10" column="14" />
-        <mark key="." line="10" column="14" />
-        <mark key="^" line="10" column="14" />
+      <file name="/code/sc/web/static/web/views/nav-toolbar/integrations/ads/ads.ts" timestamp="1555364036799">
+        <mark key="[" line="22" column="1" />
+        <mark key="]" line="22" column="3" />
+        <mark key="." line="22" column="3" />
+        <mark key="^" line="22" column="3" />
       </file>
       <file name="/code/sc/web/static/web/views/reviews/manual-reply/manual.dialog.html" timestamp="1555281075056">
         <mark key="[" line="0" column="45" />
@@ -327,11 +331,6 @@
         <mark key="]" line="33" column="0" />
         <mark key="^" line="32" column="6" />
         <mark key="." line="33" column="0" />
-      </file>
-      <file name="/code/sc/web/instance/google-ads.yaml" timestamp="1555359298660">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="29" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="/code/sc/web/sc/coms/search/search.py" timestamp="1555273786582">
         <mark key="'" line="217" column="22" />
@@ -400,7 +399,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="36" filename="/code/sc/web/static/web/views/gmb-posts/gmb-posts.html" />
       <jump line="158" column="0" filename="/code/sc/web/static/web/views/gmb-posts/gmb-posts.html" />
       <jump line="65" column="0" filename="/code/sc/web/static/web/views/survey-summary/survey-summary.html" />
       <jump line="71" column="19" filename="/code/sc/web/static/web/views/gmb-questions/gmb-questions.html" />
@@ -500,40 +498,41 @@
       <jump line="22" column="6" filename="/code/sc/web/sc/app/plats/api/auth_storage.py" />
       <jump line="59" column="4" filename="/code/sc/web/sc/app/plats/api/auth_storage.py" />
       <jump line="17" column="0" filename="/code/sc/web/sc/app/plats/api/auth_storage.py" />
+      <jump line="21" column="0" filename="/code/sc/web/static/web/views/settings/platforms/connect-platform/connect-platform.html" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2PkNvbm5lY3Q8L2Rpdj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2PjwvZGl2PiAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICA8cD4KICAgICAgICAgIFNlbGVjdCB0aGUgaW52aXRlIHBlcmNlbnRhZ2UgdG8gc2VuZCB0byBwcm92aWRlciBHTUIgbG9jYXRpb25zLgogICAgICAgICAgTG9jYXRpb25zIG11c3QgYmUgbWFya2VkIGNvcnJlY3RseSB3aXRoIHRoZWlyIG1hdGNoaW5nIHByb3ZpZGVyIGFuZCBiZQogICAgICAgICAgbWFya2VkIGFzIGEgY2hpbGQgb2YgYSBtYWluIHByYWN0aWNlIGxldmVsIGxvY2F0aW9uLgogICAgICAgICAgPGJyIC8+CiAgICAgICAgICBUaGlzIGNhbiBiZSBkb25lCiAgICAgICAgICA8YSB1aS1zcmVmPSJ3ZWIuc2V0dGluZ3MubG9jYXRpb25zIj5oZXJlPC9hPgogICAgICAgICAgLgogICAgICAgIDwvcD4KCiAgICAgICAgPHA+CiAgICAgICAgICBaZXJvIHBlcmNlbnQgaXMgZGVmYXVsdCwgc2VuZCBhbGwgdG8gZGVmYXVsdCBsb2NhdGlvbnMuIDEwMCB3aWxsIHNlbmQKICAgICAgICAgIGFsbCBpbnZpdGVzIHRvIGdtYiBwcm92aWRlciBsb2NhdGlvbnMuCiAgICAgICAgPC9wPgoKICAgICAgICA8bWQtc2xpZGVyLWNvbnRhaW5lcj4KICAgICAgICAgIDxtZC1pY29uIG1kLXN2Zy1pY29uPSJsb2NhdGlvbi1vbiI+PC9tZC1pY29uPgogICAgICAgICAgPG1kLXNsaWRlcgogICAgICAgICAgICBuZy1tb2RlbD0iY3RybC5pbnQuZG9jX3NwbGl0IgogICAgICAgICAgICBjbGFzcz0ibWQtYWNjZW50IgogICAgICAgICAgICBtZC1kaXNjcmV0ZQogICAgICAgICAgICBzdGVwPSI1IgogICAgICAgICAgICBtaW49IjAiCiAgICAgICAgICAgIG1heD0iMTAwIgogICAgICAgICAgPjwvbWQtc2xpZGVyPgogICAgICAgICAgPG1kLWljb24gbWQtc3ZnLWljb249InBlcnNvbiI+PC9tZC1pY29uPgogICAgICAgIDwvbWQtc2xpZGVyLWNvbnRhaW5lcj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhY2Nlc3NfdG9rZW46IHN0cmluZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwbGF0Zm9ybXM6IGFueVtdCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhZG1pblNlYXJjaChuYW1lKSB7CiAgICBsZXQgZmlsdGVyczogYW55ID0geyBuYW1lOiBbT3AuY29udGFpbnMsIG5hbWVdIH0KICAgIGxldCB1c2VyID0gYXBwLnVzZXIKCiAgICBpZiAoIXVzZXIuaXNfc3VwZXJfdXNlcikgewogICAgICBpZiAodXNlci5wYXJ0bmVyX2lkKSBmaWx0ZXJzLnBhcnRuZXJfaWQgPSB1c2VyLnBhcnRuZXJfaWQKICAgICAgZWxzZSBmaWx0ZXJzWyd1c2Vycy5pZCddID0gdXNlci5pZAogICAgfQoKICAgIGxldCBmaWVsZHMgPSAnbmFtZScKICAgIHJldHVybiB0aGlzLmZpbmRQYXJhbXMoeyBmaWx0ZXJzLCBmaWVsZHMsIHBlcl9wYWdlOiAzMCB9KQogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgc3luYyhwYXJhbXMpIHsKICAgIGxldCBwYXRoID0gJy9zeW5jJwogICAgbGV0IG1ldGhvZCA9ICdQT1NUJwogICAgcmV0dXJuIHRoaXMuc2VuZCh7IHBhdGgsIG1ldGhvZCwgZGF0YTogeyBwYXJhbXMgfSB9KQogIH0K</text>
+        <text encoding="base64">ICBhY2Nlc3NfdG9rZW46IHN0cmluZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgZG93bmxvYWRBY2NvdW50KHBsYXQpIHsKICAgIGxldCBwYXRoID0gJy9kb3dubG9hZCcKICAgIGxldCBtZXRob2QgPSAnUE9TVCcKICAgIHRoaXMuc2V0UGFyZW50KHBsYXQpCiAgICByZXR1cm4gdGhpcy5zZW5kKHsgcGF0aCwgbWV0aG9kIH0pCiAgfQo=</text>
+        <text encoding="base64">ICBwbGF0Zm9ybXM6IGFueVtdCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//BoostParams</text>
       </register>
       <register name="-" type="4">
-        <text>=&quot;50&quot;</text>
+        <text>onConnectAuth</text>
       </register>
       <register name="/" type="4">
         <text>AssignDashParams</text>
