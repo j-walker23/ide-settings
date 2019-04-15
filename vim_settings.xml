@@ -33,19 +33,19 @@
         <mark key="." line="16" column="2" />
         <mark key="^" line="16" column="2" />
       </file>
-      <file name="/code/sc/web/cli/ads_auth.py" timestamp="1555348732570">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="45" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="/code/sc/web/cli/ads_auth.py" timestamp="1555359373333">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="36" />
+        <mark key="." line="22" column="0" />
       </file>
-      <file name="/code/sc/web/cli/ones.py" timestamp="1555273805088">
+      <file name="/code/sc/web/cli/ones.py" timestamp="1555359407096">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="404" column="2" />
-        <mark key="]" line="404" column="16" />
-        <mark key="^" line="404" column="16" />
-        <mark key="." line="404" column="16" />
+        <mark key="[" line="404" column="57" />
+        <mark key="]" line="404" column="55" />
+        <mark key="^" line="404" column="55" />
+        <mark key="." line="404" column="55" />
       </file>
       <file name="/code/sc/web/static/web/web.ts" timestamp="1555272639899">
         <mark key="[" line="87" column="14" />
@@ -223,7 +223,7 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="4" />
       </file>
-      <file name="/code/sc/web/sc/mods/config.py" timestamp="1555348374712">
+      <file name="/code/sc/web/sc/mods/config.py" timestamp="1555358670644">
         <mark key="[" line="145" column="5" />
         <mark key="]" line="145" column="5" />
         <mark key="^" line="145" column="5" />
@@ -237,6 +237,11 @@
       </file>
       <file name="/code/sc/web/node_modules/angular-material/modules/closure/dialog/dialog.js" timestamp="1555278221599" />
       <file name="/code/sc/web/sc/mods/web/rest/accounts/revenue_conversion_view.py" timestamp="1555281611626" />
+      <file name="/code/sc/web/static/common/typings/ng-modules.d.ts" timestamp="1555280962713">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+      </file>
       <file name="/code/sc/web/static/web/views/reviews/post-facebook/post-facebook.dialog.html" timestamp="1555281048946">
         <mark key="[" line="1" column="64" />
         <mark key="]" line="1" column="63" />
@@ -268,6 +273,11 @@
         <mark key="^" line="0" column="44" />
       </file>
       <file name="/code/sc/web/static/web/views/reviews/post-facebook/confirmation/post-facebook-confimation.dialog.ts" timestamp="1555280197474" />
+      <file name="/code/sc/web/instance/google-ads.yaml" timestamp="1555359298660">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="29" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="/code/sc/web/sc/coms/search/search.py" timestamp="1555273786582">
         <mark key="'" line="217" column="22" />
         <mark key="[" line="214" column="9" />
@@ -323,9 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="/code/sc/web/static/web/views/survey-summary/question/agg-question.html" />
-      <jump line="104" column="31" filename="/code/sc/web/static/common/components/page/page.sass" />
-      <jump line="27" column="19" filename="/code/sc/web/static/web/views/survey-summary/question/agg-question.html" />
       <jump line="31" column="0" filename="/code/sc/web/static/web/views/survey-summary/survey-summary.html" />
       <jump line="28" column="27" filename="/code/sc/web/static/web/views/survey-summary/survey-summary.html" />
       <jump line="149" column="30" filename="/code/sc/web/static/common/components/page/page.ts" />
@@ -423,41 +430,43 @@
       <jump line="38" column="9" filename="/code/sc/web/instance/local/develop_settings.py" />
       <jump line="62" column="0" filename="/code/sc/web/cli/ads_auth.py" />
       <jump line="65" column="0" filename="/code/sc/web/cli/ads_auth.py" />
+      <jump line="13" column="28" filename="/code/sc/web/instance/google-ads.yaml" />
+      <jump line="20" column="60" filename="/code/sc/web/cli/ads_auth.py" />
+      <jump line="23" column="0" filename="/code/sc/web/cli/ads_auth.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">IyBDb3B5cmlnaHQgMjAxOCBHb29nbGUgTExDCiMKIyBMaWNlbnNlZCB1bmRlciB0aGUgQXBhY2hlIExpY2Vuc2UsIFZlcnNpb24gMi4wICh0aGUgIkxpY2Vuc2UiKTsKIyB5b3UgbWF5IG5vdCB1c2UgdGhpcyBmaWxlIGV4Y2VwdCBpbiBjb21wbGlhbmNlIHdpdGggdGhlIExpY2Vuc2UuCiMgWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBMaWNlbnNlIGF0CiMKIyAgICAgaHR0cHM6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMAojCiMgVW5sZXNzIHJlcXVpcmVkIGJ5IGFwcGxpY2FibGUgbGF3IG9yIGFncmVlZCB0byBpbiB3cml0aW5nLCBzb2Z0d2FyZQojIGRpc3RyaWJ1dGVkIHVuZGVyIHRoZSBMaWNlbnNlIGlzIGRpc3RyaWJ1dGVkIG9uIGFuICJBUyBJUyIgQkFTSVMsCiMgV0lUSE9VVCBXQVJSQU5USUVTIE9SIENPTkRJVElPTlMgT0YgQU5ZIEtJTkQsIGVpdGhlciBleHByZXNzIG9yIGltcGxpZWQuCiMgU2VlIHRoZSBMaWNlbnNlIGZvciB0aGUgc3BlY2lmaWMgbGFuZ3VhZ2UgZ292ZXJuaW5nIHBlcm1pc3Npb25zIGFuZAojIGxpbWl0YXRpb25zIHVuZGVyIHRoZSBMaWNlbnNlLgoiIiJUaGlzIGV4YW1wbGUgY3JlYXRlcyBhbiBPQXV0aCAyLjAgcmVmcmVzaCB0b2tlbiBmb3IgdGhlIEdvb2dsZSBBZHMgQVBJLgoKVGhpcyBpbGx1c3RyYXRlcyBob3cgdG8gc3RlcCB0aHJvdWdoIHRoZSBPQXV0aCAyLjAgbmF0aXZlIC8gaW5zdGFsbGVkCmFwcGxpY2F0aW9uIGZsb3cuCgpJdCBpcyBpbnRlbmRlZCB0byBiZSBydW4gZnJvbSB0aGUgY29tbWFuZCBsaW5lIGFuZCByZXF1aXJlcyB1c2VyIGlucHV0LgoiIiIK</text>
+        <text encoding="base64">QGFwcF9jdHgoMjA3KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Lgo=</text>
+        <text encoding="base64">CiAgYSA9IEJvb3N0TG9jLnNlYXJjaChwYXJhbXM9eydzb3J0JzogJ25hbWUnfSkKICBhLmRlYnVnX3ByaW50KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QW5kIGJlY2F1c2UgZXZlcnl0aGluZyBpcyBiYXNlZCBvZmYgb2YgdGhlIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVzaXJlZCAK</text>
+        <text encoding="base64">ICBwYXJzZXIgPSBhcmdwYXJzZS5Bcmd1bWVudFBhcnNlcigKICAgIGRlc2NyaXB0aW9uPSdHZW5lcmF0ZXMgT0F1dGggMi4wIGNyZWRlbnRpYWxzIHdpdGggdGhlIHNwZWNpZmllZCAnCiAgICAgICAgICAgICAgICAnY2xpZW50IHNlY3JldHMgZmlsZS4nKQogICMgVGhlIGZvbGxvd2luZyBhcmd1bWVudChzKSBzaG91bGQgYmUgcHJvdmlkZWQgdG8gcnVuIHRoZSBleGFtcGxlLgogIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tY2xpZW50X3NlY3JldHNfcGF0aCcsIHJlcXVpcmVkPVRydWUsCiAgICAgICAgICAgICAgICAgICAgICBoZWxwPSgnUGF0aCB0byB0aGUgY2xpZW50IHNlY3JldHMgSlNPTiBmaWxlIGZyb20gdGhlICcKICAgICAgICAgICAgICAgICAgICAgICAgICAgICdHb29nbGUgRGV2ZWxvcGVycyBDb25zb2xlIHRoYXQgY29udGFpbnMgeW91ciAnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnY2xpZW50IElEIGFuZCBjbGllbnQgc2VjcmV0LicpKQogIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tYWRkaXRpb25hbF9zY29wZXMnLCBkZWZhdWx0PU5vbmUsCiAgICAgICAgICAgICAgICAgICAgICBoZWxwPSgnQWRkaXRpb25hbCBzY29wZXMgdG8gYXBwbHkgd2hlbiBnZW5lcmF0aW5nIHRoZSAnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAncmVmcmVzaCB0b2tlbi4gRWFjaCBzY29wZSBzaG91bGQgYmUgc2VwYXJhdGVkICcKICAgICAgICAgICAgICAgICAgICAgICAgICAgICdieSBhIGNvbW1hLicpKQogIGFyZ3MgPSBwYXJzZXIucGFyc2VfYXJncygpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IHRoZSBtb3N0IAp2YWx1YWJsZSBtYXJrZXRpbmcgc29mdHdhcmU=</text>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgaWYgYXJncy5hZGRpdGlvbmFsX3Njb3BlczoKICAgIGNvbmZpZ3VyZWRfc2NvcGVzLmV4dGVuZChhcmdzLmFkZGl0aW9uYWxfc2NvcGVzLnJlcGxhY2UoJyAnLCAnJykuc3BsaXQoJywnKSkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Q29tcGFueSBOYW1lOiBTb2NpYWxDbGltYgo=</text>
+        <text encoding="base64">bG9naW5fY3VzdG9tZXJfaWQ6IDk4Mzc4ODU1NDQK</text>
       </register>
-      <register name="9" type="4">
-        <text>I must have over answered on other questions so this part will be brief to avoid
-repetition.</text>
+      <register name="9" type="2">
+        <text encoding="base64">cmVmcmVzaF90b2tlbjogSU5TRVJUX1JFRlJFU0hfVE9LRU5fSEVSRQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s//BoostParams</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>google.ads.</text>
       </register>
       <register name="/" type="4">
         <text>AssignDashParams</text>
