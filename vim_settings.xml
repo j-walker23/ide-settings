@@ -69,8 +69,8 @@
         <mark key="^" line="11" column="38" />
         <mark key="." line="11" column="38" />
       </file>
-      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1555433433438">
-        <mark key="'" line="33" column="23" />
+      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1555454936644">
+        <mark key="'" line="28" column="19" />
         <mark key="[" line="49" column="13" />
         <mark key="]" line="49" column="16" />
         <mark key="." line="49" column="16" />
@@ -210,6 +210,13 @@
         <mark key="^" line="53" column="12" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="/code/sc/web/sc/app/surveys/args.py" timestamp="1555455083189">
+        <mark key="'" line="48" column="26" />
+        <mark key="[" line="136" column="17" />
+        <mark key="]" line="136" column="31" />
+        <mark key="." line="136" column="31" />
+        <mark key="^" line="136" column="31" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1555369336251">
         <mark key="[" line="10" column="21" />
         <mark key="]" line="10" column="20" />
@@ -319,9 +326,9 @@
       </file>
       <file name="/code/sc/web/main_cron.py" timestamp="1555453999083">
         <mark key="[" line="213" column="103" />
-        <mark key="]" line="215" column="49" />
-        <mark key="^" line="215" column="49" />
-        <mark key="." line="215" column="103" />
+        <mark key="]" line="213" column="49" />
+        <mark key="^" line="213" column="49" />
+        <mark key="." line="213" column="103" />
       </file>
       <file name="/code/sc/web/static/web/services/oauth.service.ts" timestamp="1555377709969">
         <mark key="[" line="20" column="35" />
@@ -360,11 +367,11 @@
         <mark key="^" line="70" column="20" />
         <mark key="." line="70" column="20" />
       </file>
-      <file name="/code/sc/web/instance/env.txt" timestamp="1555427426129">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-        <mark key="^" line="0" column="4" />
+      <file name="/code/sc/web/instance/env.txt" timestamp="1555454941356">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+        <mark key="^" line="0" column="2" />
       </file>
       <file name="/code/sc/web/sc/core/interfaces.py" timestamp="1555422932349">
         <mark key="[" line="45" column="6" />
@@ -404,7 +411,7 @@
         <mark key="^" line="35" column="92" />
         <mark key="." line="35" column="92" />
       </file>
-      <file name="/code/sc/web/sc/app/reportcards/args.py" timestamp="1555430886617">
+      <file name="/code/sc/web/sc/app/reportcards/args.py" timestamp="1555455065739">
         <mark key="'" line="108" column="80" />
         <mark key="[" line="180" column="0" />
         <mark key="]" line="180" column="24" />
@@ -526,8 +533,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="32" filename="/code/sc/web/static/web/views/boost/boost.ts" />
-      <jump line="50" column="10" filename="/code/sc/web/static/common/components/dialog/sc-dialog.ts" />
       <jump line="7" column="29" filename="/code/sc/web/static/web/components/chips/auth-locations/auth-locations.ts" />
       <jump line="9" column="2" filename="/code/sc/web/static/common/components/dialog/sc-dialog.ts" />
       <jump line="59" column="24" filename="/code/sc/web/static/web/views/boost/boost.ts" />
@@ -626,40 +631,42 @@
       <jump line="167" column="5" filename="/code/sc/web/static/web/views/dashboard/dashboard.ts" />
       <jump line="133" column="20" filename="/code/sc/web/static/web/views/dashboard/dashboard.ts" />
       <jump line="20" column="26" filename="/code/sc/web/static/web/views/dashboard/search/dashboard-search.ts" />
+      <jump line="28" column="19" filename="/code/sc/web/instance/local/develop_settings.py" />
+      <jump line="48" column="26" filename="/code/sc/web/sc/app/surveys/args.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGRlZmF1bHRQYXJhbXMpIGRlZmF1bHRQYXJhbXMgPSBwaWNrKGRlZmF1bHRQYXJhbXMsIFsncXVlcnknXSkgYXMgVAo=</text>
+        <text encoding="base64">ICBAcHJvcGVydHkKICBkZWYgZ3JvdXBfbmFtZXMoc2VsZik6CiAgICBmaWxscyA9IHNlbGYuZmlsdGVycwogICAgcmV0dXJuIGZpbGxzLmdldCgnbG9jYXRpb24uZ3JvdXBzJykgYW5kIFtzWzFdIGZvciBzIGluIGZpbGxzWydsb2NhdGlvbi5ncm91cHMnXV0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBvdmVydmlldyQ6IElQcm9taXNlPGFueT4K</text>
+        <text encoding="base64">ICAgICAgaWYgKGRlZmF1bHRQYXJhbXMpIGRlZmF1bHRQYXJhbXMgPSBwaWNrKGRlZmF1bHRQYXJhbXMsIFsncXVlcnknXSkgYXMgVAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBvdmVydmlldyQ6IElQcm9taXNlPGFueT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuJHJldmlld3MuZ2V0T3ZlcnZpZXdCeVllYXIocGFyYW1zKQogICAgICAudGhlbihyZXMgPT4gdGhpcy5vdmVydmlldyA9IHJlcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuJHJldmlld3MuZ2V0T3ZlcnZpZXdCeVllYXIocGFyYW1zKQogICAgICAudGhlbihyZXMgPT4gdGhpcy5vdmVydmlldyA9IHJlcykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmRlZiBjYWxjX21vbnRobHlfcmFuZ2UocGFyYW1zOiBEaWN0LCBzdGFydDogQXJyb3cgPSBOb25lLCBlbmQ6IEFycm93ID0gTm9uZSk6CiAgIiIiIiIiCiAgaWYgc3RhcnQ6CiAgICBzdGFydCA9IGFycm93LmdldChzdGFydCkKICBpZiBlbmQ6CiAgICBlbmQgPSBhcnJvdy5nZXQoZW5kKQoKICBpZiBub3Qgc3RhcnQgYW5kIG5vdCBlbmQ6CiAgICBlbmQgPSBhcnJvdy51dGNub3coKS5jZWlsKCdkYXknKQogICAgc3RhcnQgPSBlbmQuc2hpZnQoeWVhcnM9LTEpCgogICAgIyBzdGFydCwgZW5kID0gdGltZXMuc3Bhbl95ZWFyKCkKICBlbGlmIHN0YXJ0IGFuZCBub3QgZW5kOgogICAgbm93ID0gYXJyb3cudXRjbm93KCkKICAgIGlmIHN0YXJ0LnllYXIgPT0gbm93LnllYXI6CiAgICAgIGVuZCA9IG5vdy5jZWlsKCdkYXknKQogICAgICBzdGFydCA9IGVuZC5zaGlmdCh5ZWFycz0tMSkKICAgIGVsc2U6CiAgICAgIGVuZCA9IHN0YXJ0LmNlaWwoJ3llYXInKQoKICBjcmVhdGVfdGltZSA9IGZyb21fc3RhcnRfZW5kKHN0YXJ0LCBlbmQpCgogIHRyeToKICAgIGlmICdjcmVhdGVfdGltZScgbm90IGluIHBhcmFtc1snZmlsdGVycyddOgogICAgICBwYXJhbXNbJ2ZpbHRlcnMnXS51cGRhdGUoY3JlYXRlX3RpbWU9Y3JlYXRlX3RpbWUpCiAgZXhjZXB0IEtleUVycm9yOgogICAgcGFyYW1zLnVwZGF0ZShmaWx0ZXJzPWRpY3QoY3JlYXRlX3RpbWU9Y3JlYXRlX3RpbWUpKQogIHJldHVybiBwYXJhbXMK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmRlZiBjYWxjX21vbnRobHlfcmFuZ2UocGFyYW1zOiBEaWN0LCBzdGFydDogQXJyb3cgPSBOb25lLCBlbmQ6IEFycm93ID0gTm9uZSk6CiAgIiIiIiIiCiAgaWYgc3RhcnQ6CiAgICBzdGFydCA9IGFycm93LmdldChzdGFydCkKICBpZiBlbmQ6CiAgICBlbmQgPSBhcnJvdy5nZXQoZW5kKQoKICBpZiBub3Qgc3RhcnQgYW5kIG5vdCBlbmQ6CiAgICBlbmQgPSBhcnJvdy51dGNub3coKS5jZWlsKCdkYXknKQogICAgc3RhcnQgPSBlbmQuc2hpZnQoeWVhcnM9LTEpCgogICAgIyBzdGFydCwgZW5kID0gdGltZXMuc3Bhbl95ZWFyKCkKICBlbGlmIHN0YXJ0IGFuZCBub3QgZW5kOgogICAgbm93ID0gYXJyb3cudXRjbm93KCkKICAgIGlmIHN0YXJ0LnllYXIgPT0gbm93LnllYXI6CiAgICAgIGVuZCA9IG5vdy5jZWlsKCdkYXknKQogICAgICBzdGFydCA9IGVuZC5zaGlmdCh5ZWFycz0tMSkKICAgIGVsc2U6CiAgICAgIGVuZCA9IHN0YXJ0LmNlaWwoJ3llYXInKQoKICBjcmVhdGVfdGltZSA9IGZyb21fc3RhcnRfZW5kKHN0YXJ0LCBlbmQpCgogIHRyeToKICAgIGlmICdjcmVhdGVfdGltZScgbm90IGluIHBhcmFtc1snZmlsdGVycyddOgogICAgICBwYXJhbXNbJ2ZpbHRlcnMnXS51cGRhdGUoY3JlYXRlX3RpbWU9Y3JlYXRlX3RpbWUpCiAgZXhjZXB0IEtleUVycm9yOgogICAgcGFyYW1zLnVwZGF0ZShmaWx0ZXJzPWRpY3QoY3JlYXRlX3RpbWU9Y3JlYXRlX3RpbWUpKQogIHJldHVybiBwYXJhbXMK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcGFyYW1zID0gY2xvbmVEZWVwKHsgLi4ucGFyYW1zIH0pCiAgICAgIHBhcmFtcy5maWx0ZXJzLmNyZWF0ZV90aW1lID0gW09wLnJhbmdlLCBbc3RhcnQsIGVuZF1dCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//BoostParams</text>
       </register>
       <register name="-" type="4">
-        <text>clear.emit()</text>
+        <text>filters</text>
       </register>
       <register name="/" type="4">
         <text>AssignDashParams</text>
