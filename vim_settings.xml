@@ -3,14 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/code/sc/web/static/web/views/settings/locations/details/location-details.html" timestamp="1555413044826">
-        <mark key="'" line="103" column="14" />
+      <file name="/code/sc/web/static/web/views/settings/locations/details/location-details.html" timestamp="1555436578574">
+        <mark key="'" line="183" column="22" />
+        <mark key="[" line="257" column="60" />
+        <mark key="]" line="257" column="91" />
+        <mark key="^" line="257" column="91" />
+        <mark key="." line="257" column="91" />
       </file>
       <file name="/code/sc/web/sc/app/plats/listings/base.py" timestamp="1555434051734">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="^" line="33" column="6" />
         <mark key="." line="34" column="0" />
+      </file>
+      <file name="/code/sc/web/sc/app/locations/combine.py" timestamp="1555438121276">
+        <mark key="[" line="93" column="31" />
+        <mark key="]" line="96" column="32" />
+        <mark key="^" line="96" column="32" />
+        <mark key="." line="96" column="32" />
       </file>
       <file name="/code/sc/web/static/web/components/chips/groups/group-chips.html" timestamp="1555420284063">
         <mark key="'" line="36" column="0" />
@@ -37,6 +47,12 @@
         <mark key="]" line="12" column="14" />
         <mark key="^" line="12" column="14" />
         <mark key="." line="12" column="14" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1555436172443">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="/code/sc/web/static/web/views/dashboard/search/dashboard-search-auto.ts" timestamp="1555426947871">
         <mark key="[" line="12" column="67" />
@@ -113,6 +129,12 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="/code/sc/web/static/common/components/page/page.ts" timestamp="1555413010074" />
+      <file name="/Python Console" timestamp="1555437980467">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1555379746878">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/code/sc/web/sc/app/tasks/syncing.py" timestamp="1555434730320">
         <mark key="[" line="89" column="23" />
         <mark key="]" line="90" column="18" />
@@ -135,11 +157,21 @@
         <mark key="]" line="125" column="0" />
         <mark key="." line="125" column="0" />
       </file>
+      <file name="/a.sql" timestamp="1555368921366">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/code/sc/web/static/web/views/nav-toolbar/integrations/ads/ads.ts" timestamp="1555377701729">
         <mark key="[" line="22" column="25" />
         <mark key="]" line="22" column="24" />
         <mark key="." line="22" column="24" />
         <mark key="^" line="22" column="24" />
+      </file>
+      <file name="/code/sc/web/tests/app/locations/test_combine.py" timestamp="1555437727652">
+        <mark key="'" line="16" column="6" />
+        <mark key="[" line="55" column="28" />
+        <mark key="]" line="48" column="32" />
+        <mark key="^" line="48" column="32" />
+        <mark key="." line="48" column="32" />
       </file>
       <file name="/code/sc/web/sc/mods/web/rest/accounts/gmb_questions_view.py" timestamp="1555433559631">
         <mark key="'" line="14" column="6" />
@@ -171,6 +203,12 @@
         <mark key="]" line="190" column="29" />
         <mark key="^" line="190" column="29" />
         <mark key="." line="190" column="29" />
+      </file>
+      <file name="/code/sc/web/tests/app/locations/conftest.py" timestamp="1555437688569">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="53" column="12" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="/code/sc/web/static/web/views/notes/details/note-locadmin/note-locadmin.html" timestamp="1555421717498">
         <mark key="'" line="86" column="0" />
@@ -386,6 +424,9 @@
         <mark key="^" line="51" column="10" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1555368921381">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/code/sc/web/sc/app/notes/cron.py" timestamp="1555430824157">
         <mark key="[" line="147" column="21" />
         <mark key="]" line="149" column="21" />
@@ -435,12 +476,11 @@
       <file name="/code/sc/web/static/web/views/dashboard/dashboard.ts" timestamp="1555433526052">
         <mark key="'" line="129" column="2" />
       </file>
+      <file name="/code/sc/web/static/web/views/settings/locations/details/location-details.ts" timestamp="1555436475870">
+        <mark key="'" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="32" filename="/code/sc/web/instance/local/develop_settings.py" />
-      <jump line="1" column="0" filename="/code/sc/web/migrations/versions/e12f8ee56e3d__118.py" />
-      <jump line="52" column="0" filename="/code/sc/web/static/web/views/survey-summary/pivot/star-pivot.ts" />
-      <jump line="45" column="10" filename="/code/sc/web/static/web/views/boost/boost.ts" />
       <jump line="61" column="6" filename="/code/sc/web/static/web/views/boost/boost.ts" />
       <jump line="62" column="10" filename="/code/sc/web/static/web/views/boost/boost.html" />
       <jump line="198" column="16" filename="/code/sc/web/static/web/views/notes/notes.ts" />
@@ -537,40 +577,46 @@
       <jump line="33" column="23" filename="/code/sc/web/instance/local/develop_settings.py" />
       <jump line="129" column="2" filename="/code/sc/web/static/web/views/dashboard/dashboard.ts" />
       <jump line="14" column="6" filename="/code/sc/web/sc/mods/web/rest/accounts/gmb_questions_view.py" />
+      <jump line="0" column="0" filename="/code/sc/web/static/web/views/settings/locations/details/location-details.ts" />
+      <jump line="86" column="23" filename="/code/sc/web/static/web/views/settings/locations/details/location-details.html" />
+      <jump line="183" column="22" filename="/code/sc/web/static/web/views/settings/locations/details/location-details.html" />
+      <jump line="16" column="6" filename="/code/sc/web/tests/app/locations/test_combine.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICBybG9jMlsnY2hlY2tlZCddID0gVHJ1ZQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CiAgZGVmIGdldF9nZW8oc2VsZik6CiAgICAiIiIiIiIK</text>
+      <register name="2" type="4">
+        <text>select *
+from
+;</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcmludCgnKicqIDEwMCwgcGFyYW1zKQo=</text>
+        <text encoding="base64">CiAgZGVmIGdldF9nZW8oc2VsZik6CiAgICAiIiIiIiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcy5xdWVyeSA9IHBhcmFtcy5xdWVyeSB8fCAnJwogICAgcGFyYW1zID0geyBxdWVyeTogcGFyYW1zLnF1ZXJ5IH0KICAgIGlmICgnc3RhcnQnIGluIHNlYXJjaFBhcmFtcyB8fCAnZW5kJyBpbiBzZWFyY2hQYXJhbXMpIHsKICAgICAgbGV0IHsgc3RhcnQsIGVuZCB9ID0gc2VhcmNoUGFyYW1zCiAgICAgIHBhcmFtcyA9IHsgLi4ucGFyYW1zLCBzdGFydCwgZW5kIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcGxhdHMgPSBub3RlLnBsYXRzCg==</text>
+        <text encoding="base64">ICBwcmludCgnKicqIDEwMCwgcGFyYW1zKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcGxhdHMgPSBub3RlLnBsYXRzCg==</text>
+        <text encoding="base64">ICAgIHBhcmFtcy5xdWVyeSA9IHBhcmFtcy5xdWVyeSB8fCAnJwogICAgcGFyYW1zID0geyBxdWVyeTogcGFyYW1zLnF1ZXJ5IH0KICAgIGlmICgnc3RhcnQnIGluIHNlYXJjaFBhcmFtcyB8fCAnZW5kJyBpbiBzZWFyY2hQYXJhbXMpIHsKICAgICAgbGV0IHsgc3RhcnQsIGVuZCB9ID0gc2VhcmNoUGFyYW1zCiAgICAgIHBhcmFtcyA9IHsgLi4ucGFyYW1zLCBzdGFydCwgZW5kIH0KICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZ3JvdXBzID0gbm90ZS5ncm91cHMK</text>
+        <text encoding="base64">ICAgICAgcGxhdHMgPSBub3RlLnBsYXRzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIHNoaXBzOgo=</text>
+        <text encoding="base64">ICAgICAgcGxhdHMgPSBub3RlLnBsYXRzCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//BoostParams</text>
       </register>
       <register name="-" type="4">
-        <text>place_id</text>
+        <text>olds</text>
       </register>
       <register name="/" type="4">
         <text>AssignDashParams</text>
