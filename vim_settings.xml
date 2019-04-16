@@ -9,17 +9,26 @@
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="19" />
       </file>
+      <file name="/code/sc/web/static/web/views/settings/locations/details/location-details.html" timestamp="1555413044826">
+        <mark key="'" line="103" column="14" />
+      </file>
       <file name="/code/sc/web/static/web/views/nav-toolbar/integrations/ads/ads.html" timestamp="1555371519629">
         <mark key="[" line="6" column="33" />
         <mark key="]" line="6" column="41" />
         <mark key="." line="6" column="41" />
         <mark key="^" line="6" column="41" />
       </file>
-      <file name="/code/sc/web/static/web/web.nav.ts" timestamp="1555363443782">
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="172" column="25" />
-        <mark key="^" line="172" column="25" />
-        <mark key="." line="172" column="25" />
+      <file name="/code/sc/web/static/web/components/chips/groups/group-chips.html" timestamp="1555413165323">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="33" />
+        <mark key="." line="8" column="33" />
+        <mark key="^" line="8" column="33" />
+      </file>
+      <file name="/code/sc/web/static/web/web.nav.ts" timestamp="1555413709912">
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="183" column="0" />
+        <mark key="." line="183" column="0" />
+        <mark key="^" line="179" column="21" />
       </file>
       <file name="/Python Console" timestamp="1555379704856">
         <mark key="[" line="0" column="0" />
@@ -39,11 +48,18 @@
         <mark key="^" line="19" column="67" />
         <mark key="." line="19" column="67" />
       </file>
-      <file name="/code/sc/web/static/web/views/notes/details/edits/by-locs.ts" timestamp="1555412490462">
-        <mark key="[" line="30" column="36" />
-        <mark key="]" line="30" column="34" />
-        <mark key="^" line="30" column="34" />
-        <mark key="." line="30" column="34" />
+      <file name="/code/sc/web/static/web/views/notes/details/edits/by-locs.ts" timestamp="1555413505307">
+        <mark key="'" line="32" column="25" />
+        <mark key="[" line="31" column="34" />
+        <mark key="]" line="31" column="37" />
+        <mark key="^" line="31" column="37" />
+        <mark key="." line="31" column="37" />
+      </file>
+      <file name="/code/sc/web/static/web/components/chips/platforms/platform-chips.html" timestamp="1555413442702">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="33" />
+        <mark key="^" line="6" column="33" />
+        <mark key="." line="6" column="33" />
       </file>
       <file name="/code/sc/web/sc/mods/web/views.py" timestamp="1555379622356">
         <mark key="[" line="311" column="33" />
@@ -60,8 +76,11 @@
         <mark key="." line="22" column="24" />
         <mark key="^" line="22" column="24" />
       </file>
-      <file name="/code/sc/web/sc/coms/utils/csrf.py" timestamp="1555377127447">
-        <mark key="^" line="19" column="42" />
+      <file name="/code/sc/web/static/common/models/note.model.ts" timestamp="1555413534715">
+        <mark key="[" line="49" column="15" />
+        <mark key="]" line="50" column="16" />
+        <mark key="^" line="50" column="16" />
+        <mark key="." line="50" column="16" />
       </file>
       <file name="/code/sc/web/static/web/views/nav-toolbar/integrations/integrations.html" timestamp="1555363759472">
         <mark key="[" line="33" column="15" />
@@ -94,23 +113,45 @@
         <mark key="^" line="20" column="41" />
         <mark key="." line="20" column="41" />
       </file>
+      <file name="/code/sc/web/static/web/components/chips/groups/group-chips.ts" timestamp="1555413432902">
+        <mark key="[" line="17" column="37" />
+        <mark key="]" line="18" column="25" />
+        <mark key="." line="18" column="25" />
+        <mark key="^" line="18" column="25" />
+      </file>
       <file name="/code/sc/web/static/common/resource.ts" timestamp="1555373575799">
         <mark key="[" line="65" column="64" />
         <mark key="]" line="66" column="20" />
         <mark key="^" line="66" column="20" />
         <mark key="." line="66" column="20" />
       </file>
+      <file name="/code/sc/web/static/common/components/page/page.ts" timestamp="1555413010074" />
       <file name="/code/sc/web/sc/coms/ext/classful.py" timestamp="1555373432575">
         <mark key="[" line="46" column="39" />
         <mark key="]" line="46" column="39" />
         <mark key="^" line="46" column="39" />
         <mark key="." line="46" column="39" />
       </file>
+      <file name="/code/sc/web/sc/sql/location/__init__.py" timestamp="1555413559104" />
+      <file name="/code/sc/web/sc/sql/tables.py" timestamp="1555413618484">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="162" column="41" />
+        <mark key="]" line="162" column="53" />
+        <mark key="^" line="162" column="53" />
+        <mark key="." line="162" column="53" />
+      </file>
       <file name="/code/sc/web/sc/coms/ext/flasks.py" timestamp="1555373773447">
         <mark key="[" line="82" column="6" />
         <mark key="]" line="82" column="23" />
         <mark key="^" line="82" column="23" />
         <mark key="." line="82" column="23" />
+      </file>
+      <file name="/code/sc/web/sc/sql/note/__init__.py" timestamp="1555413592171">
+        <mark key="'" line="53" column="6" />
+        <mark key="[" line="100" column="110" />
+        <mark key="]" line="100" column="114" />
+        <mark key="^" line="100" column="114" />
+        <mark key="." line="100" column="114" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1555369336251">
         <mark key="[" line="10" column="21" />
@@ -124,13 +165,11 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="4" />
       </file>
+      <file name="/code/sc/web/static/common/components/multi-item/multi-item.ts" timestamp="1555413021620">
+        <mark key="[" line="3" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="39" filename="/code/sc/web/static/web/views/gmb-posts/gmb-posts.html" />
-      <jump line="159" column="0" filename="/code/sc/web/static/web/views/gmb-posts/gmb-posts.html" />
-      <jump line="22" column="0" filename="/code/sc/web/static/web/views/gmb-posts/gmb-posts.html" />
-      <jump line="19" column="38" filename="/code/sc/web/sc/sql/platform/auth_loc/boost_loc.py" />
-      <jump line="114" column="28" filename="/code/sc/web/sc/mods/web/rest/accounts/listings_view.py" />
       <jump line="253" column="0" filename="/code/sc/web/sc/mods/web/rest/accounts/boost_locs_view.py" />
       <jump line="56" column="0" filename="/code/sc/web/sc/mods/web/rest/accounts/boost_locs_view.py" />
       <jump line="42" column="25" filename="/code/sc/web/sc/mods/web/rest/accounts/boost_locs_view.py" />
@@ -226,40 +265,45 @@
       <jump line="403" column="46" filename="/code/sc/web/cli/ones.py" />
       <jump line="31" column="4" filename="/code/sc/web/sc/mods/support/rest/support_view.py" />
       <jump line="63" column="15" filename="/code/sc/web/static/web/views/listings/edits/listing-edits.html" />
+      <jump line="103" column="14" filename="/code/sc/web/static/web/views/settings/locations/details/location-details.html" />
+      <jump line="30" column="32" filename="/code/sc/web/static/web/views/notes/details/edits/by-locs.ts" />
+      <jump line="32" column="25" filename="/code/sc/web/static/web/views/notes/details/edits/by-locs.ts" />
+      <jump line="53" column="6" filename="/code/sc/web/sc/sql/note/__init__.py" />
+      <jump line="0" column="0" filename="/code/sc/web/sc/sql/tables.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5uYXYuc2F2ZUl0ZW0oJ2dtYi5ib29zdCcsIHsKICAgICAgICB0aXRsZTogJ0Jvb3N0JywKICAgICAgICBpY29uOiAnYm9vc3QnLAogICAgICAgIHN0YXRlOiAnd2ViLmJvb3N0JywKICAgICAgICB3ZWlnaHQ6IDQuMywKICAgICAgfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxtdWx0aS1pdGVtIFtpc109ImN0cmwuaXNNdWx0aSIgWyhjaGVjayldPSJjdHJsLm11bHRpLmJ5X2xvY3MiPgogICAgICA8c3dpdGNoLWhpbnQgWyhtb2RlbCldPSJjdHJsLm5vdGUuYnlfbG9jcyIgbGFiZWw9IkJ5IExvY2F0aW9ucyI+CiAgICAgICAgPHNwYW4gbmctdHJhbnNjbHVkZT5XaWxsIG5vdGlmeSB5b3Ugb2YgcmV2aWV3cyBtYXRjaGluZyBsb2NhdGlvbnM8L3NwYW4+CiAgICAgIDwvc3dpdGNoLWhpbnQ+CiAgICA8L211bHRpLWl0ZW0+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCduYW1lJywgbmFtZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPGRpdiAoY2xpY2spPSJjdHJsLm9wZW5Mb2NzKCRldmVudCkiPgogICAgICAgIDxtZC1pY29uIGNsYXNzPSJwb2ludGVyIHMxNiBtZC13YXJuIiBtZC1zdmctaWNvbj0iZWRpdCI+PC9tZC1pY29uPgogICAgICAgIHt7IGN0cmwubGlzdExvY3MoY3RybC5ub3RlLmxvY2F0aW9ucykgfX0KICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpc0dtYjogYm9vbGVhbiA9IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgbmdPbkluaXQoKSB7CiAgICBpZiAodGhpcy5ub3RlLnR5cGUgPT09ICdHbWJRdWVzdGlvbnMnKSB7CiAgICAgIHRoaXMuaXNHbWIgPSB0cnVlCiAgICB9CiAgfQo=</text>
+        <text encoding="base64">ICAgIDxtdWx0aS1pdGVtIFtpc109ImN0cmwuaXNNdWx0aSIgWyhjaGVjayldPSJjdHJsLm11bHRpLmJ5X2xvY3MiPgogICAgICA8c3dpdGNoLWhpbnQgWyhtb2RlbCldPSJjdHJsLm5vdGUuYnlfbG9jcyIgbGFiZWw9IkJ5IExvY2F0aW9ucyI+CiAgICAgICAgPHNwYW4gbmctdHJhbnNjbHVkZT5XaWxsIG5vdGlmeSB5b3Ugb2YgcmV2aWV3cyBtYXRjaGluZyBsb2NhdGlvbnM8L3NwYW4+CiAgICAgIDwvc3dpdGNoLWhpbnQ+CiAgICA8L211bHRpLWl0ZW0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8L3NwYW4+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8c3BhbiBuZy1pZj0iIWN0cmwuaXNHbWIiPgogICAgICAgICAgCiAgICAgICAgPC9zcGFuPgogICAgICAgIDxzcGFuIG5nLWlmPSJjdHJsLmlzR21iIj4K</text>
+        <text encoding="base64">ICBpc0dtYjogYm9vbGVhbiA9IGZhbHNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNjb3BlPXNjb3BlcywK</text>
+        <text encoding="base64">CiAgbmdPbkluaXQoKSB7CiAgICBpZiAodGhpcy5ub3RlLnR5cGUgPT09ICdHbWJRdWVzdGlvbnMnKSB7CiAgICAgIHRoaXMuaXNHbWIgPSB0cnVlCiAgICB9CiAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICdlbWFpbCcsICdwcm9maWxlJywK</text>
+        <text encoding="base64">ICAgICAgICA8L3NwYW4+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//BoostParams</text>
       </register>
       <register name="-" type="4">
-        <text>ng-class=&quot;{isdisabled: !ctrl.note.by_groups}&quot;</text>
+        <text>add-location</text>
       </register>
       <register name="/" type="4">
         <text>AssignDashParams</text>
