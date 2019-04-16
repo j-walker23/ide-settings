@@ -3,31 +3,53 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/code/sc/web/static/common/utils.ts" timestamp="1555373709140" />
+      <file name="/code/sc/web/static/web/http/ads.resource.ts" timestamp="1555363553318">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="19" />
+        <mark key="." line="6" column="19" />
+        <mark key="^" line="6" column="19" />
+      </file>
+      <file name="/code/sc/web/static/web/views/nav-toolbar/integrations/ads/ads.html" timestamp="1555371519629">
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="6" column="41" />
+        <mark key="." line="6" column="41" />
+        <mark key="^" line="6" column="41" />
+      </file>
       <file name="/code/sc/web/static/web/web.nav.ts" timestamp="1555363443782">
         <mark key="[" line="171" column="0" />
         <mark key="]" line="172" column="25" />
         <mark key="^" line="172" column="25" />
         <mark key="." line="172" column="25" />
       </file>
-      <file name="/code/sc/web/static/web/views/nav-toolbar/integrations/integrations.html" timestamp="1555363759472">
-        <mark key="[" line="33" column="15" />
-        <mark key="]" line="33" column="14" />
-        <mark key="." line="33" column="14" />
-        <mark key="^" line="33" column="14" />
-      </file>
-      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/oauthlib/oauth2/rfc6749/parameters.py" timestamp="1555379702415" />
-      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/requests_oauthlib/oauth2_session.py" timestamp="1555379389491" />
-      <file name="/code/sc/web/sc/coms/ext/oauth2.py" timestamp="1555378099791">
-        <mark key="^" line="38" column="7" />
-        <mark key="." line="38" column="49" />
-      </file>
-      <file name="/code/sc/web/sc/utils.py" timestamp="1555376763987" />
       <file name="/Python Console" timestamp="1555379704856">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1555379746878">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/code/sc/web/sc/app/plats/api/auth_storage.py" timestamp="1555363234989">
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="12" column="7" />
+        <mark key="^" line="12" column="7" />
+        <mark key="." line="12" column="7" />
+      </file>
+      <file name="/code/sc/web/static/web/views/notes/details/note-gmb/note-gmb.html" timestamp="1555411936049">
+        <mark key="[" line="18" column="33" />
+        <mark key="]" line="19" column="67" />
+        <mark key="^" line="19" column="67" />
+        <mark key="." line="19" column="67" />
+      </file>
+      <file name="/code/sc/web/static/web/views/notes/details/edits/by-locs.ts" timestamp="1555412490462">
+        <mark key="[" line="30" column="36" />
+        <mark key="]" line="30" column="34" />
+        <mark key="^" line="30" column="34" />
+        <mark key="." line="30" column="34" />
+      </file>
+      <file name="/code/sc/web/sc/mods/web/views.py" timestamp="1555379622356">
+        <mark key="[" line="311" column="33" />
+        <mark key="]" line="311" column="46" />
+        <mark key="^" line="311" column="46" />
+        <mark key="." line="311" column="46" />
       </file>
       <file name="/a.sql" timestamp="1555368921366">
         <mark key="[" line="0" column="0" />
@@ -38,63 +60,15 @@
         <mark key="." line="22" column="24" />
         <mark key="^" line="22" column="24" />
       </file>
-      <file name="/code/sc/web/sc/sql/twilio/call_tracker.py" timestamp="1555366588926" />
-      <file name="/code/sc/web/static/common/models/ad-auth.model.ts" timestamp="1555363666692">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="3" column="24" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1555369336251">
-        <mark key="[" line="10" column="21" />
-        <mark key="]" line="10" column="20" />
-        <mark key="^" line="10" column="20" />
-        <mark key="." line="10" column="20" />
-      </file>
-      <file name="/code/sc/web/static/web/http/ads.resource.ts" timestamp="1555363553318">
-        <mark key="[" line="6" column="16" />
-        <mark key="]" line="6" column="19" />
-        <mark key="." line="6" column="19" />
-        <mark key="^" line="6" column="19" />
-      </file>
-      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/werkzeug/utils.py" timestamp="1555373419673" />
-      <file name="/code/sc/web/sc/app/plats/api/auth_storage.py" timestamp="1555363234989">
-        <mark key="[" line="12" column="6" />
-        <mark key="]" line="12" column="7" />
-        <mark key="^" line="12" column="7" />
-        <mark key="." line="12" column="7" />
-      </file>
-      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/google_auth_oauthlib/flow.py" timestamp="1555372908805" />
       <file name="/code/sc/web/sc/coms/utils/csrf.py" timestamp="1555377127447">
         <mark key="^" line="19" column="42" />
       </file>
-      <file name="/code/sc/web/static/web/services/oauth.service.ts" timestamp="1555377709969">
-        <mark key="[" line="20" column="35" />
-        <mark key="]" line="20" column="41" />
-        <mark key="^" line="20" column="41" />
-        <mark key="." line="20" column="41" />
+      <file name="/code/sc/web/static/web/views/nav-toolbar/integrations/integrations.html" timestamp="1555363759472">
+        <mark key="[" line="33" column="15" />
+        <mark key="]" line="33" column="14" />
+        <mark key="." line="33" column="14" />
+        <mark key="^" line="33" column="14" />
       </file>
-      <file name="/code/sc/web/instance/env.txt" timestamp="1555370854038">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-        <mark key="^" line="0" column="4" />
-      </file>
-      <file name="/code/sc/web/sc/sql/twilio/call_tracking_data.py" timestamp="1555366578082" />
-      <file name="/code/sc/web/static/web/views/nav-toolbar/integrations/ads/ads.html" timestamp="1555371519629">
-        <mark key="[" line="6" column="33" />
-        <mark key="]" line="6" column="41" />
-        <mark key="." line="6" column="41" />
-        <mark key="^" line="6" column="41" />
-      </file>
-      <file name="/code/sc/web/static/web/views/settings/platforms/connect-google/connect-google.ts" timestamp="1555374142575" />
-      <file name="/code/sc/web/sc/mods/web/views.py" timestamp="1555379622356">
-        <mark key="[" line="311" column="33" />
-        <mark key="]" line="311" column="46" />
-        <mark key="^" line="311" column="46" />
-        <mark key="." line="311" column="46" />
-      </file>
-      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/oauth2client/contrib/flask_util.py" timestamp="1555362453327" />
       <file name="/code/sc/web/sc/mods/web/rest/auths_view.py" timestamp="1555373844415">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -104,7 +78,22 @@
       <file name="/Dummy.txt" timestamp="1555368921381">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code/sc/web/sc/mods/web/rest/tokens_view.py" timestamp="1555376808897" />
+      <file name="/code/sc/web/static/common/models/ad-auth.model.ts" timestamp="1555363666692">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="3" column="24" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="/code/sc/web/sc/coms/ext/oauth2.py" timestamp="1555378099791">
+        <mark key="^" line="38" column="7" />
+        <mark key="." line="38" column="49" />
+      </file>
+      <file name="/code/sc/web/static/web/services/oauth.service.ts" timestamp="1555377709969">
+        <mark key="[" line="20" column="35" />
+        <mark key="]" line="20" column="41" />
+        <mark key="^" line="20" column="41" />
+        <mark key="." line="20" column="41" />
+      </file>
       <file name="/code/sc/web/static/common/resource.ts" timestamp="1555373575799">
         <mark key="[" line="65" column="64" />
         <mark key="]" line="66" column="20" />
@@ -122,6 +111,18 @@
         <mark key="]" line="82" column="23" />
         <mark key="^" line="82" column="23" />
         <mark key="." line="82" column="23" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1555369336251">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="20" />
+        <mark key="^" line="10" column="20" />
+        <mark key="." line="10" column="20" />
+      </file>
+      <file name="/code/sc/web/instance/env.txt" timestamp="1555370854038">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -228,38 +229,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNjb3BlPXNjb3BlcywK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICdlbWFpbCcsICdwcm9maWxlJywK</text>
+        <text encoding="base64">ICAgIDxtdWx0aS1pdGVtIFtpc109ImN0cmwuaXNNdWx0aSIgWyhjaGVjayldPSJjdHJsLm11bHRpLmJ5X2xvY3MiPgogICAgICA8c3dpdGNoLWhpbnQgWyhtb2RlbCldPSJjdHJsLm5vdGUuYnlfbG9jcyIgbGFiZWw9IkJ5IExvY2F0aW9ucyI+CiAgICAgICAgPHNwYW4gbmctdHJhbnNjbHVkZT5XaWxsIG5vdGlmeSB5b3Ugb2YgcmV2aWV3cyBtYXRjaGluZyBsb2NhdGlvbnM8L3NwYW4+CiAgICAgIDwvc3dpdGNoLWhpbnQ+CiAgICA8L211bHRpLWl0ZW0+Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>['https://www.googleapis.com/auth/adwords'] + ['email', 'profile',
-                                                   'https://www.googleapis.com/auth/plus.business.manage'],</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICByZXR1cm4gJ2Z1Y2sgeW91Jwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBmbG93LnJlZGlyZWN0X3VyaSA9IHVybF9mb3IoJy5hZGF1dGgnLCBfc2NoZW1lPSdodHRwcycsIF9leHRlcm5hbD1UcnVlKQo=</text>
-      </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBpc0dtYjogYm9vbGVhbiA9IGZhbHNlCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgbmdPbkluaXQoKSB7CiAgICBpZiAodGhpcy5ub3RlLnR5cGUgPT09ICdHbWJRdWVzdGlvbnMnKSB7CiAgICAgIHRoaXMuaXNHbWIgPSB0cnVlCiAgICB9CiAgfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8L3NwYW4+Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0YXRlPXN0YXRlLAo=</text>
+        <text encoding="base64">ICAgICAgICA8c3BhbiBuZy1pZj0iIWN0cmwuaXNHbWIiPgogICAgICAgICAgCiAgICAgICAgPC9zcGFuPgogICAgICAgIDxzcGFuIG5nLWlmPSJjdHJsLmlzR21iIj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAjIGFpZCA9IHN0YXRlWydhaWQnXQo=</text>
+        <text encoding="base64">ICAgIHNjb3BlPXNjb3BlcywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcmludCgnc3RhdGUnLCByZXF1ZXN0LmFyZ3MuZ2V0KCdzdGF0ZScsIHt9KSkKICBmb3IgaywgdiBpbiByZXF1ZXN0LnZhbHVlcy5pdGVtcygpOgogICAgcHJpbnQoaywgJy0tLS0nLCB2KQo=</text>
+        <text encoding="base64">ICAgICdlbWFpbCcsICdwcm9maWxlJywK</text>
       </register>
       <register name=":" type="4">
         <text>%s//BoostParams</text>
       </register>
       <register name="-" type="4">
-        <text>authorization_response=authorization_response</text>
+        <text>ng-class=&quot;{isdisabled: !ctrl.note.by_groups}&quot;</text>
       </register>
       <register name="/" type="4">
         <text>AssignDashParams</text>
@@ -272,7 +272,7 @@
       <last-replace>BoostParams</last-replace>
       <last-substitute>AssignDashParams</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
