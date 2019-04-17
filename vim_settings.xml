@@ -48,11 +48,11 @@
         <mark key="^" line="12" column="14" />
         <mark key="." line="12" column="14" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1555436172443">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1555459527399">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="44" />
+        <mark key="^" line="16" column="44" />
+        <mark key="." line="16" column="44" />
       </file>
       <file name="/code/sc/web/static/web/views/dashboard/search/dashboard-search-auto.ts" timestamp="1555426947871">
         <mark key="[" line="12" column="67" />
@@ -135,11 +135,24 @@
         <mark key="." line="22" column="51" />
       </file>
       <file name="/code/sc/web/static/common/components/page/page.ts" timestamp="1555413010074" />
+      <file name="/code/sc/web/sc/coms/ext/jsoncoders.py" timestamp="1555458744607">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="137" column="18" />
+        <mark key="]" line="137" column="18" />
+        <mark key="^" line="137" column="18" />
+        <mark key="." line="137" column="18" />
+      </file>
       <file name="/code/sc/web/sc/utils.py" timestamp="1555448106201">
         <mark key="[" line="521" column="23" />
         <mark key="]" line="522" column="12" />
         <mark key="." line="522" column="12" />
         <mark key="^" line="522" column="12" />
+      </file>
+      <file name="/Python Console" timestamp="1555437980467">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1555379746878">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/code/sc/web/sc/app/tasks/syncing.py" timestamp="1555434730320">
         <mark key="[" line="89" column="23" />
@@ -162,6 +175,9 @@
         <mark key="[" line="125" column="0" />
         <mark key="]" line="125" column="0" />
         <mark key="." line="125" column="0" />
+      </file>
+      <file name="/a.sql" timestamp="1555368921366">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/code/sc/web/static/web/views/nav-toolbar/integrations/ads/ads.ts" timestamp="1555377701729">
         <mark key="[" line="22" column="25" />
@@ -456,6 +472,9 @@
         <mark key="^" line="51" column="10" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1555459335045">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/code/sc/web/gce/startup-script-back.sh" timestamp="1555452340218" />
       <file name="/code/sc/web/sc/app/notes/cron.py" timestamp="1555430824157">
         <mark key="[" line="147" column="21" />
@@ -529,7 +548,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="2" filename="/code/sc/web/static/common/components/dialog/sc-dialog.ts" />
       <jump line="59" column="24" filename="/code/sc/web/static/web/views/boost/boost.ts" />
       <jump line="11" column="13" filename="/code/sc/web/static/common/components/date-search/date-search.dialog.ts" />
       <jump line="56" column="13" filename="/code/sc/web/static/web/components/virt-list/auth-loc-virt-list.ts" />
@@ -629,6 +647,7 @@
       <jump line="28" column="19" filename="/code/sc/web/instance/local/develop_settings.py" />
       <jump line="48" column="26" filename="/code/sc/web/sc/app/surveys/args.py" />
       <jump line="42" column="9" filename="/code/sc/web/instance/local/develop_settings.py" />
+      <jump line="18" column="0" filename="/code/sc/web/sc/coms/ext/jsoncoders.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
