@@ -153,7 +153,8 @@
       <file name="/code/sc/web/sc/coms/ext/oauth2.py" timestamp="1555462023606">
         <mark key="'" line="96" column="0" />
       </file>
-      <file name="/code/sc/web/main_cron.py" timestamp="1555453999083">
+      <file name="/code/sc/web/main_cron.py" timestamp="1555483245781">
+        <mark key="'" line="14" column="2" />
         <mark key="[" line="213" column="103" />
         <mark key="]" line="213" column="49" />
         <mark key="^" line="213" column="49" />
@@ -205,7 +206,7 @@
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="/code/sc/web/sc/app/plats/synclocs/google.py" timestamp="1555478824992" />
+      <file name="/code/sc/web/sc/app/plats/synclocs/google.py" timestamp="1555482775795" />
       <file name="/code/sc/web/static/web/views/listings/edits/edit-item/al-edit-item.ts" timestamp="1555432143097">
         <mark key="[" line="69" column="16" />
         <mark key="]" line="70" column="20" />
@@ -218,8 +219,8 @@
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="/code/sc/web/sc/coms/ext/sentry.py" timestamp="1555476831300">
-        <mark key="'" line="86" column="22" />
+      <file name="/code/sc/web/sc/coms/ext/sentry.py" timestamp="1555483635898">
+        <mark key="'" line="118" column="19" />
         <mark key="[" line="90" column="30" />
         <mark key="]" line="90" column="38" />
         <mark key="^" line="90" column="38" />
@@ -250,7 +251,9 @@
       <file name="/fragment.py" timestamp="1555461705124">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code/sc/web/sc/app/tasks/syncing.py" timestamp="1555475616422" />
+      <file name="/code/sc/web/sc/app/tasks/syncing.py" timestamp="1555482834262">
+        <mark key="'" line="115" column="0" />
+      </file>
       <file name="/code/sc/web/sc/app/reports/firstpage.py" timestamp="1555423547086">
         <mark key="[" line="56" column="26" />
         <mark key="]" line="58" column="26" />
@@ -359,6 +362,13 @@
         <mark key="^" line="22" column="6" />
         <mark key="." line="22" column="6" />
       </file>
+      <file name="/code/sc/web/cli/auths.py" timestamp="1555483011356">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="297" column="47" />
+        <mark key="]" line="298" column="8" />
+        <mark key="^" line="298" column="8" />
+        <mark key="." line="298" column="8" />
+      </file>
       <file name="/code/sc/web/static/common/components/switch-hint/switch-hint.ts" timestamp="1555415362756">
         <mark key="[" line="5" column="56" />
         <mark key="]" line="5" column="97" />
@@ -449,12 +459,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="22" filename="/code/sc/web/instance/local/shit-notes.txt" />
-      <jump line="150" column="64" filename="/code/sc/web/instance/local/shit-notes.txt" />
-      <jump line="38" column="9" filename="/code/sc/web/instance/local/develop_settings.py" />
-      <jump line="62" column="0" filename="/code/sc/web/cli/ads_auth.py" />
-      <jump line="65" column="0" filename="/code/sc/web/cli/ads_auth.py" />
-      <jump line="13" column="28" filename="/code/sc/web/instance/google-ads.yaml" />
       <jump line="20" column="60" filename="/code/sc/web/cli/ads_auth.py" />
       <jump line="23" column="0" filename="/code/sc/web/cli/ads_auth.py" />
       <jump line="0" column="0" filename="/code/sc/web/sc/app/integs/bulk/incoming.py" />
@@ -549,40 +553,46 @@
       <jump line="7" column="12" filename="/code/sc/web/instance/local/develop_settings.py" />
       <jump line="54" column="0" filename="/code/sc/web/instance/local/develop_settings.py" />
       <jump line="10" column="6" filename="/code/sc/web/sc/coms/ext/logstypes.py" />
+      <jump line="177" column="37" filename="/code/sc/web/cli/auths.py" />
+      <jump line="288" column="13" filename="/code/sc/web/cli/auths.py" />
+      <jump line="32" column="0" filename="/code/sc/web/cli/auths.py" />
+      <jump line="115" column="0" filename="/code/sc/web/sc/app/tasks/syncing.py" />
+      <jump line="14" column="2" filename="/code/sc/web/main_cron.py" />
+      <jump line="118" column="19" filename="/code/sc/web/sc/coms/ext/sentry.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAjIGVkID0gcmVuZGVyX2tleV92YWx1ZXMoZWQpCg==</text>
+        <text encoding="base64">ICByZXMgPSBzZWxmLmFwaS5yZXEoZicve3NlbGYubHAuYWwuZnVsbF9laWR9L3Jldmlld3MnLCBwYWdlVG9rZW49cGFnZV90b2tlbiwgcGFnZVNpemU9MjAwKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVkID0gcmVuZGVyX2tleV92YWx1ZXMoZWQpCg==</text>
+        <text encoding="base64">ICAjIGVkID0gcmVuZGVyX2tleV92YWx1ZXMoZWQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVkID0gcmVuZGVyX2tleV92YWx1ZXMoZWQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdodHRwczovL3d3dy5nb29nbGVhcGlzLmNvbS9hdXRoL2Fkd29yZHMnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBTQ09QRVMgPSBbCiAgICAnaHR0cHM6Ly93d3cuZ29vZ2xlYXBpcy5jb20vYXV0aC9hZHdvcmRzJywKICAgICdodHRwczovL3d3dy5nb29nbGVhcGlzLmNvbS9hdXRoL3VzZXJpbmZvLmVtYWlsJywKICAgICdodHRwczovL3d3dy5nb29nbGVhcGlzLmNvbS9hdXRoL3VzZXJpbmZvLnByb2ZpbGUnLAogICAgJ2h0dHBzOi8vd3d3Lmdvb2dsZWFwaXMuY29tL2F1dGgvcGx1cy5idXNpbmVzcy5tYW5hZ2UnCiAgXQo=</text>
+        <text encoding="base64">ICAgICdodHRwczovL3d3dy5nb29nbGVhcGlzLmNvbS9hdXRoL2Fkd29yZHMnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFjY2Vzc190eXBlPSdvZmZsaW5lJywK</text>
+        <text encoding="base64">ICBTQ09QRVMgPSBbCiAgICAnaHR0cHM6Ly93d3cuZ29vZ2xlYXBpcy5jb20vYXV0aC9hZHdvcmRzJywKICAgICdodHRwczovL3d3dy5nb29nbGVhcGlzLmNvbS9hdXRoL3VzZXJpbmZvLmVtYWlsJywKICAgICdodHRwczovL3d3dy5nb29nbGVhcGlzLmNvbS9hdXRoL3VzZXJpbmZvLnByb2ZpbGUnLAogICAgJ2h0dHBzOi8vd3d3Lmdvb2dsZWFwaXMuY29tL2F1dGgvcGx1cy5idXNpbmVzcy5tYW5hZ2UnCiAgXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGluY2x1ZGVfZ3JhbnRlZF9zY29wZXM9J3RydWUnLAo=</text>
+        <text encoding="base64">ICAgIGFjY2Vzc190eXBlPSdvZmZsaW5lJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhaWQgPSAK</text>
+        <text encoding="base64">ICAgIGluY2x1ZGVfZ3JhbnRlZF9zY29wZXM9J3RydWUnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcmludChmbG93LmNyZWRlbnRpYWxzKQo=</text>
+        <text encoding="base64">ICBhaWQgPSAK</text>
       </register>
       <register name=":" type="4">
         <text>%s//BoostParams</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bm90IA==</text>
+        <text>locations/17673678313554283842</text>
       </register>
       <register name="/" type="4">
         <text>AssignDashParams</text>
