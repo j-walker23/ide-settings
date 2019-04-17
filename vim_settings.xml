@@ -57,8 +57,8 @@
       <file name="/code/sc/web/static/web/views/reportcard/search/reportcard-auto.service.ts" timestamp="1555427264701" />
       <file name="/code/sc/web/static/web/views/settings/platforms/connect-locations/connect-locations.ts" timestamp="1555428725190" />
       <file name="/code/sc/web/static/web/views/assign-dash/search/assign-dash-search.html" timestamp="1555424453501" />
-      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1555464668103">
-        <mark key="'" line="42" column="9" />
+      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1555465903364">
+        <mark key="'" line="20" column="50" />
         <mark key="[" line="49" column="13" />
         <mark key="]" line="49" column="16" />
         <mark key="." line="49" column="16" />
@@ -200,8 +200,14 @@
         <mark key="." line="136" column="31" />
         <mark key="^" line="136" column="31" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1555466150584">
+        <mark key="[" line="32" column="1" />
+        <mark key="]" line="35" column="97" />
+        <mark key="^" line="35" column="97" />
+        <mark key="." line="35" column="97" />
+      </file>
       <file name="/code/sc/web/tests/conftest.py" timestamp="1555420535763" />
-      <file name="/code/sc/web/cli/scripts/m700.py" timestamp="1555434089560" />
+      <file name="/code/sc/web/cli/scripts/m700.py" timestamp="1555466145747" />
       <file name="/code/sc/web/static/web/views/survey-summary/survey-summary.html" timestamp="1555426785848" />
       <file name="/code/sc/web/static/common/models/user.model.ts" timestamp="1555426253661" />
       <file name="/code/sc/web/sc/app/notes/restful.py" timestamp="1555430768245">
@@ -289,11 +295,11 @@
         <mark key="^" line="70" column="20" />
         <mark key="." line="70" column="20" />
       </file>
-      <file name="/code/sc/web/instance/env.txt" timestamp="1555464872121">
+      <file name="/code/sc/web/instance/env.txt" timestamp="1555465907098">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-        <mark key="^" line="0" column="4" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+        <mark key="^" line="0" column="3" />
       </file>
       <file name="/code/sc/web/sc/core/interfaces.py" timestamp="1555422932349">
         <mark key="[" line="45" column="6" />
@@ -425,7 +431,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="88" filename="/code/sc/web/instance/local/shit-notes.txt" />
       <jump line="80" column="0" filename="/code/sc/web/instance/local/shit-notes.txt" />
       <jump line="95" column="71" filename="/code/sc/web/instance/local/shit-notes.txt" />
       <jump line="15" column="17" filename="/code/sc/web/instance/local/boost-listing-model.rtf" />
@@ -525,6 +530,7 @@
       <jump line="77" column="24" filename="/code/sc/web/sc/coms/ext/oauth2.py" />
       <jump line="81" column="0" filename="/code/sc/web/sc/coms/ext/oauth2.py" />
       <jump line="42" column="9" filename="/code/sc/web/instance/local/develop_settings.py" />
+      <jump line="20" column="50" filename="/code/sc/web/instance/local/develop_settings.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -558,7 +564,7 @@
         <text>%s//BoostParams</text>
       </register>
       <register name="-" type="4">
-        <text>prod</text>
+        <text>local</text>
       </register>
       <register name="/" type="4">
         <text>AssignDashParams</text>
