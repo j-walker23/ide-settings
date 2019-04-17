@@ -57,7 +57,7 @@
       <file name="/code/sc/web/static/web/views/reportcard/search/reportcard-auto.service.ts" timestamp="1555427264701" />
       <file name="/code/sc/web/static/web/views/settings/platforms/connect-locations/connect-locations.ts" timestamp="1555428725190" />
       <file name="/code/sc/web/static/web/views/assign-dash/search/assign-dash-search.html" timestamp="1555424453501" />
-      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1555457834508">
+      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1555464668103">
         <mark key="'" line="42" column="9" />
         <mark key="[" line="49" column="13" />
         <mark key="]" line="49" column="16" />
@@ -100,11 +100,7 @@
         <mark key="." line="35" column="70" />
       </file>
       <file name="/code/sc/web/sc/coms/ext/oauth2.py" timestamp="1555462023606">
-        <mark key="'" line="88" column="0" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="46" column="34" />
+        <mark key="'" line="96" column="0" />
       </file>
       <file name="/code/sc/web/static/common/components/smart-search/smart-search.ts" timestamp="1555428711848" />
       <file name="/code/sc/web/sc/core/argsutil.py" timestamp="1555424238186">
@@ -139,7 +135,7 @@
         <mark key="." line="522" column="12" />
         <mark key="^" line="522" column="12" />
       </file>
-      <file name="/Python Console" timestamp="1555462063301">
+      <file name="/Python Console" timestamp="1555463859887">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1555461705124">
@@ -171,6 +167,9 @@
         <mark key="^" line="48" column="32" />
         <mark key="." line="48" column="32" />
       </file>
+      <file name="/code/sc/web/sc/mods/web/rest/accounts/gmb_questions_view.py" timestamp="1555433559631">
+        <mark key="'" line="14" column="6" />
+      </file>
       <file name="/code/sc/web/node_modules/angular-material/modules/js/datepicker/datepicker.js" timestamp="1555443480092" />
       <file name="/code/sc/web/sc/app/plats/listings/facebook/listing.py" timestamp="1555452079809">
         <mark key="[" line="21" column="20" />
@@ -190,6 +189,9 @@
         <mark key="]" line="190" column="29" />
         <mark key="^" line="190" column="29" />
         <mark key="." line="190" column="29" />
+      </file>
+      <file name="/code/sc/web/static/web/views/notes/details/note-locadmin/note-locadmin.html" timestamp="1555421717498">
+        <mark key="'" line="86" column="0" />
       </file>
       <file name="/code/sc/web/sc/app/surveys/args.py" timestamp="1555455083189">
         <mark key="'" line="48" column="26" />
@@ -259,6 +261,9 @@
         <mark key="^" line="389" column="37" />
         <mark key="." line="389" column="37" />
       </file>
+      <file name="/code/sc/web/static/web/components/chips/autos/division-auto.ts" timestamp="1555424529489">
+        <mark key="'" line="99" column="13" />
+      </file>
       <file name="/code/sc/web/sc/sql/tables.py" timestamp="1555413618484">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="162" column="41" />
@@ -284,7 +289,7 @@
         <mark key="^" line="70" column="20" />
         <mark key="." line="70" column="20" />
       </file>
-      <file name="/code/sc/web/instance/env.txt" timestamp="1555457831900">
+      <file name="/code/sc/web/instance/env.txt" timestamp="1555464872121">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -334,12 +339,6 @@
         <mark key="]" line="135" column="75" />
         <mark key="^" line="135" column="75" />
         <mark key="." line="135" column="75" />
-      </file>
-      <file name="/code/sc/web/sc/mods/web/views.py" timestamp="1555462062053">
-        <mark key="[" line="262" column="44" />
-        <mark key="]" line="262" column="43" />
-        <mark key="." line="262" column="43" />
-        <mark key="^" line="262" column="43" />
       </file>
       <file name="/code/sc/web/static/web/views/notes/details/note-loc-rc/note-loc-rc.html" timestamp="1555421709972">
         <mark key="[" line="32" column="11" />
@@ -420,6 +419,9 @@
         <mark key="]" line="85" column="0" />
         <mark key="^" line="140" column="5" />
         <mark key="." line="85" column="0" />
+      </file>
+      <file name="/code/sc/web/static/web/views/settings/locations/details/location-details.ts" timestamp="1555436475870">
+        <mark key="'" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -516,47 +518,47 @@
       <jump line="20" column="26" filename="/code/sc/web/static/web/views/dashboard/search/dashboard-search.ts" />
       <jump line="28" column="19" filename="/code/sc/web/instance/local/develop_settings.py" />
       <jump line="48" column="26" filename="/code/sc/web/sc/app/surveys/args.py" />
-      <jump line="42" column="9" filename="/code/sc/web/instance/local/develop_settings.py" />
       <jump line="18" column="0" filename="/code/sc/web/sc/coms/ext/jsoncoders.py" />
       <jump line="74" column="0" filename="/code/sc/web/sc/coms/ext/oauth2.py" />
       <jump line="0" column="0" filename="/code/sc/web/sc/coms/ext/oauth2.py" />
       <jump line="76" column="28" filename="/code/sc/web/sc/coms/ext/oauth2.py" />
       <jump line="77" column="24" filename="/code/sc/web/sc/coms/ext/oauth2.py" />
       <jump line="81" column="0" filename="/code/sc/web/sc/coms/ext/oauth2.py" />
+      <jump line="42" column="9" filename="/code/sc/web/instance/local/develop_settings.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICdodHRwczovL3d3dy5nb29nbGVhcGlzLmNvbS9hdXRoL2Fkd29yZHMnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBTQ09QRVMgPSBbCiAgICAnaHR0cHM6Ly93d3cuZ29vZ2xlYXBpcy5jb20vYXV0aC9hZHdvcmRzJywKICAgICdodHRwczovL3d3dy5nb29nbGVhcGlzLmNvbS9hdXRoL3VzZXJpbmZvLmVtYWlsJywKICAgICdodHRwczovL3d3dy5nb29nbGVhcGlzLmNvbS9hdXRoL3VzZXJpbmZvLnByb2ZpbGUnLAogICAgJ2h0dHBzOi8vd3d3Lmdvb2dsZWFwaXMuY29tL2F1dGgvcGx1cy5idXNpbmVzcy5tYW5hZ2UnCiAgXQo=</text>
+        <text encoding="base64">ICAgICdodHRwczovL3d3dy5nb29nbGVhcGlzLmNvbS9hdXRoL2Fkd29yZHMnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFjY2Vzc190eXBlPSdvZmZsaW5lJywK</text>
+        <text encoding="base64">ICBTQ09QRVMgPSBbCiAgICAnaHR0cHM6Ly93d3cuZ29vZ2xlYXBpcy5jb20vYXV0aC9hZHdvcmRzJywKICAgICdodHRwczovL3d3dy5nb29nbGVhcGlzLmNvbS9hdXRoL3VzZXJpbmZvLmVtYWlsJywKICAgICdodHRwczovL3d3dy5nb29nbGVhcGlzLmNvbS9hdXRoL3VzZXJpbmZvLnByb2ZpbGUnLAogICAgJ2h0dHBzOi8vd3d3Lmdvb2dsZWFwaXMuY29tL2F1dGgvcGx1cy5idXNpbmVzcy5tYW5hZ2UnCiAgXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGluY2x1ZGVfZ3JhbnRlZF9zY29wZXM9J3RydWUnLAo=</text>
+        <text encoding="base64">ICAgIGFjY2Vzc190eXBlPSdvZmZsaW5lJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhaWQgPSAK</text>
+        <text encoding="base64">ICAgIGluY2x1ZGVfZ3JhbnRlZF9zY29wZXM9J3RydWUnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcmludChmbG93LmNyZWRlbnRpYWxzKQo=</text>
+        <text encoding="base64">ICBhaWQgPSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjcmVkZW50aWFscyA9IAo=</text>
+        <text encoding="base64">ICBwcmludChmbG93LmNyZWRlbnRpYWxzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgpAY2FjaGUoa2V5PWNvbnN0LkNBQ0hFX0tFWSkKZGVmIGFkc19vYXV0aDIoYXBwOiAnTWFpbkZsYXNrJykgLT4gVXNlck9BdXRoMjoKICAiIiJDb25maWcgYW5kIGNhY2hlIG9hdXRoMiBjbGllbnQiIiIKICBjbGllbnQgPSBVc2VyT0F1dGgyKGFwcCwKICAgICAgICAgICAgICAgICAgICAgIHN0b3JhZ2U9Tm9uU2Vzc2lvblN0b3JhZ2UoKSwKICAgICAgICAgICAgICAgICAgICAgIHNjb3Blcz1bJ2VtYWlsJywgJ3Byb2ZpbGUnLCAnaHR0cHM6Ly93d3cuZ29vZ2xlYXBpcy5jb20vYXV0aC9hZHdvcmRzJ10sCiAgICAgICAgICAgICAgICAgICAgICBjbGllbnRfc2VjcmV0c19maWw9J2luc3RhbmNlL2tleXMvYWRzLXNlY3JldC5qc29uJywKICAgICAgICAgICAgICAgICAgICAgIGF1dGhvcml6ZV9jYWxsYmFjaz1hZHNfY2IsCiAgICAgICAgICAgICAgICAgICAgICBpbmNsdWRlX2dyYW50ZWRfc2NvcGVzPSd0cnVlJywKICAgICAgICAgICAgICAgICAgICAgIGFjY2Vzc190eXBlPSdvZmZsaW5lJywKICAgICAgICAgICAgICAgICAgICAgIHByb21wdD0nY29uc2VudCcpCiAgbG9nLmluZm8oJ0VuYWJsZWQgZmxhc2stb2F1dGgyJykKICByZXR1cm4gY2xpZW50Cg==</text>
+        <text encoding="base64">ICBjcmVkZW50aWFscyA9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAjIGZsb3cuZmV0Y2hfdG9rZW4oY29kZT1hdXRoX2NvZGUpCg==</text>
+        <text encoding="base64">CgpAY2FjaGUoa2V5PWNvbnN0LkNBQ0hFX0tFWSkKZGVmIGFkc19vYXV0aDIoYXBwOiAnTWFpbkZsYXNrJykgLT4gVXNlck9BdXRoMjoKICAiIiJDb25maWcgYW5kIGNhY2hlIG9hdXRoMiBjbGllbnQiIiIKICBjbGllbnQgPSBVc2VyT0F1dGgyKGFwcCwKICAgICAgICAgICAgICAgICAgICAgIHN0b3JhZ2U9Tm9uU2Vzc2lvblN0b3JhZ2UoKSwKICAgICAgICAgICAgICAgICAgICAgIHNjb3Blcz1bJ2VtYWlsJywgJ3Byb2ZpbGUnLCAnaHR0cHM6Ly93d3cuZ29vZ2xlYXBpcy5jb20vYXV0aC9hZHdvcmRzJ10sCiAgICAgICAgICAgICAgICAgICAgICBjbGllbnRfc2VjcmV0c19maWw9J2luc3RhbmNlL2tleXMvYWRzLXNlY3JldC5qc29uJywKICAgICAgICAgICAgICAgICAgICAgIGF1dGhvcml6ZV9jYWxsYmFjaz1hZHNfY2IsCiAgICAgICAgICAgICAgICAgICAgICBpbmNsdWRlX2dyYW50ZWRfc2NvcGVzPSd0cnVlJywKICAgICAgICAgICAgICAgICAgICAgIGFjY2Vzc190eXBlPSdvZmZsaW5lJywKICAgICAgICAgICAgICAgICAgICAgIHByb21wdD0nY29uc2VudCcpCiAgbG9nLmluZm8oJ0VuYWJsZWQgZmxhc2stb2F1dGgyJykKICByZXR1cm4gY2xpZW50Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//BoostParams</text>
       </register>
       <register name="-" type="4">
-        <text>['email', 'profile', 'https://www.googleapis.com/auth/plus.business.manage']</text>
+        <text>prod</text>
       </register>
       <register name="/" type="4">
         <text>AssignDashParams</text>
