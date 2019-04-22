@@ -115,12 +115,12 @@
         <mark key="^" line="160" column="49" />
         <mark key="." line="160" column="0" />
       </file>
-      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1555942891153">
-        <mark key="'" line="56" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="42" column="13" />
+      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1555947422226">
+        <mark key="'" line="34" column="7" />
+        <mark key="[" line="42" column="10" />
+        <mark key="]" line="42" column="10" />
+        <mark key="." line="42" column="10" />
+        <mark key="^" line="42" column="10" />
       </file>
       <file name="/code/sc/web/static/common/models/note.model.ts" timestamp="1555422639585">
         <mark key="[" line="241" column="59" />
@@ -152,12 +152,12 @@
         <mark key="^" line="81" column="100" />
         <mark key="." line="81" column="100" />
       </file>
-      <file name="/code/sc/web/templates/web.html" timestamp="1555943218025">
+      <file name="/code/sc/web/templates/web.html" timestamp="1555947372248">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="52" column="35" />
-        <mark key="]" line="52" column="37" />
-        <mark key="^" line="52" column="37" />
-        <mark key="." line="52" column="37" />
+        <mark key="[" line="52" column="24" />
+        <mark key="]" line="52" column="24" />
+        <mark key="^" line="52" column="24" />
+        <mark key="." line="52" column="24" />
       </file>
       <file name="/code/sc/web/static/web/views/settings/platforms/connect-facebook/connect-facebook.ts" timestamp="1555943721668">
         <mark key="'" line="0" column="0" />
@@ -261,17 +261,11 @@
         <mark key="." line="522" column="12" />
         <mark key="^" line="522" column="12" />
       </file>
-      <file name="/code/sc/web/sc/mods/config.py" timestamp="1555942884591">
-        <mark key="[" line="110" column="180" />
-        <mark key="]" line="111" column="1" />
-        <mark key="^" line="111" column="1" />
-        <mark key="." line="111" column="1" />
-      </file>
-      <file name="/Python Console" timestamp="1555477081229">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1555461705124">
-        <mark key="[" line="0" column="0" />
+      <file name="/code/sc/web/sc/mods/config.py" timestamp="1555947366591">
+        <mark key="[" line="114" column="12" />
+        <mark key="]" line="114" column="12" />
+        <mark key="^" line="114" column="12" />
+        <mark key="." line="114" column="12" />
       </file>
       <file name="/code/sc/web/sc/app/tasks/syncing.py" timestamp="1555486755404">
         <mark key="'" line="115" column="0" />
@@ -321,9 +315,6 @@
         <mark key="^" line="6" column="33" />
         <mark key="." line="6" column="33" />
       </file>
-      <file name="/a.sql" timestamp="1555368921366">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/code/sc/web/static/web/views/notes/details/note-loc-rc/note-loc-rc.html" timestamp="1555421709972">
         <mark key="[" line="32" column="11" />
         <mark key="]" line="32" column="10" />
@@ -367,9 +358,6 @@
       </file>
       <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/sentry_sdk/integrations/logging.py" timestamp="1555485180970">
         <mark key="'" line="116" column="16" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1555459335045">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/code/sc/web/sc/app/plats/listings/facebook/listing.py" timestamp="1555452079809">
         <mark key="[" line="21" column="20" />
@@ -422,11 +410,11 @@
         <mark key="^" line="190" column="29" />
         <mark key="." line="190" column="29" />
       </file>
-      <file name="/code/sc/web/sc/coms/ext/classful.py" timestamp="1555448044969">
-        <mark key="[" line="184" column="9" />
-        <mark key="]" line="184" column="18" />
-        <mark key="^" line="184" column="18" />
-        <mark key="." line="184" column="18" />
+      <file name="/code/sc/web/sc/coms/ext/classful.py" timestamp="1555947017907">
+        <mark key="[" line="115" column="15" />
+        <mark key="]" line="115" column="28" />
+        <mark key="." line="115" column="28" />
+        <mark key="^" line="115" column="28" />
       </file>
       <file name="/code/sc/web/sc/coms/ext/logprocessors.py" timestamp="1555478035596">
         <mark key="[" line="31" column="0" />
@@ -475,7 +463,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="21" filename="/code/sc/web/sc/sql/platform/auth/__init__.py" />
       <jump line="49" column="0" filename="/code/sc/web/sc/sql/platform/auth/__init__.py" />
       <jump line="62" column="15" filename="/code/sc/web/sc/sql/platform/ads/__init__.py" />
       <jump line="12" column="15" filename="/code/sc/web/sc/sql/platform/ads/__init__.py" />
@@ -575,31 +562,32 @@
       <jump line="15" column="26" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
       <jump line="0" column="0" filename="/code/sc/web/templates/web.html" />
       <jump line="0" column="0" filename="/code/sc/web/static/web/views/settings/platforms/connect-facebook/connect-facebook.ts" />
+      <jump line="34" column="7" filename="/code/sc/web/instance/local/develop_settings.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfSwKICAgICAgeyBzY29wZTogJ2VtYWlsLGRlZmF1bHQsbWFuYWdlX3BhZ2VzLHB1Ymxpc2hfcGFnZXMnIH0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RkJfS0VZID0gJzU4YThkYzhkODQwYzZhM2Q5MzgwYTBlYTlmYmE0NDlmJwo=</text>
+        <text encoding="base64">ICAgICAgfSwKICAgICAgeyBzY29wZTogJ2VtYWlsLGRlZmF1bHQsbWFuYWdlX3BhZ2VzLHB1Ymxpc2hfcGFnZXMnIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBGQl9LRVlTID0gZGljdCgKICAgIGNsaWVudF9pZD0nMTc4ODQxOTI1NDczNDE1NCcsCiAgICBjbGllbnRfc2VjcmV0PSc1OGE4ZGM4ZDg0MGM2YTNkOTM4MGEwZWE5ZmJhNDQ5ZicKICApCg==</text>
+        <text encoding="base64">RkJfS0VZID0gJzU4YThkYzhkODQwYzZhM2Q5MzgwYTBlYTlmYmE0NDlmJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBGQl9LRVlTID0gZGljdCgKICAgIGNsaWVudF9pZD0nMTc4ODQxOTI1NDczNDE1NCcsCiAgICBjbGllbnRfc2VjcmV0PSc1OGE4ZGM4ZDg0MGM2YTNkOTM4MGEwZWE5ZmJhNDQ5ZicKICApCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQ+d2luZG93LmZiQXN5bmNJbml0PWZ1bmN0aW9uKCl7RkIuaW5pdCh7YXBwSWQ6Int7IGRhdGEuZmJfYXBwIH19IixzdGF0dXM6ITAsY29va2llOiEwLHhmYm1sOiEwLHZlcnNpb246InYzLjEifSl9LGZ1bmN0aW9uKGEsYixjKXt2YXIgZCxlPWEuZ2V0RWxlbWVudHNCeVRhZ05hbWUoYilbMF07YS5nZXRFbGVtZW50QnlJZChjKXx8KGQ9YS5jcmVhdGVFbGVtZW50KGIpLGQuaWQ9YyxkLnNyYz0iLy9jb25uZWN0LmZhY2Vib29rLm5ldC9lbl9VUy9zZGsuanMiLGUucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoZCxlKSl9KGRvY3VtZW50LCJzY3JpcHQiLCJmYWNlYm9vay1qc3NkayIpOzwvc2NyaXB0Pgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQ+d2luZG93LmZiQXN5bmNJbml0PWZ1bmN0aW9uKCl7RkIuaW5pdCh7YXBwSWQ6Int7IGRhdGEuZmJfYXBwIH19IixzdGF0dXM6ITAsY29va2llOiEwLHhmYm1sOiEwLHZlcnNpb246InYzLjEifSl9LGZ1bmN0aW9uKGEsYixjKXt2YXIgZCxlPWEuZ2V0RWxlbWVudHNCeVRhZ05hbWUoYilbMF07YS5nZXRFbGVtZW50QnlJZChjKXx8KGQ9YS5jcmVhdGVFbGVtZW50KGIpLGQuaWQ9YyxkLnNyYz0iLy9jb25uZWN0LmZhY2Vib29rLm5ldC9lbl9VUy9zZGsuanMiLGUucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoZCxlKSl9KGRvY3VtZW50LCJzY3JpcHQiLCJmYWNlYm9vay1qc3NkayIpOzwvc2NyaXB0Pgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
@@ -608,7 +596,7 @@
         <text>%s//BoostParams</text>
       </register>
       <register name="-" type="4">
-        <text>default</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
         <text>AssignDashParams</text>
