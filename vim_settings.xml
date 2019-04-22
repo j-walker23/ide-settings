@@ -89,10 +89,12 @@
       <file name="/code/sc/web/sc/coms/ext/oauth2.py" timestamp="1555462023606">
         <mark key="'" line="96" column="0" />
       </file>
-      <file name="/code/sc/web/static/common/components/smart-search/smart-search.ts" timestamp="1555964032179">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
+      <file name="/code/sc/web/static/common/components/smart-search/smart-search.ts" timestamp="1555969371079">
+        <mark key="'" line="530" column="0" />
+        <mark key="[" line="531" column="0" />
+        <mark key="]" line="531" column="0" />
+        <mark key="^" line="96" column="17" />
+        <mark key="." line="531" column="0" />
       </file>
       <file name="/code/sc/web/static/web/views/nav-toolbar/switch-accounts/switch-accounts.ts" timestamp="1555962142860">
         <mark key="[" line="31" column="67" />
@@ -403,10 +405,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="6" filename="/code/sc/web/sc/sql/__init__.py" />
-      <jump line="22" column="6" filename="/code/sc/web/sc/app/plats/api/auth_storage.py" />
-      <jump line="59" column="4" filename="/code/sc/web/sc/app/plats/api/auth_storage.py" />
-      <jump line="17" column="0" filename="/code/sc/web/sc/app/plats/api/auth_storage.py" />
       <jump line="21" column="0" filename="/code/sc/web/static/web/views/settings/platforms/connect-platform/connect-platform.html" />
       <jump line="0" column="0" filename="/code/sc/web/sc/mods/web/webhooks/twilio_webhooks_view.py" />
       <jump line="403" column="46" filename="/code/sc/web/cli/ones.py" />
@@ -503,40 +501,44 @@
       <jump line="27" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
       <jump line="43" column="9" filename="/code/sc/web/instance/local/develop_settings.py" />
       <jump line="151" column="2" filename="/code/sc/web/sc/app/tasks/alert.py" />
+      <jump line="539" column="17" filename="/code/sc/web/static/common/components/smart-search/smart-search.ts" />
+      <jump line="233" column="0" filename="/code/sc/web/static/common/components/smart-search/smart-search.ts" />
+      <jump line="70" column="2" filename="/code/sc/web/static/common/components/smart-search/smart-search.ts" />
+      <jump line="530" column="0" filename="/code/sc/web/static/common/components/smart-search/smart-search.ts" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMubWF0Y2hlcyA9IHRoaXMuYXV0b3NlcnZpY2UuZGlzcGxheXMK</text>
+        <text encoding="base64">CmV4cG9ydCBmdW5jdGlvbiBnZXRBbmd1bGFyRWxlbWVudHMoZWxlbWVudHMpIHsKICBjb25zdCBvYmogPSB7fQogIGZvciAobGV0IGtleSBpbiBlbGVtZW50cykgewogICAgaWYgKGVsZW1lbnRzLmhhc093blByb3BlcnR5KGtleSkpIG9ialtrZXldID0gJChlbGVtZW50c1trZXldKQogIH0KICByZXR1cm4gb2JqCn0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5oaWRkZW4gPSB0aGlzLnNob3VsZEhpZGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKCdJbmNvbWluZyBhcGkgcmVxdWVzdCcsIGtleT1rZXkpCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuaGlkZGVuID0gdGhpcy5zaG91bGRIaWRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuaGlkZGVuID0gdGhpcy5zaG91bGRIaWRlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKCF0aGlzLm5vQmx1cikgdGhpcy5oaWRkZW4gPSB0aGlzLnNob3VsZEhpZGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcmludChrLCAnLS0tJywgcmVwcih2KSkK</text>
+        <text encoding="base64">CiAgZ2V0IHNob3VsZEhpZGUoKSB7CiAgICBsZXQgaGlkZSA9IGZhbHNlCiAgICBpZiAoIXRoaXMuaXNTZWFyY2hhYmxlKSBoaWRlID0gdHJ1ZQogICAgZWxzZSBoaWRlID0gIXRoaXMuc2hvdWxkU2hvdwogICAgcmV0dXJuIGhpZGUKICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zm9yIGssIHYgaW4gdS5hcmdzLml0ZW1zKCk6CiAgcHJpbnQoaywgJy0tLScsIHJlcHIodikpCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZWxlbWVudHMuJCA9IGdldEFuZ3VsYXJFbGVtZW50cyh0aGlzLmVsZW1lbnRzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXJsID0gIiIiIiIiIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzZWFyY2hUZXh0OiBzdHJpbmcK</text>
+        <text encoding="base64">ICAgIHRoaXMuZWxlbWVudHMubGkgPSB0aGlzLmVsZW1lbnRzLnVsLmdldEVsZW1lbnRzQnlDbGFzc05hbWUoJ3JvdycpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//BoostParams</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>AssignDashParams</text>
