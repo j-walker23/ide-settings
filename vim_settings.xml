@@ -89,12 +89,12 @@
       <file name="/code/sc/web/sc/coms/ext/oauth2.py" timestamp="1555462023606">
         <mark key="'" line="96" column="0" />
       </file>
-      <file name="/code/sc/web/static/common/components/smart-search/smart-search.ts" timestamp="1555969371079">
-        <mark key="'" line="530" column="0" />
-        <mark key="[" line="531" column="0" />
-        <mark key="]" line="531" column="0" />
-        <mark key="^" line="96" column="17" />
-        <mark key="." line="531" column="0" />
+      <file name="/code/sc/web/static/common/components/smart-search/smart-search.ts" timestamp="1555969634750">
+        <mark key="'" line="523" column="0" />
+        <mark key="[" line="68" column="3" />
+        <mark key="]" line="69" column="1" />
+        <mark key="^" line="69" column="1" />
+        <mark key="." line="69" column="1" />
       </file>
       <file name="/code/sc/web/static/web/views/nav-toolbar/switch-accounts/switch-accounts.ts" timestamp="1555962142860">
         <mark key="[" line="31" column="67" />
@@ -132,12 +132,6 @@
         <mark key="^" line="114" column="12" />
         <mark key="." line="114" column="12" />
       </file>
-      <file name="/Python Console" timestamp="1555949460757">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1555461705124">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/code/sc/web/sc/app/tasks/syncing.py" timestamp="1555486755404">
         <mark key="'" line="115" column="0" />
       </file>
@@ -146,9 +140,6 @@
         <mark key="]" line="6" column="33" />
         <mark key="^" line="6" column="33" />
         <mark key="." line="6" column="33" />
-      </file>
-      <file name="/a.sql" timestamp="1555368921366">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/code/sc/web/sc/coms/ext/pubsubs.py" timestamp="1555961440781" />
       <file name="/code/sc/web/sc/mods/web/rest/accounts/gmb_questions_view.py" timestamp="1555433559631">
@@ -265,6 +256,7 @@
         <mark key="." line="52" column="24" />
       </file>
       <file name="/code/sc/web/sc/mods/web/pubsub/real_time_view.py" timestamp="1555961798428" />
+      <file name="/index.jsx" timestamp="1555970136626" />
       <file name="/code/sc/web/sc/coms/search/base_query.py" timestamp="1555433749316">
         <mark key="[" line="389" column="35" />
         <mark key="]" line="389" column="37" />
@@ -342,9 +334,6 @@
       </file>
       <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/sentry_sdk/integrations/logging.py" timestamp="1555485180970">
         <mark key="'" line="116" column="16" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1555459335045">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/code/sc/web/cli/gcs.py" timestamp="1555949088503">
         <mark key="'" line="0" column="0" />
@@ -508,34 +497,34 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">CmV4cG9ydCBmdW5jdGlvbiBnZXRBbmd1bGFyRWxlbWVudHMoZWxlbWVudHMpIHsKICBjb25zdCBvYmogPSB7fQogIGZvciAobGV0IGtleSBpbiBlbGVtZW50cykgewogICAgaWYgKGVsZW1lbnRzLmhhc093blByb3BlcnR5KGtleSkpIG9ialtrZXldID0gJChlbGVtZW50c1trZXldKQogIH0KICByZXR1cm4gb2JqCn0K</text>
+        <text encoding="base64">CiAgbmdPbkRlc3Ryb3koKSB7CiAgICBpZiAodGhpcy5lbGVtZW50cykgewogICAgICBjb25zdCBpdGVtcyA9IFsndWwnLCAnc2Nyb2xsZXInLCAnc2Nyb2xsQ29udGFpbmVyJywgJ2lucHV0J10KICAgICAgYW5ndWxhci5mb3JFYWNoKGl0ZW1zLCBrZXkgPT4gdGhpcy5lbGVtZW50cy4kW2tleV0ucmVtb3ZlKCkpCiAgICB9CiAgfQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5oaWRkZW4gPSB0aGlzLnNob3VsZEhpZGUK</text>
+        <text encoding="base64">CmV4cG9ydCBmdW5jdGlvbiBnZXRBbmd1bGFyRWxlbWVudHMoZWxlbWVudHMpIHsKICBjb25zdCBvYmogPSB7fQogIGZvciAobGV0IGtleSBpbiBlbGVtZW50cykgewogICAgaWYgKGVsZW1lbnRzLmhhc093blByb3BlcnR5KGtleSkpIG9ialtrZXldID0gJChlbGVtZW50c1trZXldKQogIH0KICByZXR1cm4gb2JqCn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaGlkZGVuID0gdGhpcy5zaG91bGRIaWRlCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5oaWRkZW4gPSB0aGlzLnNob3VsZEhpZGUK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIHRoaXMuaGlkZGVuID0gdGhpcy5zaG91bGRIaWRlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCF0aGlzLm5vQmx1cikgdGhpcy5oaWRkZW4gPSB0aGlzLnNob3VsZEhpZGUK</text>
+        <text encoding="base64">ICAgIHRoaXMuaGlkZGVuID0gdGhpcy5zaG91bGRIaWRlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgZ2V0IHNob3VsZEhpZGUoKSB7CiAgICBsZXQgaGlkZSA9IGZhbHNlCiAgICBpZiAoIXRoaXMuaXNTZWFyY2hhYmxlKSBoaWRlID0gdHJ1ZQogICAgZWxzZSBoaWRlID0gIXRoaXMuc2hvdWxkU2hvdwogICAgcmV0dXJuIGhpZGUKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKCF0aGlzLm5vQmx1cikgdGhpcy5oaWRkZW4gPSB0aGlzLnNob3VsZEhpZGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZWxlbWVudHMuJCA9IGdldEFuZ3VsYXJFbGVtZW50cyh0aGlzLmVsZW1lbnRzKQo=</text>
+        <text encoding="base64">CiAgZ2V0IHNob3VsZEhpZGUoKSB7CiAgICBsZXQgaGlkZSA9IGZhbHNlCiAgICBpZiAoIXRoaXMuaXNTZWFyY2hhYmxlKSBoaWRlID0gdHJ1ZQogICAgZWxzZSBoaWRlID0gIXRoaXMuc2hvdWxkU2hvdwogICAgcmV0dXJuIGhpZGUKICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZWxlbWVudHMuJCA9IGdldEFuZ3VsYXJFbGVtZW50cyh0aGlzLmVsZW1lbnRzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZWxlbWVudHMubGkgPSB0aGlzLmVsZW1lbnRzLnVsLmdldEVsZW1lbnRzQnlDbGFzc05hbWUoJ3JvdycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s//BoostParams</text>
+        <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -571,8 +560,8 @@
         <entry>AssignDashParams</entry>
       </history-search>
       <history-cmd>
-        <entry>action VimWindowSplitVertical</entry>
         <entry>%s//BoostParams</entry>
+        <entry>action VimWindowSplitVertical</entry>
       </history-cmd>
       <history-expr />
       <history-input />
