@@ -86,6 +86,9 @@
         <mark key="^" line="35" column="70" />
         <mark key="." line="35" column="70" />
       </file>
+      <file name="/code/sc/web/sc/coms/ext/oauth2.py" timestamp="1555462023606">
+        <mark key="'" line="96" column="0" />
+      </file>
       <file name="/code/sc/web/static/common/components/smart-search/smart-search.ts" timestamp="1555964032179">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
@@ -133,6 +136,9 @@
       <file name="/fragment.py" timestamp="1555461705124">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/code/sc/web/sc/app/tasks/syncing.py" timestamp="1555486755404">
+        <mark key="'" line="115" column="0" />
+      </file>
       <file name="/code/sc/web/static/web/components/chips/platforms/platform-chips.html" timestamp="1555416339215">
         <mark key="[" line="6" column="24" />
         <mark key="]" line="6" column="33" />
@@ -143,6 +149,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code/sc/web/sc/coms/ext/pubsubs.py" timestamp="1555961440781" />
+      <file name="/code/sc/web/sc/mods/web/rest/accounts/gmb_questions_view.py" timestamp="1555433559631">
+        <mark key="'" line="14" column="6" />
+      </file>
       <file name="/code/sc/web/sc/mods/web/api/__init__.py" timestamp="1555963748579">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -166,7 +175,13 @@
         <mark key="^" line="5" column="97" />
         <mark key="." line="5" column="97" />
       </file>
+      <file name="/code/sc/web/sc/app/tasks/alert.py" timestamp="1555968025489">
+        <mark key="'" line="151" column="2" />
+      </file>
       <file name="/code/sc/web/node_modules/@uirouter/core/lib/state/interface.d.ts" timestamp="1555962129673" />
+      <file name="/code/sc/web/static/web/views/notes/details/note-locadmin/note-locadmin.html" timestamp="1555421717498">
+        <mark key="'" line="86" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1555959584253">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="55" column="22" />
@@ -254,6 +269,9 @@
         <mark key="^" line="389" column="37" />
         <mark key="." line="389" column="37" />
       </file>
+      <file name="/code/sc/web/static/web/components/chips/autos/division-auto.ts" timestamp="1555424529489">
+        <mark key="'" line="99" column="13" />
+      </file>
       <file name="/code/sc/web/static/web/views/listings/edits/edit-item/al-edit-item.ts" timestamp="1555432143097">
         <mark key="[" line="69" column="16" />
         <mark key="]" line="70" column="20" />
@@ -320,6 +338,9 @@
         <mark key="." line="12" column="5" />
         <mark key="^" line="12" column="5" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/sentry_sdk/integrations/logging.py" timestamp="1555485180970">
+        <mark key="'" line="116" column="16" />
+      </file>
       <file name="/Dummy.txt" timestamp="1555459335045">
         <mark key="[" line="0" column="0" />
       </file>
@@ -377,9 +398,11 @@
         <mark key="." line="117" column="71" />
         <mark key="^" line="117" column="71" />
       </file>
+      <file name="/code/sc/web/static/web/views/settings/locations/details/location-details.ts" timestamp="1555436475870">
+        <mark key="'" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="4" filename="/code/sc/web/sc/sql/platform/ads/__init__.py" />
       <jump line="28" column="6" filename="/code/sc/web/sc/sql/__init__.py" />
       <jump line="22" column="6" filename="/code/sc/web/sc/app/plats/api/auth_storage.py" />
       <jump line="59" column="4" filename="/code/sc/web/sc/app/plats/api/auth_storage.py" />
@@ -479,6 +502,7 @@
       <jump line="0" column="0" filename="/code/sc/web/cli/gcs.py" />
       <jump line="27" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
       <jump line="43" column="9" filename="/code/sc/web/instance/local/develop_settings.py" />
+      <jump line="151" column="2" filename="/code/sc/web/sc/app/tasks/alert.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
