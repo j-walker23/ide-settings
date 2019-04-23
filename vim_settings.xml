@@ -160,12 +160,12 @@
       <file name="/code/sc/web/sc/coms/ext/oauth2.py" timestamp="1555462023606">
         <mark key="'" line="96" column="0" />
       </file>
-      <file name="/code/sc/web/static/common/components/smart-search/smart-search.ts" timestamp="1555988705752">
+      <file name="/code/sc/web/static/common/components/smart-search/smart-search.ts" timestamp="1555989570267">
         <mark key="'" line="236" column="41" />
-        <mark key="[" line="283" column="74" />
-        <mark key="]" line="283" column="75" />
-        <mark key="." line="283" column="75" />
-        <mark key="^" line="329" column="87" />
+        <mark key="[" line="474" column="5" />
+        <mark key="]" line="474" column="5" />
+        <mark key="^" line="474" column="6" />
+        <mark key="." line="474" column="5" />
       </file>
       <file name="/code/sc/web/static/web/views/nav-toolbar/switch-accounts/switch-accounts.ts" timestamp="1555962142860">
         <mark key="[" line="31" column="67" />
@@ -490,38 +490,38 @@
       <jump line="238" column="41" filename="/code/sc/web/static/common/components/smart-search/smart-search.ts" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHIsCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgICAgIHRlcm1JbmRleCA9IHRlcm1zLmxlbmd0aAogICAgICB9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbnVsbCwK</text>
+        <text encoding="base64">ICAgICAgICB0ZXJtSW5kZXggPSB6ZXJvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxldCB0ZXJtcyA9IHRoaXMuZ2V0UXVlcnlUZXJtcyhxdWVyeSkKICAgIGxldCB0ZXJtSW5kZXggPSB0aGlzLmdldFRlcm1JbmRleChjdXJzb3IsIHRlcm1zKQogICAgbGV0IHRlcm0gPSB0ZXJtc1t0ZXJtSW5kZXhdCg==</text>
+        <text encoding="base64">ICAgIGxldCB6ZXJvID0gdGVybXMubGVuZ3RoIC0gMQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCB0ZXJtcyA9IHRoaXMuZ2V0UXVlcnlUZXJtcyhxdWVyeSkKICAgIGxldCB0ZXJtSW5kZXggPSB0aGlzLmdldFRlcm1JbmRleChjdXJzb3IsIHRlcm1zKQogICAgbGV0IHRlcm0gPSB0ZXJtc1t0ZXJtSW5kZXhdCg==</text>
+        <text encoding="base64">ICAgIGxldCB6ZXJvID0gdGVybXMubGVuZ3RoIC0gMQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGVybUluZGV4ID0gCg==</text>
+        <text encoding="base64">ICAgICAgdGVybUluZGV4ID0gdGVybXMubGVuZ3RoCiAgICAgIHRlcm1zLnB1c2goJycpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGVybXMucHVzaCgnJykK</text>
+        <text encoding="base64">ICAgICAgICAgIHIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbnVsbCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBsZXQgcmV0Cg==</text>
+        <text encoding="base64">ICAgIGxldCB0ZXJtcyA9IHRoaXMuZ2V0UXVlcnlUZXJtcyhxdWVyeSkKICAgIGxldCB0ZXJtSW5kZXggPSB0aGlzLmdldFRlcm1JbmRleChjdXJzb3IsIHRlcm1zKQogICAgbGV0IHRlcm0gPSB0ZXJtc1t0ZXJtSW5kZXhdCg==</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0PSVPIA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>isAsync</text>
