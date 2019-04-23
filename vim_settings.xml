@@ -57,6 +57,12 @@
         <mark key="^" line="13" column="33" />
         <mark key="." line="13" column="33" />
       </file>
+      <file name="/code/sc/web/sc/app/tasks/hjcollecting.py" timestamp="1556001687705">
+        <mark key="[" line="57" column="32" />
+        <mark key="]" line="58" column="39" />
+        <mark key="^" line="58" column="39" />
+        <mark key="." line="58" column="39" />
+      </file>
       <file name="/code/sc/web/static/common/common.conf.ts" timestamp="1555443640393">
         <mark key="[" line="256" column="16" />
         <mark key="]" line="256" column="19" />
@@ -81,11 +87,12 @@
         <mark key="^" line="34" column="44" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="/code/sc/web/static/common/components/smart-search/smart-search.html" timestamp="1555993520030">
-        <mark key="[" line="29" column="21" />
-        <mark key="]" line="29" column="27" />
-        <mark key="." line="29" column="27" />
-        <mark key="^" line="29" column="27" />
+      <file name="/code/sc/web/static/common/components/smart-search/smart-search.html" timestamp="1556000858430">
+        <mark key="'" line="55" column="46" />
+        <mark key="[" line="10" column="68" />
+        <mark key="]" line="10" column="69" />
+        <mark key="." line="10" column="69" />
+        <mark key="^" line="10" column="68" />
       </file>
       <file name="/code/sc/web/sc/app/plats/api/facebook.py" timestamp="1555942827564">
         <mark key="[" line="96" column="90" />
@@ -165,18 +172,24 @@
       <file name="/code/sc/web/sc/coms/ext/oauth2.py" timestamp="1555462023606">
         <mark key="'" line="96" column="0" />
       </file>
-      <file name="/code/sc/web/static/common/components/smart-search/smart-search.ts" timestamp="1555993647463">
-        <mark key="'" line="141" column="20" />
-        <mark key="[" line="185" column="0" />
-        <mark key="]" line="185" column="0" />
-        <mark key="." line="185" column="0" />
-        <mark key="^" line="243" column="24" />
+      <file name="/code/sc/web/static/common/components/smart-search/smart-search.ts" timestamp="1556001147248">
+        <mark key="'" line="132" column="0" />
+        <mark key="[" line="245" column="0" />
+        <mark key="]" line="245" column="0" />
+        <mark key="." line="245" column="0" />
+        <mark key="^" line="247" column="7" />
       </file>
       <file name="/code/sc/web/static/web/views/nav-toolbar/switch-accounts/switch-accounts.ts" timestamp="1555962142860">
         <mark key="[" line="31" column="67" />
         <mark key="]" line="31" column="82" />
         <mark key="^" line="31" column="82" />
         <mark key="." line="31" column="82" />
+      </file>
+      <file name="/code/sc/web/main_cron.py" timestamp="1556001726810">
+        <mark key="[" line="44" column="37" />
+        <mark key="]" line="44" column="46" />
+        <mark key="^" line="44" column="46" />
+        <mark key="." line="44" column="46" />
       </file>
       <file name="/code/sc/web/sc/core/argsutil.py" timestamp="1555424238186">
         <mark key="[" line="55" column="0" />
@@ -189,6 +202,15 @@
         <mark key="]" line="389" column="37" />
         <mark key="^" line="389" column="37" />
         <mark key="." line="389" column="37" />
+      </file>
+      <file name="/code/sc/web/sc/coms/ext/celery.py" timestamp="1556001584077">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="/code/sc/web/sc/app/tasks/customs.py" timestamp="1556001760729">
+        <mark key="[" line="46" column="17" />
+        <mark key="]" line="46" column="26" />
+        <mark key="^" line="46" column="26" />
+        <mark key="." line="46" column="26" />
       </file>
       <file name="/code/sc/web/static/web/views/settings/locations/locations.ts" timestamp="1555422712959">
         <mark key="[" line="213" column="72" />
@@ -393,17 +415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="33" filename="/code/sc/web/static/web/views/dashboard/search/dashboard-search.ts" />
-      <jump line="8" column="46" filename="/code/sc/web/static/web/views/dashboard/search/dashboard-search.ts" />
-      <jump line="70" column="13" filename="/code/sc/web/static/web/views/dashboard/search/dashboard-search.ts" />
-      <jump line="88" column="32" filename="/code/sc/web/static/web/views/dashboard/dashboard.ts" />
-      <jump line="15" column="0" filename="/code/sc/web/static/web/views/dashboard/search/dashboard-search.ts" />
-      <jump line="201" column="0" filename="/code/sc/web/static/web/views/dashboard/dashboard.ts" />
-      <jump line="56" column="31" filename="/code/sc/web/static/web/views/dashboard/dashboard.ts" />
-      <jump line="29" column="0" filename="/code/sc/web/static/web/views/dashboard/search/dashboard-search.html" />
-      <jump line="100" column="4" filename="/code/sc/web/static/web/views/dashboard/dashboard.ts" />
-      <jump line="150" column="10" filename="/code/sc/web/static/web/views/dashboard/dashboard.ts" />
-      <jump line="190" column="29" filename="/code/sc/web/sc/sql/review/__init__.py" />
       <jump line="73" column="28" filename="/code/sc/web/static/web/views/dashboard/dashboard.ts" />
       <jump line="0" column="0" filename="/code/sc/web/static/web/views/listings/edits/listing-edits.ts" />
       <jump line="108" column="80" filename="/code/sc/web/sc/app/reportcards/args.py" />
@@ -493,40 +504,51 @@
       <jump line="239" column="11" filename="/code/sc/web/static/common/components/smart-search/smart-search.ts" />
       <jump line="68" column="6" filename="/code/sc/web/static/common/components/smart-search/smart-search.ts" />
       <jump line="141" column="20" filename="/code/sc/web/static/common/components/smart-search/smart-search.ts" />
+      <jump line="128" column="2" filename="/code/sc/web/static/common/components/smart-search/smart-search.ts" />
+      <jump line="331" column="0" filename="/code/sc/web/static/common/components/smart-search/smart-search.ts" />
+      <jump line="52" column="31" filename="/code/sc/web/static/common/components/smart-search/smart-search.ts" />
+      <jump line="140" column="12" filename="/code/sc/web/static/common/components/smart-search/smart-search.ts" />
+      <jump line="138" column="8" filename="/code/sc/web/static/common/components/smart-search/smart-search.ts" />
+      <jump line="118" column="27" filename="/code/sc/web/static/common/components/smart-search/smart-search.ts" />
+      <jump line="292" column="23" filename="/code/sc/web/static/common/components/smart-search/smart-search.ts" />
+      <jump line="137" column="0" filename="/code/sc/web/static/common/components/smart-search/smart-search.ts" />
+      <jump line="132" column="0" filename="/code/sc/web/static/common/components/smart-search/smart-search.ts" />
+      <jump line="55" column="46" filename="/code/sc/web/static/common/components/smart-search/smart-search.html" />
+      <jump line="0" column="0" filename="/code/sc/web/sc/coms/ext/celery.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMubG9hZGluZyA9IHRydWUK</text>
+        <text encoding="base64">ICAuKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmhpZGRlbiA9IHRydWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBldmVudC5wcmV2ZW50RGVmYXVsdCgpCiAgICAgICAgLy8gZXZlbnQuc3RvcFByb3BhZ2F0aW9uKCkKICAgICAgICAvLyBNYW51YWxseSBoaWRlIChuZWVkZWQgZm9yIG1kTm90Rm91bmQgc3VwcG9ydCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBldmVudC5zdG9wUHJvcGFnYXRpb24oKQogICAgICAgIC8vIGV2ZW50LnByZXZlbnREZWZhdWx0KCkK</text>
+        <text encoding="base64">ICAgICAgcmV0ID0gdGhpcy5hdXRvc2VydmljZS5hdXRvS2V5KGtleSwgc2VwLCB2YWwpCiAgICAgIHJldC50aGVuKHIgPT4gdGhpcy5jYWNoZVtgJHtrZXl9LSR7c2VwfWBdID0gcikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBldmVudC5zdG9wUHJvcGFnYXRpb24oKQogICAgICAgIC8vIGV2ZW50LnByZXZlbnREZWZhdWx0KCkK</text>
+        <text encoding="base64">ICAgICAgICByZXQgPSB0aGlzLmNhY2hlW2Ake2tleX0tJHtzZXB9YF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBldmVudC5zdG9wUHJvcGFnYXRpb24oKQogICAgICAgIC8vIGV2ZW50LnByZXZlbnREZWZhdWx0KCkK</text>
+        <text encoding="base64">ICAgIGxldCBvbGQgPSBxdWVyeQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm9uQmx1cigpCg==</text>
+        <text encoding="base64">ICAvLyBAZGVib3VuY2UoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmhpZGRlbiA9IHRydWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBoaWRkZW4gPSB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmZvY3VzID0gdHJ1ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>onBlur</text>
+        <text>start_gmb_qa</text>
       </register>
       <register name="/" type="4">
         <text>hasFo</text>
