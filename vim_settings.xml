@@ -10,6 +10,13 @@
         <mark key="^" line="627" column="6" />
         <mark key="." line="627" column="6" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1556046378756">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="69" column="8" />
+        <mark key="]" line="69" column="29" />
+        <mark key="^" line="69" column="29" />
+        <mark key="." line="69" column="29" />
+      </file>
       <file name="/code/sc/web/cli/hj.py" timestamp="1556037924462">
         <mark key="'" line="130" column="23" />
       </file>
@@ -29,11 +36,15 @@
       <file name="/code/sc/web/sc/sql/platform/auth_loc/__init__.py" timestamp="1556029830825">
         <mark key="'" line="54" column="36" />
       </file>
+      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1556048663960">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="11" />
+        <mark key="." line="8" column="11" />
+        <mark key="^" line="8" column="11" />
+      </file>
       <file name="/code/sc/web/sc/coms/ext/celery.py" timestamp="1556019870787">
         <mark key="'" line="29" column="0" />
-      </file>
-      <file name="/code/sc/web/gunicorn.conf.py" timestamp="1556049885334">
-        <mark key="[" line="8" column="33" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/google/oauth2/credentials.py" timestamp="1556053272967">
         <mark key="'" line="51" column="8" />
@@ -45,17 +56,10 @@
         <mark key="^" line="34" column="14" />
         <mark key="." line="34" column="14" />
       </file>
-      <file name="/Python Console" timestamp="1556053604536">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1556049574171">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/hj_appointments [local]" timestamp="1556009067266">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.sql" timestamp="1556036832535">
-        <mark key="[" line="0" column="0" />
+      <file name="/code/sc/web/sc/mods/config.py" timestamp="1556112053872">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
       </file>
       <file name="/code/sc/web/static/web/views/loc-reportcard/search/loc-reportcard-search.ts" timestamp="1556025972975">
         <mark key="'" line="0" column="0" />
@@ -66,12 +70,12 @@
       <file name="/code/sc/web/static/web/views/notes/details/note-locadmin/note-locadmin.html" timestamp="1555421717498">
         <mark key="'" line="86" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1556111425893">
-        <mark key="'" line="80" column="0" />
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="121" column="26" />
-        <mark key="." line="121" column="26" />
-        <mark key="^" line="121" column="26" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1556112478158">
+        <mark key="'" line="105" column="0" />
+        <mark key="[" line="122" column="1" />
+        <mark key="]" line="126" column="21" />
+        <mark key="^" line="126" column="21" />
+        <mark key="." line="126" column="21" />
       </file>
       <file name="/code/sc/web/static/common/components/smart-search/smart-search.html" timestamp="1556101072867">
         <mark key="[" line="80" column="17" />
@@ -91,14 +95,8 @@
       <file name="/code/sc/web/sc/mods/web/views.py" timestamp="1556053824179">
         <mark key="^" line="321" column="19" />
       </file>
-      <file name="/dummy.sql" timestamp="1556009067697">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/sentry_sdk/integrations/logging.py" timestamp="1555485180970">
         <mark key="'" line="116" column="16" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1556048909092">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/code/sc/web/gce/startup-script-back.sh" timestamp="1556102541023" />
       <file name="/code/sc/web/static/common/pipes/pipes.ts" timestamp="1556100958137">
@@ -130,7 +128,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
       <jump line="151" column="2" filename="/code/sc/web/sc/app/tasks/alert.py" />
       <jump line="539" column="17" filename="/code/sc/web/static/common/components/smart-search/smart-search.ts" />
       <jump line="233" column="0" filename="/code/sc/web/static/common/components/smart-search/smart-search.ts" />
@@ -230,42 +227,43 @@
       <jump line="23" column="1" filename="/code/sc/web/static/web/sentry.ts" />
       <jump line="43" column="0" filename="/code/sc/web/static/web/sentry.ts" />
       <jump line="80" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
+      <jump line="105" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
     </jumps>
     <registers>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICBTRU5UUllfRFNOID0gJ2h0dHBzOi8vZGUzZTcwM2MyMDBmNDQzY2JlMzc1YWQyMmI5NGZiM2U6NWYzNmVhYzQxYjMyNGE4NmFmYTcwMWNjMjBkMzc3MWNAc2VudHJ5LmlvLzE0NjcwNicK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBTRU5UUllfRFNOID0gJ2h0dHBzOi8vZGUzZTcwM2MyMDBmNDQzY2JlMzc1YWQyMmI5NGZiM2U6NWYzNmVhYzQxYjMyNGE4NmFmYTcwMWNjMjBkMzc3MWNAc2VudHJ5LmlvLzE0NjcwNicK</text>
+      </register>
+      <register name="3" type="4">
         <text>select *
 from 
 ;</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICBwcmludChhKQogICMgcHJpbnQoYSwgYikK</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgbGV0IHVzZVN0YXJ0cyA9IHRlcm0ubGVuZ3RoID4gMQogICAgICByZXQgPSB0aGlzLmF1dG9zZXJ2aWNlLnRhZ3MuZmlsdGVyKHRhZyA9PiB7CiAgICAgICAgaWYgKHVzZVN0YXJ0cykgcmV0dXJuIHRhZy5rLnN0YXJ0c1dpdGgodGhpcy5zdWJUZXh0KQogICAgICAgIHJldHVybiB0YWcuay5pbmNsdWRlcyh0aGlzLnN1YlRleHQpCiAgICAgIH0pCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Ly8ubWQtMi1saW5lCi8vICAubWQtbGlzdC1pdGVtLXRleHQKLy8gICAgbWFyZ2luOiAwCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">LmF1dG8tbWVudQogIGxpCiAgICBoZWlnaHQ6IGF1dG8KCi8vLml0ZW0tZXgKLy8gIG1hcmdpbi10b3A6IC04cHgKLy8gIHBhZGRpbmctYm90dG9tOiA1cHgK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgLy8gaWYgKCEodGVybXMubGVuZ3RoICYmIGxhc3QuZW5kc1dpdGgoJzonKSkpIHsKICAgICAgLy8gICB0ZXJtcy5wdXNoKCcnKQogICAgICAvLyB9Cgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGNoYXIgPSBxdWVyeS5jaGFyQXQoY3Vyc29yKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGxhc3QgPSB0ZXJtc1t0ZXJtcy5sZW5ndGggLSAxXQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkLmxvZygnQWRkaW5nIFRlcm0gbGFzdD1gJXNgIHRlcm1zPWAlb2AnLCBsYXN0LCB0ZXJtcykK</text>
+        <text encoding="base64">ICAgICAgbGV0IGNoYXIgPSBxdWVyeS5jaGFyQXQoY3Vyc29yKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YSA9IA==</text>
+        <text>eid</text>
       </register>
       <register name="/" type="4">
         <text>hasFo</text>
