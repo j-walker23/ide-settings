@@ -10,13 +10,6 @@
         <mark key="^" line="627" column="6" />
         <mark key="." line="627" column="6" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1556046378756">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="69" column="8" />
-        <mark key="]" line="69" column="29" />
-        <mark key="^" line="69" column="29" />
-        <mark key="." line="69" column="29" />
-      </file>
       <file name="/code/sc/web/cli/hj.py" timestamp="1556037924462">
         <mark key="'" line="130" column="23" />
       </file>
@@ -36,15 +29,11 @@
       <file name="/code/sc/web/sc/sql/platform/auth_loc/__init__.py" timestamp="1556029830825">
         <mark key="'" line="54" column="36" />
       </file>
-      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1556048663960">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="11" />
-        <mark key="." line="8" column="11" />
-        <mark key="^" line="8" column="11" />
-      </file>
       <file name="/code/sc/web/sc/coms/ext/celery.py" timestamp="1556019870787">
         <mark key="'" line="29" column="0" />
+      </file>
+      <file name="/code/sc/web/gunicorn.conf.py" timestamp="1556049885334">
+        <mark key="[" line="8" column="33" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/google/oauth2/credentials.py" timestamp="1556053272967">
         <mark key="'" line="51" column="8" />
@@ -61,6 +50,18 @@
         <mark key="]" line="119" column="0" />
         <mark key="." line="119" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1556113132864">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1556049574171">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/hj_appointments [local]" timestamp="1556009067266">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.sql" timestamp="1556036832535">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/code/sc/web/static/web/views/loc-reportcard/search/loc-reportcard-search.ts" timestamp="1556025972975">
         <mark key="'" line="0" column="0" />
       </file>
@@ -70,12 +71,12 @@
       <file name="/code/sc/web/static/web/views/notes/details/note-locadmin/note-locadmin.html" timestamp="1555421717498">
         <mark key="'" line="86" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1556112478158">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1556115910224">
         <mark key="'" line="105" column="0" />
-        <mark key="[" line="122" column="1" />
-        <mark key="]" line="126" column="21" />
-        <mark key="^" line="126" column="21" />
-        <mark key="." line="126" column="21" />
+        <mark key="[" line="135" column="15" />
+        <mark key="]" line="135" column="13" />
+        <mark key="." line="135" column="13" />
+        <mark key="^" line="135" column="13" />
       </file>
       <file name="/code/sc/web/static/common/components/smart-search/smart-search.html" timestamp="1556101072867">
         <mark key="[" line="80" column="17" />
@@ -92,11 +93,26 @@
       <file name="/code/sc/web/sc/app/plats/listings/google/cron.py" timestamp="1556029488668">
         <mark key="'" line="65" column="7" />
       </file>
-      <file name="/code/sc/web/sc/mods/web/views.py" timestamp="1556053824179">
-        <mark key="^" line="321" column="19" />
+      <file name="/code/sc/web/sc/app/tasks/insight.py" timestamp="1556113276505">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="1" />
+        <mark key="." line="14" column="1" />
+        <mark key="^" line="14" column="1" />
+      </file>
+      <file name="/code/sc/web/sc/app/plats/listings/insights/google.py" timestamp="1556116228644">
+        <mark key="[" line="76" column="42" />
+        <mark key="]" line="76" column="49" />
+        <mark key="." line="76" column="49" />
+        <mark key="^" line="76" column="49" />
+      </file>
+      <file name="/dummy.sql" timestamp="1556009067697">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/sentry_sdk/integrations/logging.py" timestamp="1555485180970">
         <mark key="'" line="116" column="16" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1556048909092">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/code/sc/web/gce/startup-script-back.sh" timestamp="1556102541023" />
       <file name="/code/sc/web/static/common/pipes/pipes.ts" timestamp="1556100958137">
@@ -231,39 +247,54 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICBTRU5UUllfRFNOID0gJ2h0dHBzOi8vZGUzZTcwM2MyMDBmNDQzY2JlMzc1YWQyMmI5NGZiM2U6NWYzNmVhYzQxYjMyNGE4NmFmYTcwMWNjMjBkMzc3MWNAc2VudHJ5LmlvLzE0NjcwNicK</text>
+        <text encoding="base64">ICAgIGlmIHN0YXJ0IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBTRU5UUllfRFNOID0gJ2h0dHBzOi8vZGUzZTcwM2MyMDBmNDQzY2JlMzc1YWQyMmI5NGZiM2U6NWYzNmVhYzQxYjMyNGE4NmFmYTcwMWNjMjBkMzc3MWNAc2VudHJ5LmlvLzE0NjcwNicK</text>
+        <text encoding="base64">ICAgICMgU3RhcnQgbmVlZHMgdG8gYmUgZXhhY3RseSAyIGRheXMgb3IgbW9yZSBiZWZvcmUgZW5kLCBldmVuIHRob3VnaCB0aGUgYXBpIHNheXMgb25lIGRheQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>select *
-from 
-;</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBzdGFydCA9IE5vbmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcmludChhKQogICMgcHJpbnQoYSwgYikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHVzZVN0YXJ0cyA9IHRlcm0ubGVuZ3RoID4gMQogICAgICByZXQgPSB0aGlzLmF1dG9zZXJ2aWNlLnRhZ3MuZmlsdGVyKHRhZyA9PiB7CiAgICAgICAgaWYgKHVzZVN0YXJ0cykgcmV0dXJuIHRhZy5rLnN0YXJ0c1dpdGgodGhpcy5zdWJUZXh0KQogICAgICAgIHJldHVybiB0YWcuay5pbmNsdWRlcyh0aGlzLnN1YlRleHQpCiAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIHdlZWtzID0gMTcgKiA0Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8ubWQtMi1saW5lCi8vICAubWQtbGlzdC1pdGVtLXRleHQKLy8gICAgbWFyZ2luOiAwCg==</text>
+      <register name="6" type="4">
+        <text>select start
+from google_insights g
+where g.
+;</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">LmF1dG8tbWVudQogIGxpCiAgICBoZWlnaHQ6IGF1dG8KCi8vLml0ZW0tZXgKLy8gIG1hcmdpbi10b3A6IC04cHgKLy8gIHBhZGRpbmctYm90dG9tOiA1cHgK</text>
+      <register name="7" type="4">
+        <text>select 
+from google_insights g
+where g.
+;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gaWYgKCEodGVybXMubGVuZ3RoICYmIGxhc3QuZW5kc1dpdGgoJzonKSkpIHsKICAgICAgLy8gICB0ZXJtcy5wdXNoKCcnKQogICAgICAvLyB9Cgo=</text>
+      <register name="8" type="4">
+        <text>select
+from google_insights google_insights
+where google_insights.
+;
+
+select 
+from google_insights google_
+where google_.
+;</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGNoYXIgPSBxdWVyeS5jaGFyQXQoY3Vyc29yKQo=</text>
+      <register name="9" type="4">
+        <text>select 
+from google_insights google_
+where google_.
+;</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>eid</text>
+        <text>end.shift(years=-1, months=-6)</text>
       </register>
       <register name="/" type="4">
         <text>hasFo</text>
