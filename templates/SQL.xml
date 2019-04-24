@@ -1,0 +1,8 @@
+<templateSet group="SQL">
+  <template name="sel" value="select $col$ &#10;from $table$&#10;where $where$&#10;$END$;" description="select all rows from a table" toReformat="true" toShortenFQNames="false">
+    <variable name="table" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="col" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="where" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
