@@ -36,9 +36,6 @@
         <mark key="^" line="37" column="21" />
         <mark key="." line="37" column="21" />
       </file>
-      <file name="/code/sc/web/sc/app/tasks/hjcollecting.py" timestamp="1556141386252">
-        <mark key="'" line="109" column="13" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1556152024837">
         <mark key="'" line="43" column="17" />
         <mark key="[" line="83" column="0" />
@@ -59,7 +56,9 @@
       <file name="/a.sql" timestamp="1556150806341">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code/sc/web/static/web/views/notes/notes.ts" timestamp="1556231468061" />
+      <file name="/code/sc/web/static/web/views/notes/notes.ts" timestamp="1556233840795">
+        <mark key="'" line="158" column="11" />
+      </file>
       <file name="/code/sc/web/cli/ads.py" timestamp="1556180081244">
         <mark key="[" line="18" column="2" />
         <mark key="]" line="18" column="16" />
@@ -87,6 +86,7 @@
         <mark key="^" line="82" column="19" />
         <mark key="." line="82" column="19" />
       </file>
+      <file name="/code/sc/web/static/web/views/reviews/reviews.ts" timestamp="1556233851020" />
       <file name="/dummy.sql" timestamp="1556009067697">
         <mark key="[" line="0" column="0" />
       </file>
@@ -132,6 +132,7 @@
         <mark key="." line="141" column="14" />
         <mark key="^" line="141" column="14" />
       </file>
+      <file name="/code/sc/web/static/web/views/assign-dash/assign-dash.ts" timestamp="1556233921451" />
       <file name="/code/sc/web/sc/sql/platform/ads/__init__.py" timestamp="1556180118289">
         <mark key="[" line="17" column="20" />
         <mark key="]" line="18" column="19" />
@@ -140,7 +141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="/code/sc/web/static/common/components/smart-search/smart-search.ts" />
       <jump line="286" column="0" filename="/code/sc/web/static/common/components/smart-search/smart-search.ts" />
       <jump line="236" column="9" filename="/code/sc/web/static/common/components/smart-search/smart-search.ts" />
       <jump line="465" column="0" filename="/code/sc/web/static/common/components/smart-search/smart-search.ts" />
@@ -240,6 +240,7 @@
       <jump line="40" column="0" filename="/code/sc/web/cli/__init__.py" />
       <jump line="273" column="19" filename="/code/sc/web/cli/auths.py" />
       <jump line="403" column="0" filename="/code/sc/web/cli/ones.py" />
+      <jump line="158" column="11" filename="/code/sc/web/static/web/views/notes/notes.ts" />
     </jumps>
     <registers>
       <register name="1" type="2">
