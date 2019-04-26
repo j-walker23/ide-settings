@@ -10,12 +10,6 @@
         <mark key="^" line="627" column="6" />
         <mark key="." line="627" column="6" />
       </file>
-      <file name="/code/sc/web/sc/mods/config.py" timestamp="1556178773592">
-        <mark key="[" line="146" column="6" />
-        <mark key="]" line="146" column="10" />
-        <mark key="^" line="146" column="10" />
-        <mark key="." line="146" column="10" />
-      </file>
       <file name="/Python Console" timestamp="1556179871270">
         <mark key="[" line="0" column="0" />
       </file>
@@ -23,11 +17,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code/sc/web/cli/ones.py" timestamp="1556179002608">
-        <mark key="'" line="403" column="0" />
-        <mark key="[" line="404" column="0" />
-        <mark key="]" line="404" column="0" />
-        <mark key="." line="404" column="0" />
-        <mark key="^" line="401" column="6" />
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="412" column="0" />
+        <mark key="]" line="412" column="0" />
+        <mark key="." line="412" column="0" />
       </file>
       <file name="/code/sc/web/sc/sql/integ/hj/hj_tables.py" timestamp="1556151865632">
         <mark key="'" line="64" column="6" />
@@ -68,9 +61,6 @@
       <file name="/code/sc/web/cli/__init__.py" timestamp="1556178866717">
         <mark key="'" line="40" column="0" />
         <mark key="[" line="92" column="20" />
-        <mark key="]" line="93" column="16" />
-        <mark key="^" line="93" column="16" />
-        <mark key="." line="93" column="16" />
       </file>
       <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1556179454426">
         <mark key="'" line="47" column="19" />
@@ -79,6 +69,12 @@
         <mark key="." line="53" column="17" />
         <mark key="^" line="53" column="17" />
       </file>
+      <file name="/code/sc/web/sc/mods/web/rest/accounts/gmb_questions_view.py" timestamp="1556236207757">
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="19" column="23" />
+        <mark key="^" line="19" column="23" />
+        <mark key="." line="19" column="23" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b9634198-1e4c-4f84-9159-24bfaa2d9c4c/console.sql" timestamp="1556152106427">
         <mark key="'" line="31" column="17" />
         <mark key="[" line="82" column="5" />
@@ -86,7 +82,6 @@
         <mark key="^" line="82" column="19" />
         <mark key="." line="82" column="19" />
       </file>
-      <file name="/code/sc/web/static/web/views/reviews/reviews.ts" timestamp="1556233851020" />
       <file name="/dummy.sql" timestamp="1556009067697">
         <mark key="[" line="0" column="0" />
       </file>
@@ -102,10 +97,12 @@
       </file>
       <file name="/code/sc/web/cli/auths.py" timestamp="1556178875260">
         <mark key="'" line="273" column="19" />
-        <mark key="[" line="295" column="8" />
-        <mark key="]" line="295" column="37" />
-        <mark key="^" line="295" column="37" />
-        <mark key="." line="295" column="37" />
+      </file>
+      <file name="/code/sc/web/main_cron.py" timestamp="1556235958425">
+        <mark key="[" line="44" column="62" />
+        <mark key="]" line="44" column="81" />
+        <mark key="^" line="44" column="81" />
+        <mark key="." line="44" column="81" />
       </file>
       <file name="/code/sc/web/gunicorn.conf.py" timestamp="1556049885334">
         <mark key="[" line="8" column="33" />
@@ -124,20 +121,13 @@
         <mark key="^" line="79" column="52" />
         <mark key="." line="79" column="52" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/google/ads/google_ads/client.py" timestamp="1556231232848" />
+      <file name="/code/sc/web/sc/mods/web/rest/accounts/listings_view.py" timestamp="1556236178618" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1556135042938">
         <mark key="'" line="76" column="5" />
         <mark key="[" line="141" column="5" />
         <mark key="]" line="141" column="14" />
         <mark key="." line="141" column="14" />
         <mark key="^" line="141" column="14" />
-      </file>
-      <file name="/code/sc/web/static/web/views/assign-dash/assign-dash.ts" timestamp="1556233921451" />
-      <file name="/code/sc/web/sc/sql/platform/ads/__init__.py" timestamp="1556180118289">
-        <mark key="[" line="17" column="20" />
-        <mark key="]" line="18" column="19" />
-        <mark key="^" line="18" column="19" />
-        <mark key="." line="18" column="19" />
       </file>
     </filemarks>
     <jumps>
@@ -274,7 +264,7 @@
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>default</text>
+        <text>Auth.deleted_at.is_(None)</text>
       </register>
       <register name="/" type="4">
         <text>hasFo</text>
