@@ -6,7 +6,7 @@
       <file name="/code/sc/web/static/web/views/settings/locations/details/location-details.html" timestamp="1556379665487">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1556485953516">
+      <file name="/Python Console" timestamp="1556489286939">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1556416318682">
@@ -20,20 +20,16 @@
         <mark key="." line="43" column="22" />
       </file>
       <file name="/code/sc/web/Pipfile" timestamp="1556482368124" />
-      <file name="/usr/local/lib/python3.7/site-packages/google/protobuf/message_factory.py" timestamp="1556451526171">
-        <mark key="[" line="45" column="15" />
-        <mark key="]" line="45" column="15" />
-        <mark key="." line="45" column="15" />
-      </file>
       <file name="/code/sc/web/migrations/versions/4a9ce402af00__123.py" timestamp="1556485884751">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/code/sc/web/sc/app/ads/api.py" timestamp="1556484296546">
-        <mark key="[" line="30" column="38" />
-        <mark key="]" line="31" column="23" />
-        <mark key="." line="31" column="23" />
-        <mark key="^" line="31" column="23" />
+      <file name="/code/sc/web/sc/app/ads/api.py" timestamp="1556489671992">
+        <mark key="[" line="35" column="10" />
+        <mark key="]" line="20" column="6" />
+        <mark key="." line="20" column="6" />
+        <mark key="^" line="20" column="6" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/oauth2client/client.py" timestamp="1556488373761" />
       <file name="/code/sc/web/static/web/views/notes/notes.ts" timestamp="1556233840795">
         <mark key="'" line="158" column="11" />
       </file>
@@ -53,7 +49,7 @@
         <mark key="." line="33" column="55" />
         <mark key="^" line="33" column="55" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/google_auth_oauthlib/flow.py" timestamp="1556486314318" />
+      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/google_auth_oauthlib/flow.py" timestamp="1556489055541" />
       <file name="/code/sc/web/static/common/highcharts.theme.ts" timestamp="1556241796202">
         <mark key="'" line="26" column="55" />
       </file>
@@ -76,7 +72,8 @@
       <file name="/Dummy.txt" timestamp="1556485960215">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/requests_oauthlib/oauth2_session.py" timestamp="1556486210526" />
+      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/google_auth_oauthlib/helpers.py" timestamp="1556489281765" />
+      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/requests_oauthlib/oauth2_session.py" timestamp="1556489367143" />
       <file name="/code/sc/web/static/common/models/ad-auth.model.ts" timestamp="1556401731328">
         <mark key="[" line="20" column="47" />
         <mark key="]" line="20" column="47" />
@@ -85,17 +82,23 @@
       </file>
       <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/google/ads/google_ads/errors.py" timestamp="1556478310302" />
       <file name="/code/sc/web/instance/keys/ads-secret.json" timestamp="1556486573603" />
+      <file name="/code/sc/web/sc/coms/ext/oauth2.py" timestamp="1556488679605">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="^" line="90" column="27" />
+        <mark key="." line="85" column="0" />
+      </file>
       <file name="/code/sc/web/cli/auths.py" timestamp="1556178875260">
         <mark key="'" line="273" column="19" />
       </file>
       <file name="/code/sc/web/sc/app/plats/api/base.py" timestamp="1556415260020">
         <mark key="'" line="14" column="0" />
       </file>
-      <file name="/code/sc/web/sc/sql/ad/__init__.py" timestamp="1556485843856">
-        <mark key="[" line="24" column="35" />
-        <mark key="]" line="24" column="34" />
-        <mark key="." line="24" column="34" />
-        <mark key="^" line="24" column="34" />
+      <file name="/code/sc/web/sc/sql/ad/__init__.py" timestamp="1556488739364">
+        <mark key="[" line="37" column="21" />
+        <mark key="]" line="37" column="39" />
+        <mark key="." line="37" column="39" />
+        <mark key="^" line="37" column="39" />
       </file>
       <file name="/code/sc/web/sc/app/surveys/summary/survey_agg.py" timestamp="1556483208817" />
       <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/google/ads/google_ads/client.py" timestamp="1556483441571" />
@@ -214,37 +217,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICBjdXN0b21lcl9pZCA9IENvbHVtbihTdHJpbmcoMjApKQo=</text>
+        <text encoding="base64">CiAgQHByb3BlcnR5CiAgZGVmIGV4cGlyZWQoc2VsZik6CiAgICB3aGVuID0gYXJyb3cuZ2V0KHNlbGYuYXV0aC5leHBpcnkpCiAgICBub3cgPSBhcnJvdy51dGNub3coKQogICAgcmV0dXJuCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwaWN0dXJlID0gQ29sdW1uKFVSTFR5cGUoKSkK</text>
+        <text encoding="base64">ICBwaWN0dXJlID0gaWRfdG9rZW4uZ2V0KCdwaWN0dXJlJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBleHBpcnkgPSBpbmRleF9wcm9wZXJ0eSgnY3JlZHMnLCAnZXhwaXJ5JywgZGVmYXVsdD0nJykK</text>
+        <text encoding="base64">ICAgIGF1dGgucGljdHVyZSA9IHBpY3R1cmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpZF90b2tlbiA9IENvbHVtbihKU09OLCBkZWZhdWx0PXt9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBleHBpcnkgPSBDb2x1bW4oQXJyb3dUeXBlKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICBjdXN0b21lcl9pZCA9IENvbHVtbihTdHJpbmcoMjApKQo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBwaWN0dXJlID0gQ29sdW1uKFVSTFR5cGUoKSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBleHBpcnkgPSBpbmRleF9wcm9wZXJ0eSgnY3JlZHMnLCAnZXhwaXJ5JywgZGVmYXVsdD0nJykK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBraW5kID0gQ29sdW1uKFN0cmluZygyOCksIG51bGxhYmxlPUZhbHNlLCBkZWZhdWx0PWNvbnN0Lmdvb2dsZSkK</text>
+        <text encoding="base64">ICBpZF90b2tlbiA9IENvbHVtbihKU09OLCBkZWZhdWx0PXt9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">d2hlcmUgCg==</text>
+        <text encoding="base64">ICBleHBpcnkgPSBDb2x1bW4oQXJyb3dUeXBlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>refresh_</text>
+        <text>datetime.now()</text>
       </register>
       <register name="/" type="4">
         <text>chipsdemoContactChips</text>
