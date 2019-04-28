@@ -6,7 +6,7 @@
       <file name="/code/sc/web/static/web/views/settings/locations/details/location-details.html" timestamp="1556379665487">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1556416300500">
+      <file name="/Python Console" timestamp="1556485953516">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1556416318682">
@@ -24,6 +24,9 @@
         <mark key="[" line="45" column="15" />
         <mark key="]" line="45" column="15" />
         <mark key="." line="45" column="15" />
+      </file>
+      <file name="/code/sc/web/migrations/versions/4a9ce402af00__123.py" timestamp="1556485884751">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="/code/sc/web/sc/app/ads/api.py" timestamp="1556484296546">
         <mark key="[" line="30" column="38" />
@@ -50,8 +53,16 @@
         <mark key="." line="33" column="55" />
         <mark key="^" line="33" column="55" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/google_auth_oauthlib/flow.py" timestamp="1556486314318" />
       <file name="/code/sc/web/static/common/highcharts.theme.ts" timestamp="1556241796202">
         <mark key="'" line="26" column="55" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b9634198-1e4c-4f84-9159-24bfaa2d9c4c/console.sql" timestamp="1556485470722">
+        <mark key="'" line="57" column="11" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="^" line="86" column="7" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="/code/sc/web/sc/errors.py" timestamp="1556479372133">
         <mark key="[" line="110" column="61" />
@@ -62,6 +73,10 @@
       <file name="/code/sc/web/sc/mods/web/rest/auths_view.py" timestamp="1556401861347">
         <mark key="[" line="34" column="10" />
       </file>
+      <file name="/Dummy.txt" timestamp="1556485960215">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/requests_oauthlib/oauth2_session.py" timestamp="1556486210526" />
       <file name="/code/sc/web/static/common/models/ad-auth.model.ts" timestamp="1556401731328">
         <mark key="[" line="20" column="47" />
         <mark key="]" line="20" column="47" />
@@ -69,13 +84,19 @@
         <mark key="." line="20" column="47" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/google/ads/google_ads/errors.py" timestamp="1556478310302" />
+      <file name="/code/sc/web/instance/keys/ads-secret.json" timestamp="1556486573603" />
       <file name="/code/sc/web/cli/auths.py" timestamp="1556178875260">
         <mark key="'" line="273" column="19" />
       </file>
       <file name="/code/sc/web/sc/app/plats/api/base.py" timestamp="1556415260020">
         <mark key="'" line="14" column="0" />
       </file>
-      <file name="/code/sc/web/sc/sql/ad/__init__.py" timestamp="1556483429621" />
+      <file name="/code/sc/web/sc/sql/ad/__init__.py" timestamp="1556485843856">
+        <mark key="[" line="24" column="35" />
+        <mark key="]" line="24" column="34" />
+        <mark key="." line="24" column="34" />
+        <mark key="^" line="24" column="34" />
+      </file>
       <file name="/code/sc/web/sc/app/surveys/summary/survey_agg.py" timestamp="1556483208817" />
       <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/google/ads/google_ads/client.py" timestamp="1556483441571" />
       <file name="/code/sc/web/sc/app/ads/customers.py" timestamp="1556482156952">
@@ -90,8 +111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="27" filename="/code/sc/web/static/common/components/smart-search/smart-search.ts" />
-      <jump line="292" column="23" filename="/code/sc/web/static/common/components/smart-search/smart-search.ts" />
       <jump line="137" column="0" filename="/code/sc/web/static/common/components/smart-search/smart-search.ts" />
       <jump line="132" column="0" filename="/code/sc/web/static/common/components/smart-search/smart-search.ts" />
       <jump line="55" column="46" filename="/code/sc/web/static/common/components/smart-search/smart-search.html" />
@@ -190,40 +209,42 @@
       <jump line="30" column="0" filename="/code/sc/web/sc/sql/platform/ads/__init__.py" />
       <jump line="168" column="36" filename="/code/sc/web/sc/sql/__init__.py" />
       <jump line="170" column="35" filename="/code/sc/web/sc/sql/__init__.py" />
+      <jump line="57" column="11" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b9634198-1e4c-4f84-9159-24bfaa2d9c4c/console.sql" />
+      <jump line="0" column="0" filename="/code/sc/web/migrations/versions/4a9ce402af00__123.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICBjdXN0b21lcl9pZCA9IENvbHVtbihTdHJpbmcoMjApKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhc3MgCg==</text>
+        <text encoding="base64">ICBwaWN0dXJlID0gQ29sdW1uKFVSTFR5cGUoKSkK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICB5aWVsZAogIHByaW50KCdSZXF1ZXN0IHdpdGggSUQgIiVzIiBmYWlsZWQgd2l0aCBzdGF0dXMgIiVzIiBhbmQgaW5jbHVkZXMgdGhlICcKICAgICAgICAnZm9sbG93aW5nIGVycm9yczonICUgKGV4LnJlcXVlc3RfaWQsIGV4LmVycm9yLmNvZGUoKS5uYW1lKSkKICBmb3IgZXJyb3IgaW4gZXguZmFpbHVyZS5lcnJvcnM6CiAgICBwcmludCgnXHRFcnJvciB3aXRoIG1lc3NhZ2UgIiVzIi4nICUgZXJyb3IubWVzc2FnZSkKICAgIGlmIGVycm9yLmxvY2F0aW9uOgogICAgICBmb3IgZmllbGRfcGF0aF9lbGVtZW50IGluIGVycm9yLmxvY2F0aW9uLmZpZWxkX3BhdGhfZWxlbWVudHM6CiAgICAgICAgcHJpbnQoJ1x0XHRPbiBmaWVsZDogJXMnICUgZmllbGRfcGF0aF9lbGVtZW50LmZpZWxkX25hbWUpCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBleHBpcnkgPSBpbmRleF9wcm9wZXJ0eSgnY3JlZHMnLCAnZXhwaXJ5JywgZGVmYXVsdD0nJykK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBAY2xhc3NtZXRob2QKICBkZWYg</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBpZF90b2tlbiA9IENvbHVtbihKU09OLCBkZWZhdWx0PXt9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByaW50KCdcdFx0T24gZmllbGQ6ICVzJyAlIGZpZWxkX3BhdGhfZWxlbWVudC5maWVsZF9uYW1lKQo=</text>
+        <text encoding="base64">ICBleHBpcnkgPSBDb2x1bW4oQXJyb3dUeXBlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoJ1x0RXJyb3Igd2l0aCBtZXNzYWdlICIlcyIuJyAlIGVycm9yLm1lc3NhZ2UpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IiIiIiIiICAK</text>
+        <text encoding="base64">ICBjdXN0b21lcl9pZCA9IENvbHVtbihTdHJpbmcoMjApKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBraW5kID0gQ29sdW1uKFN0cmluZygyOCksIG51bGxhYmxlPUZhbHNlLCBkZWZhdWx0PWNvbnN0Lmdvb2dsZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSAuZ2xvYmFscy5ob2xpZGF5IGltcG9ydCBIb2xpZGF5Cg==</text>
+        <text encoding="base64">d2hlcmUgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>self.auth.expiry</text>
+        <text>refresh_</text>
       </register>
       <register name="/" type="4">
         <text>chipsdemoContactChips</text>
