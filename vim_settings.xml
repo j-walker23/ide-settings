@@ -12,23 +12,24 @@
       <file name="/fragment.py" timestamp="1556416318682">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code/sc/web/sc/sql/__init__.py" timestamp="1556416193208">
+      <file name="/code/sc/web/sc/sql/__init__.py" timestamp="1556483203889">
         <mark key="'" line="170" column="35" />
-        <mark key="[" line="232" column="5" />
-        <mark key="]" line="232" column="4" />
-        <mark key="^" line="232" column="4" />
-        <mark key="." line="232" column="4" />
+        <mark key="[" line="43" column="4" />
+        <mark key="]" line="43" column="22" />
+        <mark key="^" line="43" column="22" />
+        <mark key="." line="43" column="22" />
       </file>
+      <file name="/code/sc/web/Pipfile" timestamp="1556482368124" />
       <file name="/usr/local/lib/python3.7/site-packages/google/protobuf/message_factory.py" timestamp="1556451526171">
         <mark key="[" line="45" column="15" />
         <mark key="]" line="45" column="15" />
         <mark key="." line="45" column="15" />
       </file>
-      <file name="/code/sc/web/sc/app/ads/api.py" timestamp="1556478270901">
-        <mark key="[" line="19" column="8" />
-        <mark key="]" line="26" column="64" />
-        <mark key="." line="26" column="64" />
-        <mark key="^" line="26" column="64" />
+      <file name="/code/sc/web/sc/app/ads/api.py" timestamp="1556483483206">
+        <mark key="[" line="22" column="48" />
+        <mark key="]" line="23" column="3" />
+        <mark key="." line="23" column="3" />
+        <mark key="^" line="23" column="3" />
       </file>
       <file name="/code/sc/web/static/web/views/notes/notes.ts" timestamp="1556233840795">
         <mark key="'" line="158" column="11" />
@@ -74,12 +75,16 @@
       <file name="/code/sc/web/sc/app/plats/api/base.py" timestamp="1556415260020">
         <mark key="'" line="14" column="0" />
       </file>
-      <file name="/code/sc/web/sc/app/ads/customers.py" timestamp="1556416275326">
-        <mark key="[" line="13" column="20" />
-        <mark key="]" line="14" column="6" />
-        <mark key="^" line="14" column="6" />
-        <mark key="." line="14" column="6" />
+      <file name="/code/sc/web/sc/sql/ad/__init__.py" timestamp="1556483429621" />
+      <file name="/code/sc/web/sc/app/surveys/summary/survey_agg.py" timestamp="1556483208817" />
+      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/google/ads/google_ads/client.py" timestamp="1556483441571" />
+      <file name="/code/sc/web/sc/app/ads/customers.py" timestamp="1556482156952">
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="17" column="6" />
+        <mark key="^" line="17" column="6" />
+        <mark key="." line="17" column="6" />
       </file>
+      <file name="/code/trash/google-ads-python/google/ads/google_ads/client.py" timestamp="1556482404967" />
       <file name="/code/sc/web/sc/sql/platform/ads/__init__.py" timestamp="1556415885808">
         <mark key="'" line="30" column="0" />
       </file>
@@ -187,32 +192,32 @@
       <jump line="170" column="35" filename="/code/sc/web/sc/sql/__init__.py" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">ICBAY2xhc3NtZXRob2QKICBkZWYg</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByaW50KCdcdFx0T24gZmllbGQ6ICVzJyAlIGZpZWxkX3BhdGhfZWxlbWVudC5maWVsZF9uYW1lKQo=</text>
+        <text encoding="base64">ICAgIHBhc3MgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoJ1x0RXJyb3Igd2l0aCBtZXNzYWdlICIlcyIuJyAlIGVycm9yLm1lc3NhZ2UpCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICB5aWVsZAogIHByaW50KCdSZXF1ZXN0IHdpdGggSUQgIiVzIiBmYWlsZWQgd2l0aCBzdGF0dXMgIiVzIiBhbmQgaW5jbHVkZXMgdGhlICcKICAgICAgICAnZm9sbG93aW5nIGVycm9yczonICUgKGV4LnJlcXVlc3RfaWQsIGV4LmVycm9yLmNvZGUoKS5uYW1lKSkKICBmb3IgZXJyb3IgaW4gZXguZmFpbHVyZS5lcnJvcnM6CiAgICBwcmludCgnXHRFcnJvciB3aXRoIG1lc3NhZ2UgIiVzIi4nICUgZXJyb3IubWVzc2FnZSkKICAgIGlmIGVycm9yLmxvY2F0aW9uOgogICAgICBmb3IgZmllbGRfcGF0aF9lbGVtZW50IGluIGVycm9yLmxvY2F0aW9uLmZpZWxkX3BhdGhfZWxlbWVudHM6CiAgICAgICAgcHJpbnQoJ1x0XHRPbiBmaWVsZDogJXMnICUgZmllbGRfcGF0aF9lbGVtZW50LmZpZWxkX25hbWUpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">IiIiIiIiICAK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICBAY2xhc3NtZXRob2QKICBkZWYg</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHByaW50KCdcdFx0T24gZmllbGQ6ICVzJyAlIGZpZWxkX3BhdGhfZWxlbWVudC5maWVsZF9uYW1lKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSAuZ2xvYmFscy5ob2xpZGF5IGltcG9ydCBIb2xpZGF5Cg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnQoJ1x0RXJyb3Igd2l0aCBtZXNzYWdlICIlcyIuJyAlIGVycm9yLm1lc3NhZ2UpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjbGllbnQgPSBhdXRoLmNsaWVudAo=</text>
+        <text encoding="base64">IiIiIiIiICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjbGllbnQgPSBhdXRoLmNsaWVudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN5cy5leGl0KDEpCg==</text>
+        <text encoding="base64">ZnJvbSAuZ2xvYmFscy5ob2xpZGF5IGltcG9ydCBIb2xpZGF5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
