@@ -39,11 +39,11 @@
         <mark key="'" line="48" column="7" />
       </file>
       <file name="/code/sc/web/sc/coms/ext/oauth2.py" timestamp="1556632658734" />
-      <file name="/code/sc/web/sc/app/ads/feeds.py" timestamp="1556646996462">
-        <mark key="[" line="37" column="32" />
-        <mark key="]" line="37" column="34" />
-        <mark key="." line="37" column="34" />
-        <mark key="^" line="37" column="34" />
+      <file name="/code/sc/web/sc/app/ads/feeds.py" timestamp="1556647855382">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+        <mark key="^" line="81" column="29" />
       </file>
       <file name="/code/sc/web/migrations/versions/8952771ae4b1__128.py" timestamp="1556643683428" />
       <file name="/code/sc/web/migrations/versions/7d043f909427__132.py" timestamp="1556646335118">
@@ -238,37 +238,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">IyBmcm9tIHNjLmNvbXMuZXh0LmNlbGVyeSBpbXBvcnQgZ2V0X2NlbGVyeQo=</text>
+        <text encoding="base64">CiAgICAgICMgY3VzdF9mZWVkID0gY3VzdF9mZWVkX3NlcnZpY2UuZ2V0X2N1c3RvbWVyX2ZlZWQoCiAgICAgICMgICByZXNvdXJjZV9uYW1lPWYnY3VzdG9tZXJzL3thdXRoLmN1c3RvbWVyX2lkfS9jdXN0b21lckZlZWRzLzk0NzAxMjc4JykKICAgICAgIyBwcmludChjdXN0X2ZlZWQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBjZWxlcnkgPSBnZXRfY2VsZXJ5KCkK</text>
+        <text encoding="base64">ICAgICAgc2VydmljZSA9IGNsaWVudC5nZXRfc2VydmljZSgnRmVlZFNlcnZpY2UnKQogICAgICBvcCA9IGNsaWVudC5nZXRfdHlwZSgnRmVlZE9wZXJhdGlvbicpCiAgICAgIG9wLnJlbW92ZSA9IGYnY3VzdG9tZXJzL3tjaWR9L2ZlZWRzL3tpZGR9JwogICAgICBzZXJ2aWNlLm11dGF0ZV9mZWVkcyhjaWQsIFtvcF0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZyb20gc2MuY29yZS5hY2NiaW5kcyBpbXBvcnQgYWNjX2JpbmQK</text>
+        <text encoding="base64">IyBmcm9tIHNjLmNvbXMuZXh0LmNlbGVyeSBpbXBvcnQgZ2V0X2NlbGVyeQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZnJvbSBzYy5hcHAudGFza3MgaW1wb3J0IHR3aWxpbwo=</text>
+        <text encoding="base64">IyBjZWxlcnkgPSBnZXRfY2VsZXJ5KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBleHBpcnkgPSBhcnJvdy5nZXQoYXV0aC5leHBpcnkpCg==</text>
+        <text encoding="base64">ICAgIGZyb20gc2MuY29yZS5hY2NiaW5kcyBpbXBvcnQgYWNjX2JpbmQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBub3cgPSBhcnJvdy51dGNub3coKQo=</text>
+        <text encoding="base64">ICAgICAgZnJvbSBzYy5hcHAudGFza3MgaW1wb3J0IHR3aWxpbwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">dXBkYXRlIGFsZW1iaWNfdmVyc2lvbgpzZXQgdmVyc2lvbl9udW0gPSAnNjU2NzkyYjJkNzBmJwo7Cgo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBleHBpcnkgPSBhcnJvdy5nZXQoYXV0aC5leHBpcnkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">d2hlcmUgCg==</text>
+        <text encoding="base64">ICBub3cgPSBhcnJvdy51dGNub3coKQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">d2hlcmUK</text>
+      <register name="9" type="4">
+        <text encoding="base64">dXBkYXRlIGFsZW1iaWNfdmVyc2lvbgpzZXQgdmVyc2lvbl9udW0gPSAnNjU2NzkyYjJkNzBmJwo7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>feed</text>
+        <text>feeds</text>
       </register>
       <register name="/" type="4">
         <text>chipsdemoContactChips</text>
