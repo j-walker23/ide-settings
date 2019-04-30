@@ -65,11 +65,11 @@
         <mark key="^" line="49" column="43" />
         <mark key="." line="49" column="43" />
       </file>
-      <file name="/code/sc/web/sc/coms/ext/oauth2.py" timestamp="1556649158677">
-        <mark key="[" line="38" column="104" />
-        <mark key="]" line="39" column="70" />
-        <mark key="^" line="39" column="70" />
-        <mark key="." line="39" column="70" />
+      <file name="/code/sc/web/sc/coms/ext/oauth2.py" timestamp="1556654548088">
+        <mark key="[" line="38" column="106" />
+        <mark key="]" line="38" column="103" />
+        <mark key="^" line="38" column="103" />
+        <mark key="." line="38" column="103" />
       </file>
       <file name="/code/sc/web/static/web/views/nav-toolbar/integrations/ads/customers/customers.dialog.ts" timestamp="1556509090554">
         <mark key="[" line="10" column="21" />
@@ -342,7 +342,7 @@
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>self.api.auth</text>
+        <text>'https://www.googleapis.com/auth/adwords'</text>
       </register>
       <register name="/" type="4">
         <text>chipsdemoContactChips</text>
