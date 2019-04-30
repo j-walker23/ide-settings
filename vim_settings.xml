@@ -50,12 +50,12 @@
         <mark key="^" line="105" column="34" />
       </file>
       <file name="/code/trash/google-ads-python/google/ads/google_ads/v1/services/feed_service_client.py" timestamp="1556634211884" />
-      <file name="/code/sc/web/cli/ads.py" timestamp="1556635581962">
+      <file name="/code/sc/web/cli/ads.py" timestamp="1556640011917">
         <mark key="'" line="101" column="0" />
         <mark key="[" line="31" column="6" />
-        <mark key="]" line="31" column="20" />
-        <mark key="." line="31" column="20" />
-        <mark key="^" line="31" column="20" />
+        <mark key="]" line="31" column="15" />
+        <mark key="." line="31" column="15" />
+        <mark key="^" line="31" column="15" />
       </file>
       <file name="/code/sc/web/static/web/views/settings/platforms/connect-platform/connect-platform.html" timestamp="1556510368375">
         <mark key="'" line="91" column="15" />
@@ -117,11 +117,11 @@
         <mark key="^" line="10" column="29" />
         <mark key="." line="10" column="29" />
       </file>
-      <file name="/code/sc/web/sc/app/ads/feeds.py" timestamp="1556636132837">
-        <mark key="[" line="36" column="49" />
-        <mark key="]" line="54" column="56" />
-        <mark key="." line="54" column="56" />
-        <mark key="^" line="54" column="56" />
+      <file name="/code/sc/web/sc/app/ads/feeds.py" timestamp="1556639989605">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="37" column="13" />
       </file>
       <file name="/code/trash/google-ads-python/examples/advanced_operations/add_sitelink.py" timestamp="1556630357653" />
       <file name="/code/sc/web/static/web/views/nav-toolbar/integrations/ads/customers/customers.dialog.html" timestamp="1556510619114">
@@ -249,37 +249,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZmVlZF9zZXJ2aWNlID0gY2xpZW50LmdldF9zZXJ2aWNlKCdGZWVkU2VydmljZScpCg==</text>
+        <text encoding="base64">ICAgIGF1dGggPSBhcGkuYXV0aAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZmVlZCA9IGZlZWRfc2VydmljZS5nZXRfZmVlZChyZXNvdXJjZV9uYW1lPWYnY3VzdG9tZXJzL3thdXRoLmN1c3RvbWVyX2lkfS9mZWVkcy85NDcwMTI3OCcpCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHJlc3AK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY3VzdF9mZWVkX3NlcnZpY2UgPSBjbGllbnQuZ2V0X3NlcnZpY2UoJ0N1c3RvbWVyRmVlZFNlcnZpY2UnKQo=</text>
+        <text encoding="base64">ICAgICAgZmVlZF9zZXJ2aWNlID0gY2xpZW50LmdldF9zZXJ2aWNlKCdGZWVkU2VydmljZScpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoY3VzdF9mZWVkKQo=</text>
+        <text encoding="base64">ICAgICAgZmVlZCA9IGZlZWRfc2VydmljZS5nZXRfZmVlZChyZXNvdXJjZV9uYW1lPWYnY3VzdG9tZXJzL3thdXRoLmN1c3RvbWVyX2lkfS9mZWVkcy85NDcwMTI3OCcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoY3VzdF9mZWVkKQo=</text>
+        <text encoding="base64">ICAgICAgY3VzdF9mZWVkX3NlcnZpY2UgPSBjbGllbnQuZ2V0X3NlcnZpY2UoJ0N1c3RvbWVyRmVlZFNlcnZpY2UnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIyBwcmludChmZWVkKQo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnQoY3VzdF9mZWVkKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY3VzdG9tZXJfZmVlZAo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnQoY3VzdF9mZWVkKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgIyBwcmludChmZWVkKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY3VzdG9tZXJfZmVlZAo=</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>auth.customer_id,</text>
+        <text>get_cust_feed</text>
       </register>
       <register name="/" type="4">
         <text>chipsdemoContactChips</text>
