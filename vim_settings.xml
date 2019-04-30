@@ -46,12 +46,12 @@
         <mark key="." line="110" column="0" />
         <mark key="^" line="105" column="34" />
       </file>
-      <file name="/code/sc/web/cli/ads.py" timestamp="1556507972690">
-        <mark key="'" line="67" column="8" />
-        <mark key="[" line="97" column="69" />
-        <mark key="]" line="98" column="46" />
-        <mark key="." line="98" column="46" />
-        <mark key="^" line="98" column="46" />
+      <file name="/code/sc/web/cli/ads.py" timestamp="1556630008564">
+        <mark key="'" line="95" column="0" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="48" column="4" />
+        <mark key="." line="48" column="4" />
+        <mark key="^" line="48" column="4" />
       </file>
       <file name="/code/sc/web/static/web/views/settings/platforms/connect-platform/connect-platform.html" timestamp="1556510368375">
         <mark key="'" line="91" column="15" />
@@ -109,7 +109,13 @@
         <mark key="^" line="10" column="29" />
         <mark key="." line="10" column="29" />
       </file>
-      <file name="/code/trash/google-ads-python/examples/advanced_operations/add_sitelink.py" timestamp="1556628496339" />
+      <file name="/code/sc/web/sc/app/ads/feeds.py" timestamp="1556630392260">
+        <mark key="[" line="20" column="53" />
+        <mark key="]" line="20" column="52" />
+        <mark key="." line="20" column="52" />
+        <mark key="^" line="20" column="52" />
+      </file>
+      <file name="/code/trash/google-ads-python/examples/advanced_operations/add_sitelink.py" timestamp="1556630357653" />
       <file name="/code/sc/web/static/web/views/nav-toolbar/integrations/ads/customers/customers.dialog.html" timestamp="1556510619114">
         <mark key="'" line="24" column="13" />
         <mark key="[" line="4" column="21" />
@@ -131,7 +137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
       <jump line="50" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
       <jump line="54" column="33" filename="/code/sc/web/migrations/versions/b54e96519026__122.py" />
       <jump line="33" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
@@ -231,40 +236,41 @@
       <jump line="91" column="15" filename="/code/sc/web/static/web/views/settings/platforms/connect-platform/connect-platform.html" />
       <jump line="23" column="13" filename="/code/sc/web/static/web/views/nav-toolbar/integrations/ads/customers/customers.dialog.html" />
       <jump line="26" column="0" filename="/code/sc/web/static/web/views/nav-toolbar/integrations/integrations.html" />
+      <jump line="91" column="0" filename="/code/sc/web/cli/ads.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZm9yIG5hbWUgaW4gY3VzdG9tZXJfc2VydmljZS5saXN0X2FjY2Vzc2libGVfY3VzdG9tZXJzKCkucmVzb3VyY2VfbmFtZXM6CiAgICAgICAgY3VzdG9tZXIgPSBjdXN0b21lcl9zZXJ2aWNlLmdldF9jdXN0b21lcihyZXNvdXJjZV9uYW1lPW5hbWUpCiAgICAgICAgcmV0LmFwcGVuZChkaWN0KAogICAgICAgICAgaWQ9Y3VzdG9tZXIuaWQudmFsdWUsCiAgICAgICAgICBuYW1lPWN1c3RvbWVyLmRlc2NyaXB0aXZlX25hbWUudmFsdWUgb3IgJ0dvb2dsZSBBZHMgYWNjb3VudCcsCiAgICAgICAgICBtYW5hZ2VyPWN1c3RvbWVyLm1hbmFnZXIudmFsdWUKICAgICAgICApKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1hcgo=</text>
+        <text encoding="base64">CiAgZGVmIGNvbm5lY3Qoc2VsZik6CiAgICAiIiIiIiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAubWQtZGlhbG9nLWNvbnRlbnQKICAgIHBhZGRpbmctbGVmdDogMAogICAgcGFkZGluZy1yaWdodDogMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIG1hcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBsYXlvdXQ9InJvdyIgbGF5b3V0LWFsaWduPSJzdGFydCBjZW50ZXIiPgo=</text>
+        <text encoding="base64">ICAubWQtZGlhbG9nLWNvbnRlbnQKICAgIHBhZGRpbmctbGVmdDogMAogICAgcGFkZGluZy1yaWdodDogMAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xhc3M9ImNvbnRhY3QtaXRlbSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHAgY2xhc3M9Im0tMCI+CiAgICAgICAgICAgICAge3sgYy5pZCB9fQogICAgICAgICAgICA8L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBsYXlvdXQ9InJvdyIgbGF5b3V0LWFsaWduPSJzdGFydCBjZW50ZXIiPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8bWQtcmFkaW8tYnV0dG9uCiAgICAgICAgICBuZy12YWx1ZT0iYyIKICAgICAgICAgIGFyaWEtbGFiZWw9ImF1dGgiCiAgICAgICAgICBjbGFzcz0iY29udGFjdC1pdGVtIgogICAgICAgICAgbmctcmVwZWF0PSJjIGluIGN0cmwubGlzdCI+CiAgICAgICAgICA8ZGl2IGxheW91dD0icm93IiBsYXlvdXQtYWxpZ249InN0YXJ0IGNlbnRlciI+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbXBhY3QiPgogICAgICAgICAgICAgIDxoMz57e2MubmFtZX19PC9oMz4KICAgICAgICAgICAgICA8cCBjbGFzcz0ibS0wIiBuZy1pZj0iYy5tYW5hZ2VyIj57e2MubWFuYWdlcn19PC9wPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPHAgY2xhc3M9Im0tMCI+CiAgICAgICAgICAgIHt7IGMuaWQgfX0KICAgICAgICAgIDwvcD4KICAgICAgICA8L21kLXJhZGlvLWJ1dHRvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xhc3M9ImNvbnRhY3QtaXRlbSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHAgY2xhc3M9Im0tMCI+CiAgICAgICAgICAgICAge3sgYy5pZCB9fQogICAgICAgICAgICA8L3A+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>Ads Account ID Required</text>
+        <text>, version='v1'</text>
       </register>
       <register name="/" type="4">
         <text>chipsdemoContactChips</text>
