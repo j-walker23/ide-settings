@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/code/sc/web/sc/app/plats/api/auth_storage.py" timestamp="1556504621180">
+        <mark key="[" line="54" column="37" />
+        <mark key="]" line="54" column="37" />
+        <mark key="." line="54" column="37" />
+        <mark key="^" line="54" column="37" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1556645315987">
         <mark key="[" line="78" column="1" />
         <mark key="]" line="79" column="19" />
@@ -13,18 +19,36 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code/trash/google-ads-python/google/ads/google_ads/v1/services/feed_service_client.py" timestamp="1556634211884" />
-      <file name="/code/sc/web/cli/ads.py" timestamp="1556646968096">
+      <file name="/code/sc/web/cli/ads.py" timestamp="1556649107102">
         <mark key="'" line="116" column="0" />
-        <mark key="[" line="46" column="15" />
-        <mark key="]" line="46" column="17" />
-        <mark key="." line="46" column="17" />
-        <mark key="^" line="46" column="17" />
+        <mark key="[" line="36" column="15" />
+        <mark key="]" line="36" column="54" />
+        <mark key="." line="36" column="54" />
+        <mark key="^" line="36" column="54" />
       </file>
       <file name="/code/sc/web/static/web/views/settings/platforms/connect-platform/connect-platform.html" timestamp="1556510368375">
         <mark key="'" line="91" column="15" />
       </file>
+      <file name="/code/sc/web/static/web/views/nav-toolbar/integrations/ads/customers/customers.ts" timestamp="1556509041123">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="23" />
+        <mark key="^" line="4" column="23" />
+        <mark key="." line="4" column="23" />
+      </file>
       <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1556644629426">
         <mark key="'" line="56" column="0" />
+      </file>
+      <file name="/code/sc/web/sc/coms/utils/csrf.py" timestamp="1556502819211">
+        <mark key="[" line="11" column="9" />
+        <mark key="]" line="11" column="17" />
+        <mark key="^" line="11" column="17" />
+        <mark key="." line="11" column="17" />
+      </file>
+      <file name="/code/sc/web/sc/errors.py" timestamp="1556479372133">
+        <mark key="[" line="110" column="61" />
+        <mark key="]" line="110" column="64" />
+        <mark key="^" line="110" column="64" />
+        <mark key="." line="110" column="64" />
       </file>
       <file name="/code/sc/web/static/web/views/nav-toolbar/integrations/integrations.html" timestamp="1556510833601">
         <mark key="'" line="26" column="0" />
@@ -35,15 +59,29 @@
         <mark key="." line="23" column="22" />
         <mark key="^" line="23" column="22" />
       </file>
-      <file name="/code/sc/web/migrations/versions/9b838926727b__80.py" timestamp="1556645876003">
-        <mark key="'" line="48" column="7" />
+      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/google_auth_oauthlib/helpers.py" timestamp="1556501893752">
+        <mark key="[" line="49" column="74" />
+        <mark key="]" line="49" column="43" />
+        <mark key="^" line="49" column="43" />
+        <mark key="." line="49" column="43" />
       </file>
-      <file name="/code/sc/web/sc/coms/ext/oauth2.py" timestamp="1556632658734" />
-      <file name="/code/sc/web/sc/app/ads/feeds.py" timestamp="1556647855382">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="81" column="29" />
+      <file name="/code/sc/web/sc/coms/ext/oauth2.py" timestamp="1556649158677">
+        <mark key="[" line="38" column="104" />
+        <mark key="]" line="39" column="70" />
+        <mark key="^" line="39" column="70" />
+        <mark key="." line="39" column="70" />
+      </file>
+      <file name="/code/sc/web/static/web/views/nav-toolbar/integrations/ads/customers/customers.dialog.ts" timestamp="1556509090554">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="29" />
+        <mark key="^" line="10" column="29" />
+        <mark key="." line="10" column="29" />
+      </file>
+      <file name="/code/sc/web/sc/app/ads/feeds.py" timestamp="1556649154735">
+        <mark key="[" line="34" column="56" />
+        <mark key="]" line="34" column="56" />
+        <mark key="." line="34" column="56" />
+        <mark key="^" line="34" column="56" />
       </file>
       <file name="/code/sc/web/migrations/versions/8952771ae4b1__128.py" timestamp="1556643683428" />
       <file name="/code/sc/web/migrations/versions/7d043f909427__132.py" timestamp="1556646335118">
@@ -72,6 +110,12 @@
       <file name="/reviews [local]" timestamp="1556646230461">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/code/sc/web/sc/app/ads/customers.py" timestamp="1556508271554">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+        <mark key="^" line="10" column="21" />
+      </file>
       <file name="/code/sc/web/instance/env.txt" timestamp="1556643772238">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -81,7 +125,19 @@
       <file name="/code/sc/web/sc/mods/web/webhooks/twilio_webhooks_view.py" timestamp="1556645667988">
         <mark key="'" line="84" column="18" />
       </file>
-      <file name="/Python Console" timestamp="1556647001080">
+      <file name="/code/sc/web/static/web/views/nav-toolbar/integrations/ads/ads.html" timestamp="1556510793718">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="23" column="29" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="/code/sc/web/sc/sql/platform/auth/__init__.py" timestamp="1556649059986">
+        <mark key="[" line="101" column="48" />
+        <mark key="]" line="101" column="58" />
+        <mark key="^" line="101" column="58" />
+        <mark key="." line="101" column="58" />
+      </file>
+      <file name="/Python Console" timestamp="1556649159963">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1556646904773">
@@ -89,12 +145,24 @@
       </file>
       <file name="35635bee-0fe2-4197-a883-a146230756ed/schema/local/table/reviews.sql" timestamp="1556646261395" />
       <file name="/code/sc/web/sc/sql/account/__init__.py" timestamp="1556646377276" />
+      <file name="/code/sc/web/sc/app/ads/base.py" timestamp="1556508725054">
+        <mark key="[" line="25" column="57" />
+        <mark key="]" line="25" column="61" />
+        <mark key="." line="25" column="61" />
+        <mark key="^" line="25" column="61" />
+      </file>
       <file name="/code/sc/web/migrations/versions/4a9ce402af00__123.py" timestamp="1556643306104">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="49" column="47" />
         <mark key="]" line="51" column="39" />
         <mark key="^" line="51" column="39" />
         <mark key="." line="51" column="39" />
+      </file>
+      <file name="/code/sc/web/sc/mods/web/views.py" timestamp="1556504125736">
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
+        <mark key="^" line="105" column="34" />
       </file>
       <file name="/a.sql" timestamp="1556646168068">
         <mark key="[" line="0" column="0" />
@@ -115,6 +183,12 @@
       <file name="/code/trash/google-ads-python/google/ads/google_ads/v0/proto/resources/feed_pb2.py" timestamp="1556628805389" />
       <file name="/rec_categories [local]" timestamp="1556646017323">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/code/sc/web/static/common/models/ad-auth.model.ts" timestamp="1556508784629">
+        <mark key="[" line="18" column="36" />
+        <mark key="]" line="18" column="43" />
+        <mark key="." line="18" column="43" />
+        <mark key="^" line="18" column="43" />
       </file>
       <file name="/code/sc/web/sc/sql/cols.py" timestamp="1556646351371">
         <mark key="[" line="221" column="47" />
@@ -268,7 +342,7 @@
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>feeds</text>
+        <text>self.api.auth</text>
       </register>
       <register name="/" type="4">
         <text>chipsdemoContactChips</text>
