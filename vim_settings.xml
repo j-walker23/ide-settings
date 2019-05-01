@@ -25,12 +25,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code/trash/google-ads-python/google/ads/google_ads/v1/services/feed_service_client.py" timestamp="1556634211884" />
-      <file name="/code/sc/web/cli/ads.py" timestamp="1556664972535">
-        <mark key="'" line="141" column="4" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="48" column="24" />
+      <file name="/code/sc/web/cli/ads.py" timestamp="1556667958447">
+        <mark key="'" line="142" column="4" />
+        <mark key="[" line="93" column="89" />
+        <mark key="]" line="94" column="3" />
+        <mark key="." line="94" column="3" />
+        <mark key="^" line="94" column="3" />
       </file>
       <file name="/code/sc/web/sc/sql/review/sr.py" timestamp="1556646330336">
         <mark key="[" line="23" column="23" />
@@ -84,12 +84,12 @@
       <file name="/reviews [local]" timestamp="1556646230461">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code/sc/web/sc/app/ads/customers.py" timestamp="1556667298484">
+      <file name="/code/sc/web/sc/app/ads/customers.py" timestamp="1556669256865">
         <mark key="'" line="32" column="29" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="48" column="35" />
-        <mark key="." line="48" column="35" />
-        <mark key="^" line="48" column="35" />
+        <mark key="[" line="49" column="32" />
+        <mark key="]" line="49" column="35" />
+        <mark key="^" line="49" column="35" />
+        <mark key="." line="49" column="35" />
       </file>
       <file name="/code/sc/web/instance/env.txt" timestamp="1556643772238">
         <mark key="[" line="0" column="0" />
@@ -276,37 +276,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWYgKHNlbGYpOgogICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICAgIyAnd2hlcmUgY3VzdG9tZXIucmVzb3VyY2VfbmFtZSA9ICVzJyAlIGNpZHNbMF0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZyb20gY2xpLmFkcyBpbXBvcnQgbGlzdF9jdXN0b21lcnMKICAgIGxpc3RfY3VzdG9tZXJzKHNlbGYuYXBpLmNsaWVudCkK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIHEgPSAoIiIiU0VMRUNUCgkgY3VzdG9tZXIuZGVzY3JpcHRpdmVfbmFtZQpGUk9NCgljdXN0b21lcl9tYW5hZ2VyX2xpbmsKTElNSVQKCTEwMCIiIik=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHEgPSAoJ3NlbGVjdCBjdXN0b21lcl9tYW5hZ2VyX2xpbmsubWFuYWdlcl9jdXN0b21lciAnCiAgICAgICAgICdmcm9tIGN1c3RvbWVyX21hbmFnZXJfbGluaycpCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgdWlPblBhcmFtc0NoYW5nZWQoKSB7CiAgICB0aGlzLmRvU2VhcmNoKGdldFN0YXRlUGFyYW1zKCkpCiAgfQo=</text>
+        <text encoding="base64">ICAgIGZyb20gY2xpLmFkcyBpbXBvcnQgbGlzdF9jdXN0b21lcnMKICAgIGxpc3RfY3VzdG9tZXJzKHNlbGYuYXBpLmNsaWVudCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgY2xlYXJTZWFyY2goKSB7CiAgICBjbGVhclNlYXJjaCgpCiAgfQo=</text>
+        <text encoding="base64">ICBkZWYgKHNlbGYpOgogICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZG9TZWFyY2goKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBAZGVib3VuY2UoMjAwKQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIHEgPSAoIiIiU0VMRUNUCgkgY3VzdG9tZXIuZGVzY3JpcHRpdmVfbmFtZQpGUk9NCgljdXN0b21lcl9tYW5hZ2VyX2xpbmsKTElNSVQKCTEwMCIiIik=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgb25TZWFyY2gocGFyYW1zKSB7CiAgICB1cGRhdGVTdGF0ZVBhcmFtcyhwYXJhbXMpCiAgfQo=</text>
+        <text encoding="base64">CiAgdWlPblBhcmFtc0NoYW5nZWQoKSB7CiAgICB0aGlzLmRvU2VhcmNoKGdldFN0YXRlUGFyYW1zKCkpCiAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHEgPSAoJ3NlbGVjdCBjdXN0b21lci5kZXNjcmlwdGl2ZV9uYW1lICcKICAgICAgICAgJ2Zyb20gY3VzdG9tZXIgJwogICAgICAgICAnd2hlcmUgY3VzdG9tZXIuaWQgaW4gKDgyNDk0NDA2NTIsIDM5ODY0ODc2MTcpJykKCg==</text>
+        <text encoding="base64">CiAgY2xlYXJTZWFyY2goKSB7CiAgICBjbGVhclNlYXJjaCgpCiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>push</text>
+        <text>self.api.auth.customer_id</text>
       </register>
       <register name="/" type="4">
         <text>chipsdemoContactChips</text>
