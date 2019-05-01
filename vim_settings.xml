@@ -3,14 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/code/sc/web/sc/mods/web/webhooks/twilio_webhooks_view.py" timestamp="1556645667988">
-        <mark key="'" line="84" column="18" />
-      </file>
-      <file name="/code/sc/web/static/web/views/nav-toolbar/integrations/ads/ads.html" timestamp="1556732661721">
-        <mark key="[" line="37" column="11" />
-        <mark key="]" line="37" column="11" />
-        <mark key="." line="37" column="11" />
-      </file>
       <file name="/code/sc/web/static/web/views/settings/manual-stop/manual-stop.ts" timestamp="1556666188184">
         <mark key="[" line="59" column="29" />
         <mark key="]" line="59" column="35" />
@@ -23,6 +15,7 @@
         <mark key="^" line="94" column="109" />
         <mark key="." line="94" column="109" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/google/ads/google_ads/v0/services/enums.py" timestamp="1556745601859" />
       <file name="/code/sc/web/sc/app/plats/api/google.py" timestamp="1556681403193">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="79" />
@@ -36,59 +29,24 @@
         <mark key="." line="397" column="0" />
         <mark key="^" line="397" column="0" />
       </file>
-      <file name="/code/sc/web/sc/sql/account/__init__.py" timestamp="1556732607528">
-        <mark key="[" line="57" column="27" />
-        <mark key="]" line="58" column="28" />
-        <mark key="^" line="58" column="28" />
-        <mark key="." line="58" column="28" />
-      </file>
       <file name="/code/sc/web/sc/sql/report/__init__.py" timestamp="1556662584755">
         <mark key="[" line="45" column="63" />
         <mark key="]" line="45" column="64" />
         <mark key="." line="45" column="64" />
         <mark key="^" line="45" column="67" />
       </file>
+      <file name="/code/sc/web/sc/coms/ext/logs.py" timestamp="1556746895673" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1556659421535">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="/code/sc/web/static/web/views/arrowlytics/arrowlytics.ts" timestamp="1556666802981">
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
-      </file>
-      <file name="/code/sc/web/migrations/versions/4a9ce402af00__123.py" timestamp="1556643306104">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="49" column="47" />
-        <mark key="]" line="51" column="39" />
-        <mark key="^" line="51" column="39" />
-        <mark key="." line="51" column="39" />
-      </file>
-      <file name="/code/sc/web/sc/app/ads/api.py" timestamp="1556672685043">
-        <mark key="[" line="47" column="13" />
-        <mark key="]" line="47" column="22" />
-        <mark key="." line="47" column="22" />
-        <mark key="^" line="47" column="22" />
-      </file>
-      <file name="/code/sc/web/cli/hj.py" timestamp="1556658730251">
-        <mark key="'" line="226" column="2" />
-      </file>
-      <file name="/code/sc/web/sc/sql/platform/auth_loc/auth_loc_q_assignment.py" timestamp="1556646342534">
-        <mark key="[" line="27" column="29" />
-        <mark key="]" line="27" column="28" />
-        <mark key="^" line="27" column="28" />
-        <mark key="." line="27" column="28" />
-      </file>
-      <file name="/code/sc/web/cli/ads.py" timestamp="1556667958447">
-        <mark key="'" line="142" column="4" />
-        <mark key="[" line="93" column="89" />
-        <mark key="]" line="94" column="3" />
-        <mark key="." line="94" column="3" />
-        <mark key="^" line="94" column="3" />
-      </file>
-      <file name="/code/sc/web/static/web/views/settings/platforms/connect-platform/connect-platform.html" timestamp="1556510368375">
-        <mark key="'" line="91" column="15" />
+      <file name="/code/sc/web/cli/ads.py" timestamp="1556742057934">
+        <mark key="'" line="153" column="4" />
+        <mark key="[" line="58" column="30" />
+        <mark key="]" line="59" column="10" />
+        <mark key="." line="59" column="10" />
+        <mark key="^" line="59" column="10" />
       </file>
       <file name="/code/sc/web/sc/app/plats/synclocs/reviews/google.py" timestamp="1556680567774">
         <mark key="[" line="33" column="19" />
@@ -96,16 +54,16 @@
         <mark key="." line="33" column="21" />
         <mark key="^" line="33" column="21" />
       </file>
-      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1556679217774">
-        <mark key="'" line="57" column="0" />
-      </file>
       <file name="/code/sc/web/sc/sql/integ/__init__.py" timestamp="1556732598310">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="/code/sc/web/static/web/views/nav-toolbar/integrations/integrations.html" timestamp="1556510833601">
-        <mark key="'" line="26" column="0" />
+      <file name="/code/sc/web/sc/errors.py" timestamp="1556747654461">
+        <mark key="[" line="106" column="32" />
+        <mark key="]" line="106" column="32" />
+        <mark key="^" line="106" column="34" />
+        <mark key="." line="106" column="32" />
       </file>
       <file name="/code/sc/web/sc/sql/review/sr.py" timestamp="1556646330336">
         <mark key="[" line="23" column="23" />
@@ -113,57 +71,23 @@
         <mark key="." line="23" column="22" />
         <mark key="^" line="23" column="22" />
       </file>
-      <file name="/code/sc/web/sc/app/reports/exports.py" timestamp="1556663123848">
-        <mark key="[" line="22" column="21" />
-        <mark key="]" line="22" column="24" />
-        <mark key="^" line="22" column="24" />
-        <mark key="." line="22" column="24" />
-      </file>
-      <file name="/code/sc/web/static/web/views/arrowlytics/arrived/data-table/arrived-data.ts" timestamp="1556666746695">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="47" column="25" />
-        <mark key="." line="50" column="0" />
-      </file>
-      <file name="/code/sc/web/migrations/versions/b960788a189a__132.py" timestamp="1556673538496">
-        <mark key="'" line="34" column="0" />
-      </file>
-      <file name="/code/sc/web/migrations/versions/9b838926727b__80.py" timestamp="1556645876003">
-        <mark key="'" line="48" column="7" />
-      </file>
       <file name="/code/sc/web/sc/coms/ext/oauth2.py" timestamp="1556654548088">
         <mark key="[" line="38" column="106" />
         <mark key="]" line="38" column="103" />
         <mark key="^" line="38" column="103" />
         <mark key="." line="38" column="103" />
       </file>
-      <file name="/code/sc/web/sc/sql/cols.py" timestamp="1556646351371">
-        <mark key="[" line="221" column="47" />
-        <mark key="]" line="221" column="46" />
-        <mark key="." line="221" column="46" />
-        <mark key="^" line="221" column="46" />
-      </file>
-      <file name="/code/sc/web/cli/auths.py" timestamp="1556680542923">
-        <mark key="'" line="303" column="2" />
-        <mark key="[" line="198" column="18" />
-        <mark key="]" line="198" column="20" />
-        <mark key="^" line="198" column="20" />
-        <mark key="." line="198" column="20" />
-      </file>
-      <file name="/code/sc/web/sc/app/ads/feeds.py" timestamp="1556733082524">
-        <mark key="[" line="61" column="66" />
-        <mark key="]" line="61" column="79" />
-        <mark key="." line="61" column="79" />
-        <mark key="^" line="61" column="79" />
+      <file name="/code/sc/web/sc/app/ads/feeds.py" timestamp="1556747560157">
+        <mark key="[" line="68" column="48" />
+        <mark key="]" line="68" column="61" />
+        <mark key="^" line="68" column="61" />
+        <mark key="." line="68" column="61" />
       </file>
       <file name="/code/sc/web/migrations/versions/7d043f909427__132.py" timestamp="1556646335118">
         <mark key="[" line="43" column="41" />
         <mark key="]" line="43" column="42" />
         <mark key="^" line="43" column="42" />
         <mark key="." line="43" column="42" />
-      </file>
-      <file name="/code/sc/web/.travis.yml" timestamp="1556646639071">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="/code/sc/web/sc/sql/ad/__init__.py" timestamp="1556659663115">
         <mark key="[" line="38" column="5" />
@@ -190,35 +114,18 @@
         <mark key="." line="114" column="32" />
         <mark key="^" line="114" column="32" />
       </file>
-      <file name="/code/sc/web/sc/coms/ext/logprocessors.py" timestamp="1556679345987">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="^" line="104" column="25" />
-        <mark key="." line="105" column="0" />
-      </file>
       <file name="/code/sc/web/sc/app/plats/synclocs/google.py" timestamp="1556680552067">
         <mark key="[" line="36" column="13" />
         <mark key="]" line="36" column="15" />
         <mark key="." line="36" column="15" />
         <mark key="^" line="36" column="15" />
       </file>
-      <file name="/code/sc/web/sc/coms/ext/flasks.py" timestamp="1556679636216">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="32" />
-        <mark key="." line="75" column="0" />
-      </file>
-      <file name="/code/sc/web/sc/app/ads/customers.py" timestamp="1556733300899">
-        <mark key="'" line="34" column="29" />
-        <mark key="[" line="52" column="23" />
-        <mark key="]" line="53" column="62" />
-        <mark key="^" line="53" column="62" />
-        <mark key="." line="53" column="62" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1556734348190">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="34" column="9" />
-        <mark key="^" line="34" column="9" />
-        <mark key="." line="34" column="9" />
+      <file name="/code/sc/web/sc/app/ads/customers.py" timestamp="1556746678710">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="72" column="15" />
+        <mark key="]" line="72" column="20" />
+        <mark key="." line="72" column="20" />
+        <mark key="^" line="72" column="20" />
       </file>
       <file name="/code/sc/web/instance/env.txt" timestamp="1556673532804">
         <mark key="[" line="0" column="0" />
@@ -232,14 +139,111 @@
         <mark key="^" line="56" column="48" />
         <mark key="." line="57" column="0" />
       </file>
+      <file name="/code/sc/web/static/web/views/nav-toolbar/integrations/ads/ads.html" timestamp="1556732661721">
+        <mark key="[" line="37" column="11" />
+        <mark key="]" line="37" column="11" />
+        <mark key="." line="37" column="11" />
+      </file>
+      <file name="/Python Console" timestamp="1556745641382">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.py" timestamp="1556746397399">
+        <mark key="[" line="17" column="5" />
+        <mark key="]" line="17" column="51" />
+        <mark key="." line="17" column="51" />
+        <mark key="^" line="17" column="51" />
+      </file>
+      <file name="/fragment.py" timestamp="1556745650957">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+      </file>
+      <file name="/code/sc/web/sc/sql/account/__init__.py" timestamp="1556732607528">
+        <mark key="[" line="57" column="27" />
+        <mark key="]" line="58" column="28" />
+        <mark key="^" line="58" column="28" />
+        <mark key="." line="58" column="28" />
+      </file>
+      <file name="/code/sc/web/static/web/views/arrowlytics/arrowlytics.ts" timestamp="1556666802981">
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
+      </file>
+      <file name="/code/sc/web/migrations/versions/4a9ce402af00__123.py" timestamp="1556643306104">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="49" column="47" />
+        <mark key="]" line="51" column="39" />
+        <mark key="^" line="51" column="39" />
+        <mark key="." line="51" column="39" />
+      </file>
+      <file name="/code/sc/web/sc/app/ads/api.py" timestamp="1556745957974">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="52" column="26" />
+      </file>
+      <file name="/code/trash/google-ads-python/examples/billing/get_account_budgets.py" timestamp="1556742848102" />
+      <file name="/code/sc/web/sc/sql/platform/auth_loc/auth_loc_q_assignment.py" timestamp="1556646342534">
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="27" column="28" />
+        <mark key="^" line="27" column="28" />
+        <mark key="." line="27" column="28" />
+      </file>
+      <file name="/code/sc/web/sc/app/reports/exports.py" timestamp="1556663123848">
+        <mark key="[" line="22" column="21" />
+        <mark key="]" line="22" column="24" />
+        <mark key="^" line="22" column="24" />
+        <mark key="." line="22" column="24" />
+      </file>
+      <file name="/code/sc/web/static/web/views/arrowlytics/arrived/data-table/arrived-data.ts" timestamp="1556666746695">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="47" column="25" />
+        <mark key="." line="50" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1556742326727">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/google/ads/google_ads/v1/services/enums.py" timestamp="1556746962606" />
+      <file name="/code/sc/web/sc/sql/cols.py" timestamp="1556646351371">
+        <mark key="[" line="221" column="47" />
+        <mark key="]" line="221" column="46" />
+        <mark key="." line="221" column="46" />
+        <mark key="^" line="221" column="46" />
+      </file>
+      <file name="/code/sc/web/cli/auths.py" timestamp="1556680542923">
+        <mark key="'" line="303" column="2" />
+        <mark key="[" line="198" column="18" />
+        <mark key="]" line="198" column="20" />
+        <mark key="^" line="198" column="20" />
+        <mark key="." line="198" column="20" />
+      </file>
+      <file name="/code/trash/google-ads-python/google/ads/google_ads/v1/services/enums.py" timestamp="1556742928197" />
+      <file name="/code/sc/web/sc/coms/ext/classful.py" timestamp="1556745834086">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="^" line="96" column="33" />
+        <mark key="." line="97" column="0" />
+      </file>
+      <file name="/code/sc/web/sc/coms/ext/logprocessors.py" timestamp="1556679345987">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="^" line="104" column="25" />
+        <mark key="." line="105" column="0" />
+      </file>
+      <file name="/code/sc/web/sc/coms/ext/flasks.py" timestamp="1556679636216">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="32" />
+        <mark key="." line="75" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1556734348190">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="34" column="9" />
+        <mark key="^" line="34" column="9" />
+        <mark key="." line="34" column="9" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="4" filename="/code/sc/web/sc/coms/testing/sa_models.py" />
-      <jump line="76" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
-      <jump line="47" column="19" filename="/code/sc/web/instance/local/develop_settings.py" />
-      <jump line="48" column="38" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
-      <jump line="43" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
-      <jump line="109" column="13" filename="/code/sc/web/sc/app/tasks/hjcollecting.py" />
       <jump line="141" column="2" filename="/code/sc/web/sc/sql/cols.py" />
       <jump line="240" column="0" filename="/code/sc/web/sc/sql/cols.py" />
       <jump line="149" column="25" filename="/code/sc/web/sc/sql/integ/hj/hj_tables.py" />
@@ -334,40 +338,46 @@
       <jump line="15" column="64" filename="/code/sc/web/sc/coms/ext/sentry.py" />
       <jump line="50" column="2" filename="/code/sc/web/sc/coms/ext/sentry.py" />
       <jump line="369" column="0" filename="/code/sc/web/cli/ones.py" />
+      <jump line="62" column="16" filename="/code/sc/web/sc/app/ads/customers.py" />
+      <jump line="12" column="12" filename="/code/sc/web/sc/app/ads/customers.py" />
+      <jump line="18" column="7" filename="/code/sc/web/sc/app/ads/customers.py" />
+      <jump line="55" column="4" filename="/code/sc/web/sc/app/ads/customers.py" />
+      <jump line="53" column="0" filename="/code/sc/web/sc/app/ads/customers.py" />
+      <jump line="62" column="0" filename="/code/sc/web/sc/app/ads/feeds.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIGF1dGggPSBhcGkuYXV0aAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGdhX3NlcnZpY2UgPSBzZWxmLmFwaS5nYV9zZXJ2aWNlCgogICAgcSA9ICgnU0VMRUNUIGN1c3RvbWVyX2NsaWVudC5jbGllbnRfY3VzdG9tZXIgZnJvbSBjdXN0b21lcl9jbGllbnQnKQogICAgcmVzdWx0cyA9IGdhX3NlcnZpY2Uuc2VhcmNoKHNlbGYuYXBpLmF1dGguY3VzdG9tZXJfaWQsIHF1ZXJ5PXEsIHBhZ2Vfc2l6ZT0xMDAwKQoKICAgIGNpZHMgPSBbci5jdXN0b21lcl9jbGllbnQucmVzb3VyY2VfbmFtZS5zcGxpdCgnLycpWy0xXSBmb3IgciBpbiByZXN1bHRzXQogICAgY2lkcyA9IFtmIidjdXN0b21lcnMve2N9JyIgZm9yIGMgaW4gY2lkcyBpZiBjICE9IHNlbGYuYXBpLmF1dGguY3VzdG9tZXJfaWRdCiAgICBwcmludChjaWRzKQoKICAgIHEgPSAoJ3NlbGVjdCBjdXN0b21lci5kZXNjcmlwdGl2ZV9uYW1lICcKICAgICAgICAgJ2Zyb20gY3VzdG9tZXIgJwogICAgICAgICAnd2hlcmUgY3VzdG9tZXIucmVzb3VyY2VfbmFtZSBpbiAoJXMpJyAlICcsICcuam9pbihjaWRzKQogICAgICAgICApCgogICAgcmVzdWx0cyA9IGdhX3NlcnZpY2Uuc2VhcmNoKE5vbmUsIHF1ZXJ5PXEsIHBhZ2Vfc2l6ZT0xMDAwKQoKICAgIGZvciByIGluIHJlc3VsdHM6CiAgICAgIHByaW50KHIpCg==</text>
+        <text encoding="base64">ICBkZWYgZ2V0X2N1c3RfZmVlZChzZWxmKToKICAgICIiIiIiIgogICAgYXBpID0gc2VsZi5hcGkKICAgIGF1dGggPSBhcGkuYXV0aAogICAgY2xpZW50ID0gYXBpLmNsaWVudAogICAgY3VzdF9mZWVkX3NlcnZpY2UgPSBjbGllbnQuZ2V0X3NlcnZpY2UoJ0N1c3RvbWVyRmVlZFNlcnZpY2UnLCB2ZXJzaW9uPSd2MScpCiAgICBjdXN0X2ZlZWQgPSBjdXN0X2ZlZWRfc2VydmljZS5nZXRfY3VzdG9tZXJfZmVlZCgKICAgICAgcmVzb3VyY2VfbmFtZT1mJ2N1c3RvbWVycy97YXV0aC5jdXN0b21lcl9pZH0vY3VzdG9tZXJGZWVkcy85NDcwMTI3OCcpCiAgICBwcmludChjdXN0X2ZlZWQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNpZCA9ICczOTg2NDg3NjE3JyBvciBzZWxmLmFwaS5hdXRoLmN1c3RvbWVyX2lkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhZHNfaWQgPSBDb2x1bW4oU3RyaW5nKDEyKSkK</text>
+        <text encoding="base64">ICAgIGFzc2VydCBjaWQK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CkBvbmVzLmNvbW1hbmQoKQpAbG9hZF9hcHAKQGFwcF9jdHgoMjM4KQpkZWYgYWRzKCk6CiAgIiIiIiIiCg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGZlZWRfcmVzID0gZmVlZF9zZXJ2aWNlLm11dGF0ZV9mZWVkcyhjaWQsIFtvcF0pLnJlc3VsdHNbMF0ucmVzb3VyY2VfbmFtZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmb3IgbmFtZSBpbiBJR05PUkVfTE9HR0VSUzoKICAgIGlnbm9yZV9sb2dnZXIobmFtZSkK</text>
+        <text encoding="base64">ICAgIGNpZCA9ICczOTg2NDg3NjE3JyBvciBzZWxmLmFwaS5hdXRoLmN1c3RvbWVyX2lkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpZ25vcmVfbG9nZ2VyKCdjZWxlcnkuYXBwLnRyYWNlJykKICBpZ25vcmVfbG9nZ2VyKCdwYXJhbWlrby50cmFuc3BvcnQnKQogIGlnbm9yZV9sb2dnZXIoJ2VuZ2luZWlvLnNlcnZlcicpCg==</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcmludChsZW4oYykpCg==</text>
+        <text encoding="base64">IyBlIGlzIEdvb2dsZUFkc0V4Y2VwdGlvbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGFwcF9jdHgoMjM4KQo=</text>
+        <text encoding="base64">CkBjb250ZXh0bWFuYWdlcgpkZWYgYWRzY2FsbCgpOgogICIiIiIiIgogIHRyeToKICAgIHlpZWxkCiAgZXhjZXB0IEdvb2dsZUFkc0V4Y2VwdGlvbiBhcyBlOgogICAgcmFpc2UgR29vZ2xlQWRzRXJyb3IoZSkgZnJvbSBlCg==</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Tm90aWZpY2F0aW9uLnNlYXJjaChOb3RpZmljYXRpb24uem9uZSA+ICcnKS5maXJzdCgp</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>ignore</text>
