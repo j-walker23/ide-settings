@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/code/sc/web/static/web/views/settings/locations/details/location-details.html" timestamp="1556749525440">
+        <mark key="'" line="258" column="0" />
+      </file>
       <file name="/code/sc/web/static/web/views/settings/manual-stop/manual-stop.ts" timestamp="1556666188184">
         <mark key="[" line="59" column="29" />
         <mark key="]" line="59" column="35" />
@@ -21,13 +24,6 @@
         <mark key="]" line="54" column="79" />
         <mark key="^" line="50" column="0" />
         <mark key="." line="54" column="0" />
-      </file>
-      <file name="/code/sc/web/cli/ones.py" timestamp="1556731971538">
-        <mark key="'" line="370" column="0" />
-        <mark key="[" line="397" column="0" />
-        <mark key="]" line="397" column="0" />
-        <mark key="." line="397" column="0" />
-        <mark key="^" line="397" column="0" />
       </file>
       <file name="/code/sc/web/sc/sql/report/__init__.py" timestamp="1556662584755">
         <mark key="[" line="45" column="63" />
@@ -58,6 +54,12 @@
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
+      </file>
+      <file name="/code/sc/web/static/web/views/boost/details/boost-details.html" timestamp="1556749552914">
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="23" />
+        <mark key="." line="11" column="23" />
+        <mark key="^" line="11" column="23" />
       </file>
       <file name="/code/sc/web/sc/errors.py" timestamp="1556747654461">
         <mark key="[" line="106" column="32" />
@@ -100,13 +102,6 @@
         <mark key="]" line="53" column="71" />
         <mark key="." line="53" column="71" />
         <mark key="^" line="53" column="71" />
-      </file>
-      <file name="/code/sc/web/migrations/versions/ea6b4b0fc468__131.py" timestamp="1556673365941">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="31" column="56" />
-        <mark key="]" line="35" column="39" />
-        <mark key="^" line="35" column="39" />
-        <mark key="." line="33" column="68" />
       </file>
       <file name="/code/sc/web/sc/sql/tables.py" timestamp="1556646431300">
         <mark key="[" line="114" column="33" />
@@ -169,13 +164,6 @@
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
       </file>
-      <file name="/code/sc/web/migrations/versions/4a9ce402af00__123.py" timestamp="1556643306104">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="49" column="47" />
-        <mark key="]" line="51" column="39" />
-        <mark key="^" line="51" column="39" />
-        <mark key="." line="51" column="39" />
-      </file>
       <file name="/code/sc/web/sc/app/ads/api.py" timestamp="1556745957974">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -211,13 +199,6 @@
         <mark key="." line="221" column="46" />
         <mark key="^" line="221" column="46" />
       </file>
-      <file name="/code/sc/web/cli/auths.py" timestamp="1556680542923">
-        <mark key="'" line="303" column="2" />
-        <mark key="[" line="198" column="18" />
-        <mark key="]" line="198" column="20" />
-        <mark key="^" line="198" column="20" />
-        <mark key="." line="198" column="20" />
-      </file>
       <file name="/code/trash/google-ads-python/google/ads/google_ads/v1/services/enums.py" timestamp="1556742928197" />
       <file name="/code/sc/web/sc/coms/ext/classful.py" timestamp="1556745834086">
         <mark key="[" line="97" column="0" />
@@ -244,8 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="2" filename="/code/sc/web/sc/sql/cols.py" />
-      <jump line="240" column="0" filename="/code/sc/web/sc/sql/cols.py" />
       <jump line="149" column="25" filename="/code/sc/web/sc/sql/integ/hj/hj_tables.py" />
       <jump line="75" column="55" filename="/code/sc/web/sc/sql/integ/hj/hj_tables.py" />
       <jump line="372" column="9" filename="/code/sc/web/cli/ones.py" />
@@ -344,40 +323,42 @@
       <jump line="55" column="4" filename="/code/sc/web/sc/app/ads/customers.py" />
       <jump line="53" column="0" filename="/code/sc/web/sc/app/ads/customers.py" />
       <jump line="62" column="0" filename="/code/sc/web/sc/app/ads/feeds.py" />
+      <jump line="278" column="0" filename="/code/sc/web/static/web/views/settings/locations/details/location-details.html" />
+      <jump line="258" column="0" filename="/code/sc/web/static/web/views/settings/locations/details/location-details.html" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGF1dGggPSBhcGkuYXV0aAo=</text>
+        <text encoding="base64">ICAgICAgICA8bWQtaW5wdXQtY29udGFpbmVyIGNsYXNzPSJtZC1ibG9jayI+CiAgICAgICAgICA8bGFiZWw+QnVkZ2V0IGluIERvbGxhcnM8L2xhYmVsPgogICAgICAgICAgPGlucHV0IHR5cGU9Im51bWJlciIgbmFtZT0iYnVkZ2V0IiBuZy1tb2RlbD0iY3RybC5ib28uYnVkZ2V0IiByZXF1aXJlZD4KICAgICAgICA8L21kLWlucHV0LWNvbnRhaW5lcj4KICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgZ2V0X2N1c3RfZmVlZChzZWxmKToKICAgICIiIiIiIgogICAgYXBpID0gc2VsZi5hcGkKICAgIGF1dGggPSBhcGkuYXV0aAogICAgY2xpZW50ID0gYXBpLmNsaWVudAogICAgY3VzdF9mZWVkX3NlcnZpY2UgPSBjbGllbnQuZ2V0X3NlcnZpY2UoJ0N1c3RvbWVyRmVlZFNlcnZpY2UnLCB2ZXJzaW9uPSd2MScpCiAgICBjdXN0X2ZlZWQgPSBjdXN0X2ZlZWRfc2VydmljZS5nZXRfY3VzdG9tZXJfZmVlZCgKICAgICAgcmVzb3VyY2VfbmFtZT1mJ2N1c3RvbWVycy97YXV0aC5jdXN0b21lcl9pZH0vY3VzdG9tZXJGZWVkcy85NDcwMTI3OCcpCiAgICBwcmludChjdXN0X2ZlZWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBnZy1hdXRvZm9jdXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNpZCA9ICczOTg2NDg3NjE3JyBvciBzZWxmLmFwaS5hdXRoLmN1c3RvbWVyX2lkCg==</text>
+        <text encoding="base64">ICAgICAgICA8bWQtaW5wdXQtY29udGFpbmVyIGNsYXNzPSJtZC1ibG9jayI+CiAgICAgICAgICA8bGFiZWw+WmlwczwvbGFiZWw+CiAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIKICAgICAgICAgICAgICAgICBnZy1hdXRvZm9jdXMKICAgICAgICAgICAgICAgICBuYW1lPSJ6aXAiCiAgICAgICAgICAgICAgICAgbmctbW9kZWw9ImN0cmwuYm9vIgogICAgICAgICAgICAgICAgIHJlcXVpcmVkPgogICAgICAgIDwvbWQtaW5wdXQtY29udGFpbmVyPiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBjaWQK</text>
+        <text encoding="base64">ICAgIGF1dGggPSBhcGkuYXV0aAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZlZWRfcmVzID0gZmVlZF9zZXJ2aWNlLm11dGF0ZV9mZWVkcyhjaWQsIFtvcF0pLnJlc3VsdHNbMF0ucmVzb3VyY2VfbmFtZQo=</text>
+        <text encoding="base64">ICBkZWYgZ2V0X2N1c3RfZmVlZChzZWxmKToKICAgICIiIiIiIgogICAgYXBpID0gc2VsZi5hcGkKICAgIGF1dGggPSBhcGkuYXV0aAogICAgY2xpZW50ID0gYXBpLmNsaWVudAogICAgY3VzdF9mZWVkX3NlcnZpY2UgPSBjbGllbnQuZ2V0X3NlcnZpY2UoJ0N1c3RvbWVyRmVlZFNlcnZpY2UnLCB2ZXJzaW9uPSd2MScpCiAgICBjdXN0X2ZlZWQgPSBjdXN0X2ZlZWRfc2VydmljZS5nZXRfY3VzdG9tZXJfZmVlZCgKICAgICAgcmVzb3VyY2VfbmFtZT1mJ2N1c3RvbWVycy97YXV0aC5jdXN0b21lcl9pZH0vY3VzdG9tZXJGZWVkcy85NDcwMTI3OCcpCiAgICBwcmludChjdXN0X2ZlZWQpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIGNpZCA9ICczOTg2NDg3NjE3JyBvciBzZWxmLmFwaS5hdXRoLmN1c3RvbWVyX2lkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCBjaWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBlIGlzIEdvb2dsZUFkc0V4Y2VwdGlvbgo=</text>
+        <text encoding="base64">ICAgIGZlZWRfcmVzID0gZmVlZF9zZXJ2aWNlLm11dGF0ZV9mZWVkcyhjaWQsIFtvcF0pLnJlc3VsdHNbMF0ucmVzb3VyY2VfbmFtZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CkBjb250ZXh0bWFuYWdlcgpkZWYgYWRzY2FsbCgpOgogICIiIiIiIgogIHRyeToKICAgIHlpZWxkCiAgZXhjZXB0IEdvb2dsZUFkc0V4Y2VwdGlvbiBhcyBlOgogICAgcmFpc2UgR29vZ2xlQWRzRXJyb3IoZSkgZnJvbSBlCg==</text>
+        <text encoding="base64">ICAgIGNpZCA9ICczOTg2NDg3NjE3JyBvciBzZWxmLmFwaS5hdXRoLmN1c3RvbWVyX2lkCg==</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IHx8IChjdHJsLmxvYy5kb2MgJiYgIWN0cmwubG9jLnBhcmVudHMubGVuZ3RoKQ==</text>
       </register>
       <register name="/" type="4">
         <text>ignore</text>
