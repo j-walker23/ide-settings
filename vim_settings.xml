@@ -51,7 +51,6 @@
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/google/ads/google_ads/v1/services/transports/campaign_service_grpc_transport.py" timestamp="1556964200505" />
       <file name="/code/sc/web/sc/app/ads/api.py" timestamp="1556964089684">
         <mark key="'" line="107" column="33" />
         <mark key="[" line="57" column="23" />
@@ -94,17 +93,17 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
-      <file name="/code/sc/web/sc/app/ads/crud.py" timestamp="1556964411841">
-        <mark key="[" line="37" column="1" />
-        <mark key="]" line="37" column="1" />
-        <mark key="." line="37" column="1" />
-        <mark key="^" line="37" column="1" />
+      <file name="/code/sc/web/sc/app/ads/crud.py" timestamp="1556974064396">
+        <mark key="[" line="38" column="42" />
+        <mark key="]" line="40" column="42" />
+        <mark key="." line="40" column="42" />
+        <mark key="^" line="40" column="42" />
       </file>
-      <file name="/code/sc/web/sc/app/ads/campaigns.py" timestamp="1556964627548">
-        <mark key="[" line="59" column="53" />
-        <mark key="]" line="60" column="41" />
-        <mark key="." line="60" column="41" />
-        <mark key="^" line="60" column="41" />
+      <file name="/code/sc/web/sc/app/ads/campaigns.py" timestamp="1556974017622">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="57" column="41" />
       </file>
       <file name="/code/sc/web/sc/coms/ext/oauth2.py" timestamp="1556792501012">
         <mark key="[" line="56" column="0" />
@@ -118,12 +117,12 @@
         <mark key="^" line="110" column="55" />
         <mark key="." line="110" column="55" />
       </file>
-      <file name="/code/sc/web/sc/app/ads/feeds.py" timestamp="1556962995089">
-        <mark key="'" line="98" column="0" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="^" line="103" column="13" />
-        <mark key="." line="98" column="0" />
+      <file name="/code/sc/web/sc/app/ads/feeds.py" timestamp="1556973975535">
+        <mark key="'" line="24" column="6" />
+        <mark key="[" line="78" column="11" />
+        <mark key="]" line="78" column="21" />
+        <mark key="^" line="78" column="21" />
+        <mark key="." line="78" column="21" />
       </file>
       <file name="/code/sc/web/sc/coms/ext/flasks.py" timestamp="1556679636216">
         <mark key="[" line="75" column="0" />
@@ -144,7 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="16" filename="/code/sc/web/sc/app/ads/api.py" />
       <jump line="97" column="8" filename="/code/sc/web/sc/app/ads/api.py" />
       <jump line="0" column="0" filename="/code/sc/web/sc/app/ads/api.py" />
       <jump line="93" column="4" filename="/code/sc/web/sc/app/ads/api.py" />
@@ -244,40 +242,41 @@
       <jump line="98" column="0" filename="/code/sc/web/sc/app/ads/feeds.py" />
       <jump line="45" column="0" filename="/code/sc/web/sc/app/ads/campaigns.py" />
       <jump line="21" column="14" filename="/code/sc/web/sc/app/ads/campaigns.py" />
+      <jump line="24" column="6" filename="/code/sc/web/sc/app/ads/feeds.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFwaSA9IHNlbC5mCg==</text>
+        <text encoding="base64">CiAgZGVmIGFkZF9mZWVkKHNlbGYsIGJvb3N0OiBCb29zdExvYyk6CiAgICAiIiIiIiIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgU2V0IHRoZSBiaWRkaW5nIHN0cmF0ZWd5IGFuZCBidWRnZXQuCg==</text>
+        <text encoding="base64">ICAgIGNsaWVudCA9IGFwaS5jbGllbnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNhbXBhaWduLmNhbXBhaWduX2J1ZGdldC52YWx1ZSA9IGJ1ZGdldC5yZXNvdXJjZV9uYW1lCg==</text>
+        <text encoding="base64">ICBpZiBjaWQgbm90IGluIGFsLmxhYmVsczoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNhbXBhaWduLm1hbnVhbF9jcGMuZW5oYW5jZWRfY3BjX2VuYWJsZWQudmFsdWUgPSBUcnVlCg==</text>
+        <text encoding="base64">ICAgIGFwaSA9IHNlbC5mCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAcHJvcGVydHkK</text>
+        <text encoding="base64">ICAgICMgU2V0IHRoZSBiaWRkaW5nIHN0cmF0ZWd5IGFuZCBidWRnZXQuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMK</text>
+        <text encoding="base64">ICAgIGNhbXBhaWduLmNhbXBhaWduX2J1ZGdldC52YWx1ZSA9IGJ1ZGdldC5yZXNvdXJjZV9uYW1lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBpZiBUWVBFX0NIRUNLSU5HOgoKCiMgQGF0dHJzKGF1dG9fYXR0cmlicz1UcnVlKQo=</text>
+        <text encoding="base64">ICAgIGNhbXBhaWduLm1hbnVhbF9jcGMuZW5oYW5jZWRfY3BjX2VuYWJsZWQudmFsdWUgPSBUcnVlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjaWQ6IHN0ciA9IE5vbmUK</text>
+        <text encoding="base64">ICBAcHJvcGVydHkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMK</text>
       </register>
       <register name=":" type="4">
         <text>%s//isit</text>
       </register>
       <register name="-" type="4">
-        <text>cf</text>
+        <text>res</text>
       </register>
       <register name="/" type="4">
         <text>_is_or_is_not</text>
