@@ -4,18 +4,19 @@
     <globalmarks />
     <filemarks>
       <file name="/code/sc/web/cli/scripts/m700.py" timestamp="1557332479985" />
+      <file name="/code/sc/web/static/web/views/boost/details/boost-details.ts" timestamp="1557353026076">
+        <mark key="'" line="26" column="2" />
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="15" column="32" />
+        <mark key="^" line="15" column="32" />
+        <mark key="." line="15" column="32" />
+      </file>
       <file name="/code/sc/web/sc/app/plats/api/google.py" timestamp="1556790886197">
         <mark key="'" line="110" column="0" />
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="32" />
         <mark key="." line="119" column="0" />
         <mark key="^" line="118" column="27" />
-      </file>
-      <file name="/code/sc/web/cli/ones.py" timestamp="1557332730909">
-        <mark key="'" line="371" column="9" />
-        <mark key="[" line="408" column="0" />
-        <mark key="]" line="408" column="0" />
-        <mark key="." line="408" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1557336103059">
         <mark key="'" line="81" column="21" />
@@ -31,19 +32,35 @@
         <mark key="^" line="183" column="39" />
         <mark key="." line="179" column="0" />
       </file>
-      <file name="/code/sc/web/static/web/views/boost/details/boost-details.html" timestamp="1557348088755">
-        <mark key="[" line="19" column="39" />
-        <mark key="]" line="19" column="39" />
-        <mark key="." line="19" column="39" />
-        <mark key="^" line="19" column="11" />
+      <file name="/code/sc/web/static/web/components/chips/subs/subs-chips.html" timestamp="1557352690418">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="25" />
+        <mark key="^" line="6" column="25" />
       </file>
-      <file name="/code/sc/web/static/web/views/campaigns/details/campaign-details.html" timestamp="1557348056735" />
-      <file name="/code/sc/web/static/web/components/chips/subs-chips.ts" timestamp="1557348080642">
-        <mark key="'" line="43" column="13" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="7" column="2" />
-        <mark key="^" line="7" column="2" />
-        <mark key="." line="7" column="2" />
+      <file name="/code/sc/web/static/web/views/boost/details/boost-details.html" timestamp="1557352986812">
+        <mark key="[" line="25" column="23" />
+        <mark key="]" line="26" column="29" />
+        <mark key="." line="26" column="29" />
+        <mark key="^" line="26" column="29" />
+      </file>
+      <file name="/code/sc/web/static/web/views/campaigns/details/campaign-details.html" timestamp="1557352894911">
+        <mark key="[" line="101" column="20" />
+        <mark key="]" line="101" column="23" />
+        <mark key="." line="101" column="23" />
+        <mark key="^" line="101" column="23" />
+      </file>
+      <file name="/code/sc/web/static/web/components/chips/subs/subs-chips.ts" timestamp="1557352857653">
+        <mark key="[" line="4" column="40" />
+        <mark key="]" line="4" column="40" />
+        <mark key="." line="4" column="40" />
+      </file>
+      <file name="/code/sc/web/static/web/components/chips/subs-chips.ts" timestamp="1557352596111">
+        <mark key="'" line="46" column="13" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="51" column="23" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.py" timestamp="1556913579256">
         <mark key="'" line="32" column="0" />
@@ -75,11 +92,11 @@
         <mark key="^" line="174" column="37" />
         <mark key="." line="169" column="0" />
       </file>
-      <file name="/code/sc/web/sc/sql/platform/auth_loc/boost_loc.py" timestamp="1557350569326">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="32" column="60" />
+      <file name="/code/sc/web/sc/sql/platform/auth_loc/boost_loc.py" timestamp="1557352220545">
+        <mark key="[" line="31" column="8" />
+        <mark key="]" line="32" column="55" />
+        <mark key="." line="32" column="55" />
+        <mark key="^" line="32" column="55" />
       </file>
       <file name="/code/sc/web/sc/app/ads/api.py" timestamp="1557344094712" />
       <file name="/code/sc/web/sc/mods/web/views.py" timestamp="1556869568448">
@@ -89,6 +106,7 @@
         <mark key="." line="94" column="0" />
         <mark key="^" line="96" column="32" />
       </file>
+      <file name="/code/sc/web/sc/mods/web/rest/accounts/groups_view.py" timestamp="1557352792334" />
       <file name="/code/sc/web/sc/app/ads/campaigns.py" timestamp="1556979559817">
         <mark key="'" line="34" column="18" />
         <mark key="[" line="50" column="0" />
@@ -101,6 +119,9 @@
         <mark key="]" line="9" column="57" />
         <mark key="^" line="9" column="57" />
         <mark key="." line="9" column="57" />
+      </file>
+      <file name="/code/sc/web/static/web/components/chips/groups/group-chips.ts" timestamp="1557352699199">
+        <mark key="'" line="21" column="22" />
       </file>
       <file name="/code/trash/google-ads-python/google/ads/google_ads/v1/services/enums.py" timestamp="1557350403437" />
       <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/google/ads/google_ads/v1/__init__.py" timestamp="1557343731711">
@@ -120,12 +141,14 @@
         <mark key="]" line="60" column="63" />
         <mark key="." line="60" column="63" />
       </file>
+      <file name="/code/sc/web/sc/mods/web/rest/sub_specialties_view.py" timestamp="1557352805668">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="18" column="6" />
+        <mark key="." line="19" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="10" filename="/code/sc/web/sc/mods/web/rest/auths_view.py" />
-      <jump line="91" column="15" filename="/code/sc/web/static/web/views/settings/platforms/connect-platform/connect-platform.html" />
-      <jump line="23" column="13" filename="/code/sc/web/static/web/views/nav-toolbar/integrations/ads/customers/customers.dialog.html" />
-      <jump line="26" column="0" filename="/code/sc/web/static/web/views/nav-toolbar/integrations/integrations.html" />
       <jump line="91" column="0" filename="/code/sc/web/cli/ads.py" />
       <jump line="50" column="0" filename="/code/sc/web/sc/app/ads/api.py" />
       <jump line="115" column="0" filename="/code/sc/web/sc/app/ads/api.py" />
@@ -222,40 +245,44 @@
       <jump line="39" column="13" filename="/code/sc/web/static/web/components/chips/subs-chips.ts" />
       <jump line="175" column="38" filename="/code/sc/web/sc/sql/tables.py" />
       <jump line="11" column="0" filename="/code/sc/web/sc/sql/tables.py" />
+      <jump line="21" column="22" filename="/code/sc/web/static/web/components/chips/groups/group-chips.ts" />
+      <jump line="41" column="41" filename="/code/sc/web/static/web/components/chips/subs/subs-chips.ts" />
+      <jump line="63" column="39" filename="/code/sc/web/static/web/views/boost/details/boost-details.ts" />
+      <jump line="26" column="2" filename="/code/sc/web/static/web/views/boost/details/boost-details.ts" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICBydW5uaW5nID0gQ29sdW1uKEJvb2xlYW4sIG51bGxhYmxlPUZhbHNlLCBkZWZhdWx0PUZhbHNlKQo=</text>
+        <text encoding="base64">ICAnJwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBzdGF0dXMgPSBDb2x1bW4oRW51bSgpLCBkZWZhdWx0PSkK</text>
+      <register name="2" type="4">
+        <text encoding="base64">OiBgCiAgICA8ZGl2PgogICAgICA8bWQtY2hpcHMKICAgICAgICBuZy1tb2RlbD0iY3RybC5pdGVtcyIKICAgICAgICBuZy1yZXF1aXJlZD0iY3RybC5yZXF1aXJlZCIKICAgICAgICBtZC10cmFuc2Zvcm0tY2hpcD0iY3RybC5vbkNoaXAoJGNoaXApIgogICAgICAgIG1kLWFkZC1vbi1ibHVyCiAgICAgICAgbWQtYXV0b2NvbXBsZXRlLXNuYXAKICAgICAgICBtZC1zZXBhcmF0b3Ita2V5cz0iY3RybC5zZXBzIgogICAgICAgIG1kLWNoaXAtYXBwZW5kLWRlbGF5PSIwIgogICAgICAgIG1kLXJlcXVpcmUtbWF0Y2g9InRydWUiCiAgICAgID4KICAgICAgICA8bWQtYXV0b2NvbXBsZXRlCiAgICAgICAgICBtZC1pdGVtcz0iY2MgaW4gY3RybC5vbkF1dG8oY3RybC50ZXh0KSIKICAgICAgICAgIG1kLXNlYXJjaC10ZXh0PSJjdHJsLnRleHQiCiAgICAgICAgICBwbGFjZWhvbGRlcj0iU3ViIFNwZWNpYWx0aWVzIgogICAgICAgICAgbWQtYXV0b3NlbGVjdAogICAgICAgICAgbWQtc2VsZWN0LW9uLW1hdGNoCiAgICAgICAgICBtZC1tYXRjaC1jYXNlLWluc2Vuc2l0aXZlCiAgICAgICAgPgogICAgICAgICAgPG1kLWl0ZW0tdGVtcGxhdGU+CiAgICAgICAgICAgIDxzcGFuIG1kLWhpZ2hsaWdodC1mbGFncz0iZ2kiIG1kLWhpZ2hsaWdodC10ZXh0PSJjdHJsLnRleHQiPgogICAgICAgICAgICAgIHt7IGNjLmlkIH19CiAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgIDwvbWQtaXRlbS10ZW1wbGF0ZT4KICAgICAgICA8L21kLWF1dG9jb21wbGV0ZT4KICAgICAgICA8bWQtY2hpcC10ZW1wbGF0ZT57eyAkY2hpcC5pZCB9fTwvbWQtY2hpcC10ZW1wbGF0ZT4KICAgICAgPC9tZC1jaGlwcz4KICAgICAgPGRpdiBjbGFzcz0ibWQtY2FwdGlvbiBtdC04Ij5Vc2VkIGZvciB0cmFja2luZyBkaWZmZXJlbnQgbWVzc2FnZXM8L2Rpdj4KICAgIDwvZGl2PgogIGA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzdWJzOiBMaXN0WydzcWwuU3ViJ10gPSByZWxhdGlvbnNoaXAoJ1N1YicsIHNlY29uZGFyeT0nJywgYmFja3JlZj1iYWNrcmVmKCcnKSkK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgbmdPbkluaXQoKSB7CiAgICB0aGlzLnBsYWNlaG9sZGVyID0gdGhpcy5wbGFjZWhvbGRlciB8fCAnJwogIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBAZm9ybWF0dGVyOm9mZgo=</text>
+        <text encoding="base64">ICAgIHRoaXMudGV4dCA9ICcnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzcGVjID0gQ29sdW1uKFN0cmluZyhjb25zdC5jaGFyX2luZGV4X21heCksIG51bGxhYmxlPUZhbHNlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIG1kLWF1dG9mb2N1cz0iY3RybC5mb2N1cyIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBASW5wdXQoKSBpdGVtcyA9IFtdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBASW5wdXQoKSBwbGFjZWhvbGRlcjogc3RyaW5nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjbGllbnQgPSBhcGkuY2xpZW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//isit</text>
       </register>
       <register name="-" type="4">
-        <text>= 4</text>
+        <text>items</text>
       </register>
       <register name="/" type="4">
         <text>_is_or_is_not</text>
