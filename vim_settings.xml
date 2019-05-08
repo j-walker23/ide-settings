@@ -24,14 +24,6 @@
         <mark key="." line="111" column="22" />
         <mark key="^" line="111" column="22" />
       </file>
-      <file name="/code/sc/web/sc/app/ads/api.py" timestamp="1557344094712" />
-      <file name="/code/sc/web/sc/mods/web/views.py" timestamp="1556869568448">
-        <mark key="'" line="105" column="21" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
-        <mark key="^" line="96" column="32" />
-      </file>
       <file name="/code/sc/web/cli/ads.py" timestamp="1557344814857">
         <mark key="'" line="128" column="0" />
         <mark key="[" line="179" column="0" />
@@ -60,6 +52,7 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
+      <file name="/code/sc/web/sc/core/enums.py" timestamp="1557350281943" />
       <file name="/code/sc/web/sc/app/ads/crud.py" timestamp="1557346323168">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="1" column="23" />
@@ -68,13 +61,6 @@
         <mark key="^" line="2" column="0" />
       </file>
       <file name="/code/trash/google-ads-python/google/ads/google_ads/v1/services/ad_group_feed_service_client.py" timestamp="1557343633667" />
-      <file name="/code/sc/web/sc/app/ads/campaigns.py" timestamp="1556979559817">
-        <mark key="'" line="34" column="18" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="50" column="13" />
-      </file>
       <file name="/code/sc/web/sc/app/ads/feeds.py" timestamp="1557344151315">
         <mark key="'" line="103" column="9" />
         <mark key="[" line="157" column="48" />
@@ -82,6 +68,41 @@
         <mark key="." line="158" column="46" />
         <mark key="^" line="158" column="46" />
       </file>
+      <file name="/code/sc/web/sc/sql/tables.py" timestamp="1557349923735">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="169" column="0" />
+        <mark key="]" line="169" column="0" />
+        <mark key="^" line="174" column="37" />
+        <mark key="." line="169" column="0" />
+      </file>
+      <file name="/code/sc/web/sc/sql/platform/auth_loc/boost_loc.py" timestamp="1557350569326">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="32" column="60" />
+      </file>
+      <file name="/code/sc/web/sc/app/ads/api.py" timestamp="1557344094712" />
+      <file name="/code/sc/web/sc/mods/web/views.py" timestamp="1556869568448">
+        <mark key="'" line="105" column="21" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+        <mark key="^" line="96" column="32" />
+      </file>
+      <file name="/code/sc/web/sc/app/ads/campaigns.py" timestamp="1556979559817">
+        <mark key="'" line="34" column="18" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="50" column="13" />
+      </file>
+      <file name="/code/sc/web/sc/sql/platform/auth_loc/enums.py" timestamp="1557350464405">
+        <mark key="[" line="9" column="48" />
+        <mark key="]" line="9" column="57" />
+        <mark key="^" line="9" column="57" />
+        <mark key="." line="9" column="57" />
+      </file>
+      <file name="/code/trash/google-ads-python/google/ads/google_ads/v1/services/enums.py" timestamp="1557350403437" />
       <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/google/ads/google_ads/v1/__init__.py" timestamp="1557343731711">
         <mark key="[" line="260" column="32" />
         <mark key="]" line="260" column="30" />
@@ -94,10 +115,13 @@
         <mark key="^" line="10" column="11" />
         <mark key="." line="10" column="11" />
       </file>
+      <file name="/code/trash/google-ads-python/examples/basic_operations/get_artifact_metadata.py" timestamp="1557350177497">
+        <mark key="[" line="60" column="63" />
+        <mark key="]" line="60" column="63" />
+        <mark key="." line="60" column="63" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="27" filename="/code/sc/web/sc/app/ads/api.py" />
-      <jump line="42" column="17" filename="/code/sc/web/sc/sql/__init__.py" />
       <jump line="42" column="10" filename="/code/sc/web/sc/mods/web/rest/auths_view.py" />
       <jump line="91" column="15" filename="/code/sc/web/static/web/views/settings/platforms/connect-platform/connect-platform.html" />
       <jump line="23" column="13" filename="/code/sc/web/static/web/views/nav-toolbar/integrations/ads/customers/customers.dialog.html" />
@@ -196,40 +220,42 @@
       <jump line="20" column="0" filename="/code/sc/web/sc/app/ads/feeds.py" />
       <jump line="102" column="9" filename="/code/sc/web/sc/app/ads/feeds.py" />
       <jump line="39" column="13" filename="/code/sc/web/static/web/components/chips/subs-chips.ts" />
+      <jump line="175" column="38" filename="/code/sc/web/sc/sql/tables.py" />
+      <jump line="11" column="0" filename="/code/sc/web/sc/sql/tables.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBydW5uaW5nID0gQ29sdW1uKEJvb2xlYW4sIG51bGxhYmxlPUZhbHNlLCBkZWZhdWx0PUZhbHNlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBzdGF0dXMgPSBDb2x1bW4oRW51bSgpLCBkZWZhdWx0PSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjbGllbnQgPSBhcGkuY2xpZW50Cg==</text>
+        <text encoding="base64">ICBzdWJzOiBMaXN0WydzcWwuU3ViJ10gPSByZWxhdGlvbnNoaXAoJ1N1YicsIHNlY29uZGFyeT0nJywgYmFja3JlZj1iYWNrcmVmKCcnKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhcGkuc2VydmljZSgnQ2FtcGFpZ25GZWVkU2VydmljZScpLm11dGF0ZV9jYW1wYWlnbnMoY2lkLCBbb3BdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBvcC5yZW1vdmUgPSAiY3VzdG9tZXJzLy9jYW1wYWlnbnMvMTg1NzQ1NjY3MyIK</text>
+        <text encoding="base64">IyBAZm9ybWF0dGVyOm9mZgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAKICBjYW1wX2ZlZWQgPSBmZWVkcy5maW5kX2NhbXBfZmVlZChmZWVkLCBjYW1wYWlnbikK</text>
+        <text encoding="base64">ICBzcGVjID0gQ29sdW1uKFN0cmluZyhjb25zdC5jaGFyX2luZGV4X21heCksIG51bGxhYmxlPUZhbHNlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlcyA9IGxpc3QoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpZCA9IGZlZWQucmVzb3VyY2VfbmFtZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNlcnZpY2UubXV0YXRlX2FkX2dyb3VwX2ZlZWRzKCkK</text>
+        <text encoding="base64">ICBjbGllbnQgPSBhcGkuY2xpZW50Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//isit</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>= 4</text>
       </register>
       <register name="/" type="4">
         <text>_is_or_is_not</text>

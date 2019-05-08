@@ -140,7 +140,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="dbe" value="$p$ = Column(Enum($clas$), default=$clas$$END$)" description="db.Enum" toReformat="true" toShortenFQNames="true">
+  <template name="dbe" value="$p$ = Column(EnumType($clas$), default=$clas$$END$)" description="db.Enum" toReformat="true" toShortenFQNames="true">
     <variable name="p" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="clas" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
