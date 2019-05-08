@@ -39,6 +39,20 @@
         <mark key="^" line="183" column="39" />
         <mark key="." line="179" column="0" />
       </file>
+      <file name="/code/sc/web/static/web/views/boost/details/boost-details.html" timestamp="1557348088755">
+        <mark key="[" line="19" column="39" />
+        <mark key="]" line="19" column="39" />
+        <mark key="." line="19" column="39" />
+        <mark key="^" line="19" column="11" />
+      </file>
+      <file name="/code/sc/web/static/web/views/campaigns/details/campaign-details.html" timestamp="1557348056735" />
+      <file name="/code/sc/web/static/web/components/chips/subs-chips.ts" timestamp="1557348080642">
+        <mark key="'" line="43" column="13" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="7" column="2" />
+        <mark key="^" line="7" column="2" />
+        <mark key="." line="7" column="2" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.py" timestamp="1556913579256">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="3" column="25" />
@@ -82,7 +96,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="8" filename="/code/sc/web/cli/ads.py" />
       <jump line="109" column="27" filename="/code/sc/web/sc/app/ads/api.py" />
       <jump line="42" column="17" filename="/code/sc/web/sc/sql/__init__.py" />
       <jump line="42" column="10" filename="/code/sc/web/sc/mods/web/rest/auths_view.py" />
@@ -182,40 +195,41 @@
       <jump line="125" column="6" filename="/code/sc/web/sc/app/ads/feeds.py" />
       <jump line="20" column="0" filename="/code/sc/web/sc/app/ads/feeds.py" />
       <jump line="102" column="9" filename="/code/sc/web/sc/app/ads/feeds.py" />
+      <jump line="39" column="13" filename="/code/sc/web/static/web/components/chips/subs-chips.ts" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICBjbGllbnQgPSBhcGkuY2xpZW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhcGkuc2VydmljZSgnQ2FtcGFpZ25GZWVkU2VydmljZScpLm11dGF0ZV9jYW1wYWlnbnMoY2lkLCBbb3BdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBvcC5yZW1vdmUgPSAiY3VzdG9tZXJzLy9jYW1wYWlnbnMvMTg1NzQ1NjY3MyIK</text>
+        <text encoding="base64">ICBjbGllbnQgPSBhcGkuY2xpZW50Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAKICBjYW1wX2ZlZWQgPSBmZWVkcy5maW5kX2NhbXBfZmVlZChmZWVkLCBjYW1wYWlnbikK</text>
+        <text encoding="base64">ICBhcGkuc2VydmljZSgnQ2FtcGFpZ25GZWVkU2VydmljZScpLm11dGF0ZV9jYW1wYWlnbnMoY2lkLCBbb3BdKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlcyA9IGxpc3QoKQo=</text>
+        <text encoding="base64">ICBvcC5yZW1vdmUgPSAiY3VzdG9tZXJzLy9jYW1wYWlnbnMvMTg1NzQ1NjY3MyIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZpZCA9IGZlZWQucmVzb3VyY2VfbmFtZQo=</text>
+        <text encoding="base64">ICAKICBjYW1wX2ZlZWQgPSBmZWVkcy5maW5kX2NhbXBfZmVlZChmZWVkLCBjYW1wYWlnbikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlcnZpY2UubXV0YXRlX2FkX2dyb3VwX2ZlZWRzKCkK</text>
+        <text encoding="base64">ICAgIHJlcyA9IGxpc3QoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNlcnZpY2U6IEFkR3JvdXBGZWVkU2VydmljZUNsaWVudCA9IGFwaS5zZXJ2aWNlKCdBZEdyb3VwRmVlZFNlcnZpY2UnKQogICAgc2VydmljZS5kZAo=</text>
+        <text encoding="base64">ICAgIGZpZCA9IGZlZWQucmVzb3VyY2VfbmFtZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGFwcF9jdHgoMjA3KQo=</text>
+        <text encoding="base64">ICAgIHNlcnZpY2UubXV0YXRlX2FkX2dyb3VwX2ZlZWRzKCkK</text>
       </register>
       <register name=":" type="4">
         <text>%s//isit</text>
       </register>
       <register name="-" type="4">
-        <text>4317661474</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>_is_or_is_not</text>
