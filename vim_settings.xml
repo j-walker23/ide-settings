@@ -3,6 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/code/sc/web/static/common/utils.ts" timestamp="1557397386277">
+        <mark key="'" line="240" column="0" />
+        <mark key="[" line="636" column="37" />
+        <mark key="]" line="636" column="54" />
+        <mark key="^" line="636" column="54" />
+        <mark key="." line="636" column="54" />
+      </file>
+      <file name="/code/sc/web/static/common/components/places-autocomplete/v2/places-auto.ts" timestamp="1557397699030">
+        <mark key="[" line="32" column="14" />
+        <mark key="]" line="32" column="13" />
+        <mark key="." line="32" column="13" />
+        <mark key="^" line="32" column="13" />
+      </file>
       <file name="/code/sc/web/static/web/views/boost/details/boost-details.ts" timestamp="1557391539410">
         <mark key="'" line="79" column="0" />
         <mark key="[" line="16" column="33" />
@@ -10,11 +23,11 @@
         <mark key="^" line="16" column="54" />
         <mark key="." line="16" column="54" />
       </file>
-      <file name="/code/sc/web/static/common/components/static-chips/static-chips.sass" timestamp="1557391753038">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="7" column="19" />
-        <mark key="." line="4" column="0" />
+      <file name="/code/sc/web/static/common/components/static-chips/static-chips.sass" timestamp="1557396423368">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="17" />
+        <mark key="^" line="3" column="18" />
+        <mark key="." line="3" column="17" />
       </file>
       <file name="/code/sc/web/sc/app/plats/api/google.py" timestamp="1556790886197">
         <mark key="'" line="110" column="0" />
@@ -38,6 +51,12 @@
         <mark key="." line="111" column="22" />
         <mark key="^" line="111" column="22" />
       </file>
+      <file name="/code/sc/web/static/common/components/places-autocomplete/v2/places-auto.html" timestamp="1557397714957">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+      </file>
       <file name="/code/sc/web/sc/mods/web/views.py" timestamp="1556869568448">
         <mark key="'" line="105" column="21" />
         <mark key="[" line="94" column="0" />
@@ -45,6 +64,7 @@
         <mark key="." line="94" column="0" />
         <mark key="^" line="96" column="32" />
       </file>
+      <file name="/code/sc/web/static/web/views/surveys/details/question/question.ts" timestamp="1557397645750" />
       <file name="/code/sc/web/cli/ads.py" timestamp="1557344814857">
         <mark key="'" line="128" column="0" />
         <mark key="[" line="179" column="0" />
@@ -52,12 +72,12 @@
         <mark key="^" line="183" column="39" />
         <mark key="." line="179" column="0" />
       </file>
-      <file name="/code/sc/web/static/common/components/places-autocomplete/places-autocomplete.ts" timestamp="1557373522665">
-        <mark key="'" line="29" column="13" />
-        <mark key="[" line="77" column="40" />
-        <mark key="]" line="77" column="49" />
-        <mark key="." line="77" column="49" />
-        <mark key="^" line="77" column="49" />
+      <file name="/code/sc/web/static/common/components/places-autocomplete/places-autocomplete.ts" timestamp="1557397185614">
+        <mark key="'" line="79" column="4" />
+        <mark key="[" line="27" column="31" />
+        <mark key="]" line="27" column="44" />
+        <mark key="." line="27" column="44" />
+        <mark key="^" line="27" column="44" />
       </file>
       <file name="/code/sc/web/static/web/components/chips/subs/subs-chips.html" timestamp="1557352690418">
         <mark key="[" line="6" column="22" />
@@ -89,22 +109,17 @@
       <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1557359530745">
         <mark key="'" line="27" column="12" />
       </file>
-      <file name="/code/sc/web/static/web/views/boost/details/boost-details.html" timestamp="1557391556902">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="22" column="51" />
-        <mark key="." line="23" column="0" />
+      <file name="/code/sc/web/static/web/views/boost/details/boost-details.html" timestamp="1557396577687">
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="20" column="20" />
+        <mark key="^" line="20" column="20" />
+        <mark key="." line="20" column="20" />
       </file>
       <file name="/code/sc/web/static/web/views/campaigns/details/campaign-details.html" timestamp="1557352894911">
         <mark key="[" line="101" column="20" />
         <mark key="]" line="101" column="23" />
         <mark key="." line="101" column="23" />
         <mark key="^" line="101" column="23" />
-      </file>
-      <file name="/code/sc/web/static/web/components/chips/subs/subs-chips.ts" timestamp="1557352857653">
-        <mark key="[" line="4" column="40" />
-        <mark key="]" line="4" column="40" />
-        <mark key="." line="4" column="40" />
       </file>
       <file name="/code/sc/web/sc/mods/offline/__init__.py" timestamp="1557360337060">
         <mark key="[" line="8" column="57" />
@@ -159,6 +174,7 @@
         <mark key="." line="158" column="46" />
         <mark key="^" line="158" column="46" />
       </file>
+      <file name="/code/sc/web/static/web/views/surveys/details/question/qu-uniq.directive.ts" timestamp="1557396755823" />
       <file name="/code/sc/web/static/web/components/chips/groups/group-chips.ts" timestamp="1557352699199">
         <mark key="'" line="21" column="22" />
       </file>
@@ -167,6 +183,9 @@
         <mark key="]" line="260" column="30" />
         <mark key="." line="260" column="30" />
         <mark key="^" line="260" column="30" />
+      </file>
+      <file name="/code/sc/web/node_modules/@types/googlemaps/index.d.ts" timestamp="1557397381944">
+        <mark key="'" line="2631" column="21" />
       </file>
       <file name="/code/sc/web/sc/sql/tables.py" timestamp="1557349923735">
         <mark key="'" line="11" column="0" />
@@ -187,11 +206,6 @@
         <mark key="." line="32" column="55" />
         <mark key="^" line="32" column="55" />
       </file>
-      <file name="/code/trash/google-ads-python/examples/basic_operations/get_artifact_metadata.py" timestamp="1557350177497">
-        <mark key="[" line="60" column="63" />
-        <mark key="]" line="60" column="63" />
-        <mark key="." line="60" column="63" />
-      </file>
       <file name="/code/sc/web/instance/env.txt" timestamp="1557360707761">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -206,16 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="7" filename="/code/sc/web/migrations/versions/9b838926727b__80.py" />
-      <jump line="41" column="35" filename="/code/sc/web/migrations/versions/7d043f909427__132.py" />
-      <jump line="7" column="36" filename="/code/sc/web/migrations/versions/7d043f909427__132.py" />
-      <jump line="0" column="0" filename="/code/sc/web/.travis.yml" />
-      <jump line="32" column="0" filename="/code/sc/web/cli/hj.py" />
-      <jump line="226" column="2" filename="/code/sc/web/cli/hj.py" />
-      <jump line="0" column="0" filename="/code/sc/web/cli/auths.py" />
-      <jump line="298" column="2" filename="/code/sc/web/cli/auths.py" />
-      <jump line="30" column="5" filename="/code/sc/web/cli/ads.py" />
-      <jump line="130" column="4" filename="/code/sc/web/cli/ads.py" />
       <jump line="79" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
       <jump line="32" column="29" filename="/code/sc/web/sc/app/ads/customers.py" />
       <jump line="53" column="0" filename="/code/sc/web/instance/local/develop_settings.py" />
@@ -306,40 +310,50 @@
       <jump line="28" column="13" filename="/code/sc/web/static/common/components/places-autocomplete/places-autocomplete.ts" />
       <jump line="46" column="1" filename="/code/sc/web/static/common/components/static-chips/static-chips.ts" />
       <jump line="78" column="0" filename="/code/sc/web/static/web/views/boost/details/boost-details.ts" />
+      <jump line="108" column="10" filename="/code/sc/web/static/common/components/places-autocomplete/places-autocomplete.ts" />
+      <jump line="79" column="4" filename="/code/sc/web/static/common/components/places-autocomplete/places-autocomplete.ts" />
+      <jump line="128" column="1" filename="/code/sc/web/static/common/components/places-autocomplete/v2/places-auto.ts" />
+      <jump line="8" column="18" filename="/code/sc/web/static/common/components/places-autocomplete/v2/places-auto.ts" />
+      <jump line="67" column="22" filename="/code/sc/web/static/common/components/places-autocomplete/v2/places-auto.ts" />
+      <jump line="2631" column="21" filename="/code/sc/web/node_modules/@types/googlemaps/index.d.ts" />
+      <jump line="55" column="17" filename="/code/sc/web/static/common/components/places-autocomplete/v2/places-auto.ts" />
+      <jump line="239" column="0" filename="/code/sc/web/static/common/utils.ts" />
+      <jump line="20" column="28" filename="/code/sc/web/static/common/components/places-autocomplete/v2/places-auto.ts" />
+      <jump line="28" column="13" filename="/code/sc/web/static/common/components/places-autocomplete/v2/places-auto.ts" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogMTZweAo=</text>
+        <text encoding="base64">ICBASW5wdXQoKSBtb2RlbDogYW55Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1yYWRpdXM6IDhweAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6IGJsb2NrCg==</text>
+        <text encoding="base64">ICBtb2RlbDogSU5nTW9kZWxDb250cm9sbGVyCiAgbmdGb3JtQ3RybDogSUZvcm1Db250cm9sbGVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxtZC1jaGlwcyBuZy1tb2RlbD0iY3RybC5ib28uemlwcyI+CiAgICAgICAgICAgICAgICA8L21kLWNoaXBzPgo=</text>
+        <text encoding="base64">ICAgIGxldCBjb21wb25lbnRGb3JtID0gewogICAgICBzdHJlZXRfbnVtYmVyOiAnc2hvcnRfbmFtZScsCiAgICAgIHJvdXRlOiAnbG9uZ19uYW1lJywKICAgICAgbG9jYWxpdHk6ICdsb25nX25hbWUnLAogICAgICBhZG1pbmlzdHJhdGl2ZV9hcmVhX2xldmVsXzE6ICdzaG9ydF9uYW1lJywKICAgICAgY291bnRyeTogJ2xvbmdfbmFtZScsCiAgICAgIHBvc3RhbF9jb2RlOiAnc2hvcnRfbmFtZScsCiAgICB9CiAgICBsZXQgbWFwcGluZyA9IHsKICAgICAgc3RyZWV0X251bWJlcjogJ251bWJlcicsCiAgICAgIHJvdXRlOiAnc3RyZWV0JywKICAgICAgbG9jYWxpdHk6ICdjaXR5JywKICAgICAgYWRtaW5pc3RyYXRpdmVfYXJlYV9sZXZlbF8xOiAnc3RhdGUnLAogICAgICBjb3VudHJ5OiAnY291bnRyeScsCiAgICAgIHBvc3RhbF9jb2RlOiAncG9zdGFsJywKICAgIH0KCiAgICBsZXQgZWxtID0gdGhpcy5lbG0KICAgIGxldCBlbGVtZW50ID0gZWxtLmZpbmQoJy5nLXBsYWNlJykKICAgIHRoaXMuY3VycmVudCA9IG5nLmNvcHkodGhpcy5tb2RlbCkKICAgIGlmICh0aGlzLm1vZGVsKSB7CiAgICAgIHRoaXMuZm9ybWF0dGVkID0gdGhpcy5tb2RlbC5mb3JtYXR0ZWQKICAgIH0KCiAgICBsZXQgdHlwZXMgPSB0aGlzLnR5cGVzCgogICAgbGV0IG9wdGlvbnM6IEF1dG9jb21wbGV0ZU9wdGlvbnMgPSB7CiAgICAgIHR5cGVzLAogICAgICBmaWVsZHM6IFsnYWRkcmVzc19jb21wb25lbnRzJywgJ2dlb21ldHJ5JywgJ2ljb24nLCAnbmFtZSddLAogICAgICBjb21wb25lbnRSZXN0cmljdGlvbnM6IHsgY291bnRyeTogWydlbicsICdjYSddIH0sCiAgICB9CgogICAgbGV0IGdQbGFjZSA9IG5ldyBnb29nbGUubWFwcy5wbGFjZXMuQXV0b2NvbXBsZXRlKGVsZW1lbnRbMF0sIG9wdGlvbnMpCgoKICAgIGdvb2dsZS5tYXBzLmV2ZW50LmFkZERvbUxpc3RlbmVyKAogICAgICBlbGVtZW50WzBdLAogICAgICAna2V5ZG93bicsCiAgICAgIGUgPT4gZS5rZXlDb2RlID09IDEzICYmIGUucHJldmVudERlZmF1bHQoKSwKICAgICkKCiAgICBnb29nbGUubWFwcy5ldmVudC5hZGRMaXN0ZW5lcihnUGxhY2UsICdwbGFjZV9jaGFuZ2VkJywgKCkgPT4gewogICAgICBsZXQgcGxhY2UgPSBnUGxhY2UuZ2V0UGxhY2UoKQogICAgICBsZXQgZGV0YWlsczogYW55ID0KICAgICAgICBwbGFjZS5nZW9tZXRyeSAmJiBwbGFjZS5nZW9tZXRyeS5sb2NhdGlvbgogICAgICAgICAgPyB7CiAgICAgICAgICAgIGdlbzogewogICAgICAgICAgICAgIGxhdDogcGxhY2UuZ2VvbWV0cnkubG9jYXRpb24ubGF0KCksCiAgICAgICAgICAgICAgbG5nOiBwbGFjZS5nZW9tZXRyeS5sb2NhdGlvbi5sbmcoKSwKICAgICAgICAgICAgfSwKICAgICAgICAgIH0KICAgICAgICAgIDoge30KICAgICAgLy8gR2V0IGVhY2ggY29tcG9uZW50IG9mIHRoZSBhZGRyZXNzIGZyb20gdGhlIHBsYWNlIGRldGFpbHMKICAgICAgLy8gYW5kIGZpbGwgdGhlIGNvcnJlc3BvbmRpbmcgZmllbGQgb24gdGhlIGZvcm0uCiAgICAgIGlmIChwbGFjZS5hZGRyZXNzX2NvbXBvbmVudHMpCiAgICAgICAgZm9yIChsZXQgaSA9IDA7IGkgPCBwbGFjZS5hZGRyZXNzX2NvbXBvbmVudHMubGVuZ3RoOyBpKyspIHsKICAgICAgICAgIGxldCBhZGRyZXNzVHlwZSA9IHBsYWNlLmFkZHJlc3NfY29tcG9uZW50c1tpXS50eXBlc1swXQogICAgICAgICAgaWYgKGNvbXBvbmVudEZvcm1bYWRkcmVzc1R5cGVdKSB7CiAgICAgICAgICAgIGxldCB2YWwgPSBwbGFjZS5hZGRyZXNzX2NvbXBvbmVudHNbaV1bY29tcG9uZW50Rm9ybVthZGRyZXNzVHlwZV1dCiAgICAgICAgICAgIGRldGFpbHNbbWFwcGluZ1thZGRyZXNzVHlwZV1dID0gdmFsCiAgICAgICAgICB9CiAgICAgICAgfQogICAgICBkZXRhaWxzLmZvcm1hdHRlZF9hZGRyZXNzID0gcGxhY2UuZm9ybWF0dGVkX2FkZHJlc3MKICAgICAgZGV0YWlscy5wbGFjZV9pZCA9IHBsYWNlLnBsYWNlX2lkCgogICAgICBsZXQgeyBudW1iZXIgPSAnJywgc3RyZWV0ID0gJycsIGZvcm1hdHRlZF9hZGRyZXNzID0gJycgfSA9IGRldGFpbHMKCiAgICAgIGlmIChudW1iZXIgJiYgc3RyZWV0KSB7CiAgICAgICAgaWYgKCFzdHJlZXQuc3RhcnRzV2l0aChudW1iZXIpKSBzdHJlZXQgPSBgJHtudW1iZXJ9ICR7c3RyZWV0fWAKICAgICAgICBpZiAoIWZvcm1hdHRlZF9hZGRyZXNzLnN0YXJ0c1dpdGgobnVtYmVyKSkKICAgICAgICAgIGZvcm1hdHRlZF9hZGRyZXNzID0gYCR7bnVtYmVyfSAke2Zvcm1hdHRlZF9hZGRyZXNzfWAKICAgICAgfQoKICAgICAgZGV0YWlscy5zdHJlZXQgPSBzdHJlZXQKICAgICAgZGV0YWlscy5mb3JtYXR0ZWRfYWRkcmVzcyA9IGZvcm1hdHRlZF9hZGRyZXNzCiAgICAgIHRoaXMuY2hhbmdlLm5leHQoZGV0YWlscykKICAgICAgcmV0dXJuIGZhbHNlCiAgICB9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxtZC1jaGlwcyBuZy1tb2RlbD0iY3RybC5ib28uemlwcyI+Cg==</text>
+        <text encoding="base64">aW1wb3J0IEF1dG9jb21wbGV0ZU9wdGlvbnMgZnJvbSAnZ29vZ2xlLm1hcHMucGxhY2VzLkF1dG9jb21wbGV0ZU9wdGlvbnMnCg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgZ2V0IGhpZGVTdGFycygpIHsKICAgIGlmICh0aGlzLnIpIHJldHVybiB0aGlzLm5vU3Rhck9yaWdpbnMuaW5jbHVkZXModGhpcy5yLm9yaWdpbikKICB9CgogIGdldCByZXZSYXRpbmcoKSB7CiAgICBpZiAodGhpcy5yYXRpbmcpIHJldHVybiB0aGlzLnJhdGluZwogICAgaWYgKHRoaXMucikgewogICAgICByZXR1cm4gdGhpcy5yLnJhdGluZwogICAgfQogIH0KCiAgZ2V0IGlzQmx1ZSgpIHsKICAgIGlmICh0aGlzLmJsdWUpIHJldHVybiB0cnVlCiAgICBpZiAodGhpcy5yKQogICAgICByZXR1cm4gKAogICAgICAgIHRoaXMuYmx1ZXMuaW5jbHVkZXModGhpcy5yLm9yaWdpbikgfHwKICAgICAgICB0aGlzLnIucGxhdGZvcm0ua2luZCA9PSBSZXZpZXdPcmlnaW4ucHJpdmF0ZV8KICAgICAgKQogIH0=</text>
+        <text encoding="base64">YAogICAgPGZvcm0gbmFtZT0ic3ViIj4KICAgICAgPG1kLWlucHV0LWNvbnRhaW5lciBjbGFzcz0ibWQtYmxvY2siPgogICAgICAgIDxsYWJlbD57e2N0cmwuaG9sZGVyfX08L2xhYmVsPgogICAgICAgIDxpbnB1dAogICAgICAgICAgY2xhc3M9ImctcGxhY2UiCiAgICAgICAgICBwbGFjZWhvbGRlcj0iIgogICAgICAgICAgdHlwZT0idGV4dCIKICAgICAgICAgIG5hbWU9InBsYWNlcyIKICAgICAgICAgIG5nLW1vZGVsPSJjdHJsLmZvcm1hdHRlZCIKICAgICAgICAvPgogICAgICAgIDxkaXYgbmctbWVzc2FnZXM9InN1Yi5wbGFjZXMuJGVycm9yIiByb2xlPSJhbGVydCI+CiAgICAgICAgICA8ZGl2IG5nLW1lc3NhZ2U9ImFkZHJlc3MiPkFkZHJlc3MgbXVzdCBiZSB1bmlxdWU8L2Rpdj4KICAgICAgICAgIDxkaXYgbmctbWVzc2FnZT0icmVxdWlyZWQiPlJlcXVpcmVkPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBjbGFzcz0iaW5wdXQtaGludCIgbmctdHJhbnNjbHVkZT4KICAgICAgICAgIE11c3Qgc2VsZWN0IGFuIG9wdGlvbiBmcm9tIHRoZSBkcm9wZG93biB0byBiZSB2YWxpZAogICAgICAgIDwvZGl2PgogICAgICA8L21kLWlucHV0LWNvbnRhaW5lcj4KICAgIDwvZm9ybT4KICBg</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBASW5wdXQoKSBibHVlOiBib29sZWFuCiAgQElucHV0KCkgcjogUmV2aWV3Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgbmcgZnJvbSAnYW5ndWxhcicK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBub1N0YXJPcmlnaW5zID0gW1Jldmlld09yaWdpbi5zbXNdCiAgYmx1ZXMgPSBbUmV2aWV3T3JpZ2luLnByaXZhdGVfLCBSZXZpZXdPcmlnaW4uc3VydmV5XQoK</text>
+        <text encoding="base64">Ly8vIDxyZWZlcmVuY2UgdHlwZXM9Imdvb2dsZW1hcHMiIC8+Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIDxzcGFuCiAgICAgIGNsYXNzPSJzdGFycyIKICAgICAgbmctY2xhc3M9IntpbnZpc2libGU6IGN0cmwuaGlkZVN0YXJzLCBibHVlczogY3RybC5pc0JsdWV9IgogICAgPgogICAgICA8c3BhbiBuZy1jbGFzcz0ieyB5ZWxsb3dzdGFyOiBjdHJsLnJldlJhdGluZyA+PSAxfSI+4piFPC9zcGFuPgogICAgICA8c3BhbiBuZy1jbGFzcz0ieyB5ZWxsb3dzdGFyOiBjdHJsLnJldlJhdGluZyA+PSAyfSI+4piFPC9zcGFuPgogICAgICA8c3BhbiBuZy1jbGFzcz0ieyB5ZWxsb3dzdGFyOiBjdHJsLnJldlJhdGluZyA+PSAzfSI+4piFPC9zcGFuPgogICAgICA8c3BhbiBuZy1jbGFzcz0ieyB5ZWxsb3dzdGFyOiBjdHJsLnJldlJhdGluZyA+PSA0fSI+4piFPC9zcGFuPgogICAgICA8c3BhbiBuZy1jbGFzcz0ieyB5ZWxsb3dzdGFyOiBjdHJsLnJldlJhdGluZyA+PSA1fSI+4piFPC9zcGFuPgogICAgPC9zcGFuPg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//isit</text>
       </register>
       <register name="-" type="4">
-        <text>0 6px</text>
+        <text>class=&quot;g-place&quot;</text>
       </register>
       <register name="/" type="4">
         <text>_is_or_is_not</text>
