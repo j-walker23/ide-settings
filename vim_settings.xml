@@ -27,12 +27,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/code/sc/web/cli/ones.py" timestamp="1557452643893">
-        <mark key="'" line="408" column="15" />
-        <mark key="[" line="399" column="16" />
-        <mark key="]" line="399" column="56" />
-        <mark key="." line="399" column="56" />
-        <mark key="^" line="399" column="56" />
+      <file name="/code/sc/web/cli/ones.py" timestamp="1557508725834">
+        <mark key="'" line="362" column="0" />
+        <mark key="[" line="409" column="8" />
+        <mark key="]" line="410" column="1" />
+        <mark key="." line="410" column="1" />
+        <mark key="^" line="410" column="1" />
       </file>
       <file name="/code/sc/web/sc/sql/account/__init__.py" timestamp="1557503886102">
         <mark key="[" line="63" column="2" />
@@ -40,7 +40,7 @@
         <mark key="^" line="63" column="8" />
         <mark key="." line="63" column="8" />
       </file>
-      <file name="/code/sc/web/sc/app/ads/adgroups.py" timestamp="1557504607731">
+      <file name="/code/sc/web/sc/app/ads/adgroups.py" timestamp="1557508654770">
         <mark key="'" line="41" column="25" />
         <mark key="[" line="76" column="32" />
         <mark key="]" line="76" column="31" />
@@ -85,6 +85,18 @@
         <mark key="]" line="2" column="15" />
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="15" />
+      </file>
+      <file name="/code/sc/web/sc/sql/platform/auth_loc/__init__.py" timestamp="1557508780910">
+        <mark key="[" line="53" column="5" />
+        <mark key="]" line="53" column="4" />
+        <mark key="^" line="53" column="4" />
+        <mark key="." line="53" column="4" />
+      </file>
+      <file name="/code/sc/web/sc/sql/location/platform.py" timestamp="1557508768906">
+        <mark key="[" line="45" column="2" />
+        <mark key="]" line="45" column="4" />
+        <mark key="^" line="45" column="4" />
+        <mark key="." line="45" column="4" />
       </file>
       <file name="/code/sc/web/static/web/views/boost/details/boost-details.html" timestamp="1557444900748">
         <mark key="[" line="45" column="78" />
@@ -140,7 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="27" filename="/code/sc/web/sc/app/ads/feeds.py" />
       <jump line="44" column="0" filename="/code/sc/web/sc/app/ads/feeds.py" />
       <jump line="31" column="45" filename="/code/sc/web/sc/app/ads/feeds.py" />
       <jump line="122" column="0" filename="/code/sc/web/cli/ads.py" />
@@ -240,6 +251,7 @@
       <jump line="72" column="11" filename="/code/sc/web/static/common/components/places-autocomplete/v2/places-auto.ts" />
       <jump line="41" column="25" filename="/code/sc/web/sc/app/ads/adgroups.py" />
       <jump line="48" column="0" filename="/code/sc/web/sc/app/ads/crud.py" />
+      <jump line="362" column="0" filename="/code/sc/web/cli/ones.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -273,7 +285,7 @@
         <text>%s//isit</text>
       </register>
       <register name="-" type="4">
-        <text>boost.</text>
+        <text>_id</text>
       </register>
       <register name="/" type="4">
         <text>_is_or_is_not</text>
