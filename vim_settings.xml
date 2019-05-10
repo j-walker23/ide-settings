@@ -30,12 +30,12 @@
         <mark key="." line="101" column="16" />
         <mark key="^" line="101" column="16" />
       </file>
-      <file name="/code/sc/web/cli/ads.py" timestamp="1557450020228">
-        <mark key="'" line="254" column="8" />
-        <mark key="[" line="269" column="17" />
-        <mark key="]" line="240" column="17" />
-        <mark key="." line="240" column="17" />
-        <mark key="^" line="240" column="17" />
+      <file name="/code/sc/web/cli/ads.py" timestamp="1557451361094">
+        <mark key="'" line="252" column="8" />
+        <mark key="[" line="254" column="7" />
+        <mark key="]" line="254" column="6" />
+        <mark key="." line="254" column="6" />
+        <mark key="^" line="254" column="6" />
       </file>
       <file name="/code/sc/web/static/web/components/chips/subs/subs-chips.html" timestamp="1557423724755">
         <mark key="[" line="3" column="24" />
@@ -112,8 +112,8 @@
       <file name="/Dummy.txt" timestamp="1557434107181">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/google/ads/google_ads/v1/services/enums.py" timestamp="1557439753659" />
-      <file name="/code/sc/web/sc/app/ads/campaigns.py" timestamp="1557449958490">
+      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/google/ads/google_ads/v1/services/enums.py" timestamp="1557450613094" />
+      <file name="/code/sc/web/sc/app/ads/campaigns.py" timestamp="1557450981035">
         <mark key="[" line="35" column="30" />
         <mark key="]" line="35" column="37" />
         <mark key="^" line="35" column="37" />
@@ -233,37 +233,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZlZWRfaWQgPSAnOTQ5Mjc5MDEnCg==</text>
+        <text encoding="base64">QGFyZ3VtZW50KCduYW1lJykKQGFyZ3VtZW50KCdpZGQnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhcGkgPSBBZEFwaSgpCg==</text>
+        <text encoding="base64">ICAgIGZlZWRfaWQgPSAnOTQ5Mjc5MDEnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNpZCA9IGdldF9hY2MoKS5hZHNfaWQK</text>
+        <text encoding="base64">ICBhcGkgPSBBZEFwaSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbG9nLmluZm8oZidHZW8gVGFyZ2V0IFN1Z2dlc3Rpb24nLCApCg==</text>
+        <text encoding="base64">ICAgIGNpZCA9IGdldF9hY2MoKS5hZHNfaWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgbG9nLmluZm8oZidHZW8gVGFyZ2V0IFN1Z2dlc3Rpb24nLCApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgR29vZ2xlIFNlYXJjaAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgUmVjb21tZW5kYXRpb246IFNldCB0aGUgY2FtcGFpZ24gdG8gUEFVU0VEIHdoZW4gY3JlYXRpbmcgaXQgdG8gcHJldmVudAogICAgIyB0aGUgYWRzIGZyb20gaW1tZWRpYXRlbHkgc2VydmluZy4gU2V0IHRvIEVOQUJMRUQgb25jZSB5b3UndmUgYWRkZWQKICAgICMgdGFyZ2V0aW5nIGFuZCB0aGUgYWRzIGFyZSByZWFkeSB0byBzZXJ2ZS4K</text>
+        <text encoding="base64">ICAgICMgR29vZ2xlIFNlYXJjaAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmZWVkLmlkID0gPGZlZWQgaWQ+Cg==</text>
+        <text encoding="base64">ICAgICMgUmVjb21tZW5kYXRpb246IFNldCB0aGUgY2FtcGFpZ24gdG8gUEFVU0VEIHdoZW4gY3JlYXRpbmcgaXQgdG8gcHJldmVudAogICAgIyB0aGUgYWRzIGZyb20gaW1tZWRpYXRlbHkgc2VydmluZy4gU2V0IHRvIEVOQUJMRUQgb25jZSB5b3UndmUgYWRkZWQKICAgICMgdGFyZ2V0aW5nIGFuZCB0aGUgYWRzIGFyZSByZWFkeSB0byBzZXJ2ZS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBzdWJzID0gW10KICAgIGlmIGJvb3N0LmRlc2M6Cg==</text>
+        <text encoding="base64">ICBmZWVkLmlkID0gPGZlZWQgaWQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//isit</text>
       </register>
       <register name="-" type="4">
-        <text>boost.id</text>
+        <text>name, idd</text>
       </register>
       <register name="/" type="4">
         <text>_is_or_is_not</text>
