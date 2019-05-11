@@ -24,7 +24,7 @@
       <file name="/a.dummy" timestamp="1557552462533">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code/sc/web/cli/ones.py" timestamp="1557548910567">
+      <file name="/code/sc/web/cli/ones.py" timestamp="1557563443113">
         <mark key="'" line="412" column="27" />
         <mark key="[" line="422" column="20" />
         <mark key="]" line="422" column="18" />
@@ -38,11 +38,11 @@
         <mark key="." line="119" column="4" />
         <mark key="^" line="118" column="1" />
       </file>
-      <file name="/code/sc/web/static/web/views/settings/platforms/connect-google/setup/setup-google.ts" timestamp="1557553503913">
-        <mark key="[" line="38" column="15" />
-        <mark key="]" line="39" column="1" />
-        <mark key="." line="39" column="1" />
-        <mark key="^" line="39" column="1" />
+      <file name="/code/sc/web/static/web/views/settings/platforms/connect-google/setup/setup-google.ts" timestamp="1557563385965">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="29" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1557548941462">
         <mark key="'" line="137" column="15" />
@@ -129,7 +129,6 @@
         <mark key="^" line="33" column="31" />
         <mark key="." line="33" column="31" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/sqlalchemy/sql/type_api.py" timestamp="1557549087514" />
       <file name="/code/sc/web/sc/coms/dm/dmutil.py" timestamp="1557523184793">
         <mark key="[" line="368" column="28" />
         <mark key="]" line="369" column="20" />
@@ -198,7 +197,6 @@
         <mark key="." line="117" column="0" />
         <mark key="^" line="116" column="39" />
       </file>
-      <file name="/code/sc/web/migrations/versions/5259cb611653__139.py" timestamp="1557549756764" />
       <file name="/a.sql" timestamp="1557512473539">
         <mark key="[" line="0" column="0" />
       </file>
@@ -220,14 +218,12 @@
         <mark key="^" line="51" column="11" />
         <mark key="." line="51" column="11" />
       </file>
-      <file name="/code/sc/web/sc/app/plats/syncs/runner.py" timestamp="1557546591957" />
       <file name="/dummy.sql" timestamp="1557512469803">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557525920846">
+      <file name="/Dummy.txt" timestamp="1557562561704">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/sqlalchemy/sql/sqltypes.py" timestamp="1557548878079" />
       <file name="/code/sc/web/cli/auths.py" timestamp="1557527459574">
         <mark key="[" line="330" column="66" />
         <mark key="]" line="330" column="78" />
@@ -242,6 +238,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="/code/sc/web/static/common/resource.ts" timestamp="1557563573065">
+        <mark key="'" line="219" column="2" />
       </file>
       <file name="/twilio_call_tracking_data [dev]" timestamp="1557512468561">
         <mark key="[" line="0" column="0" />
@@ -272,7 +271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="/code/sc/web/sc/app/ads/feeds.py" />
       <jump line="102" column="9" filename="/code/sc/web/sc/app/ads/feeds.py" />
       <jump line="39" column="13" filename="/code/sc/web/static/web/components/chips/subs-chips.ts" />
       <jump line="175" column="38" filename="/code/sc/web/sc/sql/tables.py" />
@@ -372,40 +370,41 @@
       <jump line="0" column="0" filename="/code/sc/web/migrations/versions/9d14ff9c97d2__142.py" />
       <jump line="42" column="0" filename="/code/sc/web/migrations/versions/9d14ff9c97d2__142.py" />
       <jump line="0" column="0" filename="/code/sc/web/migrations/versions/898f3891207d__142.py" />
+      <jump line="219" column="2" filename="/code/sc/web/static/common/resource.ts" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICBhdXRoczogQXV0aFtdCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgogIG9uQ29ubmVjdCgpIHsKICAgIGxldCB1cmwgPSBgL2FwcC9zZXR0aW5ncy9wbGF0Zm9ybXMvJHt0aGlzLnBsYXRmb3JtLmlkfS9jb25uZWN0L2dvb2dsZWAKICAgIHRoaXMub2F1dGguc3RhcnRBdXRoKHVybCkKICB9</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBkaXJlY3RpdmVzOiBbQ29ubmVjdFBsYXRmb3JtQ29tcG9uZW50XSwK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgY29uc3RydWN0b3IocHJpdmF0ZSBvYXV0aDogT0F1dGhTZXJ2aWNlKSB7CiAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN1cGVyKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXR1cm5fdXJsID0gZnVybChzdGF0ZVsncmV0dXJuX3VybCddKQogIHJldHVybl91cmwuYXJnc1snYWNjb3VudGlkJ10gPSBzdGF0ZVsnYWlkJ10K</text>
+        <text encoding="base64">ICBASW5wdXQoKSB3YXJuaW5nOiBVSVdhcm5pbmcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgbGlzdEN1c3RvbWVycyhjb25maWc6IFJlcXVlc3RDb25maWcgPSB7fSkgewogICAgcmV0dXJuIHRoaXMuZ2V0UGF0aCgnL2N1c3RvbWVycycsIGNvbmZpZykKICB9Cg==</text>
+        <text encoding="base64">CgogIGF1dGhzOiBBdXRoW10K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBwaWN0dXJlOiBzdHJpbmcK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgQFJlc29sdmUoKQogIEBJbmplY3QoVUlXYXJuaW5nc1Jlc291cmNlLCAnJHN0YXRlUGFyYW1zJykKICBzdGF0aWMgd2FybmluZygkcmVzOiBVSVdhcm5pbmdzUmVzb3VyY2UsICRzdGF0ZVBhcmFtczogYW55KSB7CiAgICByZXR1cm4gJHJlcy5vbmUoJHN0YXRlUGFyYW1zLndhcm5faWQpCiAgfQ==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgbmFtZTogc3RyaW5nCiAgY3JlZHM6IGFueQogIHJlZnJlc2hfdG9rZW46IHN0cmluZwogIHR5cGU6IHN0cmluZwogIGF1dGhfZXJyb3I6IGJvb2xlYW4KICBraW5kOiBzdHJpbmcKICBjdXN0b21lcl9pZDogc3RyaW5nCiAgZXhwaXJ5OiBzdHJpbmc=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBhdXRoczogQXV0aFtdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhY2MgPSBnZXRfYWNjKCkK</text>
+        <text encoding="base64">ICBkaXJlY3RpdmVzOiBbQ29ubmVjdFBsYXRmb3JtQ29tcG9uZW50XSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAdmlldy5nZXQoJy9vbmUnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//isit</text>
       </register>
       <register name="-" type="4">
-        <text>View</text>
+        <text>Platform</text>
       </register>
       <register name="/" type="4">
         <text>_is_or_is_not</text>
