@@ -9,12 +9,6 @@
         <mark key="^" line="286" column="15" />
         <mark key="." line="286" column="15" />
       </file>
-      <file name="/code/sc/web/cli/scripts/m700.py" timestamp="1557546723937">
-        <mark key="'" line="115" column="23" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-      </file>
       <file name="/code/sc/web/static/common/components/places-autocomplete/v2/places-auto.ts" timestamp="1557503678217">
         <mark key="[" line="27" column="46" />
         <mark key="]" line="27" column="49" />
@@ -50,6 +44,12 @@
         <mark key="]" line="149" column="25" />
         <mark key="." line="149" column="25" />
         <mark key="^" line="149" column="25" />
+      </file>
+      <file name="/code/sc/web/static/web/views/settings/platforms/setup/setup-sync.ts" timestamp="1557705299104">
+        <mark key="[" line="30" column="88" />
+        <mark key="]" line="31" column="21" />
+        <mark key="." line="31" column="21" />
+        <mark key="^" line="31" column="21" />
       </file>
       <file name="/code/sc/web/static/web/views/settings/platforms/connect-platform/connect-platform.html" timestamp="1557692351899">
         <mark key="[" line="92" column="44" />
@@ -123,6 +123,11 @@
         <mark key="^" line="17" column="19" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="/code/sc/web/static/web/views/settings/platforms/setup/specific-listings/specific-listings.html" timestamp="1557704998180">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+      </file>
       <file name="/code/sc/web/cli/scripts/v700.py" timestamp="1557528219302">
         <mark key="[" line="12" column="30" />
         <mark key="]" line="13" column="19" />
@@ -184,10 +189,11 @@
         <mark key="^" line="63" column="8" />
         <mark key="." line="63" column="8" />
       </file>
-      <file name="/code/sc/web/static/web/views/settings/platforms/connect-google/connect-google.ts" timestamp="1557692307350">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="/code/sc/web/static/web/views/settings/platforms/connect-google/connect-google.ts" timestamp="1557704749866">
+        <mark key="[" line="50" column="28" />
+        <mark key="]" line="50" column="26" />
+        <mark key="." line="50" column="26" />
+        <mark key="^" line="50" column="26" />
       </file>
       <file name="/code/sc/web/sc/coms/customsql/jsontype.py" timestamp="1557549563843">
         <mark key="'" line="54" column="0" />
@@ -205,17 +211,18 @@
       <file name="/a.sql" timestamp="1557512473539">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/code/sc/web/static/web/views/settings/platforms/connect-platform/connect-platform.ts" timestamp="1557704968072">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="13" column="2" />
+        <mark key="^" line="13" column="2" />
+        <mark key="." line="13" column="2" />
+      </file>
       <file name="/code/sc/web/static/web/views/nav-toolbar/integrations/ads/ads.ts" timestamp="1557513590605">
         <mark key="[" line="26" column="44" />
         <mark key="]" line="26" column="49" />
         <mark key="^" line="26" column="49" />
         <mark key="." line="26" column="49" />
-      </file>
-      <file name="/code/sc/web/migrations/versions/898f3891207d__142.py" timestamp="1557551852144">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
       </file>
       <file name="/code/sc/web/cli/__init__.py" timestamp="1557523245809">
         <mark key="[" line="51" column="8" />
@@ -244,6 +251,7 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="/code/sc/web/node_modules/@uirouter/core/lib/state/interface.d.ts" timestamp="1557704715651" />
       <file name="/code/sc/web/static/common/resource.ts" timestamp="1557563573065">
         <mark key="'" line="219" column="2" />
       </file>
@@ -282,8 +290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="9" filename="/code/sc/web/sc/app/ads/feeds.py" />
-      <jump line="39" column="13" filename="/code/sc/web/static/web/components/chips/subs-chips.ts" />
       <jump line="175" column="38" filename="/code/sc/web/sc/sql/tables.py" />
       <jump line="11" column="0" filename="/code/sc/web/sc/sql/tables.py" />
       <jump line="21" column="22" filename="/code/sc/web/static/web/components/chips/groups/group-chips.ts" />
@@ -382,40 +388,42 @@
       <jump line="42" column="0" filename="/code/sc/web/migrations/versions/9d14ff9c97d2__142.py" />
       <jump line="0" column="0" filename="/code/sc/web/migrations/versions/898f3891207d__142.py" />
       <jump line="219" column="2" filename="/code/sc/web/static/common/resource.ts" />
+      <jump line="31" column="0" filename="/code/sc/web/static/web/views/settings/platforms/connect-platform/connect-platform.ts" />
+      <jump line="82" column="0" filename="/code/sc/web/static/web/views/settings/platforms/connect-platform/connect-platform.ts" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIChjbGljayk9ImN0cmwub25Db25uZWN0QXV0aCgkZXZlbnQpIgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGdldFN0YXRlKCkuZ28oJycpCg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">CgogIG9uQ29ubmVjdCgpIHsKICAgIGxldCB1cmwgPSBgL2FwcC9zZXR0aW5ncy9wbGF0Zm9ybXMvJHt0aGlzLnBsYXRmb3JtLmlkfS9jb25uZWN0L2dvb2dsZWAKICAgIHRoaXMub2F1dGguc3RhcnRBdXRoKHVybCkKICB9</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgY29uc3RydWN0b3IocHJpdmF0ZSBvYXV0aDogT0F1dGhTZXJ2aWNlKSB7CiAgfQ==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIHN1cGVyKCkK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIChjbGljayk9ImN0cmwub25Db25uZWN0QXV0aCgkZXZlbnQpIgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGdldFN0YXRlKCkuZ28oJycpCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CgogIG9uQ29ubmVjdCgpIHsKICAgIGxldCB1cmwgPSBgL2FwcC9zZXR0aW5ncy9wbGF0Zm9ybXMvJHt0aGlzLnBsYXRmb3JtLmlkfS9jb25uZWN0L2dvb2dsZWAKICAgIHRoaXMub2F1dGguc3RhcnRBdXRoKHVybCkKICB9</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgY29uc3RydWN0b3IocHJpdmF0ZSBvYXV0aDogT0F1dGhTZXJ2aWNlKSB7CiAgfQ==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBASW5wdXQoKSB3YXJuaW5nOiBVSVdhcm5pbmcK</text>
+        <text encoding="base64">ICAgIHN1cGVyKCkK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICBASW5wdXQoKSB3YXJuaW5nOiBVSVdhcm5pbmcK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">CgogIGF1dGhzOiBBdXRoW10K</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgQFJlc29sdmUoKQogIEBJbmplY3QoVUlXYXJuaW5nc1Jlc291cmNlLCAnJHN0YXRlUGFyYW1zJykKICBzdGF0aWMgd2FybmluZygkcmVzOiBVSVdhcm5pbmdzUmVzb3VyY2UsICRzdGF0ZVBhcmFtczogYW55KSB7CiAgICByZXR1cm4gJHJlcy5vbmUoJHN0YXRlUGFyYW1zLndhcm5faWQpCiAgfQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBhdXRoczogQXV0aFtdCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//isit</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>params.</text>
       </register>
       <register name="/" type="4">
         <text>_is_or_is_not</text>
