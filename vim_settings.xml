@@ -194,6 +194,12 @@
         <mark key="^" line="26" column="49" />
         <mark key="." line="26" column="49" />
       </file>
+      <file name="/code/sc/web/static/common/models/location-platform.model.ts" timestamp="1557875628626">
+        <mark key="[" line="27" column="6" />
+        <mark key="]" line="27" column="12" />
+        <mark key="." line="27" column="12" />
+        <mark key="^" line="27" column="12" />
+      </file>
       <file name="/code/sc/web/static/common/interfaces/gmb.ts" timestamp="1557872137123">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="3" column="1" />
@@ -286,11 +292,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/code/sc/web/static/common/models/review.model.ts" timestamp="1557874149611">
-        <mark key="[" line="68" column="21" />
-        <mark key="]" line="68" column="36" />
-        <mark key="^" line="68" column="36" />
-        <mark key="." line="68" column="36" />
+      <file name="/code/sc/web/static/common/models/review.model.ts" timestamp="1557875683545">
+        <mark key="[" line="195" column="18" />
+        <mark key="]" line="196" column="3" />
+        <mark key="^" line="196" column="3" />
+        <mark key="." line="196" column="3" />
       </file>
       <file name="/code/sc/web/static/web/views/settings/platforms/connect-platform/connect-platform.html" timestamp="1557842500696">
         <mark key="'" line="67" column="25" />
@@ -612,28 +618,28 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8bWQtdG9vbHRpcD5pcyBkaXNjb25uZWN0ZWQsIGNhbm5vdCBiZSBzeW5jZWQ8L21kLXRvb2x0aXA+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8bWQtdG9vbHRpcD5pcyByZWFkeSB0byBzeW5jPC9tZC10b29sdGlwPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAoCiAgICAgIHRoaXMucGxhdGZvcm0ua2luZCA9PSBLaW5kcy5nb29nbGUgJiYKICAgICAgdGhpcy5sb2NhdGlvbl9wbGF0Zm9ybSAmJgogICAgICB0aGlzLmxvY2F0aW9uX3BsYXRmb3JtLmFsX2lkCiAgICApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJiLWJvdCBib3giIGxheW91dD0icm93IiBsYXlvdXQtYWxpZ249InN0YXJ0IGNlbnRlciIgbmctcmVwZWF0PSJyb3cgaW4gY3RybC52YWxzIj4KICAgIDxkaXYgZmxleD0iNjYiIGNsYXNzPSJsZWZ0Ij4KICAgICAgPGRpdiBjbGFzcz0iaXRlbSI+e3tjdHJsLmh1bWFuKHJvd1swXSl9fTwvZGl2PgogICAgPC9kaXY+CiAgICA8ZGl2IGZsZXg9IjMzIj57e2N0cmwuaHVtYW4ocm93WzFdKX19PC9kaXY+CiAgPC9kaXY+Cgo=</text>
+        <text encoding="base64">ICAvLyBjaXJjdWxhciByZWYsIGNhbm5vdCBhZGQgQHByb3BlcnR5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiBib2xkCg==</text>
+        <text encoding="base64">ICBhbDogYW55Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAucmlnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8bWQtdG9vbHRpcD5pcyBkaXNjb25uZWN0ZWQsIGNhbm5vdCBiZSBzeW5jZWQ8L21kLXRvb2x0aXA+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICArZGlzYWJsZS1ncmlkLXNlbGVjdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8bWQtdG9vbHRpcD5pcyByZWFkeSB0byBzeW5jPC9tZC10b29sdGlwPgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -642,7 +648,7 @@
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>any</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>_is_or_is_not</text>
