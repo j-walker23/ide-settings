@@ -201,12 +201,12 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/code/sc/web/static/web/views/listings/listings.ts" timestamp="1557872294948">
+      <file name="/code/sc/web/static/web/views/listings/listings.ts" timestamp="1557873577814">
         <mark key="'" line="169" column="6" />
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="194" column="0" />
+        <mark key="[" line="190" column="0" />
+        <mark key="]" line="190" column="10" />
         <mark key="^" line="194" column="56" />
-        <mark key="." line="194" column="0" />
+        <mark key="." line="190" column="10" />
       </file>
       <file name="/code/sc/web/static/web/views/settings/platforms/setup/biz-filters/biz-filters.html" timestamp="1557846645613">
         <mark key="'" line="0" column="0" />
@@ -220,6 +220,13 @@
         <mark key="]" line="71" column="52" />
         <mark key="." line="71" column="52" />
         <mark key="^" line="71" column="52" />
+      </file>
+      <file name="/code/sc/web/sc/app/reviews/crud.py" timestamp="1557874046747">
+        <mark key="'" line="102" column="79" />
+        <mark key="[" line="23" column="48" />
+        <mark key="]" line="23" column="68" />
+        <mark key="^" line="23" column="68" />
+        <mark key="." line="23" column="68" />
       </file>
       <file name="/code/sc/web/sc/sql/location/__init__.py" timestamp="1557868324672" />
       <file name="/code/sc/web/sc/mods/web/rest/accounts/locations_view.py" timestamp="1557853447668">
@@ -278,6 +285,12 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="/code/sc/web/static/common/models/review.model.ts" timestamp="1557874149611">
+        <mark key="[" line="68" column="21" />
+        <mark key="]" line="68" column="36" />
+        <mark key="^" line="68" column="36" />
+        <mark key="." line="68" column="36" />
       </file>
       <file name="/code/sc/web/static/web/views/settings/platforms/connect-platform/connect-platform.html" timestamp="1557842500696">
         <mark key="'" line="67" column="25" />
@@ -392,6 +405,12 @@
         <mark key="." line="14" column="0" />
       </file>
       <file name="/code/sc/web/static/web/views/listings/edits/edit-item/al-edit.dialog.ts" timestamp="1557870102988" />
+      <file name="/code/sc/web/sc/sql/sess_ext.py" timestamp="1557873849883">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="6" />
+        <mark key="." line="32" column="6" />
+        <mark key="^" line="31" column="29" />
+      </file>
       <file name="/code/sc/web/sc/mods/web/views.py" timestamp="1557842140336">
         <mark key="[" line="117" column="30" />
         <mark key="]" line="117" column="40" />
@@ -490,7 +509,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="0" filename="/code/sc/web/sc/coms/customsql/jsontype.py" />
       <jump line="0" column="0" filename="/code/sc/web/migrations/versions/9d14ff9c97d2__142.py" />
       <jump line="42" column="0" filename="/code/sc/web/migrations/versions/9d14ff9c97d2__142.py" />
       <jump line="0" column="0" filename="/code/sc/web/migrations/versions/898f3891207d__142.py" />
@@ -590,6 +608,7 @@
       <jump line="341" column="4" filename="/code/sc/web/static/common/utils.ts" />
       <jump line="21" column="17" filename="/code/sc/web/static/web/views/nav-toolbar/switch-accounts/switch-accounts.dialog.html" />
       <jump line="75" column="17" filename="/code/sc/web/sc/mods/web/rest/accounts/listings_view.py" />
+      <jump line="102" column="79" filename="/code/sc/web/sc/app/reviews/crud.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -623,7 +642,7 @@
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>listing-icons</text>
+        <text>any</text>
       </register>
       <register name="/" type="4">
         <text>_is_or_is_not</text>
