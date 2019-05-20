@@ -68,7 +68,7 @@
         <mark key="." line="50" column="37" />
         <mark key="^" line="50" column="37" />
       </file>
-      <file name="/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7/subprocess.py" timestamp="1558329148523" />
+      <file name="/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7/subprocess.py" timestamp="1558337650833" />
       <file name="/code/sc/web/sc/sql/platform/gmb/biz_filter.py" timestamp="1557528857386">
         <mark key="[" line="14" column="2" />
         <mark key="]" line="14" column="6" />
@@ -264,12 +264,12 @@
         <mark key="^" line="168" column="20" />
         <mark key="." line="168" column="20" />
       </file>
-      <file name="/code/sc/web/cli/scm.py" timestamp="1558331845373">
+      <file name="/code/sc/web/cli/scm.py" timestamp="1558338730712">
         <mark key="'" line="194" column="15" />
-        <mark key="[" line="195" column="89" />
-        <mark key="]" line="195" column="99" />
-        <mark key="." line="195" column="99" />
-        <mark key="^" line="195" column="99" />
+        <mark key="[" line="187" column="33" />
+        <mark key="]" line="188" column="4" />
+        <mark key="." line="188" column="4" />
+        <mark key="^" line="188" column="4" />
       </file>
       <file name="/code/sc/web/sc/utils.py" timestamp="1558326827136">
         <mark key="'" line="314" column="0" />
@@ -284,7 +284,7 @@
         <mark key="^" line="178" column="66" />
         <mark key="." line="178" column="66" />
       </file>
-      <file name="/Python Console" timestamp="1558328953873">
+      <file name="/Python Console" timestamp="1558338341981">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code/sc/web/node_modules/angular-material/angular-material.js" timestamp="1557864084880">
@@ -418,11 +418,11 @@
         <mark key="^" line="330" column="78" />
         <mark key="." line="330" column="78" />
       </file>
-      <file name="/code/sc/web/sc/__init__.py" timestamp="1558331819823">
-        <mark key="[" line="70" column="7" />
-        <mark key="]" line="70" column="14" />
-        <mark key="^" line="70" column="14" />
-        <mark key="." line="70" column="14" />
+      <file name="/code/sc/web/sc/__init__.py" timestamp="1558338269460">
+        <mark key="[" line="64" column="42" />
+        <mark key="]" line="64" column="60" />
+        <mark key="^" line="64" column="60" />
+        <mark key="." line="64" column="93" />
       </file>
       <file name="/code/sc/web/static/web/views/settings/platforms/setup/biz-filters/biz-filters.html" timestamp="1557846645613">
         <mark key="'" line="0" column="0" />
@@ -612,37 +612,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">b3V0ID0gZm4oYXJncywgdXBsb2FkPUZhbHNlKQp3aXRoIG9wZW4obmFtZSwgJ3diJykgYXMgZjoKICBmLndyaXRlKG91dCkK</text>
+        <text encoding="base64">ICAgIHByaW50KGUpCiAgZXJyID0gKHJldC5zdGRlcnIgb3IgJycpLnN0cmlwKCkKICBlcnIyID0gcmV0LnN0ZGVycgoKICBpZiBlcnI6CiAgICB1dWlkID0gdXRpbHMuZmluZF91dWlkKGVycikKICAgIHJldCA9IHJ1bmNtZChmJ2djbG91ZCBzcWwgb3BlcmF0aW9ucyB3YWl0IC0tcHJvamVjdCBuZXdkaXVtLTEyODMge3V1aWR9JywgY2hlY2s9RmFsc2UsIG91dD1GYWxzZSkKCiAgaWYgcmV0LnN0ZGVycjoKICAgIHJhaXNlIEludGVycnVwdGVkRXJyb3IocmV0LnN0ZGVycikKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVyciA9IHN0cihyZXQuc3RkZXJyKQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBidWNrZXQgPSBnY3NfY2xpZW50KCkuZ2V0X2J1Y2tldCgncHJvZC1zcWwnKQogICAgYmxvYjogQmxvYiA9IGJ1Y2tldC5ibG9iKG5hbWUpCiAgICBwcmludCgnU3RhcnRpbmcgYXV0b21hdGljIHBvbGxpbmcgZm9yIHNxbCBleHBvcnQnKQogICAgX3BvbGxfZ2NzKGJsb2IpCgo=</text>
+        <text encoding="base64">b3V0ID0gZm4oYXJncywgdXBsb2FkPUZhbHNlKQp3aXRoIG9wZW4obmFtZSwgJ3diJykgYXMgZjoKICBmLndyaXRlKG91dCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBlbHNlCg==</text>
+        <text encoding="base64">ICAgIGVyciA9IHN0cihyZXQuc3RkZXJyKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcmludChnLCB0eXBlKGcpKQo=</text>
+        <text encoding="base64">CiAgICBidWNrZXQgPSBnY3NfY2xpZW50KCkuZ2V0X2J1Y2tldCgncHJvZC1zcWwnKQogICAgYmxvYjogQmxvYiA9IGJ1Y2tldC5ibG9iKG5hbWUpCiAgICBwcmludCgnU3RhcnRpbmcgYXV0b21hdGljIHBvbGxpbmcgZm9yIHNxbCBleHBvcnQnKQogICAgX3BvbGxfZ2NzKGJsb2IpCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlbHNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpZiBtYXRjaCAK</text>
+        <text encoding="base64">ICBwcmludChnLCB0eXBlKGcpKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpZiBtYXRjaCAK</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>ret.stderr and 'is taking longer than expected' in ret.stderr</text>
+        <text encoding="base64">cmV0ID0g</text>
       </register>
       <register name="/" type="4">
         <text>_is_or_is_not</text>
