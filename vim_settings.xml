@@ -15,12 +15,12 @@
         <mark key="^" line="27" column="49" />
         <mark key="." line="27" column="49" />
       </file>
-      <file name="/code/sc/web/cli/ones.py" timestamp="1558380036510">
-        <mark key="'" line="423" column="22" />
-        <mark key="[" line="442" column="20" />
-        <mark key="]" line="442" column="29" />
-        <mark key="." line="442" column="29" />
-        <mark key="^" line="442" column="29" />
+      <file name="/code/sc/web/sc/coms/dm/caching.py" timestamp="1558381246172" />
+      <file name="/code/sc/web/cli/ones.py" timestamp="1558384771451">
+        <mark key="'" line="424" column="22" />
+        <mark key="[" line="434" column="0" />
+        <mark key="]" line="434" column="0" />
+        <mark key="." line="434" column="0" />
       </file>
       <file name="/code/sc/web/sc/app/plats/api/google.py" timestamp="1557855346040">
         <mark key="'" line="70" column="40" />
@@ -214,7 +214,7 @@
         <mark key="^" line="33" column="31" />
         <mark key="." line="33" column="31" />
       </file>
-      <file name="/code/sc/web/sc/coms/dm/dmutil.py" timestamp="1557523184793">
+      <file name="/code/sc/web/sc/coms/dm/dmutil.py" timestamp="1558380420384">
         <mark key="[" line="368" column="28" />
         <mark key="]" line="369" column="20" />
         <mark key="^" line="369" column="20" />
@@ -284,13 +284,13 @@
         <mark key="^" line="600" column="16" />
         <mark key="." line="600" column="16" />
       </file>
-      <file name="/code/sc/web/sc/sql/platform/auth/__init__.py" timestamp="1558379649319">
-        <mark key="[" line="184" column="67" />
-        <mark key="]" line="185" column="11" />
-        <mark key="^" line="185" column="11" />
-        <mark key="." line="185" column="11" />
+      <file name="/code/sc/web/sc/sql/platform/auth/__init__.py" timestamp="1558384221963">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
+        <mark key="^" line="107" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1558338341981">
+      <file name="/Python Console" timestamp="1558380536058">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code/sc/web/node_modules/angular-material/angular-material.js" timestamp="1557864084880">
@@ -368,6 +368,7 @@
         <mark key="^" line="26" column="49" />
         <mark key="." line="26" column="49" />
       </file>
+      <file name="/code/sc/web/sc/const.py" timestamp="1558380949597" />
       <file name="/code/sc/web/cli/__init__.py" timestamp="1557523245809">
         <mark key="[" line="51" column="8" />
         <mark key="]" line="51" column="11" />
@@ -436,8 +437,8 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
       </file>
-      <file name="/code/sc/web/sc/app/plats/syncs/setup/setup.py" timestamp="1557854210036">
-        <mark key="'" line="34" column="4" />
+      <file name="/code/sc/web/sc/app/plats/syncs/setup/setup.py" timestamp="1558383972602">
+        <mark key="'" line="96" column="17" />
         <mark key="[" line="85" column="38" />
         <mark key="]" line="85" column="50" />
         <mark key="^" line="85" column="50" />
@@ -482,12 +483,12 @@
         <mark key="^" line="22" column="24" />
         <mark key="." line="22" column="24" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1558379954038">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1558383517858">
         <mark key="'" line="134" column="0" />
-        <mark key="[" line="170" column="8" />
-        <mark key="]" line="170" column="57" />
-        <mark key="^" line="170" column="57" />
-        <mark key="." line="170" column="57" />
+        <mark key="[" line="194" column="26" />
+        <mark key="]" line="195" column="0" />
+        <mark key="^" line="195" column="0" />
+        <mark key="." line="195" column="0" />
       </file>
       <file name="/code/sc/web/sc/coms/testing/utils.py" timestamp="1557546366965">
         <mark key="[" line="41" column="39" />
@@ -515,7 +516,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="0" filename="/code/sc/web/static/web/views/settings/platforms/connect-platform/connect-platform.ts" />
       <jump line="21" column="0" filename="/code/sc/web/static/web/views/settings/platforms/setup/setup-sync.html" />
       <jump line="50" column="19" filename="/code/sc/web/static/web/views/notes/details/note-details.html" />
       <jump line="0" column="0" filename="/code/sc/web/static/web/views/notes/details/note-adv/note-adv.html" />
@@ -615,40 +615,41 @@
       <jump line="193" column="15" filename="/code/sc/web/cli/scm.py" />
       <jump line="34" column="7" filename="/code/sc/web/instance/local/develop_settings.py" />
       <jump line="423" column="22" filename="/code/sc/web/cli/ones.py" />
+      <jump line="96" column="17" filename="/code/sc/web/sc/app/plats/syncs/setup/setup.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAjIGFwaSA9IGNyZWF0ZV9hcGkoYXV0aCkK</text>
+        <text encoding="base64">IyBAYXBwX2N0eCgxODIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RU5BQkxFX0NPUlJFQ1RJT049InRydWUiCg==</text>
+        <text encoding="base64">ICBzY29wZXMgPSBpbmRleF9wcm9wZXJ0eSgnY3JlZHMnLCAnc2NvcGVzJywgZGVmYXVsdD1bXSkKICBjbGllbnRfaWQgPSBpbmRleF9wcm9wZXJ0eSgnY3JlZHMnLCAnY2xpZW50X2lkJywgZGVmYXVsdD0nJykKICBjbGllbnRfc2VjcmV0ID0gaW5kZXhfcHJvcGVydHkoJ2NyZWRzJywgJ2NsaWVudF9zZWNyZXQnLCBkZWZhdWx0PScnKQogIGlkX3Rva2VuID0gQ29sdW1uKEpTT04sIGRlZmF1bHQ9e30sIG51bGxhYmxlPUZhbHNlKQogIHBpY3R1cmUgPSBpbmRleF9wcm9wZXJ0eSgnaWRfdG9rZW4nLCAncGljdHVyZScsIGRlZmF1bHQ9JycpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IEdFVkVOVF9TVVBQT1JUPVRydWUK</text>
+        <text encoding="base64">ICAjIHByaW50KHByZXR0eV9qc29uKGF1dGguYXNkaWN0KCkpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiMjIG9obXkgZnVuY3Rpb25zICMjIwojIGFkZF9jb3JyZWN0cwo=</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBkcnk6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KGUpCiAgZXJyID0gKHJldC5zdGRlcnIgb3IgJycpLnN0cmlwKCkKICBlcnIyID0gcmV0LnN0ZGVycgoKICBpZiBlcnI6CiAgICB1dWlkID0gdXRpbHMuZmluZF91dWlkKGVycikKICAgIHJldCA9IHJ1bmNtZChmJ2djbG91ZCBzcWwgb3BlcmF0aW9ucyB3YWl0IC0tcHJvamVjdCBuZXdkaXVtLTEyODMge3V1aWR9JywgY2hlY2s9RmFsc2UsIG91dD1GYWxzZSkKCiAgaWYgcmV0LnN0ZGVycjoKICAgIHJhaXNlIEludGVycnVwdGVkRXJyb3IocmV0LnN0ZGVycikKCg==</text>
+        <text encoding="base64">ICBwcmludChhdXRoLnJlZnJlc2hfdG9rZW4sIGF1dGguY3JlZHMuZ2V0KCdyZWZyZXNoX3Rva2VuJykpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHNlbGYucmVmcmVzaF90b2tlbiA9IGNyZWRlbnRpYWxzLnJlZnJlc2hfdG9rZW4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">b3V0ID0gZm4oYXJncywgdXBsb2FkPUZhbHNlKQp3aXRoIG9wZW4obmFtZSwgJ3diJykgYXMgZjoKICBmLndyaXRlKG91dCkK</text>
+        <text encoding="base64">ICAgIHNlbGYucmVmcmVzaF90b2tlbiA9IGNyZWRlbnRpYWxzLnJlZnJlc2hfdG9rZW4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVyciA9IHN0cihyZXQuc3RkZXJyKQo=</text>
+        <text encoding="base64">QGFyZ3VtZW50KCdpZGQnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBidWNrZXQgPSBnY3NfY2xpZW50KCkuZ2V0X2J1Y2tldCgncHJvZC1zcWwnKQogICAgYmxvYjogQmxvYiA9IGJ1Y2tldC5ibG9iKG5hbWUpCiAgICBwcmludCgnU3RhcnRpbmcgYXV0b21hdGljIHBvbGxpbmcgZm9yIHNxbCBleHBvcnQnKQogICAgX3BvbGxfZ2NzKGJsb2IpCgo=</text>
+        <text encoding="base64">ICAjIGV4cGlyZSA9IGFycm93LmdldChjcmVkcy5leHBpcnkpCiAgIyBwcmludCgnbmV3IGV4cGlyZSB0aW1lJywgZXhwaXJlLnRvKGNvbnN0LlpPTkUpLmZvcm1hdCgnTS9EL1lZIGhoOm1tOnNzIGEnKSkK</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>r.json()</text>
+        <text encoding="base64">NzQxLCA3MDgsIA==</text>
       </register>
       <register name="/" type="4">
         <text>_is_or_is_not</text>
