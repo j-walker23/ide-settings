@@ -61,6 +61,7 @@
         <mark key="^" line="196" column="3" />
         <mark key="." line="196" column="3" />
       </file>
+      <file name="/__init__.py" timestamp="1558377206102" />
       <file name="/code/sc/web/static/web/views/settings/platforms/connect-platform/connect-platform.html" timestamp="1557842500696">
         <mark key="'" line="67" column="25" />
         <mark key="[" line="50" column="30" />
@@ -68,7 +69,6 @@
         <mark key="." line="50" column="37" />
         <mark key="^" line="50" column="37" />
       </file>
-      <file name="/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7/subprocess.py" timestamp="1558337650833" />
       <file name="/code/sc/web/sc/sql/platform/gmb/biz_filter.py" timestamp="1557528857386">
         <mark key="[" line="14" column="2" />
         <mark key="]" line="14" column="6" />
@@ -264,12 +264,12 @@
         <mark key="^" line="168" column="20" />
         <mark key="." line="168" column="20" />
       </file>
-      <file name="/code/sc/web/cli/scm.py" timestamp="1558338730712">
+      <file name="/code/sc/web/cli/scm.py" timestamp="1558377283001">
         <mark key="'" line="194" column="15" />
-        <mark key="[" line="187" column="33" />
-        <mark key="]" line="188" column="4" />
-        <mark key="." line="188" column="4" />
-        <mark key="^" line="188" column="4" />
+        <mark key="[" line="45" column="13" />
+        <mark key="]" line="45" column="12" />
+        <mark key="." line="45" column="12" />
+        <mark key="^" line="45" column="12" />
       </file>
       <file name="/code/sc/web/sc/utils.py" timestamp="1558326827136">
         <mark key="'" line="314" column="0" />
@@ -367,7 +367,6 @@
         <mark key="^" line="51" column="11" />
         <mark key="." line="51" column="11" />
       </file>
-      <file name="/code/sc/web/sc/coms/testing/reppdfs.py" timestamp="1558328933654" />
       <file name="/code/sc/web/static/common/models/location-platform.model.ts" timestamp="1557875628626">
         <mark key="[" line="27" column="6" />
         <mark key="]" line="27" column="12" />
@@ -404,7 +403,6 @@
         <mark key="^" line="57" column="27" />
         <mark key="." line="57" column="27" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/156378389/builtins.py" timestamp="1558326964535" />
       <file name="/code/sc/web/static/common/models/auth_locs.model.ts" timestamp="1557868929536">
         <mark key="'" line="124" column="7" />
         <mark key="[" line="47" column="1" />
@@ -642,7 +640,7 @@
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0ID0g</text>
+        <text>'dl-prod'</text>
       </register>
       <register name="/" type="4">
         <text>_is_or_is_not</text>
