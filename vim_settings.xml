@@ -49,12 +49,11 @@
         <mark key="." line="8" column="0" />
       </file>
       <file name="/code/sc/web/sc/app/integs/rosetta.py" timestamp="1558460824410" />
-      <file name="/code/sc/web/sc/app/plats/api/facebook.py" timestamp="1558463778940">
-        <mark key="'" line="103" column="9" />
-        <mark key="[" line="67" column="10" />
-        <mark key="]" line="67" column="23" />
-        <mark key="^" line="67" column="23" />
-        <mark key="." line="67" column="23" />
+      <file name="/code/sc/web/sc/app/plats/api/facebook.py" timestamp="1558472237643">
+        <mark key="'" line="117" column="15" />
+        <mark key="[" line="125" column="25" />
+        <mark key="]" line="125" column="25" />
+        <mark key="." line="125" column="25" />
       </file>
       <file name="/code/sc/web/static/web/views/settings/platforms/connect-platform/connect-platform.html" timestamp="1557842500696">
         <mark key="'" line="67" column="25" />
@@ -73,8 +72,8 @@
       <file name="/code/sc/web/sc/sql/platform/auth_loc/__init__.py" timestamp="1558468433918">
         <mark key="'" line="177" column="0" />
       </file>
-      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1558394055608">
-        <mark key="'" line="32" column="20" />
+      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1558470238729">
+        <mark key="'" line="31" column="26" />
         <mark key="[" line="53" column="13" />
         <mark key="]" line="53" column="17" />
         <mark key="." line="53" column="17" />
@@ -93,6 +92,13 @@
         <mark key="]" line="50" column="12" />
         <mark key="^" line="50" column="12" />
         <mark key="." line="50" column="12" />
+      </file>
+      <file name="/code/sc/web/sc/errors.py" timestamp="1558472491434">
+        <mark key="'" line="95" column="4" />
+        <mark key="[" line="74" column="65" />
+        <mark key="]" line="74" column="74" />
+        <mark key="^" line="74" column="74" />
+        <mark key="." line="74" column="74" />
       </file>
       <file name="/code/sc/web/sc/app/plats/syncs/setup/google.py" timestamp="1557868869053">
         <mark key="'" line="103" column="9" />
@@ -136,11 +142,11 @@
         <mark key="^" line="6" column="46" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/facepy/graph_api.py" timestamp="1558463534368" />
-      <file name="/code/sc/web/instance/env.txt" timestamp="1558469303951">
+      <file name="/code/sc/web/instance/env.txt" timestamp="1558470241260">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
-        <mark key="^" line="0" column="3" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="4" />
       </file>
       <file name="/code/sc/web/cli/scm.py" timestamp="1558378845049">
         <mark key="'" line="194" column="15" />
@@ -198,7 +204,7 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="/code/sc/web/sc/const.py" timestamp="1558468363966" />
-      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/facepy/exceptions.py" timestamp="1558463369421" />
+      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/facepy/exceptions.py" timestamp="1558470961350" />
       <file name="/code/sc/web/static/web/views/nav-toolbar/switch-accounts/switch-accounts.dialog.html" timestamp="1557871926025">
         <mark key="'" line="21" column="17" />
         <mark key="[" line="3" column="14" />
@@ -279,11 +285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="0" filename="/code/sc/web/static/web/views/settings/platforms/setup/setup-sync.ts" />
-      <jump line="50" column="20" filename="/code/sc/web/static/web/views/settings/platforms/connect-google/connect-google.ts" />
-      <jump line="39" column="28" filename="/code/sc/web/static/web/views/settings/platforms/connect-google/connect-google.ts" />
-      <jump line="56" column="25" filename="/code/sc/web/static/web/views/settings/platforms/connect-platform/connect-platform.html" />
-      <jump line="15" column="3" filename="/code/sc/web/static/web/views/settings/platforms/setup/specific-listings/specific-listings.html" />
       <jump line="0" column="0" filename="/code/sc/web/static/web/views/settings/platforms/setup/specific-listings/specific-listings.html" />
       <jump line="383" column="0" filename="/code/sc/web/cli/ones.py" />
       <jump line="143" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
@@ -379,40 +380,45 @@
       <jump line="13" column="6" filename="/code/sc/web/sc/coms/dm/able.py" />
       <jump line="177" column="0" filename="/code/sc/web/sc/sql/platform/auth_loc/__init__.py" />
       <jump line="194" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
+      <jump line="31" column="26" filename="/code/sc/web/instance/local/develop_settings.py" />
+      <jump line="50" column="0" filename="/code/sc/web/sc/app/plats/api/facebook.py" />
+      <jump line="197" column="0" filename="/code/sc/web/sc/app/plats/api/facebook.py" />
+      <jump line="84" column="4" filename="/code/sc/web/sc/errors.py" />
+      <jump line="117" column="15" filename="/code/sc/web/sc/app/plats/api/facebook.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">CiAgbHBzID0gbGlzdChmaWx0ZXIoTm9uZSwgW2oucG9wKCdscCcsIE5vbmUpIGZvciBqIGluIGpzXSkpCg==</text>
+        <text encoding="base64">ZGVmIGhhbmRsZV9mYl9lcnJvcihhcGk6ICdGYWNlQXBpJywgZTogRmFjZWJvb2tFcnJvcik6CiAgIiIiIiIiCiAgbWVzc2FnZSA9IGUubWVzc2FnZQogIGFwaV9jb2RlID0gZS5jb2RlCiAgc3ViID0gZS5lcnJvcl9zdWJjb2RlCiAgdXNlcl9tc2cgPSBlLmVycm9yX3VzZXJfbXNnCiAgdXNlcl90aXRsZSA9IGUuZXJyb3JfdXNlcl90aXRsZQoKICBjYXNlc3ViID0gbGFtYmRhIG46IHN1YiA9PSBuCgogIGlmIGNhc2VzdWIoNDU4KToKICAgICJUaGUgVXNlciBoYXMgbm90IGxvZ2dlZCBpbnRvIHlvdXIgYXBwLiBSZWF1dGhlbnRpY2F0ZSB0aGUgVXNlci4iCiAgICBzcGVjID0gJ0FwcCBOb3QgSW5zdGFsbGVkJwogIGVsaWYgY2FzZXN1Yig0NTkpOgogICAgIlRoZSBVc2VyIG5lZWRzIHRvIGxvZyBpbiBhdCBodHRwczovL3d3dy5mYWNlYm9vay5jb20gb3IgaHR0cHM6Ly9tLmZhY2Vib29rLmNvbSB0byBjb3JyZWN0IGFuIGlzc3VlLiIKICAgIHNwZWMgPSAnVXNlciBDaGVja3BvaW50ZWQnCiAgZWxpZiBjYXNlc3ViKDQ2MCk6CiAgICAiT24gaU9TIDYgYW5kIGFib3ZlLCBpZiB0aGUgcGVyc29uIGxvZ2dlZCBpbiB1c2luZyB0aGUgT1MtaW50ZWdyYXRlZCBmbG93LCBkaXJlY3QgdGhlbSB0byBGYWNlYm9vayBPUyBzZXR0aW5ncyBvbiB0aGUgZGV2aWNlIHRvIHVwZGF0ZSB0aGVpciBwYXNzd29yZC4gT3RoZXJ3aXNlLCB0aGV5IG11c3QgbG9nIGluIHRvIHRoZSBhcHAgYWdhaW4uIgogICAgc3BlYyA9ICdQYXNzd29yZCBDaGFuZ2VkJwogIGVsaWYgY2FzZXN1Yig0NjMpOgogICAgIkxvZ2luIHN0YXR1cyBvciBhY2Nlc3MgdG9rZW4gaGFzIGV4cGlyZWQsIGJlZW4gcmV2b2tlZCwgb3IgaXMgb3RoZXJ3aXNlIGludmFsaWQuIgogICAgc3BlYyA9ICdFeHBpcmVkJwogIGVsaWYgY2FzZXN1Yig0NjQpOgogICAgIlRoZSBVc2VyIG5lZWRzIHRvIGxvZyBpbiB0byBjb3JyZWN0IGFuIGlzc3VlLiIKICAgIHNwZWMgPSAnVW5jb25maXJtZWQgVXNlcicKICBlbGlmIGNhc2VzdWIoNDY3KToKICAgICJBY2Nlc3MgdG9rZW4gaGFzIGV4cGlyZWQsIGJlZW4gcmV2b2tlZCwgb3IgaXMgb3RoZXJ3aXNlIGludmFsaWQuIgogICAgc3BlYyA9ICdJbnZhbGlkIEFjY2VzcyBUb2tlbicKICBlbGlmIGNhc2VzdWIoNDkyKToKICAgICJVc2VyIGFzc29jaWF0ZWQgd2l0aCB0aGUgUGFnZSBhY2Nlc3MgdG9rZW4gZG9lcyBub3QgaGF2ZSBhbiBhcHByb3ByaWF0ZSByb2xlIG9uIHRoZSBQYWdlLiIKICAgIHNwZWMgPSAnSW52YWxpZCBTZXNzaW9uJwoKICBjYXNlID0gbGFtYmRhIG46IGFwaV9jb2RlID09IG4KCiAgaWYgY2FzZSgxMDIpOgogICAgIklmIG5vIHN1YmNvZGUgaXMgcHJlc2VudCwgdGhlIGxvZ2luIHN0YXR1cyBvciBhY2Nlc3MgdG9rZW4gaGFzIGV4cGlyZWQsIGJlZW4gcmV2b2tlZCwgb3IgaXMgb3RoZXJ3aXNlIGludmFsaWQuIgogICAgc3BlYyA9ICdBUEkgU2Vzc2lvbicKICBlbGlmIGNhc2UoMSk6CiAgICAiUG9zc2libHkgYSB0ZW1wb3JhcnkgaXNzdWUgZHVlIHRvIGRvd250aW1lLiBXYWl0IGFuZCByZXRyeSB0aGUgb3BlcmF0aW9uLiBJZiBpdCBvY2N1cnMgYWdhaW4sIGNoZWNrIHRoYXQgeW91IGFyZSByZXF1ZXN0aW5nIGFuIGV4aXN0aW5nIEFQSS4iCiAgICBzcGVjID0gJ0FQSSBVbmtub3duJwogIGVsaWYgY2FzZSgyKToKICAgICJUZW1wb3JhcnkgaXNzdWUgZHVlIHRvIGRvd250aW1lLiBXYWl0IGFuZCByZXRyeSB0aGUgb3BlcmF0aW9uLiIKICAgIHNwZWMgPSAnQVBJIFNlcnZpY2UnCiAgZWxpZiBjYXNlKDQpOgogICAgIlRlbXBvcmFyeSBpc3N1ZSBkdWUgdG8gdGhyb3R0bGluZy4gV2FpdCBhbmQgcmV0cnkgdGhlIG9wZXJhdGlvbiwgb3IgZXhhbWluZSB5b3VyIEFQSSByZXF1ZXN0IHZvbHVtZS4iCiAgICBzcGVjID0gJ0FQSSBUb28gTWFueSBDYWxscycKICBlbGlmIGNhc2UoMTcpOgogICAgIlRlbXBvcmFyeSBpc3N1ZSBkdWUgdG8gdGhyb3R0bGluZy4gV2FpdCBhbmQgcmV0cnkgdGhlIG9wZXJhdGlvbiwgb3IgZXhhbWluZSB5b3VyIEFQSSByZXF1ZXN0IHZvbHVtZS4iCiAgICBzcGVjID0gJ0FQSSBVc2VyIFRvbyBNYW55IENhbGxzJwogIGVsaWYgY2FzZSgxMCk6CiAgICAiUGVybWlzc2lvbiBpcyBlaXRoZXIgbm90IGdyYW50ZWQgb3IgaGFzIGJlZW4gcmVtb3ZlZC4iCiAgICBzcGVjID0gJ0FQSSBQZXJtaXNzaW9uIERlbmllZCcKICBlbGlmIGNhc2UoMTkwKToKICAgICJBY2Nlc3MgdG9rZW4gaGFzIGV4cGlyZWQiCiAgICBzcGVjID0gJ0FjY2VzcyB0b2tlbiBoYXMgZXhwaXJlZCcKICBlbGlmIDIwMCA8PSBhcGlfY29kZSA8PSAyOTk6CiAgICAiUGVybWlzc2lvbiBpcyBlaXRoZXIgbm90IGdyYW50ZWQgb3IgaGFzIGJlZW4gcmVtb3ZlZC4iCiAgICBzcGVjID0gJ0FQSSBQZXJtaXNzaW9uIChNdWx0aXBsZSB2YWx1ZXMgZGVwZW5kaW5nIG9uIHBlcm1pc3Npb24pJwogIGVsaWYgY2FzZSgzNDEpOgogICAgIlRlbXBvcmFyeSBpc3N1ZSBkdWUgdG8gZG93bnRpbWUgb3IgdGhyb3R0bGluZy4gV2FpdCBhbmQgcmV0cnkgdGhlIG9wZXJhdGlvbiwgb3IgZXhhbWluZSB5b3VyIEFQSSByZXF1ZXN0IHZvbHVtZS4iCiAgICBzcGVjID0gJ0FwcGxpY2F0aW9uIGxpbWl0IHJlYWNoZWQnCiAgZWxpZiBjYXNlKDM2OCk6CiAgICAiV2FpdCBhbmQgcmV0cnkgdGhlIG9wZXJhdGlvbi4iCiAgICBzcGVjID0gJ1RlbXBvcmFyaWx5IGJsb2NrZWQgZm9yIHBvbGljaWVzIHZpb2xhdGlvbnMnCiAgZWxpZiBjYXNlKDUwNik6CiAgICAiRHVwbGljYXRlIHBvc3RzIGNhbm5vdCBiZSBwdWJsaXNoZWQgY29uc2VjdXRpdmVseS4gQ2hhbmdlIHRoZSBjb250ZW50IG9mIHRoZSBwb3N0IGFuZCB0cnkgYWdhaW4uIgogICAgc3BlYyA9ICdEdXBsaWNhdGUgUG9zdCcKICBlbGlmIGNhc2UoMTYwOTAwNSk6CiAgICAiVGhlcmUgd2FzIGEgcHJvYmxlbSBzY3JhcGluZyBkYXRhIGZyb20gdGhlIHByb3ZpZGVkIGxpbmsuIENoZWNrIHRoZSBVUkwgYW5kIHRyeSBhZ2Fpbi4iCiAgICBzcGVjID0gJ0Vycm9yIFBvc3RpbmcgTGluaycK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcmludChsZW4oanMpLCB7alsnYWNjb3VudF9pZCddIGZvciBqIGluIGpzfSkK</text>
+        <text encoding="base64">ICAgIHNwZWMgPSAnJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNwZWMgPSAnJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2UK</text>
+        <text encoding="base64">ICAgIHNwZWMgPSAnJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAjIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAjIAo=</text>
+        <text encoding="base64">ICBlbGlmIGNhc2VzdWIoNDU5KToKICAgICIiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmb3IgayBpbiBzb3J0ZWQoKToKICAgIHByaW50KGspCg==</text>
+        <text encoding="base64">ICBub3JtYWxfaXNfZXhwaXJlZCA9IDEwMgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBhbCA9IGFsc1swXQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgbWVzc2FnZSA9IGUubWVzc2FnZQogICAgICBjb2RlID0gZS5jb2RlCiAgICAgIHN1YiA9IGUuZXJyb3Jfc3ViY29kZQogICAgICB1c2VyX21zZyA9IGUuZXJyb3JfdXNlcl9tc2cKICAgICAgdXNlcl90aXRsZSA9IGUuZXJyb3JfdXNlcl90aXRsZQ==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBhdXRoID0gR29vZ2xlQXV0aC5nZXQoZW1haWw9J2pvaG5AY2hhb3NkZXZzLmNvbScpCiAgYWwgPSBhdXRoLmxvY3NbMF0KICBjYXQgPSBhbC5wcmltYXJ5X2NhdGVnb3J5CiAgIyBjYXQgPSBhbC5hZGRpdGlvbmFsX2NhdGVnb3JpZXNbMF0KICBwYXJhbXMgPSB7CiAgICAnbmFtZSc6IGFsLmZ1bGxfZWlkLAogICAgJ2NhdGVnb3J5SWQnOiAnZ2NpZDpvcnRob3BlZGljX3N1cmdlb24nLAogICAgJ2NvdW50cnknOiAndXMnLAogICAgJ2xhbmd1YWdlQ29kZSc6ICdlbicKICB9CiAgcmVzID0gR29vZ2xlQXBpKGF1dGgpLnJlcSgnL2F0dHJpYnV0ZXMnLCAqKnBhcmFtcykKICBwcmludChwcmV0dHlfanNvbihyZXMpKQogIHByaW50KGFsLnByaW1hcnlfY2F0ZWdvcnkpCiAgcHJpbnQoYWwuYWRkaXRpb25hbF9jYXRlZ29yaWVzKQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgcGFzcwo=</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>maps.keys()</text>
+        <text>fingerprint=None, remove_acc_finger=None, global_finger=None</text>
       </register>
       <register name="/" type="4">
         <text>_is_or_is_not</text>
