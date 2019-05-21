@@ -30,12 +30,12 @@
         <mark key="." line="231" column="47" />
         <mark key="^" line="231" column="47" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1558392048076">
-        <mark key="'" line="184" column="0" />
-        <mark key="[" line="187" column="16" />
-        <mark key="]" line="188" column="39" />
-        <mark key="^" line="188" column="39" />
-        <mark key="." line="188" column="39" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1558466437277">
+        <mark key="'" line="193" column="0" />
+        <mark key="[" line="201" column="65" />
+        <mark key="]" line="201" column="71" />
+        <mark key="^" line="201" column="71" />
+        <mark key="." line="201" column="71" />
       </file>
       <file name="/code/sc/web/cli/chils.py" timestamp="1558394004395">
         <mark key="[" line="223" column="14" />
@@ -153,16 +153,16 @@
         <mark key="^" line="600" column="16" />
         <mark key="." line="600" column="16" />
       </file>
-      <file name="/code/sc/web/sc/sql/platform/auth/__init__.py" timestamp="1558391745436">
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
-        <mark key="^" line="113" column="0" />
+      <file name="/code/sc/web/sc/sql/platform/auth/__init__.py" timestamp="1558466303405">
+        <mark key="[" line="44" column="28" />
+        <mark key="]" line="44" column="29" />
+        <mark key="." line="44" column="29" />
+        <mark key="^" line="44" column="29" />
       </file>
       <file name="/Python Console" timestamp="1558392339305">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1558391600893">
+      <file name="/fragment.py" timestamp="1558466162119">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code/sc/web/sc/app/tasks/rosetta.py" timestamp="1558460889240">
@@ -263,16 +263,15 @@
         <mark key="^" line="22" column="24" />
         <mark key="." line="22" column="24" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1558392051076">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1558466478002">
         <mark key="'" line="168" column="0" />
-        <mark key="[" line="232" column="1" />
-        <mark key="]" line="240" column="0" />
-        <mark key="^" line="240" column="0" />
-        <mark key="." line="240" column="0" />
+        <mark key="[" line="241" column="0" />
+        <mark key="]" line="241" column="0" />
+        <mark key="." line="241" column="0" />
+        <mark key="^" line="241" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="0" filename="/code/sc/web/static/web/views/settings/platforms/setup/setup-sync.html" />
       <jump line="51" column="2" filename="/code/sc/web/static/web/views/settings/platforms/setup/setup-sync.ts" />
       <jump line="25" column="21" filename="/code/sc/web/static/web/views/settings/platforms/setup/setup-sync.ts" />
       <jump line="102" column="0" filename="/code/sc/web/static/web/views/settings/platforms/connect-platform/connect-platform.html" />
@@ -372,40 +371,41 @@
       <jump line="117" column="4" filename="/code/sc/web/sc/app/tasks/rosetta.py" />
       <jump line="347" column="38" filename="/code/sc/web/cli/ones.py" />
       <jump line="100" column="9" filename="/code/sc/web/sc/app/plats/api/facebook.py" />
+      <jump line="193" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICBhbC5wcmltYXJ5X2NhdGVnb3J5ID0gYWwucHJpbWFyeV9jYXRlZ29yeSBvciB7fQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBhdXRocwp3aGVyZSBlbWFpbCA9ICd0YWxsZW5Ac29jaWFsY2xpbWUuY29tJwo7CgppbnNlcnQgaW50byBhdXRocyAoaWQsIGVtYWlsLCBraW5kLCBuYW1lLCBjcmVhdGVkX2F0LCB1cGRhdGVkX2F0LCBhdXRoX2Vycm9yLCBpZF90b2tlbikKdmFsdWVzICg0NywgJ3RhbGxlbkBzb2NpYWxjbGltZS5jb20nLCAnZ29vZ2xlJywgJ1R5IEFsbGVuJywgbm93KCksIG5vdygpLCBmYWxzZSwgJ3t9Jyk7Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpZiBkZWxfaWRzOgogICAgTm90aWZpY2F0aW9uLmRlbGV0ZV9xdWVyeShpZHM9ZGVsX2lkcykK</text>
+        <text encoding="base64">aW5zZXJ0IGludG8gYXV0aHMgKGlkLCBlbWFpbCwga2luZCwgbmFtZSwgY3JlYXRlZF9hdCwgZGVsZXRlZF9hdCwgdXBkYXRlZF9hdCwgY3JlZHMsIHJlZnJlc2hfdG9rZW4sIGFjY2Vzc190b2tlbiwKICAgICAgICAgICAgICAgICAgIGNyZWF0ZWRfYnksIHVwZGF0ZWRfYnksIGF1dGhfZXJyb3IpCnZhbHVlcyAoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGpvaW4gbG9jYXRpb25zIGwgb24gbHAubG9jYXRpb25faWQgPSBsLmlkCg==</text>
+        <text encoding="base64">ICBhbC5wcmltYXJ5X2NhdGVnb3J5ID0gYWwucHJpbWFyeV9jYXRlZ29yeSBvciB7fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGpvaW4gbG9jYXRpb25fcGxhdGZvcm1zIGxwIG9uIHIubG9jYXRpb25fcGxhdGZvcm1faWQgPSBscC5pZAo=</text>
+        <text encoding="base64">ICBpZiBkZWxfaWRzOgogICAgTm90aWZpY2F0aW9uLmRlbGV0ZV9xdWVyeShpZHM9ZGVsX2lkcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpZF90b2tlbiA9IENvbHVtbihKU09OLCBkZWZhdWx0PXt9LCBudWxsYWJsZT1GYWxzZSkK</text>
+        <text encoding="base64">ICAgIGpvaW4gbG9jYXRpb25zIGwgb24gbHAubG9jYXRpb25faWQgPSBsLmlkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpZF90b2tlbiA9IENvbHVtbihKU09OLCBkZWZhdWx0PXt9LCBudWxsYWJsZT1GYWxzZSkK</text>
+        <text encoding="base64">ICAgIGpvaW4gbG9jYXRpb25fcGxhdGZvcm1zIGxwIG9uIHIubG9jYXRpb25fcGxhdGZvcm1faWQgPSBscC5pZAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICBpZF90b2tlbiA9IENvbHVtbihKU09OLCBkZWZhdWx0PXt9LCBudWxsYWJsZT1GYWxzZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzYS51bmRlZmVycmVkX2NvbHMoY2xzKQo=</text>
+        <text encoding="base64">ICBpZF90b2tlbiA9IENvbHVtbihKU09OLCBkZWZhdWx0PXt9LCBudWxsYWJsZT1GYWxzZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGFyZ3VtZW50KCdpZGQnKQo=</text>
+        <text encoding="base64">ICBpZF90b2tlbiA9IENvbHVtbihKU09OLCBkZWZhdWx0PXt9LCBudWxsYWJsZT1GYWxzZSkK</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>gcid:</text>
+        <text>, updated_at</text>
       </register>
       <register name="/" type="4">
         <text>_is_or_is_not</text>
