@@ -49,6 +49,13 @@
         <mark key="." line="8" column="0" />
       </file>
       <file name="/code/sc/web/sc/app/integs/rosetta.py" timestamp="1558460824410" />
+      <file name="/code/sc/web/sc/app/plats/api/facebook.py" timestamp="1558463778940">
+        <mark key="'" line="103" column="9" />
+        <mark key="[" line="67" column="10" />
+        <mark key="]" line="67" column="23" />
+        <mark key="^" line="67" column="23" />
+        <mark key="." line="67" column="23" />
+      </file>
       <file name="/code/sc/web/static/web/views/settings/platforms/connect-platform/connect-platform.html" timestamp="1557842500696">
         <mark key="'" line="67" column="25" />
         <mark key="[" line="50" column="30" />
@@ -125,6 +132,7 @@
         <mark key="." line="6" column="46" />
         <mark key="^" line="6" column="46" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/facepy/graph_api.py" timestamp="1558463534368" />
       <file name="/code/sc/web/instance/env.txt" timestamp="1558461596584">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -183,6 +191,7 @@
       <file name="/code/sc/web/sc/coms/ext/pubsubs.py" timestamp="1558390101765">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/facepy/exceptions.py" timestamp="1558463369421" />
       <file name="/code/sc/web/static/web/views/nav-toolbar/switch-accounts/switch-accounts.dialog.html" timestamp="1557871926025">
         <mark key="'" line="21" column="17" />
         <mark key="[" line="3" column="14" />
@@ -263,7 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="/code/sc/web/static/web/views/settings/platforms/setup/setup-sync.html" />
       <jump line="68" column="0" filename="/code/sc/web/static/web/views/settings/platforms/setup/setup-sync.html" />
       <jump line="51" column="2" filename="/code/sc/web/static/web/views/settings/platforms/setup/setup-sync.ts" />
       <jump line="25" column="21" filename="/code/sc/web/static/web/views/settings/platforms/setup/setup-sync.ts" />
@@ -363,6 +371,7 @@
       <jump line="32" column="20" filename="/code/sc/web/instance/local/develop_settings.py" />
       <jump line="117" column="4" filename="/code/sc/web/sc/app/tasks/rosetta.py" />
       <jump line="347" column="38" filename="/code/sc/web/cli/ones.py" />
+      <jump line="100" column="9" filename="/code/sc/web/sc/app/plats/api/facebook.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
