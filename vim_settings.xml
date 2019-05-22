@@ -35,7 +35,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/code/sc/web/sc/app/integs/rosetta.py" timestamp="1558460824410" />
       <file name="/code/sc/web/sc/app/plats/api/facebook.py" timestamp="1558478334964">
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="0" />
@@ -94,6 +93,12 @@
         <mark key="^" line="116" column="47" />
         <mark key="." line="116" column="47" />
       </file>
+      <file name="/code/sc/web/sc/coms/ext/fingerpoint.py" timestamp="1558510394191">
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="11" column="16" />
+        <mark key="^" line="11" column="16" />
+        <mark key="." line="11" column="16" />
+      </file>
       <file name="/code/sc/web/static/web/views/nav-toolbar/nav-toolbar.ts" timestamp="1557865885299">
         <mark key="'" line="35" column="92" />
         <mark key="[" line="35" column="12" />
@@ -122,7 +127,6 @@
         <mark key="." line="6" column="46" />
         <mark key="^" line="6" column="46" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/facepy/graph_api.py" timestamp="1558463534368" />
       <file name="/code/sc/web/instance/env.txt" timestamp="1558470241260">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -193,7 +197,6 @@
         <mark key="^" line="13" column="2" />
         <mark key="." line="13" column="2" />
       </file>
-      <file name="/code/sc/web/sc/app/plats/listings/google/restful.py" timestamp="1558461484244" />
       <file name="/code/sc/web/sc/coms/ext/logstypes.py" timestamp="1558478690303">
         <mark key="[" line="43" column="36" />
         <mark key="]" line="43" column="43" />
@@ -203,8 +206,6 @@
       <file name="/code/sc/web/sc/coms/ext/pubsubs.py" timestamp="1558390101765">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/code/sc/web/sc/const.py" timestamp="1558468363966" />
-      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/facepy/exceptions.py" timestamp="1558470961350" />
       <file name="/code/sc/web/static/web/views/nav-toolbar/switch-accounts/switch-accounts.dialog.html" timestamp="1557871926025">
         <mark key="'" line="21" column="17" />
         <mark key="[" line="3" column="14" />
@@ -221,6 +222,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1558391268654">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.py" timestamp="1558510808125">
+        <mark key="[" line="7" column="54" />
+        <mark key="]" line="7" column="80" />
+        <mark key="." line="7" column="80" />
+        <mark key="^" line="7" column="80" />
       </file>
       <file name="/code/sc/web/static/web/views/listings/listings.ts" timestamp="1557873577814">
         <mark key="'" line="169" column="6" />
@@ -381,37 +388,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICB0YWdzLCBleHRyYSA9IAo=</text>
+        <text encoding="base64">cChGaW5nZXJwb2ludC5EZWZhdWx0ICYgKEZpbmdlcnBvaW50LkRlZmF1bHQgfCBGaW5nZXJwb2ludC5BY2MpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsb2dfZmluZ2VycyA9IGV4dHJhLmdldCgnZmluZ2VycHJpbnQnKSBvciBbXQo=</text>
+        <text encoding="base64">ICBwcmludChwKGEpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgd2l0aCBzdXBwcmVzcyhLZXlFcnJvcik6CiAgICAgICAgbG9ncmVjLmZpbmdlcnByaW50ID0gZWRbJ2V4dHJhJ11bJ2ZpbmdlcnByaW50J10K</text>
+        <text encoding="base64">ICAKICBwcmludChmInthLnZhbHVlOjA4Yn0iKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnZmluZ2VycHJpbnQnOiBmaW5nZXJwcmludCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJ2ZpbmdlcnByaW50JzogZmluZ2VycHJpbnQsCg==</text>
+        <text encoding="base64">ICBwcmludChmInsweDEyMzQ6Yn0iKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJ2ZpbmdlcnByaW50JzogZmluZ2VycHJpbnQsCg==</text>
+        <text encoding="base64">RmluZ2VycG9pbnQuQWNjCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0YWdzLCBleHRyYSA9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsb2dfZmluZ2VycyA9IGV4dHJhLmdldCgnZmluZ2VycHJpbnQnKSBvciBbXQo=</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bG9nX2ZpbmdlcnMgb3Ig</text>
+        <text>Acc</text>
       </register>
       <register name="/" type="4">
         <text>_is_or_is_not</text>
