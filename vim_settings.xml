@@ -9,8 +9,29 @@
       <file name="/fragment.py" timestamp="1558466162119">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/code/sc/web/static/common/models/user.model.ts" timestamp="1558559350922">
+        <mark key="[" line="52" column="14" />
+        <mark key="]" line="53" column="28" />
+        <mark key="^" line="53" column="28" />
+        <mark key="." line="53" column="28" />
+      </file>
       <file name="/a.dummy" timestamp="1558526575590">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/code/sc/web/cli/ones.py" timestamp="1558560120566">
+        <mark key="[" line="467" column="57" />
+        <mark key="]" line="467" column="60" />
+        <mark key="." line="467" column="60" />
+        <mark key="^" line="467" column="60" />
+      </file>
+      <file name="/code/sc/web/sc/app/tasks/rosetta.py" timestamp="1558460889240">
+        <mark key="'" line="117" column="4" />
+      </file>
+      <file name="/code/sc/web/static/web/web.ts" timestamp="1558559308399">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="/code/sc/web/sc/coms/dm/able.py" timestamp="1558468299233">
+        <mark key="'" line="13" column="6" />
       </file>
       <file name="/code/sc/web/sc/mods/web/rest/accounts/platforms_view.py" timestamp="1558540224009">
         <mark key="[" line="117" column="39" />
@@ -25,18 +46,33 @@
         <mark key="." line="208" column="23" />
         <mark key="^" line="208" column="23" />
       </file>
+      <file name="/code/sc/web/sc/coms/dm/crud.py" timestamp="1558560189874">
+        <mark key="[" line="96" column="18" />
+        <mark key="]" line="96" column="40" />
+        <mark key="^" line="96" column="40" />
+        <mark key="." line="96" column="40" />
+      </file>
       <file name="/code/sc/web/sc/app/plats/api/facebook.py" timestamp="1558550022933" />
+      <file name="/code/sc/web/static/web/views/invite/invite.ts" timestamp="1558534576955">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/code/sc/web/sc/coms/ext/logstypes.py" timestamp="1558478690303">
         <mark key="[" line="41" column="36" />
         <mark key="]" line="41" column="43" />
         <mark key="." line="41" column="43" />
         <mark key="^" line="41" column="43" />
       </file>
-      <file name="/code/sc/web/sc/sql/user/__init__.py" timestamp="1558558480138">
-        <mark key="[" line="96" column="46" />
-        <mark key="]" line="96" column="82" />
-        <mark key="^" line="96" column="82" />
-        <mark key="." line="96" column="82" />
+      <file name="/code/sc/web/sc/coms/ext/pubsubs.py" timestamp="1558390101765">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="/code/sc/web/sc/sql/user/__init__.py" timestamp="1558560265371">
+        <mark key="[" line="96" column="33" />
+        <mark key="]" line="97" column="80" />
+        <mark key="^" line="97" column="80" />
+        <mark key="." line="97" column="80" />
+      </file>
+      <file name="/code/sc/web/sc/sql/platform/auth_loc/__init__.py" timestamp="1558468433918">
+        <mark key="'" line="177" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1558555534180">
         <mark key="[" line="0" column="0" />
@@ -63,17 +99,27 @@
         <mark key="." line="5" column="2" />
       </file>
       <file name="/code/sc/web/sc/mods/web/rest/accounts/listings_view.py" timestamp="1558555295689" />
+      <file name="/code/sc/web/static/common/components/saved-searches/saved-searches.service.ts" timestamp="1558559601944">
+        <mark key="'" line="15" column="13" />
+        <mark key="[" line="126" column="39" />
+        <mark key="]" line="126" column="50" />
+        <mark key="^" line="126" column="50" />
+        <mark key="." line="126" column="50" />
+      </file>
       <file name="/code/sc/web/sc/late.py" timestamp="1558529163783">
         <mark key="[" line="28" column="30" />
         <mark key="]" line="28" column="43" />
         <mark key="^" line="28" column="43" />
         <mark key="." line="28" column="43" />
       </file>
-      <file name="/code/sc/web/static/web/views/nav-toolbar/user-prefs/user-prefs.html" timestamp="1558558477382">
+      <file name="/code/sc/web/static/web/views/nav-toolbar/user-prefs/user-prefs.html" timestamp="1558559341584">
         <mark key="[" line="106" column="0" />
         <mark key="]" line="106" column="0" />
         <mark key="^" line="104" column="63" />
         <mark key="." line="106" column="0" />
+      </file>
+      <file name="/code/sc/web/sc/sql/review/__init__.py" timestamp="1558535365524">
+        <mark key="'" line="27" column="6" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1558555729827">
         <mark key="'" line="215" column="20" />
@@ -90,8 +136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="46" filename="/code/sc/web/static/web/views/settings/platforms/setup/setup-sync.html" />
-      <jump line="31" column="29" filename="/code/sc/web/static/web/views/settings/platforms/setup/specific-listings/specific-listings.ts" />
       <jump line="74" column="23" filename="/code/sc/web/static/web/views/settings/platforms/setup/specific-listings/specific-listings.ts" />
       <jump line="87" column="42" filename="/code/sc/web/static/web/views/settings/platforms/setup/specific-listings/specific-listings.ts" />
       <jump line="88" column="0" filename="/code/sc/web/sc/app/plats/syncs/setup/setup.py" />
@@ -190,40 +234,42 @@
       <jump line="195" column="28" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
       <jump line="215" column="20" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
       <jump line="0" column="0" filename="/code/sc/web/static/web/views/nav-toolbar/user-accounts/invite-user/invite-user.html" />
+      <jump line="0" column="0" filename="/code/sc/web/static/web/web.ts" />
+      <jump line="14" column="13" filename="/code/sc/web/static/common/components/saved-searches/saved-searches.service.ts" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjID0gVXNlci5zZWFyY2goVXNlci5lbmFibGVfbGFzdF9zZWFyY2ggPT0gVHJ1ZSkuY291bnQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUHJldmVudCBhZG1pbnMgZnJvbSBzZWVpbmcgSW5zaWdodHMgaW4gdGhlIG5hdgo=</text>
+        <text encoding="base64">ICBwcmludChjKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICBhdXRoID0gRmFjZUF1dGgucXVlcnkuZmlyc3QoKQogIGNscyA9IHR5cGUoYXV0aCkKICBhbGxzID0gc2EuYWxsX2NvbHMoY2xzKQogIGNvbHMgPSBzYS51bmRlZmVycmVkX2NvbHMoY2xzKQogIGJhc2UgPSBzYS5iYXNlX2NvbHMoY2xzKQogIHByaW50KHNvcnRlZChjb2xzKSkKCiAgaWYgaGFzX2NoYW5nZXMoYXV0aCwgY29scyk6CiAgICBvbl9iZWZvcmUoYXV0aCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">d2hlcmUgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAY2xhc3NtZXRob2QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUHJldmVudCBhZG1pbnMgZnJvbSBzZWVpbmcgSW5zaWdodHMgaW4gdGhlIG5hdgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAjIG5vaW5zcGVjdGlvbiBQeURhdGFjbGFzcwo=</text>
+        <text encoding="base64">d2hlcmUgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAjIG5vaW5zcGVjdGlvbiBQeURhdGFjbGFzcwo=</text>
+        <text encoding="base64">ICBAY2xhc3NtZXRob2QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGF0dHJzKGF1dG9fYXR0cmlicz1UcnVlKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s//Finger</text>
       </register>
       <register name="-" type="4">
-        <text>disable_last_search</text>
+        <text>JSON</text>
       </register>
       <register name="/" type="4">
         <text>Fingerpoint</text>
