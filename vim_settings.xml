@@ -39,12 +39,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/code/sc/web/sc/app/plats/api/facebook.py" timestamp="1558534103756">
+      <file name="/code/sc/web/sc/app/plats/api/facebook.py" timestamp="1558536357394">
         <mark key="'" line="42" column="29" />
-        <mark key="[" line="130" column="13" />
-        <mark key="]" line="130" column="12" />
-        <mark key="^" line="130" column="12" />
-        <mark key="." line="130" column="12" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="^" line="124" column="11" />
+        <mark key="." line="124" column="0" />
       </file>
       <file name="/code/sc/web/static/web/views/invite/invite.ts" timestamp="1558534576955">
         <mark key="'" line="0" column="0" />
@@ -272,11 +272,11 @@
         <mark key="^" line="85" column="50" />
         <mark key="." line="85" column="52" />
       </file>
-      <file name="/code/sc/web/sc/app/plats/api/base.py" timestamp="1558534303399">
-        <mark key="[" line="34" column="32" />
-        <mark key="]" line="36" column="13" />
-        <mark key="^" line="36" column="13" />
-        <mark key="." line="36" column="13" />
+      <file name="/code/sc/web/sc/app/plats/api/base.py" timestamp="1558536331388">
+        <mark key="[" line="36" column="46" />
+        <mark key="]" line="36" column="54" />
+        <mark key="." line="36" column="54" />
+        <mark key="^" line="36" column="54" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/flask/globals.py" timestamp="1558529146492" />
       <file name="/code/sc/web/sc/app/reviews/crud.py" timestamp="1557874046747">
@@ -285,6 +285,9 @@
         <mark key="]" line="23" column="68" />
         <mark key="^" line="23" column="68" />
         <mark key="." line="23" column="68" />
+      </file>
+      <file name="/code/sc/web/sc/sql/review/__init__.py" timestamp="1558535365524">
+        <mark key="'" line="27" column="6" />
       </file>
       <file name="/code/sc/web/sc/coms/ext/flasks.py" timestamp="1558527799289">
         <mark key="[" line="75" column="0" />
@@ -313,7 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="39" filename="/code/sc/web/static/web/views/settings/platforms/setup/setup-sync.html" />
       <jump line="77" column="0" filename="/code/sc/web/static/web/views/settings/platforms/setup/setup-sync.html" />
       <jump line="8" column="13" filename="/code/sc/web/static/web/views/settings/locations/details/location-details.html" />
       <jump line="36" column="28" filename="/code/sc/web/static/web/views/settings/platforms/setup/specific-listings/specific-listings.ts" />
@@ -413,40 +415,41 @@
       <jump line="127" column="28" filename="/code/sc/web/sc/app/plats/api/facebook.py" />
       <jump line="42" column="29" filename="/code/sc/web/sc/app/plats/api/facebook.py" />
       <jump line="0" column="0" filename="/code/sc/web/static/web/views/invite/invite.ts" />
+      <jump line="27" column="6" filename="/code/sc/web/sc/sql/review/__init__.py" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgdHJ5OgogICAgYWwgPSBvYmouYWwKICBleGNlcHQgQXR0cmlidXRlRXJyb3I6CiAgICBhbCA9IG9iag==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcGFydHMgPSB1cmwuc3BsaXQoJy8nKQogICAgICBmb3IgaSwgcGFydCBpbiBlbnVtZXJhdGUocGFydHMpOgogICAgICAgIGlmIGkgJSAyID09IDA6CiAgICAgIG0gPSByZS5zZWFyY2gocicvYWNjb3VudHMvXGQrLyhsb2NhdGlvbnMvXGQrKScsIHVybCkKICAgICAgZWlkID0gTm9uZQogICAgICBpZiBtOgogICAgICAgIGVpZCA9IG0uZ3JvdXAoMSkK</text>
+        <text encoding="base64">ICBpZiBhY2Nlc3NfdG9rZW4gYW5kIG5vdCBscDoKICAgIGxwID0gYWwubHAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIDoKICBtID0gcmUuc2VhcmNoKHInL2FjY291bnRzL1xkKy8obG9jYXRpb25zL1xkKyknLCBpKQoKICBwcihtKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcmludChtLmdyb3VwKDEpKQogIG0uZ3JvdXAoKQogIG0uZW5kKCkKICBpZiBtOgogICAgZm9yIG5hbWUsIG8gaW4gZ2V0bWVtYmVycyhtKToKICAgICAgaWYgbmFtZS5zdGFydHN3aXRoKCdfJyk6IGNvbnRpbnVlCiAgICAgIGlmIGlzcm91dGluZShvKToKICAgICAgICBjb250aW51ZQogICAgICBwcmludChmJ3tuYW1lOjIwfSB7b30nKQo=</text>
+        <text encoding="base64">ICAgICAgcGFydHMgPSB1cmwuc3BsaXQoJy8nKQogICAgICBmb3IgaSwgcGFydCBpbiBlbnVtZXJhdGUocGFydHMpOgogICAgICAgIGlmIGkgJSAyID09IDA6CiAgICAgIG0gPSByZS5zZWFyY2gocicvYWNjb3VudHMvXGQrLyhsb2NhdGlvbnMvXGQrKScsIHVybCkKICAgICAgZWlkID0gTm9uZQogICAgICBpZiBtOgogICAgICAgIGVpZCA9IG0uZ3JvdXAoMSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYiA9IE5vbmUK</text>
+        <text encoding="base64">ICAgIGlmIDoKICBtID0gcmUuc2VhcmNoKHInL2FjY291bnRzL1xkKy8obG9jYXRpb25zL1xkKyknLCBpKQoKICBwcihtKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBiID0gbygpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYiA9IE5vbmUKICAgICAgaWYgaXNtZXRob2Qobyk6CiAgICAgICAgYiA9IG8oKQo=</text>
+        <text encoding="base64">ICBwcmludChtLmdyb3VwKDEpKQogIG0uZ3JvdXAoKQogIG0uZW5kKCkKICBpZiBtOgogICAgZm9yIG5hbWUsIG8gaW4gZ2V0bWVtYmVycyhtKToKICAgICAgaWYgbmFtZS5zdGFydHN3aXRoKCdfJyk6IGNvbnRpbnVlCiAgICAgIGlmIGlzcm91dGluZShvKToKICAgICAgICBjb250aW51ZQogICAgICBwcmludChmJ3tuYW1lOjIwfSB7b30nKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KHZhcnMobSkpCg==</text>
+        <text encoding="base64">ICAgICAgYiA9IE5vbmUK</text>
       </register>
       <register name=":" type="4">
         <text>%s//Finger</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG9yIE5vbmU=</text>
+        <text>self</text>
       </register>
       <register name="/" type="4">
         <text>Fingerpoint</text>
