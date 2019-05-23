@@ -3,25 +3,62 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/code/sc/web/static/common/constants.ts" timestamp="1558637533512">
-        <mark key="'" line="28" column="12" />
+      <file name="/code/sc/web/static/web/views/messages/details/cust-view/customer-view.html" timestamp="1558633372269">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="^" line="111" column="17" />
+        <mark key="." line="116" column="0" />
+      </file>
+      <file name="/code/sc/web/static/web/views/campaigns/campaigns.ts" timestamp="1558631661919">
+        <mark key="[" line="48" column="13" />
+        <mark key="]" line="48" column="19" />
+        <mark key="." line="48" column="19" />
+        <mark key="^" line="48" column="19" />
+      </file>
+      <file name="/code/sc/web/static/common/constants.ts" timestamp="1558640446028">
+        <mark key="'" line="58" column="16" />
         <mark key="[" line="148" column="38" />
         <mark key="]" line="148" column="45" />
         <mark key="." line="148" column="45" />
         <mark key="^" line="148" column="45" />
       </file>
-      <file name="/code/sc/web/static/common/models/platform.model.ts" timestamp="1558635036133" />
+      <file name="/code/sc/web/static/web/views/messages/details/message-details.ts" timestamp="1558634120463">
+        <mark key="[" line="78" column="18" />
+        <mark key="]" line="79" column="1" />
+        <mark key="." line="79" column="1" />
+        <mark key="^" line="79" column="1" />
+      </file>
+      <file name="/code/sc/web/sc/app/accounts/setup/account_setup.py" timestamp="1558637047902">
+        <mark key="[" line="227" column="38" />
+        <mark key="]" line="227" column="44" />
+        <mark key="." line="227" column="44" />
+        <mark key="^" line="227" column="44" />
+      </file>
       <file name="/code/sc/web/sc/app/campaigns/restful.py" timestamp="1558637091779">
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
         <mark key="^" line="75" column="37" />
       </file>
+      <file name="/code/sc/web/static/common/services/enums.ts" timestamp="1558638468796">
+        <mark key="'" line="77" column="0" />
+        <mark key="[" line="113" column="7" />
+        <mark key="]" line="113" column="10" />
+        <mark key="." line="113" column="10" />
+        <mark key="^" line="113" column="10" />
+      </file>
       <file name="/code/sc/web/static/common/components/emoji-picker/emoji-picker.ts" timestamp="1558633186608">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="6" column="2" />
         <mark key="^" line="6" column="2" />
         <mark key="." line="6" column="2" />
+      </file>
+      <file name="/code/sc/web/sc/const.py" timestamp="1558637523984">
+        <mark key="'" line="67" column="9" />
+        <mark key="[" line="192" column="0" />
+        <mark key="]" line="193" column="48" />
+        <mark key="^" line="193" column="48" />
+        <mark key="." line="193" column="48" />
       </file>
       <file name="/code/sc/web/static/web/views/messages/messages.html" timestamp="1558633580980">
         <mark key="'" line="23" column="18" />
@@ -30,7 +67,6 @@
         <mark key="." line="0" column="35" />
         <mark key="^" line="0" column="35" />
       </file>
-      <file name="/code/sc/web/static/common/model.ts" timestamp="1558637436865" />
       <file name="/code/sc/web/sc/sql/globals/__init__.py" timestamp="1558637161066">
         <mark key="'" line="117" column="88" />
         <mark key="[" line="27" column="82" />
@@ -50,63 +86,6 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="13" column="27" />
       </file>
-      <file name="/code/sc/web/static/web/views/settings/invite-setup/message-setup/message-setup.ts" timestamp="1558637186919">
-        <mark key="[" line="57" column="23" />
-        <mark key="]" line="57" column="32" />
-        <mark key="." line="57" column="32" />
-        <mark key="^" line="57" column="32" />
-      </file>
-      <file name="/code/sc/web/static/web/http/providers-resource.service.ts" timestamp="1558631855058">
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="9" column="19" />
-        <mark key="^" line="9" column="19" />
-        <mark key="." line="9" column="19" />
-      </file>
-      <file name="/code/sc/web/static/web/views/messages/prov-ext-ids/prov-ext-ids.ts" timestamp="1558632999734">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="9" column="2" />
-        <mark key="^" line="9" column="2" />
-        <mark key="." line="9" column="2" />
-      </file>
-      <file name="/code/sc/web/static/web/views/messages/details/cust-view/customer-view.html" timestamp="1558633372269">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="^" line="111" column="17" />
-        <mark key="." line="116" column="0" />
-      </file>
-      <file name="/code/sc/web/static/web/views/campaigns/campaigns.ts" timestamp="1558631661919">
-        <mark key="[" line="48" column="13" />
-        <mark key="]" line="48" column="19" />
-        <mark key="." line="48" column="19" />
-        <mark key="^" line="48" column="19" />
-      </file>
-      <file name="/code/sc/web/static/web/views/messages/details/message-details.ts" timestamp="1558634120463">
-        <mark key="[" line="78" column="18" />
-        <mark key="]" line="79" column="1" />
-        <mark key="." line="79" column="1" />
-        <mark key="^" line="79" column="1" />
-      </file>
-      <file name="/code/sc/web/sc/app/accounts/setup/account_setup.py" timestamp="1558637047902">
-        <mark key="[" line="227" column="38" />
-        <mark key="]" line="227" column="44" />
-        <mark key="." line="227" column="44" />
-        <mark key="^" line="227" column="44" />
-      </file>
-      <file name="/code/sc/web/static/common/services/enums.ts" timestamp="1558638468796">
-        <mark key="'" line="77" column="0" />
-        <mark key="[" line="113" column="7" />
-        <mark key="]" line="113" column="10" />
-        <mark key="." line="113" column="10" />
-        <mark key="^" line="113" column="10" />
-      </file>
-      <file name="/code/sc/web/sc/const.py" timestamp="1558637523984">
-        <mark key="'" line="67" column="9" />
-        <mark key="[" line="192" column="0" />
-        <mark key="]" line="193" column="48" />
-        <mark key="^" line="193" column="48" />
-        <mark key="." line="193" column="48" />
-      </file>
-      <file name="/code/sc/web/static/common/interfaces/gmb.ts" timestamp="1558620205425" />
       <file name="/code/sc/web/static/web/http/providers-resource.ts" timestamp="1558635563809">
         <mark key="[" line="9" column="19" />
         <mark key="]" line="9" column="19" />
@@ -139,11 +118,29 @@
         <mark key="." line="25" column="30" />
         <mark key="^" line="25" column="30" />
       </file>
+      <file name="/code/sc/web/static/web/views/settings/invite-setup/message-setup/message-setup.ts" timestamp="1558637186919">
+        <mark key="[" line="57" column="23" />
+        <mark key="]" line="57" column="32" />
+        <mark key="." line="57" column="32" />
+        <mark key="^" line="57" column="32" />
+      </file>
       <file name="/code/sc/web/static/web/http/providers.resource.ts" timestamp="1558635695244">
         <mark key="[" line="33" column="13" />
         <mark key="]" line="33" column="20" />
         <mark key="." line="33" column="20" />
         <mark key="^" line="33" column="20" />
+      </file>
+      <file name="/code/sc/web/static/web/http/providers-resource.service.ts" timestamp="1558631855058">
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="9" column="19" />
+        <mark key="^" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+      </file>
+      <file name="/code/sc/web/static/web/views/messages/prov-ext-ids/prov-ext-ids.ts" timestamp="1558632999734">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="9" column="2" />
+        <mark key="^" line="9" column="2" />
+        <mark key="." line="9" column="2" />
       </file>
       <file name="/code/sc/web/static/web/views/messages/search/messages-search.ts" timestamp="1558633555116">
         <mark key="[" line="10" column="0" />
@@ -153,7 +150,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="2" filename="/code/sc/web/static/web/views/settings/locations/locations.ts" />
       <jump line="138" column="2" filename="/code/sc/web/static/web/views/settings/locations/locations.ts" />
       <jump line="146" column="0" filename="/code/sc/web/static/web/views/reviews/list/reviews-list.ts" />
       <jump line="9" column="13" filename="/code/sc/web/static/common/models/location.model.ts" />
@@ -253,6 +249,7 @@
       <jump line="28" column="12" filename="/code/sc/web/static/common/constants.ts" />
       <jump line="67" column="9" filename="/code/sc/web/sc/const.py" />
       <jump line="117" column="88" filename="/code/sc/web/sc/sql/globals/__init__.py" />
+      <jump line="58" column="16" filename="/code/sc/web/static/common/constants.ts" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -299,11 +296,10 @@
       <last-replace>Message</last-replace>
       <last-substitute>Provider</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>use</entry>
         <entry>prefer</entry>
         <entry>disa</entry>
         <entry>Error</entry>
