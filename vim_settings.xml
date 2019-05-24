@@ -12,12 +12,10 @@
       <file name="/code/sc/web/sc/sql/platform/auth/__init__.py" timestamp="1558722612771">
         <mark key="'" line="105" column="6" />
       </file>
-      <file name="/code/sc/web/cli/ones.py" timestamp="1558722772689">
-        <mark key="'" line="438" column="10" />
-        <mark key="[" line="476" column="23" />
-        <mark key="]" line="477" column="17" />
-        <mark key="^" line="477" column="17" />
-        <mark key="." line="477" column="17" />
+      <file name="/code/sc/web/cli/ones.py" timestamp="1558726555096">
+        <mark key="]" line="29" column="15" />
+        <mark key="^" line="29" column="15" />
+        <mark key="." line="29" column="15" />
       </file>
       <file name="/code/sc/web/sc/sql/integ/hj/hj_tables.py" timestamp="1558721770500" />
       <file name="/code/sc/web/static/web/views/campaigns/campaigns.ts" timestamp="1558631661919">
@@ -27,7 +25,7 @@
         <mark key="^" line="48" column="19" />
       </file>
       <file name="/code/sc/web/static/common/constants.ts" timestamp="1558640446028">
-        <mark key="'" line="58" column="16" />
+        <mark key="'" line="60" column="16" />
       </file>
       <file name="/code/sc/web/static/web/views/messages/details/message-details.ts" timestamp="1558634120463">
         <mark key="[" line="78" column="18" />
@@ -261,37 +259,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICBjID0gVXNlci51cChkZWxldGVkPU5vbmUsIGpzPXtVc2VyLmVuYWJsZV9sYXN0X3NlYXJjaDogVHJ1ZX0pCg==</text>
+        <text encoding="base64">ICBrZXllZCA9IGtleV9ieShhbHMsICdlaWQnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCcqKnBhcmFtcyoqJywgcGFyYW1zKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICBpZiBub3QgcHJvdjoKICAgICAgcHJvdiA9IHsnaXNfdGVzdCc6IEZhbHNlfQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICBjID0gVXNlci51cChkZWxldGVkPU5vbmUsIGpzPXtVc2VyLmVuYWJsZV9sYXN0X3NlYXJjaDogVHJ1ZX0pCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjID0gVXNlci51cChkZWxldGVkPU5vbmUsIGpzPXtVc2VyLmVuYWJsZV9sYXN0X3NlYXJjaDogVHJ1ZX0pCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50KCcqKnBhcmFtcyoqJywgcGFyYW1zKQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">dHJ5Ogo=</text>
+        <text encoding="base64">CiAgICBpZiBub3QgcHJvdjoKICAgICAgcHJvdiA9IHsnaXNfdGVzdCc6IEZhbHNlfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCBsYW5ncyA9IHsKICAgICAgZW46IGZvck11bHRpKE1lc3NhZ2VMYW5ndWFnZSwgewogICAgICAgIG1lc3NhZ2U6IEVOX01FU1NBR0UsCiAgICAgICAgZ3JlZXRpbmc6IGFwcC5hY2NvdW50LnNjcmVlbmluZ19lbiwKICAgICAgICB5ZXM6ICdZZXMnLAogICAgICAgIG5vOiAnTm8nLAogICAgICB9KSwKICAgICAgZXN4OiBmb3JNdWx0aShNZXNzYWdlTGFuZ3VhZ2UsIHsKICAgICAgICBtZXNzYWdlOiBFU19NRVNTQUdFLAogICAgICAgIGdyZWV0aW5nOiBhcHAuYWNjb3VudC5zY3JlZW5pbmdfZXMsCiAgICAgICAgeWVzOiAnU8OtJywKICAgICAgICBubzogJ05vJywKICAgICAgfSksCiAgICB9Cg==</text>
+        <text encoding="base64">ICBjID0gVXNlci51cChkZWxldGVkPU5vbmUsIGpzPXtVc2VyLmVuYWJsZV9sYXN0X3NlYXJjaDogVHJ1ZX0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">dHJ5Ogo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBbJ0xhbmd1YWdlJywgTGFuZ3VhZ2VdLAo=</text>
+        <text encoding="base64">ICAgIGxldCBsYW5ncyA9IHsKICAgICAgZW46IGZvck11bHRpKE1lc3NhZ2VMYW5ndWFnZSwgewogICAgICAgIG1lc3NhZ2U6IEVOX01FU1NBR0UsCiAgICAgICAgZ3JlZXRpbmc6IGFwcC5hY2NvdW50LnNjcmVlbmluZ19lbiwKICAgICAgICB5ZXM6ICdZZXMnLAogICAgICAgIG5vOiAnTm8nLAogICAgICB9KSwKICAgICAgZXN4OiBmb3JNdWx0aShNZXNzYWdlTGFuZ3VhZ2UsIHsKICAgICAgICBtZXNzYWdlOiBFU19NRVNTQUdFLAogICAgICAgIGdyZWV0aW5nOiBhcHAuYWNjb3VudC5zY3JlZW5pbmdfZXMsCiAgICAgICAgeWVzOiAnU8OtJywKICAgICAgICBubzogJ05vJywKICAgICAgfSksCiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgZW5NZXNzYWdlID0gYHtjdXN0b21lci5maXJzdG5hbWV9LApUaGFuayB5b3UgZm9yIGFsbG93aW5nIG1lIHRvIGhlbHAgeW91LiBQbGVhc2UgY2xpY2sgdGhlIGxpbmsgYmVsb3cgdG8gbGVhdmUgeW91ciBmZWVkYmFjayEKe3VzZXIubmFtZX0KCnthY2NvdW50Lm5hbWV9YAoKY29uc3QgZXNNZXNzYWdlID0gYHtjdXN0b21lci5maXJzdG5hbWV9LApHcmFjaWFzIHBvciBwZXJtaXRpcm1lIGF5dWRhcnRlLiBQb3IgZmF2b3IsIGhhZ2EgY2xpYyBlbiBlbCBlbmxhY2UgZGUgYWJham8gcGFyYSBkZWphciBzdSBvcGluacOzbiEKe3VzZXIubmFtZX0KCnthY2NvdW50Lm5hbWV9YAoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s//Message</text>
       </register>
       <register name="-" type="4">
-        <text>stack_by('auth_id')</text>
+        <text>platform</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
