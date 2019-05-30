@@ -3,11 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/code/sc/web/static/common/search/search.ints.ts" timestamp="1559225757987">
+        <mark key="[" line="31" column="17" />
+        <mark key="]" line="31" column="19" />
+        <mark key="^" line="31" column="19" />
+        <mark key="." line="31" column="19" />
+      </file>
       <file name="/Dummy.txt" timestamp="1559178046194">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code/sc/web/sc/sql/platform/auth/__init__.py" timestamp="1558722612771">
         <mark key="'" line="105" column="6" />
+      </file>
+      <file name="/code/sc/web/sc/sql/provider/platform.py" timestamp="1559225381138">
+        <mark key="[" line="21" column="20" />
+        <mark key="]" line="22" column="36" />
+        <mark key="^" line="22" column="36" />
+        <mark key="." line="22" column="36" />
       </file>
       <file name="/code/sc/web/static/common/components/better-grid/grid-height.ts" timestamp="1559175420890">
         <mark key="'" line="157" column="2" />
@@ -18,6 +30,13 @@
       <file name="/code/sc/web/.gitignore" timestamp="1558720066987">
         <mark key="[" line="18" column="11" />
       </file>
+      <file name="/code/sc/web/static/common/search/search-page.ts" timestamp="1559225841910">
+        <mark key="'" line="10" column="31" />
+        <mark key="[" line="43" column="9" />
+        <mark key="]" line="43" column="23" />
+        <mark key="." line="43" column="23" />
+        <mark key="^" line="43" column="23" />
+      </file>
       <file name="/code/sc/medrank/rank/config.py" timestamp="1559178028605">
         <mark key="'" line="19" column="0" />
       </file>
@@ -26,6 +45,9 @@
         <mark key="]" line="29" column="21" />
         <mark key="." line="29" column="21" />
         <mark key="^" line="29" column="21" />
+      </file>
+      <file name="/code/sc/web/static/common/mixins/select-hidden.ts" timestamp="1559225851822">
+        <mark key="'" line="58" column="0" />
       </file>
       <file name="/code/sc/web/static/common/services/enums.ts" timestamp="1558638468796">
         <mark key="'" line="77" column="0" />
@@ -41,6 +63,13 @@
         <mark key="]" line="1" column="36" />
         <mark key="^" line="1" column="36" />
         <mark key="." line="1" column="36" />
+      </file>
+      <file name="/code/sc/web/static/web/views/settings/providers/providers.ts" timestamp="1559225704622">
+        <mark key="'" line="227" column="0" />
+        <mark key="[" line="37" column="30" />
+        <mark key="]" line="37" column="46" />
+        <mark key="." line="37" column="46" />
+        <mark key="^" line="37" column="46" />
       </file>
       <file name="/code/sc/web/static/common/components/emoji-picker/emoji-picker.ts" timestamp="1558633186608">
         <mark key="[" line="2" column="0" />
@@ -62,10 +91,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="1" filename="/code/sc/web/static/web/views/listings/listings.ts" />
-      <jump line="116" column="18" filename="/code/sc/web/static/web/views/listings/listings.ts" />
-      <jump line="143" column="20" filename="/code/sc/web/static/web/views/listings/listings.ts" />
-      <jump line="161" column="15" filename="/code/sc/web/static/web/views/listings/listings.ts" />
       <jump line="50" column="17" filename="/code/sc/web/static/common/interfaces/gmb.ts" />
       <jump line="103" column="9" filename="/code/sc/web/sc/app/plats/syncs/setup/google.py" />
       <jump line="123" column="7" filename="/code/sc/web/static/common/models/auth_locs.model.ts" />
@@ -162,40 +187,44 @@
       <jump line="155" column="2" filename="/code/sc/web/static/common/components/better-grid/grid-height.ts" />
       <jump line="55" column="31" filename="/code/sc/web/instance/local/develop_settings.py" />
       <jump line="19" column="0" filename="/code/sc/medrank/rank/config.py" />
+      <jump line="230" column="0" filename="/code/sc/web/static/web/views/settings/providers/providers.ts" />
+      <jump line="14" column="31" filename="/code/sc/web/static/common/search/search-page.ts" />
+      <jump line="7" column="17" filename="/code/sc/web/static/common/mixins/select-hidden.ts" />
+      <jump line="58" column="0" filename="/code/sc/web/static/common/mixins/select-hidden.ts" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZ3JpZEhlaWdodE1ldGhvZCkK</text>
+        <text encoding="base64">ICAgICAgLy8gcGFyYW1zID0gY2xlYW5QYXJhbXMocGFyYW1zKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3Qgc2VsZWN0b3IgPSAndXNlci1hY2NvdW50cycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZ3JpZEhlaWdodE1ldGhvZCkK</text>
+        <text encoding="base64">aW1wb3J0IHsgSW52aXRlVXNlciB9IGZyb20gJy4vaW52aXRlLXVzZXIvaW52aXRlLXVzZXInCmltcG9ydCB7IFRlYW1NZXNzYWdlRGlhbG9nIH0gZnJvbSAnLi90ZWFtLW1lc3NhZ2UvbWVzc2FnZS5kaWFsb2cnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0aGlzLmdyaWRIZWlnaHRNZXRob2QnLCB0aGlzLmdyaWRIZWlnaHRNZXRob2QpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZ3JpZEhlaWdodE1ldGhvZCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBrZXllZCA9IGtleV9ieShhbHMsICdlaWQnKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZ3JpZEhlaWdodE1ldGhvZCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjID0gVXNlci51cChkZWxldGVkPU5vbmUsIGpzPXtVc2VyLmVuYWJsZV9sYXN0X3NlYXJjaDogVHJ1ZX0pCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0aGlzLmdyaWRIZWlnaHRNZXRob2QnLCB0aGlzLmdyaWRIZWlnaHRNZXRob2QpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjID0gVXNlci51cChkZWxldGVkPU5vbmUsIGpzPXtVc2VyLmVuYWJsZV9sYXN0X3NlYXJjaDogVHJ1ZX0pCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCcqKnBhcmFtcyoqJywgcGFyYW1zKQo=</text>
+        <text encoding="base64">ICBrZXllZCA9IGtleV9ieShhbHMsICdlaWQnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>prod</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
