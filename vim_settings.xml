@@ -9,17 +9,8 @@
         <mark key="^" line="31" column="19" />
         <mark key="." line="31" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559178046194">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/code/sc/web/sc/sql/platform/auth/__init__.py" timestamp="1558722612771">
         <mark key="'" line="105" column="6" />
-      </file>
-      <file name="/code/sc/web/static/web/views/settings/providers/search/providers-search.html" timestamp="1559242226702">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="29" column="6" />
-        <mark key="^" line="29" column="6" />
-        <mark key="." line="29" column="6" />
       </file>
       <file name="/code/sc/web/sc/sql/provider/platform.py" timestamp="1559225381138">
         <mark key="[" line="21" column="20" />
@@ -27,17 +18,48 @@
         <mark key="^" line="22" column="36" />
         <mark key="." line="22" column="36" />
       </file>
-      <file name="/code/sc/web/static/web/views/settings/providers/details/provider-details.html" timestamp="1559242276869">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="83" column="7" />
-        <mark key="^" line="83" column="7" />
-        <mark key="." line="83" column="7" />
-      </file>
       <file name="/code/sc/web/static/common/components/better-grid/grid-height.ts" timestamp="1559175420890">
         <mark key="'" line="157" column="2" />
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
+      </file>
+      <file name="/code/sc/web/static/common/services/enums.ts" timestamp="1558638468796">
+        <mark key="'" line="77" column="0" />
+      </file>
+      <file name="/code/sc/web/static/common/components/grid/grid.ts" timestamp="1559175029867">
+        <mark key="'" line="45" column="3" />
+      </file>
+      <file name="/a.sql" timestamp="1559178046172">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/code/sc/web/sc/app/plats/api/facebook.py" timestamp="1559249875851" />
+      <file name="/code/sc/web/static/common/components/emoji-picker/emoji-picker.ts" timestamp="1558633186608">
+        <mark key="[" line="2" column="0" />
+      </file>
+      <file name="/code/sc/web/sc/const.py" timestamp="1558637523984">
+        <mark key="'" line="67" column="9" />
+      </file>
+      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1559175222387">
+        <mark key="'" line="55" column="31" />
+      </file>
+      <file name="/code/sc/web/sc/sql/globals/__init__.py" timestamp="1558637161066">
+        <mark key="'" line="133" column="88" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1559178046194">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/code/sc/web/static/web/views/settings/providers/search/providers-search.html" timestamp="1559242226702">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="29" column="6" />
+        <mark key="^" line="29" column="6" />
+        <mark key="." line="29" column="6" />
+      </file>
+      <file name="/code/sc/web/static/web/views/settings/providers/details/provider-details.html" timestamp="1559242276869">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="83" column="7" />
+        <mark key="^" line="83" column="7" />
+        <mark key="." line="83" column="7" />
       </file>
       <file name="/code/sc/web/.gitignore" timestamp="1558720066987">
         <mark key="[" line="18" column="11" />
@@ -67,30 +89,12 @@
       <file name="/code/sc/web/static/common/mixins/select-hidden.ts" timestamp="1559225851822">
         <mark key="'" line="58" column="0" />
       </file>
-      <file name="/code/sc/web/static/common/services/enums.ts" timestamp="1558638468796">
-        <mark key="'" line="77" column="0" />
-      </file>
-      <file name="/code/sc/web/static/common/components/grid/grid.ts" timestamp="1559175029867">
-        <mark key="'" line="45" column="3" />
-      </file>
-      <file name="/a.sql" timestamp="1559178046172">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/code/sc/web/static/web/views/settings/providers/providers.ts" timestamp="1559225704622">
         <mark key="'" line="227" column="0" />
         <mark key="[" line="37" column="30" />
         <mark key="]" line="37" column="46" />
         <mark key="." line="37" column="46" />
         <mark key="^" line="37" column="46" />
-      </file>
-      <file name="/code/sc/web/static/common/components/emoji-picker/emoji-picker.ts" timestamp="1558633186608">
-        <mark key="[" line="2" column="0" />
-      </file>
-      <file name="/code/sc/web/sc/const.py" timestamp="1558637523984">
-        <mark key="'" line="67" column="9" />
-      </file>
-      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1559175222387">
-        <mark key="'" line="55" column="31" />
       </file>
       <file name="/code/sc/web/instance/env.txt" timestamp="1559218785786">
         <mark key="[" line="0" column="0" />
@@ -111,9 +115,6 @@
         <mark key="]" line="65" column="7" />
         <mark key="^" line="65" column="7" />
         <mark key="." line="65" column="7" />
-      </file>
-      <file name="/code/sc/web/sc/sql/globals/__init__.py" timestamp="1558637161066">
-        <mark key="'" line="133" column="88" />
       </file>
     </filemarks>
     <jumps>
@@ -250,7 +251,7 @@
         <text>%s//prov</text>
       </register>
       <register name="-" type="4">
-        <text>Add</text>
+        <text>@decorator(param=1)</text>
       </register>
       <register name="/" type="4">
         <text>boo</text>
