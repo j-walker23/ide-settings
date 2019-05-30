@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1559178046194">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/code/sc/web/sc/sql/platform/auth/__init__.py" timestamp="1558722612771">
         <mark key="'" line="105" column="6" />
       </file>
@@ -11,6 +14,18 @@
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
+      </file>
+      <file name="/code/sc/web/.gitignore" timestamp="1558720066987">
+        <mark key="[" line="18" column="11" />
+      </file>
+      <file name="/code/sc/medrank/rank/config.py" timestamp="1559178028605">
+        <mark key="'" line="19" column="0" />
+      </file>
+      <file name="/code/sc/web/cli/scripts/v700.py" timestamp="1559218780118">
+        <mark key="[" line="29" column="21" />
+        <mark key="]" line="29" column="21" />
+        <mark key="." line="29" column="21" />
+        <mark key="^" line="29" column="21" />
       </file>
       <file name="/code/sc/web/static/common/services/enums.ts" timestamp="1558638468796">
         <mark key="'" line="77" column="0" />
@@ -21,6 +36,12 @@
       <file name="/a.sql" timestamp="1559178046172">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fb25e990-8cf1-4b0f-afa4-704a731bd0fb/console.sql" timestamp="1559178062105">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="36" />
+        <mark key="^" line="1" column="36" />
+        <mark key="." line="1" column="36" />
+      </file>
       <file name="/code/sc/web/static/common/components/emoji-picker/emoji-picker.ts" timestamp="1558633186608">
         <mark key="[" line="2" column="0" />
       </file>
@@ -30,35 +51,14 @@
       <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1559175222387">
         <mark key="'" line="55" column="31" />
       </file>
+      <file name="/code/sc/web/instance/env.txt" timestamp="1559218785786">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+      </file>
       <file name="/code/sc/web/sc/sql/globals/__init__.py" timestamp="1558637161066">
         <mark key="'" line="133" column="88" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1559178046194">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/code/sc/web/.gitignore" timestamp="1558720066987">
-        <mark key="[" line="18" column="11" />
-      </file>
-      <file name="/code/sc/medrank/rank/config.py" timestamp="1559178028605">
-        <mark key="'" line="19" column="0" />
-      </file>
-      <file name="/code/sc/web/cli/scripts/v700.py" timestamp="1559177323662">
-        <mark key="[" line="29" column="21" />
-        <mark key="]" line="29" column="20" />
-        <mark key="." line="29" column="20" />
-        <mark key="^" line="29" column="20" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fb25e990-8cf1-4b0f-afa4-704a731bd0fb/console.sql" timestamp="1559178062105">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="36" />
-        <mark key="^" line="1" column="36" />
-        <mark key="." line="1" column="36" />
-      </file>
-      <file name="/code/sc/web/instance/env.txt" timestamp="1559178164304">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
-        <mark key="^" line="0" column="3" />
       </file>
     </filemarks>
     <jumps>
@@ -195,7 +195,7 @@
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>local</text>
+        <text>prod</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
