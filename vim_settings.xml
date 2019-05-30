@@ -6,19 +6,16 @@
       <file name="/code/sc/web/sc/sql/platform/auth/__init__.py" timestamp="1558722612771">
         <mark key="'" line="105" column="6" />
       </file>
-      <file name="/code/sc/web/.gitignore" timestamp="1558720066987">
-        <mark key="[" line="18" column="11" />
+      <file name="/code/sc/web/static/common/components/better-grid/grid-height.ts" timestamp="1559175420890">
+        <mark key="'" line="157" column="2" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="/code/sc/web/cli/ones.py" timestamp="1558726555096">
         <mark key="]" line="29" column="15" />
         <mark key="^" line="29" column="15" />
         <mark key="." line="29" column="15" />
-      </file>
-      <file name="/code/sc/web/cli/john.py" timestamp="1558720127963">
-        <mark key="[" line="11" column="1" />
-        <mark key="]" line="11" column="4" />
-        <mark key="^" line="11" column="4" />
-        <mark key="." line="11" column="4" />
       </file>
       <file name="/code/forks/gitflow/git-hf-update" timestamp="1558738874126">
         <mark key="[" line="100" column="15" />
@@ -29,8 +26,8 @@
       <file name="/code/sc/web/static/common/services/enums.ts" timestamp="1558638468796">
         <mark key="'" line="77" column="0" />
       </file>
-      <file name="/code/sc/web/static/common/components/emoji-picker/emoji-picker.ts" timestamp="1558633186608">
-        <mark key="[" line="2" column="0" />
+      <file name="/code/sc/web/static/common/components/grid/grid.ts" timestamp="1559175029867">
+        <mark key="'" line="45" column="3" />
       </file>
       <file name="/code/sc/web/sc/const.py" timestamp="1558637523984">
         <mark key="'" line="67" column="9" />
@@ -41,23 +38,28 @@
         <mark key="." line="55" column="14" />
         <mark key="^" line="55" column="14" />
       </file>
-      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1558719702817">
-        <mark key="'" line="57" column="0" />
-      </file>
-      <file name="/code/sc/web/instance/env.txt" timestamp="1558719980769">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
-        <mark key="^" line="0" column="3" />
+      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1559175222387">
+        <mark key="'" line="55" column="31" />
       </file>
       <file name="/code/sc/web/sc/sql/globals/__init__.py" timestamp="1558637161066">
-        <mark key="'" line="117" column="88" />
+        <mark key="'" line="133" column="88" />
+      </file>
+      <file name="/code/sc/web/static/common/components/picker/picker.ts" timestamp="1559175082141" />
+      <file name="/code/sc/web/cli/john.py" timestamp="1558720127963">
+        <mark key="[" line="11" column="1" />
+        <mark key="]" line="11" column="4" />
+        <mark key="^" line="11" column="4" />
+        <mark key="." line="11" column="4" />
+      </file>
+      <file name="/grid.ts" timestamp="1559175024091" />
+      <file name="/code/sc/web/instance/env.txt" timestamp="1559175226143">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="4" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="0" filename="/code/sc/web/sc/mods/web/rest/accounts/listings_view.py" />
-      <jump line="130" column="44" filename="/code/sc/web/static/web/views/listings/listings.ts" />
-      <jump line="168" column="2" filename="/code/sc/web/static/web/views/settings/locations/locations.ts" />
       <jump line="117" column="3" filename="/code/sc/web/static/web/views/listings/listings.ts" />
       <jump line="123" column="1" filename="/code/sc/web/static/web/views/listings/listings.ts" />
       <jump line="116" column="18" filename="/code/sc/web/static/web/views/listings/listings.ts" />
@@ -155,40 +157,43 @@
       <jump line="423" column="8" filename="/code/sc/web/cli/ones.py" />
       <jump line="439" column="10" filename="/code/sc/web/cli/ones.py" />
       <jump line="105" column="6" filename="/code/sc/web/sc/sql/platform/auth/__init__.py" />
+      <jump line="45" column="3" filename="/code/sc/web/static/common/components/grid/grid.ts" />
+      <jump line="155" column="2" filename="/code/sc/web/static/common/components/better-grid/grid-height.ts" />
+      <jump line="55" column="31" filename="/code/sc/web/instance/local/develop_settings.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICBrZXllZCA9IGtleV9ieShhbHMsICdlaWQnKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZ3JpZEhlaWdodE1ldGhvZCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjID0gVXNlci51cChkZWxldGVkPU5vbmUsIGpzPXtVc2VyLmVuYWJsZV9sYXN0X3NlYXJjaDogVHJ1ZX0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjID0gVXNlci51cChkZWxldGVkPU5vbmUsIGpzPXtVc2VyLmVuYWJsZV9sYXN0X3NlYXJjaDogVHJ1ZX0pCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZ3JpZEhlaWdodE1ldGhvZCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KCcqKnBhcmFtcyoqJywgcGFyYW1zKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0aGlzLmdyaWRIZWlnaHRNZXRob2QnLCB0aGlzLmdyaWRIZWlnaHRNZXRob2QpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBpZiBub3QgcHJvdjoKICAgICAgcHJvdiA9IHsnaXNfdGVzdCc6IEZhbHNlfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjID0gVXNlci51cChkZWxldGVkPU5vbmUsIGpzPXtVc2VyLmVuYWJsZV9sYXN0X3NlYXJjaDogVHJ1ZX0pCg==</text>
+        <text encoding="base64">ICBrZXllZCA9IGtleV9ieShhbHMsICdlaWQnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dHJ5Ogo=</text>
+        <text encoding="base64">ICBjID0gVXNlci51cChkZWxldGVkPU5vbmUsIGpzPXtVc2VyLmVuYWJsZV9sYXN0X3NlYXJjaDogVHJ1ZX0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCBsYW5ncyA9IHsKICAgICAgZW46IGZvck11bHRpKE1lc3NhZ2VMYW5ndWFnZSwgewogICAgICAgIG1lc3NhZ2U6IEVOX01FU1NBR0UsCiAgICAgICAgZ3JlZXRpbmc6IGFwcC5hY2NvdW50LnNjcmVlbmluZ19lbiwKICAgICAgICB5ZXM6ICdZZXMnLAogICAgICAgIG5vOiAnTm8nLAogICAgICB9KSwKICAgICAgZXN4OiBmb3JNdWx0aShNZXNzYWdlTGFuZ3VhZ2UsIHsKICAgICAgICBtZXNzYWdlOiBFU19NRVNTQUdFLAogICAgICAgIGdyZWV0aW5nOiBhcHAuYWNjb3VudC5zY3JlZW5pbmdfZXMsCiAgICAgICAgeWVzOiAnU8OtJywKICAgICAgICBubzogJ05vJywKICAgICAgfSksCiAgICB9Cg==</text>
+        <text encoding="base64">ICBjID0gVXNlci51cChkZWxldGVkPU5vbmUsIGpzPXtVc2VyLmVuYWJsZV9sYXN0X3NlYXJjaDogVHJ1ZX0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50KCcqKnBhcmFtcyoqJywgcGFyYW1zKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>platform</text>
+        <text>prod</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
