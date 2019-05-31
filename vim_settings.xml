@@ -22,11 +22,11 @@
       <file name="/a.dummy" timestamp="1559337418163">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code/sc/web/sc/sql/message/__init__.py" timestamp="1559337374224">
-        <mark key="[" line="17" column="49" />
-        <mark key="]" line="17" column="48" />
-        <mark key="." line="17" column="48" />
-        <mark key="^" line="17" column="48" />
+      <file name="/code/sc/web/sc/sql/message/__init__.py" timestamp="1559339994679">
+        <mark key="[" line="15" column="27" />
+        <mark key="]" line="15" column="35" />
+        <mark key="." line="15" column="35" />
+        <mark key="^" line="15" column="35" />
       </file>
       <file name="/code/sc/web/static/common/services/enums.ts" timestamp="1558638468796">
         <mark key="'" line="77" column="0" />
@@ -93,6 +93,12 @@
         <mark key="]" line="43" column="23" />
         <mark key="." line="43" column="23" />
         <mark key="^" line="43" column="23" />
+      </file>
+      <file name="/code/sc/web/sc/sql/cols.py" timestamp="1559339988365">
+        <mark key="[" line="99" column="16" />
+        <mark key="]" line="99" column="22" />
+        <mark key="^" line="99" column="22" />
+        <mark key="." line="99" column="22" />
       </file>
       <file name="/code/sc/medrank/rank/config.py" timestamp="1559178028605">
         <mark key="'" line="19" column="0" />
@@ -299,7 +305,7 @@
         <text>%s//Provider</text>
       </register>
       <register name="-" type="4">
-        <text>, default=Language.en.name</text>
+        <text>Provider</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
