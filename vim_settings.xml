@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/code/sc/web/cli/scripts/m700.py" timestamp="1559549982865">
-        <mark key="'" line="80" column="6" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
+      <file name="/code/sc/web/cli/scripts/m700.py" timestamp="1559554169981">
+        <mark key="'" line="267" column="14" />
+        <mark key="[" line="76" column="49" />
+        <mark key="]" line="76" column="63" />
+        <mark key="." line="76" column="63" />
+        <mark key="^" line="76" column="63" />
       </file>
       <file name="/code/sc/web/sc/sql/provider/platform.py" timestamp="1559225381138">
         <mark key="[" line="21" column="20" />
@@ -39,12 +40,12 @@
         <mark key="^" line="469" column="42" />
         <mark key="." line="469" column="42" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1559549619200">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1559553468169">
         <mark key="'" line="151" column="5" />
-        <mark key="[" line="261" column="21" />
-        <mark key="]" line="262" column="14" />
-        <mark key="." line="262" column="14" />
-        <mark key="^" line="262" column="14" />
+        <mark key="[" line="242" column="39" />
+        <mark key="]" line="243" column="34" />
+        <mark key="." line="243" column="34" />
+        <mark key="^" line="243" column="34" />
       </file>
       <file name="/code/sc/web/sc/sql/message/__init__.py" timestamp="1559514151768">
         <mark key="'" line="46" column="44" />
@@ -53,7 +54,7 @@
         <mark key="^" line="46" column="35" />
         <mark key="." line="46" column="35" />
       </file>
-      <file name="/code/sc/web/sc/sql/provider/__init__.py" timestamp="1559549315021">
+      <file name="/code/sc/web/sc/sql/provider/__init__.py" timestamp="1559553333212">
         <mark key="'" line="36" column="0" />
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="0" />
@@ -235,7 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="17" filename="/code/sc/web/static/common/models/provider.model.ts" />
       <jump line="108" column="13" filename="/code/sc/web/static/common/services/enums.ts" />
       <jump line="77" column="0" filename="/code/sc/web/static/common/services/enums.ts" />
       <jump line="108" column="11" filename="/code/sc/web/static/web/views/settings/messages/details/message-details.ts" />
@@ -335,41 +335,49 @@
       <jump line="8" column="0" filename="/code/sc/web/migrations/mig_stuff.py" />
       <jump line="53" column="16" filename="/code/sc/web/instance/local/develop_settings.py" />
       <jump line="151" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
+      <jump line="282" column="14" filename="/code/sc/web/cli/scripts/m700.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgUHJvdmlkZXIudXNlcl9pZC5pc25vdChOb25lKSwK</text>
+        <text encoding="base64">ICAgICAgbWF0Y2hfcHJvdnMgPSBbcHJvdl9rZXllZFtsLmNhbXBhaWduX2lkXSBmb3IgbCBpbiBsYW5nc10K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAgIGFuZCBjYW1wYWlnbnMuaWQgPSAxNjMK</text>
+        <text encoding="base64">ICB3aXRoIG9wZW4oJ2luc3RhbmNlL2xvY2FsL3Byb3ZzLmNzdicsICd3JykgYXMgZjoKICAgIGtleXMgPSByb3dzWzBdLmtleXMoKQogICAgdyA9IGNzdi5EaWN0V3JpdGVyKGYsIGtleXMpCiAgICB3LndyaXRlaGVhZGVyKCkKICAgIHcud3JpdGVyb3dzKHJvd3MpCgogIHByaW50KCdUb3RhbCcsIGxlbihncm91cF9ieShyb3dzLCAnYWlkJykpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByID0gKE1lc3NhZ2VMYW5nLnNlYXJjaChmaWVsZHM9J2lkLGNhbXBhaWduJykKICAgICAgICMgLmZpbHRlcihQcm92aWRlci51c2VyX2lkLmlzbm90KE5vbmUpKQogICAgICAgLmZpbHRlcihNZXNzYWdlTGFuZy5tZXNzYWdlLmNvbnRhaW5zKFByb3ZpZGVyLm5hbWUpKQogICAgICAgLmFsbCgpCiAgICAgICApCgogIHByaW50KCdmdWNrJywgcikK</text>
+        <text encoding="base64">ICAgICAgaW52X2NvdW50ID0gbWF4KHAuaW52cyBmb3IgcCBpbiBtYXRjaF9wcm92cykKICAgICAgcm93ID0gZGljdChhaWQ9YWNjLmlkLCBhY2M9YWNjLm5hbWUsIGludnM9aW52X2NvdW50LCBsZW49bGVuKGxhbmdzKSwgbWVzc2FnZT1tZXNzYWdlKQogICAgICByb3dzLmFwcGVuZChyb3cpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>campaigns.id                 as campaigns_id
-     , message_langs.id             as message_langs_id</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBzaGl0dGVycyA9IFtdCiAgZm9yIHAsIGludiBpbiBzaGl0czoKICAgIHAuaW52cyA9IGludgogICAgc2hpdHRlcnMuYXBwZW5kKHApCgogIGRhdGE6IERpY3RbQWNjb3VudCwgTGlzdFtQcm92aWRlcl1dID0gZ3JvdXBfYnkoc2hpdHRlcnMsICdhY2NvdW50JykKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAsIGNhbXBhaWducy5uYW1lICAgICAgICAgICAgICAgYXMgY2FtcGFpZ25zX25hbWUKICAgICAsIGNhbXBhaWducy5zdGFyc19ub19udW0gICAgICAgYXMgY2FtcGFpZ25zX3N0YXJzX25vX251bQogICAgICwgY2FtcGFpZ25zLmdyZWV0aW5nICAgICAgICAgICBhcyBjYW1wYWlnbnNfZ3JlZXRpbmcKICAgICAsIGNhbXBhaWducy5yZXZpZXdfZm9ybWF0ICAgICAgYXMgY2FtcGFpZ25zX3Jldmlld19mb3JtYXQKICAgICAsIGNhbXBhaWducy5pbWFnZV9lbmFibGVkICAgICAgYXMgY2FtcGFpZ25zX2ltYWdlX2VuYWJsZWQKICAgICAsIGNhbXBhaWducy5tZXNzYWdlX29ubHkgICAgICAgYXMgY2FtcGFpZ25zX21lc3NhZ2Vfb25seQogICAgICwgY2FtcGFpZ25zLnNob3dfZGlzY2xhaW1lciAgICBhcyBjYW1wYWlnbnNfc2hvd19kaXNjbGFpbWVyCiAgICAgLCBjYW1wYWlnbnMuaGlkZV9wcml2YXRlICAgICAgIGFzIGNhbXBhaWduc19oaWRlX3ByaXZhdGUKICAgICAsIGNhbXBhaWducy5vaWQgICAgICAgICAgICAgICAgYXMgY2FtcGFpZ25zX29pZAogICAgICwgY2FtcGFpZ25zLmlzX2RlZmF1bHQgICAgICAgICBhcyBjYW1wYWlnbnNfaXNfZGVmYXVsdAogICAgICwgY2FtcGFpZ25zLmRpc2FibGVfcmV2X3NvbGljICBhcyBjYW1wYWlnbnNfZGlzYWJsZV9yZXZfc29saWMKICAgICAsIGNhbXBhaWducy5kaXZpc2lvbiAgICAgICAgICAgYXMgY2FtcGFpZ25zX2RpdmlzaW9uCiAgICAgLCBjYW1wYWlnbnMuaGlkZV9zdXJ2X2RpcyAgICAgIGFzIGNhbXBhaWduc19oaWRlX3N1cnZfZGlzCiAgICAgLCBjYW1wYWlnbnMuaGlkZV9wcml2X3JhdGluZyAgIGFzIGNhbXBhaWduc19oaWRlX3ByaXZfcmF0aW5nCiAgICAgLCBjYW1wYWlnbnMucHJpdl9zdWJfdGhyZXNoICAgIGFzIGNhbXBhaWduc19wcml2X3N1Yl90aHJlc2gKICAgICAsIGNhbXBhaWducy5pc19kaXNfb24gICAgICAgICAgYXMgY2FtcGFpZ25zX2lzX2Rpc19vbgogICAgICwgY2FtcGFpZ25zLmlzX3Rlc3QgICAgICAgICAgICBhcyBjYW1wYWlnbnNfaXNfdGVzdAogICAgICwgY2FtcGFpZ25zLmhpZGVfZ3JlZXRpbmdfbG9nbyBhcyBjYW1wYWlnbnNfaGlkZV9ncmVldGluZ19sb2dvCiAgICAgLCBjYW1wYWlnbnMuaXNfZG9jICAgICAgICAgICAgIGFzIGNhbXBhaWduc19pc19kb2MKICAgICAsIGNhbXBhaWducy5maXJzdF9zdXJ2ZXlfaWQgICAgYXMgY2FtcGFpZ25zX2ZpcnN0X3N1cnZleV9pZAogICAgICwgY2FtcGFpZ25zLnVzZXJfaWQgICAgICAgICAgICBhcyBjYW1wYWlnbnNfdXNlcl9pZAogICAgICwgY2FtcGFpZ25zLmNyZWF0ZWRfYXQgICAgICAgICBhcyBjYW1wYWlnbnNfY3JlYXRlZF9hdAogICAgICwgY2FtcGFpZ25zLmRlbGV0ZWRfYXQgICAgICAgICBhcyBjYW1wYWlnbnNfZGVsZXRlZF9hdAogICAgICwgY2FtcGFpZ25zLmFjY291bnRfaWQgICAgICAgICBhcyBjYW1wYWlnbnNfYWNjb3VudF9pZAogICAgICwgY2FtcGFpZ25zLmltZ191cmwgICAgICAgICAgICBhcyBjYW1wYWlnbnNfaW1nX3VybAo=</text>
+        <text encoding="base64">CiAgYyA9IE1lc3NhZ2VMYW5nLnVwKE1lc3NhZ2VMYW5nLmNhbXBhaWduX2lkID09IFByb3ZpZGVyLmlkLAogICAgICAgICAgICAgICAgICAgICBNZXNzYWdlTGFuZy5tZXNzYWdlLmNvbnRhaW5zKCdTdXJ2ZXkgLSAnICsgUHJvdmlkZXIubmFtZSksIGRlbGV0ZWQ9Tm9uZSwKICAgICAgICAgICAgICAgICAgICAganM9e01lc3NhZ2VMYW5nLm1lc3NhZ2U6IGZ1bmMucmVwbGFjZShNZXNzYWdlTGFuZy5tZXNzYWdlLCAsICd7cHJvdmlkZXIubmFtZX0nKX0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhbmQgKG1lc3NhZ2VfbGFuZ3MubWVzc2FnZSBsaWtlIGNvbmNhdChjb25jYXQoJyUnLCBjYW1wYWlnbnMubmFtZSksICclJykpCg==</text>
+        <text encoding="base64">b3JkZXIgYnkgbWVzc2FnZV9sYW5ncy5pZAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBhbmQgCg==</text>
+      <register name="7" type="4">
+        <text>select 
+from 
+where 
+;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBjID0gTWVzc2FnZUxhbmcudXAoTWVzc2FnZUxhbmcubWVzc2FnZS5jb250YWlucygne3VzZXIuJyksIGRlbGV0ZWQ9Tm9uZSwKICAgICAgICAgICAgICAgICAgICAganM9e01lc3NhZ2VMYW5nLm1lc3NhZ2U6IGZ1bmMucmVwbGFjZShNZXNzYWdlTGFuZy5tZXNzYWdlLCAne3VzZXIuJywgJ3twcm92aWRlci4nKX0pCg==</text>
+      <register name="8" type="4">
+        <text>select *
+from users u
+join users_accounts ua on u.id = ua.user_id
+where account_id = 19
+order by u.name
+;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNpbmNlID0gYXJyb3cudXRjbm93KCkuc2hpZnQobW9udGhzPS0yKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgUHJvdmlkZXIudXNlcl9pZC5pc25vdChOb25lKSwK</text>
       </register>
       <register name=":" type="4">
         <text>%s//Provider</text>
       </register>
       <register name="-" type="4">
-        <text>message_langs</text>
+        <text>shits</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
