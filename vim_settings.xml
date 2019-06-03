@@ -266,8 +266,12 @@
         <mark key="." line="37" column="23" />
       </file>
       <file name="/code/sc/web/cli/scripts/m600.py" timestamp="1559548365428" />
-      <file name="/code/sc/web/static/common/models/provider.model.ts" timestamp="1559577424999">
-        <mark key="^" line="64" column="10" />
+      <file name="/code/sc/web/static/common/models/provider.model.ts" timestamp="1559577582456">
+        <mark key="'" line="32" column="17" />
+        <mark key="[" line="55" column="6" />
+        <mark key="]" line="55" column="5" />
+        <mark key="^" line="55" column="5" />
+        <mark key="." line="55" column="70" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/sqlalchemy_utils/listeners.py" timestamp="1559565420914" />
       <file name="/code/sc/web/static/web/views/settings/messages/messages.ts" timestamp="1559576368172" />
@@ -304,7 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/code/sc/web/static/web/views/settings/providers/details/provider-details.html" />
       <jump line="14" column="24" filename="/code/sc/web/static/web/views/settings/providers/details/provider-details.html" />
       <jump line="105" column="43" filename="/code/sc/web/static/web/views/settings/providers/details/provider-details.html" />
       <jump line="88" column="0" filename="/code/sc/web/static/web/views/settings/providers/search/providers-search.ts" />
@@ -404,40 +407,41 @@
       <jump line="61" column="46" filename="/code/sc/web/static/web/views/settings/providers/providers.ts" />
       <jump line="45" column="20" filename="/code/sc/web/static/web/views/nav-toolbar/user-accounts/user-accounts.ts" />
       <jump line="46" column="2" filename="/code/sc/web/static/common/models/note.model.ts" />
+      <jump line="47" column="17" filename="/code/sc/web/static/common/models/provider.model.ts" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICBAbXVsdGkK</text>
+        <text encoding="base64">ICAgIGxldCByb3dzID0gdGhpcy5tZXNzYWdlcyB8fCBbXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBAbXVsdGkK</text>
+        <text encoding="base64">CmV4cG9ydCBjbGFzcyBNZXNzYWdlTGFuZyBleHRlbmRzIE1vZGVsIHsKICBjYW1wYWlnbl9pZD86IG51bWJlcgogIGtleT86IHN0cmluZwogIG1lc3NhZ2U/OiBzdHJpbmcKICBncmVldGluZz86IHN0cmluZwogIEBtdWx0aSBkaXNjbGFpbWVyPzogc3RyaW5nCiAgQG11bHRpIHByaXZfaGVhZGVyPzogc3RyaW5nCiAgQG11bHRpIHByaXZfc3RhcnNfaGludD86IHN0cmluZwogIEBtdWx0aSBwcml2X3N1Ym1pdHRlZD86IHN0cmluZwogIEBtdWx0aSBwcml2X3N1Ym1pdHRlZF9uZWc/OiBzdHJpbmcKICBAbXVsdGkgZW1haWxzPzogc3RyaW5nCiAgQG11bHRpIHllcz86IHN0cmluZwogIEBtdWx0aSBubz86IHN0cmluZwp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzZWxlY3RlZDogUHJvdmlkZXJbXSA9IFtdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">d2hlcmUgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgLnNwYWNlLWRvdHMtcm93CiAgICBtYXJnaW4tYm90dG9tOiAwCgogIC5tZC1jYXJkLWltYWdlCiAgICBjdXJzb3I6IHBvaW50ZXIKCiAgICAmOmhvdmVyCiAgICAgIG9wYWNpdHk6IDAuOAo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgLnBsYXRmb3JtLW9yZGVyCiAgICBtYXgtaGVpZ2h0OiAyMzVweCAhaW1wb3J0YW50CiAgICBvdmVyZmxvdzogc2Nyb2xsCgogICAgLnVuaXQKICAgICAgYmFja2dyb3VuZC1jb2xvcjogI2ZmZgogICAgICBib3JkZXI6IDFweCBzb2xpZCAjZGRkCiAgICAgIGJvcmRlci10b3AtcmlnaHQtcmFkaXVzOiA0cHgKICAgICAgYm9yZGVyLXRvcC1sZWZ0LXJhZGl1czogNHB4CiAgICAgIHBhZGRpbmc6IDVweAogICAgICBtYXJnaW4tYm90dG9tOiAtMXB4Cgo=</text>
+        <text encoding="base64">ICBAbXVsdGkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAbXVsdGkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzZWxlY3RlZDogUHJvdmlkZXJbXSA9IFtdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCiAgICAgIDxkaXYgY2xhc3M9InBsYXRmb3JtLW9yZGVyIj4KICAgICAgICA8bWQtbGlzdD4KICAgICAgICAgIDxtZC1saXN0LWl0ZW0KICAgICAgICAgICAgbmctcmVwZWF0PSJjcCBpbiBjdHJsLmMucGxhdGZvcm1zIgogICAgICAgICAgICBuZy1pZj0iY3AuYWN0aXZlIgogICAgICAgICAgICBjbGFzcz0idW5pdCIKICAgICAgICAgICAgbGF5b3V0LWFsaWduPSJzdGFydCBjZW50ZXIiCiAgICAgICAgICAgIGxheW91dD0icm93IgogICAgICAgICAgICBtZC1uby1pbms+CiAgICAgICAgICAgIDxpbWcgY2xhc3M9ImgtMjAgbWgtOCIgbmctc3JjPSJ7eyBjcC5wbGF0Zm9ybS5pbWFnZV91cmwgfX0iLz4KICAgICAgICAgICAgPHNwYW4gY2xhc3M9Im1kLWJvZHktMiI+CiAgICAgICAgICAgICAgICB7eyBjcC5wbGF0Zm9ybS5sYWJlbCB8fCBjcC5wbGF0Zm9ybS5uYW1lIH19CiAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgPC9tZC1saXN0LWl0ZW0+CiAgICAgICAgPC9tZC1saXN0PgogICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">d2hlcmUgCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//ismulti</text>
       </register>
       <register name="-" type="4">
-        <text>g_provs</text>
+        <text encoding="base64">dGhpcy5ieV9wcm92cyAmJiAhdGhpcy5pc19sb2NhZG1pbiA/ICdBbGwgUHJvdmlkZXJzJyA6IA==</text>
       </register>
       <register name="/" type="4">
         <text>isMulti</text>
