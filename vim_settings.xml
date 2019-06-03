@@ -26,15 +26,17 @@
       <file name="/a.dummy" timestamp="1559403258263">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/code/sc/web/migrations/versions/7a9999777536__149.py" timestamp="1559542922027">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="/code/sc/web/cli/ones.py" timestamp="1559528570345">
         <mark key="'" line="473" column="16" />
         <mark key="[" line="475" column="42" />
         <mark key="]" line="475" column="51" />
         <mark key="^" line="475" column="51" />
         <mark key="." line="475" column="51" />
-      </file>
-      <file name="/code/sc/web/Pipfile" timestamp="1559498929178">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1559528929344">
         <mark key="[" line="213" column="21" />
@@ -65,12 +67,6 @@
       <file name="/code/sc/web/static/common/components/emoji-picker/emoji-picker.ts" timestamp="1558633186608">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/code/sc/web/static/web/views/settings/messages/mess-tile/mess-tile.html" timestamp="1559403308006">
-        <mark key="'" line="18" column="38" />
-      </file>
-      <file name="/code/sc/web/static/web/views/settings/messages/messages.html" timestamp="1559322509110">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1559526572711">
         <mark key="'" line="57" column="0" />
         <mark key="[" line="53" column="13" />
@@ -83,9 +79,6 @@
         <mark key="]" line="65" column="31" />
         <mark key="." line="65" column="31" />
         <mark key="^" line="65" column="31" />
-      </file>
-      <file name="/code/sc/web/sc/sql/globals/__init__.py" timestamp="1558637161066">
-        <mark key="'" line="133" column="88" />
       </file>
       <file name="/code/sc/web/sc/coms/customsql/stringtypes.py" timestamp="1559403219176">
         <mark key="'" line="30" column="6" />
@@ -105,9 +98,6 @@
         <mark key="^" line="43" column="23" />
       </file>
       <file name="/code/trash/web/socialclime/sql/campaigns/__init__.py" timestamp="1559542670716" />
-      <file name="/code/sc/medrank/rank/config.py" timestamp="1559178028605">
-        <mark key="'" line="19" column="0" />
-      </file>
       <file name="/code/sc/web/sc/app/reportcards/reviews.py" timestamp="1559250709322">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -176,9 +166,6 @@
         <mark key="^" line="31" column="19" />
         <mark key="." line="31" column="19" />
       </file>
-      <file name="/code/sc/web/sc/sql/platform/auth/__init__.py" timestamp="1558722612771">
-        <mark key="'" line="105" column="6" />
-      </file>
       <file name="/code/sc/web/sc/sql/account/__init__.py" timestamp="1559522630541">
         <mark key="[" line="105" column="29" />
         <mark key="]" line="106" column="26" />
@@ -196,9 +183,6 @@
         <mark key="[" line="107" column="0" />
         <mark key="]" line="107" column="0" />
         <mark key="." line="107" column="0" />
-      </file>
-      <file name="/code/sc/web/static/common/components/grid/grid.ts" timestamp="1559175029867">
-        <mark key="'" line="45" column="3" />
       </file>
       <file name="/a.sql" timestamp="1559178046172">
         <mark key="[" line="0" column="0" />
@@ -224,9 +208,6 @@
         <mark key="]" line="99" column="22" />
         <mark key="^" line="99" column="22" />
         <mark key="." line="99" column="22" />
-      </file>
-      <file name="/code/sc/web/static/common/mixins/select-hidden.ts" timestamp="1559225851822">
-        <mark key="'" line="58" column="0" />
       </file>
       <file name="/code/sc/web/static/web/views/settings/providers/search/providers-auto.ts" timestamp="1559312109624">
         <mark key="'" line="20" column="2" />
@@ -352,32 +333,32 @@
       <jump line="473" column="16" filename="/code/sc/web/cli/ones.py" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">KQogIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAjICMjIyBlbmQgQWxlbWJpYyBjb21tYW5kcyAjIyMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAjICMjIyBjb21tYW5kcyBhdXRvIGdlbmVyYXRlZCBieSBBbGVtYmljIC0gcGxlYXNlIGFkanVzdCEgIyMjCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">eWVzID4gJycKICBhbmQgeWVzICE9ICdZZXMn</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAjICMjIyBlbmQgQWxlbWJpYyBjb21tYW5kcyAjIyMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB1ID0gdXNlcnNbLTFdCg==</text>
+        <text encoding="base64">ICAjICMjIyBjb21tYW5kcyBhdXRvIGdlbmVyYXRlZCBieSBBbGVtYmljIC0gcGxlYXNlIGFkanVzdCEgIyMjCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBwcmludCh1Lm5hbWUpCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">KQogIA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">d2hlcmUgOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBjID0gVXNlci51cChkZWxldGVkPU5vbmUsIGpzPXtVc2VyLmVuYWJsZV9sYXN0X3NlYXJjaDogVHJ1ZX0pCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">eWVzID4gJycKICBhbmQgeWVzICE9ICdZZXMn</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjID0gVXNlci51cChkZWxldGVkPU5vbmUsIGpzPXtVc2VyLmVuYWJsZV9sYXN0X3NlYXJjaDogVHJ1ZX0pCg==</text>
+        <text encoding="base64">ICB1ID0gdXNlcnNbLTFdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAud2hlcmUoSW52aXRlLmFjY291bnRfaWQgPT0gc2VsZi5hY2MpCg==</text>
+        <text encoding="base64">ICBwcmludCh1Lm5hbWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//Provider</text>
