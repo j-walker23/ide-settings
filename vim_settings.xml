@@ -26,23 +26,26 @@
       <file name="/a.dummy" timestamp="1559403258263">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code/sc/web/migrations/versions/7a9999777536__149.py" timestamp="1559542922027">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="/code/sc/web/migrations/versions/7a9999777536__149.py" timestamp="1559548258718">
+        <mark key="'" line="43" column="6" />
+        <mark key="[" line="47" column="37" />
+        <mark key="]" line="47" column="45" />
+        <mark key="." line="47" column="45" />
+        <mark key="^" line="47" column="45" />
       </file>
-      <file name="/code/sc/web/cli/ones.py" timestamp="1559528570345">
-        <mark key="'" line="473" column="16" />
-        <mark key="[" line="475" column="42" />
-        <mark key="]" line="475" column="51" />
-        <mark key="^" line="475" column="51" />
-        <mark key="." line="475" column="51" />
+      <file name="/code/sc/web/cli/ones.py" timestamp="1559545833843">
+        <mark key="'" line="434" column="15" />
+        <mark key="[" line="469" column="37" />
+        <mark key="]" line="469" column="42" />
+        <mark key="^" line="469" column="42" />
+        <mark key="." line="469" column="42" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1559528929344">
-        <mark key="[" line="213" column="21" />
-        <mark key="]" line="213" column="21" />
-        <mark key="." line="213" column="21" />
-        <mark key="^" line="213" column="21" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1559548211083">
+        <mark key="'" line="210" column="0" />
+        <mark key="[" line="253" column="6" />
+        <mark key="]" line="253" column="16" />
+        <mark key="^" line="253" column="16" />
+        <mark key="." line="253" column="16" />
       </file>
       <file name="/code/sc/web/sc/sql/message/__init__.py" timestamp="1559514151768">
         <mark key="'" line="46" column="44" />
@@ -216,6 +219,12 @@
         <mark key="." line="20" column="35" />
         <mark key="^" line="20" column="35" />
       </file>
+      <file name="/code/sc/web/sc/coms/testing/utils.py" timestamp="1559545866481">
+        <mark key="[" line="41" column="39" />
+        <mark key="]" line="41" column="43" />
+        <mark key="." line="41" column="43" />
+        <mark key="^" line="41" column="43" />
+      </file>
       <file name="/code/sc/web/static/web/views/settings/providers/search/providers-search.ts" timestamp="1559312310766">
         <mark key="'" line="48" column="2" />
         <mark key="[" line="10" column="0" />
@@ -231,9 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/code/sc/web/static/web/views/campaigns/campaigns.html" />
-      <jump line="73" column="0" filename="/code/sc/web/static/web/views/messages/details/message-details.html" />
-      <jump line="7" column="8" filename="/code/sc/web/static/web/views/messages/messages.html" />
       <jump line="23" column="18" filename="/code/sc/web/static/web/views/messages/messages.html" />
       <jump line="25" column="29" filename="/code/sc/web/static/common/models/message.model.ts" />
       <jump line="88" column="0" filename="/code/sc/web/static/common/models/message.model.ts" />
@@ -331,40 +337,43 @@
       <jump line="87" column="6" filename="/code/sc/web/cli/scripts/m700.py" />
       <jump line="406" column="14" filename="/code/sc/web/cli/ones.py" />
       <jump line="473" column="16" filename="/code/sc/web/cli/ones.py" />
+      <jump line="210" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
+      <jump line="434" column="15" filename="/code/sc/web/cli/ones.py" />
+      <jump line="52" column="6" filename="/code/sc/web/migrations/versions/7a9999777536__149.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAjICMjIyBlbmQgQWxlbWJpYyBjb21tYW5kcyAjIyMK</text>
+        <text encoding="base64">CiAgcSA9ICgKICAgIHNlbGVjdChbdHVzZXJzLmMuaWQsIHR1c2Vycy5jLm5hbWUsIHRwcm92cy5jLmlkLCB0cHJvdnMuYy5uYW1lLCB0cHJvdnMuYy5hY2NvdW50X2lkXSkKICAgICAgLndoZXJlKHR1c2Vycy5jLmlkID09IHR1c2Vycy5jLmlkID09IHR1YS5jLnVzZXJfaWQpCiAgICAgIC53aGVyZSh0cHJvdnMuYy5hY2NvdW50X2lkID09IHR1YS5jLmFjY291bnRfaWQpCiAgICAgIC53aGVyZSh0dXNlcnMuYy5uYW1lID09IHRwcm92cy5jLm5hbWUpCiAgKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAjICMjIyBjb21tYW5kcyBhdXRvIGdlbmVyYXRlZCBieSBBbGVtYmljIC0gcGxlYXNlIGFkanVzdCEgIyMjCg==</text>
+        <text encoding="base64">ICBwcmludChxKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAjICMjIyBlbmQgQWxlbWJpYyBjb21tYW5kcyAjIyMK</text>
+        <text encoding="base64">CiAgcHJpbnQoYy5yb3djb3VudCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAjICMjIyBjb21tYW5kcyBhdXRvIGdlbmVyYXRlZCBieSBBbGVtYmljIC0gcGxlYXNlIGFkanVzdCEgIyMjCg==</text>
+        <text encoding="base64">ICByID0gcm93cy5mZXRjaG9uZSgpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">KQogIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICB0YWNjID0gZ2V0X3RhYmxlKCdhY2NvdW50cycpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBzdWIgPSAoc2VsZWN0KFt0cHJvdnMuYy5uYW1lXSkpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">eWVzID4gJycKICBhbmQgeWVzICE9ICdZZXMn</text>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgcSA9ICgKICAgIHNlbGVjdChbdHVzZXJzLmMuaWQsIHR1c2Vycy5jLm5hbWUsIHRwcm92cy5jLmlkLCB0cHJvdnMuYy5uYW1lLCB0cHJvdnMuYy5hY2NvdW50X2lkXSkKICAgICAgLnNlbGVjdF9mcm9tKHR1c2Vycy5qb2luKHR1YSwgdHVzZXJzLmMuaWQgPT0gdHVhLmMudXNlcl9pZCkKICAgICAgICAgICAgICAgICAgIC5qb2luKHRwcm92cywgdHByb3ZzLmMuYWNjb3VudF9pZCA9PSB0dWEuYy5hY2NvdW50X2lkKSkKICAgICAgLndoZXJlKHR1c2Vycy5jLm5hbWUgPT0gdHByb3ZzLmMubmFtZSkKICApCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB1ID0gdXNlcnNbLTFdCg==</text>
+        <text encoding="base64">Z3JvdXAgYnkgdS5uYW1lCmhhdmluZyBjYyA+IDEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcmludCh1Lm5hbWUpCg==</text>
+        <text encoding="base64">LCBjb3VudCgqKSBjYwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s//Provider</text>
       </register>
       <register name="-" type="4">
-        <text>adminmessage</text>
+        <text>rows</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
