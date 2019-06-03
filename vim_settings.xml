@@ -49,11 +49,18 @@
         <mark key="^" line="46" column="35" />
         <mark key="." line="46" column="35" />
       </file>
-      <file name="/code/sc/web/sc/sql/provider/__init__.py" timestamp="1559527417713">
+      <file name="/code/sc/web/sc/sql/provider/__init__.py" timestamp="1559542696801">
         <mark key="'" line="37" column="0" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+        <mark key="[" line="67" column="2" />
+        <mark key="]" line="67" column="5" />
+        <mark key="." line="67" column="5" />
+        <mark key="^" line="67" column="5" />
+      </file>
+      <file name="/code/sc/web/sc/sql/user/__init__.py" timestamp="1559542788968">
+        <mark key="[" line="102" column="2" />
+        <mark key="]" line="102" column="5" />
+        <mark key="^" line="102" column="5" />
+        <mark key="." line="102" column="5" />
       </file>
       <file name="/code/sc/web/static/common/components/emoji-picker/emoji-picker.ts" timestamp="1558633186608">
         <mark key="[" line="2" column="0" />
@@ -97,6 +104,7 @@
         <mark key="." line="43" column="23" />
         <mark key="^" line="43" column="23" />
       </file>
+      <file name="/code/trash/web/socialclime/sql/campaigns/__init__.py" timestamp="1559542670716" />
       <file name="/code/sc/medrank/rank/config.py" timestamp="1559178028605">
         <mark key="'" line="19" column="0" />
       </file>
@@ -149,6 +157,7 @@
         <mark key="^" line="73" column="87" />
         <mark key="." line="47" column="0" />
       </file>
+      <file name="/code/trash/web/socialclime/sql/users/__init__.py" timestamp="1559542714739" />
       <file name="/code/sc/web/instance/env.txt" timestamp="1559218785786">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -219,8 +228,6 @@
       <file name="/code/sc/web/static/common/mixins/select-hidden.ts" timestamp="1559225851822">
         <mark key="'" line="58" column="0" />
       </file>
-      <file name="/code/sc/web/package.json" timestamp="1559513996018" />
-      <file name="/code/sc/web/sc/sql/location/__init__.py" timestamp="1559525834539" />
       <file name="/code/sc/web/static/web/views/settings/providers/search/providers-auto.ts" timestamp="1559312109624">
         <mark key="'" line="20" column="2" />
         <mark key="[" line="20" column="35" />
@@ -346,37 +353,37 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text encoding="base64">eWVzID4gJycKICBhbmQgeWVzICE9ICdZZXMn</text>
+        <text encoding="base64">KQogIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB1ID0gdXNlcnNbLTFdCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBwcmludCh1Lm5hbWUpCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">eWVzID4gJycKICBhbmQgeWVzICE9ICdZZXMn</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">d2hlcmUgOwo=</text>
+        <text encoding="base64">ICB1ID0gdXNlcnNbLTFdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjID0gVXNlci51cChkZWxldGVkPU5vbmUsIGpzPXtVc2VyLmVuYWJsZV9sYXN0X3NlYXJjaDogVHJ1ZX0pCg==</text>
+        <text encoding="base64">ICBwcmludCh1Lm5hbWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjID0gVXNlci51cChkZWxldGVkPU5vbmUsIGpzPXtVc2VyLmVuYWJsZV9sYXN0X3NlYXJjaDogVHJ1ZX0pCg==</text>
+        <text encoding="base64">d2hlcmUgOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAud2hlcmUoSW52aXRlLmFjY291bnRfaWQgPT0gc2VsZi5hY2MpCg==</text>
+        <text encoding="base64">ICBjID0gVXNlci51cChkZWxldGVkPU5vbmUsIGpzPXtVc2VyLmVuYWJsZV9sYXN0X3NlYXJjaDogVHJ1ZX0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAud2hlcmUoSW52aXRlLmNyZWF0ZWRfYXQgPiBzaW5jZSkK</text>
+        <text encoding="base64">ICBjID0gVXNlci51cChkZWxldGVkPU5vbmUsIGpzPXtVc2VyLmVuYWJsZV9sYXN0X3NlYXJjaDogVHJ1ZX0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb3ZzID0gW3JbMF0gZm9yIHIgaW4gcmVzdWx0c10K</text>
+        <text encoding="base64">ICAgICAgICAud2hlcmUoSW52aXRlLmFjY291bnRfaWQgPT0gc2VsZi5hY2MpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//Provider</text>
       </register>
       <register name="-" type="4">
-        <text>utms</text>
+        <text>adminmessage</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -389,11 +396,10 @@
       <last-replace>Provider</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>isAsync</entry>
         <entry>hasFo</entry>
         <entry>chipsdemoContactChips</entry>
         <entry>ignore</entry>
