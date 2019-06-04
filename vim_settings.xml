@@ -15,12 +15,12 @@
       <file name="/code/sc/web/sc/coms/search/ops.py" timestamp="1559619530020" />
       <file name="/code/sc/web/sc/app/integs/apis/hj_rothman.py" timestamp="1559615411518" />
       <file name="/code/sc/web/sc/app/integs/bulk/incoming.py" timestamp="1559660930898" />
-      <file name="/code/sc/web/sc/app/tasks/hjcollecting.py" timestamp="1559673660459">
+      <file name="/code/sc/web/sc/app/tasks/hjcollecting.py" timestamp="1559675731256">
         <mark key="'" line="94" column="0" />
-        <mark key="[" line="72" column="39" />
-        <mark key="]" line="72" column="46" />
-        <mark key="^" line="72" column="46" />
-        <mark key="." line="72" column="46" />
+        <mark key="[" line="132" column="8" />
+        <mark key="]" line="132" column="12" />
+        <mark key="^" line="132" column="12" />
+        <mark key="." line="132" column="12" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1559673396337">
         <mark key="'" line="335" column="0" />
@@ -29,15 +29,15 @@
         <mark key="." line="341" column="13" />
         <mark key="^" line="341" column="13" />
       </file>
-      <file name="/code/sc/web/cli/hj.py" timestamp="1559674002226">
-        <mark key="'" line="95" column="0" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="4" />
-        <mark key="." line="69" column="4" />
+      <file name="/code/sc/web/cli/hj.py" timestamp="1559674550438">
+        <mark key="'" line="93" column="0" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
         <mark key="^" line="64" column="20" />
       </file>
       <file name="/code/sc/web/sc/sql/location/platform.py" timestamp="1559635192836" />
-      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1559672850470">
+      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1559674554765">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="55" column="13" />
         <mark key="]" line="55" column="17" />
@@ -71,7 +71,7 @@
         <mark key="]" line="32" column="35" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1559672255099">
+      <file name="/Python Console" timestamp="1559674565890">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1559668571435">
@@ -80,6 +80,7 @@
       <file name="/a.sql" timestamp="1559665490781">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/code/sc/web/instance/local/encs.json" timestamp="1559675483425" />
       <file name="/code/trash/web/static/web/views/campaigns/details/campaign-details.html" timestamp="1559653620345" />
       <file name="/code/sc/web/migrations/versions/dbf235fcad04__157.py" timestamp="1559650428415">
         <mark key="'" line="41" column="0" />
@@ -93,7 +94,7 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="/code/sc/web/.travis.yml" timestamp="1559674278066" />
+      <file name="/code/sc/web/.travis.yml" timestamp="1559674460440" />
       <file name="/code/sc/web/sc/sql/review/__init__.py" timestamp="1559647420697" />
       <file name="/code/sc/web/migrations/versions/1503b13dd55e__155.py" timestamp="1559647682940">
         <mark key="'" line="41" column="0" />
@@ -143,11 +144,11 @@
         <mark key="^" line="54" column="26" />
       </file>
       <file name="/invite.py" timestamp="1559664378137" />
-      <file name="/code/sc/web/sc/app/integs/hjs/collectors/types.py" timestamp="1559654209734">
-        <mark key="[" line="210" column="28" />
-        <mark key="]" line="210" column="27" />
-        <mark key="." line="210" column="27" />
-        <mark key="^" line="210" column="27" />
+      <file name="/code/sc/web/sc/app/integs/hjs/collectors/types.py" timestamp="1559675441708">
+        <mark key="[" line="195" column="18" />
+        <mark key="]" line="195" column="29" />
+        <mark key="." line="195" column="29" />
+        <mark key="^" line="195" column="29" />
       </file>
       <file name="/code/sc/web/sc/app/integs/hjs/auth.py" timestamp="1559670189428">
         <mark key="[" line="23" column="8" />
@@ -323,28 +324,28 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGVycnMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBpZiBub3Qgc2VsZi5lbmNvdW50ZXJfaWQ6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcmludChyZXN1bHRzKQo=</text>
+        <text encoding="base64">ICBlbmNvdW50ZXJfaWQ6IHN0ciA9IF9jb252ZXJ0KHRvX3N0cmlwcGVkLCBtdmFsPSdlaWQnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA1IC82Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcmludCgnIycgKiAxMDAwKQo=</text>
+        <text encoding="base64">ICAgIGZyb20gc2MuYXBwLnRhc2tzIGltcG9ydCBoamNvbGxlY3RpbmcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcmludCgnIycgKiAxMDAwKQo=</text>
+        <text encoding="base64">ICAgICMgaGpjb2xsZWN0aW5nLnJ1bl9hY2MoaGopCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgcHJpbnQodGFzaykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -353,7 +354,7 @@
         <text>%s//to_stripped</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>warning</text>
       </register>
       <register name="/" type="4">
         <text>_stripped_emtpy</text>
