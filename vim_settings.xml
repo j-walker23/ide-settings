@@ -35,12 +35,12 @@
         <mark key="." line="54" column="26" />
         <mark key="^" line="54" column="26" />
       </file>
-      <file name="/code/sc/web/sc/app/tasks/hjcollecting.py" timestamp="1559656848996">
-        <mark key="'" line="97" column="35" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="37" />
-        <mark key="^" line="74" column="36" />
-        <mark key="." line="73" column="0" />
+      <file name="/code/sc/web/sc/app/tasks/hjcollecting.py" timestamp="1559659498893">
+        <mark key="'" line="107" column="60" />
+        <mark key="[" line="107" column="17" />
+        <mark key="]" line="107" column="23" />
+        <mark key="^" line="107" column="23" />
+        <mark key="." line="107" column="23" />
       </file>
       <file name="/code/sc/web/Pipfile" timestamp="1559652002606">
         <mark key="'" line="47" column="16" />
@@ -68,7 +68,7 @@
         <mark key="^" line="37" column="21" />
         <mark key="." line="37" column="21" />
       </file>
-      <file name="/invite.py" timestamp="1559653760142" />
+      <file name="/invite.py" timestamp="1559659275395" />
       <file name="/code/sc/web/sc/app/integs/hjs/collectors/types.py" timestamp="1559654209734">
         <mark key="[" line="210" column="28" />
         <mark key="]" line="210" column="27" />
@@ -297,7 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="27" filename="/code/sc/web/sc/sql/integ/hj/hj_tables.py" />
       <jump line="295" column="33" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
       <jump line="103" column="17" filename="/code/sc/web/sc/app/tasks/hjcollecting.py" />
       <jump line="96" column="0" filename="/code/sc/web/sc/app/tasks/hjcollecting.py" />
@@ -397,40 +396,41 @@
       <jump line="57" column="0" filename="/code/sc/web/instance/local/develop_settings.py" />
       <jump line="52" column="25" filename="/code/sc/web/cli/hj.py" />
       <jump line="89" column="0" filename="/code/sc/web/cli/hj.py" />
+      <jump line="107" column="60" filename="/code/sc/web/sc/app/tasks/hjcollecting.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHIgPSBjb2xsZWN0b3IuY29sbGVjdChjaWQsIHNpbmNlKQo=</text>
+        <text encoding="base64">CkBjZWxlcnkudGFzawpkZWYgY29sbGVjdF90YWJsZSh0eXBlXzogVHlwZVtDb2xsZWN0b3JdLCBoajogSGVhbHRoanVtcCwgbGFzdF9tb2RpZnk6IEFycm93ID0gTm9uZSk6CiAgIiIiIiIiCgogIGZvciBjaWQgaW4gaGouY2lkczoKICAgIGNvbGxlY3RfcGFnZS5kZWxheShjb2xsZWN0b3JfY2xzLCBoaiwgY2lkKQoK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBpbml0X3N0YXJ0ID0gYXJyb3cudXRjbm93KCkuc2hpZnQoeWVhcnM9LTIpCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIAogICAgaWYgbGFzdF9wYWdlID09IDE6</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAjIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBub3cgPSBhcnJvdy51dGNub3coKQogIHNwYW5zID0gJ2RheXMnLCAnd2Vla3MnLCAnbW9udGhzJywgJ3F1YXJ0ZXJzJywgJ3llYXJzJwogIHRpbWVzID0gW10KICBmb3Iga2V5IGluIHNwYW5zOgogICAgdGltZSA9IG5vdy5zaGlmdCgqKntrZXk6IC00fSkKICAgIHRpbWVzLmFwcGVuZCh0aW1lKQo=</text>
+        <text encoding="base64">ICAgIHIgPSBjb2xsZWN0b3IuY29sbGVjdChjaWQsIHNpbmNlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAjIGZvciBzaW4gaW4gdGltZXM6CiAgICAjICAgciA9IGNvbGxlY3Rvci5jb2xsZWN0KGNpZCwgc2luKQoK</text>
+        <text encoding="base64">ICBpbml0X3N0YXJ0ID0gYXJyb3cudXRjbm93KCkuc2hpZnQoeWVhcnM9LTIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgZ3JvdXAoa2lja29mZl9kZW1vcy5zKGNpZCwgc2luKSBmb3Igc2luIGluIHRpbWVzKSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAKICBhYSA9IFtoLmFzZGljdCgpIGZvciBoIGluIEhlYWx0aGp1bXAuc2VhcmNoKGlkcz1pZHMpXQogIHdyaXRlX2xvY2FsX2pzb24oJ2RldmhqcycsIGFhKQo=</text>
+        <text encoding="base64">ICAjIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpZHMgPSBbaW50KGkpIGZvciBpIGluIGlkc10K</text>
+        <text encoding="base64">ICBub3cgPSBhcnJvdy51dGNub3coKQogIHNwYW5zID0gJ2RheXMnLCAnd2Vla3MnLCAnbW9udGhzJywgJ3F1YXJ0ZXJzJywgJ3llYXJzJwogIHRpbWVzID0gW10KICBmb3Iga2V5IGluIHNwYW5zOgogICAgdGltZSA9IG5vdy5zaGlmdCgqKntrZXk6IC00fSkKICAgIHRpbWVzLmFwcGVuZCh0aW1lKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s//to_stripped</text>
       </register>
       <register name="-" type="4">
-        <text>group(kickoff_demos.s(cid, sin) for sin in times)()</text>
+        <text>: int = 1</text>
       </register>
       <register name="/" type="4">
         <text>_stripped_emtpy</text>
