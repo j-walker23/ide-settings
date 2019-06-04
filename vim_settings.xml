@@ -31,6 +31,7 @@
         <mark key="." line="348" column="0" />
         <mark key="^" line="348" column="0" />
       </file>
+      <file name="/code/sc/web/static/web/views/settings/platforms/setup/setup-sync.ts" timestamp="1559688888049" />
       <file name="/code/sc/web/migrations/versions/7b60351eabad__155.py" timestamp="1559648479525">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -166,6 +167,12 @@
         <mark key="]" line="9" column="18" />
         <mark key="." line="9" column="18" />
         <mark key="^" line="9" column="18" />
+      </file>
+      <file name="/code/sc/web/static/web/views/arrowlytics/arrowlytics.ts" timestamp="1559688971973">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="/code/sc/web/tests/app/surveys/conftest.py" timestamp="1559593041356">
         <mark key="'" line="39" column="31" />
@@ -328,38 +335,38 @@
       <jump line="32" column="29" filename="/code/sc/web/static/web/http/messages.resource.ts" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGhqY29sbGVjdGluZy5ydW5fYWNjLmFwcGx5X2FzeW5jKGFyZ3M9KGhqLCksIGt3YXJncz17J3R5cGVfJzogQXBwb2ludG1lbnRDb2xsZWN0b3J9LCBxdWV1ZT1jb25zdC5oaWdoX3F1ZXVlKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIGxldCB7IGF1dGhfaWQsIHBsYXRmb3JtX2lkIH0gPSAkdHJhbnNpdGlvbiQucGFyYW1zPHsKICAgICAgYXV0aF9pZDogbnVtYmVyCiAgICAgIHBsYXRmb3JtX2lkOiBudW1iZXIKICAgIH0+KCkKICAgIGxldCBhdXRoID0gbWUoCiAgICAgIEF1dGgsCiAgICAgIHsgaWQ6IGF1dGhfaWQgfSwKICAgICAgbWUoUGxhdGZvcm0sIHsgaWQ6IHBsYXRmb3JtX2lkIH0sIGFwcC5hY2NvdW50KQogICAgKQogICAgJHJlcy5wYXJlbnQgPSBhdXRoCiAgICByZXR1cm4gJHJlcy5vbmVQYXRoKCcvb25lJyk=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwYXRobGliLlBhdGgoJ2luc3RhbmNlL2xvY2FsL2N1bnQvY29vbC5qc29uJykubWtkaXIocGFyZW50cz1UcnVlLCBleGlzdF9vaz1UcnVlKQo=</text>
+        <text encoding="base64">ICAgIGhqY29sbGVjdGluZy5ydW5fYWNjLmFwcGx5X2FzeW5jKGFyZ3M9KGhqLCksIGt3YXJncz17J3R5cGVfJzogQXBwb2ludG1lbnRDb2xsZWN0b3J9LCBxdWV1ZT1jb25zdC5oaWdoX3F1ZXVlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9wLmRyb3BfaW5kZXgob3AuZignaXhfaGpfYXBwb2ludG1lbnRzX2VpZCcpLCB0YWJsZV9uYW1lPSdoal9hcHBvaW50bWVudHMnKQo=</text>
+        <text encoding="base64">ICBwYXRobGliLlBhdGgoJ2luc3RhbmNlL2xvY2FsL2N1bnQvY29vbC5qc29uJykubWtkaXIocGFyZW50cz1UcnVlLCBleGlzdF9vaz1UcnVlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG9wLmRyb3BfaW5kZXgoJ2ZrX2hqX2FwcG9pbnRtZW50c19laWQnLCB0YWJsZV9uYW1lPSdoal9hcHBvaW50bWVudHMnKQo=</text>
+        <text encoding="base64">ICAgIG9wLmRyb3BfaW5kZXgob3AuZignaXhfaGpfYXBwb2ludG1lbnRzX2VpZCcpLCB0YWJsZV9uYW1lPSdoal9hcHBvaW50bWVudHMnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBlaWQgPSBkYXR0cihsYW1iZGEgY2xzOiBDb2x1bW4oU3RyaW5nKDUwKSwgRm9yZWlnbktleSgnaGpfZW5jb3VudGVycy5laWQnLCAqKmNvbnN0LkZLX0FMTCksIG51bGxhYmxlPUZhbHNlKSkK</text>
+        <text encoding="base64">ICAgIG9wLmRyb3BfaW5kZXgoJ2ZrX2hqX2FwcG9pbnRtZW50c19laWQnLCB0YWJsZV9uYW1lPSdoal9hcHBvaW50bWVudHMnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlaWQgPSBkYXR0cihsYW1iZGEgY2xzOiBDb2x1bW4oU3RyaW5nKDUwKSwgRm9yZWlnbktleSgnaGpfZW5jb3VudGVycy5laWQnLCAqKmNvbnN0LkZLX0FMTCksIG51bGxhYmxlPUZhbHNlKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAkcmVzLm9uZShwYXJhbXMucHJvdl9pZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCBwMiA9ICRxLndoZW4oW10pCiAgICBpZiAoIWlzbXVsdGkpCiAgICAgIHAyID0gJG1lc3MKICAgICAgICAuY2FjaGVFYXN5TG9hZChwcm92KQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAkcmVzLm9uZShwYXJhbXMucHJvdl9pZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGxldCBwMiA9ICRxLndoZW4oW10pCiAgICBpZiAoIWlzbXVsdGkpCiAgICAgIHAyID0gJG1lc3MKICAgICAgICAuY2FjaGVFYXN5TG9hZChwcm92KQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s//to_stripped</text>
       </register>
       <register name="-" type="4">
-        <text>Noen</text>
+        <text encoding="base64">JHJlczogUGxhdFN5bmNzUmVzb3VyY2UsIA==</text>
       </register>
       <register name="/" type="4">
         <text>_stripped_emtpy</text>
