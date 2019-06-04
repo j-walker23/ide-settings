@@ -13,12 +13,12 @@
         <mark key="^" line="81" column="47" />
         <mark key="." line="81" column="47" />
       </file>
-      <file name="/code/sc/web/sc/app/tasks/hjcollecting.py" timestamp="1559682416758">
+      <file name="/code/sc/web/sc/app/tasks/hjcollecting.py" timestamp="1559684690354">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="133" column="26" />
-        <mark key="]" line="133" column="29" />
-        <mark key="^" line="133" column="29" />
-        <mark key="." line="133" column="29" />
+        <mark key="[" line="77" column="105" />
+        <mark key="]" line="77" column="108" />
+        <mark key="^" line="77" column="108" />
+        <mark key="." line="77" column="108" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1559681939986">
         <mark key="'" line="335" column="0" />
@@ -51,14 +51,14 @@
         <mark key="^" line="281" column="44" />
         <mark key="." line="281" column="44" />
       </file>
-      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1559681699659">
-        <mark key="'" line="42" column="16" />
+      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1559685354569">
+        <mark key="'" line="29" column="9" />
         <mark key="[" line="55" column="13" />
         <mark key="]" line="55" column="17" />
         <mark key="." line="41" column="14" />
         <mark key="^" line="55" column="17" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b9634198-1e4c-4f84-9159-24bfaa2d9c4c/console.sql" timestamp="1559682265080">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b9634198-1e4c-4f84-9159-24bfaa2d9c4c/console.sql" timestamp="1559684669484">
         <mark key="'" line="72" column="0" />
         <mark key="[" line="88" column="0" />
         <mark key="]" line="101" column="0" />
@@ -89,6 +89,7 @@
       <file name="/code/sc/web/cli/scripts/v700.py" timestamp="1559681773438">
         <mark key="'" line="63" column="12" />
       </file>
+      <file name="/code/sc/web/static/web/views/assign-dash/search/assign-dash-search.ts" timestamp="1559685016642" />
       <file name="/code/sc/web/static/web/views/settings/locations/locations.ts" timestamp="1559595778254">
         <mark key="'" line="239" column="17" />
       </file>
@@ -117,11 +118,11 @@
       <file name="/code/sc/web/migrations/versions/fd5be5336d65__147.py" timestamp="1559579923552">
         <mark key="'" line="27" column="21" />
       </file>
-      <file name="/code/sc/web/instance/env.txt" timestamp="1559682307436">
+      <file name="/code/sc/web/instance/env.txt" timestamp="1559685364172">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="^" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="/code/sc/web/sc/app/integs/hjs/collectors/collector.py" timestamp="1559681521998">
         <mark key="'" line="19" column="20" />
@@ -153,6 +154,12 @@
       </file>
       <file name="/code/sc/web/tests/app/surveys/conftest.py" timestamp="1559593041356">
         <mark key="'" line="39" column="31" />
+      </file>
+      <file name="/code/sc/web/static/web/views/arrowlytics/search/arrowlytics-search.ts" timestamp="1559685027365">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="20" column="7" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="/code/sc/web/static/common/components/grid/grid.ts" timestamp="1559175029867">
         <mark key="'" line="45" column="3" />
@@ -204,7 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="225" column="34" filename="/code/sc/web/sc/sql/integ/hj/hj_tables.py" />
       <jump line="60" column="13" filename="/code/sc/web/sc/sql/integ/hj/hj_tables.py" />
       <jump line="137" column="29" filename="/code/sc/web/sc/sql/integ/hj/hj_tables.py" />
       <jump line="28" column="6" filename="/code/sc/web/sc/sql/__init__.py" />
@@ -304,40 +310,41 @@
       <jump line="63" column="12" filename="/code/sc/web/cli/scripts/v700.py" />
       <jump line="72" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b9634198-1e4c-4f84-9159-24bfaa2d9c4c/console.sql" />
       <jump line="24" column="0" filename="/code/sc/web/sc/app/tasks/hjcollecting.py" />
+      <jump line="29" column="9" filename="/code/sc/web/instance/local/develop_settings.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYXBwZW5kX2xvY2FsX2pzb24oJ2VuY3MnLCBiYWRzKQo=</text>
+        <text encoding="base64">ICBzdGFydAogIGVuZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgd3JpdGVfbG9jYWxfanNvbignc2lkcycsIGJhZHMpCg==</text>
+        <text encoding="base64">ICAgICAgYXBwZW5kX2xvY2FsX2pzb24oJ2VuY3MnLCBiYWRzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">d2hlcmUgaGppZCA9ICcxNDM0MjAxJwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgd3JpdGVfbG9jYWxfanNvbignc2lkcycsIGJhZHMpCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">d2hlcmUgaGppZCA9ICcxNDM0MjAxJwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoJ1dyaXRpbmcnLCBsZW4oYmFkcyksICcqJyAqIDUwMCkK</text>
+        <text encoding="base64">ICAgICAgd3JpdGVfbG9jYWxfanNvbignc2lkcycsIGJhZHMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzcWxfZXJyb3JzID0gW10K</text>
+        <text encoding="base64">ICAgICAgcHJpbnQoJ1dyaXRpbmcnLCBsZW4oYmFkcyksICcqJyAqIDUwMCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYmFkcyA9IFtdCg==</text>
+        <text encoding="base64">ICBzcWxfZXJyb3JzID0gW10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzYXZlZCA9IDAKCiAgc2l6ZSA9IDIwMAoK</text>
+        <text encoding="base64">ICAgICAgYmFkcyA9IFtdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAKICAKCiAgZm9yIGRpY3RzIGluIHV0aWxzLmNodW5rcyhtb2RzLCBzaXplKToKICAgIHRyeToKICAgICAgc3ViID0gaW5zZXJ0KGNscy5fX3RhYmxlX18pLnZhbHVlcyhkaWN0cykKICAgICAgY29scyA9IHNhLmJhc2VfY29scyhjbHMpIC0gc2EucGtfY29scyhjbHMpCiAgICAgIGlucyA9IHtrOiBnZXRhdHRyKHN1Yi5pbnNlcnRlZCwgaykgZm9yIGsgaW4gY29sc30KICAgICAgc3ViID0gc3ViLm9uX2R1cGxpY2F0ZV9rZXlfdXBkYXRlKCoqaW5zKQogICAgICBjID0gc2V4KHN1Yikucm93Y291bnQKICAgICAgaWYgYyA+IHNpemU6CiAgICAgICAgYyAvPSAyCiAgICAgIHNhdmVkICs9IGMKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgc3FsX2Vycm9ycy5hcHBlbmQoc3RyKGUpWzoxMDBdKQo=</text>
+        <text encoding="base64">ICBzYXZlZCA9IDAKCiAgc2l6ZSA9IDIwMAoK</text>
       </register>
       <register name=":" type="4">
         <text>%s//to_stripped</text>
       </register>
       <register name="-" type="4">
-        <text>'instance/local/cunt/cool.json'</text>
+        <text>locawprl</text>
       </register>
       <register name="/" type="4">
         <text>_stripped_emtpy</text>
