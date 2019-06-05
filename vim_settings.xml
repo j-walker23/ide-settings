@@ -153,6 +153,12 @@
         <mark key="." line="52" column="21" />
         <mark key="^" line="52" column="21" />
       </file>
+      <file name="/code/sc/web/cli/scm.py" timestamp="1559754896633">
+        <mark key="[" line="131" column="35" />
+        <mark key="]" line="132" column="18" />
+        <mark key="^" line="132" column="18" />
+        <mark key="." line="132" column="18" />
+      </file>
       <file name="/code/sc/web/sc/app/integs/hjs/collectors/collector.py" timestamp="1559681521998">
         <mark key="'" line="19" column="20" />
         <mark key="[" line="33" column="4" />
@@ -365,37 +371,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcmludChfbWlkLCBfbGlkKQo=</text>
+        <text encoding="base64">ICAgICAgZm91dC53cml0ZSgpCiAgICAgIGYud3JpdGUoY29udGVudCkKICAgIHNodXRpbC5jb3B5ZmlsZW9iaihmaW4sIGZvdXQpCiAgd2l0aCBnemlwLm9wZW4obmFtZSkgYXMgZmluOgogICAgd2l0aCBvcGVuKG91dF9uYW1lLCAnd2InKSBhcyBmb3V0OgogICAgICBzaHV0aWwuY29weWZpbGVvYmooZmluLCBmb3V0KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXR1cm4K</text>
+        <text encoding="base64">ICBwcmludChfbWlkLCBfbGlkKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5pbnZpdGUpCg==</text>
+        <text encoding="base64">ICByZXR1cm4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHEgPSBxLndpdGhfcGFyZW50KHVzZXIpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5pbnZpdGUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHEgPSBxLndpdGhfcGFyZW50KHVzZXIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhbmQgY2FtcGFpZ25zLmRlbGV0ZWRfYXQgaXMgbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhbmQgKGNhbXBhaWducy5uYW1lIGxpa2UgY29uY2F0KGNvbmNhdCgnJScsKSwgJyUnKSkK</text>
+        <text encoding="base64">ICBhbmQgY2FtcGFpZ25zLmRlbGV0ZWRfYXQgaXMgbnVsbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGltaXQgMCwgNTAK</text>
+        <text encoding="base64">ICBhbmQgKGNhbXBhaWducy5uYW1lIGxpa2UgY29uY2F0KGNvbmNhdCgnJScsKSwgJyUnKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">d2hlcmUgCg==</text>
+        <text encoding="base64">bGltaXQgMCwgNTAK</text>
       </register>
       <register name=":" type="4">
         <text>%s//to_stripped</text>
       </register>
       <register name="-" type="4">
-        <text>mid</text>
+        <text>writebuf</text>
       </register>
       <register name="/" type="4">
         <text>_stripped_emtpy</text>
