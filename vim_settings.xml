@@ -196,11 +196,11 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="/code/sc/web/instance/env.txt" timestamp="1559779404693">
+      <file name="/code/sc/web/instance/env.txt" timestamp="1559781166007">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="^" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="/code/sc/web/static/web/views/settings/providers/details/provider-details.ts" timestamp="1559687311173">
         <mark key="[" line="51" column="27" />
@@ -245,6 +245,9 @@
         <mark key="^" line="18" column="25" />
         <mark key="." line="18" column="25" />
       </file>
+      <file name="/code/sc/web/static/web/views/arrowlytics/summary-table/summary-table.ts" timestamp="1559780634774">
+        <mark key="'" line="15" column="15" />
+      </file>
       <file name="/code/sc/web/sc/app/integs/hjs/collectors/demographic.py" timestamp="1559680417987">
         <mark key="[" line="9" column="7" />
         <mark key="]" line="9" column="18" />
@@ -280,6 +283,12 @@
         <mark key="]" line="14" column="13" />
         <mark key="^" line="14" column="13" />
         <mark key="." line="14" column="13" />
+      </file>
+      <file name="/code/sc/web/static/common/components/grid/grid.ts" timestamp="1559780625528">
+        <mark key="'" line="199" column="0" />
+      </file>
+      <file name="/code/sc/web/static/web/views/notes/notes.ts" timestamp="1559780640546">
+        <mark key="'" line="44" column="4" />
       </file>
       <file name="/code/sc/web/sc/mods/api/views/platforms_api_view.py" timestamp="1559777923899" />
       <file name="/code/sc/web/sc/app/integs/bulk/types.py" timestamp="1559780048514">
@@ -405,6 +414,12 @@
         <mark key="^" line="15" column="30" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="/code/sc/web/static/web/views/nav-toolbar/user-accounts/user-accounts.ts" timestamp="1559780636645">
+        <mark key="'" line="40" column="15" />
+      </file>
+      <file name="/code/sc/web/static/web/views/arrowlytics/arrived/data-table/data-table.ts" timestamp="1559780632277">
+        <mark key="'" line="26" column="1" />
+      </file>
       <file name="/code/sc/web/sc/coms/testing/utils.py" timestamp="1559693777601">
         <mark key="[" line="41" column="39" />
         <mark key="]" line="41" column="42" />
@@ -426,12 +441,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="241" column="0" filename="/code/sc/web/sc/app/integs/hjs/collectors/types.py" />
-      <jump line="122" column="0" filename="/code/sc/web/migrations/versions/54772966a0c6__153.py" />
-      <jump line="107" column="89" filename="/code/sc/web/migrations/versions/f94bfe04ac60__153.py" />
-      <jump line="82" column="0" filename="/code/sc/web/migrations/versions/f94bfe04ac60__153.py" />
-      <jump line="45" column="0" filename="/code/sc/web/migrations/versions/f94bfe04ac60__153.py" />
-      <jump line="86" column="89" filename="/code/sc/web/migrations/versions/f94bfe04ac60__153.py" />
       <jump line="44" column="0" filename="/code/sc/web/migrations/versions/fd4ee9100fc0__154.py" />
       <jump line="132" column="4" filename="/code/sc/web/migrations/versions/e325dd3ed9cf__155.py" />
       <jump line="33" column="22" filename="/code/sc/web/sc/sql/integ/hj/hj_tables.py" />
@@ -526,6 +535,12 @@
       <jump line="250" column="43" filename="/code/sc/web/cli/scripts/m700.py" />
       <jump line="330" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
       <jump line="291" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
+      <jump line="48" column="13" filename="/code/sc/web/static/common/components/grid/grid.ts" />
+      <jump line="199" column="0" filename="/code/sc/web/static/common/components/grid/grid.ts" />
+      <jump line="26" column="1" filename="/code/sc/web/static/web/views/arrowlytics/arrived/data-table/data-table.ts" />
+      <jump line="15" column="15" filename="/code/sc/web/static/web/views/arrowlytics/summary-table/summary-table.ts" />
+      <jump line="40" column="15" filename="/code/sc/web/static/web/views/nav-toolbar/user-accounts/user-accounts.ts" />
+      <jump line="44" column="4" filename="/code/sc/web/static/web/views/notes/notes.ts" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -559,7 +574,7 @@
         <text>%s//to_stripped</text>
       </register>
       <register name="-" type="4">
-        <text>trigs</text>
+        <text>local</text>
       </register>
       <register name="/" type="4">
         <text>_stripped_emtpy</text>
