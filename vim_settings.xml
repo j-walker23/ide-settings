@@ -142,7 +142,14 @@
         <mark key="^" line="942" column="1" />
         <mark key="." line="942" column="1" />
       </file>
+      <file name="/code/sc/web/sc/app/integs/bulk/day_group.py" timestamp="1559831387692">
+        <mark key="[" line="39" column="43" />
+        <mark key="]" line="39" column="3" />
+        <mark key="^" line="39" column="3" />
+        <mark key="." line="39" column="3" />
+      </file>
       <file name="/code/sc/web/static/web/views/nav-toolbar/med-imports/med-imports.html" timestamp="1559814521144" />
+      <file name="/code/sc/web/main_cron.py" timestamp="1559832092470" />
       <file name="/code/sc/web/sc/coms/dm/transdict.py" timestamp="1559812027427" />
       <file name="/code/sc/web/sc/app/integs/apis/hj_sig_health.py" timestamp="1559811213316">
         <mark key="'" line="383" column="36" />
@@ -168,6 +175,13 @@
         <mark key="]" line="41" column="35" />
         <mark key="." line="41" column="35" />
         <mark key="^" line="41" column="35" />
+      </file>
+      <file name="/code/sc/web/sc/app/tasks/customs.py" timestamp="1559832111820">
+        <mark key="'" line="188" column="0" />
+        <mark key="[" line="72" column="41" />
+        <mark key="]" line="72" column="40" />
+        <mark key="^" line="72" column="40" />
+        <mark key="." line="72" column="40" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fb25e990-8cf1-4b0f-afa4-704a731bd0fb/console.sql" timestamp="1559689842553">
         <mark key="'" line="0" column="0" />
@@ -260,11 +274,11 @@
         <mark key="." line="32" column="189" />
         <mark key="^" line="32" column="189" />
       </file>
-      <file name="/code/sc/web/sc/app/tasks/invite.py" timestamp="1559812727870">
-        <mark key="[" line="177" column="104" />
-        <mark key="]" line="177" column="118" />
-        <mark key="." line="177" column="118" />
-        <mark key="^" line="177" column="118" />
+      <file name="/code/sc/web/sc/app/tasks/invite.py" timestamp="1559831368039">
+        <mark key="[" line="197" column="12" />
+        <mark key="]" line="197" column="11" />
+        <mark key="." line="197" column="11" />
+        <mark key="^" line="197" column="11" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" timestamp="1559813262940">
         <mark key="[" line="21" column="0" />
@@ -297,19 +311,15 @@
         <mark key="^" line="27" column="101" />
         <mark key="." line="27" column="101" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1559809661805">
-        <mark key="'" line="257" column="0" />
-        <mark key="[" line="321" column="1" />
-        <mark key="]" line="325" column="49" />
-        <mark key="^" line="325" column="49" />
-        <mark key="." line="325" column="49" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1559832379432">
+        <mark key="'" line="22" column="13" />
+        <mark key="[" line="352" column="0" />
+        <mark key="]" line="353" column="0" />
+        <mark key="." line="353" column="0" />
+        <mark key="^" line="353" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="36" filename="/code/sc/web/sc/app/tasks/hjcollecting.py" />
-      <jump line="31" column="0" filename="/code/sc/web/sc/app/tasks/hjcollecting.py" />
-      <jump line="89" column="26" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b9634198-1e4c-4f84-9159-24bfaa2d9c4c/console.sql" />
-      <jump line="62" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b9634198-1e4c-4f84-9159-24bfaa2d9c4c/console.sql" />
       <jump line="334" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
       <jump line="38" column="0" filename="/code/trash/web/sc/app/tasks/hjcollecting.py" />
       <jump line="47" column="0" filename="/code/sc/web/instance/local/develop_settings.py" />
@@ -406,49 +416,56 @@
       <jump line="23" column="12" filename="/code/sc/web/instance/local/develop_settings.py" />
       <jump line="426" column="18" filename="/code/sc/web/cli/ones.py" />
       <jump line="425" column="2" filename="/code/sc/web/cli/ones.py" />
+      <jump line="280" column="11" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
+      <jump line="185" column="0" filename="/code/sc/web/sc/app/tasks/customs.py" />
+      <jump line="292" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
+      <jump line="22" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCBmMSA9CiAgICAgICdzZWNfbG9jLnNlbCgpe25hbWV9LGxvY2F0aW9ue25hbWV9LGNhbXBhaWdue25hbWV9LHJldmlld3Muc2VsKCl7b3JpZ2luLGNvbW1lbnQscmF0aW5nLHBsYXRmb3JtLmpuKCl7aXNfc3VydmV5LGlkLGtpbmQsbmFtZSxpbWFnZV91cmx9fScKICAgIGxldCBmMiA9CiAgICAgICd1c2VyLm91dCgpe25hbWV9LGludml0ZV9ldmVudHMuc2VsKCl7Y3JlYXRlZF9hdCx0eXBlLHBsYXRmb3JtLmpuKCl7aWQsa2luZCxuYW1lfX0nCiAgICBsZXQgZmllbGRzID0gYCR7ZjF9LCR7ZjJ9YAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCBmMSA9CiAgICAgICdzZWNfbG9jLnNlbCgpe25hbWV9LGxvY2F0aW9ue25hbWV9LGNhbXBhaWdue25hbWV9LHJldmlld3Muc2VsKCl7b3JpZ2luLGNvbW1lbnQscmF0aW5nLHBsYXRmb3JtLmpuKCl7aXNfc3VydmV5LGlkLGtpbmQsbmFtZSxpbWFnZV91cmx9fScKICAgIGxldCBmMiA9CiAgICAgICd1c2VyLm91dCgpe25hbWV9LGludml0ZV9ldmVudHMuc2VsKCl7Y3JlYXRlZF9hdCx0eXBlLHBsYXRmb3JtLmpuKCl7aWQsa2luZCxuYW1lfX0nCiAgICBsZXQgZmllbGRzID0gYCR7ZjF9LCR7ZjJ9YAo=</text>
+        <text encoding="base64">ICAgIGludml0ZS5yb2xsdXBfbWVkX2dyb3Vwcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIHJvdy5nZXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">d2hlcmUgCg==</text>
+        <text encoding="base64">d2hlcmUgYWNjb3VudF9pZCA9IDE5Mgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgY29uLm1lc3NfaWQgPSAK</text>
+      <register name="5" type="4">
+        <text>select 
+from 
+where 
+;</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbWVzcyA9IG5leHQoKG0gZm9yIG0gaW4gcHJvdi5tZXNzYWdlcykpCg==</text>
+        <text encoding="base64">ICAgIGxldCBmMSA9CiAgICAgICdzZWNfbG9jLnNlbCgpe25hbWV9LGxvY2F0aW9ue25hbWV9LGNhbXBhaWdue25hbWV9LHJldmlld3Muc2VsKCl7b3JpZ2luLGNvbW1lbnQscmF0aW5nLHBsYXRmb3JtLmpuKCl7aXNfc3VydmV5LGlkLGtpbmQsbmFtZSxpbWFnZV91cmx9fScKICAgIGxldCBmMiA9CiAgICAgICd1c2VyLm91dCgpe25hbWV9LGludml0ZV9ldmVudHMuc2VsKCl7Y3JlYXRlZF9hdCx0eXBlLHBsYXRmb3JtLmpuKCl7aWQsa2luZCxuYW1lfX0nCiAgICBsZXQgZmllbGRzID0gYCR7ZjF9LCR7ZjJ9YAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgCg==</text>
+        <text encoding="base64">ICAgIGxldCBmMSA9CiAgICAgICdzZWNfbG9jLnNlbCgpe25hbWV9LGxvY2F0aW9ue25hbWV9LGNhbXBhaWdue25hbWV9LHJldmlld3Muc2VsKCl7b3JpZ2luLGNvbW1lbnQscmF0aW5nLHBsYXRmb3JtLmpuKCl7aXNfc3VydmV5LGlkLGtpbmQsbmFtZSxpbWFnZV91cmx9fScKICAgIGxldCBmMiA9CiAgICAgICd1c2VyLm91dCgpe25hbWV9LGludml0ZV9ldmVudHMuc2VsKCl7Y3JlYXRlZF9hdCx0eXBlLHBsYXRmb3JtLmpuKCl7aWQsa2luZCxuYW1lfX0nCiAgICBsZXQgZmllbGRzID0gYCR7ZjF9LCR7ZjJ9YAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbWVzc2FnZV90eXBlID0gcHJvdmlkZXJfbmFtZQo=</text>
+        <text encoding="base64">ICAgIGlmIHJvdy5nZXQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb3ZpZGVyX25hbWUgPSAnU3VydmV5IC0gJyArIGVuY291bnRlclsncHJvdmlkZXJfaWQnXQo=</text>
+        <text encoding="base64">d2hlcmUgCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//to_stripped</text>
       </register>
       <register name="-" type="4">
-        <text>local</text>
+        <text encoding="base64">YXJncz0oanNbJ2lkJ10sIGpzWydjb250YWN0X2lkJ10pLCA=</text>
       </register>
       <register name="/" type="4">
-        <text>Survey</text>
+        <text>asdf</text>
       </register>
     </registers>
     <search>
-      <last-search>Survey</last-search>
+      <last-search>asdf</last-search>
       <last-offset />
-      <last-pattern>Survey</last-pattern>
+      <last-pattern>asdf</last-pattern>
       <last-replace>to_stripped</last-replace>
       <last-substitute>_stripped_emtpy</last-substitute>
       <last-dir>1</last-dir>
@@ -477,8 +494,8 @@
         <entry>_stripped_emtpy</entry>
         <entry>Survey -</entry>
         <entry>survey</entry>
-        <entry>asdf</entry>
         <entry>Survey</entry>
+        <entry>asdf</entry>
       </history-search>
       <history-cmd>
         <entry>%s//BoostParams</entry>
