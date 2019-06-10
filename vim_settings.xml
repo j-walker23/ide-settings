@@ -46,7 +46,6 @@
         <mark key="." line="429" column="43" />
         <mark key="^" line="429" column="43" />
       </file>
-      <file name="/code/sc/web/sc/sql/integ/hj/hj_tables.py" timestamp="1559853777107" />
       <file name="/code/sc/web/Pipfile.lock" timestamp="1559769199729">
         <mark key="'" line="1169" column="44" />
       </file>
@@ -164,9 +163,6 @@
         <mark key="^" line="39" column="3" />
         <mark key="." line="39" column="3" />
       </file>
-      <file name="/code/sc/web/static/web/views/nav-toolbar/med-imports/med-imports.html" timestamp="1559814521144" />
-      <file name="/code/sc/web/main_cron.py" timestamp="1559832092470" />
-      <file name="/code/sc/web/sc/coms/dm/transdict.py" timestamp="1559812027427" />
       <file name="/code/sc/web/sc/app/integs/apis/hj_sig_health.py" timestamp="1559811213316">
         <mark key="'" line="383" column="36" />
         <mark key="[" line="177" column="12" />
@@ -310,8 +306,8 @@
         <mark key="." line="197" column="11" />
         <mark key="^" line="197" column="11" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" timestamp="1559948221825">
-        <mark key="[" line="22" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" timestamp="1560200969299">
+        <mark key="[" line="26" column="1" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="0" />
@@ -347,16 +343,15 @@
       <file name="/code/sc/web/static/web/views/arrowlytics/arrived/data-table/data-table.ts" timestamp="1559780632277">
         <mark key="'" line="26" column="1" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1559854200066">
-        <mark key="'" line="169" column="0" />
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="129" column="17" />
-        <mark key="." line="129" column="17" />
-        <mark key="^" line="129" column="17" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1560201007282">
+        <mark key="'" line="132" column="0" />
+        <mark key="[" line="375" column="6" />
+        <mark key="]" line="375" column="92" />
+        <mark key="." line="375" column="92" />
+        <mark key="^" line="375" column="92" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="/code/sc/web/instance/local/develop_settings.py" />
       <jump line="94" column="0" filename="/code/sc/web/sc/app/tasks/hjcollecting.py" />
       <jump line="335" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
       <jump line="51" column="65" filename="/code/sc/web/sc/app/integs/hjs/auth.py" />
@@ -456,6 +451,7 @@
       <jump line="108" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
       <jump line="164" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
       <jump line="41" column="6" filename="/code/sc/web/sc/mods/web/public/randoms_view.py" />
+      <jump line="132" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -502,13 +498,10 @@
       <last-replace>to_stripped</last-replace>
       <last-substitute>_stripped_emtpy</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ismulti</entry>
-        <entry>prod</entry>
-        <entry>AssignDash</entry>
         <entry>UserAccounts</entry>
         <entry>Users</entry>
         <entry>inv_</entry>
