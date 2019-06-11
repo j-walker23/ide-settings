@@ -239,12 +239,12 @@
       <file name="/code/sc/web/static/web/views/arrowlytics/arrived/data-table/data-table.ts" timestamp="1559780632277">
         <mark key="'" line="26" column="1" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1560268625163">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1560272760631">
         <mark key="'" line="362" column="14" />
-        <mark key="[" line="398" column="5" />
-        <mark key="]" line="398" column="15" />
-        <mark key="." line="398" column="15" />
-        <mark key="^" line="398" column="15" />
+        <mark key="[" line="412" column="1" />
+        <mark key="]" line="415" column="5" />
+        <mark key="." line="415" column="5" />
+        <mark key="^" line="415" column="5" />
       </file>
     </filemarks>
     <jumps>
@@ -351,10 +351,10 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVsZXRlIGZyb20gYWNjb3VudHMgd2hlcmUgaWQgPSA2NzQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBAY2xhc3NtZXRob2QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICBAY2xhc3NtZXRob2QK</text>
@@ -363,9 +363,12 @@
         <text encoding="base64">ICBAY2xhc3NtZXRob2QK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICBAY2xhc3NtZXRob2QK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgbGlzdGluZyA9IGNyZWF0ZV9saXN0aW5nKGFsKQogICAgICBsaXN0aW5nLnJ1bl9hZnRlcl9zZXR1cF90YXNrKCkK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>from attr import attrs
 
 
@@ -373,20 +376,17 @@
 class PlatApi(object):
   &quot;&quot;&quot;&quot;&quot;&quot;</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CiAgZGVmIHJ1bl9hZnRlcl9zZXR1cF90YXNrKHNlbGYpOgogICAgIiIiIiIiCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGZyb20gc2MuYXBwLnRhc2tzIGltcG9ydCBzeW5jaW5nCiAgICBzeW5jaW5nLmFmdGVyX3NldHVwLmRlbGF5KHNlbGYuYWwuaWQpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIGZyb20gc2MuYXBwLnRhc2tzIGltcG9ydCBzeW5jaW5nCiAgICBzeW5jaW5nLmFmdGVyX3NldHVwLmRlbGF5KHNlbGYuYWwuaWQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//to_stripped</text>
       </register>
       <register name="-" type="4">
-        <text>campaign</text>
+        <text>auth_locs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
