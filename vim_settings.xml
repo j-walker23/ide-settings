@@ -175,6 +175,7 @@
         <mark key="^" line="39" column="3" />
         <mark key="." line="39" column="3" />
       </file>
+      <file name="/code/sc/web/main_cron.py" timestamp="1560240743142" />
       <file name="/code/sc/web/sc/app/integs/apis/hj_sig_health.py" timestamp="1559811213316">
         <mark key="'" line="383" column="36" />
         <mark key="[" line="177" column="12" />
@@ -297,8 +298,14 @@
         <mark key="^" line="228" column="8" />
         <mark key="." line="228" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559833833058">
+      <file name="/Dummy.txt" timestamp="1560241014789">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/code/sc/web/gce/startup-script-back.sh" timestamp="1560241108641">
+        <mark key="[" line="134" column="80" />
+        <mark key="]" line="134" column="81" />
+        <mark key="." line="134" column="81" />
+        <mark key="^" line="134" column="80" />
       </file>
       <file name="/code/sc/web/sc/coms/search/search.py" timestamp="1559785373858">
         <mark key="[" line="218" column="33" />
@@ -318,11 +325,11 @@
         <mark key="." line="32" column="189" />
         <mark key="^" line="32" column="189" />
       </file>
-      <file name="/code/sc/web/sc/app/tasks/invite.py" timestamp="1559831368039">
-        <mark key="[" line="197" column="12" />
-        <mark key="]" line="197" column="11" />
-        <mark key="." line="197" column="11" />
-        <mark key="^" line="197" column="11" />
+      <file name="/code/sc/web/sc/app/tasks/invite.py" timestamp="1560240813634">
+        <mark key="[" line="183" column="12" />
+        <mark key="]" line="183" column="26" />
+        <mark key="." line="183" column="26" />
+        <mark key="^" line="183" column="26" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" timestamp="1560200969299">
         <mark key="[" line="26" column="1" />
@@ -336,6 +343,7 @@
         <mark key="." line="47" column="100" />
         <mark key="^" line="47" column="100" />
       </file>
+      <file name="/startup-script-back.sh" timestamp="1560240978205" />
       <file name="/code/sc/web/sc/mods/web/rest/accounts/invites_view.py" timestamp="1559814206652">
         <mark key="[" line="17" column="16" />
         <mark key="]" line="17" column="16" />
@@ -509,7 +517,7 @@ where
         <text>%s//to_stripped</text>
       </register>
       <register name="-" type="4">
-        <text>827</text>
+        <text>12</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
