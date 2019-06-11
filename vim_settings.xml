@@ -16,9 +16,6 @@
         <mark key="." line="147" column="16" />
         <mark key="^" line="147" column="16" />
       </file>
-      <file name="/code/sc/web/sc/app/service/api.py" timestamp="1560255903303">
-        <mark key="'" line="37" column="4" />
-      </file>
       <file name="/code/sc/web/sc/app/integs/hjs/collectors/base.py" timestamp="1559833590623">
         <mark key="'" line="82" column="18" />
         <mark key="[" line="82" column="0" />
@@ -58,9 +55,6 @@
         <mark key="^" line="220" column="42" />
         <mark key="." line="221" column="0" />
       </file>
-      <file name="/code/sc/web/Pipfile.lock" timestamp="1559769199729">
-        <mark key="'" line="1169" column="44" />
-      </file>
       <file name="/code/sc/web/sc/app/tasks/hjcollecting.py" timestamp="1560263193996">
         <mark key="'" line="70" column="33" />
         <mark key="[" line="63" column="20" />
@@ -89,9 +83,6 @@
         <mark key="." line="68" column="60" />
         <mark key="^" line="68" column="60" />
       </file>
-      <file name="/code/sc/web/sc/app/campaigns/restful.py" timestamp="1559783060363">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="/code/sc/web/sc/app/plats/api/facebook.py" timestamp="1560264079478">
         <mark key="[" line="52" column="14" />
         <mark key="]" line="52" column="20" />
@@ -104,9 +95,6 @@
         <mark key="]" line="106" column="0" />
         <mark key="^" line="133" column="25" />
         <mark key="." line="106" column="0" />
-      </file>
-      <file name="/code/sc/web/sc/mods/web/public/randoms_view.py" timestamp="1559837596258">
-        <mark key="'" line="41" column="6" />
       </file>
       <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1560201741814">
         <mark key="'" line="36" column="14" />
@@ -193,15 +181,6 @@
         <mark key="." line="0" column="42" />
         <mark key="^" line="0" column="42" />
       </file>
-      <file name="/code/sc/web/static/web/views/arrowlytics/summary-table/summary-table.ts" timestamp="1559780634774">
-        <mark key="'" line="15" column="15" />
-      </file>
-      <file name="/code/sc/web/static/common/components/grid/grid.ts" timestamp="1559780625528">
-        <mark key="'" line="199" column="0" />
-      </file>
-      <file name="/code/sc/web/static/web/views/notes/notes.ts" timestamp="1559780640546">
-        <mark key="'" line="44" column="4" />
-      </file>
       <file name="/code/sc/web/sc/sql/previsit/__init__.py" timestamp="1560256126879">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -212,6 +191,12 @@
         <mark key="]" line="18" column="30" />
         <mark key="." line="18" column="30" />
         <mark key="^" line="18" column="30" />
+      </file>
+      <file name="/code/sc/web/sc/mods/invite/views.py" timestamp="1560275795262">
+        <mark key="[" line="30" column="180" />
+        <mark key="]" line="30" column="185" />
+        <mark key="." line="30" column="185" />
+        <mark key="^" line="30" column="185" />
       </file>
       <file name="/code/sc/web/sc/app/plats/api/base.py" timestamp="1560264069457">
         <mark key="'" line="47" column="2" />
@@ -226,25 +211,19 @@
         <mark key="." line="118" column="48" />
         <mark key="^" line="118" column="48" />
       </file>
-      <file name="/code/sc/web/sc/app/invites/invite_utils.py" timestamp="1559756881484">
+      <file name="/code/sc/web/sc/app/invites/invite_utils.py" timestamp="1560275841551">
         <mark key="'" line="180" column="14" />
-        <mark key="[" line="175" column="13" />
-        <mark key="]" line="175" column="29" />
-        <mark key="^" line="175" column="29" />
-        <mark key="." line="175" column="29" />
+        <mark key="[" line="164" column="12" />
+        <mark key="]" line="164" column="15" />
+        <mark key="^" line="164" column="15" />
+        <mark key="." line="164" column="15" />
       </file>
-      <file name="/code/sc/web/static/web/views/nav-toolbar/user-accounts/user-accounts.ts" timestamp="1559780636645">
-        <mark key="'" line="40" column="15" />
-      </file>
-      <file name="/code/sc/web/static/web/views/arrowlytics/arrived/data-table/data-table.ts" timestamp="1559780632277">
-        <mark key="'" line="26" column="1" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1560272760631">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1560275251128">
         <mark key="'" line="362" column="14" />
-        <mark key="[" line="412" column="1" />
-        <mark key="]" line="415" column="5" />
-        <mark key="." line="415" column="5" />
-        <mark key="^" line="415" column="5" />
+        <mark key="[" line="419" column="20" />
+        <mark key="]" line="423" column="14" />
+        <mark key="." line="423" column="14" />
+        <mark key="^" line="423" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -351,24 +330,33 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ZGVsZXRlIGZyb20gYWNjb3VudHMgd2hlcmUgaWQgPSA2NzQ7Cg==</text>
+        <text encoding="base64">ICBmaWVsCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>select
+from a
+where
+;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBAY2xhc3NtZXRob2QK</text>
+        <text encoding="base64">ZGVsZXRlIGZyb20gYWNjb3VudHMgd2hlcmUgaWQgPSA2NzQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAY2xhc3NtZXRob2QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICBAY2xhc3NtZXRob2QK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICBAY2xhc3NtZXRob2QK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBAY2xhc3NtZXRob2QK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgbGlzdGluZyA9IGNyZWF0ZV9saXN0aW5nKGFsKQogICAgICBsaXN0aW5nLnJ1bl9hZnRlcl9zZXR1cF90YXNrKCkK</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>from attr import attrs
 
 
@@ -376,17 +364,11 @@
 class PlatApi(object):
   &quot;&quot;&quot;&quot;&quot;&quot;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgZGVmIHJ1bl9hZnRlcl9zZXR1cF90YXNrKHNlbGYpOgogICAgIiIiIiIiCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGZyb20gc2MuYXBwLnRhc2tzIGltcG9ydCBzeW5jaW5nCiAgICBzeW5jaW5nLmFmdGVyX3NldHVwLmRlbGF5KHNlbGYuYWwuaWQpCg==</text>
-      </register>
       <register name=":" type="4">
         <text>%s//to_stripped</text>
       </register>
       <register name="-" type="4">
-        <text>auth_locs</text>
+        <text>campaign</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
