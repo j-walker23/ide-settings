@@ -175,7 +175,6 @@
         <mark key="^" line="39" column="3" />
         <mark key="." line="39" column="3" />
       </file>
-      <file name="/usr/local/etc/nginx/com/medrank" timestamp="1560202136237" />
       <file name="/code/sc/web/sc/app/integs/apis/hj_sig_health.py" timestamp="1559811213316">
         <mark key="'" line="383" column="36" />
         <mark key="[" line="177" column="12" />
@@ -362,12 +361,12 @@
       <file name="/code/sc/web/static/web/views/arrowlytics/arrived/data-table/data-table.ts" timestamp="1559780632277">
         <mark key="'" line="26" column="1" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1560202709128">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1560239513706">
         <mark key="'" line="132" column="0" />
-        <mark key="[" line="375" column="94" />
-        <mark key="]" line="376" column="19" />
-        <mark key="." line="376" column="19" />
-        <mark key="^" line="376" column="19" />
+        <mark key="[" line="371" column="0" />
+        <mark key="]" line="371" column="0" />
+        <mark key="." line="371" column="0" />
+        <mark key="^" line="371" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -473,38 +472,44 @@
       <jump line="36" column="14" filename="/code/sc/web/instance/local/develop_settings.py" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">CiAgICBpZiBqc1sndHlwZSddID09ICdkZW1vJzoKICAgICAgdHlwZV8K</text>
+      <register name="1" type="4">
+        <text encoding="base64">CnNlbGVjdCBjb3VudCgqKQpmcm9tIHJldmlld3Mgcgpqb2luIGxvY2F0aW9uX3BsYXRmb3JtcyBscCBvbiByLmxvY2F0aW9uX3BsYXRmb3JtX2lkID0gbHAuaWQKd2hlcmUgbHAuc2NyYXBlX3VybCA9ICdodHRwczovL3d3dy55ZWxwLmNvbS9iaXovbGVnYWN5LWVyLWFuZC11cmdlbnQtY2FyZS1hbGxlbj9vc3E9bGVnYWN5K2VyJwphbmQgb3JpZ2luID0gJ3B1YmxpYycKOwoKc2VsZWN0ICoKZnJvbSBhdXRocyBhCmpvaW4gYXV0aHNfcGxhdGZvcm1zIGFwIG9uIGEuaWQgPSBhcC5hdXRoX2lkCndoZXJlIHBsYXRmb3JtX2lkID0gODI3CjsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICMgaGpjb2xsZWN0aW5nLnJ1bl9hY2MuYXBwbHlfYXN5bmMoYXJncz0oaGosKSkK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CnVwZGF0ZSBhdXRoX2xvY3MKc2V0IGRlbGV0ZWRfYXQgPSBudWxsCndoZXJlIHBsYXRmb3JtX2lkID0gODI3OwpzZWxlY3QgKgpmcm9tIGF1dGhfbG9jcyBhCndoZXJlIHBsYXRmb3JtX2lkID0gODI3OwoKc2VsZWN0ICoKZnJvbSB1aV93YXJuaW5ncwp3aGVyZSBwbGF0Zm9ybV9pZCA9IDgyNwo7</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>select 
+fr
+where 
+;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZWwK</text>
+      <register name="4" type="4">
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBhdXRocyBhbGlhcwp3aGVyZSBhbGlhcy47Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAjIHJlc3VsdHMgPSBbVHJ1ZV0K</text>
+      <register name="5" type="4">
+        <text>select *
+from auths a
+where 
+;</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBpZiBqc1sndHlwZSddID09ICdkZW1vJzoKICAgICAgdHlwZV8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGludml0ZS5yb2xsdXBfbWVkX2dyb3Vwcwo=</text>
+        <text encoding="base64">ICAgICMgaGpjb2xsZWN0aW5nLnJ1bl9hY2MuYXBwbHlfYXN5bmMoYXJncz0oaGosKSkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">d2hlcmUgYWNjb3VudF9pZCA9IDE5Mgo=</text>
+        <text encoding="base64">ZWwK</text>
       </register>
       <register name=":" type="4">
         <text>%s//to_stripped</text>
       </register>
       <register name="-" type="4">
-        <text>YelpNotRecommended</text>
+        <text>827</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
