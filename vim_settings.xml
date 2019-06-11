@@ -127,6 +127,7 @@
         <mark key="^" line="46" column="74" />
         <mark key="." line="46" column="74" />
       </file>
+      <file name="/code/sc/web/sc/app/tasks/account.py" timestamp="1560292020664" />
       <file name="/code/sc/web/sc/sql/sync/scrapes/__init__.py" timestamp="1560202611158">
         <mark key="[" line="161" column="23" />
         <mark key="]" line="161" column="20" />
@@ -242,12 +243,12 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1560290027737">
-        <mark key="'" line="397" column="0" />
-        <mark key="[" line="416" column="8" />
-        <mark key="]" line="416" column="20" />
-        <mark key="." line="416" column="20" />
-        <mark key="^" line="416" column="20" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1560291499592">
+        <mark key="'" line="416" column="20" />
+        <mark key="[" line="445" column="0" />
+        <mark key="]" line="445" column="0" />
+        <mark key="." line="445" column="0" />
+        <mark key="^" line="445" column="0" />
       </file>
       <file name="/code/sc/web/cli/scripts/m700.py" timestamp="1560278481242">
         <mark key="'" line="354" column="17" />
@@ -268,12 +269,12 @@
         <mark key="^" line="105" column="45" />
         <mark key="." line="106" column="0" />
       </file>
-      <file name="/code/sc/web/cli/ones.py" timestamp="1560288906500">
-        <mark key="'" line="203" column="0" />
-        <mark key="[" line="487" column="0" />
-        <mark key="]" line="487" column="0" />
-        <mark key="." line="487" column="0" />
-        <mark key="^" line="485" column="30" />
+      <file name="/code/sc/web/cli/ones.py" timestamp="1560291948403">
+        <mark key="'" line="204" column="0" />
+        <mark key="[" line="487" column="20" />
+        <mark key="]" line="487" column="23" />
+        <mark key="." line="487" column="23" />
+        <mark key="^" line="487" column="23" />
       </file>
       <file name="/code/sc/web/sc/app/plats/api/google.py" timestamp="1560280260074">
         <mark key="[" line="67" column="21" />
@@ -333,7 +334,7 @@
         <mark key="." line="36" column="22" />
         <mark key="^" line="36" column="22" />
       </file>
-      <file name="/code/sc/web/sc/mods/web/rest/accounts/providers_view.py" timestamp="1559791715628">
+      <file name="/code/sc/web/sc/mods/web/rest/accounts/providers_view.py" timestamp="1560291570218">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
@@ -408,7 +409,7 @@
         <mark key="." line="183" column="26" />
         <mark key="^" line="183" column="26" />
       </file>
-      <file name="/code/sc/web/sc/app/notes/cron.py" timestamp="1560288879307" />
+      <file name="/code/sc/web/sc/app/notes/cron.py" timestamp="1560291928141" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" timestamp="1560200969299">
         <mark key="[" line="26" column="1" />
         <mark key="]" line="26" column="0" />
@@ -424,7 +425,6 @@
       <file name="/code/sc/web/sc/coms/dm/view.py" timestamp="1560288341187" />
     </filemarks>
     <jumps>
-      <jump line="48" column="13" filename="/code/sc/web/static/common/components/grid/grid.ts" />
       <jump line="199" column="0" filename="/code/sc/web/static/common/components/grid/grid.ts" />
       <jump line="26" column="1" filename="/code/sc/web/static/web/views/arrowlytics/arrived/data-table/data-table.ts" />
       <jump line="15" column="15" filename="/code/sc/web/static/web/views/arrowlytics/summary-table/summary-table.ts" />
@@ -524,37 +524,41 @@
       <jump line="482" column="20" filename="/code/sc/web/cli/ones.py" />
       <jump line="203" column="0" filename="/code/sc/web/cli/ones.py" />
       <jump line="397" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
+      <jump line="416" column="20" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0Lm5vdGVzX2FjY291bnRfZGlnZXN0KFtuaWRdLCBkYXlzPS03KQo=</text>
+      <register name="1" type="4">
+        <text>select
+from
+where
+;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhaWQgPSA0MDEKICBhcmdzID0gZGljdCgKICAgIHN0YXJ0PScyMDE5LTAzLTEwVDAwOjAwOjAwLTA3OjAwJywKICAgIGVuZD0nMjAxOS0wNC0xOFQyMzo1OTo1OS0wNjowMCcsCiAgICBzb3J0PSctaW52aXRlX2NvdW50JywKICAgIHF1ZXJ5PSdwcm92aWRlcjoiSmVmZnJleSBCYWNrZXMsIE1EIicsCiAgICBzaG93X3N1cnZleV9hZ2c9RmFsc2UsCiAgICBzaG93X3Jldmlld3M9VHJ1ZSwKICAgIGhpZGVfdHJlbmRzPVRydWUsCiAgICBzaG93X2dtYl9icmVha2Rvd249RmFsc2UsCiAgICBzaG93X3JlcGxpZXM9VHJ1ZSwKICApCiAgd2l0aCBhY2NfYmluZChhaWQpOgogICAgZGF0YSA9IGdldF9yZXBjYXJkKFJlcENhcmRBcmdzLmZvcl91aShhcmdzLCBnZXRfdXNlcigpKSkKICAgICMgYXNzZXJ0IG5vdCBkYXRhWydkb2NzJ11bMF1bJ3Jldmlld3MnXSwgbGVuKGRhdGFbJ2RvY3MnXVswXVsncmV2aWV3cyddKQogICAgZGVsIGRhdGFbJ2RvY3MnXVswXVsncmV2aWV3cyddWzBdWydjb21tZW50cyddWzBdWydjaGlsZHJlbiddCiAgICByZXQgPSBzdHJ1Y3R1cmUoZGF0YSwgUmVwb3J0Y2FyZCkKICAgIHByaW50KHJldCkK</text>
+        <text encoding="base64">ICAgIGFsZXJ0Lm5vdGVzX2FjY291bnRfZGlnZXN0KFtuaWRdLCBkYXlzPS03KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBhaWQgPSA0MDEKICBhcmdzID0gZGljdCgKICAgIHN0YXJ0PScyMDE5LTAzLTEwVDAwOjAwOjAwLTA3OjAwJywKICAgIGVuZD0nMjAxOS0wNC0xOFQyMzo1OTo1OS0wNjowMCcsCiAgICBzb3J0PSctaW52aXRlX2NvdW50JywKICAgIHF1ZXJ5PSdwcm92aWRlcjoiSmVmZnJleSBCYWNrZXMsIE1EIicsCiAgICBzaG93X3N1cnZleV9hZ2c9RmFsc2UsCiAgICBzaG93X3Jldmlld3M9VHJ1ZSwKICAgIGhpZGVfdHJlbmRzPVRydWUsCiAgICBzaG93X2dtYl9icmVha2Rvd249RmFsc2UsCiAgICBzaG93X3JlcGxpZXM9VHJ1ZSwKICApCiAgd2l0aCBhY2NfYmluZChhaWQpOgogICAgZGF0YSA9IGdldF9yZXBjYXJkKFJlcENhcmRBcmdzLmZvcl91aShhcmdzLCBnZXRfdXNlcigpKSkKICAgICMgYXNzZXJ0IG5vdCBkYXRhWydkb2NzJ11bMF1bJ3Jldmlld3MnXSwgbGVuKGRhdGFbJ2RvY3MnXVswXVsncmV2aWV3cyddKQogICAgZGVsIGRhdGFbJ2RvY3MnXVswXVsncmV2aWV3cyddWzBdWydjb21tZW50cyddWzBdWydjaGlsZHJlbiddCiAgICByZXQgPSBzdHJ1Y3R1cmUoZGF0YSwgUmVwb3J0Y2FyZCkKICAgIHByaW50KHJldCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB3aXRoIGZsdXNoZXIoKToK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzZXNzLmZsdXNoKCkK</text>
+        <text encoding="base64">ICB3aXRoIGZsdXNoZXIoKToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjaGlsZHJlbjogTGlzdFtfQ29tbWVudENoaWxkcmVuXQo=</text>
+        <text encoding="base64">ICBzZXNzLmZsdXNoKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFyZ3MgPSAK</text>
+        <text encoding="base64">ICBjaGlsZHJlbjogTGlzdFtfQ29tbWVudENoaWxkcmVuXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdyaXRlX2xvY2FsX3BkZihidWlsZF9iYXNpY19wZGYsICkK</text>
+        <text encoding="base64">ICAgIGFyZ3MgPSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgc2hvd19yZXBsaWVzPUZhbHNlLAogICAgIyBzaG93X3N1cnZleV9yZXN1bHRzPVRydWUsCiAgICAjIHN1cnZleV9kZWV0c19yYXRpbmc9MiwKICAgICMgc2hvd191bmF0dHI9VHJ1ZSwKICAgICMgc2hvd19zdXJ2ZXlfcXVhcnRlcmx5PVRydWUsCiAgICAjIHNob3dfc3VydmV5X2RvY19jb21wYXJpc29uPVRydWUsCiAgICAjIHNob3dfc3VydmV5X2xvY19jb21wYXJpc29uPVRydWUsCg==</text>
+        <text encoding="base64">ICAgIHdyaXRlX2xvY2FsX3BkZihidWlsZF9iYXNpY19wZGYsICkK</text>
       </register>
       <register name=":" type="4">
-        <text>%s//to_stripped</text>
+        <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
         <text>None</text>
@@ -610,11 +614,11 @@
         <entry>%s//Providers</entry>
         <entry>%s//mess</entry>
         <entry>%s//Message</entry>
-        <entry>action VimWindowSplitVertical</entry>
         <entry>%s//.prov</entry>
         <entry>%s//ismulti</entry>
         <entry>%s//Provider</entry>
         <entry>%s//to_stripped</entry>
+        <entry>action VimWindowSplitVertical</entry>
       </history-cmd>
       <history-expr />
       <history-input />
