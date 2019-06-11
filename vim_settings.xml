@@ -368,12 +368,12 @@
       <file name="/code/sc/web/static/web/views/arrowlytics/arrived/data-table/data-table.ts" timestamp="1559780632277">
         <mark key="'" line="26" column="1" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1560254174185">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1560255731917">
         <mark key="'" line="331" column="0" />
-        <mark key="[" line="382" column="0" />
-        <mark key="]" line="382" column="0" />
-        <mark key="." line="382" column="0" />
-        <mark key="^" line="382" column="0" />
+        <mark key="[" line="384" column="6" />
+        <mark key="]" line="384" column="7" />
+        <mark key="." line="384" column="7" />
+        <mark key="^" line="384" column="7" />
       </file>
     </filemarks>
     <jumps>
@@ -521,7 +521,7 @@ where
         <text>%s//to_stripped</text>
       </register>
       <register name="-" type="4">
-        <text>399, 524, 693, 696</text>
+        <text>auth_id</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
