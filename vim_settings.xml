@@ -310,12 +310,12 @@
         <mark key="." line="49" column="45" />
         <mark key="^" line="49" column="45" />
       </file>
-      <file name="/code/sc/web/static/web/views/reportcard/search/reportcard-search.ts" timestamp="1560361603611">
-        <mark key="'" line="63" column="26" />
-        <mark key="[" line="40" column="24" />
-        <mark key="]" line="40" column="21" />
-        <mark key="^" line="40" column="21" />
-        <mark key="." line="41" column="38" />
+      <file name="/code/sc/web/static/web/views/reportcard/search/reportcard-search.ts" timestamp="1560363688635">
+        <mark key="'" line="66" column="26" />
+        <mark key="[" line="44" column="83" />
+        <mark key="]" line="44" column="95" />
+        <mark key="^" line="44" column="95" />
+        <mark key="." line="44" column="95" />
       </file>
       <file name="/code/sc/web/sc/app/accounts/setup/account_setup.py" timestamp="1560280289324">
         <mark key="[" line="214" column="27" />
@@ -377,6 +377,9 @@
         <mark key="]" line="1851" column="1" />
         <mark key="^" line="1851" column="1" />
         <mark key="." line="1851" column="1" />
+      </file>
+      <file name="/code/sc/web/static/web/views/survey-summary/search/survey-summary-search.ts" timestamp="1560363468089">
+        <mark key="." line="19" column="67" />
       </file>
       <file name="/code/sc/web/static/web/views/survey-summary/compare/question-compare.ts" timestamp="1560341652439">
         <mark key="[" line="29" column="30" />
@@ -610,12 +613,12 @@
         <mark key="^" line="39" column="27" />
         <mark key="." line="39" column="27" />
       </file>
-      <file name="/code/sc/web/static/web/views/reportcard/reportcard.ts" timestamp="1560363114060">
-        <mark key="'" line="54" column="21" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="73" column="24" />
+      <file name="/code/sc/web/static/web/views/reportcard/reportcard.ts" timestamp="1560363755629">
+        <mark key="'" line="53" column="21" />
+        <mark key="[" line="66" column="29" />
+        <mark key="]" line="66" column="50" />
+        <mark key="." line="66" column="50" />
+        <mark key="^" line="66" column="50" />
       </file>
       <file name="/code/sc/web/instance/env.txt" timestamp="1560356663736">
         <mark key="[" line="0" column="4" />
@@ -744,6 +747,12 @@
         <mark key="]" line="174" column="0" />
         <mark key="." line="174" column="0" />
       </file>
+      <file name="/code/sc/web/static/common/components/saved-searches/saved-searches.service.ts" timestamp="1560363854460">
+        <mark key="[" line="120" column="13" />
+        <mark key="]" line="121" column="3" />
+        <mark key="^" line="121" column="3" />
+        <mark key="." line="121" column="3" />
+      </file>
       <file name="/code/sc/web/sc/mods/web/rest/accounts/invites_view.py" timestamp="1560334653504">
         <mark key="[" line="25" column="15" />
         <mark key="]" line="25" column="27" />
@@ -865,21 +874,30 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">CkBSdW4oKQpASW5qZWN0KFByb3ZpZGVyc1Jlc291cmNlLCBSZXBvcnRjYXJkU2VydmljZSwgJyR0cmFuc2l0aW9ucycpCmV4cG9ydCBjbGFzcyBXZWJSdW4gewogIHN0YXRpYyBmYWN0b3J5KCRwcm92czogUHJvdmlkZXJzUmVzb3VyY2UsIHNlcjogUmVwb3J0Y2FyZFNlcnZpY2UsIHRyczogVHJhbnNpdGlvblNlcnZpY2UpIHsKICAgIHRycwogIH0KfQoK</text>
+        <text encoding="base64">CiAgQFJlc29sdmUoKQogIEBJbmplY3QoUHJvdmlkZXJzUmVzb3VyY2UpCiAgc3RhdGljIGZpcnN0RG9jKCRyZXM6IFByb3ZpZGVyc1Jlc291cmNlKSB7CiAgICByZXR1cm4gJHJlcy5vbmVQYXRoKCcvY2FyZCcpCiAgfQoKICBASW5wdXQoKSBmaXJzdERvYzogUHJvdmlkZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgQEhvb2soKQogIEBJbmplY3QoUHJvdmlkZXJzUmVzb3VyY2UsIFJlcG9ydGNhcmRTZXJ2aWNlLCAnJHRyYW5zaXRpb24kJykKICBzdGF0aWMgb25FbnRlcigkcHJvdnM6IFByb3ZpZGVyc1Jlc291cmNlLCBzZXI6IFJlcG9ydGNhcmRTZXJ2aWNlLCB0cmFuczogVHJhbnNpdGlvbikgewogICAgY29uc3Qgc3RhdGVTZXJ2aWNlID0gdHJhbnMucm91dGVyLnN0YXRlU2VydmljZQoKICAgIHJldHVybiAkcHJvdnMub25lUGF0aCgnL2NhcmQnKQogICAgICAudGhlbihwcm92ID0+IHsKICAgICAgICBsZXQgcGFyYW1zID0gc2VyLmluaXRpYWxTZWFyY2godHJhbnMucGFyYW1zPFJlcGNhcmRQYXJhbXM+KCksIHByb3YpCiAgICAgICAgY29uc29sZS5sb2coJ2luaXQgc2VhcmNoJywgcGFyYW1zKQogICAgICAgIGNvbnNvbGUubG9nKCdmaXJzdCcsIHByb3YpCiAgICAgICAgaWYgKHBhcmFtcykgewogICAgICAgICAgcmV0dXJuIHN0YXRlU2VydmljZS50YXJnZXQoJ3dlYi5kYXNoYm9hcmQnKQogICAgICAgIH0KICAgICAgfSkKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29weSA9IHRyYW5zLnBhcmFtczxTdXJ2U3VtbVBhcmFtcz4oKQogICAgICBsZXQgc3ZjID0gdHJhbnMKICAgICAgICAuaW5qZWN0b3IoKQogICAgICAgIC5nZXQ8U3VydmV5U3VtbWFyeVNlcnZpY2U+KGdldEluamVjdGFibGVOYW1lKFN1cnZleVN1bW1hcnlTZXJ2aWNlKSkKICAgICAgbGV0IHBhcmFtcyA9IHN2Yy5pbml0aWFsU2VhcmNoKGNvcHkpCiAgICAgIGlmIChwYXJhbXMpIHsKICAgICAgICBwYXJhbXMgPSB7IC4uLmNvcHksIC4uLnBhcmFtcyB9CiAgICAgICAgcmV0dXJuIHsgcGFyYW1zIH0KICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdpbml0IHNlYXJjaCcsIHBhcmFtcykKICAgICAgICAgIGNvbnNvbGUubG9nKCdmaXJzdCcsIHByb3YpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc2VyLmxldAo=</text>
+        <text encoding="base64">CkBSdW4oKQpASW5qZWN0KFByb3ZpZGVyc1Jlc291cmNlLCBSZXBvcnRjYXJkU2VydmljZSwgJyR0cmFuc2l0aW9ucycpCmV4cG9ydCBjbGFzcyBXZWJSdW4gewogIHN0YXRpYyBmYWN0b3J5KCRwcm92czogUHJvdmlkZXJzUmVzb3VyY2UsIHNlcjogUmVwb3J0Y2FyZFNlcnZpY2UsIHRyczogVHJhbnNpdGlvblNlcnZpY2UpIHsKICAgIHRycwogIH0KfQoK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CiAgQEhvb2soKQogIEBJbmplY3QoUHJvdmlkZXJzUmVzb3VyY2UsIFJlcG9ydGNhcmRTZXJ2aWNlLCAnJHRyYW5zaXRpb24kJykKICBzdGF0aWMgb25FbnRlcigkcHJvdnM6IFByb3ZpZGVyc1Jlc291cmNlLCBzZXI6IFJlcG9ydGNhcmRTZXJ2aWNlLCB0cmFuczogVHJhbnNpdGlvbikgewogICAgY29uc3Qgc3RhdGVTZXJ2aWNlID0gdHJhbnMucm91dGVyLnN0YXRlU2VydmljZQoKICAgIHJldHVybiAkcHJvdnMub25lUGF0aCgnL2NhcmQnKQogICAgICAudGhlbihwcm92ID0+IHsKICAgICAgICBsZXQgcGFyYW1zID0gc2VyLmluaXRpYWxTZWFyY2godHJhbnMucGFyYW1zPFJlcGNhcmRQYXJhbXM+KCksIHByb3YpCiAgICAgICAgY29uc29sZS5sb2coJ2luaXQgc2VhcmNoJywgcGFyYW1zKQogICAgICAgIGNvbnNvbGUubG9nKCdmaXJzdCcsIHByb3YpCiAgICAgICAgaWYgKHBhcmFtcykgewogICAgICAgICAgcmV0dXJuIHN0YXRlU2VydmljZS50YXJnZXQoJ3dlYi5kYXNoYm9hcmQnKQogICAgICAgIH0KICAgICAgfSkKICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29weSA9IHRyYW5zLnBhcmFtczxTdXJ2U3VtbVBhcmFtcz4oKQogICAgICBsZXQgc3ZjID0gdHJhbnMKICAgICAgICAuaW5qZWN0b3IoKQogICAgICAgIC5nZXQ8U3VydmV5U3VtbWFyeVNlcnZpY2U+KGdldEluamVjdGFibGVOYW1lKFN1cnZleVN1bW1hcnlTZXJ2aWNlKSkKICAgICAgbGV0IHBhcmFtcyA9IHN2Yy5pbml0aWFsU2VhcmNoKGNvcHkpCiAgICAgIGlmIChwYXJhbXMpIHsKICAgICAgICBwYXJhbXMgPSB7IC4uLmNvcHksIC4uLnBhcmFtcyB9CiAgICAgICAgcmV0dXJuIHsgcGFyYW1zIH0KICAgICAgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgc2VyLmxldAo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGlmICghYXBwLmFpZCkgdGhyb3cgbmV3IEVycm9yKCdBY2NvdW50IGhhcyBub3QgYmVlbiBsb2FkZWQnKQoKICAgIGFwcC5yb2xlcyA9IG5ldyBTb2Z0Um9sZXMoKQogICAgJHJvb3RTY29wZVsncm9sZXMnXSA9IGFwcC5yb2xlcwogICAgZW51bXMuZm9yRWFjaCgoW25hbWUsIGNsc10pID0+ICgkcm9vdFNjb3BlW25hbWVdID0geyAuLi5jbHMgfSkpCgogICAgaWYgKGFwcC5yb2xlcy5hZG1pbnZpZXdlciAmJiBhcHAuc29ja2V0cykKICAgICAgc29ja2V0c1NlcnZpY2UuY29ubmVjdChhcHAuYWNjb3VudCkKCiAgICAkc3RhdGUuZGVmYXVsdEVycm9ySGFuZGxlcihlcnJvciA9PiB7CiAgICAgIGNvbnNvbGUuZXJyb3IoZXJyb3IpCiAgICAgIGNhcHR1cmVFeGNlcHRpb24oZXJyb3IpCiAgICB9KQoKICAgIC8vICR0cmFjZS5lbmFibGUoJ1RSQU5TSVRJT04nKQoKICAgIGlmIChhcHAucHJvZCkgewogICAgICBnYSgnY3JlYXRlJywgYFVBLTgyOTI2OTAxLTNgLCAnYXV0bycpCiAgICAgIGdhKCdzZW5kJywgJ3BhZ2V2aWV3JykKICAgICAgJHRyYW5zLm9uU3VjY2Vzcyh7fSwgdHJhbnMgPT4gewogICAgICAgIHRyYW5zLnByb21pc2UudGhlbigoKSA9PiBnYSgnc2VuZCcsICdwYWdldmlldycsIHdpbmRvdy5sb2NhdGlvbi5ocmVmKSkKICAgICAgfSkKICAgIH0K</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>let shit = [
   'show_unattr',
   'show_reviews',
@@ -900,40 +918,11 @@
   'show_gmb_breakdown',
 ]</text>
       </register>
-      <register name="7" type="4">
-        <text>: {
-      query: '',
-      sort: { value: ['-invite_count'], array: true },
-      show_reviews: boolParam(true),
-      show_survey_agg: boolParam(true),
-      show_replies: boolParam(true),
-      group_by_loc: boolParam(),
-      show_unattr: boolParam(),
-      show_survey_results: boolParam(),
-      show_notes: boolParam(),
-      show_survey_quarterly: boolParam(),
-      show_survey_loc_comparison: boolParam(),
-      show_survey_doc_comparison: boolParam(),
-      show_overall_loc: boolParam(),
-      show_overall_doc: boolParam(),
-      show_pivot_doc: boolParam(),
-      survey_deets_rating: intParam(0),
-      hide_trends: boolParam(),
-      hide_global_dash: boolParam(),
-      show_gmb_breakdown: boolParam(true),
-    }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICA=</text>
-      </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>changed</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
