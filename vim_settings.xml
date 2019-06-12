@@ -153,7 +153,7 @@
         <mark key="." line="942" column="1" />
       </file>
       <file name="/code/sc/web/sc/app/plats/syncs/setup/google.py" timestamp="1560289573499" />
-      <file name="/Pipfile.lock" timestamp="1560297648165" />
+      <file name="/Pipfile.lock" timestamp="1560299311376" />
       <file name="/code/sc/web/sc/app/reports/reportcard/dashgraphs.py" timestamp="1560286443060">
         <mark key="'" line="238" column="40" />
         <mark key="[" line="245" column="4" />
@@ -517,11 +517,10 @@
         <mark key="^" line="52" column="11" />
         <mark key="." line="52" column="11" />
       </file>
-      <file name="/code/sc/web/sc/mods/web/rest/accounts/listings_view.py" timestamp="1560297747063">
-        <mark key="[" line="174" column="23" />
-        <mark key="]" line="175" column="11" />
-        <mark key="^" line="175" column="11" />
-        <mark key="." line="175" column="11" />
+      <file name="/code/sc/web/sc/mods/web/rest/accounts/listings_view.py" timestamp="1560299535526">
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="174" column="0" />
+        <mark key="." line="174" column="0" />
       </file>
       <file name="/code/sc/web/sc/mods/web/rest/accounts/invites_view.py" timestamp="1559814206652">
         <mark key="[" line="17" column="16" />
@@ -635,34 +634,34 @@
     </jumps>
     <registers>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIFVSTEVycm9yCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLmpvaW4oQ1BULCBDUFQuY29kZSA9PSBQcm9jZWR1cmUuY29kZSkK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>select
 from
 where
 ;</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGFsZXJ0Lm5vdGVzX2FjY291bnRfZGlnZXN0KFtuaWRdLCBkYXlzPS03KQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBhaWQgPSA0MDEKICBhcmdzID0gZGljdCgKICAgIHN0YXJ0PScyMDE5LTAzLTEwVDAwOjAwOjAwLTA3OjAwJywKICAgIGVuZD0nMjAxOS0wNC0xOFQyMzo1OTo1OS0wNjowMCcsCiAgICBzb3J0PSctaW52aXRlX2NvdW50JywKICAgIHF1ZXJ5PSdwcm92aWRlcjoiSmVmZnJleSBCYWNrZXMsIE1EIicsCiAgICBzaG93X3N1cnZleV9hZ2c9RmFsc2UsCiAgICBzaG93X3Jldmlld3M9VHJ1ZSwKICAgIGhpZGVfdHJlbmRzPVRydWUsCiAgICBzaG93X2dtYl9icmVha2Rvd249RmFsc2UsCiAgICBzaG93X3JlcGxpZXM9VHJ1ZSwKICApCiAgd2l0aCBhY2NfYmluZChhaWQpOgogICAgZGF0YSA9IGdldF9yZXBjYXJkKFJlcENhcmRBcmdzLmZvcl91aShhcmdzLCBnZXRfdXNlcigpKSkKICAgICMgYXNzZXJ0IG5vdCBkYXRhWydkb2NzJ11bMF1bJ3Jldmlld3MnXSwgbGVuKGRhdGFbJ2RvY3MnXVswXVsncmV2aWV3cyddKQogICAgZGVsIGRhdGFbJ2RvY3MnXVswXVsncmV2aWV3cyddWzBdWydjb21tZW50cyddWzBdWydjaGlsZHJlbiddCiAgICByZXQgPSBzdHJ1Y3R1cmUoZGF0YSwgUmVwb3J0Y2FyZCkKICAgIHByaW50KHJldCkK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICB3aXRoIGZsdXNoZXIoKToK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBzZXNzLmZsdXNoKCkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBjaGlsZHJlbjogTGlzdFtfQ29tbWVudENoaWxkcmVuXQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFyZ3MgPSAK</text>
+        <text encoding="base64">ICBjaGlsZHJlbjogTGlzdFtfQ29tbWVudENoaWxkcmVuXQo=</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
