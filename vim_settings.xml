@@ -216,6 +216,12 @@
         <mark key="^" line="215" column="15" />
         <mark key="." line="215" column="15" />
       </file>
+      <file name="/code/sc/web/static/web/views/survey-summary/survey-summary.service.ts" timestamp="1560313553164">
+        <mark key="[" line="16" column="2" />
+        <mark key="]" line="16" column="14" />
+        <mark key="." line="16" column="14" />
+        <mark key="^" line="16" column="14" />
+      </file>
       <file name="/code/sc/web/sc/app/integs/bulk/types.py" timestamp="1559813512239">
         <mark key="[" line="44" column="83" />
         <mark key="]" line="44" column="98" />
@@ -252,6 +258,9 @@
         <mark key="]" line="1851" column="1" />
         <mark key="^" line="1851" column="1" />
         <mark key="." line="1851" column="1" />
+      </file>
+      <file name="/code/sc/web/static/web/views/survey-summary/search/survey-summary-search.ts" timestamp="1560313473368">
+        <mark key="'" line="11" column="0" />
       </file>
       <file name="/code/sc/web/sc/app/users/users.py" timestamp="1559770569825">
         <mark key="[" line="47" column="70" />
@@ -379,6 +388,12 @@
         <mark key="]" line="24" column="1" />
         <mark key="^" line="24" column="1" />
         <mark key="." line="24" column="1" />
+      </file>
+      <file name="/code/sc/web/static/web/views/survey-summary/search/survey-summary-search.service.ts" timestamp="1560313342895">
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="5" column="38" />
+        <mark key="." line="5" column="38" />
+        <mark key="^" line="5" column="38" />
       </file>
       <file name="/code/sc/web/sc/coms/search/base_query.py" timestamp="1560303581446">
         <mark key="[" line="127" column="23" />
@@ -512,7 +527,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="12" filename="/code/sc/web/instance/local/develop_settings.py" />
       <jump line="153" column="1" filename="/code/sc/web/instance/local/mids.json" />
       <jump line="283" column="14" filename="/code/sc/web/cli/scripts/m700.py" />
       <jump line="304" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
@@ -612,51 +626,41 @@
       <jump line="417" column="10" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
       <jump line="480" column="10" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
       <jump line="476" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
+      <jump line="11" column="0" filename="/code/sc/web/static/web/views/survey-summary/search/survey-summary-search.ts" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICBhbmQgCg==</text>
+        <text encoding="base64">CiAgYnVpbGRTZWFyY2goKSB7CiAgICBsZXQgeyBxdWVyeSwgc3RhcnQsIGVuZCB9ID0gdGhpcwogICAgcXVlcnkgPSBxdWVyeSB8fCAnICcgLy8gaGFjawogIH0gCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CiAgICB0aGlzLnF1ZXJ5ID0gKHF1ZXJ5IHx8ICcnKS50cmltKCkK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>update invites i, locations l
-    join reviews r on i.id = r.invite_id
-    join campaigns c on i.campaign_id = c.id
-set i.location_id = l.id
-where i.location_id = 9550
-  and r.platform_id = 3933
-  and l.name = 'Upper Arlington - Clinic'
-;</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhbmQgci5wbGF0Zm9ybV9pZCA9IDM5MzMK</text>
+        <text encoding="base64">ICAgIHRoaXMuc3RhcnQgPSBzdGFydAogICAgdGhpcy5lbmQgPSBlbmQK</text>
       </register>
-      <register name="5" type="4">
-        <text>update reviews, locations
-set location_id = locations.id
-where
-;</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB7IHF1ZXJ5LCBzdGFydCwgZW5kIH0K</text>
       </register>
-      <register name="6" type="4">
-        <text>select c.name, i.*
-from invites i</text>
+      <register name="6" type="2">
+        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBTdXJ2U3VtbVBhcmFtcyB7CiAgc3RhcnQ6IHN0cmluZwogIGVuZDogc3RyaW5nCiAgcXVlcnk6IHN0cmluZwp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">am9pbiByZXZpZXdzIHIgb24gaS5pZCA9IHIuaW52aXRlX2lkCg==</text>
+        <text encoding="base64">ICAgIHN1cGVyKCkKICAgIHRoaXMuaW5pdCgpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIFVSTEVycm9yCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICBob2xkZXIgPSAnU2VhcmNoJwoKICBkaXNwbGF5ID0gWwogICAgWwogICAgICAnUHJvdmlkZXInLAogICAgICAnc2VhcmNoIGJ5IHByb3ZpZGVyIG5hbWUnLAogICAgICAncHJvdmlkZXI6UFJPVklERVInLAogICAgICAncHJvdmlkZXI6JywKICAgICAgJ2xvY2FsLW9mZmVyJywKICAgIF0sCiAgICBbCiAgICAgICdMb2NhdGlvbicsCiAgICAgICdzZWFyY2ggYnkgbG9jYXRpb24gbmFtZScsCiAgICAgICdsb2NhdGlvbjpMT0NBVElPTicsCiAgICAgICdsb2NhdGlvbjonLAogICAgICAncGxhY2UnLAogICAgXSwKICAgIFsKICAgICAgJ1N1cnZleScsCiAgICAgICdzZWFyY2ggYnkgc3VydmV5IG5hbWUnLAogICAgICAnc3VydmV5Ok5BTUUnLAogICAgICAnc3VydmV5OicsCiAgICAgICdsb2NhbC1vZmZlcicsCiAgICBdLAogICAgWwogICAgICAnU3ViLVNwZWNpYWx0eScsCiAgICAgICdzZWFyY2ggYnkgcHJvdmlkZXIgc3ViLXNwZWNpYWx0eScsCiAgICAgICdzdWJzOk5BTUUnLAogICAgICAnc3ViczonLAogICAgICAncGVyc29uLXBpbicsCiAgICBdLAogIF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmpvaW4oQ1BULCBDUFQuY29kZSA9PSBQcm9jZWR1cmUuY29kZSkK</text>
+        <text encoding="base64">QEluamVjdChTdXJ2ZXlBZ2dSZXNvdXJjZSkK</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>r.platform_id = 3933</text>
+        <text>onLoad</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
