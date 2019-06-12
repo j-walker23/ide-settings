@@ -505,6 +505,17 @@
           <rule>
             <match>
               <AND>
+                <METHOD>true</METHOD>
+                <PUBLIC>true</PUBLIC>
+                <STATIC>true</STATIC>
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
                 <FIELD>true</FIELD>
                 <PROTECTED>true</PROTECTED>
               </AND>
@@ -597,17 +608,6 @@
               <AND>
                 <PRIVATE>true</PRIVATE>
                 <PROPERTY>true</PROPERTY>
-              </AND>
-            </match>
-          </rule>
-        </section>
-        <section>
-          <rule>
-            <match>
-              <AND>
-                <METHOD>true</METHOD>
-                <PUBLIC>true</PUBLIC>
-                <STATIC>true</STATIC>
               </AND>
             </match>
           </rule>
