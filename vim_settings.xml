@@ -113,11 +113,18 @@
         <mark key="^" line="37" column="2" />
         <mark key="." line="37" column="2" />
       </file>
-      <file name="/code/sc/web/static/web/views/settings/locations/locations.ts" timestamp="1560464506638">
+      <file name="/code/sc/web/static/web/views/settings/locations/locations.ts" timestamp="1560467894039">
+        <mark key="'" line="101" column="2" />
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
         <mark key="^" line="58" column="99" />
         <mark key="." line="96" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fb25e990-8cf1-4b0f-afa4-704a731bd0fb/console.sql" timestamp="1560468149879">
+        <mark key="[" line="15" column="3" />
+        <mark key="]" line="15" column="20" />
+        <mark key="^" line="15" column="20" />
+        <mark key="." line="15" column="20" />
       </file>
       <file name="/code/sc/web/static/common/search/search.ts" timestamp="1560339592339">
         <mark key="'" line="40" column="12" />
@@ -241,7 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="0" filename="/code/sc/web/sc/app/plats/syncs/cron/starters.py" />
       <jump line="127" column="43" filename="/code/sc/web/sc/app/plats/syncs/cron/starters.py" />
       <jump line="83" column="4" filename="/code/sc/web/sc/app/tasks/syncing.py" />
       <jump line="238" column="40" filename="/code/sc/web/sc/app/reports/reportcard/dashgraphs.py" />
@@ -341,6 +347,7 @@
       <jump line="178" column="28" filename="/code/sc/web/static/web/views/settings/locations/details/location-details.html" />
       <jump line="239" column="21" filename="/code/sc/web/static/common/styles/shared.sass" />
       <jump line="556" column="2" filename="/code/sc/web/static/common/styles/shared.sass" />
+      <jump line="101" column="2" filename="/code/sc/web/static/web/views/settings/locations/locations.ts" />
     </jumps>
     <registers>
       <register name="1" type="2">
