@@ -179,6 +179,11 @@
         <mark key="^" line="2289" column="0" />
         <mark key="." line="2289" column="0" />
       </file>
+      <file name="/code/sc/web/sc/app/reports/survey/overalls.py" timestamp="1560533264259">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="/code/sc/web/sc/app/invites/send_invites.py" timestamp="1560523402653">
         <mark key="[" line="50" column="29" />
         <mark key="]" line="51" column="14" />
@@ -540,39 +545,39 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmdWNrJywgcmF0aW5nKQo=</text>
+        <text encoding="base64">CiAgICBUYWJsZShbCiAgICAgIFtdLAogICAgXSwgWycqJ10sIHN0eWxlPXNoZWV0LmJhcl9oZWFkZXJfdHMsIHNwYWNlQWZ0ZXI9MTYpLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLmZvcmNlKSB7CiAgICAgIHRoaXMuc29ydCA9IHRydWUKICAgICAgLy8gc2V0SW50ZXJ2YWwoKCkgPT4gewogICAgICAvLyAgIHRoaXMuc29ydCA9IHRydWUKICAgICAgLy8gICB0aGlzLiRyb290U2NvcGUuJGRpZ2VzdCgpCiAgICAgIC8vIH0sIDUwMCkKICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmdWNrJywgcmF0aW5nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAkcm9vdFNjb3BlOiBhbnkK</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLmZvcmNlKSB7CiAgICAgIHRoaXMuc29ydCA9IHRydWUKICAgICAgLy8gc2V0SW50ZXJ2YWwoKCkgPT4gewogICAgICAvLyAgIHRoaXMuc29ydCA9IHRydWUKICAgICAgLy8gICB0aGlzLiRyb290U2NvcGUuJGRpZ2VzdCgpCiAgICAgIC8vIH0sIDUwMCkKICAgIH0K</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAkcm9vdFNjb3BlOiBhbnkK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgZ2V0IHN1cnZleV9zdHlsZSgpIHsKICAgIGxldCByZXQgPSB0aGlzLmludml0ZS5jYW1wLnN1cnZleV9zdHlsZQogICAgY29uc29sZS5sb2cocmV0KQogICAgcmV0dXJuIHJldAogIH0=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBxdWVzdGlvbj0iJGN0cmwuZmFrZVF1ZXN0aW9uIgo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>{
       $event: { q },
     }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuZy1pZj0icS5raW5kID09ICRjdHJsLktpbmQuU3RhcnMiCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBuZy1pZj0icS5raW5kID09ICRjdHJsLktpbmQuU3RhcnMiCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//LocRepcardParams</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>f'{agg.survey} - Overall Care Rating', f'{title} Mean Score {one.total_avg:.2f}'</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
