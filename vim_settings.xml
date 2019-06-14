@@ -39,6 +39,18 @@
         <mark key="." line="71" column="60" />
         <mark key="^" line="71" column="60" />
       </file>
+      <file name="/code/sc/web/static/web/web.ts" timestamp="1560472244500">
+        <mark key="'" line="206" column="6" />
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="196" column="0" />
+        <mark key="." line="196" column="0" />
+      </file>
+      <file name="/code/sc/web/static/common/types.ts" timestamp="1560457697013">
+        <mark key="'" line="42" column="35" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
       <file name="/code/sc/web/static/common/common.conf.ts" timestamp="1560458575321">
         <mark key="[" line="154" column="44" />
         <mark key="]" line="161" column="4" />
@@ -142,12 +154,13 @@
         <mark key="." line="14" column="2" />
         <mark key="^" line="14" column="2" />
       </file>
-      <file name="/code/sc/web/static/web/views/reportcard/reportcard.service.ts" timestamp="1560469404003">
-        <mark key="'" line="77" column="1" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="/code/sc/web/static/web/views/reportcard/reportcard.service.ts" timestamp="1560472240520">
+        <mark key="'" line="76" column="1" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
+      <file name="/code/sc/web/static/web/views/reportcard/reportcard.ts" timestamp="1560471867936" />
       <file name="/code/sc/web/instance/env.txt" timestamp="1560468661940">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -159,11 +172,11 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="/code/sc/web/static/common/search/search.ints.ts" timestamp="1560469407355">
-        <mark key="[" line="39" column="53" />
-        <mark key="]" line="40" column="45" />
-        <mark key="." line="40" column="45" />
-        <mark key="^" line="40" column="45" />
+      <file name="/code/sc/web/static/common/search/search.ints.ts" timestamp="1560471631532">
+        <mark key="[" line="44" column="19" />
+        <mark key="]" line="44" column="19" />
+        <mark key="." line="44" column="19" />
+        <mark key="^" line="44" column="19" />
       </file>
       <file name="/code/sc/web/static/common/styles/shared.sass" timestamp="1560466678027">
         <mark key="'" line="558" column="2" />
@@ -179,7 +192,18 @@
         <mark key="." line="24" column="0" />
       </file>
       <file name="/code/sc/web/static/web/views/notes/details/edits/by-locs.ts" timestamp="1560461798929" />
-      <file name="/code/sc/web/static/web/views/survey-summary/survey-summary.service.ts" timestamp="1560469316859" />
+      <file name="/code/sc/web/static/web/views/survey-summary/survey-summary.ts" timestamp="1560471878714">
+        <mark key="[" line="36" column="27" />
+        <mark key="]" line="36" column="46" />
+        <mark key="." line="36" column="46" />
+        <mark key="^" line="36" column="46" />
+      </file>
+      <file name="/code/sc/web/static/web/views/survey-summary/survey-summary.service.ts" timestamp="1560471856112">
+        <mark key="[" line="33" column="13" />
+        <mark key="]" line="33" column="19" />
+        <mark key="^" line="33" column="19" />
+        <mark key="." line="33" column="19" />
+      </file>
       <file name="/code/sc/web/static/common/components/saved-searches/last-search.service.ts" timestamp="1560383129484">
         <mark key="[" line="41" column="4" />
         <mark key="]" line="41" column="10" />
@@ -202,6 +226,12 @@
       </file>
       <file name="/code/sc/web/static/web/views/survey-summary/search/survey-summary-search.ts" timestamp="1560455002598" />
       <file name="/code/sc/web/static/web/views/reviews/add/add-reviews.html" timestamp="1560462919569" />
+      <file name="/code/sc/web/static/common/components/saved-searches/saved-searches.service.ts" timestamp="1560472512949">
+        <mark key="'" line="161" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="/code/sc/web/templates/macros/reviews.html" timestamp="1560455093449" />
       <file name="/code/sc/web/static/common/resource.ts" timestamp="1560362650845">
         <mark key="'" line="219" column="41" />
@@ -241,9 +271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="43" filename="/code/sc/web/sc/app/plats/syncs/cron/starters.py" />
-      <jump line="83" column="4" filename="/code/sc/web/sc/app/tasks/syncing.py" />
-      <jump line="238" column="40" filename="/code/sc/web/sc/app/reports/reportcard/dashgraphs.py" />
       <jump line="477" column="8" filename="/code/sc/web/cli/ones.py" />
       <jump line="480" column="4" filename="/code/sc/web/cli/ones.py" />
       <jump line="427" column="8" filename="/code/sc/web/cli/ones.py" />
@@ -341,40 +368,43 @@
       <jump line="239" column="21" filename="/code/sc/web/static/common/styles/shared.sass" />
       <jump line="556" column="2" filename="/code/sc/web/static/common/styles/shared.sass" />
       <jump line="101" column="2" filename="/code/sc/web/static/web/views/settings/locations/locations.ts" />
+      <jump line="206" column="6" filename="/code/sc/web/static/web/web.ts" />
+      <jump line="167" column="0" filename="/code/sc/web/static/common/components/saved-searches/saved-searches.service.ts" />
+      <jump line="161" column="0" filename="/code/sc/web/static/common/components/saved-searches/saved-searches.service.ts" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICBsb2FkOiBUCiAgc2VhcmNoOiBFdmVudEVtaXR0ZXI8VD4KICBuZ09uSW5pdCgpOiB2b2lkCiAgb25TZWFyY2goKTogdm9pZAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RoaXMubGFzdC5zdGF0ZXMnLCB0aGlzLmxhc3Quc3RhdGVzKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgbmdPbkluaXQoKSB7CiAgICBjb25zb2xlLmxvZyh0aGlzLmxvY3MpCiAgfQo=</text>
+        <text encoding="base64">CiAgbmdPbkluaXQoKSB7CiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdWktc3JlZi1vcHRzPSJ7aW5oZXJpdDogZmFsc2V9Igo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcGFnZTogcGFyYW1QYWdlKCksCiAgICAgIHBlcl9wYWdlOiBwYXJhbVBlclBhZ2UoKSwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGtleXMgPSByYXdzLmtleXMoKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFyZ3MpCiAgICBwcmludChrZXlzKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGFyZ3MgPSByZXFfYXJncygpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRoaXMubGFzdHMuYWRkU3RhdGUoKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICR0cmFucy5vbkJlZm9yZSh7fSwgdHJhbnMgPT4gewogICAgICBzZXRUcmFucyh0cmFucykKICAgIH0pCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB1bmRlZmluZWQK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8bWQtYnV0dG9uCiAgICAgICAgICAgICAgICBjbGFzcz0ibWQtaWNvbi1idXR0b24iCiAgICAgICAgICAgICAgICB0eXBlPSJidXR0b24iCiAgICAgICAgICAgICAgICBhcmlhLWxhYmVsPSJkZWxldGUiCiAgICAgICAgICAgICAgICBuZy1pZj0iY3RybC5sb2MuZGVsZXRlZF9hdCIKICAgICAgICAgICAgICAgIChjbGljayk9ImN0cmwucmVzdG9yZSgpIgogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIDxtZC1pY29uIG1kLXN2Zy1pY29uPSJ1bmFyY2hpdmUiPjwvbWQtaWNvbj4KICAgICAgICAgICAgICA8L21kLWJ1dHRvbj4K</text>
+        <text encoding="base64">ICBnZXRSZWRpcmVjdFBhcmFtcyh0cmFuczogVHJhbnNpdGlvbik6IElQcm9taXNlPFJlZGlyZWN0UmV0dXJuPFQ+PiB8IFJlZGlyZWN0UmV0dXJuPFQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text>ReportcardService</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
