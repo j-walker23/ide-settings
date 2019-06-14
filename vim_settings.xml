@@ -110,6 +110,12 @@
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
       </file>
+      <file name="/code/sc/web/static/common/search/routing.ts" timestamp="1560489721061">
+        <mark key="[" line="36" column="43" />
+        <mark key="]" line="36" column="61" />
+        <mark key="^" line="36" column="61" />
+        <mark key="." line="36" column="61" />
+      </file>
       <file name="/code/sc/web/static/web/views/survey-summary/overall-compare/overall-compare.html" timestamp="1560487065662">
         <mark key="[" line="6" column="9" />
         <mark key="]" line="6" column="14" />
@@ -313,7 +319,7 @@
         <text>%s//params</text>
       </register>
       <register name="-" type="4">
-        <text>load</text>
+        <text>StateParams</text>
       </register>
       <register name="/" type="4">
         <text>getParams()</text>
