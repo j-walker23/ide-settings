@@ -21,11 +21,11 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="/code/sc/web/migrations/versions/ceedcd87afb5__163.py" timestamp="1560460610562">
-        <mark key="[" line="46" column="29" />
-        <mark key="]" line="47" column="37" />
-        <mark key="^" line="47" column="37" />
-        <mark key="." line="47" column="37" />
+      <file name="/code/sc/web/migrations/versions/ceedcd87afb5__163.py" timestamp="1560474044549">
+        <mark key="[" line="52" column="12" />
+        <mark key="]" line="53" column="22" />
+        <mark key="^" line="53" column="22" />
+        <mark key="." line="53" column="22" />
       </file>
       <file name="/code/sc/web/sc/app/integs/bulk/incoming.py" timestamp="1560461059221">
         <mark key="[" line="305" column="56" />
@@ -44,12 +44,6 @@
         <mark key="[" line="196" column="0" />
         <mark key="]" line="196" column="0" />
         <mark key="." line="196" column="0" />
-      </file>
-      <file name="/code/sc/web/static/common/types.ts" timestamp="1560457697013">
-        <mark key="'" line="42" column="35" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
       </file>
       <file name="/code/sc/web/static/common/common.conf.ts" timestamp="1560458575321">
         <mark key="[" line="154" column="44" />
@@ -226,11 +220,12 @@
       </file>
       <file name="/code/sc/web/static/web/views/survey-summary/search/survey-summary-search.ts" timestamp="1560455002598" />
       <file name="/code/sc/web/static/web/views/reviews/add/add-reviews.html" timestamp="1560462919569" />
-      <file name="/code/sc/web/static/common/components/saved-searches/saved-searches.service.ts" timestamp="1560472512949">
-        <mark key="'" line="161" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="/code/sc/web/static/common/components/saved-searches/saved-searches.service.ts" timestamp="1560474192691">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="18" column="44" />
+        <mark key="]" line="18" column="43" />
+        <mark key="." line="18" column="43" />
+        <mark key="^" line="18" column="43" />
       </file>
       <file name="/code/sc/web/templates/macros/reviews.html" timestamp="1560455093449" />
       <file name="/code/sc/web/static/common/resource.ts" timestamp="1560362650845">
@@ -257,6 +252,9 @@
         <mark key="." line="36" column="63" />
         <mark key="^" line="36" column="63" />
       </file>
+      <file name="/code/sc/web/migrations/versions/050d2754e7db__67.py" timestamp="1560473980243">
+        <mark key="'" line="244" column="42" />
+      </file>
       <file name="/code/sc/web/sc/mods/web/rest/accounts/locations_view.py" timestamp="1560468443855">
         <mark key="[" line="112" column="21" />
         <mark key="]" line="113" column="24" />
@@ -269,11 +267,11 @@
         <mark key="^" line="12" column="31" />
         <mark key="." line="12" column="31" />
       </file>
+      <file name="/code/sc/web/migrations/versions/bf3ec88d323a__164.py" timestamp="1560473989154">
+        <mark key="'" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="477" column="8" filename="/code/sc/web/cli/ones.py" />
-      <jump line="480" column="4" filename="/code/sc/web/cli/ones.py" />
-      <jump line="427" column="8" filename="/code/sc/web/cli/ones.py" />
       <jump line="151" column="49" filename="/code/sc/web/sc/app/reportcards/types.py" />
       <jump line="484" column="5" filename="/code/sc/web/cli/ones.py" />
       <jump line="182" column="0" filename="/code/sc/web/cli/ones.py" />
@@ -371,40 +369,43 @@
       <jump line="206" column="6" filename="/code/sc/web/static/web/web.ts" />
       <jump line="167" column="0" filename="/code/sc/web/static/common/components/saved-searches/saved-searches.service.ts" />
       <jump line="161" column="0" filename="/code/sc/web/static/common/components/saved-searches/saved-searches.service.ts" />
+      <jump line="44" column="0" filename="/code/sc/web/static/common/components/saved-searches/saved-searches.service.ts" />
+      <jump line="244" column="42" filename="/code/sc/web/migrations/versions/050d2754e7db__67.py" />
+      <jump line="0" column="0" filename="/code/sc/web/migrations/versions/bf3ec88d323a__164.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RoaXMubGFzdC5zdGF0ZXMnLCB0aGlzLmxhc3Quc3RhdGVzKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkYXRhJywgZGF0YSkKICAgIGNvbnNvbGUubG9nKGNvbmYpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgbmdPbkluaXQoKSB7CiAgfQo=</text>
+        <text encoding="base64">ICAgCiAgICBjb25mLnNlYXJjaGVzID0gY29uZi5zZWFyY2hlcyB8fCB7fQogICAgY29uZlthaWRdLnNlYXJjaGVzW3N0YXRlXSA9IGNvbmZbYWlkXS5zZWFyY2hlc1tzdGF0ZV0gfHwgeyBsaXN0OiBbXSB9CiAgICBjb25mW2FpZF0uc2VhcmNoZXNbc3RhdGVdLmxpc3QgPSBjb25mW2FpZF0uc2VhcmNoZXNbc3RhdGVdLmxpc3QgfHwgW10KICAgIGxldCBkYXRhID0gY29uZlthaWRdLnNlYXJjaGVzW3N0YXRlXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbmZbYWlkXSA9IGNvbmZbYWlkXSB8fCB7IHNlYXJjaGVzOiB7fSB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMubGFzdHMuYWRkU3RhdGUoKQo=</text>
+        <text encoding="base64">bGV0IGQgPSBkZWJ1ZygnYXBwOnNhdmVkLXNlYXJjaGVzJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBnZXREZWZhdWx0U3RhdGVQYXJhbXMoc3RhdGU6IFN0YXRlRGVjbGFyYXRpb24pIHsKICAgIGxldCByZXQgPSB7fQogICAgZm9yT3duKHN0YXRlLnBhcmFtcywgKHBhcmFtOiBQYXJhbURlY2xhcmF0aW9uLCBrZXkpID0+IHsKICAgICAgbGV0IHsgdmFsdWUsIGFycmF5IH0gPSBwYXJhbQogICAgICBpZiAodmFsdWUgJiYgYXJyYXkgJiYgIUFycmF5LmlzQXJyYXkodmFsdWUpKSB2YWx1ZSA9IFt2YWx1ZV0KICAgICAgcmV0W2tleV0gPSB2YWx1ZQogICAgfSkKICAgIHJldHVybiByZXQKICAgIC8vIHJldHVybiBjbGVhblBhcmFtcyhyZXQpCiAgfQoKICBjaGVja0xvYWRQYXJhbXNWc0RlZmF1bHRzKHBhcmFtczogVCwgc3RhdGU6IFN0YXRlRGVjbGFyYXRpb24pIHsKICAgIGxldCBkZWZhdWx0cyA9IHRoaXMuZ2V0RGVmYXVsdFN0YXRlUGFyYW1zKHN0YXRlKQogICAgbGV0IGNoYW5nZWQgPSBwaWNrQnkocGFyYW1zLCAodmFsLCBrZXkpID0+IHsKICAgICAgaWYgKGtleSBpbiBkZWZhdWx0cykgewogICAgICAgIGxldCBkZWZhdWx0VmFsID0gZGVmYXVsdHNba2V5XQogICAgICAgIGlmICh2YWwgJiYgQXJyYXkuaXNBcnJheShkZWZhdWx0VmFsKSAmJiAhQXJyYXkuaXNBcnJheSh2YWwpKSB2YWwgPSBbdmFsXQogICAgICAgIGlmICh2YWwgJiYgIWlzRXF1YWwodmFsLCBkZWZhdWx0VmFsKSkgcmV0dXJuIHZhbAogICAgICB9CiAgICB9KQogICAgbGV0IHJldCA9IHNpemUoY2hhbmdlZCkKICAgIGQubG9nKAogICAgICAnY2hlY2tMb2FkUGFyYW1zVnNEZWZhdWx0cygpIHZhbGlkPSVzIGRlZmF1bHRzPSVPIGNoYW5nZWQ9JU8gbG9hZD0lTycsCiAgICAgICFyZXQsCiAgICAgIGRlZmF1bHRzLAogICAgICBjaGFuZ2VkLAogICAgICBwYXJhbXMKICAgICkKICAgIHJldHVybiByZXQKICB9CgogIHZhbGlkTG9hZChwYXJhbXM6IFQpIHsKICAgIGxldCByZXQgPSBmYWxzZQogICAgbGV0IHRyYW5zID0gZ2V0VHJhbnMoKQogICAgbGV0IGZyb20gPSB0cmFucy5mcm9tKCkKICAgIGxldCBvcHRzID0gdHJhbnMub3B0aW9ucygpCiAgICBsZXQgY2hhbmdlZCA9IHRyYW5zLnBhcmFtc0NoYW5nZWQoKQogICAgbGV0IHEgPSAoY2hhbmdlZC5xdWVyeSB8fCAnJykudHJpbSgpCiAgICBsZXQgaXNSZWxvYWQgPSBvcHRzLnJlbG9hZAogICAgbGV0IHN0ID0gdHJhbnMudGFyZ2V0U3RhdGUoKQogICAgbGV0IGNoYW5nZUNhbGMgPSB0aGlzLmNoZWNrTG9hZFBhcmFtc1ZzRGVmYXVsdHMocGFyYW1zLCBzdC5zdGF0ZSgpKQogICAgaWYgKCFjaGFuZ2VDYWxjKSB7CiAgICAgIGlmICgoIXEgJiYgIWlzUmVsb2FkKSB8fCBmcm9tLm5hbWUgPT0gJycpIHJldCA9IHRydWUKICAgIH0KICAgIC8vIENoZWNrIGNoYW5nZWQsIG1heWJlIGl0J3MgYWx3YXlzIHNldCBvbiBpbml0IGxvYWQgaWYgdGhpbmdzCiAgICAvLyBhcmUgZGlmZiBmcm9tIGRlZmF1bHRzCiAgICBkLmxvZygKICAgICAgJ3ZhbGlkTG9hZCgpICVzIHRyYW5zLnF1ZXJ5PSVzIHRyYW5zLnJlbG9hZD0lcyBvcHRzPSVPIGNoYW5nZWQ9JU8nLAogICAgICByZXQsCiAgICAgIHEsCiAgICAgIGlzUmVsb2FkLAogICAgICBvcHRzLAogICAgICBjaGFuZ2VkCiAgICApCiAgICByZXR1cm4gcmV0CiAgfQoKICBjaGFuZ2VkUXVlcnkoKSB7CiAgICByZXR1cm4gKGdldFRyYW5zKCkucGFyYW1zQ2hhbmdlZCgpLnF1ZXJ5IHx8ICcnKS50cmltKCkKICB9CgogIG9uTG9hZChwYXJhbXM6IFQpOiBbVCB8IG51bGwsIGJvb2xlYW5dIHsKICAgIGxldCBhY3RpdmUgPSBmYWxzZQogICAgbGV0IHVzZWRMYXN0ID0gZmFsc2UKICAgIGlmICh0aGlzLnZhbGlkTG9hZChwYXJhbXMpKSB7CiAgICAgIGxldCBxID0gdGhpcy5jaGFuZ2VkUXVlcnkoKQogICAgICBsZXQgeyBsaXN0LCBsYXN0IH0gPSB0aGlzLmdldFNlYXJjaGVzKCkKICAgICAgaWYgKCFhcHAudXNlci5lbmFibGVfbGFzdF9zZWFyY2gpIGxhc3QgPSBudWxsCiAgICAgIGxldCBpdGVtID0gbGlzdC5maW5kKHMgPT4gcy5kZWZhdWx0KQogICAgICBsZXQgZGVmYXVsdFBhcmFtcyA9IGl0ZW0gJiYgKGl0ZW0ucGFyYW1zIGFzIFQpCgogICAgICBpZiAocSAmJiBkZWZhdWx0UGFyYW1zICYmIHEgPT0gKGRlZmF1bHRQYXJhbXMucXVlcnkgfHwgJycpLnRyaW0oKSkgewogICAgICAgIHBhcmFtcyA9IGRlZmF1bHRQYXJhbXMKICAgICAgICBhY3RpdmUgPSB0cnVlCiAgICAgIH0gZWxzZSBpZiAoIXEgJiYgZGVmYXVsdFBhcmFtcykgewogICAgICAgIHBhcmFtcyA9IGRlZmF1bHRQYXJhbXMKICAgICAgICBhY3RpdmUgPSB0cnVlCiAgICAgIH0gZWxzZSBpZiAoCiAgICAgICAgbGFzdCAmJgogICAgICAgICEocGFyYW1zLnF1ZXJ5ICYmIGxhc3QucXVlcnkgJiYgcGFyYW1zLnF1ZXJ5ICE9IGxhc3QucXVlcnkpCiAgICAgICkgewogICAgICAgIGxldCB0cmFucyA9IGdldFRyYW5zKCkKICAgICAgICAvLyBAdHMtaWdub3JlCiAgICAgICAgbGV0IHBhcmFtc0RlZiA9IHRyYW5zLnRhcmdldFN0YXRlKCkuX2RlZmluaXRpb24ucGFyYW1zCiAgICAgICAgbGV0IHJlcXVpcmVkQW5kQ2hhbmdlZCA9IHBpY2tCeShwYXJhbXNEZWYsIHBhcmFtID0+IHsKICAgICAgICAgIGxldCBrZXkgPSBwYXJhbS5pZAogICAgICAgICAgcmV0dXJuICFwYXJhbS5pc09wdGlvbmFsICYmIHBhcmFtc1trZXldICE9PSBsYXN0W2tleV0KICAgICAgICB9KQoKICAgICAgICBpZiAoIXNpemUocmVxdWlyZWRBbmRDaGFuZ2VkKSkgewogICAgICAgICAgcGFyYW1zID0gbGFzdAogICAgICAgICAgdXNlZExhc3QgPSB0cnVlCiAgICAgICAgfQogICAgICB9CiAgICB9CiAgICBkLmxvZygnb25Mb2FkKCkgcGFyYW1zPSVPIGFjdGl2ZT0lcyB1c2VkTGFzdD0lcycsIHBhcmFtcywgYWN0aXZlLCB1c2VkTGFzdCkKICAgIHJldHVybiBbcGFyYW1zLCBhY3RpdmVdCiAgfQoKICBzZXRMYXN0KG5hbWU6IHN0cmluZywgc2VhcmNoUGFyYW1zOiBhbnkpIHsKICAgIGlmICghYXBwLnVzZXIuZW5hYmxlX2xhc3Rfc2VhcmNoKSByZXR1cm4KICAgIGxldCBwYXJhbXMgPSB7IC4uLihzZWFyY2hQYXJhbXMgfHwge30pIH0KICAgIHBhcmFtcyA9IHsgLi4ucGFyYW1zIH0KICAgIHBhcmFtcyA9IHBpY2socGFyYW1zLCBbJ3F1ZXJ5JywgJ2ZpbHRlcnMnLCAnc3RhcnQnLCAnZW5kJ10pCiAgICBpZiAoJ2ZpbHRlcnMnIGluIHBhcmFtcykgewogICAgICBwYXJhbXMuZmlsdGVycyA9IHBhcmFtcy5maWx0ZXJzIHx8IHt9CiAgICAgIHBhcmFtcy5maWx0ZXJzID0gcGljayhwYXJhbXMsIFsnY3JlYXRlX3RpbWUnLCAnY3JlYXRlZF9hdCcsICd1cGRhdGVkX2F0J10pCiAgICB9CgogICAgbGV0IHsgbGlzdCwgbGFzdCB9ID0gdGhpcy5nZXRTZWFyY2hlcyhuYW1lKQogICAgaWYgKCFsaXN0LmZpbmQocyA9PiBzLmRlZmF1bHQpKSB7CiAgICAgIGxldCB7IHVzZXIsIGFpZCB9ID0gYm9vdGVkCiAgICAgIHBhcmFtcyA9IG9taXRCeShwYXJhbXMsIHYgPT4gdiA9PSBudWxsKQogICAgICBpZiAobGFzdCAmJiBpc0VxdWFsKGNsZWFuUGFyYW1zKHBhcmFtcyksIGNsZWFuUGFyYW1zKGxhc3QpKSkgcmV0dXJuCiAgICAgIHVzZXIuY29uZlthaWRdLnNlYXJjaGVzW25hbWVdLmxhc3QgPSBwYXJhbXMKICAgICAgdXNlci5zYXZlQ29uZigpCiAgICB9CiAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RoaXMubGFzdC5zdGF0ZXMnLCB0aGlzLmxhc3Quc3RhdGVzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICR0cmFucy5vbkJlZm9yZSh7fSwgdHJhbnMgPT4gewogICAgICBzZXRUcmFucyh0cmFucykKICAgIH0pCg==</text>
+        <text encoding="base64">CiAgbmdPbkluaXQoKSB7CiAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB1bmRlZmluZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBnZXRSZWRpcmVjdFBhcmFtcyh0cmFuczogVHJhbnNpdGlvbik6IElQcm9taXNlPFJlZGlyZWN0UmV0dXJuPFQ+PiB8IFJlZGlyZWN0UmV0dXJuPFQ+Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMubGFzdHMuYWRkU3RhdGUoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>ReportcardService</text>
+        <text>, { suck: [] }</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
