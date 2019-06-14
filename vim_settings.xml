@@ -3,16 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/code/sc/web/static/common/utils.ts" timestamp="1560339236997">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="/code/sc/web/static/web/web.nav.ts" timestamp="1560344348349">
+        <mark key="'" line="325" column="0" />
+      </file>
       <file name="/code/sc/web/static/web/views/survey-summary/survey-summary.html" timestamp="1560487017229">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="6" column="28" />
         <mark key="." line="6" column="28" />
         <mark key="^" line="6" column="28" />
-      </file>
-      <file name="/code/sc/web/static/web/views/settings/locations/locations.html" timestamp="1560468310567">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
       </file>
       <file name="/code/sc/web/static/web/views/survey-summary/overall-compare/overall-compare.ts" timestamp="1560487507611">
         <mark key="'" line="62" column="0" />
@@ -20,6 +21,16 @@
         <mark key="]" line="153" column="0" />
         <mark key="." line="153" column="0" />
         <mark key="^" line="44" column="29" />
+      </file>
+      <file name="/code/sc/web/static/web/views/loc-reportcard/search/loc-reportcard-search.html" timestamp="1560495026490">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="/code/sc/web/static/common/models/user.model.ts" timestamp="1560497608701">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="/code/sc/web/cli/ones.py" timestamp="1560485160545">
         <mark key="[" line="526" column="18" />
@@ -34,17 +45,12 @@
         <mark key="." line="607" column="25" />
         <mark key="^" line="607" column="25" />
       </file>
-      <file name="/code/sc/web/static/common/components/saved-searches/saved-searches.ts" timestamp="1560484042682">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="/code/sc/web/static/web/views/survey-summary/pivot/star-pivot.ts" timestamp="1560487176998">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="^" line="46" column="18" />
-        <mark key="." line="64" column="0" />
+      <file name="/code/sc/web/static/web/views/survey-summary/pivot/star-pivot.ts" timestamp="1560497102821">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="37" column="40" />
+        <mark key="]" line="38" column="36" />
+        <mark key="^" line="38" column="36" />
+        <mark key="." line="38" column="36" />
       </file>
       <file name="/code/sc/web/sc/sql/user/__init__.py" timestamp="1560484856595">
         <mark key="[" line="96" column="24" />
@@ -52,45 +58,81 @@
         <mark key="." line="96" column="37" />
         <mark key="^" line="96" column="37" />
       </file>
+      <file name="/code/sc/web/static/web/web.conf.ts" timestamp="1560497805042">
+        <mark key="'" line="106" column="0" />
+      </file>
+      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1560484682463">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="/code/sc/web/static/web/views/loc-reportcard/loc-reportcard.ts" timestamp="1560497110158">
+        <mark key="'" line="48" column="62" />
+        <mark key="[" line="54" column="40" />
+        <mark key="]" line="55" column="36" />
+        <mark key="^" line="55" column="36" />
+        <mark key="." line="55" column="36" />
+      </file>
+      <file name="/code/sc/web/static/web/views/loc-reportcard/loc-reportcard.service.ts" timestamp="1560494925976">
+        <mark key="'" line="36" column="24" />
+        <mark key="[" line="23" column="13" />
+        <mark key="]" line="23" column="15" />
+        <mark key="." line="23" column="15" />
+        <mark key="^" line="23" column="15" />
+      </file>
       <file name="/code/sc/web/static/web/views/survey-summary/pivot/star-pivot.html" timestamp="1560487056436">
         <mark key="[" line="6" column="9" />
         <mark key="]" line="6" column="14" />
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
       </file>
-      <file name="/code/sc/web/static/common/search/search-page.ts" timestamp="1560486617979">
-        <mark key="[" line="67" column="6" />
-        <mark key="]" line="67" column="14" />
-        <mark key="." line="67" column="14" />
-        <mark key="^" line="67" column="14" />
+      <file name="/code/sc/web/static/web/views/reviews/search/review-auto.service.ts" timestamp="1560340374342">
+        <mark key="'" line="7" column="13" />
       </file>
-      <file name="/code/sc/web/static/common/components/smart-search/smart-search.ts" timestamp="1560484540424">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="/code/sc/web/sc/app/loc_reportcards/locs.py" timestamp="1560495906462">
+        <mark key="[" line="157" column="46" />
+        <mark key="]" line="157" column="49" />
+        <mark key="^" line="157" column="49" />
+        <mark key="." line="157" column="49" />
       </file>
-      <file name="/code/sc/web/static/web/views/marketing-report/search/marketing-report-search.ts" timestamp="1560484546536">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+      <file name="/code/sc/web/static/common/search/search-page.ts" timestamp="1560495664245">
+        <mark key="[" line="50" column="13" />
+        <mark key="]" line="50" column="28" />
+        <mark key="." line="50" column="28" />
+        <mark key="^" line="50" column="28" />
       </file>
-      <file name="/code/sc/web/static/web/views/reportcard/reportcard.ts" timestamp="1560487002538">
-        <mark key="'" line="82" column="37" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="74" column="22" />
-        <mark key="." line="74" column="22" />
-        <mark key="^" line="74" column="22" />
+      <file name="/code/sc/web/static/web/sentry.ts" timestamp="1560323845121">
+        <mark key="'" line="43" column="19" />
+      </file>
+      <file name="/code/sc/web/static/web/views/settings/locations/split/tile/loc-split.ts" timestamp="1560466363810">
+        <mark key="'" line="18" column="6" />
+      </file>
+      <file name="/code/sc/web/static/common/search/search.ts" timestamp="1560339592339">
+        <mark key="'" line="40" column="12" />
+      </file>
+      <file name="/code/sc/web/static/web/views/settings/locations/details/gmb-doc/gmb-doc.html" timestamp="1560464991251">
+        <mark key="'" line="39" column="8" />
+        <mark key="[" line="19" column="28" />
+        <mark key="]" line="19" column="34" />
+        <mark key="." line="19" column="34" />
+        <mark key="^" line="19" column="34" />
+      </file>
+      <file name="/code/sc/web/static/web/services/last-search.service.ts" timestamp="1560498648482">
+        <mark key="[" line="31" column="60" />
+        <mark key="]" line="31" column="83" />
+        <mark key="." line="31" column="83" />
+        <mark key="^" line="31" column="83" />
+      </file>
+      <file name="/code/sc/web/static/web/views/reportcard/reportcard.ts" timestamp="1560497089152">
+        <mark key="'" line="83" column="37" />
+        <mark key="[" line="64" column="30" />
+        <mark key="]" line="64" column="36" />
+        <mark key="." line="64" column="36" />
+        <mark key="^" line="64" column="36" />
       </file>
       <file name="/code/sc/web/instance/env.txt" timestamp="1560485218944">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
-      </file>
-      <file name="/code/sc/web/static/web/views/settings/locations/split/location-splitting.ts" timestamp="1560468456582">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
       </file>
       <file name="/code/sc/web/static/common/search/search.ints.ts" timestamp="1560486416727">
         <mark key="[" line="59" column="0" />
@@ -104,17 +146,31 @@
         <mark key="." line="19" column="31" />
         <mark key="^" line="19" column="31" />
       </file>
+      <file name="/code/sc/web/static/common/styles/shared.sass" timestamp="1560466678027">
+        <mark key="'" line="558" column="2" />
+        <mark key="[" line="101" column="38" />
+        <mark key="]" line="102" column="8" />
+        <mark key="^" line="102" column="8" />
+        <mark key="." line="102" column="8" />
+      </file>
       <file name="/code/sc/web/static/web/views/survey-summary/question-compare/question-compare.html" timestamp="1560487044434">
         <mark key="[" line="6" column="9" />
         <mark key="]" line="6" column="14" />
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
       </file>
-      <file name="/code/sc/web/static/common/search/routing.ts" timestamp="1560489721061">
-        <mark key="[" line="36" column="43" />
-        <mark key="]" line="36" column="61" />
-        <mark key="^" line="36" column="61" />
-        <mark key="." line="36" column="61" />
+      <file name="/code/sc/web/static/web/views/loc-reportcard/loc-reportcard.html" timestamp="1560496229784">
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="18" column="31" />
+        <mark key="." line="18" column="31" />
+        <mark key="^" line="18" column="31" />
+      </file>
+      <file name="/code/sc/web/static/common/search/routing.ts" timestamp="1560497077788">
+        <mark key="'" line="24" column="21" />
+        <mark key="[" line="70" column="50" />
+        <mark key="]" line="70" column="54" />
+        <mark key="^" line="70" column="54" />
+        <mark key="." line="70" column="54" />
       </file>
       <file name="/code/sc/web/static/web/views/survey-summary/overall-compare/overall-compare.html" timestamp="1560487065662">
         <mark key="[" line="6" column="9" />
@@ -122,24 +178,28 @@
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
       </file>
-      <file name="/code/sc/web/sc/mods/web/rest/accounts/platforms_view.py" timestamp="1560487617581" />
-      <file name="/code/sc/web/static/web/views/reportcard/search/reportcard-search.ts" timestamp="1560486818025">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="^" line="64" column="31" />
-        <mark key="." line="64" column="0" />
+      <file name="/code/sc/web/static/web/views/reportcard/search/reportcard-search.ts" timestamp="1560496043089">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="53" column="8" />
       </file>
-      <file name="/code/sc/web/static/web/views/arrowlytics/search/arrowlytics-search.ts" timestamp="1560487250001">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="29" column="22" />
+      <file name="/code/sc/web/static/web/views/arrowlytics/search/arrowlytics-search.ts" timestamp="1560497498488">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+        <mark key="^" line="74" column="14" />
       </file>
-      <file name="/code/sc/web/static/web/views/survey-summary/survey-summary.ts" timestamp="1560487090111">
-        <mark key="[" line="42" column="3" />
-        <mark key="]" line="43" column="23" />
-        <mark key="." line="43" column="23" />
-        <mark key="^" line="43" column="23" />
+      <file name="/code/sc/web/static/web/views/survey-summary/survey-summary.ts" timestamp="1560497118301">
+        <mark key="[" line="35" column="40" />
+        <mark key="]" line="36" column="36" />
+        <mark key="." line="36" column="36" />
+        <mark key="^" line="36" column="36" />
+      </file>
+      <file name="/code/sc/web/static/web/views/arrowlytics/search/arrowlytics-search.html" timestamp="1560485281704">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="/code/sc/web/static/common/components/saved-searches/last-search.service.ts" timestamp="1560484521634">
         <mark key="'" line="42" column="0" />
@@ -148,16 +208,24 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/code/sc/web/static/web/views/survey-summary/search/survey-summary-auto.service.ts" timestamp="1560487574720" />
-      <file name="/code/sc/web/static/common/common.sass" timestamp="1560487389802">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="/code/sc/web/static/web/views/survey-summary/question-compare/question-compare.ts" timestamp="1560497123427">
+        <mark key="'" line="87" column="19" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="66" column="26" />
       </file>
-      <file name="/code/sc/web/static/web/views/loc-reportcard/search/loc-reportcard-search.ts" timestamp="1560484543574">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="/code/sc/web/static/web/views/loc-reportcard/list/header/spark/loc-sparkline.ts" timestamp="1560495825639">
+        <mark key="'" line="94" column="24" />
+        <mark key="[" line="53" column="17" />
+        <mark key="]" line="53" column="22" />
+        <mark key="^" line="53" column="22" />
+        <mark key="." line="53" column="22" />
+      </file>
+      <file name="/code/sc/web/static/web/views/loc-reportcard/search/loc-reportcard-search.ts" timestamp="1560494802416">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="/code/sc/web/static/web/views/survey-summary/search/survey-summary-search.ts" timestamp="1560487439568">
         <mark key="[" line="23" column="11" />
@@ -171,12 +239,17 @@
         <mark key="." line="7" column="25" />
         <mark key="^" line="7" column="25" />
       </file>
-      <file name="/code/sc/web/static/common/components/saved-searches/saved-searches.service.ts" timestamp="1560487411464">
-        <mark key="'" line="35" column="2" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="45" column="60" />
+      <file name="/code/sc/web/static/common/components/saved-searches/saved-searches.service.ts" timestamp="1560497762266">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+      </file>
+      <file name="/code/sc/web/static/common/resource.ts" timestamp="1560362650845">
+        <mark key="'" line="219" column="41" />
+      </file>
+      <file name="/code/sc/web/static/web/views/settings/platforms/setup/specific-listings/specific-listings.ts" timestamp="1560462606905">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="/code/sc/web/static/web/views/reportcard/search/reportcard-search.html" timestamp="1560486694726">
         <mark key="[" line="33" column="0" />
@@ -184,19 +257,21 @@
         <mark key="^" line="33" column="1" />
         <mark key="." line="33" column="1" />
       </file>
+      <file name="/code/sc/web/migrations/versions/050d2754e7db__67.py" timestamp="1560473980243">
+        <mark key="'" line="244" column="42" />
+      </file>
+      <file name="/code/sc/web/migrations/versions/bf3ec88d323a__164.py" timestamp="1560473989154">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1560484673531">
+        <mark key="'" line="528" column="14" />
+        <mark key="[" line="536" column="5" />
+        <mark key="]" line="536" column="14" />
+        <mark key="^" line="536" column="14" />
+        <mark key="." line="536" column="14" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="19" filename="/code/sc/web/static/web/sentry.ts" />
-      <jump line="113" column="62" filename="/code/forks/jw-ng-forward/lib/decorators/state-config.ts" />
-      <jump line="36" column="31" filename="/code/sc/web/webpacks/prod.ts" />
-      <jump line="33" column="48" filename="/code/sc/web/static/web/views/survey-summary/survey-summary.ts" />
-      <jump line="82" column="0" filename="/code/sc/web/static/web/views/survey-summary/search/survey-summary-search.ts" />
-      <jump line="13" column="39" filename="/code/sc/web/static/common/search/search-page.ts" />
-      <jump line="42" column="0" filename="/code/sc/web/static/common/search/mixes.ts" />
-      <jump line="7" column="20" filename="/code/sc/web/static/common/search/mixes.ts" />
-      <jump line="26" column="22" filename="/code/sc/web/static/common/search/mixes.ts" />
-      <jump line="0" column="0" filename="/code/sc/web/static/web/web.conf.ts" />
-      <jump line="451" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
       <jump line="87" column="27" filename="/code/sc/web/static/web/views/survey-summary/compare/summary-compare.ts" />
       <jump line="0" column="0" filename="/code/sc/web/static/common/utils.ts" />
       <jump line="17" column="4" filename="/code/sc/web/static/common/search/search-page.ts" />
@@ -286,51 +361,62 @@
       <jump line="52" column="2" filename="/code/sc/web/static/web/views/survey-summary/overall-compare/overall-compare.ts" />
       <jump line="45" column="8" filename="/code/sc/web/static/web/views/survey-summary/overall-compare/overall-compare.ts" />
       <jump line="62" column="0" filename="/code/sc/web/static/web/views/survey-summary/overall-compare/overall-compare.ts" />
+      <jump line="70" column="2" filename="/code/sc/web/static/web/views/loc-reportcard/loc-reportcard.ts" />
+      <jump line="9" column="33" filename="/code/sc/web/static/web/views/loc-reportcard/loc-reportcard.service.ts" />
+      <jump line="25" column="56" filename="/code/sc/web/static/web/views/loc-reportcard/loc-reportcard.service.ts" />
+      <jump line="43" column="24" filename="/code/sc/web/static/web/views/loc-reportcard/loc-reportcard.service.ts" />
+      <jump line="41" column="0" filename="/code/sc/web/static/web/views/loc-reportcard/loc-reportcard.ts" />
+      <jump line="94" column="24" filename="/code/sc/web/static/web/views/loc-reportcard/list/header/spark/loc-sparkline.ts" />
+      <jump line="47" column="62" filename="/code/sc/web/static/web/views/loc-reportcard/loc-reportcard.ts" />
+      <jump line="24" column="21" filename="/code/sc/web/static/common/search/routing.ts" />
+      <jump line="87" column="19" filename="/code/sc/web/static/web/views/survey-summary/question-compare/question-compare.ts" />
+      <jump line="158" column="30" filename="/code/sc/web/static/common/components/saved-searches/saved-searches.service.ts" />
+      <jump line="106" column="0" filename="/code/sc/web/static/web/web.conf.ts" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAvL2dyaWQgb2ZmCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgZ2V0U2VhcmNoZXMobmFtZT86IHN0cmluZyk6IHsgbGlzdDogU2F2ZWRTZWFyY2hbXTsgbGFzdD86IGFueSB9IHsKICAgIGxldCBzdGF0ZSA9IG5hbWUgfHwgZ2V0U3RhdGUoKS5jdXJyZW50Lm5hbWUKICAgIGxldCB7IHVzZXIsIGFpZCB9ID0gYm9vdGVkCiAgICB1c2VyLmNvbmYgPSB1c2VyLmNvbmYgfHwge30KICAgIGxldCBjb25mID0gdXNlci5jb25mCiAgICBjb25mW2FpZF0gPSBjb25mW2FpZF0gfHwgeyBzZWFyY2hlczoge30gfQogICAgY29uZlthaWRdLnNlYXJjaGVzID0gY29uZlthaWRdLnNlYXJjaGVzIHx8IHt9CiAgICBjb25mW2FpZF0uc2VhcmNoZXNbc3RhdGVdID0gY29uZlthaWRdLnNlYXJjaGVzW3N0YXRlXSB8fCB7IGxpc3Q6IFtdIH0KICAgIGNvbmZbYWlkXS5zZWFyY2hlc1tzdGF0ZV0ubGlzdCA9IGNvbmZbYWlkXS5zZWFyY2hlc1tzdGF0ZV0ubGlzdCB8fCBbXQogICAgbGV0IGRhdGEgPSBjb25mW2FpZF0uc2VhcmNoZXNbc3RhdGVdCiAgICBpZiAoZGF0YS5saXN0Lmxlbmd0aCkgewogICAgICBpZiAoIShkYXRhLmxpc3RbMF0gaW5zdGFuY2VvZiBTYXZlZFNlYXJjaCkpCiAgICAgICAgZGF0YS5saXN0ID0gcGxhaW5Ub0NsYXNzKFNhdmVkU2VhcmNoLCBkYXRhLmxpc3QpCiAgICB9CiAgICByZXR1cm4gZGF0YQogIH0KCiAgc2F2ZVNlYXJjaChpdGVtOiBTYXZlZFNlYXJjaCkgewogICAgbGV0IGxpc3QgPSB0aGlzLmdldFNlYXJjaGVzKCkubGlzdAogICAgbGlzdC5wdXNoKGl0ZW0pCiAgICByZXR1cm4gdGhpcy5zYXZlQWxsKGxpc3QpCiAgfQoKICBzYXZlQWxsKGxpc3Q6IFNhdmVkU2VhcmNoW10pIHsKICAgIGxldCBzdGF0ZSA9IGdldFN0YXRlKCkuY3VycmVudC5uYW1lCiAgICBsZXQgeyB1c2VyLCBhaWQgfSA9IGJvb3RlZAogICAgdXNlci5jb25mW2FpZF0uc2VhcmNoZXNbc3RhdGVdLmxpc3QgPSBsaXN0CiAgICB1c2VyLnNhdmVDb25mKCkKICAgIHJldHVybiBsaXN0CiAgfQogIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvL2dyaWQgb24K</text>
+        <text encoding="base64">CiAgZ2V0RGVmYXVsdFN0YXRlUGFyYW1zKHN0YXRlOiBTdGF0ZURlY2xhcmF0aW9uKSB7CiAgICBsZXQgcmV0ID0ge30KICAgIGZvck93bihzdGF0ZS5wYXJhbXMsIChwYXJhbTogUGFyYW1EZWNsYXJhdGlvbiwga2V5KSA9PiB7CiAgICAgIGxldCB7IHZhbHVlLCBhcnJheSB9ID0gcGFyYW0KICAgICAgaWYgKHZhbHVlICYmIGFycmF5ICYmICFBcnJheS5pc0FycmF5KHZhbHVlKSkgdmFsdWUgPSBbdmFsdWVdCiAgICAgIHJldFtrZXldID0gdmFsdWUKICAgIH0pCiAgICByZXR1cm4gcmV0CiAgICAvLyByZXR1cm4gY2xlYW5QYXJhbXMocmV0KQogIH0KCiAgY2hlY2tMb2FkUGFyYW1zVnNEZWZhdWx0cyhwYXJhbXM6IFQsIHN0YXRlOiBTdGF0ZURlY2xhcmF0aW9uKSB7CiAgICBsZXQgZGVmYXVsdHMgPSB0aGlzLmdldERlZmF1bHRTdGF0ZVBhcmFtcyhzdGF0ZSkKICAgIGxldCBjaGFuZ2VkID0gcGlja0J5KHBhcmFtcywgKHZhbCwga2V5KSA9PiB7CiAgICAgIGlmIChrZXkgaW4gZGVmYXVsdHMpIHsKICAgICAgICBsZXQgZGVmYXVsdFZhbCA9IGRlZmF1bHRzW2tleV0KICAgICAgICBpZiAodmFsICYmIEFycmF5LmlzQXJyYXkoZGVmYXVsdFZhbCkgJiYgIUFycmF5LmlzQXJyYXkodmFsKSkgdmFsID0gW3ZhbF0KICAgICAgICBpZiAodmFsICYmICFpc0VxdWFsKHZhbCwgZGVmYXVsdFZhbCkpIHJldHVybiB2YWwKICAgICAgfQogICAgfSkKICAgIGxldCByZXQgPSBzaXplKGNoYW5nZWQpCiAgICBkLmxvZygKICAgICAgJ2NoZWNrTG9hZFBhcmFtc1ZzRGVmYXVsdHMoKSB2YWxpZD0lcyBkZWZhdWx0cz0lTyBjaGFuZ2VkPSVPIGxvYWQ9JU8nLAogICAgICAhcmV0LAogICAgICBkZWZhdWx0cywKICAgICAgY2hhbmdlZCwKICAgICAgcGFyYW1zCiAgICApCiAgICByZXR1cm4gcmV0CiAgfQogIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgcGFyYW1zIHsKICAgIHJldHVybiBnZXRTdGF0ZVBhcmFtczxDb21wYXJlT3ZlcmFsbFBhcmFtcz4oKQogIH0K</text>
+        <text encoding="base64">CiAgdmFsaWRMb2FkKHBhcmFtczogVCkgewogICAgbGV0IHJldCA9IGZhbHNlCiAgICBsZXQgdHJhbnMgPSBnZXRUcmFucygpCiAgICBsZXQgZnJvbSA9IHRyYW5zLmZyb20oKQogICAgbGV0IG9wdHMgPSB0cmFucy5vcHRpb25zKCkKICAgIGxldCBjaGFuZ2VkID0gdHJhbnMucGFyYW1zQ2hhbmdlZCgpCiAgICBsZXQgcSA9IChjaGFuZ2VkLnF1ZXJ5IHx8ICcnKS50cmltKCkKICAgIGxldCBpc1JlbG9hZCA9IG9wdHMucmVsb2FkCiAgICBsZXQgc3QgPSB0cmFucy50YXJnZXRTdGF0ZSgpCiAgICBsZXQgY2hhbmdlQ2FsYyA9IHRoaXMuY2hlY2tMb2FkUGFyYW1zVnNEZWZhdWx0cyhwYXJhbXMsIHN0LnN0YXRlKCkpCiAgICBpZiAoIWNoYW5nZUNhbGMpIHsKICAgICAgaWYgKCghcSAmJiAhaXNSZWxvYWQpIHx8IGZyb20ubmFtZSA9PSAnJykgcmV0ID0gdHJ1ZQogICAgfQogICAgLy8gQ2hlY2sgY2hhbmdlZCwgbWF5YmUgaXQncyBhbHdheXMgc2V0IG9uIGluaXQgbG9hZCBpZiB0aGluZ3MKICAgIC8vIGFyZSBkaWZmIGZyb20gZGVmYXVsdHMKICAgIGQubG9nKAogICAgICAndmFsaWRMb2FkKCkgJXMgdHJhbnMucXVlcnk9JXMgdHJhbnMucmVsb2FkPSVzIG9wdHM9JU8gY2hhbmdlZD0lTycsCiAgICAgIHJldCwKICAgICAgcSwKICAgICAgaXNSZWxvYWQsCiAgICAgIG9wdHMsCiAgICAgIGNoYW5nZWQKICAgICkKICAgIHJldHVybiByZXQKICB9CgogIGNoYW5nZWRRdWVyeSgpIHsKICAgIHJldHVybiAoZ2V0VHJhbnMoKS5wYXJhbXNDaGFuZ2VkKCkucXVlcnkgfHwgJycpLnRyaW0oKQogIH0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QGltcG9ydCAiY29tcG9uZW50cy9zYXZlZC1zZWFyY2hlcy9zYXZlZC1zZWFyY2hlcyIK</text>
+        <text encoding="base64">CiAgc2V0TGFzdChuYW1lOiBzdHJpbmcsIHNlYXJjaFBhcmFtczogYW55KSB7CiAgICBpZiAoIWFwcC51c2VyLmVuYWJsZV9sYXN0X3NlYXJjaCkgcmV0dXJuCiAgICBsZXQgcGFyYW1zID0geyAuLi4oc2VhcmNoUGFyYW1zIHx8IHt9KSB9CiAgICBwYXJhbXMgPSB7IC4uLnBhcmFtcyB9CiAgICBwYXJhbXMgPSBwaWNrKHBhcmFtcywgWydxdWVyeScsICdmaWx0ZXJzJywgJ3N0YXJ0JywgJ2VuZCddKQogICAgaWYgKCdmaWx0ZXJzJyBpbiBwYXJhbXMpIHsKICAgICAgcGFyYW1zLmZpbHRlcnMgPSBwYXJhbXMuZmlsdGVycyB8fCB7fQogICAgICBwYXJhbXMuZmlsdGVycyA9IHBpY2socGFyYW1zLCBbJ2NyZWF0ZV90aW1lJywgJ2NyZWF0ZWRfYXQnLCAndXBkYXRlZF9hdCddKQogICAgfQoKICAgIGxldCB7IGxpc3QsIGxhc3QgfSA9IHRoaXMuZ2V0U2VhcmNoZXMobmFtZSkKICAgIGlmICghbGlzdC5maW5kKHMgPT4gcy5kZWZhdWx0KSkgewogICAgICBsZXQgeyB1c2VyLCBhaWQgfSA9IGJvb3RlZAogICAgICBwYXJhbXMgPSBvbWl0QnkocGFyYW1zLCB2ID0+IHYgPT0gbnVsbCkKICAgICAgaWYgKGxhc3QgJiYgaXNFcXVhbChjbGVhblBhcmFtcyhwYXJhbXMpLCBjbGVhblBhcmFtcyhsYXN0KSkpIHJldHVybgogICAgICB1c2VyLmNvbmZbYWlkXS5zZWFyY2hlc1tuYW1lXS5sYXN0ID0gcGFyYW1zCiAgICAgIHVzZXIuc2F2ZUNvbmYoKQogICAgfQogIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlYWRvbmx5IHNhdmVkOiBTYXZlZFNlYXJjaGVzPEFycm93bHl0aWNzUGFyYW1zPgo=</text>
+        <text encoding="base64">ICAgIGxldCB1c2VkTGFzdCA9IGZhbHNlCiAgICBpZiAodGhpcy52YWxpZExvYWQocGFyYW1zKSkgewogICAgICBsZXQgcSA9IHRoaXMuY2hhbmdlZFF1ZXJ5KCkKICAgICAgbGV0IHsgbGlzdCwgbGFzdCB9ID0gdGhpcy5nZXRTZWFyY2hlcygpCiAgICAgIGlmICghYXBwLnVzZXIuZW5hYmxlX2xhc3Rfc2VhcmNoKSBsYXN0ID0gbnVsbAogICAgICBsZXQgaXRlbSA9IGxpc3QuZmluZChzID0+IHMuZGVmYXVsdCkKICAgICAgbGV0IGRlZmF1bHRQYXJhbXMgPSBpdGVtICYmIChpdGVtLnBhcmFtcyBhcyBUKQoKICAgICAgaWYgKHEgJiYgZGVmYXVsdFBhcmFtcyAmJiBxID09IChkZWZhdWx0UGFyYW1zLnF1ZXJ5IHx8ICcnKS50cmltKCkpIHsKICAgICAgICBwYXJhbXMgPSBkZWZhdWx0UGFyYW1zCiAgICAgICAgYWN0aXZlID0gdHJ1ZQogICAgICB9IGVsc2UgaWYgKCFxICYmIGRlZmF1bHRQYXJhbXMpIHsKICAgICAgICBwYXJhbXMgPSBkZWZhdWx0UGFyYW1zCiAgICAgICAgYWN0aXZlID0gdHJ1ZQogICAgICB9IGVsc2UgaWYgKAogICAgICAgIGxhc3QgJiYKICAgICAgICAhKHBhcmFtcy5xdWVyeSAmJiBsYXN0LnF1ZXJ5ICYmIHBhcmFtcy5xdWVyeSAhPSBsYXN0LnF1ZXJ5KQogICAgICApIHsKICAgICAgICBsZXQgdHJhbnMgPSBnZXRUcmFucygpCiAgICAgICAgLy8gQHRzLWlnbm9yZQogICAgICAgIGxldCBwYXJhbXNEZWYgPSB0cmFucy50YXJnZXRTdGF0ZSgpLl9kZWZpbml0aW9uLnBhcmFtcwogICAgICAgIGxldCByZXF1aXJlZEFuZENoYW5nZWQgPSBwaWNrQnkocGFyYW1zRGVmLCBwYXJhbSA9PiB7CiAgICAgICAgICBsZXQga2V5ID0gcGFyYW0uaWQKICAgICAgICAgIHJldHVybiAhcGFyYW0uaXNPcHRpb25hbCAmJiBwYXJhbXNba2V5XSAhPT0gbGFzdFtrZXldCiAgICAgICAgfSkKCiAgICAgICAgaWYgKCFzaXplKHJlcXVpcmVkQW5kQ2hhbmdlZCkpIHsKICAgICAgICAgIHBhcmFtcyA9IGxhc3QKICAgICAgICAgIHVzZWRMYXN0ID0gdHJ1ZQogICAgICAgIH0KICAgICAgfQogICAgfQogICAgZC5sb2coJ29uTG9hZCgpIHBhcmFtcz0lTyBhY3RpdmU9JXMgdXNlZExhc3Q9JXMnLCBwYXJhbXMsIGFjdGl2ZSwgdXNlZExhc3QpCiAgICByZXR1cm4gW3BhcmFtcywgYWN0aXZlXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvL2dyaWQgb24K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvL2dyaWQgb2ZmCg==</text>
+        <text encoding="base64">ICAgICB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgcGFyYW1zIHsKICAgIHJldHVybiBnZXRTdGF0ZVBhcmFtczxQaXZvdFBhcnM+KCkKICB9Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc3RhcnQgPSBzdGFydAogICAgdGhpcy5lbmQgPSBlbmQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgcGFyYW1zIHsKICAgIHJldHVybiBnZXRTdGF0ZVBhcmFtczxQaXZvdFBhcnM+KCkKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s//params</text>
+        <text>%s//LocRepcardParams</text>
       </register>
       <register name="-" type="4">
-        <text>StateParams</text>
+        <text>optionalStateParams(trans.params())</text>
       </register>
       <register name="/" type="4">
-        <text>getParams()</text>
+        <text>asdf</text>
       </register>
     </registers>
     <search>
-      <last-search>getParams()</last-search>
+      <last-search>asdf</last-search>
       <last-offset />
-      <last-pattern>getParams()</last-pattern>
-      <last-replace>params</last-replace>
-      <last-substitute>getParams()</last-substitute>
+      <last-pattern>asdf</last-pattern>
+      <last-replace>LocRepcardParams</last-replace>
+      <last-substitute>RepcardParams</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -354,11 +440,12 @@
         <entry>Survey -</entry>
         <entry>survey</entry>
         <entry>Survey</entry>
-        <entry>asdf</entry>
         <entry encoding="base64">XDwoXD4=</entry>
         <entry>app.</entry>
         <entry>booted.</entry>
         <entry>getParams()</entry>
+        <entry>RepcardParams</entry>
+        <entry>asdf</entry>
       </history-search>
       <history-cmd>
         <entry>%s//BoostParams</entry>
@@ -382,6 +469,7 @@
         <entry>%s//booted.</entry>
         <entry>%s//app.</entry>
         <entry>%s//params</entry>
+        <entry>%s//LocRepcardParams</entry>
       </history-cmd>
       <history-expr />
       <history-input />
