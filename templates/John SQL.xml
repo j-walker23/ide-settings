@@ -1,8 +1,9 @@
 <templateSet group="John SQL">
-  <template name="se" value="select $col$ &#10;from $table$ $alias$ &#10;where $END$;" description="better sel" toReformat="true" toShortenFQNames="false">
+  <template name="se" value="select $col$ &#10;from $table$ $alias$ &#10;where $where$&#10;;" description="better sel" toReformat="true" toShortenFQNames="false">
     <variable name="table" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <variable name="col" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="alias" expression="regularExpression(table, &quot;(.).*&quot;, &quot;$1&quot;)" defaultValue="" alwaysStopAt="false" />
+    <variable name="where" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="SQL_STATEMENT" value="true" />
     </context>

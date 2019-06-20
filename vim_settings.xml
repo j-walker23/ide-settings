@@ -76,12 +76,12 @@
         <mark key="^" line="161" column="4" />
         <mark key="." line="161" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1560509971032">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1561053837917">
         <mark key="'" line="574" column="65" />
-        <mark key="[" line="606" column="12" />
-        <mark key="]" line="607" column="17" />
-        <mark key="." line="607" column="17" />
-        <mark key="^" line="607" column="17" />
+        <mark key="[" line="610" column="33" />
+        <mark key="]" line="610" column="47" />
+        <mark key="." line="610" column="47" />
+        <mark key="^" line="610" column="47" />
       </file>
       <file name="/code/sc/web/sc/sql/message/__init__.py" timestamp="1560529814147">
         <mark key="[" line="45" column="44" />
@@ -193,6 +193,7 @@
         <mark key="." line="63" column="25" />
         <mark key="^" line="63" column="25" />
       </file>
+      <file name="/code/sc/web/sc/app/reports/reportcard/build.py" timestamp="1561053687414" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fb25e990-8cf1-4b0f-afa4-704a731bd0fb/console.sql" timestamp="1560468149879">
         <mark key="[" line="15" column="3" />
         <mark key="]" line="15" column="20" />
@@ -577,7 +578,7 @@
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>, 'survey_agg_locs'</text>
+        <text>count(*)</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
