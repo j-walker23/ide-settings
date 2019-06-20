@@ -186,12 +186,17 @@
         <mark key="." line="50" column="28" />
         <mark key="^" line="50" column="28" />
       </file>
-      <file name="/code/sc/web/sc/app/reportcards/providers.py" timestamp="1561052205250">
+      <file name="/code/sc/web/sc/app/reportcards/providers.py" timestamp="1561059477048">
         <mark key="'" line="165" column="13" />
         <mark key="[" line="63" column="24" />
         <mark key="]" line="63" column="25" />
         <mark key="." line="63" column="25" />
         <mark key="^" line="63" column="25" />
+      </file>
+      <file name="/code/sc/web/static/web/views/reportcard/list/google-listing-breakdown/google-listing-breakdown.html" timestamp="1561059490337">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="74" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="/code/sc/web/sc/app/reports/reportcard/build.py" timestamp="1561053687414" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fb25e990-8cf1-4b0f-afa4-704a731bd0fb/console.sql" timestamp="1560468149879">
@@ -546,33 +551,31 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">IyBub2luc3BlY3Rpb24gUHlTaGFkb3dpbmdCdWlsdGlucwo=</text>
+        <text encoding="base64">ICAgICAgPGRpdiBmbGV4IGNsYXNzPSJ0ZXh0LWNlbnRlciBtZC1ib2R5LTIgdS1vdmVyLWhpZGRlbiI+QWxsIFRpbWU8L2Rpdj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBUYWJsZShbCiAgICAgIFtdLAogICAgXSwgWycqJ10sIHN0eWxlPXNoZWV0LmJhcl9oZWFkZXJfdHMsIHNwYWNlQWZ0ZXI9MTYpLAo=</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0idGV4dC1jZW50ZXIiIGZsZXg+e3sgbGlzdGluZy5hbGxfdGltZV9hdmVyYWdlX3JhdGluZyB8IG51bWJlcjogMiB9fSAoe3sgbGlzdGluZy5hbGxfdGltZV92b2x1bWUgIH19KTwvZGl2Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmdWNrJywgcmF0aW5nKQo=</text>
+        <text encoding="base64">IyBub2luc3BlY3Rpb24gUHlTaGFkb3dpbmdCdWlsdGlucwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLmZvcmNlKSB7CiAgICAgIHRoaXMuc29ydCA9IHRydWUKICAgICAgLy8gc2V0SW50ZXJ2YWwoKCkgPT4gewogICAgICAvLyAgIHRoaXMuc29ydCA9IHRydWUKICAgICAgLy8gICB0aGlzLiRyb290U2NvcGUuJGRpZ2VzdCgpCiAgICAgIC8vIH0sIDUwMCkKICAgIH0K</text>
+        <text encoding="base64">CiAgICBUYWJsZShbCiAgICAgIFtdLAogICAgXSwgWycqJ10sIHN0eWxlPXNoZWV0LmJhcl9oZWFkZXJfdHMsIHNwYWNlQWZ0ZXI9MTYpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAkcm9vdFNjb3BlOiBhbnkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmdWNrJywgcmF0aW5nKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLmZvcmNlKSB7CiAgICAgIHRoaXMuc29ydCA9IHRydWUKICAgICAgLy8gc2V0SW50ZXJ2YWwoKCkgPT4gewogICAgICAvLyAgIHRoaXMuc29ydCA9IHRydWUKICAgICAgLy8gICB0aGlzLiRyb290U2NvcGUuJGRpZ2VzdCgpCiAgICAgIC8vIH0sIDUwMCkKICAgIH0K</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgZ2V0IHN1cnZleV9zdHlsZSgpIHsKICAgIGxldCByZXQgPSB0aGlzLmludml0ZS5jYW1wLnN1cnZleV9zdHlsZQogICAgY29uc29sZS5sb2cocmV0KQogICAgcmV0dXJuIHJldAogIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAkcm9vdFNjb3BlOiBhbnkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVzdGlvbj0iJGN0cmwuZmFrZVF1ZXN0aW9uIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>{
-      $event: { q },
-    }</text>
+        <text encoding="base64">CiAgZ2V0IHN1cnZleV9zdHlsZSgpIHsKICAgIGxldCByZXQgPSB0aGlzLmludml0ZS5jYW1wLnN1cnZleV9zdHlsZQogICAgY29uc29sZS5sb2cocmV0KQogICAgcmV0dXJuIHJldAogIH0=</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
