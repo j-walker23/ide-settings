@@ -167,11 +167,12 @@
         <mark key="^" line="187" column="22" />
         <mark key="." line="187" column="22" />
       </file>
-      <file name="/code/sc/web/sc/app/loc_reportcards/locs.py" timestamp="1560495906462">
-        <mark key="[" line="157" column="46" />
-        <mark key="]" line="157" column="49" />
-        <mark key="^" line="157" column="49" />
-        <mark key="." line="157" column="49" />
+      <file name="/code/sc/web/sc/app/loc_reportcards/locs.py" timestamp="1561052462047">
+        <mark key="'" line="158" column="0" />
+        <mark key="[" line="49" column="52" />
+        <mark key="]" line="49" column="51" />
+        <mark key="^" line="49" column="51" />
+        <mark key="." line="49" column="51" />
       </file>
       <file name="/code/sc/web/static/web/components/chips/autos/message-auto.ts" timestamp="1560461461001">
         <mark key="[" line="56" column="0" />
@@ -185,12 +186,12 @@
         <mark key="." line="50" column="28" />
         <mark key="^" line="50" column="28" />
       </file>
-      <file name="/code/sc/web/sc/app/reportcards/providers.py" timestamp="1561029018570">
+      <file name="/code/sc/web/sc/app/reportcards/providers.py" timestamp="1561052205250">
         <mark key="'" line="165" column="13" />
-        <mark key="[" line="182" column="46" />
-        <mark key="]" line="182" column="55" />
-        <mark key="." line="182" column="55" />
-        <mark key="^" line="182" column="55" />
+        <mark key="[" line="63" column="24" />
+        <mark key="]" line="63" column="25" />
+        <mark key="." line="63" column="25" />
+        <mark key="^" line="63" column="25" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fb25e990-8cf1-4b0f-afa4-704a731bd0fb/console.sql" timestamp="1560468149879">
         <mark key="[" line="15" column="3" />
@@ -235,11 +236,18 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
+      <file name="/code/sc/web/sc/core/interfaces.py" timestamp="1561053063619" />
       <file name="/code/sc/web/static/common/search/search.ints.ts" timestamp="1560512195544">
         <mark key="[" line="29" column="6" />
         <mark key="]" line="29" column="6" />
         <mark key="." line="29" column="6" />
         <mark key="^" line="43" column="86" />
+      </file>
+      <file name="/code/sc/web/sc/app/reports/firstpage.py" timestamp="1561053087586">
+        <mark key="[" line="42" column="43" />
+        <mark key="]" line="42" column="43" />
+        <mark key="^" line="42" column="43" />
+        <mark key="." line="42" column="43" />
       </file>
       <file name="/code/sc/web/static/web/views/survey-summary/question-compare/question-compare.html" timestamp="1560487044434">
         <mark key="[" line="6" column="9" />
@@ -276,6 +284,7 @@
         <mark key="." line="82" column="0" />
         <mark key="^" line="74" column="14" />
       </file>
+      <file name="/code/sc/web/sc/app/reportcards/args.py" timestamp="1561052172962" />
       <file name="/code/sc/web/static/web/views/survey-summary/survey-summary.ts" timestamp="1560520082478">
         <mark key="[" line="38" column="25" />
         <mark key="]" line="38" column="31" />
@@ -433,7 +442,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="479" column="7" filename="/code/sc/web/cli/ones.py" />
       <jump line="482" column="0" filename="/code/sc/web/cli/ones.py" />
       <jump line="44" column="15" filename="/code/sc/web/instance/local/develop_settings.py" />
       <jump line="67" column="10" filename="/code/sc/web/static/web/views/reportcard/search/reportcard-search.ts" />
@@ -533,6 +541,7 @@
       <jump line="165" column="13" filename="/code/sc/web/sc/app/reportcards/providers.py" />
       <jump line="47" column="0" filename="/code/sc/web/sc/app/loc_reportcards/surveys.py" />
       <jump line="305" column="6" filename="/code/sc/web/sc/app/integs/bulk/incoming.py" />
+      <jump line="158" column="0" filename="/code/sc/web/sc/app/loc_reportcards/locs.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -565,10 +574,10 @@
     }</text>
       </register>
       <register name=":" type="4">
-        <text>%s//LocRepcardParams</text>
+        <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">fCBhbnkg</text>
+        <text>, 'survey_agg_locs'</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -622,11 +631,11 @@
         <entry>%s//ismulti</entry>
         <entry>%s//Provider</entry>
         <entry>%s//to_stripped</entry>
-        <entry>action VimWindowSplitVertical</entry>
         <entry>%s//booted.</entry>
         <entry>%s//app.</entry>
         <entry>%s//params</entry>
         <entry>%s//LocRepcardParams</entry>
+        <entry>action VimWindowSplitVertical</entry>
       </history-cmd>
       <history-expr />
       <history-input />
