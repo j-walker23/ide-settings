@@ -6,6 +6,13 @@
       <file name="/code/sc/web/static/web/views/settings/locations/details/location-details.html" timestamp="1561064200981">
         <mark key="'" line="289" column="0" />
       </file>
+      <file name="/code/sc/web/static/web/views/arrowlytics/arrowlytics.html" timestamp="1561131941267">
+        <mark key="'" line="371" column="9" />
+        <mark key="[" line="52" column="24" />
+        <mark key="]" line="52" column="7" />
+        <mark key="^" line="52" column="7" />
+        <mark key="." line="52" column="7" />
+      </file>
       <file name="/code/sc/web/static/web/views/survey-summary/survey-summary.html" timestamp="1561063003533">
         <mark key="[" line="25" column="58" />
         <mark key="]" line="25" column="71" />
@@ -28,12 +35,21 @@
         <mark key="." line="118" column="28" />
         <mark key="^" line="118" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1561053837917">
-        <mark key="'" line="574" column="65" />
-        <mark key="[" line="610" column="33" />
-        <mark key="]" line="610" column="47" />
-        <mark key="." line="610" column="47" />
-        <mark key="^" line="610" column="47" />
+      <file name="/code/sc/web/sc/app/surveys/question/compare_agg.py" timestamp="1561133378474">
+        <mark key="[" line="33" column="42" />
+        <mark key="]" line="34" column="26" />
+        <mark key="^" line="34" column="26" />
+        <mark key="." line="34" column="26" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1561134088542">
+        <mark key="'" line="625" column="42" />
+        <mark key="[" line="624" column="0" />
+        <mark key="]" line="686" column="16" />
+        <mark key="." line="686" column="16" />
+        <mark key="^" line="686" column="16" />
+      </file>
+      <file name="/code/sc/web/static/web/views/arrowlytics/arrowlytics.ts" timestamp="1561131977303">
+        <mark key="'" line="48" column="13" />
       </file>
       <file name="/code/sc/web/sc/app/reportcards/args.py" timestamp="1561119697844">
         <mark key="'" line="142" column="6" />
@@ -55,11 +71,23 @@
       <file name="/code/sc/web/static/web/components/virt-list/mess-virt-list.ts" timestamp="1561064226273">
         <mark key="'" line="103" column="0" />
       </file>
+      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1561133794120">
+        <mark key="'" line="58" column="0" />
+      </file>
       <file name="/code/sc/web/static/web/components/chips/autos/survey-auto.ts" timestamp="1561065946992">
         <mark key="[" line="14" column="44" />
         <mark key="]" line="15" column="33" />
         <mark key="." line="15" column="33" />
         <mark key="^" line="15" column="33" />
+      </file>
+      <file name="/code/sc/web/sc/app/arrowlytics/restful.py" timestamp="1561132888651">
+        <mark key="[" line="222" column="13" />
+        <mark key="]" line="222" column="13" />
+        <mark key="^" line="222" column="17" />
+        <mark key="." line="222" column="13" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1561133952366">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/code/sc/web/sc/app/loc_reportcards/locs.py" timestamp="1561052462047">
         <mark key="'" line="158" column="0" />
@@ -95,6 +123,13 @@
       </file>
       <file name="/code/sc/web/static/web/views/reviews/add/add-reviews.html" timestamp="1561065185158">
         <mark key="'" line="153" column="11" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" timestamp="1561133146838">
+        <mark key="'" line="63" column="7" />
+        <mark key="[" line="95" column="7" />
+        <mark key="]" line="95" column="7" />
+        <mark key="^" line="114" column="3" />
+        <mark key="." line="89" column="6" />
       </file>
       <file name="/code/sc/web/static/web/views/reviews/add/add-reviews.ts" timestamp="1561064834890">
         <mark key="'" line="26" column="10" />
@@ -134,16 +169,14 @@
         <mark key="^" line="64" column="24" />
         <mark key="." line="67" column="0" />
       </file>
+      <file name="/code/sc/web/instance/env.txt" timestamp="1561133799619">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="1" filename="/code/sc/web/static/web/views/settings/locations/split/tile/loc-split.ts" />
-      <jump line="14" column="6" filename="/code/sc/web/static/web/views/settings/locations/split/tile/loc-split.ts" />
-      <jump line="41" column="0" filename="/code/sc/web/static/web/views/settings/locations/split/location-splitting.ts" />
-      <jump line="178" column="28" filename="/code/sc/web/static/web/views/settings/locations/details/location-details.html" />
-      <jump line="239" column="21" filename="/code/sc/web/static/common/styles/shared.sass" />
-      <jump line="556" column="2" filename="/code/sc/web/static/common/styles/shared.sass" />
-      <jump line="101" column="2" filename="/code/sc/web/static/web/views/settings/locations/locations.ts" />
-      <jump line="206" column="6" filename="/code/sc/web/static/web/web.ts" />
       <jump line="167" column="0" filename="/code/sc/web/static/common/components/saved-searches/saved-searches.service.ts" />
       <jump line="161" column="0" filename="/code/sc/web/static/common/components/saved-searches/saved-searches.service.ts" />
       <jump line="44" column="0" filename="/code/sc/web/static/common/components/saved-searches/saved-searches.service.ts" />
@@ -236,40 +269,48 @@
       <jump line="61" column="0" filename="/code/sc/web/sc/app/surveys/args.py" />
       <jump line="144" column="6" filename="/code/sc/web/sc/app/surveys/args.py" />
       <jump line="192" column="42" filename="/code/sc/web/sc/app/surveys/args.py" />
+      <jump line="600" column="45" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
+      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
+      <jump line="31" column="26" filename="/code/sc/web/instance/local/develop_settings.py" />
+      <jump line="373" column="9" filename="/code/sc/web/static/web/views/arrowlytics/arrowlytics.html" />
+      <jump line="48" column="13" filename="/code/sc/web/static/web/views/arrowlytics/arrowlytics.ts" />
+      <jump line="63" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
+      <jump line="58" column="0" filename="/code/sc/web/instance/local/develop_settings.py" />
+      <jump line="625" column="42" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGJhc2UgPSAnJwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">aW5zZXJ0IGludG8gbXlfc3RhZmZfc2l6ZSAoeWVhciwgcTEsIHEyLCBxMywgcTQpCnZhbHVlcyAoMTk5MSwgMSwgMiwgMywgNCksCiAgICAgICAoMTk5MiwgNSwgNiwgNywgOCksCiAgICAgICAoMTk5MywgOSwgMTAsIDExLCAxMikKOwoKCmluc2VydAppbnRvIG15X3RlbXBvcmFyeV90YWJsZSAoaWQsIHZhbHVlXzEsIHZhbHVlXzIsIHZhbHVlXzMsIHZhbHVlXzQpCnZhbHVlcyAoMjYsIDQyICsgMSwgNDIgKyAyLCAxMjM0NSwgNjc4OTApCjsKCgppbnNlcnQKaW50byBteV93aWRlX3RhYmxlCnZhbHVlcyAoZ2V0X2xhc3RfaWQoKSwKICAgICAgICBjb21wbGV4X2V4cHJlc3Npb25fMSArIGNvbXBsZXhfZXhwcmVzc2lvbl8yLAogICAgICAgIGxvbmdfZXhwcmVzc2lvbl8xICogbG9uZ19leHByZXNzaW9uXzIgLSBsb25nX2V4cHJlc3Npb25fMykKOwoKCnVwZGF0ZSBteV9zdGFmZl9zaXplCnNldCBpZCAgICAgICAgICAgICAgPSBpZCArIDEKICAsCiAgICBuYW1lICAgICAgICAgICAgPSAnYSBuYW1lJwogICwKICAgIG5vdGUgICAgICAgICAgICA9ICdhbmQgYSBub3RlJwogICwKICAgIGFkZGl0aW9uYWxfbm90ZSA9ICdQcm9jZXNzZWQuJwogICwKICAgIHN0YXR1cyAgICAgICAgICA9IC0xCjsKCgpzZWxlY3QgbWF4KHE0KQpmcm9tIG15X3N0YWZmX3NpemUKOwoKCnNlbGVjdCBpZCAgLS0gYW4gYWJzdHJhY3QgaWRlbnRpZmllciBzdGFydGluZyBmcm9tIDEKICAgICAsCiAgICBhbGlhcyAgLS0gb3B0aW9uYWwgYWxpYXMsIG51bGxhYmxlCiAgICAgLAogICAgbmFtZSAgIC0tIHRoZSBuYW1lCiAgICAgLAogICAgbmFtZV8yIC0tIGFkZGl0aW9uYWwgbmFtZSBpZiBleGlzdHMKICAgICAsCiAgICBub3RlICAgLS0gbXVsdGktbGluZSB0ZXh0CiAgICAgLAogICAgdG1zICAgIC0tIHRpbWVzdGFtcCAodGhlIGxvbmcgdmFsdWUgZnJvbSBqYXZhJ3MgRGF0ZSkKZnJvbSBteV90YWJsZQo7CgoKc2VsZWN0IGQuZGVwX2lkCiAgICAgLCBwLnBlcl9pZAogICAgICwKICAgIGNvdW50KCopICAgICAgICAgYXMgcGVyX2NudAogICAgICwgbWF4KG0uYWN0dWFsKSBhcyBoYXNfYWN0dWFsX3RlbXBsYXRlCmZyb20gZGVwYXJ0bWVudCBkCiAgICAgam9pbiBtYW5hZ2VyIG0gb24gZC5kZXBfaWQgPSBtLmRlcF9pZAogICAgIGxlZnQgam9pbiBwZXJzb24gcCBvbiBtLnBlcl9pZCA9IHAucGVyX2lkLAogICAgIG1lc3NhZ2UgbQogICAgIGxlZnQgb3V0ZXIgam9pbiBtYXJrIG1rIG9uIG0uaWQgPSBtay5tc2dfaWQKICAgICBsZWZ0IGpvaW4gdGVtcGxhdGUgdHAgb24gbS50ZW1wbGF0ZV9pZCA9IHRwLmlkCndoZXJlIGQuZGVwX2lkID0gbS5kZXBfMQpncm91cCBieSBkLmRlcF9pZCwgcC5wZXJfaWQKaGF2aW5nIGNvdW50KCopID49IDIKb3JkZXIgYnkgcGVyX2NudCBkZXNjCjsKCgpzZWxlY3QgQS4qCmZyb20gU21hbGxfVGFibGVfMSBBCm5hdHVyYWwgam9pbiBTbWFsbF9UYWJsZV8yIEIKbmF0dXJhbCBqb2luIFNtYWxsX1RhYmxlXzMgQwpqb2luIE1lZGl1bV9UYWJsZV80IEQgdXNpbmcgKElkKQpsZWZ0IG91dGVyIGpvaW4gTWVkaXVtX1RhYmxlXzUgRSBvbiBELlggPSBFLlgKbGVmdCBvdXRlciBqb2luIE1lZGl1bV9UYWJsZV82IEYgb24gRS5ZID0gRi5ZCmlubmVyIGpvaW4gTWVkaXVtX1RhYmxlXzcgRyBvbiBGLlogPSBHLloKOwoKCnNlbGVjdCBBLiosIEQuKiwgSC4qCmZyb20gU21hbGxfVGFibGVfMSBBCiAgICAgbmF0dXJhbCBqb2luIFNtYWxsX1RhYmxlXzIgQgogICAgIG5hdHVyYWwgam9pbiBTbWFsbF9UYWJsZV8zIEMsCiAgICAgTWVkaXVtX1RhYmxlXzQgRAogICAgIGxlZnQgb3V0ZXIgam9pbiBNZWRpdW1fVGFibGVfNSBFIHVzaW5nIChYKQogICAgIGxlZnQgb3V0ZXIgam9pbiBNZWRpdW1fVGFibGVfNiBGIHVzaW5nIChZKQogICAgIGlubmVyIGpvaW4gTWVkaXVtX1RhYmxlXzcgRyB1c2luZyAoWiksCiAgICAgQmlnX1RhYmxlXzggSAogICAgIGNyb3NzIGpvaW4gKHNlbGVjdCA0MiBmcm9tIGR1YWwpIFowCiAgICAgam9pbiBhbm90aGVyX3RhYmxlIHVzaW5nIChmaXJzdF9jb21tb25fY29sdW1uLCBzZWNvbmRfY29tbW9uX2NvbHVtbikKOwoKCmRlbGV0ZQpmcm9tIG1lc3NhZ2UKd2hlcmUgZGVwX2lkIG5vdCBpbiAoc2VsZWN0IGRlcF9pZCBmcm9tIGRlcGFydG1lbnQgd2hlcmUgYWN0dWFsIGlzIG5vdCBudWxsKQo7CgpzZWxlY3QgcGxhdGZvcm1zLmlkICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcyBzaWQKICAgICAsCiAgICBxdWVzdGlvbnNfcGxhdGZvcm1zLnBvcwogICAgICwKICAgIHF1ZXN0aW9ucy5pZCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXMgcWlkCiAgICAgLAogICAgc3VydmV5X3F1ZXN0aW9uX2Nob2ljZXMucG9zICAgICAgICAgICAgICAgICAgICAgICBhcyBjb3MKICAgICAsCiAgICBzdXJ2ZXlfcXVlc3Rpb25fY2hvaWNlcy5jaG9pY2VfaWQgICAgICAgICAgICAgICAgIGFzIGlkCiAgICAgLAogICAgbG9jYXRpb25zLmlkICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcyBjaWQKICAgICAsCiAgICBwbGF0Zm9ybXMubmFtZSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFzIHN1cnZleQogICAgICwKICAgIHF1ZXN0aW9ucy50eXBlCiAgICAgLAogICAgcXVlc3Rpb25zLnRleHQKICAgICAsCiAgICBjb3VudChzdXJ2ZXlfYW5zd2VyX2Nob2ljZXMuY2hvaWNlX2lkKSAgICAgICAgICAgIGFzIGNvdW50CiAgICAgLAogICAgY291bnQoKikgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcyB0b3RhbAogICAgICwKICAgIGNvdW50KHN1cnZleV9hbnN3ZXJfY2hvaWNlcy5jaG9pY2VfaWQpIC8gY291bnQoKikgYXMgcGVyY2VudAogICAgICwKICAgIGxvY2F0aW9ucy5uYW1lICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXMgbmFtZQogICAgICwKICAgIHF1ZXN0aW9ucy5oYXNfbmEKZnJvbSByZXZpZXdzCmlubmVyIGpvaW4gcGxhdGZvcm1zIG9uIHBsYXRmb3Jtcy5pZCA9IHJldmlld3MucGxhdGZvcm1faWQKaW5uZXIgam9pbiBxdWVzdGlvbnNfYW5zd2VycyBvbiByZXZpZXdzLmlkID0gcXVlc3Rpb25zX2Fuc3dlcnMucmV2aWV3X2lkCmlubmVyIGpvaW4gcXVlc3Rpb25zIG9uIHF1ZXN0aW9ucy5pZCA9IHF1ZXN0aW9uc19hbnN3ZXJzLnF1ZXN0aW9uX2lkCmlubmVyIGpvaW4gc3VydmV5X3F1ZXN0aW9uX2Nob2ljZXMgb24gcXVlc3Rpb25zLmlkID0gc3VydmV5X3F1ZXN0aW9uX2Nob2ljZXMucXVlc3Rpb25faWQKaW5uZXIgam9pbiBxdWVzdGlvbnNfcGxhdGZvcm1zIG9uIHF1ZXN0aW9uc19wbGF0Zm9ybXMucXVlc3Rpb25faWQgPSBxdWVzdGlvbnMuaWQKICAgIGFuZCBxdWVzdGlvbnNfcGxhdGZvcm1zLnBsYXRmb3JtX2lkID0gcGxhdGZvcm1zLmlkCmxlZnQgb3V0ZXIgam9pbiBzdXJ2ZXlfYW5zd2VyX2Nob2ljZXMgb24gc3VydmV5X2Fuc3dlcl9jaG9pY2VzLmFuc3dlcl9pZCA9IHF1ZXN0aW9uc19hbnN3ZXJzLmlkCiAgICBhbmQgc3VydmV5X2Fuc3dlcl9jaG9pY2VzLmNob2ljZV9pZCA9IHN1cnZleV9xdWVzdGlvbl9jaG9pY2VzLmNob2ljZV9pZAppbm5lciBqb2luIGxvY2F0aW9ucyBvbiBsb2NhdGlvbnMuaWQgPSByZXZpZXdzLmxvY2F0aW9uX2lkCndoZXJlIDQwMSA9IHJldmlld3MuYWNjb3VudF9pZAogIGFuZCByZXZpZXdzLm9yaWdpbiA9ICdzdXJ2ZXknCiAgYW5kIHJldmlld3MucGxhdGZvcm1faWQgPSAzOTMzCiAgYW5kIHJldmlld3MuY3JlYXRlX3RpbWUgPj0gJzIwMTktMDQtMDFUMDA6MDA6MDAtMDY6MDAnCiAgYW5kIHJldmlld3MuY3JlYXRlX3RpbWUgPD0gJzIwMTktMDYtMzBUMjM6NTk6NTktMDY6MDAnCiAgYW5kIHJldmlld3MuZGVsZXRlZF9hdCBpcyBudWxsCiAgYW5kIHF1ZXN0aW9uc19hbnN3ZXJzLmtpbmQgaW4gKCdZZXNObycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdTdGFycycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdTaW5nbGVTZWxlY3QnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnTXVsdGlTZWxlY3QnKQogIGFuZCBxdWVzdGlvbnMuaWQgPSAnMTE4NCcKICBhbmQgcGxhdGZvcm1zLmRlbGV0ZWRfYXQgaXMgbnVsbAogIGFuZCBxdWVzdGlvbnMuZGVsZXRlZF9hdCBpcyBudWxsCiAgYW5kIGxvY2F0aW9ucy5kZWxldGVkX2F0IGlzIG51bGwKZ3JvdXAgYnkgcGxhdGZvcm1zLmlkCiAgICAgICAsCiAgICBxdWVzdGlvbnNfcGxhdGZvcm1zLnBvcwogICAgICAgLAogICAgcXVlc3Rpb25zLmlkCiAgICAgICAsCiAgICBzdXJ2ZXlfcXVlc3Rpb25fY2hvaWNlcy5wb3MKICAgICAgICwKICAgIHN1cnZleV9xdWVzdGlvbl9jaG9pY2VzLmNob2ljZV9pZAogICAgICAgLAogICAgbG9jYXRpb25zLmlkCjs=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLAogICAgICAgICAgIGhqX2FwcG9pbnRtZW50cy5jbGluaWNpYW4gICAgYXMgY2xpbmljaWFuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIHNlbGYudHlwZToKICAgICAgYmFzZSArPSBmJy0te3NlbGYudHlwZX0nCg==</text>
+        <text encoding="base64">d2hlcmUgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIGJhc2UgPSAnJwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgQHByb3BlcnR5CiAgZGVmIHJlcG9ydF90eXBlKHNlbGYpIC0+ICdSZXBvcnRUeXBlJzoKICAgIHBhc3M=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgQHByb3BlcnR5CiAgZGVmIHJlcG9ydF9rd3Moc2VsZikgLT4gRGljdDoKICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIGlmIHNlbGYudHlwZToKICAgICAgYmFzZSArPSBmJy0te3NlbGYudHlwZX0nCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBAcHJvcGVydHkKICBkZWYgcGVyaW9kKHNlbGYpIC0+IHN0cjoKICAgIHBhc3MKCiAgQHByb3BlcnR5CiAgZGVmIGRvY19uYW1lcyhzZWxmKSAtPiBMaXN0W3N0cl06CiAgICBwYXNzCgogIEBwcm9wZXJ0eQogIGRlZiBsb2NfbmFtZXMoc2VsZikgLT4gTGlzdFtzdHJdOgogICAgcGFzcwoKICBAcHJvcGVydHkKICBkZWYgcGxhdF9uYW1lcyhzZWxmKSAtPiBMaXN0W3N0cl06CiAgICBwYXNzCgogIEBwcm9wZXJ0eQogIGRlZiBzdWJzKHNlbGYpIC0+IExpc3Rbc3RyXToKICAgIHBhc3MKCiAgQHByb3BlcnR5CiAgZGVmIGdyb3VwX25hbWVzKHNlbGYpIC0+IExpc3Rbc3RyXToKICAgIHBhc3MKCiAgZGVmIHBkZl9uYW1lKHNlbGYsIHNpZDogc3RyID0gTm9uZSkgLT4gc3RyOgogICAgcGFzcwoKICBAcHJvcGVydHkKICBkZWYgcmVwb3J0X3R5cGUoc2VsZikgLT4gJ1JlcG9ydFR5cGUnOgogICAgcGFzcwoKICBAcHJvcGVydHkKICBkZWYgcmVwb3J0X2t3cyhzZWxmKSAtPiBEaWN0OgogICAgcGFzcwoK</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgQHByb3BlcnR5CiAgZGVmIHJlcG9ydF90eXBlKHNlbGYpIC0+ICdSZXBvcnRUeXBlJzoKICAgIHBhc3M=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgQHByb3BlcnR5CiAgZGVmIHJlcG9ydF9rd3Moc2VsZikgLT4gRGljdDoKICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>prefix</text>
+        <text>local</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
