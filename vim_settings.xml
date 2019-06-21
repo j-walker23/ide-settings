@@ -12,6 +12,9 @@
         <mark key="." line="25" column="71" />
         <mark key="^" line="25" column="71" />
       </file>
+      <file name="/a.dummy" timestamp="1561129099309">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/code/sc/web/static/web/views/insights/search-actions/search-actions.ts" timestamp="1561042592435">
         <mark key="[" line="51" column="17" />
         <mark key="]" line="51" column="17" />
@@ -81,6 +84,12 @@
         <mark key="." line="63" column="25" />
         <mark key="^" line="63" column="25" />
       </file>
+      <file name="/code/sc/web/sc/app/reports/survey/build.py" timestamp="1561128371711">
+        <mark key="[" line="24" column="10" />
+        <mark key="]" line="24" column="16" />
+        <mark key="^" line="24" column="16" />
+        <mark key="." line="24" column="16" />
+      </file>
       <file name="/code/sc/web/sc/mods/web/rest/accounts/reportcard_view.py" timestamp="1561066451148">
         <mark key="'" line="18" column="6" />
       </file>
@@ -118,13 +127,15 @@
         <mark key="^" line="7" column="2" />
         <mark key="." line="7" column="2" />
       </file>
-      <file name="/code/sc/web/sc/app/surveys/args.py" timestamp="1561119569152">
-        <mark key="'" line="172" column="14" />
+      <file name="/code/sc/web/sc/app/surveys/args.py" timestamp="1561129024648">
+        <mark key="'" line="147" column="6" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="^" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/code/sc/web/static/web/views/settings/platforms/setup/specific-listings/specific-listings.ts" />
-      <jump line="159" column="16" filename="/code/sc/web/static/web/views/settings/locations/split/location-splitting.html" />
       <jump line="76" column="0" filename="/code/sc/web/static/web/views/settings/locations/split/location-splitting.ts" />
       <jump line="72" column="1" filename="/code/sc/web/static/web/views/settings/locations/split/tile/loc-split.ts" />
       <jump line="14" column="6" filename="/code/sc/web/static/web/views/settings/locations/split/tile/loc-split.ts" />
@@ -223,22 +234,24 @@
       <jump line="139" column="16" filename="/code/sc/web/sc/app/surveys/args.py" />
       <jump line="210" column="14" filename="/code/sc/web/sc/app/surveys/args.py" />
       <jump line="142" column="6" filename="/code/sc/web/sc/app/reportcards/args.py" />
+      <jump line="61" column="0" filename="/code/sc/web/sc/app/surveys/args.py" />
+      <jump line="144" column="6" filename="/code/sc/web/sc/app/surveys/args.py" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgQHByb3BlcnR5CiAgZGVmIHJlcG9ydF90eXBlKHNlbGYpIC0+ICdSZXBvcnRUeXBlJzoKICAgIHBhc3M=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">CiAgQHByb3BlcnR5CiAgZGVmIHJlcG9ydF9rd3Moc2VsZikgLT4gRGljdDoKICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICBAcHJvcGVydHkKICBkZWYgcGVyaW9kKHNlbGYpIC0+IHN0cjoKICAgIHBhc3MKCiAgQHByb3BlcnR5CiAgZGVmIGRvY19uYW1lcyhzZWxmKSAtPiBMaXN0W3N0cl06CiAgICBwYXNzCgogIEBwcm9wZXJ0eQogIGRlZiBsb2NfbmFtZXMoc2VsZikgLT4gTGlzdFtzdHJdOgogICAgcGFzcwoKICBAcHJvcGVydHkKICBkZWYgcGxhdF9uYW1lcyhzZWxmKSAtPiBMaXN0W3N0cl06CiAgICBwYXNzCgogIEBwcm9wZXJ0eQogIGRlZiBzdWJzKHNlbGYpIC0+IExpc3Rbc3RyXToKICAgIHBhc3MKCiAgQHByb3BlcnR5CiAgZGVmIGdyb3VwX25hbWVzKHNlbGYpIC0+IExpc3Rbc3RyXToKICAgIHBhc3MKCiAgZGVmIHBkZl9uYW1lKHNlbGYsIHNpZDogc3RyID0gTm9uZSkgLT4gc3RyOgogICAgcGFzcwoKICBAcHJvcGVydHkKICBkZWYgcmVwb3J0X3R5cGUoc2VsZikgLT4gJ1JlcG9ydFR5cGUnOgogICAgcGFzcwoKICBAcHJvcGVydHkKICBkZWYgcmVwb3J0X2t3cyhzZWxmKSAtPiBEaWN0OgogICAgcGFzcwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIHBhc3MK</text>
@@ -256,7 +269,7 @@
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>ng-disabled=&quot;true&quot;</text>
+        <text>location.groups</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
