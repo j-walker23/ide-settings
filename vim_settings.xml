@@ -3,20 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/code/sc/web/sc/utils.py" timestamp="1561245594379">
-        <mark key="[" line="463" column="0" />
-        <mark key="]" line="463" column="0" />
-        <mark key="^" line="463" column="0" />
-        <mark key="." line="463" column="0" />
-      </file>
       <file name="/Python Console" timestamp="1561276152914">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/code/sc/web/static/web/views/survey-summary/survey-summary.html" timestamp="1561236972272">
-        <mark key="[" line="45" column="24" />
-        <mark key="]" line="45" column="33" />
-        <mark key="." line="45" column="33" />
-        <mark key="^" line="45" column="33" />
       </file>
       <file name="/a.dummy" timestamp="1561275701813">
         <mark key="[" line="0" column="0" />
@@ -33,12 +21,6 @@
         <mark key="]" line="599" column="14" />
         <mark key="." line="599" column="14" />
         <mark key="^" line="599" column="14" />
-      </file>
-      <file name="/code/sc/web/sc/sql/report/__init__.py" timestamp="1561246254136">
-        <mark key="[" line="22" column="40" />
-        <mark key="]" line="22" column="40" />
-        <mark key="." line="22" column="40" />
-        <mark key="^" line="22" column="40" />
       </file>
       <file name="/code/sc/web/sc/app/surveys/question/types.py" timestamp="1561282620557">
         <mark key="'" line="22" column="0" />
@@ -61,26 +43,14 @@
         <mark key="^" line="34" column="26" />
         <mark key="." line="34" column="26" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1561288774945">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1561290744983">
         <mark key="'" line="1125" column="56" />
-        <mark key="[" line="1158" column="84" />
-        <mark key="]" line="1159" column="20" />
-        <mark key="^" line="1159" column="20" />
-        <mark key="." line="1159" column="20" />
+        <mark key="[" line="1050" column="50" />
+        <mark key="]" line="1050" column="52" />
+        <mark key="." line="1050" column="52" />
+        <mark key="^" line="1050" column="52" />
       </file>
       <file name="/code/sc/web/sc/coms/utils/times.py" timestamp="1561285529806" />
-      <file name="/code/sc/web/static/web/views/survey-summary/survey-summary.ts" timestamp="1561236930542">
-        <mark key="[" line="49" column="27" />
-        <mark key="]" line="49" column="40" />
-        <mark key="." line="49" column="40" />
-        <mark key="^" line="49" column="40" />
-      </file>
-      <file name="/code/sc/web/static/web/http/surveysummary/topbox.resource.ts" timestamp="1561236898605">
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="13" column="26" />
-        <mark key="." line="13" column="26" />
-        <mark key="^" line="13" column="26" />
-      </file>
       <file name="/code/sc/web/sc/app/surveys/summary/question_agg.py" timestamp="1561285839546">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="63" column="0" />
@@ -95,6 +65,7 @@
         <mark key="^" line="11" column="62" />
       </file>
       <file name="/code/sc/web/sc/app/surveys/question/quarter_agg.py" timestamp="1561283364127" />
+      <file name="/code/sc/web/sc/coms/dm/sa.py" timestamp="1561290015595" />
       <file name="/code/sc/web/sc/app/surveys/topbox/types.py" timestamp="1561275570667">
         <mark key="'" line="28" column="0" />
         <mark key="[" line="23" column="12" />
@@ -116,12 +87,6 @@
         <mark key="." line="163" column="0" />
       </file>
       <file name="/code/sc/web/sc/app/arrowlytics/restful.py" timestamp="1561286056518" />
-      <file name="/code/sc/web/static/common/models/surveysummary/topbox.model.ts" timestamp="1561236814148">
-        <mark key="[" line="25" column="22" />
-        <mark key="]" line="26" column="25" />
-        <mark key="." line="26" column="25" />
-        <mark key="^" line="26" column="25" />
-      </file>
       <file name="/code/sc/web/sc/app/surveys/topbox/topbox_agg.py" timestamp="1561283971697">
         <mark key="'" line="40" column="18" />
         <mark key="[" line="96" column="0" />
@@ -129,11 +94,11 @@
         <mark key="." line="96" column="0" />
         <mark key="^" line="95" column="32" />
       </file>
-      <file name="/code/sc/web/sc/core/argsutil.py" timestamp="1561280027361">
-        <mark key="[" line="40" column="30" />
-        <mark key="]" line="40" column="34" />
-        <mark key="^" line="40" column="34" />
-        <mark key="." line="40" column="34" />
+      <file name="/code/sc/web/sc/core/argsutil.py" timestamp="1561290198028">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="37" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="/code/sc/web/sc/app/surveys/args.py" timestamp="1561280580178">
         <mark key="'" line="217" column="0" />
@@ -142,24 +107,15 @@
         <mark key="." line="66" column="47" />
         <mark key="^" line="66" column="47" />
       </file>
-      <file name="/code/sc/web/sc/coms/testing/utils.py" timestamp="1561233660864">
-        <mark key="[" line="200" column="9" />
-        <mark key="]" line="200" column="28" />
-        <mark key="^" line="200" column="28" />
-        <mark key="." line="200" column="28" />
-      </file>
-      <file name="/code/sc/web/sc/app/surveys/question/question_agg.py" timestamp="1561288707160">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="18" />
-        <mark key="." line="99" column="0" />
-        <mark key="^" line="106" column="6" />
+      <file name="/code/sc/web/sc/app/surveys/question/question_agg.py" timestamp="1561290780704">
+        <mark key="'" line="47" column="20" />
+        <mark key="[" line="41" column="20" />
+        <mark key="]" line="41" column="20" />
+        <mark key="^" line="41" column="20" />
+        <mark key="." line="41" column="20" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="13" filename="/code/sc/web/static/web/views/arrowlytics/arrowlytics.ts" />
-      <jump line="63" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
-      <jump line="58" column="0" filename="/code/sc/web/instance/local/develop_settings.py" />
       <jump line="625" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
       <jump line="506" column="110" filename="/code/sc/web/cli/ones.py" />
       <jump line="39" column="0" filename="/code/sc/web/cli/ones.py" />
@@ -244,7 +200,6 @@
       <jump line="81" column="2" filename="/code/sc/web/sc/app/surveys/question/question_agg.py" />
       <jump line="10" column="0" filename="/code/sc/web/sc/app/surveys/question/question_agg.py" />
       <jump line="39" column="45" filename="/code/sc/web/sc/app/surveys/question/question_agg.py" />
-      <jump line="31" column="2" filename="/code/sc/web/sc/app/surveys/question/question_agg.py" />
       <jump line="44" column="0" filename="/code/sc/web/sc/app/surveys/question/question_agg.py" />
       <jump line="22" column="0" filename="/code/sc/web/sc/app/surveys/summary/question_agg.py" />
       <jump line="30" column="19" filename="/code/sc/web/sc/app/surveys/question/question_agg.py" />
@@ -257,40 +212,44 @@
       <jump line="962" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
       <jump line="992" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
       <jump line="1125" column="56" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
+      <jump line="49" column="0" filename="/code/sc/web/sc/app/surveys/question/question_agg.py" />
+      <jump line="23" column="0" filename="/code/sc/web/sc/app/surveys/question/question_agg.py" />
+      <jump line="31" column="36" filename="/code/sc/web/sc/app/surveys/question/question_agg.py" />
+      <jump line="47" column="20" filename="/code/sc/web/sc/app/surveys/question/question_agg.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAsIGNvdW50KCopICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXMgcXVlc3RfdG90YWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAsIHN1bShJRihxdWVzdGlvbnNfYW5zd2Vycy5za2lwcGVkLCAxLCAwKSkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXMgc2tpcHBlZAogICwgc3VtKElGKHF1ZXN0aW9uc19hbnN3ZXJzLnNraXBwZWQsIDEsIDApKSAvIGNvdW50KCopICAgICAgICAgICAgICAgICAgICAgICBhcyBza2lwcGVkX3BlcmNlbnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlubmVyIGpvaW4gcXVlc3Rpb25zX2Fuc3dlcnMgb24gcmV2aWV3cy5pZCA9IHF1ZXN0aW9uc19hbnN3ZXJzLnJldmlld19pZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgaW5uZXIgam9pbiBwbGF0Zm9ybXMgb24gcGxhdGZvcm1zLmlkID0gcmV2aWV3cy5wbGF0Zm9ybV9pZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgaW5uZXIgam9pbiBxdWVzdGlvbnMgb24gcXVlc3Rpb25zLmlkID0gcXVlc3Rpb25zX2Fuc3dlcnMucXVlc3Rpb25faWQKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlubmVyIGpvaW4gcXVlc3Rpb25zX3BsYXRmb3JtcyBvbiBxdWVzdGlvbnNfcGxhdGZvcm1zLnF1ZXN0aW9uX2lkID0gcXVlc3Rpb25zLmlkIGFuZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHF1ZXN0aW9uc19wbGF0Zm9ybXMucGxhdGZvcm1faWQgPSBwbGF0Zm9ybXMuaWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAsIHllYXIocmV2aWV3cy5jcmVhdGVfdGltZSkKICAsIHF1YXJ0ZXIocmV2aWV3cy5jcmVhdGVfdGltZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGF2Z18oZDMsICczJyksCg==</text>
+        <text encoding="base64">ICBjcmVhdGVfdGltZSA9IGZyb21fc3RhcnRfZW5kKHN0YXJ0LCBlbmQpCiAgaWYgY3JlYXRlX3RpbWU6CiAgICBzdWJbJ2NyZWF0ZV90aW1lJ10gPSBjcmVhdGVfdGltZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGF2Z18oZDIsICcyJyksCg==</text>
+        <text encoding="base64">ICAgICAgICMgLmFkZF9jb2x1bW5zKHF0X3N1Yi5jLmR0LCBxdF9zdWIuYy5xdF90b3RhbCwgcXRfc3ViLmMuYXZnLmxhYmVsKCdxdF9hdmcnKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGF2Z18oZDEsICcxJyksCg==</text>
+        <text encoding="base64">ICBjb2xzID0gWwogICAgKmdyb3VwX2NvbHMsCiAgXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgICwgY291bnQoKikgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXMgcXVlc3RfdG90YWwK</text>
+        <text encoding="base64">ICAgIGZ1bmMueWVhcihSZXZpZXcuY3JlYXRlX3RpbWUpLAogICAgZnVuYy5xdWFydGVyKFJldmlldy5jcmVhdGVfdGltZSksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAsIHllYXIocmV2aWV3cy5jcmVhdGVfdGltZSkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFzIHllYXJfMQo=</text>
+        <text encoding="base64">ICAsIGNvdW50KCopICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXMgcXVlc3RfdG90YWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAsIGF2ZyhxdWVzdGlvbnNfYW5zd2Vycy5yYXRpbmcpICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFzIGF2Zwo=</text>
+        <text encoding="base64">ICAsIHN1bShJRihxdWVzdGlvbnNfYW5zd2Vycy5za2lwcGVkLCAxLCAwKSkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXMgc2tpcHBlZAogICwgc3VtKElGKHF1ZXN0aW9uc19hbnN3ZXJzLnNraXBwZWQsIDEsIDApKSAvIGNvdW50KCopICAgICAgICAgICAgICAgICAgICAgICBhcyBza2lwcGVkX3BlcmNlbnQK</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>3933</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
