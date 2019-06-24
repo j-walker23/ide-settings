@@ -17,12 +17,12 @@
         <mark key="." line="52" column="44" />
       </file>
       <file name="/code/sc/web/sc/app/integs/hjs/collectors/base.py" timestamp="1561365715566" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1561392370644">
-        <mark key="'" line="1502" column="64" />
-        <mark key="[" line="1502" column="8" />
-        <mark key="]" line="1502" column="14" />
-        <mark key="^" line="1502" column="14" />
-        <mark key="." line="1502" column="14" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1561394113740">
+        <mark key="'" line="1550" column="5" />
+        <mark key="[" line="1525" column="44" />
+        <mark key="]" line="1525" column="52" />
+        <mark key="." line="1525" column="52" />
+        <mark key="^" line="1525" column="52" />
       </file>
       <file name="/code/sc/web/static/web/http/surveysummary/star-pivots.resource.ts" timestamp="1561342238951">
         <mark key="[" line="11" column="21" />
@@ -590,7 +590,6 @@
       <file name="/question_agg.py" timestamp="1561381805259" />
     </filemarks>
     <jumps>
-      <jump line="18" column="13" filename="/code/sc/web/static/web/services/sockets.service.ts" />
       <jump line="57" column="11" filename="/code/sc/web/static/web/services/sockets.service.ts" />
       <jump line="44" column="4" filename="/code/sc/web/sc/app/reports/survey/build.py" />
       <jump line="33" column="0" filename="/code/sc/web/sc/coms/ext/celery.py" />
@@ -690,40 +689,41 @@
       <jump line="1464" column="28" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
       <jump line="1291" column="35" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
       <jump line="1502" column="64" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
+      <jump line="1497" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGpvaW4gcXVlc3Rpb25zX3BsYXRmb3JtcyBxcCBvbiBwLmlkID0gcXAucGxhdGZvcm1faWQgYW5kIHFwLnF1ZXN0aW9uX2lkID0gcS5pZAo=</text>
+        <text encoding="base64">LCByLmlkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBzZWxlY3QgY2FtcGFpZ25faWQsIGMubmFtZSwgY291bnQoKikK</text>
+        <text encoding="base64">IyAgIGFuZCByLmNhbXBhaWduX2lkIGluICg2MTE1LCA2MTE2KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBqdXN0IHIucmF0aW5nIGF2ZyA0LjE0Mjg1ODAyODQxMTg2NQo=</text>
+        <text encoding="base64">IyAgIGFuZCBjcmVhdGVfdGltZSA+PSAnMjAxOS0wNi0wMVQwMDowMDowMC0wNjowMCcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAsIHFwLnBvcwo=</text>
+        <text encoding="base64">CiMgICAgIGpvaW4gcXVlc3Rpb25zX2Fuc3dlcnMgYSBvbiByLmlkID0gYS5yZXZpZXdfaWQKIyAgICAgam9pbiBwbGF0Zm9ybXMgICAgICAgICBwIG9uIGEucGxhdGZvcm1faWQgPSBwLmlkCiMgICAgIGpvaW4gcXVlc3Rpb25zICAgICAgICAgcSBvbiBhLnF1ZXN0aW9uX2lkID0gcS5pZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGpvaW4gcGxhdGZvcm1zICAgICAgICAgICBwIG9uIHIucGxhdGZvcm1faWQgPSBwLmlkCg==</text>
+        <text encoding="base64">ICAgIGpvaW4gcGxhdGZvcm1zICAgICAgICAgcCBvbiBhLnBsYXRmb3JtX2lkID0gcC5pZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGpvaW4gcXVlc3Rpb25zX3BsYXRmb3JtcyBxcCBvbiBwLmlkID0gcXAucGxhdGZvcm1faWQgYW5kIHFwLnF1ZXN0aW9uX2lkID0gcS5pZAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">IyBzZWxlY3QgY2FtcGFpZ25faWQsIGMubmFtZSwgY291bnQoKikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Z3JvdXAgYnkKICAgIGNhbXBhaWduX2lkCiAgLCBjLm5hbWUK</text>
+        <text encoding="base64">IyBqdXN0IHIucmF0aW5nIGF2ZyA0LjE0Mjg1ODAyODQxMTg2NQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">am9pbiBsb2NhdGlvbnMgbCBvbiByLmxvY2F0aW9uX2lkID0gbC5pZAo=</text>
+        <text encoding="base64">ICAsIHFwLnBvcwo=</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>questions_answers</text>
+        <text>review_id</text>
       </register>
       <register name="/" type="4">
         <text>QuarterChoice</text>
