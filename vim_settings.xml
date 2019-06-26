@@ -16,11 +16,11 @@
         <mark key="^" line="185" column="25" />
         <mark key="." line="185" column="25" />
       </file>
-      <file name="/code/sc/web/migrations/versions/42038efac791__176.py" timestamp="1561568012643">
-        <mark key="[" line="44" column="34" />
-        <mark key="]" line="48" column="53" />
-        <mark key="^" line="48" column="53" />
-        <mark key="." line="48" column="53" />
+      <file name="/code/sc/web/migrations/versions/42038efac791__176.py" timestamp="1561569801047">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="/code/sc/web/static/web/views/reviews/share/share-review.dialog.ts" timestamp="1561523408305">
         <mark key="[" line="14" column="40" />
@@ -28,12 +28,12 @@
         <mark key="." line="14" column="42" />
         <mark key="^" line="14" column="42" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1561568078691">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1561569592179">
         <mark key="'" line="522" column="7" />
-        <mark key="[" line="548" column="90" />
-        <mark key="]" line="549" column="18" />
-        <mark key="." line="549" column="18" />
-        <mark key="^" line="549" column="18" />
+        <mark key="[" line="552" column="26" />
+        <mark key="]" line="553" column="20" />
+        <mark key="." line="553" column="20" />
+        <mark key="^" line="553" column="20" />
       </file>
       <file name="/code/sc/web/static/common/components/smart-search/smart-search.sass" timestamp="1561553512044">
         <mark key="[" line="16" column="9" />
@@ -393,7 +393,7 @@
         <mark key="." line="92" column="34" />
         <mark key="^" line="92" column="34" />
       </file>
-      <file name="/code/sc/web/instance/env.txt" timestamp="1561552402729">
+      <file name="/code/sc/web/instance/env.txt" timestamp="1561569818044">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -510,12 +510,12 @@
         <mark key="^" line="35" column="33" />
         <mark key="." line="35" column="33" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" timestamp="1561566206375">
-        <mark key="'" line="188" column="0" />
-        <mark key="[" line="262" column="1" />
-        <mark key="]" line="267" column="0" />
-        <mark key="." line="267" column="0" />
-        <mark key="^" line="267" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" timestamp="1561569733009">
+        <mark key="'" line="256" column="53" />
+        <mark key="[" line="273" column="5" />
+        <mark key="]" line="273" column="5" />
+        <mark key="." line="273" column="5" />
+        <mark key="^" line="273" column="5" />
       </file>
       <file name="/code/sc/web/sc/mods/web/rest/accounts/listings_view.py" timestamp="1561538492762">
         <mark key="[" line="51" column="12" />
@@ -523,12 +523,11 @@
         <mark key="." line="51" column="11" />
         <mark key="^" line="51" column="11" />
       </file>
-      <file name="/code/sc/web/migrations/versions/b079fbcab2e7__172.py" timestamp="1561567919617">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="^" line="112" column="30" />
-        <mark key="." line="93" column="0" />
+      <file name="/code/sc/web/migrations/versions/b079fbcab2e7__172.py" timestamp="1561569785194">
+        <mark key="[" line="89" column="54" />
+        <mark key="]" line="90" column="7" />
+        <mark key="^" line="90" column="7" />
+        <mark key="." line="90" column="7" />
       </file>
       <file name="/code/sc/web/static/web/views/notes/details/note-kws/note-kws.ts" timestamp="1561522271572">
         <mark key="[" line="20" column="35" />
@@ -563,8 +562,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/code/sc/web/migrations/keepers.sql" />
-      <jump line="0" column="0" filename="/code/sc/web/migrations/mig_stuff.py" />
       <jump line="100" column="2" filename="/code/sc/web/migrations/mig_stuff.py" />
       <jump line="887" column="10" filename="/code/sc/web/cli/scripts/m700.py" />
       <jump line="59" column="22" filename="/code/sc/web/sc/sql/note/contact.py" />
@@ -663,43 +660,42 @@
       <jump line="188" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
       <jump line="522" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
       <jump line="51" column="0" filename="/code/sc/web/migrations/versions/b079fbcab2e7__172.py" />
+      <jump line="256" column="53" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
+      <jump line="86" column="0" filename="/code/sc/web/migrations/versions/42038efac791__176.py" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text>select count(*)
-from invites i
-where account_id = 207
-;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBmdWNrKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCcjJyAqIDEwMDApCg==</text>
+        <text encoding="base64">ICBmdWNrKCkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgcHJpbnQoZSkKICAgICAgcHJpbnQoJ1xuXG4nKQogICAgICBwcmludChyYXcpCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICBjb24gPSBvcC5nZXRfYmluZCgpCiAgbm90ZXMgPSBnZXRfdGFibGUoJ25vdGlmaWNhdGlvbnMnKQogIG5vdGVzX2NvbnRhY3RzID0gZ2V0X3RhYmxlKCdub3Rlc19jb250YWN0cycpCiAgbm90ZV9jb250YWN0cyA9IGdldF90YWJsZSgnbm90ZV9jb250YWN0cycpCiAgY29udGFjdCA9IGdldF90YWJsZSgnY29udGFjdCcpCiAgY29udGFjdHMgPSBnZXRfdGFibGUoJ2NvbnRhY3RzJykKCiAgcm93cyA9IGNvbi5leGVjdXRlKAogICAgc2VsZWN0KFtjb250YWN0LmMuaWQubGFiZWwoJ3ZhbCcpLCBjb250YWN0LmMubmFtZSwgbm90ZXMuYy5pZCwgbm90ZXMuYy5hY2NvdW50X2lkXSkKICAgICAgLndoZXJlKG5vdGVzX2NvbnRhY3RzLmMuY29udGFjdF9pZCA9PSBjb250YWN0LmMuaWQpCiAgICAgIC53aGVyZShub3Rlcy5jLmlkID09IG5vdGVzX2NvbnRhY3RzLmMubm90ZV9pZCkKICApLmZldGNoYWxsKCkKCiAgcmV0ID0gW10KICBsaW5rcyA9IFtdCiAgbiA9IGNvdW50KDEpCiAgZm9yIHR1cCwgciBpbiBrZXlfYnkocm93cywgbGFtYmRhIGw6IChzdHJpcF9hbGxfc3BhY2VzKGwudmFsKSwgbC5hY2NvdW50X2lkKSkuaXRlbXMoKToKICAgIGlkZCA9IG5leHQobikKICAgIHJldC5hcHBlbmQoewogICAgICAnaWQnOiBpZGQsCiAgICAgICd2YWwnOiB0dXBbMF0sCiAgICAgICdhY2NvdW50X2lkJzogdHVwWzFdLAogICAgICAnbmFtZSc6IHIubmFtZQogICAgfSkKCiAgICBsaW5rcy5hcHBlbmQoewogICAgICAnbm90ZV9pZCc6IHIuaWQsCiAgICAgICdjb250YWN0X2lkJzogaWRkCiAgICB9KQoKICBjID0gY29uLmV4ZWN1dGUoCiAgICBjb250YWN0cy5pbnNlcnQoKSwKICAgIHJldAogICkucm93Y291bnQKICBwcmludCgnQ29udGFjdHMgYWRkZWQnLCBjKQoKICBjID0gY29uLmV4ZWN1dGUoCiAgICBub3RlX2NvbnRhY3RzLmluc2VydCgpLAogICAgbGlua3MKICApLnJvd2NvdW50CiAgcHJpbnQoJ05vdGVDb250YWN0cyBhZGRlZCcsIGMp</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ZGVmIGZ1Y2soKToKICAiIiIiIiIKICBjb24gPSBvcC5nZXRfYmluZCgpCiAgbm90ZXMgPSBnZXRfdGFibGUoJ25vdGlmaWNhdGlvbnMnKQogIG5vdGVzX2NvbnRhY3RzID0gZ2V0X3RhYmxlKCdub3Rlc19jb250YWN0cycpCiAgbm90ZV9jb250YWN0cyA9IGdldF90YWJsZSgnbm90ZV9jb250YWN0cycpCiAgY29udGFjdCA9IGdldF90YWJsZSgnY29udGFjdCcpCiAgY29udGFjdHMgPSBnZXRfdGFibGUoJ2NvbnRhY3RzJykKCiAgcm93cyA9IGNvbi5leGVjdXRlKAogICAgc2VsZWN0KFtjb250YWN0LmMuaWQubGFiZWwoJ3ZhbCcpLCBjb250YWN0LmMubmFtZSwgbm90ZXMuYy5pZCwgbm90ZXMuYy5hY2NvdW50X2lkXSkKICAgICAgLndoZXJlKG5vdGVzX2NvbnRhY3RzLmMuY29udGFjdF9pZCA9PSBjb250YWN0LmMuaWQpCiAgICAgIC53aGVyZShub3Rlcy5jLmlkID09IG5vdGVzX2NvbnRhY3RzLmMubm90ZV9pZCkKICApLmZldGNoYWxsKCkKCiAgcmV0ID0gW10KICBsaW5rcyA9IFtdCiAgc2VlbiA9IHNldCgpCiAga2V5ZWQgPSB7fQogIG4gPSBjb3VudCgxKQogIGZvciB2YWwsIG5hbWUsIG5pZCwgYWlkIGluIHJvd3M6CiAgICBrZXkgPSAodmFsLCBhaWQpCiAgICBpZiBrZXkgbm90IGluIHNlZW46CiAgICAgIGlkZCA9IG5leHQobikKICAgICAga2V5ZWRbdmFsXSA9IGlkZAogICAgICByZXQuYXBwZW5kKHsKICAgICAgICAnaWQnOiBpZGQsCiAgICAgICAgJ3ZhbCc6IHZhbCwKICAgICAgICAnYWNjb3VudF9pZCc6IGFpZCwKICAgICAgICAnbmFtZSc6IG5hbWUKICAgICAgfSkKICAgICAgc2Vlbi5hZGQoa2V5KQoKICAgIGxpbmtzLmFwcGVuZCh7CiAgICAgICdub3RlX2lkJzogbmlkLAogICAgICAnY29udGFjdF9pZCc6IGtleWVkW3ZhbF0KICAgIH0pCgogIHByaW50KCdDb250YWN0cywgTm90ZUNvbnMgLS0gQ291bnRzJywgbGVuKHJldCksIGxlbihsaW5rcykpCgogIGMgPSBjb24uZXhlY3V0ZSgKICAgIGNvbnRhY3RzLmluc2VydCgpLAogICAgcmV0CiAgKS5yb3djb3VudAogIHByaW50KCdDb250YWN0cyBhZGRlZCcsIGMpCgogIGMgPSBjb24uZXhlY3V0ZSgKICAgIG5vdGVfY29udGFjdHMuaW5zZXJ0KCksCiAgICBsaW5rcwogICkucm93Y291bnQKICBwcmludCgnTm90ZUNvbnRhY3RzIGFkZGVkJywgYykK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIHByaW50KCcjJyAqIDEwMDApCiAgICB0cnk6CiAgICAgIHByZXR0eShyYXcpCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgIHByaW50KGUpCiAgICAgIHByaW50KCdcblxuJykKICAgICAgcHJpbnQocmF3KQ==</text>
-      </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBwcmludChzZWxlY3QoW2NvbnRhY3QuYy5pZC5sYWJlbCgndmFsJyksIGNvbnRhY3QuYy5uYW1lLCBub3Rlcy5jLmlkLCBub3Rlcy5jLmFjY291bnRfaWRdKQogICAgICAgIC53aGVyZShub3Rlc19jb250YWN0cy5jLmNvbnRhY3RfaWQgPT0gY29udGFjdC5jLmlkKQogICAgICAgIC53aGVyZShub3Rlcy5jLmlkID09IG5vdGVzX2NvbnRhY3RzLmMubm90ZV9pZCkpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgcmF3ID0gcmVxdWVzdC5nZXRfanNvbigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoJycpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAga2V5ZWRbdmFsXT0K</text>
       </register>
       <register name=":" type="4">
         <text>%s//.rows</text>
       </register>
       <register name="-" type="4">
-        <text>contact_id</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>.items</text>
