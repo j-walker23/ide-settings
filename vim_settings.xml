@@ -15,12 +15,11 @@
         <mark key="." line="14" column="42" />
         <mark key="^" line="14" column="42" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1561569592179">
-        <mark key="'" line="522" column="7" />
-        <mark key="[" line="552" column="26" />
-        <mark key="]" line="553" column="20" />
-        <mark key="." line="553" column="20" />
-        <mark key="^" line="553" column="20" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1561584492732">
+        <mark key="[" line="552" column="0" />
+        <mark key="]" line="552" column="0" />
+        <mark key="." line="552" column="0" />
+        <mark key="^" line="552" column="0" />
       </file>
       <file name="/code/sc/web/static/common/components/smart-search/smart-search.sass" timestamp="1561553512044">
         <mark key="[" line="16" column="9" />
@@ -59,10 +58,6 @@
         <mark key="^" line="7" column="1" />
         <mark key="." line="7" column="1" />
       </file>
-      <file name="/code/sc/web/static/common/model.ts" timestamp="1561581337549">
-        <mark key="'" line="43" column="22" />
-      </file>
-      <file name="/code/sc/web/sc/app/notes/query_notes.py" timestamp="1561580084999" />
       <file name="/code/sc/web/static/web/views/notes/details/note-rc/note-rc.html" timestamp="1561523364024">
         <mark key="[" line="13" column="10" />
         <mark key="]" line="13" column="13" />
@@ -146,6 +141,9 @@
         <mark key="]" line="26" column="13" />
         <mark key="." line="26" column="13" />
         <mark key="^" line="26" column="13" />
+      </file>
+      <file name="/Python Console" timestamp="1561584470875">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/code/sc/web/sc/app/reviews/exports.py" timestamp="1561532270233">
         <mark key="[" line="75" column="17" />
@@ -287,7 +285,6 @@
         <mark key="^" line="17" column="31" />
         <mark key="." line="17" column="31" />
       </file>
-      <file name="/code/sc/web/static/web/views/reviews/reviews.html" timestamp="1561575930346" />
       <file name="/code/sc/web/sc/mods/web/rest/accounts/notes_view.py" timestamp="1561582897594">
         <mark key="[" line="21" column="22" />
         <mark key="]" line="21" column="37" />
@@ -380,7 +377,7 @@
         <mark key="." line="44" column="59" />
         <mark key="^" line="44" column="59" />
       </file>
-      <file name="/code/sc/web/sc/coms/search/base_query.py" timestamp="1561537048479">
+      <file name="/code/sc/web/sc/coms/search/base_query.py" timestamp="1561583903104">
         <mark key="[" line="402" column="32" />
         <mark key="]" line="402" column="55" />
         <mark key="^" line="402" column="55" />
@@ -505,6 +502,12 @@
         <mark key="." line="46" column="41" />
         <mark key="^" line="46" column="41" />
       </file>
+      <file name="/code/sc/web/sc/coms/search/search.py" timestamp="1561584467219">
+        <mark key="[" line="154" column="31" />
+        <mark key="]" line="156" column="32" />
+        <mark key="^" line="156" column="32" />
+        <mark key="." line="156" column="32" />
+      </file>
       <file name="/code/sc/web/static/common/common.sass" timestamp="1561533898723">
         <mark key="[" line="20" column="46" />
         <mark key="]" line="21" column="32" />
@@ -541,7 +544,6 @@
         <mark key="^" line="18" column="4" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/code/sc/web/static/web/views/notes/details/note-adv/note-adv.ts" timestamp="1561578337419" />
       <file name="/code/sc/web/static/common/search/mixes.ts" timestamp="1561542902686">
         <mark key="[" line="35" column="33" />
         <mark key="]" line="35" column="33" />
@@ -594,8 +596,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="20" filename="/code/sc/web/migrations/versions/e4fb496531bd__172.py" />
-      <jump line="94" column="0" filename="/code/sc/web/migrations/versions/e4fb496531bd__172.py" />
       <jump line="2135" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
       <jump line="2089" column="55" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
       <jump line="48" column="38" filename="/code/sc/web/migrations/versions/b079fbcab2e7__172.py" />
@@ -666,7 +666,6 @@
       <jump line="503" column="48" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
       <jump line="188" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
-      <jump line="522" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
       <jump line="51" column="0" filename="/code/sc/web/migrations/versions/b079fbcab2e7__172.py" />
       <jump line="256" column="53" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
       <jump line="86" column="0" filename="/code/sc/web/migrations/versions/42038efac791__176.py" />
@@ -694,31 +693,132 @@
       <jump line="93" column="38" filename="/code/sc/web/static/web/views/notes/details/note-details.ts" />
       <jump line="78" column="0" filename="/code/sc/web/static/web/views/notes/details/note-details.html" />
       <jump line="35" column="17" filename="/code/sc/web/static/web/views/notes/details/note-details.ts" />
+      <jump line="522" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
+      <jump line="553" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
+      <jump line="552" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgaWQ6IE5vdGVUeXBlLlJlcG9ydENhcmQsCiAgICAgIG5hbWU6ICdQcm92aWRlciBSZXBvcnQgQ2FyZCcsCiAgICAgIGluZm86ICdQcm92aWRlciBSZXBvcnQgQ2FyZCBvbmx5IG5vdGlmaWNhdGlvbnMgc2V0dXAuJywKICAgIH0sCiAgICB7CiAgICAgIGlkOiBOb3RlVHlwZS5Mb2NSZXBvcnRDYXJkLAogICAgICBuYW1lOiAnTG9jYXRpb24gUmVwb3J0IENhcmQnLAogICAgICBpbmZvOiAnTG9jYXRpb24gUmVwb3J0IENhcmQgb25seSBub3RpZmljYXRpb25zIHNldHVwLicsCiAgICB9LAogICAgewogICAgICBpZDogTm90ZVR5cGUuQ29tcGFyZVF1ZXN0aW9ucywKICAgICAgbmFtZTogJ0NvbXBhcmUgU3VydmV5IFF1ZXN0aW9ucycsCiAgICAgIGluZm86ICdBdXRvbWF0ZWQgcmVwb3J0IGRlbGl2ZXJ5IGZvciBxdWVzdGlvbnMgY29tcGFyaXNvbicsCiAgICB9LAo=</text>
+      <register name="1" type="4">
+        <text>select
+    rec_reviews.id                as rec_reviews_id
+  , rec_reviews.assigner_id       as rec_reviews_assigner_id
+  , rec_reviews.assignee_id       as rec_reviews_assignee_id
+  , rec_reviews.note_id           as rec_reviews_note_id
+  , platforms.id                  as platforms_id
+  , platforms.name                as platforms_name
+  , platforms.kind                as platforms_kind
+  , platforms.image_url           as platforms_image_url
+  , platforms.is_survey           as platforms_is_survey
+  , locations.id                  as locations_id
+  , locations.name                as locations_name
+  , locations.phone               as locations_phone
+  , auth_locs.id                  as auth_locs_id
+  , auth_locs.kind                as auth_locs_kind
+  , auth_locs.deleted_at          as auth_locs_deleted_at
+  , location_platforms.id         as location_platforms_id
+  , location_platforms.kind       as location_platforms_kind
+  , location_platforms.scrape_url as location_platforms_scrape_url
+  , location_platforms.al_id      as location_platforms_al_id
+  , invites.created_by            as invites_created_by
+  , invites.id                    as invites_id
+  , invites.sent_to               as invites_sent_to
+  , invites.name                  as invites_name
+  , campaigns.id                  as campaigns_id
+  , campaigns.name                as campaigns_name
+  , campaign_platforms.id         as campaign_platforms_id
+  , campaign_platforms.scrape_url as campaign_platforms_scrape_url
+  , reviews.id                    as reviews_id
+  , reviews.created_at            as reviews_created_at
+  , reviews.rating                as reviews_rating
+  , reviews.user                  as reviews_user
+  , reviews.create_time           as reviews_create_time
+  , reviews.review_id             as reviews_review_id
+  , reviews.comment               as reviews_comment
+  , reviews.review_reply          as reviews_review_reply
+  , reviews.from_default_survey   as reviews_from_default_survey
+  , reviews.disclaimer_checked    as reviews_disclaimer_checked
+  , reviews.origin                as reviews_origin
+  , reviews.status                as reviews_status
+  , reviews.notes                 as reviews_notes
+  , reviews.has_processed_survey  as reviews_has_processed_survey
+  , reviews.recommendation_type   as reviews_recommendation_type
+  , reviews.name                  as reviews_name
+  , reviews.deleted_at            as reviews_deleted_at
+  , reviews.account_id            as reviews_account_id
+  , reviews.platform_id           as reviews_platform_id
+  , reviews.location_id           as reviews_location_id
+  , reviews.location_platform_id  as reviews_location_platform_id
+  , reviews.invite_id             as reviews_invite_id
+  , reviews.campaign_id           as reviews_campaign_id
+  , reviews.mp_id                 as reviews_mp_id
+  , reviews.category              as reviews_category
+  , reviews.mess_id               as reviews_mess_id
+  , users_1.id                    as users_1_id
+  , users_1.email                 as users_1_email
+  , users_1.name                  as users_1_name
+  , users_1.active                as users_1_active
+  , users_1.is_admin              as users_1_is_admin
+  , users_1.invited_at            as users_1_invited_at
+  , users_1.confirmed_at          as users_1_confirmed_at
+  , users_1.phone                 as users_1_phone
+  , users_1.title                 as users_1_title
+  , users_1.bio                   as users_1_bio
+  , users_1.zone                  as users_1_zone
+  , users_1.acc_id                as users_1_acc_id
+  , users_1.oid                   as users_1_oid
+  , users_1.totp_confirmed_at     as users_1_totp_confirmed_at
+  , users_1.is_saml_only          as users_1_is_saml_only
+  , users_1.conf                  as users_1_conf
+  , users_1.enable_last_search    as users_1_enable_last_search
+  , users_1.hide_replies          as users_1_hide_replies
+  , users_1.hide_insights         as users_1_hide_insights
+  , users_1.created_at            as users_1_created_at
+  , users_1.deleted_at            as users_1_deleted_at
+  , users_1.partner_id            as users_1_partner_id
+  , users_1.img_url               as users_1_img_url
+from reviews
+    inner join      (
+                        select reviews.id as id
+                        from reviews
+                            inner join platforms on platforms.id = reviews.platform_id
+                        where 401 = reviews.account_id and reviews.comment != 'stop' and reviews.deleted_at is null
+                        order by reviews.create_time desc
+                        limit 0, 100
+                    )     as anon_1 on anon_1.id = reviews.id
+    inner join      platforms on platforms.id = reviews.platform_id
+    left outer join campaign_platforms on campaign_platforms.id = reviews.mp_id
+    left outer join invites on invites.id = reviews.invite_id
+    left outer join locations on locations.id = reviews.location_id
+    left outer join campaigns on campaigns.id = reviews.campaign_id
+    left outer join location_platforms on location_platforms.id = reviews.location_platform_id
+    left outer join auth_locs on auth_locs.id = location_platforms.al_id
+    left outer join rec_reviews on reviews.id = rec_reviews.id
+    left outer join users as users_1 on users_1.id = rec_reviews.assignee_id
+where reviews.deleted_at is null
+order by
+    reviews.id asc
+;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgaWQ6IE5vdGVUeXBlLlJlcG9ydENhcmQsCiAgICAgIG5hbWU6ICdQcm92aWRlciBSZXBvcnQgQ2FyZCcsCiAgICAgIGluZm86ICdQcm92aWRlciBSZXBvcnQgQ2FyZCBvbmx5IG5vdGlmaWNhdGlvbnMgc2V0dXAuJywKICAgIH0sCiAgICB7CiAgICAgIGlkOiBOb3RlVHlwZS5Mb2NSZXBvcnRDYXJkLAogICAgICBuYW1lOiAnTG9jYXRpb24gUmVwb3J0IENhcmQnLAogICAgICBpbmZvOiAnTG9jYXRpb24gUmVwb3J0IENhcmQgb25seSBub3RpZmljYXRpb25zIHNldHVwLicsCiAgICB9LAo=</text>
+        <text encoding="base64">ICAgIHsKICAgICAgaWQ6IE5vdGVUeXBlLlJlcG9ydENhcmQsCiAgICAgIG5hbWU6ICdQcm92aWRlciBSZXBvcnQgQ2FyZCcsCiAgICAgIGluZm86ICdQcm92aWRlciBSZXBvcnQgQ2FyZCBvbmx5IG5vdGlmaWNhdGlvbnMgc2V0dXAuJywKICAgIH0sCiAgICB7CiAgICAgIGlkOiBOb3RlVHlwZS5Mb2NSZXBvcnRDYXJkLAogICAgICBuYW1lOiAnTG9jYXRpb24gUmVwb3J0IENhcmQnLAogICAgICBpbmZvOiAnTG9jYXRpb24gUmVwb3J0IENhcmQgb25seSBub3RpZmljYXRpb25zIHNldHVwLicsCiAgICB9LAogICAgewogICAgICBpZDogTm90ZVR5cGUuQ29tcGFyZVF1ZXN0aW9ucywKICAgICAgbmFtZTogJ0NvbXBhcmUgU3VydmV5IFF1ZXN0aW9ucycsCiAgICAgIGluZm86ICdBdXRvbWF0ZWQgcmVwb3J0IGRlbGl2ZXJ5IGZvciBxdWVzdGlvbnMgY29tcGFyaXNvbicsCiAgICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHsKICAgICAgaWQ6IE5vdGVUeXBlLlJlcG9ydENhcmQsCiAgICAgIG5hbWU6ICdQcm92aWRlciBSZXBvcnQgQ2FyZCcsCiAgICAgIGluZm86ICdQcm92aWRlciBSZXBvcnQgQ2FyZCBvbmx5IG5vdGlmaWNhdGlvbnMgc2V0dXAuJywKICAgIH0sCiAgICB7CiAgICAgIGlkOiBOb3RlVHlwZS5Mb2NSZXBvcnRDYXJkLAogICAgICBuYW1lOiAnTG9jYXRpb24gUmVwb3J0IENhcmQnLAogICAgICBpbmZvOiAnTG9jYXRpb24gUmVwb3J0IENhcmQgb25seSBub3RpZmljYXRpb25zIHNldHVwLicsCiAgICB9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLmlzTmV3KSB7CiAgICAgIHRoaXMubm90ZSA9IHRoaXMubmV3VHlwZXNbdGhpcy5ub3RlLnR5cGVdKCkKICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLmlzTmV3KSB7CiAgICAgIHRoaXMubm90ZSA9IHRoaXMubmV3VHlwZXNbdGhpcy5ub3RlLnR5cGVdKCkKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBASW5wdXQoKSBub3RlOiBOb3RpZmljYXRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpc05ldyA9IGZhbHNlCg==</text>
+        <text encoding="base64">ICBASW5wdXQoKSBub3RlOiBOb3RpZmljYXRpb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpc05ldyA9IGZhbHNlCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -727,7 +827,7 @@
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>Questions</text>
+        <text>stop</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
