@@ -66,8 +66,8 @@
         <mark key="^" line="29" column="31" />
         <mark key="." line="29" column="31" />
       </file>
-      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1561552216221">
-        <mark key="'" line="54" column="20" />
+      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1561572206657">
+        <mark key="'" line="59" column="0" />
         <mark key="[" line="54" column="16" />
         <mark key="]" line="54" column="20" />
         <mark key="." line="54" column="20" />
@@ -423,11 +423,11 @@
         <mark key="." line="92" column="34" />
         <mark key="^" line="92" column="34" />
       </file>
-      <file name="/code/sc/web/instance/env.txt" timestamp="1561569818044">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-        <mark key="^" line="0" column="4" />
+      <file name="/code/sc/web/instance/env.txt" timestamp="1561572210966">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+        <mark key="^" line="0" column="2" />
       </file>
       <file name="/code/sc/web/static/common/components/dialog/sc-dialog.html" timestamp="1561541809229">
         <mark key="[" line="21" column="98" />
@@ -521,6 +521,12 @@
         <mark key="]" line="2" column="10" />
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="10" />
+      </file>
+      <file name="/code/sc/web/sc/mods/invite/views.py" timestamp="1561572408328">
+        <mark key="[" line="31" column="16" />
+        <mark key="]" line="31" column="17" />
+        <mark key="^" line="31" column="17" />
+        <mark key="." line="31" column="17" />
       </file>
       <file name="/code/sc/web/sc/app/notes/cron.py" timestamp="1561570616845">
         <mark key="[" line="207" column="19" />
@@ -677,7 +683,6 @@
       <jump line="209" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
       <jump line="48" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
       <jump line="55" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
-      <jump line="59" column="0" filename="/code/sc/web/instance/local/develop_settings.py" />
       <jump line="447" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
       <jump line="6" column="65" filename="/code/sc/web/static/web/views/arrowlytics/arrived/data-table/data-table.html" />
       <jump line="40" column="14" filename="/code/sc/web/static/web/views/arrowlytics/arrived/data-table/data-table.html" />
@@ -692,6 +697,7 @@
       <jump line="51" column="0" filename="/code/sc/web/migrations/versions/b079fbcab2e7__172.py" />
       <jump line="256" column="53" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
       <jump line="86" column="0" filename="/code/sc/web/migrations/versions/42038efac791__176.py" />
+      <jump line="59" column="0" filename="/code/sc/web/instance/local/develop_settings.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -722,10 +728,10 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s//.rows</text>
+        <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>out</text>
       </register>
       <register name="/" type="4">
         <text>.items</text>
@@ -782,8 +788,8 @@
         <entry>%s//number</entry>
         <entry>%s//string</entry>
         <entry>%s//QuarterRow</entry>
-        <entry>action VimWindowSplitVertical</entry>
         <entry>%s//.rows</entry>
+        <entry>action VimWindowSplitVertical</entry>
       </history-cmd>
       <history-expr />
       <history-input />
