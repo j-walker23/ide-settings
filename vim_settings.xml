@@ -88,19 +88,19 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1561606432872">
-        <mark key="'" line="31" column="26" />
+      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1561675986781">
+        <mark key="'" line="22" column="8" />
         <mark key="[" line="55" column="13" />
         <mark key="]" line="55" column="17" />
         <mark key="." line="55" column="17" />
         <mark key="^" line="55" column="17" />
       </file>
-      <file name="/code/sc/web/static/common/models/note.model.ts" timestamp="1561580918044">
+      <file name="/code/sc/web/static/common/models/note.model.ts" timestamp="1561676075916">
         <mark key="'" line="148" column="30" />
-        <mark key="[" line="292" column="0" />
-        <mark key="]" line="292" column="0" />
-        <mark key="^" line="292" column="0" />
-        <mark key="." line="292" column="0" />
+        <mark key="[" line="301" column="11" />
+        <mark key="]" line="301" column="10" />
+        <mark key="^" line="301" column="10" />
+        <mark key="." line="301" column="10" />
       </file>
       <file name="/code/sc/web/sc/app/notes/types.py" timestamp="1561587185791">
         <mark key="[" line="6" column="58" />
@@ -243,11 +243,11 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="68" />
       </file>
-      <file name="/code/sc/web/instance/env.txt" timestamp="1561602628843">
+      <file name="/code/sc/web/instance/env.txt" timestamp="1561675992249">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
-        <mark key="^" line="0" column="3" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="4" />
       </file>
       <file name="/code/sc/web/static/web/views/settings/providers/details/provider-details.ts" timestamp="1561581485474">
         <mark key="[" line="79" column="0" />
@@ -361,12 +361,12 @@
       <file name="/Dummy.txt" timestamp="1561590013625">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code/sc/web/static/web/components/chips/contacts/contact-chips.ts" timestamp="1561529612918">
+      <file name="/code/sc/web/static/web/components/chips/contacts/contact-chips.ts" timestamp="1561676119006">
         <mark key="'" line="80" column="0" />
-        <mark key="[" line="30" column="27" />
-        <mark key="]" line="31" column="21" />
-        <mark key="." line="31" column="21" />
-        <mark key="^" line="31" column="21" />
+        <mark key="[" line="36" column="21" />
+        <mark key="]" line="36" column="25" />
+        <mark key="." line="36" column="25" />
+        <mark key="^" line="36" column="25" />
       </file>
       <file name="/code/sc/web/migrations/versions/bc15391cb946__176.py" timestamp="1561586983398">
         <mark key="[" line="45" column="156" />
@@ -392,6 +392,7 @@
         <mark key="^" line="17" column="2" />
         <mark key="." line="17" column="2" />
       </file>
+      <file name="/code/sc/web/static/web/views/notes/details/note-replies/note-replies.ts" timestamp="1561676547014" />
       <file name="/code/sc/web/static/web/views/notes/details/note-types.ts" timestamp="1561658902844">
         <mark key="'" line="17" column="15" />
         <mark key="[" line="88" column="0" />
@@ -471,17 +472,15 @@
         <mark key="." line="69" column="37" />
         <mark key="^" line="69" column="37" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1561658153174">
-        <mark key="'" line="742" column="0" />
-        <mark key="[" line="808" column="7" />
-        <mark key="]" line="808" column="16" />
-        <mark key="^" line="808" column="16" />
-        <mark key="." line="808" column="16" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1561676641068">
+        <mark key="'" line="796" column="15" />
+        <mark key="[" line="813" column="1" />
+        <mark key="]" line="818" column="27" />
+        <mark key="^" line="818" column="27" />
+        <mark key="." line="818" column="27" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="0" filename="/code/sc/web/sc/coms/customsql/mixes.py" />
-      <jump line="0" column="0" filename="/code/sc/web/migrations/versions/fd738fae0f2e__174.py" />
       <jump line="19" column="17" filename="/code/sc/web/static/web/views/reviews/recovery/recovery.html" />
       <jump line="55" column="10" filename="/code/sc/web/static/web/views/reviews/recovery/recovery.html" />
       <jump line="32" column="0" filename="/code/sc/web/sc/app/reports/survey/build.py" />
@@ -580,6 +579,8 @@
       <jump line="744" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
       <jump line="13" column="0" filename="/code/sc/web/static/web/views/notes/details/note-rc/note-rc.html" />
       <jump line="17" column="15" filename="/code/sc/web/static/web/views/notes/details/note-types.ts" />
+      <jump line="22" column="8" filename="/code/sc/web/instance/local/develop_settings.py" />
+      <jump line="796" column="15" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -613,7 +614,7 @@
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.rows</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
