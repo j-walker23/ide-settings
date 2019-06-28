@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/code/sc/web/cli/scripts/m700.py" timestamp="1561680824406">
+        <mark key="'" line="113" column="10" />
+        <mark key="[" line="116" column="75" />
+        <mark key="]" line="117" column="33" />
+        <mark key="^" line="117" column="33" />
+        <mark key="." line="117" column="33" />
+      </file>
       <file name="/code/sc/web/static/web/components/chips/contacts/contact-chips.html" timestamp="1561529589071">
         <mark key="'" line="32" column="33" />
         <mark key="[" line="36" column="8" />
@@ -88,8 +95,8 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1561675986781">
-        <mark key="'" line="22" column="8" />
+      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1561680164262">
+        <mark key="'" line="24" column="14" />
         <mark key="[" line="55" column="13" />
         <mark key="]" line="55" column="17" />
         <mark key="." line="55" column="17" />
@@ -123,6 +130,12 @@
         <mark key="^" line="8" column="2" />
         <mark key="." line="8" column="2" />
       </file>
+      <file name="/code/sc/web/sc/app/tasks/customs_justin.py" timestamp="1561680595243">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="29" column="35" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="/code/sc/web/sc/app/reports/survey/charts.py" timestamp="1561654963181">
         <mark key="'" line="21" column="2" />
         <mark key="[" line="18" column="8" />
@@ -153,6 +166,12 @@
         <mark key="[" line="309" column="0" />
         <mark key="]" line="309" column="0" />
         <mark key="." line="309" column="0" />
+      </file>
+      <file name="/code/sc/web/cli/scripts/v700.py" timestamp="1561680496405">
+        <mark key="[" line="13" column="36" />
+        <mark key="]" line="14" column="16" />
+        <mark key="^" line="14" column="16" />
+        <mark key="." line="14" column="16" />
       </file>
       <file name="/code/sc/web/sc/app/reports/reportcard/build.py" timestamp="1561570787824">
         <mark key="'" line="30" column="7" />
@@ -243,11 +262,11 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="68" />
       </file>
-      <file name="/code/sc/web/instance/env.txt" timestamp="1561675992249">
+      <file name="/code/sc/web/instance/env.txt" timestamp="1561680168922">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-        <mark key="^" line="0" column="4" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+        <mark key="^" line="0" column="3" />
       </file>
       <file name="/code/sc/web/static/web/views/settings/providers/details/provider-details.ts" timestamp="1561581485474">
         <mark key="[" line="79" column="0" />
@@ -472,19 +491,20 @@
         <mark key="." line="69" column="37" />
         <mark key="^" line="69" column="37" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1561676641068">
-        <mark key="'" line="796" column="15" />
-        <mark key="[" line="813" column="1" />
-        <mark key="]" line="818" column="27" />
-        <mark key="^" line="818" column="27" />
-        <mark key="." line="818" column="27" />
+      <file name="/code/sc/web/static/web/views/call-tracker/calls-by-tracker/calls-by-tracker.ts" timestamp="1561679753093">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1561680892709">
+        <mark key="'" line="818" column="0" />
+        <mark key="[" line="822" column="21" />
+        <mark key="]" line="823" column="28" />
+        <mark key="^" line="823" column="28" />
+        <mark key="." line="823" column="28" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="17" filename="/code/sc/web/static/web/views/reviews/recovery/recovery.html" />
-      <jump line="55" column="10" filename="/code/sc/web/static/web/views/reviews/recovery/recovery.html" />
-      <jump line="32" column="0" filename="/code/sc/web/sc/app/reports/survey/build.py" />
-      <jump line="0" column="0" filename="/code/sc/web/static/web/views/reportcard/conf/reportcard-conf.dialog.html" />
       <jump line="54" column="0" filename="/code/sc/web/static/web/views/reportcard/reportcard.ts" />
       <jump line="27" column="2" filename="/code/sc/web/static/web/views/marketing-report/search/marketing-report-search.ts" />
       <jump line="34" column="30" filename="/code/sc/web/sc/app/reports/reportcard/build.py" />
@@ -581,40 +601,44 @@
       <jump line="17" column="15" filename="/code/sc/web/static/web/views/notes/details/note-types.ts" />
       <jump line="22" column="8" filename="/code/sc/web/instance/local/develop_settings.py" />
       <jump line="796" column="15" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
+      <jump line="460" column="20" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
+      <jump line="24" column="14" filename="/code/sc/web/instance/local/develop_settings.py" />
+      <jump line="111" column="10" filename="/code/sc/web/cli/scripts/m700.py" />
+      <jump line="819" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhKQo=</text>
+        <text encoding="base64">ICAjIGdldCBpbmZvIHRvIG1ha2UgdXBkYXRlIG9uIEdvb2dsZSdzIHNpZGUKICBhbCA9IEF1dGhMb2Mub25lKGFsLmlkKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZ1bmMuYXZnKEFuc3dlci5yYXRpbmcpLmxhYmVsKCdhdmcnKSwK</text>
+        <text encoding="base64">ICBlbnRyeV9kaWN0ID0gYWwuYXNkaWN0KCkKICBkZWwgZW50cnlfZGljdFsna2luZCddCiAgbm9fc3BhY2VzID0gZW50cnlfZGljdFsnbmFtZSddLnJlcGxhY2UoJyAnLCAnJykKICB1cmwgPSBlbnRyeV9kaWN0LmdldCgnd2Vic2l0ZV91cmwnKQoKICBpZiB1cmw6CiAgICB0ZW1wX3VybCA9IGZ1cmwoZid7dXJsfScpCiAgICBpZiAndXRtX3NvdXJjZScgbm90IGluIHRlbXBfdXJsLmFyZ3M6CiAgICAgIHRlbXBfdXJsLmFyZ3MudXBkYXRlKHsndXRtX3NvdXJjZSc6ICdHTUJTb2NpYWxDbGltYicsICd1dG1fbWVkaXVtJzogbm9fc3BhY2VzfSkKICAgICAgZW50cnlfZGljdFsnZm9ybWF0dGVkX3VybCddID0gdGVtcF91cmwudXJsCiAgICAgIGFsLndlYnNpdGVfdXJsID0gdGVtcF91cmwudXJsCgogICAgZWxzZToKICAgICAgZW50cnlfZGljdFsnZm9ybWF0dGVkX3VybCddID0gdXJsCiAgZWxzZToKICAgIGVudHJ5X2RpY3RbJ2Zvcm1hdHRlZF91cmwnXSA9ICcnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgZnVuYy5hdmcoUmV2aWV3LnJhdGluZykubGFiZWwoJ3N1cnZleV9hdmcnKSwK</text>
+        <text encoding="base64">ICAgICAgIyBnZXQgaW5mbyB0byBtYWtlIHVwZGF0ZSBvbiBHb29nbGUncyBzaWRlCiAgICAgIGFsID0gQXV0aExvYy5vbmUoYWwuaWQpCiAgICAgIGFscyA9IFthbF0KICAgICAgZGF0YSA9IHsnd2Vic2l0ZV91cmwnOiB0ZW1wX3VybC51cmx9CiAgICAgIGdtYl9hcmdzID0gR01CQXJncy5jcmVhdGUoYXV0aD1hbC5hdXRoLCBhbHM9YWxzLCBkYXRhPWRhdGEpCiAgICAgIHVwZGF0ZV9maWVsZChnbWJfYXJncywgYWwpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIC5maWx0ZXIoQW5zd2VyLmtpbmQgPT0gUXVLaW5kLlN0YXJzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIC5maWx0ZXIoQW5zd2VyLmtpbmQgPT0gUXVLaW5kLlN0YXJzKQo=</text>
+        <text encoding="base64">ICBub19zcGFjZXMgPSBzdHJpcF9hbGxfc3BhY2VzKGFsLm5hbWUpCiAgdXJsLmFyZ3MudXBkYXRlKHsndXRtX3NvdXJjZSc6ICdHTUJTb2NpYWxDbGltYicsICd1dG1fbWVkaXVtJzogbm9fc3BhY2VzfSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhbmQgcmV2aWV3cy5jcmVhdGVfdGltZSA+PSAyMDE5IC0gMDQgLSAwMSAwNjowMDowMCswMDowMAogIGFuZCByZXZpZXdzLmNyZWF0ZV90aW1lIDw9IDIwMTktMDctMDEgMDU6NTk6NTkrMDA6MDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">MzU2ICsgMjcwCg==</text>
+        <text encoding="base64">ICBpZiBub3QgYWwud2Vic2l0ZV91cmw6CiAgICByZXR1cm4KICB1cmwgPSBmdXJsKGFsLndlYnNpdGVfdXJsKQogIGlmICd1dG1fc291cmNlJyBpbiB1cmwuYXJnczoKICAgIHJldHVybgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhbmQgZG9jX2lkIGlzIG51bGwK</text>
+        <text encoding="base64">aW1wb3J0IHsgQ2hhcnQsIGdldFN0YXRlLCBnZXRTdGF0ZVBhcmFtcyB9IGZyb20gJ2NvbW1vbi9taXhpbnMvZGlhbG9nJwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IFsnNDk0NicKICAgICwgJzQ5NTEnCiAgICAsICczNDUxJwogICAgLCAnNDk4OCcKICAgICwgJzUwMzcnCiAgICAsICc1MDEyJwogICAgLCAnNDk2OCcKICAgICwgJzUwNDMnCiAgICAsICc0ODg1JwogICAgLCAnNDkzNCcKICAgICwgJzQ4OTUnCiAgICAsICc1MDMxJwogICAgLCAnNTA0OCdd</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>.rows</text>
+        <text>AuthLoc</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
