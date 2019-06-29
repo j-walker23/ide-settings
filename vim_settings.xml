@@ -34,7 +34,7 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="/code/sc/web/sc/app/notes/types.py" timestamp="1561587185791">
+      <file name="/code/sc/web/sc/app/notes/types.py" timestamp="1561780033528">
         <mark key="[" line="6" column="58" />
         <mark key="]" line="7" column="1" />
         <mark key="^" line="7" column="1" />
@@ -70,14 +70,17 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="37" column="0" />
       </file>
+      <file name="/code/sc/web/static/web/views/notes/details/note-replies/note-replies-panel.ts" timestamp="1561780564340">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+        <mark key="^" line="4" column="22" />
+      </file>
       <file name="/code/sc/web/sc/app/tasks/account.py" timestamp="1561570695340">
         <mark key="[" line="25" column="83" />
         <mark key="]" line="25" column="85" />
         <mark key="^" line="25" column="85" />
         <mark key="." line="25" column="85" />
-      </file>
-      <file name="/code/sc/web/static/web/views/nav-toolbar/messaging-service/phone-number/phonenumber.ts" timestamp="1561774076503">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="/code/sc/web/sc/app/notes/send_questions.py" timestamp="1561570651169">
         <mark key="[" line="25" column="14" />
@@ -175,17 +178,14 @@
         <mark key="." line="14" column="33" />
         <mark key="^" line="14" column="33" />
       </file>
-      <file name="/code/sc/web/static/common/services/enums.ts" timestamp="1561582598454">
-        <mark key="[" line="24" column="39" />
-        <mark key="]" line="24" column="39" />
-        <mark key="^" line="24" column="39" />
-        <mark key="." line="24" column="39" />
+      <file name="/code/sc/web/static/common/services/enums.ts" timestamp="1561780096228">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="32" />
+        <mark key="^" line="20" column="27" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="/a.sql" timestamp="1561694340587">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/code/sc/web/static/common/components/grid/grid.ts" timestamp="1561774052472">
-        <mark key="'" line="48" column="13" />
       </file>
       <file name="/code/sc/web/static/web/views/notes/details/note-qs/note-qs.ts" timestamp="1561582352603">
         <mark key="[" line="7" column="0" />
@@ -216,6 +216,13 @@
         <mark key="]" line="17" column="2" />
         <mark key="^" line="17" column="2" />
         <mark key="." line="17" column="2" />
+      </file>
+      <file name="/code/sc/web/static/web/views/notes/details/note-types.ts" timestamp="1561780448486">
+        <mark key="'" line="17" column="15" />
+        <mark key="[" line="27" column="18" />
+        <mark key="]" line="29" column="23" />
+        <mark key="." line="29" column="23" />
+        <mark key="^" line="29" column="23" />
       </file>
       <file name="/code/sc/web/sc/app/tasks/alert.py" timestamp="1561570700526">
         <mark key="[" line="87" column="11" />
@@ -265,13 +272,20 @@
         <mark key="^" line="86" column="34" />
         <mark key="." line="86" column="34" />
       </file>
+      <file name="/code/sc/web/static/web/views/notes/details/note-details.ts" timestamp="1561780341543">
+        <mark key="'" line="35" column="17" />
+        <mark key="[" line="73" column="68" />
+        <mark key="]" line="73" column="74" />
+        <mark key="." line="73" column="74" />
+        <mark key="^" line="73" column="74" />
+      </file>
       <file name="/code/sc/web/static/common/models/user.model.ts" timestamp="1561773223214">
         <mark key="[" line="171" column="0" />
         <mark key="]" line="171" column="0" />
         <mark key="." line="171" column="0" />
         <mark key="^" line="169" column="24" />
       </file>
-      <file name="/code/sc/web/cli/ones.py" timestamp="1561778320545">
+      <file name="/code/sc/web/cli/ones.py" timestamp="1561780004275">
         <mark key="[" line="565" column="9" />
         <mark key="]" line="566" column="11" />
         <mark key="." line="566" column="11" />
@@ -393,9 +407,6 @@
         <mark key="]" line="20" column="30" />
         <mark key="." line="20" column="30" />
         <mark key="^" line="20" column="30" />
-      </file>
-      <file name="/code/sc/web/static/web/views/nav-toolbar/messaging-service/messaging-service.ts" timestamp="1561774041408">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="/code/sc/web/sc/const.py" timestamp="1561772751081" />
       <file name="/code/sc/web/static/web/views/disabled-account/disabled-account.dialog.ts" timestamp="1561773538488">
@@ -574,37 +585,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICBhY2MgPSBBY2NvdW50LmdldCg2NDEpCiAgYWNjLnN1cnZleV9vcHQgPSBGYWxzZQo=</text>
+        <text encoding="base64">ICBhY2MgPSBhcHAuYWNjb3VudAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHVzZXI6IFVzZXIgPSBjdXJyZW50X3VzZXIK</text>
+        <text encoding="base64">ICBhY2MgPSBhcHAuYWNjb3VudAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIFt0b3RhbF09ImN0cmwuJHJlcy50b3RhbCIK</text>
+        <text encoding="base64">ICBMZWdhY3k6IHVuZGVmaW5lZCwKICBMb2NBZG1pbjogdW5kZWZpbmVkLAogIExvY1JlcG9ydENhcmQ6IHVuZGVmaW5lZCwKICBRdWVzdGlvbnM6IHVuZGVmaW5lZCwKICBSZXBvcnRDYXJkOiB1bmRlZmluZWQsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMuZGlhbG9nLnNob3coewogICAgLy8gICB0ZW1wbGF0ZTogYDxzd2l0Y2gtYWNjb3VudHM+PC9zd2l0Y2gtYWNjb3VudHM+YCwKICAgIC8vICAgY2xpY2tPdXRzaWRlVG9DbG9zZTogdHJ1ZSwKICAgIC8vICAgZnVsbHNjcmVlbjogdGhpcy4kbWRNZWRpYSgneHMnKSB8fCB0aGlzLiRtZE1lZGlhKCdzbScpLAogICAgLy8gICBwYXJlbnQ6ICQoZG9jdW1lbnQuYm9keSksCiAgICAvLyAgIHRhcmdldEV2ZW50OiBldiwKICAgIC8vICAgYXV0b1dyYXA6IGZhbHNlLAogICAgLy8gICBwcmVzZXJ2ZVNjb3BlOiB0cnVlLAogICAgLy8gfSkK</text>
+        <text encoding="base64">ICBDb21wYXJlUXVlc3Rpb25zOiB1bmRlZmluZWQsCiAgR21iUXVlc3Rpb25zOiB1bmRlZmluZWQsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaGlkZUNhbmNlbDogdHJ1ZSwK</text>
+        <text encoding="base64">ICBHbWJRdWVzdGlvbnMgPSAnR21iUXVlc3Rpb25zJywK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgc3dpdGNoQWNjKGV2KSB7CiAgICBvcGVuRGlhbChldiwgU3dpdGNoQWNjb3VudHNEaWFsb2csIHsKICAgICAgdGl0bGU6ICdTd2l0Y2ggQWNjb3VudHMnLAogICAgICBvazogJ2dvJywKICAgICAgY2FuY2VsOiAnJywKICAgICAgZXNjYXBlVG9DbG9zZTogZmFsc2UsCiAgICAgIGNsaWNrT3V0c2lkZVRvQ2xvc2U6IGZhbHNlLAogICAgfSkKICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBRdWVzdGlvbnMgPSAnUXVlc3Rpb25zJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaGlkZUNhbmNlbDogdHJ1ZSwK</text>
+        <text encoding="base64">ICBhY2MgPSBBY2NvdW50LmdldCg2NDEpCiAgYWNjLnN1cnZleV9vcHQgPSBGYWxzZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaGlkZUNhbmNlbDogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgIHVzZXI6IFVzZXIgPSBjdXJyZW50X3VzZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAjIHVzZXJzID0gW1VzZXIubmV3KGlkPWlkLCBlbWFpbD1lbWFpbCwgbmFtZT1uYW1lLCBpc19hZG1pbj1UcnVlKSBmb3IgaWQsIGVtYWlsLCBuYW1lIGluIHNoaXRzXQo=</text>
+        <text encoding="base64">ICAgICAgICAgIFt0b3RhbF09ImN0cmwuJHJlcy50b3RhbCIK</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>, deleted=None</text>
+        <text>web/views/notes/details/note-replies</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
