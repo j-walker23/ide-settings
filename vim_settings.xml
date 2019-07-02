@@ -357,6 +357,12 @@
         <mark key="." line="8" column="34" />
         <mark key="^" line="8" column="34" />
       </file>
+      <file name="/code/sc/web/sc/app/reviews/exports.py" timestamp="1562091915552">
+        <mark key="[" line="28" column="8" />
+        <mark key="]" line="28" column="20" />
+        <mark key="." line="28" column="20" />
+        <mark key="^" line="28" column="20" />
+      </file>
       <file name="/code/sc/web/static/web/views/nav-toolbar/messaging-service/messaging-service.html" timestamp="1561774063324">
         <mark key="[" line="20" column="32" />
         <mark key="]" line="20" column="30" />
@@ -709,7 +715,7 @@ where name like '%badia%';</text>
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>[remove_nones(o) for o in val]</text>
+        <text>add_columns</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
