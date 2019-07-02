@@ -300,11 +300,11 @@
         <mark key="^" line="40" column="9" />
         <mark key="." line="40" column="9" />
       </file>
-      <file name="/code/sc/web/instance/env.txt" timestamp="1561799145407">
+      <file name="/code/sc/web/instance/env.txt" timestamp="1562087343414">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-        <mark key="^" line="0" column="4" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+        <mark key="^" line="0" column="3" />
       </file>
       <file name="/code/sc/web/static/web/views/nav-toolbar/messaging-service/phone-number/phone-number.html" timestamp="1561774074011">
         <mark key="[" line="17" column="32" />
@@ -539,12 +539,12 @@
         <mark key="." line="69" column="37" />
         <mark key="^" line="69" column="37" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1561798968845">
-        <mark key="'" line="674" column="0" />
-        <mark key="[" line="716" column="7" />
-        <mark key="]" line="716" column="7" />
-        <mark key="." line="716" column="7" />
-        <mark key="^" line="716" column="7" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1562087755308">
+        <mark key="'" line="698" column="41" />
+        <mark key="[" line="725" column="1" />
+        <mark key="]" line="729" column="18" />
+        <mark key="." line="729" column="18" />
+        <mark key="^" line="729" column="18" />
       </file>
       <file name="/code/sc/web/static/web/views/settings/platforms/platforms.ts" timestamp="1561773694511">
         <mark key="[" line="95" column="23" />
@@ -554,7 +554,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="607" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
       <jump line="631" column="55" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
       <jump line="233" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
       <jump line="744" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
@@ -654,6 +653,7 @@
       <jump line="674" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
       <jump line="54" column="20" filename="/code/sc/web/instance/local/develop_settings.py" />
       <jump line="8" column="13" filename="/code/sc/web/instance/local/develop_settings.py" />
+      <jump line="698" column="41" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -689,7 +689,7 @@ where name like '%badia%';</text>
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>prowd</text>
+        <text>local</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
