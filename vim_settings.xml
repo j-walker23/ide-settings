@@ -189,7 +189,7 @@
         <mark key="^" line="17" column="30" />
         <mark key="." line="17" column="30" />
       </file>
-      <file name="/Python Console" timestamp="1562523693108">
+      <file name="/Python Console" timestamp="1562524984683">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code/sc/web/static/common/components/loader/loader.ts" timestamp="1562505816372">
@@ -266,11 +266,11 @@
         <mark key="^" line="12" column="2" />
         <mark key="." line="12" column="2" />
       </file>
-      <file name="/code/sc/web/sc/app/plats/syncs/runner.py" timestamp="1562523689887">
-        <mark key="[" line="76" column="63" />
-        <mark key="]" line="76" column="67" />
-        <mark key="." line="76" column="67" />
-        <mark key="^" line="76" column="67" />
+      <file name="/code/sc/web/sc/app/plats/syncs/runner.py" timestamp="1562525143773">
+        <mark key="[" line="76" column="51" />
+        <mark key="]" line="76" column="50" />
+        <mark key="." line="76" column="50" />
+        <mark key="^" line="76" column="50" />
       </file>
       <file name="/code/sc/web/static/web/views/survey-summary/question-compare/question-compare.ts" timestamp="1561538864495">
         <mark key="'" line="0" column="0" />
@@ -389,12 +389,12 @@
         <mark key="^" line="111" column="24" />
         <mark key="." line="111" column="24" />
       </file>
-      <file name="/code/sc/web/cli/ones.py" timestamp="1562521966022">
+      <file name="/code/sc/web/cli/ones.py" timestamp="1562525215759">
         <mark key="'" line="557" column="20" />
-        <mark key="[" line="574" column="23" />
-        <mark key="]" line="574" column="27" />
-        <mark key="." line="574" column="27" />
-        <mark key="^" line="574" column="27" />
+        <mark key="[" line="571" column="0" />
+        <mark key="]" line="571" column="0" />
+        <mark key="." line="571" column="0" />
+        <mark key="^" line="571" column="0" />
       </file>
       <file name="/code/sc/web/static/common/models/account.model.ts" timestamp="1561773106605">
         <mark key="[" line="95" column="23" />
@@ -629,11 +629,12 @@
         <mark key="." line="20" column="30" />
         <mark key="^" line="20" column="30" />
       </file>
-      <file name="/code/sc/web/sc/sql/sess_ext.py" timestamp="1562523519183">
+      <file name="/code/sc/web/sc/sql/sess_ext.py" timestamp="1562525075279">
         <mark key="'" line="79" column="8" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="29" />
-        <mark key="." line="90" column="0" />
+        <mark key="[" line="87" column="12" />
+        <mark key="]" line="90" column="11" />
+        <mark key="." line="90" column="11" />
+        <mark key="^" line="90" column="11" />
       </file>
       <file name="/code/sc/web/static/web/views/arrowlytics/arrowlytics.ts" timestamp="1561543380578">
         <mark key="'" line="85" column="2" />
@@ -879,38 +880,38 @@
       <jump line="79" column="8" filename="/code/sc/web/sc/sql/sess_ext.py" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICBqb2luX2VudHMgPSBxLmpvaW5fZW50aXRpZXMK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICBscHMgPSBydW5uZXIuc2VsZWN0X2Zvcl9zaW5nbGVfbG9jYXRpb25fc3luYygnZ29vZ2xlJykuYWxsKClbOjFdCgogIGxwc1swXS5hbC5hdXRoLmRlbGV0ZWRfYXQKCiAgIyBwcmludChwbHVjayhscHMsICdhbC5uYW1lJykpCiAgIyBwcmludChwbHVjayhscHMsICdhbC5hdXRoLm5hbWUnKSkKICAjIGxwc1swXS5hbC5hdXRoLmRlbGV0ZWRfYXQgPSBOb25l</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhZGRlZCA9IHNldCgpCg==</text>
+        <text encoding="base64">CmRlZiBzZWxlY3RfZ2VuZXJhbF9sb2Nfc3luYygqZmlsdGVycywgZmllbGRzPU5vbmUpOgogICIiIiIiIgogIHEgPSAoTG9jYXRpb25QbGF0Zm9ybS5zZWFyY2goKmZpbHRlcnMsIGZpZWxkcz1maWVsZHMpCiAgICAgICAuZmlsdGVyKEF1dGguZGVsZXRlZF9hdC5pc18oTm9uZSkpKQogIHJldHVybiBxCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpZiBraW5kID09IGNvbnN0LmZhY2Vib29rOgogICAgcSA9IHEuZmlsdGVyKEF1dGhMb2MuYWNjZXNzX3Rva2VuID4gJycpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhZGRlZCA9IHNldCgpCg==</text>
+        <text encoding="base64">ICAgICAgICMgLmpvaW4oQXV0aCwgQXV0aExvYy5hdXRoX2lkID09IEF1dGguaWQpCiAgICAgICAjIC5maWx0ZXIoQXV0aC5kZWxldGVkX2F0LmlzXyhOb25lKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcm9wID0gY2xzLmRlbGV0ZWRfYXQuaXNfIGlmIGRlbGV0ZWQgaXMgRmFsc2UgZWxzZSBjbHMuZGVsZXRlZF9hdC5pc25vdAo=</text>
+        <text encoding="base64">ICBqb2luX2VudHMgPSBxLmpvaW5fZW50aXRpZXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgZm9yIGVudCBpbiBjb2xfZGVzY3M6CiAgICBjbHMgPSBlbnRbJ2VudGl0eSddCiAgICBpZiBjbHMgaXMgTm9uZToKICAgICAgY29udGludWUKCiAgICBpZiBub3QgdXRpbHMuaXNtb2RlbChjbHMpOgogICAgICBjb250aW51ZQoKICAgIGlmICdkZWxldGVkX2F0JyBub3QgaW4gY2xzLl9fdGFibGVfXy5jOgogICAgICBjb250aW51ZQoKICAgIGlmIGNscyBpbiBhZGRlZDoKICAgICAgY29udGludWUKCiAgICBxID0gcS5lbmFibGVfYXNzZXJ0aW9ucyhGYWxzZSkKICAgIHByb3AgPSBjbHMuZGVsZXRlZF9hdC5pc18gaWYgZGVsZXRlZCBpcyBGYWxzZSBlbHNlIGNscy5kZWxldGVkX2F0Lmlzbm90CiAgICBjcml0ID0gcHJvcChOb25lKQoKICAgIGlmIGNoZWNrX2V4aXN0aW5nX2ZpbHRlcnMoY3JpdCwgcSk6CiAgICAgIGNvbnRpbnVlCiAgICBhZGRlZC5hZGQoY2xzKQogICAgcSA9IHEuZmlsdGVyKGNyaXQpCg==</text>
+        <text encoding="base64">ICBhZGRlZCA9IHNldCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjcml0ID0gcHJvcChOb25lKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBxID0gCg==</text>
+        <text encoding="base64">ICBhZGRlZCA9IHNldCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhZGRlZC5hZGQoY2xzKQo=</text>
+        <text encoding="base64">ICBwcm9wID0gY2xzLmRlbGV0ZWRfYXQuaXNfIGlmIGRlbGV0ZWQgaXMgRmFsc2UgZWxzZSBjbHMuZGVsZXRlZF9hdC5pc25vdAo=</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>.jn()</text>
+        <text>{auth}</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
