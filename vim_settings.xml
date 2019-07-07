@@ -273,11 +273,11 @@
         <mark key="." line="194" column="36" />
         <mark key="^" line="194" column="36" />
       </file>
-      <file name="/code/sc/web/sc/core/accbinds.py" timestamp="1562473274216">
-        <mark key="[" line="27" column="9" />
-        <mark key="]" line="27" column="17" />
-        <mark key="^" line="27" column="17" />
-        <mark key="." line="27" column="17" />
+      <file name="/code/sc/web/sc/core/accbinds.py" timestamp="1562487508490">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="17" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="/code/sc/web/sc/app/surveys/question/question_agg.py" timestamp="1561779127986">
         <mark key="[" line="86" column="72" />
@@ -701,29 +701,29 @@
       <jump line="54" column="0" filename="/code/sc/web/instance/local/develop_settings.py" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">ICBpZiBhY2NzLmlzX2Rpc2FibGVkOgogICAgcHJpbnQoJ2lzX2Rpc2FibGVkJykKICBlbHNlOgogICAgcHJpbnQoJ2VuYWJsZWQnKQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBpZiBub3QgYWNjOgogICAgcmV0dXJuIGYoKmFyZ3MsICoqa3dhcmdzKQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICMgcmV0dXJuIHNlbGYuZGlzYWJsZWRfZGF0ZSBpcyBub3QgTm9uZSBhbmQgc2VsZi5kaXNhYmxlZF9kYXRlIDwgYXJyb3cubm93KCkK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICBpZiBhY2NzLmlzX2Rpc2FibGVkOgogICAgcHJpbnQoJ2lzX2Rpc2FibGVkJykKICBlbHNlOgogICAgcHJpbnQoJ2VuYWJsZWQnKQ==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICMgcmV0dXJuIHNlbGYuZGlzYWJsZWRfZGF0ZSBpcyBub3QgTm9uZSBhbmQgc2VsZi5kaXNhYmxlZF9kYXRlIDwgYXJyb3cubm93KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcmludChhY2NzKQo=</text>
+        <text encoding="base64">ICAgICMgcmV0dXJuIHNlbGYuZGlzYWJsZWRfZGF0ZSBpcyBub3QgTm9uZSBhbmQgc2VsZi5kaXNhYmxlZF9kYXRlIDwgYXJyb3cubm93KCkK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICBwcmludChhY2NzKQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICBwcmludChwbHVjaygpKQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICBhY2NzOiBMaXN0W0FjY291bnRdID0gKEFjY291bnQuc2VhcmNoKCkKICAgICAgICAgICAgICAgICAgICAgICAgIC5maWx0ZXIoQWNjb3VudC5ub3RpZmljYXRpb25zLmFueShOb3RpZmljYXRpb24uY29udGFjdHMuYW55KCksKSkKICAgICAgICAgICAgICAgICAgICAgICAgICk=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhbmRfKEFjY291bnQuaXNfdGVzdC5pc18oRmFsc2UpLCBBY2NvdW50LmlzX3BlbmRpbmcuaXNfKEZhbHNlKSkK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBhbmRfKEFjY291bnQuaXNfdGVzdC5pc18oRmFsc2UpLCBBY2NvdW50LmlzX3BlbmRpbmcuaXNfKEZhbHNlKSkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
