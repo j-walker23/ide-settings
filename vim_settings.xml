@@ -273,6 +273,12 @@
         <mark key="." line="194" column="36" />
         <mark key="^" line="194" column="36" />
       </file>
+      <file name="/code/sc/web/sc/core/accbinds.py" timestamp="1562467894682">
+        <mark key="[" line="25" column="13" />
+        <mark key="]" line="26" column="28" />
+        <mark key="^" line="26" column="28" />
+        <mark key="." line="26" column="28" />
+      </file>
       <file name="/code/sc/web/sc/app/surveys/question/question_agg.py" timestamp="1561779127986">
         <mark key="[" line="86" column="72" />
         <mark key="]" line="86" column="71" />
@@ -403,6 +409,12 @@
         <mark key="." line="66" column="83" />
         <mark key="^" line="66" column="83" />
       </file>
+      <file name="/code/sc/web/sc/app/tasks/__init__.py" timestamp="1562468129959">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="/code/sc/web/static/common/services/enums.ts" timestamp="1561780096228">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="32" />
@@ -512,6 +524,13 @@
         <mark key="." line="22" column="24" />
         <mark key="^" line="22" column="24" />
       </file>
+      <file name="/code/sc/web/sc/app/tasks/alert.py" timestamp="1562468134463">
+        <mark key="'" line="136" column="20" />
+        <mark key="[" line="108" column="12" />
+        <mark key="]" line="109" column="19" />
+        <mark key="^" line="109" column="19" />
+        <mark key="." line="109" column="19" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" timestamp="1561656050848">
         <mark key="'" line="233" column="0" />
         <mark key="[" line="290" column="0" />
@@ -573,7 +592,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="744" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
       <jump line="13" column="0" filename="/code/sc/web/static/web/views/notes/details/note-rc/note-rc.html" />
       <jump line="17" column="15" filename="/code/sc/web/static/web/views/notes/details/note-types.ts" />
       <jump line="22" column="8" filename="/code/sc/web/instance/local/develop_settings.py" />
@@ -673,24 +691,34 @@
       <jump line="698" column="41" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
       <jump line="387" column="30" filename="/code/sc/web/sc/utils.py" />
       <jump line="232" column="0" filename="/code/sc/web/sc/utils.py" />
+      <jump line="136" column="20" filename="/code/sc/web/sc/app/tasks/alert.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">d2hlcmUgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHJlbW92ZV9ub25lcyh2YWwpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">d2hlcmUgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIHJlbW92ZV9ub25lcyh2YWwpCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgcmV0dXJuIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>def remove_nones(obj):
   &quot;&quot;&quot;&quot;&quot;&quot;
   ret = {}
@@ -699,17 +727,6 @@
       return [remove_nones(o) for o in val]
     elif isinstance(val, dict):
       return remove_nones(obj)</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAsIGF1dGhzLmtpbmQKICAsIGF1dGhzLm5hbWUKICAsIGF1dGhzLmF1dGhfZXJyb3IKICAsIGF1dGhzLmRlbGV0ZWRfYXQKICAsIGF1dGhzLmNyZWRzCiAgLCBhdXRocy5yZWZyZXNoX3Rva2VuCiAgLCBhdXRocy5hY2Nlc3NfdG9rZW4KICAsIGF1dGhzLmlkX3Rva2VuCiAgLCBhdXRocy5jcmVhdGVkX2F0Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvY2F0aW9uX3BsYXRmb3Jtcy5pZAogICwgbG9jYXRpb25fcGxhdGZvcm1zLmtpbmQK</text>
-      </register>
-      <register name="9" type="4">
-        <text>select *
-from accounts a
-where name like '%badia%';</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
