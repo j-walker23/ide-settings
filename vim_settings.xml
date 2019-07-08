@@ -33,12 +33,12 @@
         <mark key="^" line="16" column="21" />
         <mark key="." line="16" column="21" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1562550098452">
-        <mark key="'" line="833" column="0" />
-        <mark key="[" line="838" column="0" />
-        <mark key="]" line="839" column="53" />
-        <mark key="." line="839" column="53" />
-        <mark key="^" line="839" column="53" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1562593541521">
+        <mark key="'" line="816" column="0" />
+        <mark key="[" line="850" column="0" />
+        <mark key="]" line="850" column="0" />
+        <mark key="." line="850" column="0" />
+        <mark key="^" line="847" column="0" />
       </file>
       <file name="/code/sc/web/sc/mods/iframe/views.py" timestamp="1562576694858">
         <mark key="[" line="178" column="20" />
@@ -286,12 +286,12 @@
         <mark key="." line="168" column="19" />
         <mark key="^" line="168" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1562591987447">
-        <mark key="'" line="766" column="0" />
-        <mark key="[" line="830" column="62" />
-        <mark key="]" line="830" column="62" />
-        <mark key="." line="830" column="62" />
-        <mark key="^" line="830" column="62" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1562593547438">
+        <mark key="'" line="781" column="7" />
+        <mark key="[" line="842" column="0" />
+        <mark key="]" line="848" column="0" />
+        <mark key="." line="848" column="0" />
+        <mark key="^" line="848" column="0" />
       </file>
       <file name="/code/sc/web/static/web/views/survey-summary/survey-summary.html" timestamp="1562497789019">
         <mark key="'" line="0" column="0" />
@@ -387,8 +387,8 @@
         <mark key="^" line="9" column="2" />
         <mark key="." line="9" column="2" />
       </file>
-      <file name="/code/sc/web/sc/app/tasks/customs.py" timestamp="1562590399198">
-        <mark key="'" line="195" column="0" />
+      <file name="/code/sc/web/sc/app/tasks/customs.py" timestamp="1562593070960">
+        <mark key="'" line="99" column="19" />
         <mark key="[" line="99" column="30" />
         <mark key="]" line="99" column="31" />
         <mark key="." line="99" column="31" />
@@ -535,9 +535,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="12" filename="/code/sc/web/sc/app/plats/syncs/cron/starters.py" />
-      <jump line="147" column="0" filename="/code/sc/web/sc/app/plats/syncs/cron/starters.py" />
-      <jump line="128" column="0" filename="/code/sc/web/sc/app/plats/syncs/cron/starters.py" />
       <jump line="131" column="40" filename="/code/sc/web/sc/app/plats/syncs/cron/starters.py" />
       <jump line="133" column="0" filename="/code/sc/web/sc/app/plats/syncs/cron/starters.py" />
       <jump line="76" column="49" filename="/code/sc/web/sc/app/plats/syncs/cron/starters.py" />
@@ -635,34 +632,37 @@
       <jump line="808" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
       <jump line="37" column="11" filename="/code/sc/web/instance/local/develop_settings.py" />
       <jump line="766" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
+      <jump line="99" column="19" filename="/code/sc/web/sc/app/tasks/customs.py" />
+      <jump line="781" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
+      <jump line="816" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWNzID0gbWluKGkgKiAyLCA2MCAqIDUpCg==</text>
+        <text encoding="base64">d2hlcmUgYWNjb3VudF9pZCA9IDYzNAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBmaWVsZHMgPSAncGxhdGZvcm17aW1hZ2VfdXJsLG5hbWUsaXNfc3VydmV5fSxpbnZpdGV7Y3JlYXRlZF9ieSxuYW1lLHNlbnRfdG99LGxvY2F0aW9ue25hbWV9LGNhbXBhaWdue25hbWV9LGNvbW1lbnRzLnNlbCgpe2NoaWxkcmVuLnNlbCgpLmFsaWFzZWQoKX0sbG9jYXRpb25fcGxhdGZvcm0ub3V0KCl7YWxfaWR9Jwo=</text>
+        <text encoding="base64">ZGVsZXRlIGZyb20gcmV2aWV3cyB3aGVyZSBjcmVhdGVkX2F0ID4gbm93KCkgLSBpbnRlcnZhbCA1IGhvdXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWNzID0gbWluKGkgKiAyLCA2MCAqIDUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBmaWVsZHMgPSAncGxhdGZvcm17aW1hZ2VfdXJsLG5hbWUsaXNfc3VydmV5fSxpbnZpdGV7Y3JlYXRlZF9ieSxuYW1lLHNlbnRfdG99LGxvY2F0aW9ue25hbWV9LGNhbXBhaWdue25hbWV9LGNvbW1lbnRzLnNlbCgpe2NoaWxkcmVuLnNlbCgpLmFsaWFzZWQoKX0sbG9jYXRpb25fcGxhdGZvcm0ub3V0KCl7YWxfaWR9Jwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzeW5jaW5nLnJ1bmxvY2F0aW9uLmRlbGF5KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpZiBjYXNlKCdzeW5jaW5nLnJ1bmxvY2F0aW9uJyk6CiAgICBfcnVubG9jKGpzKQoK</text>
+        <text encoding="base64">ICBzeW5jaW5nLnJ1bmxvY2F0aW9uLmRlbGF5KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN5bmNpbmcucnVubG9jYXRpb24uZGVsYXkoKQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxwID0gCg==</text>
+        <text encoding="base64">ICBpZiBjYXNlKCdzeW5jaW5nLnJ1bmxvY2F0aW9uJyk6CiAgICBfcnVubG9jKGpzKQoK</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
