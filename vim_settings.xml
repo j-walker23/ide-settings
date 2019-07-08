@@ -194,12 +194,12 @@
         <mark key="." line="168" column="19" />
         <mark key="^" line="168" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1562593547438">
-        <mark key="'" line="781" column="7" />
-        <mark key="[" line="842" column="0" />
-        <mark key="]" line="848" column="0" />
-        <mark key="." line="848" column="0" />
-        <mark key="^" line="848" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1562600563890">
+        <mark key="'" line="837" column="5" />
+        <mark key="[" line="853" column="14" />
+        <mark key="]" line="853" column="17" />
+        <mark key="." line="853" column="17" />
+        <mark key="^" line="853" column="17" />
       </file>
       <file name="/code/sc/web/sc/mods/web/rest/accounts/plats/location_platforms_view.py" timestamp="1562596710316" />
       <file name="/code/sc/web/cli/ones.py" timestamp="1562576222594">
@@ -391,7 +391,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="13" filename="/code/sc/web/sc/app/plats/listings/google/qna.py" />
       <jump line="174" column="13" filename="/code/sc/web/sc/app/plats/listings/google/qna.py" />
       <jump line="142" column="0" filename="/code/sc/web/sc/app/tasks/alert.py" />
       <jump line="22" column="0" filename="/code/sc/web/sc/app/tasks/alert.py" />
@@ -491,6 +490,7 @@
       <jump line="196" column="11" filename="/code/sc/web/sc/app/plats/listings/insights/google.py" />
       <jump line="50" column="15" filename="/code/sc/web/instance/local/develop_settings.py" />
       <jump line="816" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
+      <jump line="837" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
     </jumps>
     <registers>
       <register name="1" type="4">
@@ -524,7 +524,7 @@
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>.debug_print()</text>
+        <text>user</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
