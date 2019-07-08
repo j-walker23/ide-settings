@@ -55,6 +55,12 @@
         <mark key="^" line="177" column="0" />
         <mark key="." line="177" column="0" />
       </file>
+      <file name="/code/sc/web/sc/coms/ext/mailer.py" timestamp="1562623286028">
+        <mark key="[" line="168" column="8" />
+        <mark key="]" line="168" column="11" />
+        <mark key="." line="168" column="11" />
+        <mark key="^" line="168" column="11" />
+      </file>
       <file name="/code/sc/web/sc/sql/location/platform.py" timestamp="1562595449880">
         <mark key="[" line="52" column="13" />
         <mark key="]" line="52" column="12" />
@@ -276,6 +282,9 @@
         <mark key="." line="234" column="73" />
         <mark key="^" line="234" column="73" />
       </file>
+      <file name="/code/sc/web/sc/mods/web/rest/accounts/loc_invites_view.py" timestamp="1562623245925">
+        <mark key="^" line="26" column="16" />
+      </file>
       <file name="/code/sc/web/sc/coms/search/search.py" timestamp="1562572941128">
         <mark key="[" line="111" column="32" />
         <mark key="]" line="111" column="31" />
@@ -333,6 +342,12 @@
         <mark key="]" line="62" column="33" />
         <mark key="." line="62" column="33" />
         <mark key="^" line="62" column="33" />
+      </file>
+      <file name="/code/sc/web/sc/app/surveys/crud.py" timestamp="1562623710646">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="10" />
+        <mark key="^" line="34" column="21" />
+        <mark key="." line="37" column="10" />
       </file>
       <file name="/code/sc/web/sc/app/reviews/crud.py" timestamp="1562561772842">
         <mark key="[" line="46" column="80" />
@@ -475,38 +490,38 @@
       <jump line="189" column="25" filename="/code/sc/web/sc/sql/platform/auth_loc/__init__.py" />
     </jumps>
     <registers>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHdpdGggd2Fybl93ZWIoKToK</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgc2VuZF9pbnZpdGVzLnNlbmQoaW52aXRlKQogICAgICByZXR1cm4gaW52aXRl</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CiAgQGh5YnJpZF9wcm9wZXJ0eQogIGRlZiB1bmFuc3dlcmVkX2NvdW50KGNscyk6CiAgICAiIiIiIiIKICAgIGZyb20gc2Muc3FsIGltcG9ydCBBdXRoTG9jUXVlc3Rpb24KICAgIHJldHVybiAoCiAgICAgIHNlbGVjdChbZnVuYy5jb3VudChBdXRoTG9jUXVlc3Rpb24uaWQpXSkKICAgICAgICAud2hlcmUoY2xzLmlkID09IEF1dGhMb2NRdWVzdGlvbi5hbF9pZCkKICAgICAgICAubGFiZWwoJ3VuYW5zd2VyZWRfY291bnQnKQogICAgKQ==</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgLm91dGVyam9pbihBdXRoTG9jUXVlc3Rpb24sIGFuZF8oQXV0aExvYy5pZCA9PSBBdXRoTG9jUXVlc3Rpb24uYWxfaWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH5BdXRoTG9jUXVlc3Rpb24uYW5zd2Vycy5hbnkoQXV0aExvY0Fuc3dlci5hbnNfdHlwZSA9PSAnTUVSQ0hBTlQnKSkpCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGZ1bmMuY291bnQoZnVuYy5kaXN0aW5jdChBdXRoTG9jUXVlc3Rpb24uaWQpKS5sYWJlbCgndW5hbnN3ZXJlZF9xdWVzdGlvbnMnKQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGZyb20gc2Muc3FsLmxvY2F0aW9uLnBsYXRmb3JtIGltcG9ydCBMb2NhdGlvblBsYXRmb3JtCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CmNsYXNzIEF1dGhMb2NRc0NvbERlZihvYmplY3QpOgogIHF1ZXN0aW9uX2lkID0gZGF0dHIobGFtYmRhIGNsczogZGVmZXJyZWQoQ29sdW1uKEludGVnZXIsIEZvcmVpZ25LZXkoJ2F1dGhfbG9jX3F1ZXN0aW9ucy5pZCcsIG9uZGVsZXRlPSdjYXNjYWRlJyksIG51bGxhYmxlPUZhbHNlKSwgZ3JvdXA9J2ZrcycpKQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">Y3JlYXRlIGZ1bmN0aW9uIGRhdGVfdHJ1bmModkludGVydmFsIHZhcmNoYXIoNykKICAgICAgICAgICAgICAgICAgICAgICAgICAsIHZEYXRlICAgIHRpbWVzdGFtcCkgcmV0dXJucyB0aW1lc3RhbXAKYmVnaW4KICAgIGRlY2xhcmUgdG9SZXR1cm4gdGltZXN0YW1wOwoKICAgIGlmIHZJbnRlcnZhbCA9ICd5ZWFyJwogICAgdGhlbgogICAgICAgIHNldCB0b1JldHVybiA9IGRhdGVfYWRkKCcxOTAwLTAxLTAxJywgaW50ZXJ2YWwgVElNRVNUQU1QRElGRih5ZWFyLCAnMTkwMC0wMS0wMScsIHZEYXRlKSB5ZWFyKTsKICAgIGVsc2VpZiB2SW50ZXJ2YWwgPSAncXVhcnRlcicKICAgIHRoZW4KICAgICAgICBzZXQgdG9SZXR1cm4gPSBkYXRlX2FkZCgnMTkwMC0wMS0wMScsIGludGVydmFsIFRJTUVTVEFNUERJRkYocXVhcnRlciwgJzE5MDAtMDEtMDEnLCB2RGF0ZSkgcXVhcnRlcik7CiAgICBlbHNlaWYgdkludGVydmFsID0gJ21vbnRoJwogICAgdGhlbgogICAgICAgIHNldCB0b1JldHVybiA9IGRhdGVfYWRkKCcxOTAwLTAxLTAxJywgaW50ZXJ2YWwgVElNRVNUQU1QRElGRihtb250aCwgJzE5MDAtMDEtMDEnLCB2RGF0ZSkgbW9udGgpOwogICAgZWxzZWlmIHZJbnRlcnZhbCA9ICd3ZWVrJwogICAgdGhlbgogICAgICAgIHNldCB0b1JldHVybiA9IGRhdGVfYWRkKCcxOTAwLTAxLTAxJywgaW50ZXJ2YWwgVElNRVNUQU1QRElGRih3ZWVrLCAnMTkwMC0wMS0wMScsIHZEYXRlKSB3ZWVrKTsKICAgIGVsc2VpZiB2SW50ZXJ2YWwgPSAnZGF5JwogICAgdGhlbgogICAgICAgIHNldCB0b1JldHVybiA9IGRhdGVfYWRkKCcxOTAwLTAxLTAxJywgaW50ZXJ2YWwgVElNRVNUQU1QRElGRihkYXksICcxOTAwLTAxLTAxJywgdkRhdGUpIGRheSk7CiAgICBlbHNlaWYgdkludGVydmFsID0gJ2hvdXInCiAgICB0aGVuCiAgICAgICAgc2V0IHRvUmV0dXJuID0gZGF0ZV9hZGQoJzE5MDAtMDEtMDEnLCBpbnRlcnZhbCBUSU1FU1RBTVBESUZGKGhvdXIsICcxOTAwLTAxLTAxJywgdkRhdGUpIGhvdXIpOwogICAgZWxzZWlmIHZJbnRlcnZhbCA9ICdtaW51dGUnCiAgICB0aGVuCiAgICAgICAgc2V0IHRvUmV0dXJuID0gZGF0ZV9hZGQoJzE5MDAtMDEtMDEnLCBpbnRlcnZhbCBUSU1FU1RBTVBESUZGKG1pbnV0ZSwgJzE5MDAtMDEtMDEnLCB2RGF0ZSkgbWludXRlKTsKICAgIGVuZCBpZjsKCiAgICByZXR1cm4gdG9SZXR1cm47CmVuZAo7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHNlbGYuZGVidWdfcHJpbnQoKQogICAgIyByZXR1cm4gc3VwZXIoKS5fX2l0ZXJfXygpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcmludChxKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>debug</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
