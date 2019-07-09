@@ -41,12 +41,11 @@
         <mark key="^" line="16" column="19" />
         <mark key="." line="16" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1562693176336">
-        <mark key="'" line="740" column="106" />
-        <mark key="[" line="1004" column="0" />
-        <mark key="]" line="1004" column="0" />
-        <mark key="." line="1004" column="0" />
-        <mark key="^" line="1004" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1562695288245">
+        <mark key="[" line="1003" column="0" />
+        <mark key="]" line="1003" column="0" />
+        <mark key="." line="1003" column="0" />
+        <mark key="^" line="1002" column="27" />
       </file>
       <file name="/code/sc/web/sc/mods/iframe/views.py" timestamp="1562576694858">
         <mark key="[" line="178" column="20" />
@@ -89,12 +88,12 @@
         <mark key="." line="54" column="17" />
         <mark key="^" line="54" column="17" />
       </file>
-      <file name="/code/sc/web/sc/app/plats/syncs/cron/starters.py" timestamp="1562692932364">
-        <mark key="'" line="212" column="0" />
-        <mark key="[" line="120" column="14" />
-        <mark key="]" line="120" column="13" />
-        <mark key="." line="120" column="13" />
-        <mark key="^" line="120" column="13" />
+      <file name="/code/sc/web/sc/app/plats/syncs/cron/starters.py" timestamp="1562695209165">
+        <mark key="'" line="211" column="0" />
+        <mark key="[" line="145" column="19" />
+        <mark key="]" line="145" column="18" />
+        <mark key="." line="145" column="18" />
+        <mark key="^" line="145" column="18" />
       </file>
       <file name="/code/sc/web/sc/errors.py" timestamp="1562592044347">
         <mark key="[" line="32" column="5" />
@@ -211,6 +210,9 @@
         <mark key="]" line="42" column="54" />
         <mark key="." line="42" column="54" />
         <mark key="^" line="42" column="54" />
+      </file>
+      <file name="/Python Console" timestamp="1562695031279">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/code/sc/web/sc/app/tasks/syncing.py" timestamp="1562692296277">
         <mark key="'" line="92" column="0" />
@@ -411,7 +413,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="51" filename="/code/sc/web/sc/mods/web/rest/accounts/gmb_questions_view.py" />
       <jump line="136" column="0" filename="/code/sc/web/sc/app/plats/syncs/cron/starters.py" />
       <jump line="175" column="20" filename="/code/sc/web/sc/app/plats/syncs/cron/starters.py" />
       <jump line="24" column="49" filename="/code/sc/web/sc/app/plats/syncs/cron/starters.py" />
@@ -511,9 +512,22 @@
       <jump line="43" column="0" filename="/code/sc/web/migrations/keepers.sql" />
       <jump line="740" column="106" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
       <jump line="861" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
+      <jump line="858" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
     </jumps>
     <registers>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzZWNzID0gbWluKGksIDYwICogNjAgKiA1KQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">YW5kIGlzX2dvb2QgPSBmYWxzZQo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">c2VsZWN0CiAgICBsb2NhdGlvbl9wbGF0Zm9ybXMuaWQKICAsIGxvY2F0aW9uX3BsYXRmb3Jtcy5raW5kCiAgLCBsb2NhdGlvbl9wbGF0Zm9ybXMucmV2aWV3X3VybAogICwgYXV0aHMuaWQKICAsIGF1dGhzLmtpbmQKICAsIGF1dGhzLm5hbWUKICAsIGNvbmNhdChjb25jYXQoY29uY2F0KGNvbmNhdChjb25jYXQoY29uY2F0KGF1dGhfbG9jcy5zdHJlZXQsICcsICcpLCBhdXRoX2xvY3MuY2l0eSksICcsICcpLCBhdXRoX2xvY3Muc3RhdGUpLCAnICcpLAogICAgICAgICAgIGF1dGhfbG9jcy5wb3N0YWwpICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcyBhbm9uXzEKICAsIGF1dGhfbG9jcy5pZAogICwgYXV0aF9sb2NzLnN0cmVldAogICwgYXV0aF9sb2NzLmNpdHkKICAsIGF1dGhfbG9jcy5zdGF0ZQogICwgYXV0aF9sb2NzLnBvc3RhbAogICwgYXV0aF9sb2NzLmNvdW50cnkKICAsIGF1dGhfbG9jcy5nZW8KICAsIGF1dGhfbG9jcy5wcmltYXJ5X2NhdGVnb3J5CiAgLCBhdXRoX2xvY3MuYWRkaXRpb25hbF9jYXRlZ29yaWVzCiAgLCBhdXRoX2xvY3MucmVndWxhcl9ob3VycwogICwgYXV0aF9sb2NzLnNwZWNpYWxfaG91cnMKICAsIGF1dGhfbG9jcy5zZXJ2aWNlX2FyZWEKICAsIGF1dGhfbG9jcy5sb2NhdGlvbl9rZXkKICAsIGF1dGhfbG9jcy5vcGVuX2luZm8KICAsIGF1dGhfbG9jcy5sb2NhdGlvbl9zdGF0ZQogICwgYXV0aF9sb2NzLmF0dHJpYnV0ZXMKICAsIGF1dGhfbG9jcy5tZXRhX2RhdGEKICAsIGF1dGhfbG9jcy53ZWJzaXRlX3VybAogICwgYXV0aF9sb2NzLmxhdGxuZwogICwgYXV0aF9sb2NzLmxhbmd1YWdlX2NvZGUKICAsIGF1dGhfbG9jcy5hZGRpdGlvbmFsX3Bob25lcwogICwgYXV0aF9sb2NzLmxhYmVscwogICwgYXV0aF9sb2NzLmZvbGxvd2VycwogICwgYXV0aF9sb2NzLmNhdGVnb3J5CiAgLCBhdXRoX2xvY3MubGluawogICwgYXV0aF9sb2NzLmFjY2Vzc190b2tlbgogICwgYXV0aF9sb2NzLmlzX3ZlcmlmaWVkCiAgLCBhdXRoX2xvY3MuaXNfcHVibGlzaGVkCiAgLCBhdXRoX2xvY3MuaXNfdW5jbGFpbWVkCiAgLCBhdXRoX2xvY3MuaXNfcGVybWFuZW50bHlfY2xvc2VkCiAgLCBhdXRoX2xvY3MuaXNfd2ViaG9va3Nfc3Vic2NyaWJlZAogICwgYXV0aF9sb2NzLnVzZXJuYW1lCiAgLCBhdXRoX2xvY3MuZWlkCiAgLCBhdXRoX2xvY3MubmFtZQogICwgYXV0aF9sb2NzLmtpbmQKICAsIGF1dGhfbG9jcy5wYXJlbnRfaWQKICAsIGF1dGhfbG9jcy5wYXJlbnRfbmFtZQogICwgYXV0aF9sb2NzLnBob25lCiAgLCBhdXRoX2xvY3Muc3RvcmVfY29kZQogICwgYXV0aF9sb2NzLmFkZHkKICAsIGF1dGhfbG9jcy5pc19nb29kCiAgLCBhdXRoX2xvY3MucHJvZmlsZQogICwgYXV0aF9sb2NzLnByb2ZpbGVfaW1nCiAgLCBhdXRoX2xvY3MuY292ZXJfaW1nCiAgLCBhdXRoX2xvY3MuaGFzX3JlYWx0aW1lCiAgLCBhdXRoX2xvY3MuY2FsbF90cmFja2VyX2lkCiAgLCBhdXRoX2xvY3MuY3JlYXRlZF9hdAogICwgYXV0aF9sb2NzLmRlbGV0ZWRfYXQKICAsIGF1dGhfbG9jcy5hY2NvdW50X2lkCiAgLCBhdXRoX2xvY3MuYXV0aF9pZAogICwgYXV0aF9sb2NzLnBsYXRmb3JtX2lkCiAgLCBhdXRoX2xvY3MucHJvdl9pZAogICwgbG9jYXRpb25fcGxhdGZvcm1zLmxvY2F0aW9uX2lkCiAgLCAoCiAgICAgICAgc2VsZWN0CiAgICAgICAgICAgICAgICBJRihnbWJfc2NvcmVzLnByb2ZpbGVfcGljLCAxLCAwKSArIElGKGdtYl9zY29yZXMuY292ZXJfcGljLCAxLCAwKSArIElGKGdtYl9zY29yZXMuY2F0cywgMSwgMCkgKwogICAgICAgICAgICAgICAgSUYoZ21iX3Njb3Jlcy5iaXpfZGVzYywgMSwgMCkgKyBJRihnbWJfc2NvcmVzLnVybCwgMC41LCAwKSArIElGKGdtYl9zY29yZXMudXJsX2NhdHMsIDAuNSwgMCkgKwogICAgICAgICAgICAgICAgSUYoZ21iX3Njb3Jlcy52b2x1bWUsIDEsIDApICsgSUYoZ21iX3Njb3Jlcy5yYXRpbmcsIDEsIDApICsgSUYoZ21iX3Njb3Jlcy5mb2xsb3dlcnMsIDEsIDApIGFzIGFub25fMgogICAgICAgIGZyb20gZ21iX3Njb3JlcwogICAgICAgIHdoZXJlIGF1dGhfbG9jcy5pZCA9IGdtYl9zY29yZXMuaWQKICAgICkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXMgc2NvcmVfdG90YWwKICAsICgKICAgICAgICBzZWxlY3QKICAgICAgICAgICAgc3VtKGdvb2dsZV9pbnNpZ2h0cy5jb3VudCkgYXMgc3VtXzEKICAgICAgICBmcm9tIGdvb2dsZV9pbnNpZ2h0cwogICAgICAgIHdoZXJlIGxvY2F0aW9uX3BsYXRmb3Jtcy5pZCA9IGdvb2dsZV9pbnNpZ2h0cy5scF9pZAogICAgICAgICAgYW5kIGdvb2dsZV9pbnNpZ2h0cy5raW5kID0gJ2FjdGlvbnNfd2Vic2l0ZScKICAgICAgICAgIGFuZCBnb29nbGVfaW5zaWdodHMuc3RhcnQgPiAnMjAxOS0wNC0wOFQxNTowODo0Ny4zMjM0MDMrMDA6MDAnCiAgICApICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFzIHdlYnNpdGVzCiAgLCAoCiAgICAgICAgc2VsZWN0CiAgICAgICAgICAgIHN1bShnb29nbGVfaW5zaWdodHMuY291bnQpIGFzIHN1bV8yCiAgICAgICAgZnJvbSBnb29nbGVfaW5zaWdodHMKICAgICAgICB3aGVyZSBsb2NhdGlvbl9wbGF0Zm9ybXMuaWQgPSBnb29nbGVfaW5zaWdodHMubHBfaWQKICAgICAgICAgIGFuZCBnb29nbGVfaW5zaWdodHMua2luZCA9ICdhY3Rpb25zX3Bob25lJwogICAgICAgICAgYW5kIGdvb2dsZV9pbnNpZ2h0cy5zdGFydCA+ICcyMDE5LTA0LTA4VDE1OjA4OjQ3LjMyMzk4MCswMDowMCcKICAgICkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXMgcGhvbmVzCiAgLCAoCiAgICAgICAgc2VsZWN0CiAgICAgICAgICAgIHN1bShnb29nbGVfaW5zaWdodHMuY291bnQpIGFzIHN1bV8zCiAgICAgICAgZnJvbSBnb29nbGVfaW5zaWdodHMKICAgICAgICB3aGVyZSBsb2NhdGlvbl9wbGF0Zm9ybXMuaWQgPSBnb29nbGVfaW5zaWdodHMubHBfaWQKICAgICAgICAgIGFuZCBnb29nbGVfaW5zaWdodHMua2luZCA9ICdhY3Rpb25zX2RyaXZpbmdfZGlyZWN0aW9ucycKICAgICAgICAgIGFuZCBnb29nbGVfaW5zaWdodHMuc3RhcnQgPiAnMjAxOS0wNC0wOFQxNTowODo0Ny4zMjQxOTgrMDA6MDAnCiAgICApICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFzIGRyaXZpbmcKICAsICgKICAgICAgICBzZWxlY3QKICAgICAgICAgICAgc3VtKGdvb2dsZV9pbnNpZ2h0cy5jb3VudCkgYXMgc3VtXzQKICAgICAgICBmcm9tIGdvb2dsZV9pbnNpZ2h0cwogICAgICAgIHdoZXJlIGxvY2F0aW9uX3BsYXRmb3Jtcy5pZCA9IGdvb2dsZV9pbnNpZ2h0cy5scF9pZAogICAgICAgICAgYW5kIGdvb2dsZV9pbnNpZ2h0cy5raW5kIGluICgncXVlcmllc19kaXJlY3QnLCAncXVlcmllc19pbmRpcmVjdCcpCiAgICAgICAgICBhbmQgZ29vZ2xlX2luc2lnaHRzLnN0YXJ0ID4gJzIwMTktMDQtMDhUMTU6MDg6NDcuMzI0NTg1KzAwOjAwJwogICAgKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcyBpbnNpZ2h0X3ZpZXdzCiAgLCAoCiAgICAgICAgc2VsZWN0IGNvdW50KHJldmlld3MuaWQpIGFzIGNvdW50XzEgZnJvbSByZXZpZXdzIHdoZXJlIGxvY2F0aW9uX3BsYXRmb3Jtcy5pZCA9IHJldmlld3MubG9jYXRpb25fcGxhdGZvcm1faWQKICAgICkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXMgcmV2X2NvdW50CiAgLCAoCiAgICAgICAgc2VsZWN0IGF2ZyhyZXZpZXdzLnJhdGluZykgYXMgYXZnXzEgZnJvbSByZXZpZXdzIHdoZXJlIGxvY2F0aW9uX3BsYXRmb3Jtcy5pZCA9IHJldmlld3MubG9jYXRpb25fcGxhdGZvcm1faWQKICAgICkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXMgcmV2X2F2ZwogICwgZ3JlYXRlc3QoKAogICAgICAgICAgICAgICAgIHNlbGVjdAogICAgICAgICAgICAgICAgICAgICBjb3VudChpbnZpdGVzLmlkKSBhcyBjb3VudF8yCiAgICAgICAgICAgICAgICAgZnJvbSBpbnZpdGVzCiAgICAgICAgICAgICAgICAgd2hlcmUgaW52aXRlcy5sb2NhdGlvbl9pZCA9IGxvY2F0aW9uX3BsYXRmb3Jtcy5sb2NhdGlvbl9pZCBhbmQgaW52aXRlcy5zZWNfbG9jX2lkIGlzIG51bGwKICAgICAgICAgICAgICksICgKICAgICAgICAgICAgICAgICAgICBzZWxlY3QgY291bnQoaW52aXRlcy5pZCkgYXMgY291bnRfMwogICAgICAgICAgICAgICAgICAgIGZyb20gaW52aXRlcwogICAgICAgICAgICAgICAgICAgIHdoZXJlIGludml0ZXMuc2VjX2xvY19pZCA9IGxvY2F0aW9uX3BsYXRmb3Jtcy5sb2NhdGlvbl9pZAogICAgICAgICAgICAgKSkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcyBlbmRfaW52X2NvdW50CmZyb20gYXV0aF9sb2NzCiAgICBpbm5lciBqb2luICAgICAgYXV0aHMgb24gYXV0aHMuaWQgPSBhdXRoX2xvY3MuYXV0aF9pZAogICAgbGVmdCBvdXRlciBqb2luIGxvY2F0aW9uX3BsYXRmb3JtcyBvbiBhdXRoX2xvY3MuaWQgPSBsb2NhdGlvbl9wbGF0Zm9ybXMuYWxfaWQKd2hlcmUgNjc5ID0gYXV0aF9sb2NzLmFjY291bnRfaWQKICBhbmQgYXV0aF9sb2NzLmRlbGV0ZWRfYXQgaXMgbnVsbAogIGFuZCBsb2NhdGlvbl9wbGF0Zm9ybXMuZGVsZXRlZF9hdCBpcyBudWxsCiAgYW5kIGF1dGhzLmRlbGV0ZWRfYXQgaXMgbnVsbAogIGFuZCBhdXRoX2xvY3Mua2luZCBpbiAoJ2dvb2dsZScpCm9yZGVyIGJ5CiAgICBhdXRoX2xvY3MubmFtZSBhc2MKICAsIGF1dGhfbG9jcy5uYW1lIGFzYwo7CgpzZWxlY3QgKgpmcm9tIG5vdGlmaWNhdGlvbnMgbgp3aGVyZSBpZCA9IDQwMTAKOwoKCnNlbGVjdCAqCmZyb20gYXV0aF9sb2NzICAgICAgICAgICAgICBhCiAgICBqb2luIGF1dGhzICAgICAgICAgICAgICBhMiBvbiBhLmF1dGhfaWQgPSBhMi5pZAogICAgam9pbiBsb2NhdGlvbl9wbGF0Zm9ybXMgbHAgb24gYS5pZCA9IGxwLmFsX2lkCndoZXJlIGEua2luZCA9ICdnb29nbGUnIGFuZCBhLmRlbGV0ZWRfYXQgaXMgbnVsbCBhbmQgYTIuZGVsZXRlZF9hdCBpcyBudWxsIGFuZCBscC5kZWxldGVkX2F0IGlzIG51bGwKYW5kIGlzX2dvb2QgPSBmYWxzZQo7CgoK</text>
+      </register>
+      <register name="5" type="4">
         <text>update location_platforms lp
 join auth_locs al on lp.al_id = al.id
 join auths a on al.auth_id = a.id
@@ -521,38 +535,26 @@ set al_id = null
 where a.kind = 'google' and a.deleted_at is null and al.deleted_at is null and lp.deleted_at is null and is_good = false
 ;</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>update location_platforms lp join auth_locs al on lp.al_id = al.id join auths a on al.auth_id = a.id
 set al_id = null
 where a.kind = 'google' and a.deleted_at is null and al.deleted_at is null and lp.deleted_at is null and is_good = false
 ;</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICMgd2VuZHkgPSAnRXJpYyBUJywgJ0VyaWMgSicsICdSYW5keScsICdWaWN0b3InCiAgICB3ZW5keV9pZCA9ICcwMDU2QTAwMDAwMk84eUlRQVMnCiAgICBvd25lciA9IE5vbmUKICAgIGlmIHpvbmU6CiAgICAgIGlmIGFueShtIGluIHpvbmUgZm9yIG0gaW4gbWFyeSk6CiAgICAgICAgb3duZXIgPSBtYXJ5X2lkCiAgICAgIGVsc2U6CiAgICAgICAgb3duZXIgPSB3ZW5keV9pZAo=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICMgd2VuZHkgPSAnRXJpYyBUJywgJ0VyaWMgSicsICdSYW5keScsICdWaWN0b3InCiAgICB3ZW5keV9pZCA9ICcwMDU2QTAwMDAwMk84eUlRQVMnCiAgICBvd25lciA9IE5vbmUKICAgIGlmIHpvbmU6CiAgICAgIGlmIGFueShtIGluIHpvbmUgZm9yIG0gaW4gbWFyeSk6CiAgICAgICAgb3duZXIgPSBtYXJ5X2lkCiAgICAgIGVsc2U6CiAgICAgICAgb3duZXIgPSB3ZW5keV9pZAo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1hcnkgPSAnVmluY2VudCcsICdKZW5uaW5ncycsICdUeWxlcicsICdLZXppYScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRhc2soY3JvbnRhYig0NSwgMTApLCBzeW5jaW5nLnN0YXJ0X3J1bl9pbnNpZ2h0cy5zKCksICoqb3B0cykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>a2</text>
+        <text>i * 4</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
