@@ -47,7 +47,6 @@
         <mark key="." line="178" column="31" />
         <mark key="^" line="178" column="31" />
       </file>
-      <file name="/code/sc/web/migrations/keepers.sql" timestamp="1562620476599" />
       <file name="/code/sc/web/sc/sql/platform/auth_loc/__init__.py" timestamp="1562621999526">
         <mark key="'" line="179" column="25" />
         <mark key="[" line="177" column="0" />
@@ -113,13 +112,15 @@
         <mark key="." line="59" column="0" />
         <mark key="^" line="59" column="39" />
       </file>
+      <file name="/code/sc/web/static/web/views/nav-toolbar/nav-toolbar.ts" timestamp="1562688694781">
+        <mark key="'" line="0" column="44" />
+      </file>
       <file name="/code/sc/web/sc/app/plats/syncs/attribution.py" timestamp="1562577714740">
         <mark key="[" line="118" column="16" />
         <mark key="]" line="118" column="21" />
         <mark key="^" line="118" column="21" />
         <mark key="." line="118" column="21" />
       </file>
-      <file name="/code/sc/web/static/web/views/reportcard/list/google-listing-breakdown/google-listing-breakdown.html" timestamp="1562621087593" />
       <file name="/code/sc/web/sc/coms/search/base_query.py" timestamp="1562620399967">
         <mark key="'" line="443" column="0" />
         <mark key="[" line="296" column="0" />
@@ -158,6 +159,9 @@
         <mark key="]" line="15" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="/code/sc/web/static/web/views/nav-toolbar/nav-toolbar.html" timestamp="1562688683680">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="/code/sc/web/sc/app/surveys/question/question_agg.py" timestamp="1562567790529">
         <mark key="'" line="53" column="0" />
@@ -274,7 +278,6 @@
         <mark key="^" line="28" column="29" />
         <mark key="." line="28" column="29" />
       </file>
-      <file name="/code/sc/web/sc/sql/platform/auth_loc/auth_loc_qa.py" timestamp="1562621608869" />
       <file name="/code/sc/web/static/web/views/listings/listings.ts" timestamp="1562563499930">
         <mark key="'" line="150" column="37" />
         <mark key="[" line="234" column="69" />
@@ -388,8 +391,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="2" filename="/code/sc/web/sc/app/tasks/customs.py" />
-      <jump line="36" column="46" filename="/code/sc/web/sc/app/tasks/customs.py" />
       <jump line="110" column="66" filename="/code/sc/web/sc/app/plats/syncs/cron/starters.py" />
       <jump line="23" column="0" filename="/code/sc/web/sc/core/types.py" />
       <jump line="67" column="25" filename="/code/sc/web/sc/app/plats/listings/google/qna.py" />
@@ -488,6 +489,8 @@
       <jump line="54" column="17" filename="/code/sc/web/instance/local/develop_settings.py" />
       <jump line="189" column="25" filename="/code/sc/web/sc/sql/platform/auth_loc/__init__.py" />
       <jump line="47" column="16" filename="/code/sc/web/instance/local/develop_settings.py" />
+      <jump line="0" column="0" filename="/code/sc/web/static/web/views/nav-toolbar/nav-toolbar.html" />
+      <jump line="0" column="44" filename="/code/sc/web/static/web/views/nav-toolbar/nav-toolbar.ts" />
     </jumps>
     <registers>
       <register name="1" type="2">
