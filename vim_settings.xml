@@ -41,18 +41,21 @@
         <mark key="^" line="16" column="19" />
         <mark key="." line="16" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1562620487185">
-        <mark key="'" line="962" column="0" />
-        <mark key="[" line="994" column="0" />
-        <mark key="]" line="994" column="0" />
-        <mark key="." line="994" column="0" />
-        <mark key="^" line="994" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1562693176336">
+        <mark key="'" line="740" column="106" />
+        <mark key="[" line="1004" column="0" />
+        <mark key="]" line="1004" column="0" />
+        <mark key="." line="1004" column="0" />
+        <mark key="^" line="1004" column="0" />
       </file>
       <file name="/code/sc/web/sc/mods/iframe/views.py" timestamp="1562576694858">
         <mark key="[" line="178" column="20" />
         <mark key="]" line="178" column="31" />
         <mark key="." line="178" column="31" />
         <mark key="^" line="178" column="31" />
+      </file>
+      <file name="/code/sc/web/migrations/keepers.sql" timestamp="1562693073160">
+        <mark key="'" line="43" column="0" />
       </file>
       <file name="/code/sc/web/sc/app/surveys/topbox/types.py" timestamp="1562690150227">
         <mark key="[" line="30" column="22" />
@@ -86,12 +89,12 @@
         <mark key="." line="54" column="17" />
         <mark key="^" line="54" column="17" />
       </file>
-      <file name="/code/sc/web/sc/app/plats/syncs/cron/starters.py" timestamp="1562596679897">
+      <file name="/code/sc/web/sc/app/plats/syncs/cron/starters.py" timestamp="1562692932364">
         <mark key="'" line="212" column="0" />
-        <mark key="[" line="122" column="30" />
-        <mark key="]" line="123" column="7" />
-        <mark key="." line="123" column="7" />
-        <mark key="^" line="123" column="7" />
+        <mark key="[" line="120" column="14" />
+        <mark key="]" line="120" column="13" />
+        <mark key="." line="120" column="13" />
+        <mark key="^" line="120" column="13" />
       </file>
       <file name="/code/sc/web/sc/errors.py" timestamp="1562592044347">
         <mark key="[" line="32" column="5" />
@@ -118,12 +121,12 @@
         <mark key="." line="27" column="16" />
         <mark key="^" line="27" column="16" />
       </file>
-      <file name="/code/sc/web/main_cron.py" timestamp="1562567151647">
+      <file name="/code/sc/web/main_cron.py" timestamp="1562692652999">
         <mark key="'" line="30" column="0" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="59" column="39" />
+        <mark key="[" line="54" column="17" />
+        <mark key="]" line="54" column="17" />
+        <mark key="." line="54" column="17" />
+        <mark key="^" line="54" column="17" />
       </file>
       <file name="/code/sc/web/static/web/views/nav-toolbar/nav-toolbar.ts" timestamp="1562688694781">
         <mark key="'" line="0" column="44" />
@@ -177,11 +180,11 @@
         <mark key="." line="118" column="90" />
         <mark key="^" line="118" column="90" />
       </file>
-      <file name="/code/sc/web/instance/env.txt" timestamp="1562689971535">
+      <file name="/code/sc/web/instance/env.txt" timestamp="1562692801448">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
-        <mark key="^" line="0" column="3" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="4" />
       </file>
       <file name="/code/sc/web/sc/sql/platform/insight.py" timestamp="1562596369496">
         <mark key="'" line="43" column="6" />
@@ -209,15 +212,12 @@
         <mark key="." line="42" column="54" />
         <mark key="^" line="42" column="54" />
       </file>
-      <file name="/Python Console" timestamp="1562621170400">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/code/sc/web/sc/app/tasks/syncing.py" timestamp="1562596619717">
+      <file name="/code/sc/web/sc/app/tasks/syncing.py" timestamp="1562692296277">
         <mark key="'" line="92" column="0" />
-        <mark key="[" line="96" column="8" />
-        <mark key="]" line="97" column="44" />
-        <mark key="." line="97" column="44" />
-        <mark key="^" line="97" column="44" />
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="6" />
+        <mark key="." line="147" column="6" />
+        <mark key="^" line="141" column="30" />
       </file>
       <file name="/code/sc/web/static/common/styles/shared.sass" timestamp="1562563613294">
         <mark key="[" line="340" column="10" />
@@ -347,6 +347,12 @@
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="17" />
       </file>
+      <file name="/code/sc/web/sc/app/integs/salesforce/ace/__init__.py" timestamp="1562692703945">
+        <mark key="[" line="99" column="10" />
+        <mark key="]" line="99" column="10" />
+        <mark key="." line="99" column="10" />
+        <mark key="^" line="99" column="10" />
+      </file>
       <file name="/code/sc/web/sc/mods/web/rest/accounts/listings_view.py" timestamp="1562563388016">
         <mark key="'" line="104" column="10" />
         <mark key="[" line="51" column="32" />
@@ -390,12 +396,12 @@
         <mark key="." line="70" column="31" />
         <mark key="^" line="70" column="31" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1562621339979">
-        <mark key="'" line="837" column="5" />
-        <mark key="[" line="860" column="54" />
-        <mark key="]" line="861" column="4" />
-        <mark key="^" line="861" column="4" />
-        <mark key="." line="861" column="4" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1562693165950">
+        <mark key="'" line="861" column="0" />
+        <mark key="[" line="899" column="0" />
+        <mark key="]" line="899" column="0" />
+        <mark key="^" line="899" column="0" />
+        <mark key="." line="899" column="0" />
       </file>
       <file name="/code/sc/web/sc/coms/dm/view.py" timestamp="1562599221112">
         <mark key="[" line="67" column="57" />
@@ -405,12 +411,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="21" filename="/code/sc/web/sc/app/plats/listings/google/cron.py" />
-      <jump line="206" column="9" filename="/code/sc/web/sc/app/plats/listings/google/qna.py" />
-      <jump line="86" column="10" filename="/code/sc/web/sc/app/tasks/customs.py" />
-      <jump line="63" column="14" filename="/code/sc/web/sc/app/tasks/customs.py" />
-      <jump line="63" column="10" filename="/code/sc/web/sc/mods/web/rest/accounts/gmb_questions_view.py" />
-      <jump line="113" column="4" filename="/code/sc/web/sc/app/plats/syncs/cron/starters.py" />
       <jump line="6" column="51" filename="/code/sc/web/sc/mods/web/rest/accounts/gmb_questions_view.py" />
       <jump line="136" column="0" filename="/code/sc/web/sc/app/plats/syncs/cron/starters.py" />
       <jump line="175" column="20" filename="/code/sc/web/sc/app/plats/syncs/cron/starters.py" />
@@ -505,40 +505,54 @@
       <jump line="33" column="21" filename="/code/sc/web/static/web/views/survey-summary/survey-summary.sass" />
       <jump line="95" column="6" filename="/code/sc/web/static/web/views/survey-summary/survey-summary.sass" />
       <jump line="16" column="19" filename="/code/sc/web/static/web/views/survey-summary/survey-summary.sass" />
+      <jump line="980" column="33" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
+      <jump line="1000" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
+      <jump line="43" column="0" filename="/code/sc/web/migrations/keepers.sql" />
+      <jump line="740" column="106" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
+      <jump line="861" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">CiAgcHJpbnQoJyonICogMTAsIHJhdGluZykK</text>
+      <register name="1" type="4">
+        <text>update location_platforms lp
+join auth_locs al on lp.al_id = al.id
+join auths a on al.auth_id = a.id
+set al_id = null
+where a.kind = 'google' and a.deleted_at is null and al.deleted_at is null and lp.deleted_at is null and is_good = false
+;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICMgZnVuYy5hdmcocmF0aW5nKS5sYWJlbCgnYXZnJyksCg==</text>
+      <register name="2" type="4">
+        <text>update location_platforms lp join auth_locs al on lp.al_id = al.id join auths a on al.auth_id = a.id
+set al_id = null
+where a.kind = 'google' and a.deleted_at is null and al.deleted_at is null and lp.deleted_at is null and is_good = false
+;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhdmc6IE9wdGlvbmFsW2Zsb2F0XQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdpdGggd2Fybl93ZWIoKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgc2VuZF9pbnZpdGVzLnNlbmQoaW52aXRlKQogICAgICByZXR1cm4gaW52aXRl</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgQGh5YnJpZF9wcm9wZXJ0eQogIGRlZiB1bmFuc3dlcmVkX2NvdW50KGNscyk6CiAgICAiIiIiIiIKICAgIGZyb20gc2Muc3FsIGltcG9ydCBBdXRoTG9jUXVlc3Rpb24KICAgIHJldHVybiAoCiAgICAgIHNlbGVjdChbZnVuYy5jb3VudChBdXRoTG9jUXVlc3Rpb24uaWQpXSkKICAgICAgICAud2hlcmUoY2xzLmlkID09IEF1dGhMb2NRdWVzdGlvbi5hbF9pZCkKICAgICAgICAubGFiZWwoJ3VuYW5zd2VyZWRfY291bnQnKQogICAgKQ==</text>
+        <text encoding="base64">ICAgICMgd2VuZHkgPSAnRXJpYyBUJywgJ0VyaWMgSicsICdSYW5keScsICdWaWN0b3InCiAgICB3ZW5keV9pZCA9ICcwMDU2QTAwMDAwMk84eUlRQVMnCiAgICBvd25lciA9IE5vbmUKICAgIGlmIHpvbmU6CiAgICAgIGlmIGFueShtIGluIHpvbmUgZm9yIG0gaW4gbWFyeSk6CiAgICAgICAgb3duZXIgPSBtYXJ5X2lkCiAgICAgIGVsc2U6CiAgICAgICAgb3duZXIgPSB3ZW5keV9pZAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLm91dGVyam9pbihBdXRoTG9jUXVlc3Rpb24sIGFuZF8oQXV0aExvYy5pZCA9PSBBdXRoTG9jUXVlc3Rpb24uYWxfaWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH5BdXRoTG9jUXVlc3Rpb24uYW5zd2Vycy5hbnkoQXV0aExvY0Fuc3dlci5hbnNfdHlwZSA9PSAnTUVSQ0hBTlQnKSkpCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICMgd2VuZHkgPSAnRXJpYyBUJywgJ0VyaWMgSicsICdSYW5keScsICdWaWN0b3InCiAgICB3ZW5keV9pZCA9ICcwMDU2QTAwMDAwMk84eUlRQVMnCiAgICBvd25lciA9IE5vbmUKICAgIGlmIHpvbmU6CiAgICAgIGlmIGFueShtIGluIHpvbmUgZm9yIG0gaW4gbWFyeSk6CiAgICAgICAgb3duZXIgPSBtYXJ5X2lkCiAgICAgIGVsc2U6CiAgICAgICAgb3duZXIgPSB3ZW5keV9pZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZ1bmMuY291bnQoZnVuYy5kaXN0aW5jdChBdXRoTG9jUXVlc3Rpb24uaWQpKS5sYWJlbCgndW5hbnN3ZXJlZF9xdWVzdGlvbnMnKQo=</text>
+        <text encoding="base64">ICAgIG1hcnkgPSAnVmluY2VudCcsICdKZW5uaW5ncycsICdUeWxlcicsICdLZXppYScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZyb20gc2Muc3FsLmxvY2F0aW9uLnBsYXRmb3JtIGltcG9ydCBMb2NhdGlvblBsYXRmb3JtCg==</text>
+        <text encoding="base64">ICAgIHRhc2soY3JvbnRhYig0NSwgMTApLCBzeW5jaW5nLnN0YXJ0X3J1bl9pbnNpZ2h0cy5zKCksICoqb3B0cykK</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>a2</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
