@@ -33,6 +33,9 @@
         <mark key="." line="94" column="57" />
         <mark key="^" line="94" column="57" />
       </file>
+      <file name="/code/sc/web/sc/app/integs/bulk/incoming.py" timestamp="1562734985877">
+        <mark key="'" line="355" column="4" />
+      </file>
       <file name="/code/sc/web/static/web/views/survey-summary/survey-summary.sass" timestamp="1562691342175">
         <mark key="'" line="16" column="19" />
         <mark key="[" line="16" column="22" />
@@ -215,7 +218,7 @@
       <file name="/fragment.py" timestamp="1562725158588">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code/sc/web/sc/app/tasks/syncing.py" timestamp="1562733926355" />
+      <file name="/code/sc/web/sc/app/tasks/syncing.py" timestamp="1562734906448" />
       <file name="/code/sc/web/sc/sql/account/__init__.py" timestamp="1562733865041" />
       <file name="/code/sc/web/sc/sql/sess_ext.py" timestamp="1562619503433">
         <mark key="'" line="124" column="2" />
@@ -365,8 +368,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="/code/sc/web/sc/app/surveys/question/question_agg.py" />
-      <jump line="35" column="33" filename="/code/sc/web/sc/app/loc_reportcards/surveys.py" />
       <jump line="49" column="20" filename="/code/sc/web/instance/local/develop_settings.py" />
       <jump line="491" column="30" filename="/code/sc/web/cli/ones.py" />
       <jump line="577" column="2" filename="/code/sc/web/cli/ones.py" />
@@ -465,6 +466,8 @@
       <jump line="47" column="16" filename="/code/sc/web/instance/local/develop_settings.py" />
       <jump line="245" column="11" filename="/code/sc/web/cli/ones.py" />
       <jump line="115" column="21" filename="/code/sc/web/static/web/web.nav.ts" />
+      <jump line="182" column="0" filename="/code/sc/web/sc/app/integs/bulk/incoming.py" />
+      <jump line="355" column="4" filename="/code/sc/web/sc/app/integs/bulk/incoming.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
