@@ -9,6 +9,13 @@
         <mark key="." line="16" column="33" />
         <mark key="^" line="16" column="33" />
       </file>
+      <file name="/code/sc/web/sc/sql/platform/auth/__init__.py" timestamp="1562791815141">
+        <mark key="'" line="105" column="6" />
+        <mark key="[" line="116" column="10" />
+        <mark key="]" line="116" column="54" />
+        <mark key="^" line="116" column="54" />
+        <mark key="." line="116" column="54" />
+      </file>
       <file name="/code/sc/web/static/web/web.nav.ts" timestamp="1562771956138">
         <mark key="'" line="115" column="21" />
         <mark key="[" line="325" column="0" />
@@ -56,10 +63,6 @@
         <mark key="^" line="25" column="3" />
         <mark key="." line="25" column="3" />
       </file>
-      <file name="/code/sc/web/static/web/views/reportcard/search/reportcard-search.ts" timestamp="1562773543874">
-        <mark key="'" line="58" column="31" />
-        <mark key="." line="34" column="64" />
-      </file>
       <file name="/code/sc/web/static/web/views/boost/boost.html" timestamp="1562774328477">
         <mark key="'" line="73" column="0" />
         <mark key="[" line="23" column="25" />
@@ -76,6 +79,7 @@
       <file name="/code/sc/web/sc/mods/web/webhooks/stripe_webhooks_view.py" timestamp="1562783661574">
         <mark key="'" line="19" column="6" />
       </file>
+      <file name="/code/sc/web/sc/app/star_dist/restful.py" timestamp="1562791223762" />
       <file name="/code/sc/web/static/web/views/notes/notes.ts" timestamp="1562773852049">
         <mark key="'" line="165" column="2" />
       </file>
@@ -109,7 +113,7 @@
         <mark key="." line="35" column="47" />
         <mark key="^" line="35" column="47" />
       </file>
-      <file name="/code/sc/web/sc/mods/web/rest/auths_view.py" timestamp="1562749874749">
+      <file name="/code/sc/web/sc/mods/web/rest/auths_view.py" timestamp="1562791500671">
         <mark key="[" line="34" column="39" />
         <mark key="]" line="34" column="39" />
         <mark key="^" line="33" column="50" />
@@ -119,7 +123,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code/trash/google-ads-python/examples/basic_operations/remove_ad.py" timestamp="1562784090209" />
-      <file name="/code/sc/web/sc/app/ads/crud.py" timestamp="1562771176807">
+      <file name="/code/sc/web/sc/app/ads/crud.py" timestamp="1562791454074">
         <mark key="'" line="75" column="2" />
       </file>
       <file name="/code/sc/web/static/web/views/boost/search/boost-search.ts" timestamp="1562773731759">
@@ -144,6 +148,12 @@
         <mark key="." line="56" column="3" />
         <mark key="^" line="56" column="3" />
       </file>
+      <file name="/code/sc/web/sc/app/ads/feeds.py" timestamp="1562792575183">
+        <mark key="[" line="17" column="47" />
+        <mark key="]" line="18" column="6" />
+        <mark key="." line="18" column="6" />
+        <mark key="^" line="18" column="6" />
+      </file>
       <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/google/ads/google_ads/v1/services/ad_group_ad_service_client.py" timestamp="1562784061766" />
       <file name="/code/sc/web/sc/app/ads/utils.py" timestamp="1562784490192">
         <mark key="[" line="26" column="12" />
@@ -151,11 +161,14 @@
         <mark key="^" line="26" column="13" />
         <mark key="." line="26" column="13" />
       </file>
-      <file name="/code/sc/web/static/common/models/auth.model.ts" timestamp="1562751643130">
+      <file name="/code/sc/web/static/common/models/auth.model.ts" timestamp="1562791777973">
         <mark key="[" line="17" column="4" />
         <mark key="]" line="17" column="10" />
         <mark key="^" line="17" column="10" />
         <mark key="." line="17" column="10" />
+      </file>
+      <file name="/code/sc/web/sc/mods/web/rest/accounts/reviews_view.py" timestamp="1562791076399">
+        <mark key="'" line="26" column="6" />
       </file>
       <file name="/code/sc/web/sc/mods/web/rest/accounts_view.py" timestamp="1562751729789">
         <mark key="[" line="75" column="37" />
@@ -185,10 +198,14 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="4" />
       </file>
+      <file name="/code/sc/web/sc/app/ads/boost.py" timestamp="1562791896675">
+        <mark key="[" line="26" column="32" />
+        <mark key="]" line="28" column="4" />
+        <mark key="^" line="28" column="4" />
+        <mark key="." line="28" column="4" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="11" filename="/code/sc/web/sc/app/plats/listings/insights/google.py" />
-      <jump line="93" column="0" filename="/code/sc/web/sc/app/tasks/syncing.py" />
       <jump line="215" column="8" filename="/code/sc/web/sc/app/plats/listings/insights/google.py" />
       <jump line="155" column="4" filename="/code/sc/web/sc/app/plats/listings/insights/google.py" />
       <jump line="196" column="11" filename="/code/sc/web/sc/app/plats/listings/insights/google.py" />
@@ -287,40 +304,42 @@
       <jump line="232" column="2" filename="/code/sc/web/cli/ads.py" />
       <jump line="19" column="6" filename="/code/sc/web/sc/mods/web/webhooks/stripe_webhooks_view.py" />
       <jump line="50" column="20" filename="/code/sc/web/instance/local/develop_settings.py" />
+      <jump line="26" column="6" filename="/code/sc/web/sc/mods/web/rest/accounts/reviews_view.py" />
+      <jump line="105" column="6" filename="/code/sc/web/sc/sql/platform/auth/__init__.py" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">YWQuaWQsIGNhbXBhaWduLm5hbWUsIGFkX2dyb3VwLmlkLCBhZF9ncm91cC5uYW1lLAogICAgYWRfZ3JvdXBfY3JpdGVyaW9uLmNyaXRlcmlvbl9pZCwgCiAgICBhZF9ncm91cF9jcml0ZXJpb24ua2V5d29yZC50ZXh0LCAKICAgIGFkX2dyb3VwX2NyaXRlcmlvbi5rZXl3b3JkLm1hdGNoX3R5cGUsIAogICAgbWV0cmljcy5pbXByZXNzaW9ucywgbWV0cmljcy5jbGlja3MsIG1ldHJpY3MuY29zdF9taWNyb3Mg</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIG9yaWdpbiA9IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS0gICAgIFdIRVJFIHtuYW1lfS5pZCA9ICd7dmFsfScK</text>
+        <text encoding="base64">ICAgIGZvciBsYWJlbCBpbiAobGFiZWxzIG9yIFtdKToKICAgICAgbCA9IGZlZWRfZGF0YS5sYWJlbF9maWx0ZXJzLmFkZCgpCiAgICAgIGwudmFsdWUgPSBsYWJlbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIE9SREVSIEJZIG1ldHJpY3MuaW1wcmVzc2lvbnMgREVTQyAK</text>
+        <text encoding="base64">ICAgIGNsaWVudCA9IHNlbGYuYXBpLmNsaWVudAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">YWQuaWQsIGNhbXBhaWduLm5hbWUsIGFkX2dyb3VwLmlkLCBhZF9ncm91cC5uYW1lLAogICAgYWRfZ3JvdXBfY3JpdGVyaW9uLmNyaXRlcmlvbl9pZCwgCiAgICBhZF9ncm91cF9jcml0ZXJpb24ua2V5d29yZC50ZXh0LCAKICAgIGFkX2dyb3VwX2NyaXRlcmlvbi5rZXl3b3JkLm1hdGNoX3R5cGUsIAogICAgbWV0cmljcy5pbXByZXNzaW9ucywgbWV0cmljcy5jbGlja3MsIG1ldHJpY3MuY29zdF9taWNyb3Mg</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBhcGk6IEFkQXBpID0gdmFsaWRhdGVfb2YoQWRBcGkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YWwgPSBib29zdFtrZXldCg==</text>
+        <text encoding="base64">ICBhY2MgPSBnZXRfYWNjKCkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBtZXRyaWNzID0gYXBpLm1ldGFzKG5hbWUpWzBdCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">YWQuaWQsIGNhbXBhaWduLm5hbWUsIGFkX2dyb3VwLmlkLCBhZF9ncm91cC5uYW1lLAogICAgYWRfZ3JvdXBfY3JpdGVyaW9uLmNyaXRlcmlvbl9pZCwgCiAgICBhZF9ncm91cF9jcml0ZXJpb24ua2V5d29yZC50ZXh0LCAKICAgIGFkX2dyb3VwX2NyaXRlcmlvbi5rZXl3b3JkLm1hdGNoX3R5cGUsIAogICAgbWV0cmljcy5pbXByZXNzaW9ucywgbWV0cmljcy5jbGlja3MsIG1ldHJpY3MuY29zdF9taWNyb3Mg</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzZXRfYWNjKEFjY291bnQuZ2V0KGEpKQo=</text>
+        <text encoding="base64">LS0gICAgIFdIRVJFIHtuYW1lfS5pZCA9ICd7dmFsfScK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE9SREVSIEJZIG1ldHJpY3MuaW1wcmVzc2lvbnMgREVTQyAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="9" type="4">
+        <text encoding="base64">YWQuaWQsIGNhbXBhaWduLm5hbWUsIGFkX2dyb3VwLmlkLCBhZF9ncm91cC5uYW1lLAogICAgYWRfZ3JvdXBfY3JpdGVyaW9uLmNyaXRlcmlvbl9pZCwgCiAgICBhZF9ncm91cF9jcml0ZXJpb24ua2V5d29yZC50ZXh0LCAKICAgIGFkX2dyb3VwX2NyaXRlcmlvbi5rZXl3b3JkLm1hdGNoX3R5cGUsIAogICAgbWV0cmljcy5pbXByZXNzaW9ucywgbWV0cmljcy5jbGlja3MsIG1ldHJpY3MuY29zdF9taWNyb3Mg</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>api.type('FeedOriginEnum')</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
