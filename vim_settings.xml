@@ -209,6 +209,9 @@
       <file name="/code/sc/web/migrations/versions/f862cbff23e9__179.py" timestamp="1562725534348">
         <mark key="'" line="30" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1562728718414">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.py" timestamp="1562725158588">
         <mark key="[" line="0" column="0" />
       </file>
@@ -224,6 +227,12 @@
         <mark key="]" line="237" column="0" />
         <mark key="^" line="238" column="32" />
         <mark key="." line="237" column="0" />
+      </file>
+      <file name="/code/sc/web/sc/mods/web/views.py" timestamp="1562728883786">
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="0" />
+        <mark key="^" line="113" column="21" />
+        <mark key="." line="117" column="0" />
       </file>
       <file name="/a.sql" timestamp="1562725496474">
         <mark key="[" line="0" column="0" />
@@ -457,31 +466,31 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVybCA9IHJldHVybl91cmwudXJsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAjIHByaW50KHJlcC5idWNrZXQsIHJlcC5pZCkK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAjIHByaW50KHJlcC5idWNrZXQsIHJlcC5pZCkK</text>
+      </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICB1cmwgPSBibG9iLmdlbmVyYXRlX3NpZ25lZF91cmwoZXhwaXJhdGlvbiwgJ0dFVCcpCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICBwcmludCgnXG4nKQogIHByaW50KHVybCk=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgIyAjIExvYWRpbmcgY3JlZGVudGlhbHMgdGhpcyB3YXkgY2F1c2VzIHRoZW0gdG8gcGFzcyBhIGlzaW5zdGFuY2VvZihTaWduaW5nKSBjaGVjayBsYXRlcgogICMgd2l0aCBpby5vcGVuKGxvY2FsX2ZpbGUsICdyJywgZW5jb2Rpbmc9J3V0Zi04JykgYXMganNvbl9maToKICAjICAgY3JlZGVudGlhbHNfaW5mbyA9IGpzb24ubG9hZChqc29uX2ZpKQogICMgY3JlZHMgPSBzZXJ2aWNlX2FjY291bnQuQ3JlZGVudGlhbHMuZnJvbV9zZXJ2aWNlX2FjY291bnRfaW5mbyhjcmVkZW50aWFsc19pbmZvKQoKICAjIG5hbWUgPSAnMDEvcGRmL3N1cnZleWNvbXBhcmUvRmViMTkvQ2xpbmljYWxfU3VydmV5LS1TY2hlZHVsaW5nLS0wMTAxMTlfdG9fMDMzMTE5LS0zMmViOTkwY2IxZC5wZGYnCiAgIyBuYW1lID0gQWNjb3VudC5nZXQoMjA3LCBmaWVsZHM9J2ltZ191cmwnKS5pbWdfdXJsLnNwbGl0KCctbG9jYWwvJylbLTFdCiAgbmFtZSA9ICcyMDcvcGRmL3JlcG9ydGNhcmQvRmViMTkvQ3VzdG9tLS1GZWJydWFyeS0tRHJfQ29vbC0tOTYwNmI0Y2VmMDIucGRmJwoKICAjIGNsaWVudCA9IGdjcy5nY3NfY2xpZW50KCkKICBidWNrZXQgPSBnY3MucHJpdmF0ZV9idWNrZXQoKQogICMgYnVja2V0ID0gY2xpZW50LmdldF9idWNrZXQoZ2V0X2FwcCgpLnByaXZhdGVfYnVja2V0KQoKICAjIGJsb2IgPSBidWNrZXQuZ2V0X2Jsb2IobmFtZSkKICBibG9iID0gYnVja2V0LmJsb2IobmFtZSkKCiAgIyBwcmludChibG9iLCBibG9iLnNlbGZfbGluaykK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">UElQRU5WX1ZFUkJPU0lUWT0tMQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyBleHBvcnQgUElQRU5WX01BWF9ERVBUSD0xCiMgZXhwb3J0IFBJUEVOVl9JR05PUkVfVklSVFVBTEVOVlM9MQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBleHBvcnQgUElQRU5WX0RFRkFVTFRfUFlUSE9OX1ZFUlNJT049My42Cg==</text>
+        <text encoding="base64">IyBleHBvcnQgUElQRU5WX01BWF9ERVBUSD0xCiMgZXhwb3J0IFBJUEVOVl9JR05PUkVfVklSVFVBTEVOVlM9MQo=</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
