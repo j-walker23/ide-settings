@@ -148,11 +148,12 @@
         <mark key="." line="56" column="3" />
         <mark key="^" line="56" column="3" />
       </file>
-      <file name="/code/sc/web/sc/app/ads/feeds.py" timestamp="1562792575183">
-        <mark key="[" line="17" column="47" />
-        <mark key="]" line="18" column="6" />
-        <mark key="." line="18" column="6" />
-        <mark key="^" line="18" column="6" />
+      <file name="/code/sc/web/sc/app/ads/feeds.py" timestamp="1562794517124">
+        <mark key="'" line="124" column="0" />
+        <mark key="[" line="40" column="34" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/google/ads/google_ads/v1/services/ad_group_ad_service_client.py" timestamp="1562784061766" />
       <file name="/code/sc/web/sc/app/ads/utils.py" timestamp="1562784490192">
@@ -206,7 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="215" column="8" filename="/code/sc/web/sc/app/plats/listings/insights/google.py" />
       <jump line="155" column="4" filename="/code/sc/web/sc/app/plats/listings/insights/google.py" />
       <jump line="196" column="11" filename="/code/sc/web/sc/app/plats/listings/insights/google.py" />
       <jump line="816" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
@@ -306,34 +306,35 @@
       <jump line="50" column="20" filename="/code/sc/web/instance/local/develop_settings.py" />
       <jump line="26" column="6" filename="/code/sc/web/sc/mods/web/rest/accounts/reviews_view.py" />
       <jump line="105" column="6" filename="/code/sc/web/sc/sql/platform/auth/__init__.py" />
+      <jump line="110" column="0" filename="/code/sc/web/sc/app/ads/feeds.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9yaWdpbiA9IAo=</text>
+        <text encoding="base64">ICBkZWYgZmluZF9mZWVkKHNlbGYsIGVtYWlsOiBzdHIpOgogICAgIiIiIiIiCiAgICBjaWQgPSBnZXRfYWNjKCkuYWRzX2lkCiAgICBhcGkgPSBzZWxmLmFwaQogICAgZ2EgPSBhcGkuc2VydmljZSgnR29vZ2xlQWRzU2VydmljZScpCiAgICBxID0gKCdzZWxlY3QgZmVlZC5pZCwgZmVlZC5uYW1lLCBmZWVkLnN0YXR1cywgZmVlZC5vcmlnaW4gJwogICAgICAgICAnZnJvbSBmZWVkICcKICAgICAgICAgIndoZXJlIGZlZWQuc3RhdHVzID0gJ0VOQUJMRUQnICIKICAgICAgICAgImFuZCBmZWVkLnBsYWNlc19sb2NhdGlvbl9mZWVkX2RhdGEuZW1haWxfYWRkcmVzcyA9ICclcyciICUgZW1haWwKICAgICAgICAgKQoKICAgIHJlcyA9IGxpc3QoZ2Euc2VhcmNoKGNpZCwgcXVlcnk9cSkpCiAgICByZXR1cm4gcmVzIGFuZCByZXNbMF0uZmVlZCBvciBOb25lCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciBsYWJlbCBpbiAobGFiZWxzIG9yIFtdKToKICAgICAgbCA9IGZlZWRfZGF0YS5sYWJlbF9maWx0ZXJzLmFkZCgpCiAgICAgIGwudmFsdWUgPSBsYWJlbAo=</text>
+        <text encoding="base64">ICAgIGNsaWVudCA9IGFwaS5jbGllbnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNsaWVudCA9IHNlbGYuYXBpLmNsaWVudAo=</text>
+        <text encoding="base64">ICAgIG9yaWdpbiA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhcGk6IEFkQXBpID0gdmFsaWRhdGVfb2YoQWRBcGkpCg==</text>
+        <text encoding="base64">ICAgIGZvciBsYWJlbCBpbiAobGFiZWxzIG9yIFtdKToKICAgICAgbCA9IGZlZWRfZGF0YS5sYWJlbF9maWx0ZXJzLmFkZCgpCiAgICAgIGwudmFsdWUgPSBsYWJlbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhY2MgPSBnZXRfYWNjKCkK</text>
+        <text encoding="base64">ICAgIGNsaWVudCA9IHNlbGYuYXBpLmNsaWVudAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">YWQuaWQsIGNhbXBhaWduLm5hbWUsIGFkX2dyb3VwLmlkLCBhZF9ncm91cC5uYW1lLAogICAgYWRfZ3JvdXBfY3JpdGVyaW9uLmNyaXRlcmlvbl9pZCwgCiAgICBhZF9ncm91cF9jcml0ZXJpb24ua2V5d29yZC50ZXh0LCAKICAgIGFkX2dyb3VwX2NyaXRlcmlvbi5rZXl3b3JkLm1hdGNoX3R5cGUsIAogICAgbWV0cmljcy5pbXByZXNzaW9ucywgbWV0cmljcy5jbGlja3MsIG1ldHJpY3MuY29zdF9taWNyb3Mg</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBhcGk6IEFkQXBpID0gdmFsaWRhdGVfb2YoQWRBcGkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LS0gICAgIFdIRVJFIHtuYW1lfS5pZCA9ICd7dmFsfScK</text>
+        <text encoding="base64">ICBhY2MgPSBnZXRfYWNjKCkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIE9SREVSIEJZIG1ldHJpY3MuaW1wcmVzc2lvbnMgREVTQyAK</text>
-      </register>
-      <register name="9" type="4">
+      <register name="8" type="4">
         <text encoding="base64">YWQuaWQsIGNhbXBhaWduLm5hbWUsIGFkX2dyb3VwLmlkLCBhZF9ncm91cC5uYW1lLAogICAgYWRfZ3JvdXBfY3JpdGVyaW9uLmNyaXRlcmlvbl9pZCwgCiAgICBhZF9ncm91cF9jcml0ZXJpb24ua2V5d29yZC50ZXh0LCAKICAgIGFkX2dyb3VwX2NyaXRlcmlvbi5rZXl3b3JkLm1hdGNoX3R5cGUsIAogICAgbWV0cmljcy5pbXByZXNzaW9ucywgbWV0cmljcy5jbGlja3MsIG1ldHJpY3MuY29zdF9taWNyb3Mg</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">LS0gICAgIFdIRVJFIHtuYW1lfS5pZCA9ICd7dmFsfScK</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
