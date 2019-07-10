@@ -46,21 +46,22 @@
       <file name="/code/sc/web/sc/coms/dm/sa.py" timestamp="1562710983089">
         <mark key="[" line="40" column="0" />
       </file>
-      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1562750853450">
-        <mark key="[" line="54" column="13" />
-        <mark key="]" line="54" column="16" />
-        <mark key="." line="54" column="16" />
-        <mark key="^" line="54" column="16" />
+      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1562755666818">
+        <mark key="'" line="32" column="20" />
+        <mark key="[" line="41" column="67" />
+        <mark key="]" line="41" column="71" />
+        <mark key="." line="41" column="71" />
+        <mark key="^" line="41" column="71" />
       </file>
       <file name="/code/sc/web/static/web/views/boost/details/boost-details.html" timestamp="1562749353844">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/code/sc/web/static/web/views/boost/opt-in/boost-opt.html" timestamp="1562751185785">
+      <file name="/code/sc/web/static/web/views/boost/opt-in/boost-opt.html" timestamp="1562755556356">
         <mark key="'" line="33" column="42" />
-        <mark key="[" line="43" column="41" />
-        <mark key="]" line="43" column="40" />
-        <mark key="." line="43" column="40" />
-        <mark key="^" line="43" column="40" />
+        <mark key="[" line="35" column="44" />
+        <mark key="]" line="35" column="47" />
+        <mark key="." line="35" column="47" />
+        <mark key="^" line="35" column="47" />
       </file>
       <file name="/code/sc/web/sc/app/ads/crud.py" timestamp="1562752549553">
         <mark key="'" line="68" column="2" />
@@ -178,7 +179,6 @@
       <jump line="50" column="15" filename="/code/sc/web/instance/local/develop_settings.py" />
       <jump line="816" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
       <jump line="837" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
-      <jump line="32" column="20" filename="/code/sc/web/instance/local/develop_settings.py" />
       <jump line="109" column="0" filename="/code/sc/web/sc/app/plats/syncs/runner.py" />
       <jump line="94" column="0" filename="/code/sc/web/sc/app/plats/syncs/runner.py" />
       <jump line="962" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
@@ -249,40 +249,41 @@
       <jump line="55" column="0" filename="/code/sc/web/sc/app/ads/customers.py" />
       <jump line="21" column="6" filename="/code/sc/web/sc/app/integs/hjs/collectors/base.py" />
       <jump line="96" column="4" filename="/code/sc/web/sc/app/integs/hjs/collectors/base.py" />
+      <jump line="32" column="20" filename="/code/sc/web/instance/local/develop_settings.py" />
     </jumps>
     <registers>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICAjICMgX2N1c3QKICAjIGNpZCA9CiAgIyBhY2MuYWRzX2lkID0gY2lk</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICBhcGk6IEFkQXBpID0gdmFsaWRhdGVfb2YoQWRBcGkpCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICBkZWYgX19pbml0X18oc2VsZiwgYXBpOiBBZEFwaSk6CiAgICBwYXNz</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICByZXQgPSBjaWQK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgYWNjLmFkc19pZCA9IGNpZAogICAgICByZXQgPSBjaWQK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgcmV0dXJuIGFjYy5hZHNfaWQK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGlmIGFjYy5hZHNfaWQ6CiAgICAgIHJldHVybiBhY2MuYWRzX2lkCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIGFwcC5hY2NvdW50LmFkc19vcHQgPSB0cnVlCiAgICBhcHAuYWNjb3VudC5zYXZlKCkK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBAdmlldy5yb3V0ZSgnL2F1dG8vPGtleT4vdmFsdWVzJykKICBAdmlldy5hdXRvCiAgZGVmIGF1dG8oc2VsZiwga2V5KToKICAgICIiIkF1dG8gdmFsdWVzIiIiCgogIEB2aWV3LnJvdXRlKCcvYXV0b3MnKQogIEB2aWV3LmluZGV4CiAgZGVmIGF1dG9zKHNlbGYpOgogICAgIiIiIiIiCgogIEB2aWV3LmdldGJ5aWQKICBkZWYgZ2V0KHNlbGYsIF8pOgogICAgIiIiIiIiCgogIEB2aWV3LnNhdmUoYWNjX29uZT1UcnVlKQogIGRlZiBwdXQoc2VsZiwgXywgYm9vc3RfbG9jPU5vbmUpOgogICAgIiIiIiIiCiAgICBzZXR1cF9sb2MoYm9vc3RfbG9jKQoKICBAdmlldy5tdWx0aQogIGRlZiBtdWx0aShzZWxmLCBtdWx0aTogTXVsdGlFZGl0ID0gTm9uZSk6CiAgICAiIiIiIiI=</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>ad_auth</text>
+        <text>INFO</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
