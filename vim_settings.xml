@@ -92,6 +92,12 @@
         <mark key="^" line="92" column="20" />
         <mark key="." line="94" column="0" />
       </file>
+      <file name="$USER_HOME$/.dotfiles/python/path.zsh" timestamp="1562726821233">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+        <mark key="^" line="3" column="6" />
+      </file>
       <file name="/code/sc/web/sc/app/reports/survey/charts.py" timestamp="1562575868432">
         <mark key="'" line="68" column="37" />
         <mark key="[" line="27" column="5" />
@@ -204,6 +210,12 @@
         <mark key="]" line="110" column="8" />
         <mark key="." line="110" column="8" />
         <mark key="^" line="107" column="64" />
+      </file>
+      <file name="/code/sc/web/sc/app/ads/api.py" timestamp="1562726671303">
+        <mark key="[" line="237" column="0" />
+        <mark key="]" line="237" column="0" />
+        <mark key="^" line="238" column="32" />
+        <mark key="." line="237" column="0" />
       </file>
       <file name="/a.sql" timestamp="1562725496474">
         <mark key="[" line="0" column="0" />
@@ -430,16 +442,16 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgIyMjIGVuZCBBbGVtYmljIGNvbW1hbmRzICMjIwo=</text>
+        <text encoding="base64">UElQRU5WX1ZFUkJPU0lUWT0tMQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgIyMjIGNvbW1hbmRzIGF1dG8gZ2VuZXJhdGVkIGJ5IEFsZW1iaWMgLSBwbGVhc2UgYWRqdXN0ISAjIyMK</text>
+        <text encoding="base64">IyBleHBvcnQgUElQRU5WX01BWF9ERVBUSD0xCiMgZXhwb3J0IFBJUEVOVl9JR05PUkVfVklSVFVBTEVOVlM9MQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgIyMjIGVuZCBBbGVtYmljIGNvbW1hbmRzICMjIwo=</text>
+        <text encoding="base64">IyBleHBvcnQgUElQRU5WX0RFRkFVTFRfUFlUSE9OX1ZFUlNJT049My42Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgIyMjIGNvbW1hbmRzIGF1dG8gZ2VuZXJhdGVkIGJ5IEFsZW1iaWMgLSBwbGVhc2UgYWRqdXN0ISAjIyMK</text>
+        <text encoding="base64">ICAgICMgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICMgIyMjIGVuZCBBbGVtYmljIGNvbW1hbmRzICMjIwo=</text>
@@ -448,19 +460,19 @@
         <text encoding="base64">ICAgICMgIyMjIGNvbW1hbmRzIGF1dG8gZ2VuZXJhdGVkIGJ5IEFsZW1iaWMgLSBwbGVhc2UgYWRqdXN0ISAjIyMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgIyMjIGNvbW1hbmRzIGF1dG8gZ2VuZXJhdGVkIGJ5IEFsZW1iaWMgLSBwbGVhc2UgYWRqdXN0ISAjIyMK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICMgIyMjIGVuZCBBbGVtYmljIGNvbW1hbmRzICMjIwo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICMgIyMjIGNvbW1hbmRzIGF1dG8gZ2VuZXJhdGVkIGJ5IEFsZW1iaWMgLSBwbGVhc2UgYWRqdXN0ISAjIyMK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9wLmFkZF9jb2x1bW4oJ21lc3NhZ2VzJywgc2EuQ29sdW1uKCdkYXlfcnVsZScsIHNhLkludGVnZXIoKSwgbnVsbGFibGU9RmFsc2UpKQo=</text>
+        <text encoding="base64">ICAgICMgIyMjIGVuZCBBbGVtYmljIGNvbW1hbmRzICMjIwo=</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>,  # this is awesome, but it might be annoying.</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
