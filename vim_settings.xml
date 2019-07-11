@@ -128,12 +128,12 @@
         <mark key="]" line="43" column="37" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="/code/sc/web/static/web/views/boost/auths/boost-auths.ts" timestamp="1562883045414">
-        <mark key="'" line="63" column="26" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="20" column="0" />
+      <file name="/code/sc/web/static/web/views/boost/auths/boost-auths.ts" timestamp="1562883104230">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="17" column="17" />
+        <mark key="]" line="17" column="24" />
+        <mark key="^" line="17" column="24" />
+        <mark key="." line="17" column="24" />
       </file>
       <file name="/code/sc/web/sc/core/mixins/specs.py" timestamp="1562881896400">
         <mark key="[" line="53" column="32" />
@@ -223,7 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="/code/sc/web/sc/app/ads/crud.py" />
       <jump line="68" column="2" filename="/code/sc/web/sc/app/ads/crud.py" />
       <jump line="55" column="0" filename="/code/sc/web/sc/app/ads/customers.py" />
       <jump line="21" column="6" filename="/code/sc/web/sc/app/integs/hjs/collectors/base.py" />
@@ -322,7 +321,8 @@
       <jump line="31" column="22" filename="/code/sc/web/sc/app/ads/boost.py" />
       <jump line="47" column="25" filename="/code/sc/web/static/web/views/boost/opt-in/boost-opt.html" />
       <jump line="29" column="0" filename="/code/sc/web/static/web/views/boost/auths/boost-auths.ts" />
-      <jump line="67" column="26" filename="/code/sc/web/static/web/views/boost/auths/boost-auths.ts" />
+      <jump line="67" column="0" filename="/code/sc/web/static/web/views/boost/auths/boost-auths.ts" />
+      <jump line="27" column="0" filename="/code/sc/web/static/web/views/boost/auths/boost-auths.ts" />
     </jumps>
     <registers>
       <register name="1" type="4">
@@ -356,7 +356,7 @@
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>rhhhhhhhhm</text>
+        <text encoding="base64">ID0gbnVsbA==</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
