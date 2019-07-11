@@ -51,8 +51,8 @@
         <mark key="^" line="1026" column="0" />
         <mark key="." line="1026" column="0" />
       </file>
-      <file name="/code/sc/web/static/web/views/boost/boost.html" timestamp="1562774328477">
-        <mark key="'" line="73" column="0" />
+      <file name="/code/sc/web/static/web/views/boost/boost.html" timestamp="1562874609938">
+        <mark key="'" line="54" column="21" />
         <mark key="[" line="23" column="25" />
         <mark key="]" line="23" column="30" />
         <mark key="^" line="23" column="30" />
@@ -110,12 +110,12 @@
       <file name="/code/sc/web/static/common/components/smart-search/smart-search.ts" timestamp="1562805837839">
         <mark key="'" line="31" column="13" />
       </file>
-      <file name="/code/sc/web/static/web/views/boost/opt-in/boost-opt.ts" timestamp="1562870678200">
-        <mark key="'" line="42" column="23" />
-        <mark key="[" line="73" column="19" />
-        <mark key="]" line="74" column="40" />
-        <mark key="." line="74" column="40" />
-        <mark key="^" line="74" column="40" />
+      <file name="/code/sc/web/static/web/views/boost/opt-in/boost-opt.ts" timestamp="1562875730935">
+        <mark key="'" line="52" column="26" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+        <mark key="^" line="81" column="0" />
       </file>
       <file name="/code/sc/web/sc/app/tasks/customs.py" timestamp="1562872827418">
         <mark key="[" line="122" column="30" />
@@ -129,6 +129,12 @@
         <mark key="]" line="44" column="31" />
         <mark key="^" line="44" column="31" />
         <mark key="." line="44" column="31" />
+      </file>
+      <file name="/code/sc/web/sc/app/ads/customers.py" timestamp="1562875525370">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="47" column="11" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="/code/sc/web/instance/env.txt" timestamp="1562852680967">
         <mark key="[" line="0" column="0" />
@@ -176,7 +182,9 @@
         <mark key="^" line="112" column="23" />
         <mark key="." line="112" column="23" />
       </file>
-      <file name="/code/sc/web/sc/mods/web/rest/__init__.py" timestamp="1562871750057" />
+      <file name="/Dummy.txt" timestamp="1562874863184">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/code/sc/web/sc/app/notes/send_notes.py" timestamp="1562872412393" />
       <file name="/code/sc/web/sc/app/plats/syncs/setup/setup.py" timestamp="1562866015166" />
       <file name="/code/sc/web/sc/coms/ext/classful.py" timestamp="1562871584196">
@@ -194,8 +202,11 @@
       <file name="/code/sc/web/migrations/versions/ad90da6a375c__181.py" timestamp="1562725380002">
         <mark key="'" line="36" column="0" />
       </file>
-      <file name="/code/sc/web/sc/coms/ext/flasks.py" timestamp="1562871770400">
-        <mark key="'" line="185" column="19" />
+      <file name="/code/sc/web/sc/coms/ext/flasks.py" timestamp="1562875682883">
+        <mark key="'" line="189" column="19" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1562853054249">
         <mark key="[" line="915" column="0" />
@@ -205,8 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="0" filename="/code/sc/web/sc/app/integs/bulk/incoming.py" />
-      <jump line="355" column="4" filename="/code/sc/web/sc/app/integs/bulk/incoming.py" />
       <jump line="26" column="37" filename="/code/sc/web/static/web/views/boost/boost.html" />
       <jump line="58" column="0" filename="/code/sc/web/static/web/views/boost/boost.html" />
       <jump line="565" column="0" filename="/code/sc/web/cli/ones.py" />
@@ -293,7 +302,6 @@
       <jump line="17" column="0" filename="/code/sc/web/static/web/views/boost/opt-in/boost-opt.ts" />
       <jump line="114" column="16" filename="/code/sc/web/sc/app/ads/feeds.py" />
       <jump line="1004" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
-      <jump line="52" column="2" filename="/code/sc/web/static/web/views/boost/opt-in/boost-opt.ts" />
       <jump line="5" column="59" filename="/code/sc/web/sc/app/ads/customers.py" />
       <jump line="61" column="18" filename="/code/sc/web/sc/app/ads/feeds.py" />
       <jump line="14" column="13" filename="/code/sc/web/static/common/interceptors/resource-interceptor.ts" />
@@ -305,40 +313,43 @@
       <jump line="193" column="19" filename="/code/sc/web/sc/coms/ext/flasks.py" />
       <jump line="659" column="22" filename="/code/sc/web/cli/ones.py" />
       <jump line="658" column="0" filename="/code/sc/web/cli/ones.py" />
+      <jump line="54" column="21" filename="/code/sc/web/static/web/views/boost/boost.html" />
+      <jump line="74" column="34" filename="/code/sc/web/static/web/views/boost/opt-in/boost-opt.ts" />
+      <jump line="52" column="26" filename="/code/sc/web/static/web/views/boost/opt-in/boost-opt.ts" />
     </jumps>
     <registers>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICByZXR1cm4KICAgICAgICB0aHJvdyBl</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgZWxpZiBjYXNlKCdub3Rlcy5yZWFsdGltZScpOgogICAgX25vdGVzX2RpZ2VzdChqcyk=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgdiA9IGdldGF0dHIoZywgaykKICAgICAgaWYgdXRpbHMuaXNtb2RlbCh2KToKICAgICAgICB2ID0gdi5pZAogICAgICBwcmludChrLCB2KQ==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIHRyeToKICAgICAga2V5cyA9IGxpc3QoZykKICAgICAgZm9yIGsgaW4ga2V5czoKICAgICAgICBwcmludChrLCBnZXRhdHRyKGcsIGspKQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICBwcmludCgnRScgKiAxMDAwLCBzdHIoZSkp</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGtleXMgPSBsaXN0KGcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGtleXMgPSBsaXN0KGcpCiAgICBmb3IgayBpbiBrZXlzOgogICAgICBwcmludChrLCBnZXRhdHRyKGcsIGspKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoJ0tFWVMnLCBrZXlzKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIGZyb20gZmxhc2sgaW1wb3J0IGcK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgY29kZSA9IEdvb2dsZUFkc0Vycm9yLmdldF9lcnJvcl9lbnVtKGFwaSwgZS5mYWlsdXJlLmVycm9yc1swXS5lcnJvcl9jb2RlKQogICAgICBpZiBSZXF1ZXN0RXJyb3JFbnVtLlJlcXVlc3RFcnJvci5JTlZBTElEX0NVU1RPTUVSX0lEICE9IGNvZGU6Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNsaWVudCA9IGFwaS5jbGllbnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>rev</text>
+        <text>keys</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
