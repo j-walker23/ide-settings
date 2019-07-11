@@ -137,8 +137,12 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/code/sc/web/sc/mods/web/rest/accounts/reviews_view.py" timestamp="1562805353175">
+      <file name="/code/sc/web/sc/mods/web/rest/accounts/reviews_view.py" timestamp="1562807145867">
         <mark key="'" line="187" column="18" />
+        <mark key="[" line="44" column="15" />
+        <mark key="]" line="44" column="31" />
+        <mark key="^" line="44" column="31" />
+        <mark key="." line="44" column="31" />
       </file>
       <file name="/code/sc/web/sc/mods/web/rest/accounts_view.py" timestamp="1562751729789">
         <mark key="[" line="75" column="37" />
@@ -242,6 +246,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
+      </file>
+      <file name="/code/sc/web/sc/app/reviews/crud.py" timestamp="1562807196621">
+        <mark key="[" line="57" column="17" />
+        <mark key="]" line="57" column="25" />
+        <mark key="." line="57" column="25" />
+        <mark key="^" line="57" column="25" />
       </file>
       <file name="/code/sc/web/migrations/versions/ad90da6a375c__181.py" timestamp="1562725380002">
         <mark key="'" line="36" column="0" />
@@ -358,37 +368,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNyID0geyoqcmV2LnNyfQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGZpbHRlcnMgPSB7CiAgICAgICAgICAgICAgc3RhdHVzOiBbT3AuaW5fLCBbUmVjU3RhdHVzLk5ldywgUmVjU3RhdHVzLkNvbnRhY3RlZF1dLAogICAgICAgICAgICAgIFsnc3IuYXNzaWduZWVfaWQnXTogdWlkLAogICAgICAgICAgICB9CiAgICAgICAgICAgIGdldFN0YXRlKCkuZ28oJ3dlYi5yZXZpZXdzJywgeyBmaWx0ZXJzLCBxdWVyeSB9KQoKICAgICAgICAgICAgbGV0IHsgdWlkIH0gPSBldi5wb2ludCBhcyBhbnkKICAgICAgICAgICAgbGV0IHF1ZXJ5ID0gc3RhdGVQYXJhbXMoKS5xdWVyeQogICAgICAgICAgICBsZXQgZmlsdGVycyA9IHsKICAgICAgICAgICAgICBjb21tZW50czogW09wLm5vdGFueSwgbnVsbF0sCiAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0U3RhdGUoKS5nbygnd2ViLnJldmlld3MnLCB7IGZpbHRlcnMsIHF1ZXJ5IH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHsgbmFtZSB9ID0gZXYucG9pbnQgYXMgYW55CiAgICAgICAgICAgIGlmIChuYW1lLmluY2x1ZGVzKCcgJykpCiAgICAgICAgICAgICAgbmFtZSA9IGAiJHtuYW1lfSJgCiAgICAgICAgICAgIGxldCBxdWVyeSA9IGdldFN0YXRlUGFyYW1zKCkucXVlcnkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0U3RhdGUoKS5nbygnd2ViLnJldmlld3MnLCB7IGZpbHRlcnMsIHF1ZXJ5IH0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBbJ3NyLmFzc2lnbmVlX2lkJ106IHVpZCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHsgbmFtZSB9ID0gZXYucG9pbnQgYXMgYW55CiAgICAgICAgICAgIGlmIChuYW1lLmluY2x1ZGVzKCcgJykpCiAgICAgICAgICAgICAgbmFtZSA9IGAiJHtuYW1lfSJgCiAgICAgICAgICAgIGxldCBxdWVyeSA9IGdldFN0YXRlUGFyYW1zKCkucXVlcnkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBbJ3NyLmFzc2lnbmVlX2lkJ106IHVpZCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmlsdGVycywg</text>
+        <text>{}</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
