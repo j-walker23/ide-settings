@@ -3,11 +3,35 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/code/sc/web/sc/sql/__init__.py" timestamp="1562901362887">
+      <file name="/code/sc/web/static/web/views/settings/locations/details/location-details.html" timestamp="1562909941208" />
+      <file name="/code/sc/web/static/web/web.nav.ts" timestamp="1562910141495" />
+      <file name="/code/sc/web/migrations/versions/558571543684__186.py" timestamp="1562911566049">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+      </file>
+      <file name="/code/sc/web/sc/app/ads/customer_feeds.py" timestamp="1562912660921">
+        <mark key="[" line="22" column="21" />
+        <mark key="]" line="22" column="24" />
+        <mark key="." line="22" column="24" />
+        <mark key="^" line="22" column="24" />
+      </file>
+      <file name="/code/sc/web/sc/sql/__init__.py" timestamp="1562914722141">
         <mark key="'" line="28" column="6" />
-        <mark key="[" line="236" column="0" />
-        <mark key="]" line="236" column="0" />
-        <mark key="." line="236" column="0" />
+        <mark key="[" line="235" column="28" />
+        <mark key="]" line="235" column="57" />
+        <mark key="." line="235" column="57" />
+        <mark key="^" line="235" column="57" />
+      </file>
+      <file name="/code/sc/web/static/web/views/survey-summary/overall-compare/overall-compare.ts" timestamp="1562909298975">
+        <mark key="[" line="38" column="40" />
+        <mark key="]" line="38" column="39" />
+        <mark key="^" line="38" column="39" />
+        <mark key="." line="38" column="39" />
+      </file>
+      <file name="/a.dummy" timestamp="1562911037497">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/code/sc/web/cli/ones.py" timestamp="1562905980185">
         <mark key="[" line="697" column="5" />
@@ -15,11 +39,24 @@
         <mark key="." line="697" column="6" />
         <mark key="^" line="704" column="8" />
       </file>
+      <file name="/code/sc/web/sc/coms/ext/logs.py" timestamp="1562889839445">
+        <mark key="'" line="81" column="7" />
+        <mark key="[" line="92" column="61" />
+        <mark key="]" line="92" column="65" />
+        <mark key="^" line="92" column="65" />
+        <mark key="." line="92" column="65" />
+      </file>
       <file name="/code/sc/web/static/common/directives/btn.directive.ts" timestamp="1562888718912">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
+      </file>
+      <file name="/code/sc/web/sc/app/ads/adgroups.py" timestamp="1562915001678">
+        <mark key="'" line="57" column="18" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1562906393126">
         <mark key="'" line="1030" column="35" />
@@ -27,6 +64,13 @@
         <mark key="]" line="1035" column="17" />
         <mark key="^" line="1035" column="17" />
         <mark key="." line="1035" column="17" />
+      </file>
+      <file name="/code/sc/web/static/web/views/boost/boost.html" timestamp="1562907862622">
+        <mark key="'" line="15" column="15" />
+        <mark key="[" line="54" column="26" />
+        <mark key="]" line="54" column="33" />
+        <mark key="." line="54" column="33" />
+        <mark key="^" line="54" column="33" />
       </file>
       <file name="/code/sc/web/cli/ads.py" timestamp="1562902142262">
         <mark key="[" line="131" column="32" />
@@ -46,10 +90,11 @@
         <mark key="^" line="18" column="51" />
         <mark key="." line="18" column="51" />
       </file>
-      <file name="/code/sc/web/sc/sql/ad/ads.py" timestamp="1562905874986">
-        <mark key="[" line="20" column="21" />
-        <mark key="]" line="20" column="21" />
-        <mark key="." line="20" column="21" />
+      <file name="/code/sc/web/sc/sql/ad/ads.py" timestamp="1562914647035">
+        <mark key="[" line="63" column="21" />
+        <mark key="]" line="63" column="20" />
+        <mark key="." line="63" column="20" />
+        <mark key="^" line="63" column="20" />
       </file>
       <file name="/code/sc/web/static/web/http/plat-syncs.resource.ts" timestamp="1562889533157">
         <mark key="[" line="11" column="38" />
@@ -57,23 +102,63 @@
         <mark key="^" line="11" column="41" />
         <mark key="." line="11" column="41" />
       </file>
+      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1562891649319">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="40" column="16" />
+        <mark key="]" line="40" column="19" />
+        <mark key="." line="40" column="19" />
+        <mark key="^" line="40" column="19" />
+      </file>
+      <file name="/code/sc/web/static/common/interceptors/resource-interceptor.ts" timestamp="1562888487239">
+        <mark key="'" line="158" column="0" />
+        <mark key="[" line="135" column="60" />
+        <mark key="]" line="136" column="67" />
+        <mark key="^" line="136" column="67" />
+        <mark key="." line="136" column="67" />
+      </file>
+      <file name="/code/sc/web/webpack.config.ts" timestamp="1562909729234" />
+      <file name="/code/sc/web/static/web/views/boost/opt-in/boost-opt.html" timestamp="1562887164001">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="20" column="46" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="/code/sc/web/sc/mods/web/rest/accounts/plat_syncs_view.py" timestamp="1562889658244">
         <mark key="[" line="19" column="57" />
         <mark key="]" line="19" column="55" />
         <mark key="." line="19" column="55" />
         <mark key="^" line="19" column="55" />
       </file>
-      <file name="/code/sc/web/sc/app/ads/feeds.py" timestamp="1562903461981">
+      <file name="/code/sc/web/static/web/views/gmb-questions/gmb-questions.html" timestamp="1562910002464" />
+      <file name="/code/sc/web/static/common/search/params.ts" timestamp="1562908632207">
+        <mark key="[" line="49" column="1" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="63" column="0" />
+      </file>
+      <file name="/code/sc/web/static/web/views/boost/boost.ts" timestamp="1562909457752">
+        <mark key="'" line="23" column="10" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="37" column="21" />
+      </file>
+      <file name="/code/sc/web/sc/app/ads/feeds.py" timestamp="1562915026198">
         <mark key="'" line="207" column="4" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
       </file>
       <file name="/code/sc/web/static/web/views/boost/opt-in/boost-opt.ts" timestamp="1562887175399">
         <mark key="[" line="43" column="55" />
         <mark key="]" line="44" column="19" />
         <mark key="." line="44" column="19" />
         <mark key="^" line="44" column="19" />
+      </file>
+      <file name="/code/sc/web/bin/icons-write.js" timestamp="1562910663426">
+        <mark key="'" line="65" column="8" />
+        <mark key="[" line="90" column="44" />
+        <mark key="]" line="90" column="48" />
+        <mark key="^" line="90" column="48" />
+        <mark key="." line="90" column="48" />
       </file>
       <file name="/code/trash/google-ads-python/examples/advanced_operations/add_sitelink.py" timestamp="1562903613078" />
       <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/click/decorators.py" timestamp="1562902124115" />
@@ -83,6 +168,7 @@
         <mark key="." line="53" column="31" />
         <mark key="^" line="53" column="31" />
       </file>
+      <file name="/code/sc/web/static/web/views/nav-toolbar/sad-face/sad-face.ts" timestamp="1562910363285" />
       <file name="/code/sc/web/static/common/components/page/page.ts" timestamp="1562888742553">
         <mark key="[" line="18" column="18" />
         <mark key="]" line="18" column="21" />
@@ -102,27 +188,33 @@
         <mark key="^" line="12" column="15" />
         <mark key="." line="12" column="15" />
       </file>
+      <file name="/code/sc/web/static/web/views/nav-toolbar/nav-toolbar.html" timestamp="1562910018291" />
+      <file name="/code/sc/web/sc/app/ads/customers.py" timestamp="1562915109398">
+        <mark key="[" line="24" column="76" />
+        <mark key="]" line="24" column="75" />
+        <mark key="." line="24" column="75" />
+        <mark key="^" line="24" column="75" />
+      </file>
+      <file name="/code/sc/web/static/web/views/reviews/item/fb-comments/fb-comments.html" timestamp="1562910273551" />
       <file name="/code/sc/web/sc/sql/platform/auth_loc/boost_loc.py" timestamp="1562901236940">
         <mark key="[" line="31" column="2" />
         <mark key="]" line="31" column="1" />
         <mark key="." line="31" column="1" />
         <mark key="^" line="31" column="1" />
       </file>
-      <file name="/code/sc/web/sc/app/ads/boost.py" timestamp="1562906191733">
+      <file name="/code/sc/web/sc/app/ads/boost.py" timestamp="1562911929355">
         <mark key="'" line="32" column="22" />
-        <mark key="[" line="50" column="28" />
-        <mark key="]" line="50" column="36" />
-        <mark key="." line="50" column="36" />
-        <mark key="^" line="50" column="36" />
+        <mark key="[" line="72" column="30" />
+        <mark key="]" line="72" column="25" />
+        <mark key="." line="72" column="25" />
+        <mark key="^" line="72" column="25" />
       </file>
+      <file name="/code/sc/web/static/common/components/images/images.dialog.html" timestamp="1562910236368" />
       <file name="/code/sc/web/sc/sql/platform/auth/__init__.py" timestamp="1562890219584">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
         <mark key="^" line="48" column="91" />
         <mark key="." line="48" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1562905370755">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1562905388621">
         <mark key="[" line="0" column="0" />
@@ -134,16 +226,36 @@
         <mark key="." line="22" column="46" />
         <mark key="^" line="22" column="46" />
       </file>
+      <file name="/code/trash/google-ads-python/google/ads/google_ads/v2/services/enums.py" timestamp="1562914158319" />
       <file name="/code/sc/web/sc/coms/customsql/jsontype.py" timestamp="1562906354280">
         <mark key="[" line="74" column="29" />
         <mark key="]" line="74" column="30" />
         <mark key="^" line="74" column="30" />
         <mark key="." line="74" column="30" />
       </file>
-      <file name="/code/sc/web/sc/app/ads/api.py" timestamp="1562906146242">
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="." line="140" column="0" />
+      <file name="/code/sc/web/sc/app/ads/base.py" timestamp="1562912716484">
+        <mark key="[" line="29" column="19" />
+        <mark key="]" line="29" column="22" />
+        <mark key="^" line="29" column="22" />
+        <mark key="." line="29" column="22" />
+      </file>
+      <file name="/code/sc/web/sc/app/ads/api.py" timestamp="1562912703352">
+        <mark key="[" line="131" column="12" />
+        <mark key="]" line="132" column="1" />
+        <mark key="." line="132" column="1" />
+        <mark key="^" line="132" column="1" />
+      </file>
+      <file name="/code/sc/web/static/web/views/survey-summary/survey-summary.ts" timestamp="1562909344596">
+        <mark key="[" line="52" column="35" />
+        <mark key="]" line="52" column="34" />
+        <mark key="." line="52" column="34" />
+        <mark key="^" line="52" column="34" />
+      </file>
+      <file name="/code/sc/web/static/common/components/grid/grid.ts" timestamp="1562907880698">
+        <mark key="'" line="72" column="6" />
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="196" column="0" />
+        <mark key="." line="196" column="0" />
       </file>
       <file name="/code/sc/web/static/web/views/boost/manage/boost-manage.ts" timestamp="1562889729066">
         <mark key="[" line="38" column="31" />
@@ -157,23 +269,21 @@
         <mark key="." line="84" column="54" />
         <mark key="^" line="84" column="54" />
       </file>
-      <file name="/code/sc/web/sc/sql/ad/boost_loc.py" timestamp="1562901743044">
-        <mark key="[" line="29" column="43" />
-        <mark key="]" line="29" column="52" />
-        <mark key="." line="29" column="52" />
-        <mark key="^" line="29" column="52" />
+      <file name="/code/sc/web/static/common/models/sys-models.ts" timestamp="1562909985128" />
+      <file name="/code/sc/web/sc/sql/ad/boost_loc.py" timestamp="1562914815746">
+        <mark key="[" line="31" column="24" />
+        <mark key="]" line="31" column="25" />
+        <mark key="." line="31" column="25" />
+        <mark key="^" line="32" column="26" />
       </file>
-      <file name="/code/sc/web/sc/sql/ad/enums.py" timestamp="1562904462611">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="/code/sc/web/sc/app/ads/feed_items.py" timestamp="1562906492121">
-        <mark key="[" line="69" column="18" />
-        <mark key="]" line="69" column="22" />
-        <mark key="." line="69" column="22" />
-        <mark key="^" line="69" column="22" />
+      <file name="/code/sc/web/sc/sql/ad/enums.py" timestamp="1562914300046" />
+      <file name="/code/sc/web/static/web/views/arrowlytics/pending/pending.html" timestamp="1562909991878" />
+      <file name="/code/sc/web/sc/app/ads/feed_items.py" timestamp="1562913126796">
+        <mark key="'" line="31" column="26" />
+        <mark key="[" line="31" column="16" />
+        <mark key="]" line="31" column="27" />
+        <mark key="^" line="31" column="27" />
+        <mark key="." line="31" column="27" />
       </file>
       <file name="/code/sc/web/static/common/pipes/pipes.ts" timestamp="1562890240665">
         <mark key="[" line="29" column="31" />
@@ -181,23 +291,23 @@
         <mark key="." line="29" column="38" />
         <mark key="^" line="29" column="38" />
       </file>
-      <file name="/code/sc/web/sc/sql/platform/auth_loc/enums.py" timestamp="1562901257058">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="/code/sc/web/sc/app/ads/campaigns.py" timestamp="1562915125879">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
-      <file name="/code/sc/web/sc/sql/cols.py" timestamp="1562901739796">
-        <mark key="'" line="168" column="2" />
-        <mark key="[" line="275" column="98" />
-        <mark key="]" line="275" column="113" />
-        <mark key="." line="275" column="113" />
-        <mark key="^" line="275" column="113" />
+      <file name="/code/sc/web/sc/sql/cols.py" timestamp="1562914533271">
+        <mark key="'" line="36" column="55" />
+        <mark key="[" line="283" column="9" />
+        <mark key="]" line="283" column="11" />
+        <mark key="." line="283" column="11" />
+        <mark key="^" line="283" column="11" />
       </file>
-      <file name="/code/sc/web/sc/app/tasks/ads.py" timestamp="1562904882487">
-        <mark key="[" line="31" column="88" />
-        <mark key="]" line="32" column="24" />
-        <mark key="." line="32" column="24" />
-        <mark key="^" line="32" column="24" />
+      <file name="/code/sc/web/sc/app/tasks/ads.py" timestamp="1562915162631">
+        <mark key="[" line="16" column="42" />
+        <mark key="]" line="16" column="45" />
+        <mark key="." line="16" column="45" />
+        <mark key="^" line="16" column="45" />
       </file>
       <file name="/code/sc/web/sc/app/ads/utils.py" timestamp="1562905368373">
         <mark key="[" line="27" column="23" />
@@ -217,6 +327,7 @@
         <mark key="^" line="27" column="72" />
         <mark key="." line="27" column="72" />
       </file>
+      <file name="/code/sc/web/static/web/views/notes/notes.html" timestamp="1562907765933" />
       <file name="/code/sc/web/static/web/views/boost/auths/boost-auths.html" timestamp="1562888758704">
         <mark key="[" line="12" column="16" />
         <mark key="]" line="13" column="10" />
@@ -225,22 +336,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="39" filename="/code/sc/web/static/web/views/boost/boost.ts" />
-      <jump line="30" column="45" filename="/code/sc/web/static/web/views/boost/search/boost-search.ts" />
-      <jump line="29" column="0" filename="/code/sc/web/static/web/views/boost/search/boost-search.ts" />
-      <jump line="57" column="31" filename="/code/sc/web/static/web/views/reportcard/search/reportcard-search.ts" />
-      <jump line="165" column="2" filename="/code/sc/web/static/web/views/notes/notes.ts" />
-      <jump line="0" column="0" filename="/code/sc/web/static/web/views/nav-toolbar/user-accounts/user-accounts.html" />
-      <jump line="232" column="2" filename="/code/sc/web/cli/ads.py" />
-      <jump line="19" column="6" filename="/code/sc/web/sc/mods/web/webhooks/stripe_webhooks_view.py" />
-      <jump line="50" column="20" filename="/code/sc/web/instance/local/develop_settings.py" />
-      <jump line="26" column="6" filename="/code/sc/web/sc/mods/web/rest/accounts/reviews_view.py" />
-      <jump line="105" column="6" filename="/code/sc/web/sc/sql/platform/auth/__init__.py" />
-      <jump line="110" column="0" filename="/code/sc/web/sc/app/ads/feeds.py" />
-      <jump line="27" column="0" filename="/code/sc/web/sc/sql/pro/boost.py" />
-      <jump line="0" column="0" filename="/code/sc/web/sc/sql/__init__.py" />
-      <jump line="237" column="0" filename="/code/sc/web/sc/app/ads/customer_feeds.py" />
-      <jump line="110" column="0" filename="/code/sc/web/sc/app/ads/customer_feeds.py" />
       <jump line="681" column="31" filename="/code/sc/web/cli/ones.py" />
       <jump line="667" column="2" filename="/code/sc/web/cli/ones.py" />
       <jump line="19" column="13" filename="/code/sc/web/sc/app/ads/boost.py" />
@@ -319,46 +414,62 @@
       <jump line="10" column="0" filename="/code/sc/web/sc/sql/pro/ads.py" />
       <jump line="113" column="6" filename="/code/sc/web/sc/app/ads/feeds.py" />
       <jump line="1030" column="35" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
-      <jump line="28" column="6" filename="/code/sc/web/sc/sql/__init__.py" />
       <jump line="0" column="0" filename="/code/sc/web/sc/sql/tables.py" />
       <jump line="168" column="2" filename="/code/sc/web/sc/sql/cols.py" />
       <jump line="153" column="11" filename="/code/sc/web/sc/app/ads/feeds.py" />
       <jump line="207" column="4" filename="/code/sc/web/sc/app/ads/feeds.py" />
       <jump line="35" column="13" filename="/code/sc/web/sc/app/ads/feed_items.py" />
+      <jump line="15" column="15" filename="/code/sc/web/static/web/views/boost/boost.html" />
+      <jump line="48" column="13" filename="/code/sc/web/static/common/components/grid/grid.ts" />
+      <jump line="0" column="0" filename="/code/sc/web/static/web/views/listings/listings.html" />
+      <jump line="72" column="6" filename="/code/sc/web/static/common/components/grid/grid.ts" />
+      <jump line="254" column="0" filename="/code/sc/web/static/web/views/notes/notes.ts" />
+      <jump line="23" column="10" filename="/code/sc/web/static/web/views/boost/boost.ts" />
+      <jump line="7" column="4" filename="/code/sc/web/bin/icons-write.js" />
+      <jump line="85" column="26" filename="/code/sc/web/bin/icons-write.js" />
+      <jump line="0" column="0" filename="/code/sc/web/bin/icons-write.js" />
+      <jump line="65" column="8" filename="/code/sc/web/bin/icons-write.js" />
+      <jump line="16" column="0" filename="/code/sc/web/migrations/versions/558571543684__186.py" />
+      <jump line="31" column="26" filename="/code/sc/web/sc/app/ads/feed_items.py" />
+      <jump line="90" column="0" filename="/code/sc/web/sc/app/ads/campaigns.py" />
+      <jump line="167" column="2" filename="/code/sc/web/sc/sql/cols.py" />
+      <jump line="36" column="55" filename="/code/sc/web/sc/sql/cols.py" />
+      <jump line="28" column="6" filename="/code/sc/web/sc/sql/__init__.py" />
+      <jump line="57" column="18" filename="/code/sc/web/sc/app/ads/adgroups.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmF3ID0gYWRzZGljdChyKQo=</text>
+        <text encoding="base64">ICAgIGNsaWVudCA9IGFwaS5jbGllbnQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">d2hlcmUgZWlkID0gJ2xvY2F0aW9ucy80NjY0NzcyNDM4NTEyMzI3NjI4Jwo=</text>
+        <text encoding="base64">CiAgICAjIGNhbXBhaWduLnN0YXR1cyA9IGNsaWVudC5nZXRfdHlwZSgnQ2FtcGFpZ25TdGF0dXNFbnVtJywgdmVyc2lvbj0ndjEnKS5QQVVTRUQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdoZXJlIHtuYW1lfS5zdGF0dXMgPSAne2lkZH0nCg==</text>
+        <text encoding="base64">ZnJvbSBnb29nbGUuYWRzLmdvb2dsZV9hZHMudjEgaW1wb3J0IEFkR3JvdXBFeHRlbnNpb25TZXR0aW5nU2VydmljZUNsaWVudCwgQWRHcm91cEZlZWRTZXJ2aWNlQ2xpZW50Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb2xzID0gYmFzZV9jb2xzKGNscykgLSBwa19jb2xzKGNscykK</text>
+        <text encoding="base64">ZnJvbSBnb29nbGUuYWRzLmdvb2dsZV9hZHMudjEgaW1wb3J0IENhbXBhaWduQ3JpdGVyaW9uU2VydmljZUNsaWVudCwgR2VvVGFyZ2V0Q29uc3RhbnRTZXJ2aWNlQ2xpZW50Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhY2NvdW50X2lkPXN5bmMuYWNjb3VudF9pZCwK</text>
+        <text encoding="base64">ZnJvbSBnb29nbGUuYWRzLmdvb2dsZV9hZHMudjEgaW1wb3J0IEFkR3JvdXBBZFNlcnZpY2VDbGllbnQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzeW5jLmNfZmVlZCA9ICJjdXN0b21lcnMvMTM5MjYzMTU1OC9jdXN0b21lckZlZWRzLzEwMTQ2NjI3MyIK</text>
+        <text encoding="base64">ICBidWRnZXQgPSBDb2x1bW4oRmxvYXQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsb2cuaW5mbyhmJ0NyZWF0aW5nIEJvb3N0IExvY3MnKQo=</text>
+        <text encoding="base64">CiAgYm9vc3Q6ICdzcWwuQm9vc3RMb2MnID0gcmVsYXRpb25zaGlwKCdCb29zdExvYycsIHVzZWxpc3Q9RmFsc2UpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bG9nLmluZm8oZicnKQo=</text>
+        <text encoding="base64">ICBpZCA9IENvbHVtbihJbnRlZ2VyLCBGb3JlaWduS2V5KCdib29zdF9sb2NzLmlkJywgKipjb25zdC5GS19ERUwpLCBwcmltYXJ5X2tleT1UcnVlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgYm9vc3Q6ICdzcWwuQm9vc3RMb2MnID0gcmVsYXRpb25zaGlwKCdCb29zdExvYycsIHVzZWxpc3Q9RmFsc2UpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>status</text>
+        <text>, version='v1'</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
