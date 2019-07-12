@@ -120,6 +120,7 @@
         <mark key="." line="49" column="12" />
         <mark key="^" line="49" column="12" />
       </file>
+      <file name="/code/sc/medrank/rank/sql/sess_ext.py" timestamp="1562963494369" />
       <file name="/code/sc/web/sc/app/ads/customers.py" timestamp="1562955784515">
         <mark key="'" line="35" column="4" />
         <mark key="[" line="73" column="25" />
@@ -142,6 +143,13 @@
         <mark key="." line="53" column="46" />
         <mark key="^" line="53" column="46" />
       </file>
+      <file name="/code/sc/web/sc/sql/sess_ext.py" timestamp="1562963524545">
+        <mark key="'" line="176" column="23" />
+        <mark key="[" line="178" column="0" />
+        <mark key="]" line="178" column="0" />
+        <mark key="^" line="17" column="33" />
+        <mark key="." line="178" column="0" />
+      </file>
       <file name="/code/sc/web/sc/app/ads/api.py" timestamp="1562957354765">
         <mark key="[" line="141" column="18" />
         <mark key="]" line="141" column="19" />
@@ -151,7 +159,7 @@
       <file name="/code/sc/web/static/web/views/notes/notes.ts" timestamp="1562958588259">
         <mark key="'" line="58" column="18" />
       </file>
-      <file name="/code/sc/medrank/rank/core/mixins/scrape.py" timestamp="1562962578490" />
+      <file name="/code/sc/medrank/rank/core/mixins/scrape.py" timestamp="1562963668695" />
       <file name="/code/sc/web/sc/app/plats/syncs/runner.py" timestamp="1562940687494">
         <mark key="[" line="86" column="53" />
         <mark key="]" line="86" column="67" />
@@ -232,9 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="10" filename="/code/sc/web/static/web/views/boost/boost.ts" />
-      <jump line="7" column="4" filename="/code/sc/web/bin/icons-write.js" />
-      <jump line="85" column="26" filename="/code/sc/web/bin/icons-write.js" />
       <jump line="0" column="0" filename="/code/sc/web/bin/icons-write.js" />
       <jump line="65" column="8" filename="/code/sc/web/bin/icons-write.js" />
       <jump line="16" column="0" filename="/code/sc/web/migrations/versions/558571543684__186.py" />
@@ -332,34 +337,37 @@
       <jump line="108" column="17" filename="/code/sc/web/sc/app/ads/boost.py" />
       <jump line="59" column="21" filename="/code/sc/web/sc/app/ads/crud.py" />
       <jump line="13" column="0" filename="/code/sc/web/sc/app/ads/crud.py" />
+      <jump line="141" column="0" filename="/code/sc/web/sc/sql/sess_ext.py" />
+      <jump line="171" column="0" filename="/code/sc/web/sc/sql/sess_ext.py" />
+      <jump line="175" column="23" filename="/code/sc/web/sc/sql/sess_ext.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICBhZF9ncm91cF9mZWVkID0gZmVlZHMuZmluZF9hZF9ncm91cF9mZWVkKGZlZWQsIGFkX2dyb3VwKQogIGlmIG5vdCBhZF9ncm91cF9mZWVkOgogICAgZmVlZHMuYWRkX2dyb3VwX2ZlZWQoYm9vc3QsIGZlZWQsIGFkX2dyb3VwKQo=</text>
+        <text encoding="base64">CiAgZm9yIG0gaW4gcy5uZXc6CiAgICBpZiBpc2luc3RhbmNlKG0sIEhhc0FkZHkpIGFuZCBtLmFkZHkgaXMgTm9uZToKICAgICAgbS5hZGR5ID0gbS5BZGR5Lm5ldyhwcl9pZD1nZXRhdHRyKG0sICdwcl9pZCcsIE5vbmUpKQoKICAgIGlmIGlzaW5zdGFuY2UobSwgUHJhY3RpY2UpIGFuZCBtLmZsb3cgaXMgTm9uZToKICAgICAgbS5mbG93ID0gV29ya2Zsb3coKQoKICAgIGlmIGlzaW5zdGFuY2UobSwgSGFzS2luZExpbmspIGFuZCBub3QgbS5wbGF0Zm9ybXM6CiAgICAgIG0ucGxhdGZvcm1zID0gbS5pbml0X2xpbmtzKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZyb20gc2MuYXBwLnRhc2tzIGltcG9ydCBhZHMKICAgIGFkcy5zeW5jX2ZlZWRzKFBsYXRTeW5jLmdldChnb29nbGU9YWNjLmdvb2dfcGxhdCwgYXV0aD1Hb29nbGVBdXRoLmdldChlbWFpbD0nZGV2QGNoYW9zZGV2cy5jb20nKSkpCiAgICBhZHMuc3luY19hZChib28uaWQpCg==</text>
+        <text encoding="base64">ICBhZF9ncm91cF9mZWVkID0gZmVlZHMuZmluZF9hZF9ncm91cF9mZWVkKGZlZWQsIGFkX2dyb3VwKQogIGlmIG5vdCBhZF9ncm91cF9mZWVkOgogICAgZmVlZHMuYWRkX2dyb3VwX2ZlZWQoYm9vc3QsIGZlZWQsIGFkX2dyb3VwKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZyb20gc2MuYXBwLnRhc2tzIGltcG9ydCBhZHMKICAgIGFkcy5zeW5jX2ZlZWRzKFBsYXRTeW5jLmdldChnb29nbGU9YWNjLmdvb2dfcGxhdCwgYXV0aD1Hb29nbGVBdXRoLmdldChlbWFpbD0nZGV2QGNoYW9zZGV2cy5jb20nKSkpCiAgICBhZHMuc3luY19hZChib28uaWQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzdCA9IGJvby5hZCBhbmQgYm9vLmFkLnN0YXR1cwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBpZiBzdCBhbmQgc3QgaXMgQWRTdGF0dXMuUEFVU0VEOgogICAgYm9vLnN0YXR1cyA9IEFkQm9vc3RTdGF0dXMuRU5BQkxFRAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGFuZCBhZF9ncm91cF9hZC5zdGF0dXMgPSAnRU5BQkxFRCcK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByLnJlc3VsdHMK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBzdCA9IGJvby5hZCBhbmQgYm9vLmFkLnN0YXR1cwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBpZiBzdCBhbmQgc3QgaXMgQWRTdGF0dXMuUEFVU0VEOgogICAgYm9vLnN0YXR1cyA9IEFkQm9vc3RTdGF0dXMuRU5BQkxFRAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGFuZCBhZF9ncm91cF9hZC5zdGF0dXMgPSAnRU5BQkxFRCcK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJldHVybiByLnJlc3VsdHMK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY3JpdC5jYW1wYWlnbi52YWx1ZSA9IGNhbXBhaWduLnJlc291cmNlX25hbWUKICAgICAgY3JpdC5sb2NhdGlvbi5nZW9fdGFyZ2V0X2NvbnN0YW50LnZhbHVlID0gcm5hbWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//ismulti</text>
