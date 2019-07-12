@@ -159,4 +159,10 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="task" value="from sc.app.tasks import $name$" description="celery task" toReformat="true" toShortenFQNames="true">
+    <variable name="name" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
