@@ -22,12 +22,12 @@
         <mark key="." line="732" column="77" />
         <mark key="^" line="732" column="77" />
       </file>
-      <file name="/code/sc/web/sc/app/ads/adgroups.py" timestamp="1563046177992">
-        <mark key="'" line="70" column="41" />
-        <mark key="[" line="80" column="36" />
-        <mark key="]" line="81" column="15" />
-        <mark key="." line="81" column="15" />
-        <mark key="^" line="81" column="15" />
+      <file name="/code/sc/web/sc/app/ads/adgroups.py" timestamp="1563047263525">
+        <mark key="'" line="67" column="41" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="37" column="3" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1563043810531">
         <mark key="'" line="1035" column="17" />
@@ -248,37 +248,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAjCiAgIyBpZiBoYXNhdHRyKG9iaiwgJ2FkZCcpOgogICMgICBvYmogPSBbTWVzc2FnZVRvRGljdChvKSBmb3IgbyBpbiBvYmpdCiAgIyBlbHNlOgogICMgICBvYmogPSBNZXNzYWdlVG9EaWN0KG9iaikK</text>
+        <text encoding="base64">ICAgIHNlc3MucmVmcmVzaChib28sIFsnYWRfZ3JvdXAnXSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNhLnVwc2VydChBZEdyb3VwLCBbcmF3XSwgcGtzPVRydWUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gb2xkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZV9jbGFzcyhUYXJnZXRzKS5zYXZlX2Jvb3N0X3RhcmdldHMoYm9vLCBjYW1wLnJlc291cmNlX25hbWUpCg==</text>
+        <text encoding="base64">ICAgIGJvby5hZF9ncm91cC5mcm9tZGljdChyYXcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgZGVmIHBhdXNlX2FkKHNlbGYsIGJvbzogQm9vc3QsIHBhdXNlOiBib29sKToKICAgICIiIiIiIgogICAgb2xkID0gc2VsZi5maW5kX2FkKGJvbykuYWRfZ3JvdXBfYWQKICAgIG9wID0gc2VsZi5vcCgnQWRHcm91cEFkJykKICAgIG9wLnVwZGF0ZS5Db3B5RnJvbShvbGQpCgogICAgYWdhID0gb3AudXBkYXRlCiAgICBpZiBwYXVzZToKICAgICAgYWdhLnN0YXR1cyA9IHNlbGYuYXBpLnR5cGUoJ0FkR3JvdXBBZFN0YXR1c0VudW0nKS5QQVVTRUQKICAgIGVsc2U6CiAgICAgIGFnYS5zdGF0dXMgPSBzZWxmLmFwaS50eXBlKCdBZEdyb3VwQWRTdGF0dXNFbnVtJykuRU5BQkxFRAoKICAgIG9wLnVwZGF0ZV9tYXNrLkNvcHlGcm9tKGZpZWxkX21hc2sob2xkLCBhZ2EpKQogICAgciA9IHNlbGYuc2VydmljZSgnQWRHcm91cEFkJykubXV0YXRlX2FkX2dyb3VwX2FkcyhzZWxmLmNpZCwgW29wXSkKICAgIHJldHVybiByLnJlc3VsdHNbMF0KCg==</text>
+        <text encoding="base64">ICAgIGFnID0gYm9vLmFkX2dyb3VwIG9yIEFkR3JvdXAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYWdhLnN0YXR1cyA9IHNlbGYuZW51bV9ieV9uYW1lKCdBZEdyb3VwQWRTdGF0dXMnLCBib28uYWQuc3RhdHVzLm5hbWUpCg==</text>
+        <text encoding="base64">ICAgIHJhdy51cGRhdGUoCiAgICAgIGlkZD1yYXcucG9wKCdpZCcpLAogICAgKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICB0YXJnZXRzID0gc2VydmljZS5maW5kX3RhcmdldHMoJzk3NDM3JykKCiAgdGFncyA9IGFkc2RpY3QodGFyZ2V0cykKICBwcmV0dHkodGFncykKCiAgZXhpc3RpbmdfZ2VvcyA9IHNlcnZpY2UuY2FtcF90YXJnZXRzKHNlcnZpY2UucGF0aCgnQ2FtcGFpZ24nLCBib28uY2FtcGFpZ24uaWRkKSkKCiAgcHJldHR5KGV4aXN0aW5nX2dlb3MpCgogIG5ld19nZW9zID0ge3RhcmdldC5yZXNvdXJjZV9uYW1lIGZvciB0YXJnZXQgaW4gdGFyZ2V0c30gLSBleGlzdGluZ19nZW9zLmtleXMoKQoKICByZW1vdmVfZ2VvcyA9IGV4aXN0aW5nX2dlb3Mua2V5cygpIC0ge3RhcmdldC5yZXNvdXJjZV9uYW1lIGZvciB0YXJnZXQgaW4gdGFyZ2V0c30KCiAgcHJpbnQoJ25ld19nZW9zJywgbmV3X2dlb3MpCgogIHByaW50KCdyZW1vdmVfZ2VvcycsIHJlbW92ZV9nZW9zKQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgKipib28uZmtfa2V5cygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGdlb3MgPSB0YXJnZXRzLmZpbmRfdGFyZ2V0cygqYm9vLmdlby50YXJnZXRzKQogICAgdGFyZ2V0cy5hZGRfdGFyZ2V0cyhnZW9zLCBjYW1wLnJlc291cmNlX25hbWUpCg==</text>
+        <text encoding="base64">ICAgIGFnID0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRhcmdldHMgPSBjcmVhdGVfY2xhc3MoVGFyZ2V0cykKICAgIGdlb3MgPSB0YXJnZXRzLmZpbmRfdGFyZ2V0cyhib28pCiAgICB0YXJnZXRzLmFkZF90YXJnZXRzKGdlb3MsIGNhbXAucmVzb3VyY2VfbmFtZSkK</text>
+        <text encoding="base64">ICAjCiAgIyBpZiBoYXNhdHRyKG9iaiwgJ2FkZCcpOgogICMgICBvYmogPSBbTWVzc2FnZVRvRGljdChvKSBmb3IgbyBpbiBvYmpdCiAgIyBlbHNlOgogICMgICBvYmogPSBNZXNzYWdlVG9EaWN0KG9iaikK</text>
       </register>
       <register name=":" type="4">
         <text>%s//ismulti</text>
       </register>
       <register name="-" type="4">
-        <text>, lazy='joined'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>isMulti</text>
