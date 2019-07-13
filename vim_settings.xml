@@ -3,12 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/code/sc/web/sc/app/ads/ads.py" timestamp="1562976081811">
+      <file name="/code/sc/web/cli/scripts/m700.py" timestamp="1562940818603">
+        <mark key="[" line="362" column="0" />
+        <mark key="]" line="362" column="0" />
+        <mark key="." line="362" column="0" />
+        <mark key="^" line="362" column="0" />
+      </file>
+      <file name="/code/sc/web/sc/app/ads/ads.py" timestamp="1563019303532">
         <mark key="'" line="115" column="18" />
-        <mark key="[" line="49" column="63" />
-        <mark key="]" line="49" column="64" />
-        <mark key="." line="49" column="64" />
-        <mark key="^" line="49" column="64" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="52" column="41" />
+      </file>
+      <file name="/code/sc/web/static/web/http/boost-locs.resource.ts" timestamp="1562968660530">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="8" column="15" />
       </file>
       <file name="/code/sc/web/static/web/views/boost/details/boost-details.ts" timestamp="1562976741964">
         <mark key="'" line="51" column="53" />
@@ -17,35 +29,52 @@
         <mark key="^" line="63" column="15" />
         <mark key="." line="63" column="15" />
       </file>
-      <file name="/code/sc/web/static/common/models/ads/boost.model.ts" timestamp="1562976716417">
-        <mark key="[" line="24" column="2" />
-        <mark key="]" line="24" column="4" />
-        <mark key="." line="24" column="4" />
-        <mark key="^" line="24" column="4" />
-      </file>
-      <file name="/a.dummy" timestamp="1562974352452">
-        <mark key="[" line="0" column="0" />
+      <file name="/code/sc/web/static/common/models/ads/boost.model.ts" timestamp="1563018540398">
+        <mark key="[" line="38" column="21" />
+        <mark key="]" line="39" column="34" />
+        <mark key="." line="39" column="34" />
+        <mark key="^" line="39" column="34" />
       </file>
       <file name="/code/sc/medrank/rank/sql/doctors/platforms/__init__.py" timestamp="1562980151991" />
-      <file name="/code/sc/web/sc/app/ads/adgroups.py" timestamp="1562975883396">
-        <mark key="'" line="67" column="41" />
-        <mark key="[" line="24" column="4" />
-        <mark key="]" line="24" column="5" />
-        <mark key="." line="24" column="5" />
-        <mark key="^" line="24" column="5" />
+      <file name="/code/sc/web/static/common/models/account.model.ts" timestamp="1562966778625">
+        <mark key="[" line="97" column="37" />
+        <mark key="]" line="97" column="43" />
+        <mark key="^" line="97" column="43" />
+        <mark key="." line="97" column="43" />
+      </file>
+      <file name="/code/sc/web/static/common/directives/btn.directive.ts" timestamp="1562942791682">
+        <mark key="[" line="20" column="13" />
+        <mark key="]" line="21" column="19" />
+        <mark key="." line="21" column="19" />
+        <mark key="^" line="21" column="19" />
+      </file>
+      <file name="/code/sc/web/sc/app/ads/adgroups.py" timestamp="1563019274751">
+        <mark key="'" line="69" column="41" />
+        <mark key="[" line="39" column="24" />
+        <mark key="]" line="39" column="31" />
+        <mark key="." line="39" column="31" />
+        <mark key="^" line="39" column="31" />
       </file>
       <file name="/__init__.py" timestamp="1562976994358" />
-      <file name="/code/sc/web/sc/sql/ad/ads.py" timestamp="1562975973656">
-        <mark key="'" line="17" column="32" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="93" />
-        <mark key="." line="53" column="0" />
+      <file name="/code/sc/web/sc/coms/dm/sa.py" timestamp="1562947645737">
+        <mark key="[" line="257" column="0" />
+        <mark key="]" line="257" column="0" />
+        <mark key="." line="257" column="0" />
+        <mark key="^" line="257" column="56" />
       </file>
-      <file name="/code/sc/web/sc/sql/platform/auth_loc/__init__.py" timestamp="1562977417612">
-        <mark key="[" line="48" column="59" />
-        <mark key="]" line="48" column="69" />
-        <mark key="." line="48" column="69" />
-        <mark key="^" line="48" column="69" />
+      <file name="/code/sc/web/sc/sql/provider/__init__.py" timestamp="1563017657395" />
+      <file name="/code/sc/web/sc/sql/platform/auth_loc/__init__.py" timestamp="1563017993186">
+        <mark key="'" line="133" column="16" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="48" column="85" />
+        <mark key="." line="47" column="0" />
+      </file>
+      <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1562946235054">
+        <mark key="[" line="40" column="16" />
+        <mark key="]" line="40" column="20" />
+        <mark key="." line="40" column="20" />
+        <mark key="^" line="40" column="20" />
       </file>
       <file name="/code/sc/web/static/web/views/boost/details/boost-details.html" timestamp="1562976751217">
         <mark key="'" line="67" column="23" />
@@ -54,6 +83,12 @@
         <mark key="." line="87" column="63" />
         <mark key="^" line="87" column="63" />
       </file>
+      <file name="/code/sc/web/static/web/http/boosts-resource.service.ts" timestamp="1563018293465">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="16" />
+        <mark key="^" line="8" column="16" />
+        <mark key="." line="8" column="16" />
+      </file>
       <file name="/code/sc/web/static/web/views/boost/boost.ts" timestamp="1562976745751">
         <mark key="'" line="62" column="46" />
         <mark key="[" line="104" column="58" />
@@ -61,12 +96,30 @@
         <mark key="." line="104" column="60" />
         <mark key="^" line="104" column="60" />
       </file>
-      <file name="/code/sc/web/sc/sql/ad/boost.py" timestamp="1562980021703">
-        <mark key="'" line="31" column="6" />
-        <mark key="[" line="55" column="59" />
-        <mark key="]" line="55" column="63" />
-        <mark key="." line="55" column="63" />
-        <mark key="^" line="55" column="63" />
+      <file name="/code/sc/web/sc/mods/web/rest/accounts/boost_locs_view.py" timestamp="1562962337364">
+        <mark key="[" line="49" column="6" />
+        <mark key="]" line="49" column="12" />
+        <mark key="." line="49" column="12" />
+        <mark key="^" line="49" column="12" />
+      </file>
+      <file name="/code/sc/web/sc/sql/pro/prime.py" timestamp="1562941971457">
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="11" column="29" />
+        <mark key="." line="11" column="29" />
+        <mark key="^" line="11" column="29" />
+      </file>
+      <file name="/code/sc/web/sc/sql/ad/boost.py" timestamp="1563019180865">
+        <mark key="'" line="94" column="6" />
+        <mark key="[" line="54" column="45" />
+        <mark key="]" line="54" column="59" />
+        <mark key="." line="54" column="59" />
+        <mark key="^" line="54" column="59" />
+      </file>
+      <file name="/code/sc/web/static/web/views/settings/locations/locations.ts" timestamp="1562966789369">
+        <mark key="[" line="61" column="29" />
+        <mark key="]" line="61" column="38" />
+        <mark key="." line="61" column="38" />
+        <mark key="^" line="61" column="38" />
       </file>
       <file name="/code/sc/web/sc/sql/tables.py" timestamp="1562976813825">
         <mark key="'" line="0" column="0" />
@@ -75,10 +128,45 @@
         <mark key="." line="181" column="0" />
         <mark key="^" line="181" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1562960344078">
-        <mark key="[" line="0" column="0" />
+      <file name="/code/sc/web/sc/app/ads/boost.py" timestamp="1563019158095">
+        <mark key="'" line="108" column="17" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="98" column="23" />
+      </file>
+      <file name="/code/sc/web/sc/mods/web/rest/accounts/boost_view.py" timestamp="1563018751999">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="42" column="17" />
+        <mark key="]" line="42" column="16" />
+        <mark key="^" line="42" column="16" />
+        <mark key="." line="42" column="16" />
+      </file>
+      <file name="/code/sc/web/sc/app/ads/base.py" timestamp="1562974263954">
+        <mark key="[" line="37" column="3" />
+        <mark key="]" line="37" column="32" />
+        <mark key="." line="37" column="32" />
+        <mark key="^" line="37" column="32" />
+      </file>
+      <file name="/code/sc/web/sc/app/ads/api.py" timestamp="1562957354765">
+        <mark key="[" line="141" column="18" />
+        <mark key="]" line="141" column="19" />
+        <mark key="." line="141" column="19" />
+        <mark key="^" line="141" column="19" />
       </file>
       <file name="/code/sc/medrank/rank/core/mixins/scrape.py" timestamp="1562976788786" />
+      <file name="/code/sc/web/sc/app/plats/syncs/runner.py" timestamp="1562940687494">
+        <mark key="[" line="86" column="53" />
+        <mark key="]" line="86" column="67" />
+        <mark key="^" line="86" column="67" />
+        <mark key="." line="86" column="67" />
+      </file>
+      <file name="/code/sc/web/sc/sql/ad/boost_loc.py" timestamp="1562967746741">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="29" column="34" />
+      </file>
       <file name="/code/sc/web/sc/sql/ad/enums.py" timestamp="1562975050543">
         <mark key="'" line="33" column="0" />
         <mark key="[" line="8" column="56" />
@@ -100,19 +188,44 @@
         <mark key="^" line="32" column="65" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="/code/sc/web/sc/app/ads/campaigns.py" timestamp="1562975839671">
-        <mark key="'" line="134" column="21" />
-        <mark key="[" line="53" column="33" />
-        <mark key="]" line="53" column="33" />
-        <mark key="." line="53" column="33" />
-        <mark key="^" line="53" column="33" />
+      <file name="/code/sc/web/sc/app/ads/campaigns.py" timestamp="1563019226599">
+        <mark key="'" line="54" column="15" />
+        <mark key="[" line="58" column="41" />
+        <mark key="]" line="58" column="61" />
+        <mark key="." line="58" column="61" />
+        <mark key="^" line="58" column="61" />
       </file>
-      <file name="/code/sc/web/sc/app/tasks/ads.py" timestamp="1562975172731">
-        <mark key="'" line="40" column="15" />
-        <mark key="[" line="58" column="39" />
-        <mark key="]" line="58" column="58" />
-        <mark key="." line="58" column="58" />
-        <mark key="^" line="58" column="58" />
+      <file name="/code/sc/web/cli/scripts/m600.py" timestamp="1562940793110">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="54" column="0" />
+      </file>
+      <file name="/code/sc/web/sc/app/tasks/ads.py" timestamp="1563019445798">
+        <mark key="'" line="55" column="11" />
+        <mark key="[" line="19" column="42" />
+        <mark key="]" line="19" column="41" />
+        <mark key="." line="19" column="41" />
+        <mark key="^" line="19" column="41" />
+      </file>
+      <file name="/code/sc/web/migrations/versions/4b25db5a7ed6__182.py" timestamp="1563017964629">
+        <mark key="'" line="344" column="32" />
+        <mark key="[" line="172" column="18" />
+        <mark key="]" line="173" column="3" />
+        <mark key="." line="173" column="3" />
+        <mark key="^" line="173" column="3" />
+      </file>
+      <file name="/code/sc/web/sc/app/ads/utils.py" timestamp="1562946927656">
+        <mark key="[" line="27" column="23" />
+        <mark key="]" line="27" column="25" />
+        <mark key="." line="27" column="25" />
+        <mark key="^" line="27" column="25" />
+      </file>
+      <file name="/code/sc/web/sc/coms/dm/view.py" timestamp="1562941573239">
+        <mark key="[" line="117" column="90" />
+        <mark key="]" line="118" column="16" />
+        <mark key="^" line="118" column="16" />
+        <mark key="." line="118" column="37" />
       </file>
       <file name="/code/sc/web/static/common/models/ads/prime-target.model.ts" timestamp="1562976724780">
         <mark key="[" line="3" column="22" />
@@ -122,17 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="268" column="0" filename="/code/sc/web/sc/sql/cols.py" />
-      <jump line="0" column="0" filename="/code/sc/web/static/common/services/enums.ts" />
-      <jump line="164" column="0" filename="/code/sc/web/static/common/services/enums.ts" />
-      <jump line="5" column="0" filename="/code/sc/web/static/common/services/enums.ts" />
-      <jump line="20" column="17" filename="/code/sc/web/sc/sql/ad/ads.py" />
-      <jump line="52" column="19" filename="/code/sc/web/static/common/models/boost-loc.model.ts" />
-      <jump line="66" column="0" filename="/code/sc/web/sc/sql/ad/ads.py" />
-      <jump line="3" column="0" filename="/code/sc/web/sc/sql/ad/ads.py" />
-      <jump line="26" column="0" filename="/code/sc/web/sc/sql/ad/ads.py" />
-      <jump line="38" column="2" filename="/code/sc/web/static/common/models/boost-loc.model.ts" />
-      <jump line="63" column="25" filename="/code/sc/web/static/common/models/boost-loc.model.ts" />
       <jump line="29" column="45" filename="/code/sc/web/static/common/models/boost-loc.model.ts" />
       <jump line="75" column="42" filename="/code/sc/web/sc/app/ads/boost.py" />
       <jump line="68" column="4" filename="/code/sc/web/sc/sql/provider/__init__.py" />
@@ -222,40 +324,51 @@
       <jump line="46" column="17" filename="/code/sc/web/sc/app/ads/feed_items.py" />
       <jump line="17" column="32" filename="/code/sc/web/sc/sql/ad/ads.py" />
       <jump line="19" column="0" filename="/code/sc/web/sc/app/ads/targets.py" />
+      <jump line="134" column="16" filename="/code/sc/web/sc/sql/platform/auth_loc/__init__.py" />
+      <jump line="168" column="2" filename="/code/sc/web/migrations/versions/4b25db5a7ed6__182.py" />
+      <jump line="97" column="0" filename="/code/sc/web/migrations/versions/4b25db5a7ed6__182.py" />
+      <jump line="386" column="2" filename="/code/sc/web/migrations/versions/4b25db5a7ed6__182.py" />
+      <jump line="92" column="0" filename="/code/sc/web/migrations/versions/4b25db5a7ed6__182.py" />
+      <jump line="235" column="29" filename="/code/sc/web/migrations/versions/4b25db5a7ed6__182.py" />
+      <jump line="344" column="32" filename="/code/sc/web/migrations/versions/4b25db5a7ed6__182.py" />
+      <jump line="38" column="0" filename="/code/sc/web/sc/mods/web/rest/accounts/boost_view.py" />
+      <jump line="54" column="15" filename="/code/sc/web/sc/app/ads/campaigns.py" />
+      <jump line="94" column="6" filename="/code/sc/web/sc/sql/ad/boost.py" />
+      <jump line="55" column="11" filename="/code/sc/web/sc/app/tasks/ads.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICBhbDogJ3NxbC5BdXRoTG9jJwo=</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKGYnU3luY2VkIEFkR3JvdXAgJywgYm9vPWJvby5hZG5hbWUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhbF9pZCA9IENvbHVtbihJbnRlZ2VyLCBGb3JlaWduS2V5KCdhdXRoX2xvY3MuaWQnLCBvbmRlbGV0ZT0nY2FzY2FkZScpLCBudWxsYWJsZT1GYWxzZSkK</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKGYnU3luY2VkIEFkR3JvdXAnKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CnN1YnNfYm9vc3RfbG9jcyA9IGRiLlRhYmxlKCdzdWJzX2Jvb3N0X2xvY3MnLAogIENvbHVtbignc3ViX2lkJywgU3RyaW5nKGNvbnN0LmNoYXJfaW5kZXhfbWF4KSwgRm9yZWlnbktleSgnc3ViX3NwZWNpYWx0aWVzLmlkJywgKipjb25zdC50cmlncyksIHByaW1hcnlfa2V5PVRydWUpLAogIENvbHVtbignYm9vc3RfbG9jX2lkJywgSW50ZWdlciwgRm9yZWlnbktleSgnYm9vc3RfbG9jcy5pZCcsICoqY29uc3QudHJpZ3MpLCBwcmltYXJ5X2tleT1UcnVlKSwKICBteXNxbF9jaGFyYWN0ZXJfc2V0PSd1dGY4bWI0JywKICBteXNxbF9kZWZhdWx0X2NoYXJzZXQ9J3V0ZjhtYjQnLAogIG15c3FsX2NvbGxhdGU9J3V0ZjhtYjRfdW5pY29kZV81MjBfY2knCikK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBwcmludChib28uY2FtcGFpZ24uaWRkKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFwcHJvdmFsID0gcG9saWN5LmdldCgnYXBwcm92YWxfc3RhdHVzJywgQWRQb2xpY3lTdGF0dXMuVU5LTk9XTi5uYW1lKQo=</text>
+        <text encoding="base64">CiAgIyBAZGVjbGFyZWRfYXR0cgogICMgZGVmIGFsX2lkKHNlbGYpOgogICMgICAiIiIiIiIKICAjICAgcmV0dXJuIENvbHVtbihJbnRlZ2VyLCBGb3JlaWduS2V5KCdhdXRoX2xvY3MuaWQnLCBvbmRlbGV0ZT0nY2FzY2FkZScpLCBudWxsYWJsZT1GYWxzZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIHJhd19hZCA9IHsqKnJhd30KICAgIHJhd19hZC51cGRhdGUoCiAgICAgIGFkX3N0YXR1cz1hZF9zdGF0dXMsCiAgICAp</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgc2EuQ29sdW1uKCdhY2NvdW50X2lkJywgc2EuSW50ZWdlcigpLCBudWxsYWJsZT1GYWxzZSksCiAgICAgICAgICAgICAgICAgIHNhLkNvbHVtbignYXV0aF9pZCcsIHNhLkludGVnZXIoKSwgbnVsbGFibGU9RmFsc2UpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdHlwZT1hZFsndHlwZSddLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgc2EuQ29sdW1uKCdpZCcsIHNhLkludGVnZXIoKSwgbnVsbGFibGU9RmFsc2UpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY2FtcF9pZD1ib28uY2FtcGFpZ24uaWQsCiAgICAgIGdyb3VwX2lkPWJvby5hZF9ncm91cC5pZCwK</text>
+        <text encoding="base64">ICAgIHNhLkNvbHVtbignYWNjb3VudF9pZCcsIHNhLkludGVnZXIoKSwgbnVsbGFibGU9RmFsc2UpLAogICAgc2EuQ29sdW1uKCdhdXRoX2lkJywgc2EuSW50ZWdlcigpLCBudWxsYWJsZT1GYWxzZSksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJhdy51cGRhdGUocmF3X2FkKQo=</text>
+        <text encoding="base64">ICAgIHNhLkNvbHVtbignaWQnLCBzYS5JbnRlZ2VyKCksIG51bGxhYmxlPUZhbHNlKSwK</text>
       </register>
       <register name=":" type="4">
         <text>%s//ismulti</text>
       </register>
       <register name="-" type="4">
-        <text>'Boost.al_id'</text>
+        <text encoding="base64">ICogMg==</text>
       </register>
       <register name="/" type="4">
         <text>isMulti</text>
