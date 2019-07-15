@@ -17,7 +17,7 @@
         <mark key="." line="7" column="18" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="/code/sc/web/sc/app/ads/feeds/feeds.py" timestamp="1563188161585">
+      <file name="/code/sc/web/sc/app/ads/feeds/feeds.py" timestamp="1563192236841">
         <mark key="'" line="88" column="6" />
         <mark key="[" line="88" column="82" />
         <mark key="]" line="88" column="94" />
@@ -430,9 +430,12 @@
         <mark key="^" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="/code/sc/web/sc/app/ads/feeds/feed_items.py" timestamp="1563177465750">
-        <mark key="'" line="106" column="0" />
-        <mark key="[" line="76" column="28" />
+      <file name="/code/sc/web/sc/app/ads/feeds/feed_items.py" timestamp="1563191986714">
+        <mark key="'" line="64" column="6" />
+        <mark key="[" line="67" column="4" />
+        <mark key="]" line="67" column="3" />
+        <mark key="^" line="67" column="3" />
+        <mark key="." line="67" column="3" />
       </file>
       <file name="/code/sc/web/sc/sql/ad/boost_loc.py" timestamp="1562967746741">
         <mark key="[" line="46" column="0" />
@@ -554,7 +557,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="26" filename="/code/sc/web/sc/app/ads/kinds/targets.py" />
       <jump line="67" column="20" filename="/code/sc/web/sc/app/ads/feeds/feeds.py" />
       <jump line="107" column="11" filename="/code/sc/web/sc/app/ads/kinds/adgroups.py" />
       <jump line="137" column="16" filename="/code/sc/web/sc/app/ads/kinds/ads.py" />
@@ -654,6 +656,7 @@
       <jump line="117" column="32" filename="/code/sc/web/sc/app/ads/boost.py" />
       <jump line="88" column="6" filename="/code/sc/web/sc/app/ads/feeds/feeds.py" />
       <jump line="69" column="28" filename="/code/sc/web/sc/app/ads/kinds/adgroups.py" />
+      <jump line="64" column="6" filename="/code/sc/web/sc/app/ads/feeds/feed_items.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
