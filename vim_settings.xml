@@ -36,18 +36,18 @@
         <mark key="." line="26" column="5" />
         <mark key="^" line="26" column="5" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1563189136489">
-        <mark key="'" line="1060" column="15" />
-        <mark key="[" line="1110" column="17" />
-        <mark key="]" line="1110" column="17" />
-        <mark key="^" line="1111" column="13" />
-        <mark key="." line="1110" column="17" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1563205448872">
+        <mark key="'" line="1088" column="0" />
+        <mark key="[" line="1083" column="17" />
+        <mark key="]" line="1083" column="23" />
+        <mark key="^" line="1083" column="23" />
+        <mark key="." line="1083" column="23" />
       </file>
-      <file name="/code/sc/web/cli/ads.py" timestamp="1563200809027">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-        <mark key="^" line="112" column="7" />
+      <file name="/code/sc/web/cli/ads.py" timestamp="1563206380420">
+        <mark key="[" line="138" column="18" />
+        <mark key="]" line="139" column="31" />
+        <mark key="." line="139" column="31" />
+        <mark key="^" line="139" column="31" />
       </file>
       <file name="/code/sc/web/sc/sql/ad/ads.py" timestamp="1563195514024">
         <mark key="'" line="17" column="32" />
@@ -164,8 +164,8 @@
         <mark key="^" line="86" column="67" />
         <mark key="." line="86" column="67" />
       </file>
-      <file name="/code/sc/web/sc/app/ads/feeds/ext_feed_items.py" timestamp="1563201024948">
-        <mark key="'" line="24" column="0" />
+      <file name="/code/sc/web/sc/app/ads/feeds/ext_feed_items.py" timestamp="1563206327042">
+        <mark key="'" line="41" column="77" />
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
         <mark key="^" line="43" column="34" />
@@ -389,19 +389,19 @@
         <mark key="^" line="67" column="29" />
         <mark key="." line="67" column="29" />
       </file>
-      <file name="/code/sc/web/sc/app/ads/boost.py" timestamp="1563204249112">
+      <file name="/code/sc/web/sc/app/ads/boost.py" timestamp="1563205298403">
         <mark key="'" line="87" column="0" />
         <mark key="[" line="113" column="67" />
         <mark key="]" line="113" column="85" />
         <mark key="." line="113" column="85" />
         <mark key="^" line="113" column="85" />
       </file>
-      <file name="/code/sc/web/sc/mods/web/rest/accounts/boost_view.py" timestamp="1563204404397">
+      <file name="/code/sc/web/sc/mods/web/rest/accounts/boost_view.py" timestamp="1563205524057">
         <mark key="'" line="58" column="19" />
-        <mark key="[" line="65" column="27" />
-        <mark key="]" line="65" column="26" />
-        <mark key="." line="65" column="26" />
-        <mark key="^" line="65" column="26" />
+        <mark key="[" line="32" column="12" />
+        <mark key="]" line="32" column="11" />
+        <mark key="." line="32" column="11" />
+        <mark key="^" line="32" column="11" />
       </file>
       <file name="/code/sc/web/sc/sql/sess_ext.py" timestamp="1563042997598">
         <mark key="'" line="183" column="21" />
@@ -542,7 +542,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="0" filename="/code/sc/web/sc/app/ads/kinds/campaigns.py" />
       <jump line="25" column="21" filename="/code/sc/web/sc/app/ads/kinds/adgroups.py" />
       <jump line="114" column="0" filename="/code/sc/web/sc/app/ads/kinds/adgroups.py" />
       <jump line="87" column="44" filename="/code/sc/web/sc/app/ads/kinds/customers.py" />
@@ -632,7 +631,6 @@
       <jump line="51" column="4" filename="/code/sc/web/sc/app/ads/feeds/ext_feed_items.py" />
       <jump line="18" column="0" filename="/code/sc/web/sc/app/ads/feeds/ext_feed_items.py" />
       <jump line="706" column="21" filename="/code/sc/web/cli/ones.py" />
-      <jump line="41" column="28" filename="/code/sc/web/sc/app/ads/feeds/ext_feed_items.py" />
       <jump line="27" column="0" filename="/code/sc/web/sc/app/ads/feeds/feed_items.py" />
       <jump line="62" column="4" filename="/code/sc/web/sc/app/ads/feeds/feed_items.py" />
       <jump line="174" column="64" filename="/code/sc/web/static/web/views/boost/boost.ts" />
@@ -642,40 +640,42 @@
       <jump line="12" column="14" filename="/code/sc/web/sc/sql/ad/__init__.py" />
       <jump line="24" column="0" filename="/code/sc/web/sc/app/ads/feeds/ext_feed_items.py" />
       <jump line="87" column="0" filename="/code/sc/web/sc/app/ads/boost.py" />
+      <jump line="1086" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
+      <jump line="41" column="77" filename="/code/sc/web/sc/app/ads/feeds/ext_feed_items.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYW5kIAo=</text>
+        <text encoding="base64">ICAgICAgLCBjYW1wYWlnbi5uYW1lCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAjIGJvby51c2VyID0gTm9uZQogIHByaW50KGJvb2woYm9vLnVzZXIpKQo=</text>
+        <text encoding="base64">d2hlcmUgYWRzX2lkID4gJycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzLnNhdmUoYm9vKQo=</text>
+        <text encoding="base64">ICAgICAgYW5kIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFdIRVJFIGZlZWRfbWFwcGluZy5jcml0ZXJpb25fdHlwZSA9IExPQ0FUSU9OX0VYVEVOU0lPTl9UQVJHRVRJTkcK</text>
+        <text encoding="base64">ICAjIGJvby51c2VyID0gTm9uZQogIHByaW50KGJvb2woYm9vLnVzZXIpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzLnNhdmUoYm9vKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleHRlbnNpb25fZmVlZF9pdGVtLmlkCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIFdIRVJFIGZlZWRfbWFwcGluZy5jcml0ZXJpb25fdHlwZSA9IExPQ0FUSU9OX0VYVEVOU0lPTl9UQVJHRVRJTkcK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBleHRlbnNpb25fZmVlZF9pdGVtLmlkCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLCBmZWVkX21hcHBpbmcuYXR0cmlidXRlX2ZpZWxkX21hcHBpbmdzCiAgICAgICwgZmVlZF9tYXBwaW5nLnBsYWNlaG9sZGVyX3R5cGUKICAgICAgLCBmZWVkX21hcHBpbmcuc3RhdHVzCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//ismulti</text>
       </register>
       <register name="-" type="4">
-        <text>|| '0'</text>
+        <text>feed</text>
       </register>
       <register name="/" type="4">
         <text>isMulti</text>
