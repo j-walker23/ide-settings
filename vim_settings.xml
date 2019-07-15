@@ -22,14 +22,14 @@
         <mark key="." line="7" column="18" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="/code/sc/web/sc/app/ads/feeds/feeds.py" timestamp="1563202557466">
-        <mark key="'" line="88" column="6" />
-        <mark key="[" line="33" column="26" />
-        <mark key="]" line="33" column="32" />
-        <mark key="." line="33" column="32" />
+      <file name="/code/sc/web/sc/app/ads/feeds/feeds.py" timestamp="1563211806704">
+        <mark key="'" line="87" column="6" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
         <mark key="^" line="33" column="32" />
       </file>
-      <file name="/code/sc/web/sc/app/ads/kinds/campaigns.py" timestamp="1563209230174">
+      <file name="/code/sc/web/sc/app/ads/kinds/campaigns.py" timestamp="1563211844861">
         <mark key="'" line="83" column="0" />
         <mark key="[" line="102" column="30" />
         <mark key="]" line="102" column="49" />
@@ -170,7 +170,7 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="29" column="19" />
       </file>
-      <file name="/code/sc/web/sc/mods/web/rest/accounts/plat_syncs_view.py" timestamp="1563202511531">
+      <file name="/code/sc/web/sc/mods/web/rest/accounts/plat_syncs_view.py" timestamp="1563211824423">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="1" column="23" />
         <mark key="]" line="2" column="0" />
@@ -311,12 +311,12 @@
         <mark key="^" line="67" column="29" />
         <mark key="." line="67" column="29" />
       </file>
-      <file name="/code/sc/web/sc/app/ads/boost.py" timestamp="1563208598152">
+      <file name="/code/sc/web/sc/app/ads/boost.py" timestamp="1563211869612">
         <mark key="'" line="87" column="0" />
-        <mark key="[" line="113" column="67" />
-        <mark key="]" line="113" column="85" />
-        <mark key="." line="113" column="85" />
-        <mark key="^" line="113" column="85" />
+        <mark key="[" line="171" column="62" />
+        <mark key="]" line="173" column="48" />
+        <mark key="." line="173" column="48" />
+        <mark key="^" line="173" column="48" />
       </file>
       <file name="/code/sc/web/static/web/views/settings/locations/split/location-splitting.ts" timestamp="1563075265826">
         <mark key="[" line="36" column="35" />
@@ -371,7 +371,7 @@
         <mark key="^" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="/code/sc/web/sc/app/ads/feeds/feed_items.py" timestamp="1563209249299">
+      <file name="/code/sc/web/sc/app/ads/feeds/feed_items.py" timestamp="1563211834658">
         <mark key="'" line="62" column="4" />
         <mark key="[" line="72" column="22" />
         <mark key="]" line="72" column="27" />
@@ -652,31 +652,31 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLCBmZWVkLnN0YXR1cwo=</text>
+        <text encoding="base64">ICAgIGFuZCBmZWVkLnBsYWNlc19sb2NhdGlvbl9mZWVkX2RhdGEuZW1haWxfYWRkcmVzcyA9ICd7ZW1haWx9JyAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhZGQuc3kK</text>
+        <text encoding="base64">ICAgICAgLCBmZWVkLnN0YXR1cwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLCBjYW1wYWlnbi5uYW1lCg==</text>
+        <text encoding="base64">ICAgICAgICBhZGQuc3kK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">d2hlcmUgYWRzX2lkID4gJycK</text>
+        <text encoding="base64">ICAgICAgLCBjYW1wYWlnbi5uYW1lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYW5kIAo=</text>
+        <text encoding="base64">d2hlcmUgYWRzX2lkID4gJycK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAjIGJvby51c2VyID0gTm9uZQogIHByaW50KGJvb2woYm9vLnVzZXIpKQo=</text>
+        <text encoding="base64">ICAgICAgYW5kIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzLnNhdmUoYm9vKQo=</text>
+        <text encoding="base64">ICAjIGJvby51c2VyID0gTm9uZQogIHByaW50KGJvb2woYm9vLnVzZXIpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFdIRVJFIGZlZWRfbWFwcGluZy5jcml0ZXJpb25fdHlwZSA9IExPQ0FUSU9OX0VYVEVOU0lPTl9UQVJHRVRJTkcK</text>
+        <text encoding="base64">ICBzLnNhdmUoYm9vKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFdIRVJFIGZlZWRfbWFwcGluZy5jcml0ZXJpb25fdHlwZSA9IExPQ0FUSU9OX0VYVEVOU0lPTl9UQVJHRVRJTkcK</text>
       </register>
       <register name=":" type="4">
         <text>%s//ismulti</text>
