@@ -10,17 +10,17 @@
         <mark key="." line="140" column="0" />
         <mark key="^" line="65" column="37" />
       </file>
-      <file name="/code/sc/web/sc/app/ads/feeds/feeds.py" timestamp="1563166479160">
+      <file name="/code/sc/web/sc/app/ads/feeds/feeds.py" timestamp="1563168961226">
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
         <mark key="^" line="91" column="0" />
       </file>
-      <file name="/code/sc/web/sc/app/ads/kinds/campaigns.py" timestamp="1563164270054">
-        <mark key="'" line="190" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="/code/sc/web/sc/app/ads/kinds/campaigns.py" timestamp="1563169098764">
+        <mark key="'" line="160" column="0" />
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
         <mark key="^" line="29" column="21" />
       </file>
       <file name="/code/sc/web/static/common/models/ads/boost.model.ts" timestamp="1563147536248">
@@ -140,11 +140,12 @@
         <mark key="." line="123" column="46" />
         <mark key="^" line="123" column="46" />
       </file>
-      <file name="/code/sc/web/sc/app/ads/kinds/budgets.py" timestamp="1563164281843">
-        <mark key="[" line="18" column="25" />
-        <mark key="]" line="21" column="22" />
-        <mark key="^" line="21" column="22" />
-        <mark key="." line="21" column="22" />
+      <file name="/code/sc/web/sc/app/ads/kinds/budgets.py" timestamp="1563169110181">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="52" column="44" />
+        <mark key="]" line="52" column="54" />
+        <mark key="^" line="52" column="54" />
+        <mark key="." line="52" column="54" />
       </file>
       <file name="/code/sc/web/static/web/views/boost/audit/boost-audit.html" timestamp="1563153808618">
         <mark key="[" line="12" column="24" />
@@ -394,7 +395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="14" filename="/code/sc/web/sc/app/ads/feed_items.py" />
       <jump line="43" column="18" filename="/code/sc/web/sc/app/ads/feed_items.py" />
       <jump line="37" column="0" filename="/code/sc/web/sc/app/ads/feed_items.py" />
       <jump line="75" column="19" filename="/code/sc/web/sc/app/ads/feed_items.py" />
@@ -494,40 +494,41 @@
       <jump line="98" column="28" filename="/code/sc/web/sc/app/ads/feeds/feed_items.py" />
       <jump line="42" column="3" filename="/code/sc/web/sc/app/ads/feeds/feed_items.py" />
       <jump line="58" column="19" filename="/code/sc/web/sc/app/ads/feeds/feed_items.py" />
+      <jump line="75" column="0" filename="/code/sc/web/sc/app/ads/kinds/budgets.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">CiAgZGVmIHN5bmNfZmVlZHMoc2VsZiwgc3luYzogUGxhdFN5bmMpOgogICAgIiIiIiIiCiAgICBsb2cuYmluZChhdXRoX2lkPXN5bmMuYXV0aF9pZCwgZmVlZD1zeW5jLmZlZWQpCgogICAgcSA9IGYiIiIKICAgIHNlbGVjdCAKICAgICAgZmVlZC5pZAogICAgICAsIGZlZWRfaXRlbS5pZAogICAgICAsIGZlZWRfaXRlbS5wb2xpY3lfaW5mb3MKICAgICAgLCBmZWVkX2l0ZW0uc3RhdHVzCiAgICAgICwgZmVlZF9pdGVtLmF0dHJpYnV0ZV92YWx1ZXMKICAgIGZyb20gZmVlZF9pdGVtCiAgICB3aGVyZSBmZWVkLmlkID0gJ3tzeW5jLmZlZWR9JwogICAgIiIiCgogICAga2V5ZWQ6IERpY3Rbc3RyLCBCb29zdF0gPSBCb29zdC5zZWFyY2goZmllbGRzPUJvb3N0LkZJRUxEUykua2V5X2J5KGxhbWJkYSBiOiBzdHIoYi5hbF9pZCkpCgogICAgcm93cyA9IFtdCiAgICBmb3IgciBpbiBzZWxmLnNlYXJjaChxKToKICAgICAgcmF3ID0gYWRzZGljdChyLmZlZWRfaXRlbSkKICAgICAgYXR0cyA9IHJhdy5wb3AoJ2F0dHJpYnV0ZV92YWx1ZXMnKQogICAgICBsYWJlbHMgPSBuZXh0KGFbJ3N0cmluZ192YWx1ZXMnXSBmb3IgYSBpbiBhdHRzIGlmIGFbJ2ZlZWRfYXR0cmlidXRlX2lkJ10gPT0gJzE0JykKICAgICAgZm9yIGwgaW4gbGFiZWxzOgogICAgICAgIGlmIGwgaW4ga2V5ZWQ6CiAgICAgICAgICBib28gPSBrZXllZFtsXQogICAgICAgICAgYnJlYWsKICAgICAgZWxzZToKICAgICAgICBjb250aW51ZQoKICAgICAgc2VsZi5zYXZlX2l0ZW0oYm9vLCByYXcpCiAgICAgIHJvd3MuYXBwZW5kKGJvby5mZWVkX2l0ZW0pCgogICAgaWYgbm90IHJvd3M6CiAgICAgIHJhaXNlIE5vdEZvdW5kRXJyb3IoJ05vIEZlZWRJdGVtcyBGb3VuZCcpCgogICAgbG9nLmluZm8oZidTeW5jIEZlZWRJdGVtcyAtLSB7bGVuKHJvd3MpfScsIGJvb3N0X2xvY3M9bGVuKGtleWVkKSkKCg==</text>
+        <text encoding="base64">ICBkZWYgdXBkYXRlX2J1ZGdldChzZWxmLCBib286IEJvb3N0LCBvbGQ6IEFkc1Jlc291cmNlKToKICAgICIiIiIiIgogICAgaWYgbm90IGJvby5jYW1wYWlnbjoKICAgICAgcmV0dXJuIG9sZAogICAgaWYgbm90IGhhc19jaGFuZ2VzKGJvbyk6CiAgICAgIHJldHVybiBvbGQKCiAgICBvcCA9IHNlbGYuYXBpLm9wKCdDYW1wYWlnbkJ1ZGdldCcpCiAgICBvcC51cGRhdGUuQ29weUZyb20ob2xkKQoKICAgIGJ1ZCA9IG9wLnVwZGF0ZQogICAgc2VsZi5tYWtlX2J1ZGdldChib28sIGJ1ZCkKICAgIG9wLnVwZGF0ZV9tYXNrLkNvcHlGcm9tKGZpZWxkX21hc2sob2xkLCBidWQpKQogICAgciA9IHNlbGYuYXBpLnNlcnZpY2UoJ0NhbXBhaWduQnVkZ2V0JykubXV0YXRlX2NhbXBhaWduX2J1ZGdldHMoc2VsZi5jaWQsIFtvcF0pCiAgICByZXR1cm4gci5yZXN1bHRzWzBdCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgZmluZF9pdGVtKHNlbGYsIGlkZDogc3RyKToKICAgICIiIiIiIgogICAgcSA9IGYiIiIKICAgIHNlbGVjdCAKICAgICAgICBmZWVkX2l0ZW0uaWQKICAgICAgLCBmZWVkX2l0ZW0ucG9saWN5X2luZm9zCiAgICAgICwgZmVlZF9pdGVtLnN0YXR1cwogICAgZnJvbSBmZWVkX2l0ZW0KICAgIHdoZXJlIGZlZWRfaXRlbS5pZCA9ICd7aWRkfScKICAgICIiIgoKICAgIGZvciByIGluIHNlbGYuc2VhcmNoKHEpOgogICAgICByYXcgPSBhZHNkaWN0KHIuZmVlZF9pdGVtKQogICAgICByZXR1cm4gcmF3Cg==</text>
+        <text encoding="base64">ICBkZWYgc2F2ZV9idWRnZXQoc2VsZiwgYm9vOiBCb29zdCk6CiAgICAiIiIiIiIKICAgIGJ1ZCA9IHNlbGYuZmluZF9idWRnZXQoYm9vKQogICAgaWYgbm90IGJ1ZDoKICAgICAgYnVkID0gc2VsZi5hZGRfYnVkZ2V0KGJvbykKICAgIGVsc2U6CiAgICAgIGJ1ZCA9IHNlbGYudXBkYXRlX2J1ZGdldChib28sIGJ1ZCkKICAgIHJldHVybiBidWQKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlc3AgPSBjdXN0X2ZlZWRfc2VydmljZS5tdXRhdGVfY3VzdG9tZXJfZmVlZHMoY2lkLCBbb3BdKQogICAgcmV0dXJuIHJlc3AK</text>
+        <text encoding="base64">ICBkZWYgc2F2ZV9idWRnZXQoc2VsZiwgYm9vOiBCb29zdCwgYnVkOiBBZHNSZXNvdXJjZSk6CiAgICAiIiIiIiIKICAgIGlmIG5vdCBidWQ6CiAgICAgIGJ1ZCA9IHNlbGYuYWRkX2J1ZGdldChib28pCiAgICBlbHNlOgogICAgICBidWQgPSBzZWxmLnVwZGF0ZV9idWRnZXQoYm9vLCBidWQpCiAgICByZXR1cm4gYnVkCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGN1c3RfZmVlZF9zZXJ2aWNlID0gYXBpLnNlcnZpY2UoJ0N1c3RvbWVyRmVlZCcpCg==</text>
+        <text encoding="base64">ICBkZWYgbWFrZV9idWRnZXQoc2VsZiwgYm9vOiBCb29zdCwgYnVkZ2V0OiBBbnkpOgogICAgIiIiIiIiCiAgICBidWRnZXQuZGVsaXZlcnlfbWV0aG9kID0gc2VsZi5hcGkudHlwZSgnQnVkZ2V0RGVsaXZlcnlNZXRob2RFbnVtJykuU1RBTkRBUkQKICAgIGJ1ZGdldC5hbW91bnRfbWljcm9zLnZhbHVlID0gaW50KGJvby5idWRnZXQgKiBNSUNSTykKICAgIGJ1ZGdldC5leHBsaWNpdGx5X3NoYXJlZC52YWx1ZSA9IEZhbHNlCiAgICByZXR1cm4gYnVkZ2V0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNpZCA9IGdldF9hY2MoKS5hZHNfaWQKICAgIGFwaSA9IHNlbGYuYXBpCg==</text>
+        <text encoding="base64">CiAgZGVmIHN5bmNfZmVlZHMoc2VsZiwgc3luYzogUGxhdFN5bmMpOgogICAgIiIiIiIiCiAgICBsb2cuYmluZChhdXRoX2lkPXN5bmMuYXV0aF9pZCwgZmVlZD1zeW5jLmZlZWQpCgogICAgcSA9IGYiIiIKICAgIHNlbGVjdCAKICAgICAgZmVlZC5pZAogICAgICAsIGZlZWRfaXRlbS5pZAogICAgICAsIGZlZWRfaXRlbS5wb2xpY3lfaW5mb3MKICAgICAgLCBmZWVkX2l0ZW0uc3RhdHVzCiAgICAgICwgZmVlZF9pdGVtLmF0dHJpYnV0ZV92YWx1ZXMKICAgIGZyb20gZmVlZF9pdGVtCiAgICB3aGVyZSBmZWVkLmlkID0gJ3tzeW5jLmZlZWR9JwogICAgIiIiCgogICAga2V5ZWQ6IERpY3Rbc3RyLCBCb29zdF0gPSBCb29zdC5zZWFyY2goZmllbGRzPUJvb3N0LkZJRUxEUykua2V5X2J5KGxhbWJkYSBiOiBzdHIoYi5hbF9pZCkpCgogICAgcm93cyA9IFtdCiAgICBmb3IgciBpbiBzZWxmLnNlYXJjaChxKToKICAgICAgcmF3ID0gYWRzZGljdChyLmZlZWRfaXRlbSkKICAgICAgYXR0cyA9IHJhdy5wb3AoJ2F0dHJpYnV0ZV92YWx1ZXMnKQogICAgICBsYWJlbHMgPSBuZXh0KGFbJ3N0cmluZ192YWx1ZXMnXSBmb3IgYSBpbiBhdHRzIGlmIGFbJ2ZlZWRfYXR0cmlidXRlX2lkJ10gPT0gJzE0JykKICAgICAgZm9yIGwgaW4gbGFiZWxzOgogICAgICAgIGlmIGwgaW4ga2V5ZWQ6CiAgICAgICAgICBib28gPSBrZXllZFtsXQogICAgICAgICAgYnJlYWsKICAgICAgZWxzZToKICAgICAgICBjb250aW51ZQoKICAgICAgc2VsZi5zYXZlX2l0ZW0oYm9vLCByYXcpCiAgICAgIHJvd3MuYXBwZW5kKGJvby5mZWVkX2l0ZW0pCgogICAgaWYgbm90IHJvd3M6CiAgICAgIHJhaXNlIE5vdEZvdW5kRXJyb3IoJ05vIEZlZWRJdGVtcyBGb3VuZCcpCgogICAgbG9nLmluZm8oZidTeW5jIEZlZWRJdGVtcyAtLSB7bGVuKHJvd3MpfScsIGJvb3N0X2xvY3M9bGVuKGtleWVkKSkKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCByZXQ6CiAgICAgIHJldCA9IAogICAgcmV0dXJuIHJldAo=</text>
+        <text encoding="base64">ICBkZWYgZmluZF9pdGVtKHNlbGYsIGlkZDogc3RyKToKICAgICIiIiIiIgogICAgcSA9IGYiIiIKICAgIHNlbGVjdCAKICAgICAgICBmZWVkX2l0ZW0uaWQKICAgICAgLCBmZWVkX2l0ZW0ucG9saWN5X2luZm9zCiAgICAgICwgZmVlZF9pdGVtLnN0YXR1cwogICAgZnJvbSBmZWVkX2l0ZW0KICAgIHdoZXJlIGZlZWRfaXRlbS5pZCA9ICd7aWRkfScKICAgICIiIgoKICAgIGZvciByIGluIHNlbGYuc2VhcmNoKHEpOgogICAgICByYXcgPSBhZHNkaWN0KHIuZmVlZF9pdGVtKQogICAgICByZXR1cm4gcmF3Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlcyA9IGxpc3Qoc2VsZi5hcGkuZ2Euc2VhcmNoKGNpZCwgcXVlcnk9cSkpCiAgICByZXR1cm4gcmVzIGFuZCByZXNbMF0uY3VzdG9tZXJfZmVlZCBvciBOb25lCg==</text>
+        <text encoding="base64">ICAgIHJlc3AgPSBjdXN0X2ZlZWRfc2VydmljZS5tdXRhdGVfY3VzdG9tZXJfZmVlZHMoY2lkLCBbb3BdKQogICAgcmV0dXJuIHJlc3AK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNpZCA9IGdldF9hY2MoKS5hZHNfaWQK</text>
+        <text encoding="base64">ICAgIGN1c3RfZmVlZF9zZXJ2aWNlID0gYXBpLnNlcnZpY2UoJ0N1c3RvbWVyRmVlZCcpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgZmluZF9mZWVkKHNlbGYsIGZpZDogc3RyKToKICAgICIiIiIiIgogICAgY2lkID0gZ2V0X2FjYygpLmFkc19pZAogICAgcSA9IGYiIiIKICAgIHNlbGVjdCBjdXN0b21lcl9mZWVkLnJlc291cmNlX25hbWUKICAgIGZyb20gY3VzdG9tZXJfZmVlZAogICAgd2hlcmUgZmVlZC5pZCA9IHtmaWR9CiAgICBhbmQgY3VzdG9tZXJfZmVlZC5zdGF0dXMgPSAnRU5BQkxFRCcKICAgICIiIgogICAgcmVzID0gbGlzdChzZWxmLmFwaS5nYS5zZWFyY2goY2lkLCBxdWVyeT1xKSkKICAgIHJldHVybiByZXMgYW5kIHJlc1swXS5jdXN0b21lcl9mZWVkIG9yIE5vbmUKCg==</text>
+        <text encoding="base64">ICAgIGNpZCA9IGdldF9hY2MoKS5hZHNfaWQKICAgIGFwaSA9IHNlbGYuYXBpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//ismulti</text>
       </register>
       <register name="-" type="4">
-        <text>Enum</text>
+        <text>Any</text>
       </register>
       <register name="/" type="4">
         <text>isMulti</text>
