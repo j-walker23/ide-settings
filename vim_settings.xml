@@ -317,12 +317,12 @@
         <mark key="^" line="26" column="20" />
         <mark key="." line="26" column="20" />
       </file>
-      <file name="/code/sc/web/static/web/views/boost/boost.ts" timestamp="1563195872304">
-        <mark key="'" line="174" column="64" />
-        <mark key="[" line="192" column="20" />
-        <mark key="]" line="192" column="23" />
-        <mark key="." line="192" column="23" />
-        <mark key="^" line="192" column="23" />
+      <file name="/code/sc/web/static/web/views/boost/boost.ts" timestamp="1563204441399">
+        <mark key="'" line="171" column="64" />
+        <mark key="[" line="152" column="71" />
+        <mark key="]" line="152" column="70" />
+        <mark key="." line="152" column="70" />
+        <mark key="^" line="152" column="70" />
       </file>
       <file name="/code/sc/web/sc/app/ads/feeds.py" timestamp="1563096579690">
         <mark key="'" line="104" column="17" />
@@ -389,14 +389,14 @@
         <mark key="^" line="67" column="29" />
         <mark key="." line="67" column="29" />
       </file>
-      <file name="/code/sc/web/sc/app/ads/boost.py" timestamp="1563202911196">
-        <mark key="'" line="119" column="32" />
+      <file name="/code/sc/web/sc/app/ads/boost.py" timestamp="1563204249112">
+        <mark key="'" line="87" column="0" />
         <mark key="[" line="113" column="67" />
         <mark key="]" line="113" column="85" />
         <mark key="." line="113" column="85" />
         <mark key="^" line="113" column="85" />
       </file>
-      <file name="/code/sc/web/sc/mods/web/rest/accounts/boost_view.py" timestamp="1563150698559">
+      <file name="/code/sc/web/sc/mods/web/rest/accounts/boost_view.py" timestamp="1563204404397">
         <mark key="'" line="58" column="19" />
         <mark key="[" line="65" column="27" />
         <mark key="]" line="65" column="26" />
@@ -542,7 +542,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="16" filename="/code/sc/web/sc/app/ads/kinds/adgroups.py" />
       <jump line="192" column="0" filename="/code/sc/web/sc/app/ads/kinds/campaigns.py" />
       <jump line="25" column="21" filename="/code/sc/web/sc/app/ads/kinds/adgroups.py" />
       <jump line="114" column="0" filename="/code/sc/web/sc/app/ads/kinds/adgroups.py" />
@@ -642,6 +641,7 @@
       <jump line="54" column="12" filename="/code/sc/web/sc/sql/ad/__init__.py" />
       <jump line="12" column="14" filename="/code/sc/web/sc/sql/ad/__init__.py" />
       <jump line="24" column="0" filename="/code/sc/web/sc/app/ads/feeds/ext_feed_items.py" />
+      <jump line="87" column="0" filename="/code/sc/web/sc/app/ads/boost.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -675,7 +675,7 @@
         <text>%s//ismulti</text>
       </register>
       <register name="-" type="4">
-        <text>cid</text>
+        <text>|| '0'</text>
       </register>
       <register name="/" type="4">
         <text>isMulti</text>
