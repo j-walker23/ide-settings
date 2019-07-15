@@ -39,12 +39,12 @@
       </file>
       <file name="/code/sc/web/sc/app/integs/hjs/collectors/base.py" timestamp="1563157046815" />
       <file name="/loc-split.html" timestamp="1563075505128" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1563188040654">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1563189136489">
         <mark key="'" line="1060" column="15" />
-        <mark key="[" line="1102" column="1" />
-        <mark key="]" line="1106" column="16" />
-        <mark key="^" line="1106" column="16" />
-        <mark key="." line="1106" column="16" />
+        <mark key="[" line="1110" column="17" />
+        <mark key="]" line="1110" column="17" />
+        <mark key="^" line="1111" column="13" />
+        <mark key="." line="1110" column="17" />
       </file>
       <file name="/code/sc/web/static/web/views/results/item/result-item.html" timestamp="1563149197319" />
       <file name="/code/sc/web/sc/sql/ad/ads.py" timestamp="1563172393745">
@@ -687,7 +687,7 @@
         <text>%s//ismulti</text>
       </register>
       <register name="-" type="4">
-        <text>break</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>isMulti</text>
