@@ -139,12 +139,12 @@
       </file>
       <file name="/code/sc/web/sc/mods/config.py" timestamp="1563078036181" />
       <file name="/code/sc/web/sc/app/tasks/syncing.py" timestamp="1563072875644" />
-      <file name="/code/sc/web/sc/app/ads/kinds/adgroups.py" timestamp="1563175554257">
+      <file name="/code/sc/web/sc/app/ads/kinds/adgroups.py" timestamp="1563183570337">
         <mark key="'" line="52" column="0" />
-        <mark key="[" line="67" column="51" />
-        <mark key="]" line="68" column="28" />
-        <mark key="." line="68" column="28" />
-        <mark key="^" line="68" column="28" />
+        <mark key="[" line="55" column="90" />
+        <mark key="]" line="56" column="114" />
+        <mark key="." line="56" column="114" />
+        <mark key="^" line="56" column="114" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/google/ads/google_ads/v2/proto/common/ad_asset_pb2.py" timestamp="1563171491870" />
       <file name="/code/trash/google-ads-python/examples/basic_operations/update_ad_group.py" timestamp="1563074101839" />
@@ -317,12 +317,12 @@
         <mark key="^" line="32" column="19" />
         <mark key="." line="32" column="19" />
       </file>
-      <file name="/code/sc/web/sc/sql/ad/boost.py" timestamp="1563173266610">
+      <file name="/code/sc/web/sc/sql/ad/boost.py" timestamp="1563183836745">
         <mark key="'" line="40" column="0" />
-        <mark key="[" line="27" column="54" />
-        <mark key="]" line="27" column="60" />
-        <mark key="." line="27" column="60" />
-        <mark key="^" line="27" column="60" />
+        <mark key="[" line="87" column="12" />
+        <mark key="]" line="88" column="3" />
+        <mark key="." line="88" column="3" />
+        <mark key="^" line="88" column="3" />
       </file>
       <file name="/code/sc/web/sc/app/ads/kinds/geotargets.py" timestamp="1563177398933">
         <mark key="'" line="36" column="0" />
@@ -364,12 +364,12 @@
         <mark key="^" line="67" column="29" />
         <mark key="." line="67" column="29" />
       </file>
-      <file name="/code/sc/web/sc/app/ads/boost.py" timestamp="1563172994847">
-        <mark key="'" line="106" column="32" />
-        <mark key="[" line="97" column="29" />
-        <mark key="]" line="97" column="49" />
-        <mark key="." line="97" column="49" />
-        <mark key="^" line="97" column="49" />
+      <file name="/code/sc/web/sc/app/ads/boost.py" timestamp="1563183776118">
+        <mark key="'" line="135" column="13" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
+        <mark key="^" line="131" column="12" />
       </file>
       <file name="/code/sc/web/sc/mods/web/rest/accounts/boost_view.py" timestamp="1563150698559">
         <mark key="'" line="58" column="19" />
@@ -437,7 +437,7 @@
         <mark key="^" line="33" column="7" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/boost.py" timestamp="1563042102017" />
+      <file name="/boost.py" timestamp="1563183817462" />
       <file name="/code/sc/web/sc/app/ads/types.py" timestamp="1563176084996">
         <mark key="[" line="14" column="20" />
         <mark key="]" line="14" column="24" />
@@ -487,7 +487,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="17" filename="/code/sc/web/static/web/views/boost/boost.ts" />
       <jump line="0" column="0" filename="/code/sc/web/static/web/views/nav-toolbar/user-prefs/user-prefs.ts" />
       <jump line="713" column="1" filename="/code/sc/web/cli/ones.py" />
       <jump line="33" column="22" filename="/code/sc/web/sc/app/ads/base.py" />
@@ -587,40 +586,41 @@
       <jump line="14" column="6" filename="/code/sc/web/sc/sql/ad/__init__.py" />
       <jump line="52" column="24" filename="/code/sc/web/sc/app/ads/kinds/campaign_criterions.py" />
       <jump line="83" column="0" filename="/code/sc/web/sc/app/ads/kinds/campaigns.py" />
+      <jump line="135" column="13" filename="/code/sc/web/sc/app/ads/boost.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgZm9yIGksIG0gaW4gZW51bWVyYXRlKGl0ZW1zKToKICAgICAgaWYgbSBpcyBOb25lIGFuZCBub3QgaToKICAgICAgICAKICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBzYy5hcHAuYWRzLmtpbmRzLmNhbXBhaWduX2NyaXRlcmlvbnMgaW1wb3J0IENhbXBhaWduQ3JpdGVyaW9ucwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBzYy5hcHAuYWRzLmtpbmRzLmNhbXBhaWducyBpbXBvcnQgQ2FtcGFpZ25zCg==</text>
+        <text encoding="base64">ICAgIGlmIHNlbGYuc3RhdHVzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGF1dGggPSBBZEF1dGguc2VhcmNoKClbMF0K</text>
+        <text encoding="base64">CiAgd2l0aCBjb21taXR0ZXIoKToKICAgIGFkX2dyb3VwcyA9IGNyZWF0ZV9jbGFzcyhBZEdyb3VwcykKICAgIGFkX2dyb3Vwcy5zYXZlKGJvbykKCiAgd2l0aCBjb21taXR0ZXIoKToKICAgIGFkcyA9IGNyZWF0ZV9jbGFzcyhBZHMpCiAgICBhZHMuc2F2ZShib28pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNlcnZpY2U6IEdlb1RhcmdldENvbnN0YW50U2VydmljZUNsaWVudCA9IHNlbGYuc2VydmljZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgIGRpczogQWRTdGF0dXMgPSBmaW5kKHN0YXRpLCBsYW1iZGEgbTogbSBpcyBub3QgQWRTdGF0dXMuRU5BQkxFRCkKICAgIGlmIGRpczoKICAgICAgaWYgZGlzIGlzIEFkU3RhdHVzLlBBVVNFRCBhbmQgbm90IGFsbF9yZWFkeToKICAgICAgICByZXQgPSBCb29zdFN0YXR1cy5QRU5ESU5HCiAgICAgIGVsc2U6CiAgICAgICAgcmV0ID0gQm9vc3RTdGF0dXNbZGlzLm5hbWVdCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgZGVmIGNhbXBfdGFyZ2V0cyhzZWxmLCBybmFtZTogc3RyKToKICAgICIiIiIiIgogICAgcSA9IGYiIiIKICAgIFNFTEVDVAogICAgICBjYW1wYWlnbl9jcml0ZXJpb24uY2FtcGFpZ24KICAgICwgY2FtcGFpZ25fY3JpdGVyaW9uLmxvY2F0aW9uLmdlb190YXJnZXRfY29uc3RhbnQKICAgICwgY2FtcGFpZ25fY3JpdGVyaW9uLnJlc291cmNlX25hbWUKICAgIEZST00gY2FtcGFpZ25fY3JpdGVyaW9uCiAgICBXSEVSRQogICAgICBjYW1wYWlnbl9jcml0ZXJpb24uY2FtcGFpZ24gPSAne3JuYW1lfScKICAgICAgQU5EIGNhbXBhaWduX2NyaXRlcmlvbi50eXBlID0gJ0xPQ0FUSU9OJwogICAgIiIiCiAgICBnZW9fcm5hbWVzID0ge30KICAgIGZvciByb3cgaW4gc2VsZi5zZWFyY2gocSk6CiAgICAgIGdlb19ybmFtZXNbcm93LmNhbXBhaWduX2NyaXRlcmlvbi5sb2NhdGlvbi5nZW9fdGFyZ2V0X2NvbnN0YW50LnZhbHVlXSA9IHJvdy5jYW1wYWlnbl9jcml0ZXJpb24ucmVzb3VyY2VfbmFtZQogICAgcmV0dXJuIGdlb19ybmFtZXMK</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgZGVmIHNhdmVfYm9vc3RfdGFyZ2V0cyhzZWxmLCBib286IEJvb3N0LCBjYW1wX3JuYW1lOiBzdHIpOgogICAgIiIiIiIiCiAgICB0YXJnZXRzID0gYm9vIGFuZCBib28uZ2VvIGFuZCBib28uZ2VvLnRhcmdldHMKICAgIGlmIHRhcmdldHM6CiAgICAgIGdlb3MgPSBzZWxmLmZpbmRfdGFyZ2V0cygqdGFyZ2V0cykKICAgICAgc2VsZi5hZGRfdGFyZ2V0cyh7Z2VvLnJlc291cmNlX25hbWUgZm9yIGdlbyBpbiBnZW9zfSwgY2FtcF9ybmFtZSkK</text>
+        <text encoding="base64">CiAgICBzdGF0aSA9IFtpdGVtLnN0YXR1cywgY2FtcC5zdGF0dXMsIGNhbXAuYnVkZ2V0X3N0YXR1cywgYWdhLnN0YXR1cywgYWQuc3RhdHVzXQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgICBpZiBub3QgY2FtcDoKICAgICAgY2FtcCA9IHNlbGYuYWRkX2NhbXBhaWduKGJvbykKICAgICAgY3JlYXRlX2NsYXNzKEdlb1RhcmdldENvbnN0YW50cykuc2F2ZV9ib29zdF90YXJnZXRzKGJvbywgY2FtcC5yZXNvdXJjZV9uYW1lKQogICAgZWxzZToKICAgICAgY2FtcCA9IHNlbGYudXBkYXRlX2NhbXAoYm9vLCBjYW1wKQogICAgICBpZiBoYXNfY2hhbmdlcyhib28uZ2VvKToKICAgICAgICBjcmVhdGVfY2xhc3MoR2VvVGFyZ2V0Q29uc3RhbnRzKS5zYXZlX2Jvb3N0X3RhcmdldHMoYm9vLCBjYW1wLnJlc291cmNlX25hbWUpCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICBhbGxfc2V0dXAgPSBhbGwobSBpcyBub3QgTm9uZSBmb3IgbSBpbiBpdGVtcykKICAgIGlmIG5vdCBhbGxfc2V0dXA6CiAgICAgIHNlbGYuc3RhdHVzID0gQm9vc3RTdGF0dXMuUEVORElORwogICAgICByZXR1cm4=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY3JlYXRlX2NsYXNzKENhbXBhaWduQ3JpdGVyaW9ucykuc2F2ZV90YXJnZXRzKGJvbykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//ismulti</text>
       </register>
       <register name="-" type="4">
-        <text>g.ad_auth</text>
+        <text>any</text>
       </register>
       <register name="/" type="4">
         <text>isMulti</text>
