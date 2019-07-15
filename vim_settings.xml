@@ -149,18 +149,18 @@
       </file>
       <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/google/ads/google_ads/v2/proto/common/ad_asset_pb2.py" timestamp="1563171491870" />
       <file name="/code/trash/google-ads-python/examples/basic_operations/update_ad_group.py" timestamp="1563074101839" />
-      <file name="/code/sc/web/sc/app/ads/base.py" timestamp="1563177685766">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="^" line="82" column="23" />
-        <mark key="." line="83" column="0" />
+      <file name="/code/sc/web/sc/app/ads/base.py" timestamp="1563193289629">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="49" column="11" />
+        <mark key="]" line="49" column="39" />
+        <mark key="." line="49" column="39" />
+        <mark key="^" line="49" column="39" />
       </file>
-      <file name="/code/sc/web/sc/app/ads/api.py" timestamp="1563185396022">
-        <mark key="[" line="157" column="26" />
-        <mark key="]" line="160" column="20" />
-        <mark key="." line="160" column="20" />
-        <mark key="^" line="160" column="20" />
+      <file name="/code/sc/web/sc/app/ads/api.py" timestamp="1563193432814">
+        <mark key="[" line="189" column="69" />
+        <mark key="]" line="190" column="11" />
+        <mark key="." line="190" column="11" />
+        <mark key="^" line="190" column="11" />
       </file>
       <file name="/code/sc/web/static/web/views/boost/manage/boost-manage.ts" timestamp="1563186687751">
         <mark key="[" line="39" column="0" />
@@ -484,11 +484,11 @@
         <mark key="." line="36" column="0" />
       </file>
       <file name="/boost.py" timestamp="1563183817462" />
-      <file name="/code/sc/web/sc/app/ads/types.py" timestamp="1563176084996">
-        <mark key="[" line="14" column="20" />
-        <mark key="]" line="14" column="24" />
-        <mark key="^" line="14" column="24" />
-        <mark key="." line="14" column="24" />
+      <file name="/code/sc/web/sc/app/ads/types.py" timestamp="1563193409230">
+        <mark key="[" line="18" column="6" />
+        <mark key="]" line="18" column="6" />
+        <mark key="^" line="18" column="6" />
+        <mark key="." line="18" column="6" />
       </file>
       <file name="/code/sc/web/cli/scripts/m600.py" timestamp="1562940793110">
         <mark key="[" line="54" column="0" />
@@ -660,37 +660,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgcGFzcwogICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgIGNvZGUgPSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZQo=</text>
+        <text encoding="base64">ICBkZWYgaXNfZXJyb3Ioc2VsZiwgZTogR29vZ2xlQWRzRXhjZXB0aW9uLCBlbnVtX3ZhbDogaW50KToKICAgICIiIiIiIgogICAgY29kZSA9IEdvb2dsZUFkc0Vycm9yLmdldF9lcnJvcl9lbnVtKHNlbGYuYXBpLCBlLmZhaWx1cmUuZXJyb3JzWzBdLmVycm9yX2NvZGUpCiAgICByZXR1cm4gY29kZSA9PSBlbnVtX3ZhbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAgICAgcGFzcwogICAgICBlbHNlOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMKCg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZQo=</text>
+        <text encoding="base64">ICAgICMKCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciByb3cgaW4gc2VsZi5zZWFyY2gocSk6CiAgICAgIHByZXR0eV9idWYocm93KQogICAgICBvbGQgPSBnZXRhdHRyKHJvdywgbmFtZSkKICAgICAgb3AgPSBzZWxmLmFwaS5vcCgnQ3VzdG9tZXJNYW5hZ2VyTGluaycpCiAgICAgIG9wLnVwZGF0ZS5Db3B5RnJvbShvbGQpCiAgICAgIGxpbmsgPSBvcC51cGRhdGUKICAgICAgbGluay5zdGF0dXMgPSBzZWxmLmVudW0oJ01hbmFnZXJMaW5rU3RhdHVzJykuVmFsdWUoJ0lOQUNUSVZFJykKICAgICAgb3AudXBkYXRlX21hc2suQ29weUZyb20oZmllbGRfbWFzayhvbGQsIGxpbmspKQogICAgICBzZWxmLmFwaS5zZXJ2aWNlKCdDdXN0b21lck1hbmFnZXJMaW5rJykubXV0YXRlX2N1c3RvbWVyX21hbmFnZXJfbGluayhzZWxmLmNpZCwgW29wXSkK</text>
+        <text encoding="base64">ICAgICAgICByYWlzZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJvdyA9IGxpc3Qoc2VsZi5zZWFyY2gocSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//ismulti</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>BAD_ENUM_CONSTANT</text>
       </register>
       <register name="/" type="4">
         <text>isMulti</text>
