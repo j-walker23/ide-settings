@@ -98,6 +98,12 @@
         <mark key="." line="73" column="0" />
         <mark key="^" line="46" column="19" />
       </file>
+      <file name="/code/sc/web/static/common/search/params.ts" timestamp="1563284056650">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="67" column="0" />
+      </file>
       <file name="/code/sc/web/sc/core/versioned.py" timestamp="1563042128103">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="13" column="4" />
@@ -110,7 +116,6 @@
         <mark key="." line="49" column="12" />
         <mark key="^" line="49" column="12" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/SQL-Insert-Statements.sql.groovy" timestamp="1563217274104" />
       <file name="/code/sc/web/static/web/views/settings/locations/locations.ts" timestamp="1562966789369">
         <mark key="[" line="61" column="29" />
         <mark key="]" line="61" column="38" />
@@ -367,11 +372,11 @@
         <mark key="." line="26" column="20" />
       </file>
       <file name="/code/sc/web/static/web/views/boost/boost.ts" timestamp="1563204441399">
-        <mark key="'" line="171" column="64" />
-        <mark key="[" line="152" column="71" />
-        <mark key="]" line="152" column="70" />
-        <mark key="." line="152" column="70" />
-        <mark key="^" line="152" column="70" />
+        <mark key="'" line="174" column="64" />
+        <mark key="[" line="155" column="71" />
+        <mark key="]" line="155" column="70" />
+        <mark key="." line="155" column="70" />
+        <mark key="^" line="155" column="70" />
       </file>
       <file name="/code/sc/web/sc/app/ads/feeds.py" timestamp="1563096579690">
         <mark key="'" line="104" column="17" />
@@ -386,11 +391,11 @@
         <mark key="." line="11" column="29" />
         <mark key="^" line="11" column="29" />
       </file>
-      <file name="/code/sc/web/bin/icons-write.js" timestamp="1563152567549">
-        <mark key="[" line="34" column="115" />
-        <mark key="]" line="34" column="123" />
-        <mark key="." line="34" column="123" />
-        <mark key="^" line="34" column="123" />
+      <file name="/code/sc/web/bin/icons-write.js" timestamp="1563284234140">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="28" column="41" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="/code/sc/web/static/web/views/settings/locations/split/tile/loc-split.ts" timestamp="1563075344519">
         <mark key="[" line="32" column="13" />
@@ -701,37 +706,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICB3aXRoIGNvbW1pdHRlcigpOgo=</text>
+        <text encoding="base64">ICAnbGF5ZXJzJywgJ2xpYnJhcnktYm9va3MnLCAnbGlzdCcsICdsaW5rJywgJ2xvY2FsLW9mZmVyJywgJ2xvY2FsLXBhcmtpbmcnLCAnbG9jYXRpb24tb24nLCAnbG9jaycsICdsb2NrLW9wZW4nLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdpdGggY29tbWl0dGVyKCk6Cg==</text>
+        <text encoding="base64">ICAnaW5mbycsICdpbnNlcnQtaW52aXRhdGlvbicsICdpbXBvcnRhbnQtZGV2aWNlcycsICdpbnB1dCcsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBmZWVkID0gCg==</text>
+        <text encoding="base64">ICAnZGFzaGJvYXJkJywgJ2RlbGV0ZScsICdkb21haW4nLCAnZG9uZScsICdkcmFmdHMnLCAnZHJhZy1oYW5kbGUnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbCA9IGZlZWQucGxhY2VzX2xvY2F0aW9uX2ZlZWRfZGF0YS5sYWJlbF9maWx0ZXJzLmFkZCgpCiAgICAgIGwudmFsdWUgPSBsYWJlbAo=</text>
+        <text encoding="base64">ICAnZGFzaGJvYXJkJywgJ2RlbGV0ZScsICdkb21haW4nLCAnZG9uZScsICdkcmFmdHMnLCAnZHJhZy1oYW5kbGUnLCAnZG9uZScsICdkb25lLWFsbCcsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4dCA9IGNyZWF0ZV9jbGFzcyhFeHRGZWVkSXRlbXMpLmZpbmRfZXh0X2l0ZW0oYm9vKQo=</text>
+        <text encoding="base64">ICAnYmFsbG90JywgJ2Jsb2NrJywgJ2J1c2luZXNzJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgY2VzLnJlc291cmNlX25hbWUgPSBzZWxmLnBhdGgoJ0xPQ0FUSU9OJykK</text>
+        <text encoding="base64">ICAgJ2Fzc2lnbm1lbnQtdHVybmVkLWluJywgJ2FjY2Vzcy10aW1lJywgJ2Fzc2lnbm1lbnQtbGF0ZScsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGJvb2xQYXJhbSh2YWx1ZSA9IGZhbHNlKSB7CiAgcmV0dXJuIHsgdHlwZTogJ2Jvb2wnLCB2YWx1ZSB9Cn0KCmV4cG9ydCBmdW5jdGlvbiBpbnRQYXJhbSh2YWx1ZT86IG51bWJlcikgewogIHJldHVybiB7IHR5cGU6ICdpbnQnLCB2YWx1ZSB9Cn0KCmV4cG9ydCBmdW5jdGlvbiBqc29uUGFyYW0odmFsdWUgPSB7fSkgewogIHJldHVybiB7IHR5cGU6ICdqc29uJywgdmFsdWUgfQp9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgZGVmIHJlbW92ZV9sb2NfZXh0X3RhcmdldGluZyhzZWxmKToKICAgICIiIiIiIgogICAgcSA9IGYiIiIKICAgICAgU0VMRUNUCiAgICAgICAgZmVlZC5pZCwKICAgICAgICBmZWVkX21hcHBpbmcuY3JpdGVyaW9uX3R5cGUKICAgICAgRlJPTSBmZWVkX21hcHBpbmcKICAgICAgV0hFUkUgZmVlZF9tYXBwaW5nLmNyaXRlcmlvbl90eXBlID0gTE9DQVRJT05fRVhURU5TSU9OX1RBUkdFVElORwogICAgIiIiCiAgICBmb3Igcm93IGluIHNlbGYuc2VhcmNoKHEpOgogICAgICBvcCA9IHNlbGYuYXBpLm9wKCdGZWVkTWFwcGluZycpCiAgICAgIG9wLnJlbW92ZSA9IHJvdy5mZWVkX21hcHBpbmcucmVzb3VyY2VfbmFtZQogICAgICBzZWxmLmFwaS5zZXJ2aWNlKCdGZWVkTWFwcGluZycpLm11dGF0ZV9mZWVkX21hcHBpbmdzKHNlbGYuY2lkLCBbb3BdKQo=</text>
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGRhdGVQYXJhbSh2YWx1ZT8pIHsKICByZXR1cm4geyB0eXBlOiAnc3RyaW5nJywgdmFsdWUgfQp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4dC5yZXNvdXJjZV9uYW1lID0gc2VsZi5wYXRoKGJvby5mZWVkX2l0ZW0uaWRkKQo=</text>
+        <text encoding="base64">ICB3aXRoIGNvbW1pdHRlcigpOgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s//ismulti</text>
       </register>
       <register name="-" type="4">
-        <text>boo.budget</text>
+        <text encoding="base64">J2xvY2F0aW9uLWNpdHknLCA=</text>
       </register>
       <register name="/" type="4">
         <text>isMulti</text>
