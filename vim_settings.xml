@@ -116,6 +116,7 @@
         <mark key="." line="49" column="12" />
         <mark key="^" line="49" column="12" />
       </file>
+      <file name="/code/sc/medrank/rank/sql/sess_ext.py" timestamp="1563287481141" />
       <file name="/code/sc/web/static/web/views/settings/locations/locations.ts" timestamp="1562966789369">
         <mark key="[" line="61" column="29" />
         <mark key="]" line="61" column="38" />
@@ -213,6 +214,7 @@
         <mark key="." line="123" column="46" />
         <mark key="^" line="123" column="46" />
       </file>
+      <file name="/code/sc/web/package.json" timestamp="1563287384800" />
       <file name="/code/sc/web/sc/app/ads/kinds/budgets.py" timestamp="1563175891891">
         <mark key="'" line="29" column="16" />
         <mark key="[" line="63" column="0" />
@@ -410,6 +412,12 @@
         <mark key="]" line="88" column="3" />
         <mark key="." line="88" column="3" />
         <mark key="^" line="88" column="3" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fb25e990-8cf1-4b0f-afa4-704a731bd0fb/console.sql" timestamp="1563287899915">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="41" column="0" />
       </file>
       <file name="/code/sc/web/sc/app/ads/kinds/geotargets.py" timestamp="1563177398933">
         <mark key="'" line="36" column="0" />
@@ -711,50 +719,47 @@
       <jump line="1107" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZGVsZXRlCmZyb20gdHJhY2tfdXJscwp3aGVyZSB1c2VyX2lkID0gODQKYW5kIGNyZWF0ZWRfYXQgPCBub3coKSAtIGludGVydmFsICcxIHdlZWsnIGFuZCBjcmVhdGVkX2F0IDwgbm93KCkgLSBpbnRlcnZhbCAnMiB3ZWVrJwpsaW1pdCAzNTAKOwoKc2VsZWN0ICoKZnJvbSB0cmFja191cmxzCndoZXJlIHVzZXJfaWQgPSA4NAogIGFuZCBjcmVhdGVkX2F0IDwgbm93KCkgLSBpbnRlcnZhbCAnMSB3ZWVrJwogIGFuZCBjcmVhdGVkX2F0IDwgbm93KCkgLSBpbnRlcnZhbCAnMiB3ZWVrJwpsaW1pdCAzNTAKOwoKZGVsZXRlCmZyb20gdHJhY2tfdXJscwp3aGVyZSBjdGlkIGluICgKICAgIHNlbGVjdCBjdGlkCiAgICBmcm9tIHRyYWNrX3VybHMKICAgIHdoZXJlIHVzZXJfaWQgPSA4NAogICAgICBhbmQgY3JlYXRlZF9hdCA8IG5vdygpIC0gaW50ZXJ2YWwgJzEgd2VlaycKICAgICAgYW5kIGNyZWF0ZWRfYXQgPCBub3coKSAtIGludGVydmFsICcyIHdlZWsnCiAgICBsaW1pdCAzNTAKKTsKCnNlbGVjdCBjdGlkCmZyb20gdHJhY2tfdXJscwp3aGVyZSB1c2VyX2lkID0gODQKICBhbmQgY3JlYXRlZF9hdCA8IG5vdygpIC0gaW50ZXJ2YWwgJzEgd2VlaycKICBhbmQgY3JlYXRlZF9hdCA8IG5vdygpIC0gaW50ZXJ2YWwgJzIgd2VlaycKbGltaXQgMzUwCgo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CnNlbGVjdCAqCmZyb20gYWxlbWJpY192ZXJzaW9uIGEKCjsKCnNlbGVjdCAqCmZyb20gYWxlbWJpY192ZXJzaW9uIGEKCjsKCg==</text>
+        <text encoding="base64">c2VsZWN0IGN0aWQKZnJvbSB0cmFja191cmxzCndoZXJlIHVzZXJfaWQgPSA4NAogIGFuZCBjcmVhdGVkX2F0IDwgbm93KCkgLSBpbnRlcnZhbCAnMSB3ZWVrJwogIGFuZCBjcmVhdGVkX2F0IDwgbm93KCkgLSBpbnRlcnZhbCAnMiB3ZWVrJwpsaW1pdCAzNTA=</text>
       </register>
-      <register name="3" type="4">
-        <text>delete
-from accounts
-where id = 705
-;</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG9yZGVyIGJ5IGNyZWF0ZWRfYXQgZGVzYwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>delete
-from accounts
-where id = 705
-;</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>delete
-from accounts
-where id = 705
-;</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>select *
-from  
-    
-;</text>
+        <text encoding="base64">CnNlbGVjdCAqCmZyb20gYWxlbWJpY192ZXJzaW9uIGEKCjsKCnNlbGVjdCAqCmZyb20gYWxlbWJpY192ZXJzaW9uIGEKCjsKCg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CnNob3cgYmluYXJ5IGxvZ3MKOwoKc2hvdyBiaW5sb2cgZXZlbnRzIGluICdteXNxbC1iaW4uMDAwOTU3JyBsaW1pdCAxMDAwCjsKCgpzaG93IGJpbmFyeSBsb2dzCjs=</text>
+        <text>delete
+from accounts
+where id = 705
+;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAnbGF5ZXJzJywgJ2xpYnJhcnktYm9va3MnLCAnbGlzdCcsICdsaW5rJywgJ2xvY2FsLW9mZmVyJywgJ2xvY2FsLXBhcmtpbmcnLCAnbG9jYXRpb24tb24nLCAnbG9jaycsICdsb2NrLW9wZW4nLAo=</text>
+      <register name="8" type="4">
+        <text>delete
+from accounts
+where id = 705
+;</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAnaW5mbycsICdpbnNlcnQtaW52aXRhdGlvbicsICdpbXBvcnRhbnQtZGV2aWNlcycsICdpbnB1dCcsCg==</text>
+      <register name="9" type="4">
+        <text>delete
+from accounts
+where id = 705
+;</text>
       </register>
       <register name=":" type="4">
         <text>%s//ismulti</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>logtable</text>
       </register>
       <register name="/" type="4">
         <text>isMulti</text>
