@@ -42,12 +42,12 @@
         <mark key="." line="228" column="34" />
         <mark key="^" line="228" column="34" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1563292346788">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1563299312492">
         <mark key="'" line="1153" column="31" />
-        <mark key="[" line="1189" column="34" />
-        <mark key="]" line="1189" column="35" />
-        <mark key="." line="1189" column="35" />
-        <mark key="^" line="1188" column="18" />
+        <mark key="[" line="1195" column="5" />
+        <mark key="]" line="1195" column="21" />
+        <mark key="." line="1195" column="21" />
+        <mark key="^" line="1195" column="21" />
       </file>
       <file name="/code/sc/web/cli/ads.py" timestamp="1563296189644">
         <mark key="[" line="185" column="27" />
@@ -388,12 +388,12 @@
         <mark key="^" line="26" column="20" />
         <mark key="." line="26" column="20" />
       </file>
-      <file name="/code/sc/web/static/web/views/boost/boost.ts" timestamp="1563204441399">
-        <mark key="'" line="174" column="64" />
-        <mark key="[" line="155" column="71" />
-        <mark key="]" line="155" column="70" />
-        <mark key="." line="155" column="70" />
-        <mark key="^" line="155" column="70" />
+      <file name="/code/sc/web/static/web/views/boost/boost.ts" timestamp="1563299251944">
+        <mark key="'" line="140" column="9" />
+        <mark key="[" line="189" column="29" />
+        <mark key="]" line="189" column="28" />
+        <mark key="." line="189" column="28" />
+        <mark key="^" line="189" column="28" />
       </file>
       <file name="/code/sc/web/sc/app/ads/feeds.py" timestamp="1563096579690">
         <mark key="'" line="104" column="17" />
@@ -471,12 +471,12 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="4" />
       </file>
-      <file name="/code/sc/web/sc/app/ads/boost.py" timestamp="1563297433376">
+      <file name="/code/sc/web/sc/app/ads/boost.py" timestamp="1563299717971">
         <mark key="'" line="120" column="16" />
-        <mark key="[" line="91" column="18" />
-        <mark key="]" line="91" column="17" />
-        <mark key="." line="91" column="17" />
-        <mark key="^" line="91" column="17" />
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="164" column="0" />
+        <mark key="." line="155" column="51" />
+        <mark key="^" line="164" column="15" />
       </file>
       <file name="/code/sc/web/sc/mods/web/rest/accounts/boost_view.py" timestamp="1563208582492">
         <mark key="'" line="58" column="19" />
@@ -597,12 +597,11 @@
         <mark key="^" line="305" column="19" />
         <mark key="." line="305" column="19" />
       </file>
-      <file name="/code/sc/web/sc/app/ads/kinds/ads.py" timestamp="1563176098910">
+      <file name="/code/sc/web/sc/app/ads/kinds/ads.py" timestamp="1563299668519">
         <mark key="'" line="30" column="36" />
-        <mark key="[" line="30" column="35" />
-        <mark key="]" line="30" column="37" />
-        <mark key="^" line="30" column="37" />
-        <mark key="." line="30" column="37" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="/code/sc/web/sc/coms/dm/view.py" timestamp="1562941573239">
         <mark key="[" line="117" column="90" />
@@ -644,7 +643,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="9" filename="/code/sc/web/sc/app/ads/kinds/budgets.py" />
       <jump line="70" column="10" filename="/code/sc/web/sc/app/ads/kinds/budgets.py" />
       <jump line="28" column="16" filename="/code/sc/web/sc/app/ads/kinds/budgets.py" />
       <jump line="95" column="0" filename="/code/sc/web/sc/app/ads/kinds/campaigns.py" />
@@ -738,46 +736,47 @@
       <jump line="22" column="6" filename="/code/sc/web/sc/sql/message/__init__.py" />
       <jump line="36" column="4" filename="/code/sc/web/static/common/common.conf.ts" />
       <jump line="1166" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
-      <jump line="1153" column="31" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
       <jump line="299" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
       <jump line="15" column="6" filename="/code/sc/web/sc/sql/ad/__init__.py" />
       <jump line="29" column="22" filename="/code/sc/web/sc/app/ads/kinds/geotargets.py" />
       <jump line="120" column="16" filename="/code/sc/web/sc/app/ads/boost.py" />
+      <jump line="140" column="9" filename="/code/sc/web/static/web/views/boost/boost.ts" />
+      <jump line="1153" column="31" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBib28uYWQ6CiAgICAgIHNlbGYuc3luYyhib28pCiAgICAgIHJldHVybgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4dDogQWRzUmVzb3VyY2UgPSBjcmVhdGVfY2xhc3MoRXh0RmVlZEl0ZW1zKS5maW5kX2V4dF9pdGVtKGJvbykKICAgIGZvciBsIGluIFtleHRdOgogICAgICBpdGVtID0gY2VzLmV4dGVuc2lvbl9mZWVkX2l0ZW1zLmFkZCgpCiAgICAgIGl0ZW0udmFsdWUgPSBsLnJlc291cmNlX25hbWUK</text>
+        <text encoding="base64">ICAgIGNhbXBhaWducyA9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgZGVmIHRhcmdldF9jYW1wYWlnbihzZWxmLCBib286IEJvb3N0KToKICAgICIiIiIiIgogICAgZnJvbSBzYy5hcHAuYWRzLmtpbmRzLmNhbXBhaWducyBpbXBvcnQgQ2FtcGFpZ25zCgogICAgaWYgbm90IGJvby5mZWVkX2l0ZW0gb3Igbm90IGJvby5jYW1wYWlnbjoKICAgICAgbG9nLmluZm8oZidDYW5ub3QgdGFyZ2V0IGNhbXBhaWduIHlldCAtLSBGZWVkSXRlbToge2Jvb2woYm9vLmZlZWRfaXRlbSl9IENhbXA6IHtib29sKGJvby5jYW1wYWlnbil9JykKICAgICAgcmV0dXJuCgogICAgaWYgYm9vLmZlZWRfaXRlbS5jYW1wX3RhcmdldGVkOgogICAgICByZXR1cm4KCiAgICBuYW1lID0gc25ha2VfY2FzZShzZWxmLmtpbmQpCgogICAgcm5hbWUgPSBzZWxmLnBhdGgoYm9vLmZlZWRfaXRlbS5pZGQpCgogICAgcSA9IGYiIiIKICAgICAgU0VMRUNUCiAgICAgICAgICB7bmFtZX0uZXh0ZW5zaW9uX3R5cGUKICAgICAgICAsIHtuYW1lfS5zdGF0dXMKICAgICAgRlJPTSB7bmFtZX0KICAgICAgV0hFUkUge25hbWV9LnJlc291cmNlX25hbWUgPSAne3JuYW1lfScKICAgICIiIgoKICAgIGZvciByb3cgaW4gc2VsZi5zZWFyY2gocSk6CiAgICAgIG9sZCA9IGdldGF0dHIocm93LCBuYW1lKQogICAgICBicmVhawogICAgZWxzZToKICAgICAgcmFpc2UgTm90Rm91bmRFcnJvcihmJ3tzZWxmLmtpbmR9IEludmFsaWQgd2l0aCB7cm5hbWV9JykKCiAgICBvcCA9IHNlbGYub3AoKQogICAgb3AudXBkYXRlLkNvcHlGcm9tKG9sZCkKICAgIGV4dDogQWRzUmVzb3VyY2UgPSBvcC51cGRhdGUKCiAgICBleHQudGFyZ2V0ZWRfY2FtcGFpZ24udmFsdWUgPSBjcmVhdGVfY2xhc3MoQ2FtcGFpZ25zKS5wYXRoKGJvby5jYW1wYWlnbi5pZGQpCgogICAgb3AudXBkYXRlX21hc2suQ29weUZyb20oZmllbGRfbWFzayhvbGQsIGV4dCkpCiAgICBzZWxmLm11dGF0ZShvcCkKICAgIGJvby5mZWVkX2l0ZW0uY2FtcF90YXJnZXRlZCA9IFRydWUKICAgIGxvZy5pbmZvKGYnRXh0ZW5zaW9uIEZlZWQgSXRlbTogQ2FtcGFpZ24gVGFyZ2V0ZWQgLS0ge2Jvby5mZWVkX2l0ZW0uaWRkfScpCg==</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBib28uYWQ6CiAgICAgIHNlbGYuc3luYyhib28pCiAgICAgIHJldHVybgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLCBleHRlbnNpb25fZmVlZF9pdGVtLmVuZF9kYXRlX3RpbWUKICAgICAgLCBleHRlbnNpb25fZmVlZF9pdGVtLmV4dGVuc2lvbl90eXBlICAgICAgICAgICAgCiAgICAgICwgZXh0ZW5zaW9uX2ZlZWRfaXRlbS5sb2NhdGlvbl9mZWVkX2l0ZW0uYnVzaW5lc3NfbmFtZQogICAgICAsIGV4dGVuc2lvbl9mZWVkX2l0ZW0ucHJpY2VfZmVlZF9pdGVtLmZpbmFsX3VybF9zdWZmaXgKICAgICAgLCBleHRlbnNpb25fZmVlZF9pdGVtLnByaWNlX2ZlZWRfaXRlbS5sYW5ndWFnZV9jb2RlICAgICAgICAgICAgCiAgICAgICwgZXh0ZW5zaW9uX2ZlZWRfaXRlbS50YXJnZXRlZF9hZF9ncm91cCAgICAgICAgICAgIAogICAgICAsIGV4dGVuc2lvbl9mZWVkX2l0ZW0udGFyZ2V0ZWRfY2FtcGFpZ24gICAgICAgICAgICAKICAgICAgLCBleHRlbnNpb25fZmVlZF9pdGVtLnRhcmdldGVkX2dlb190YXJnZXRfY29uc3RhbnQgICAgICAgICAgICAKICAgICAgLCBleHRlbnNpb25fZmVlZF9pdGVtLnRhcmdldGVkX2tleXdvcmQubWF0Y2hfdHlwZSAgICAgICAgICAgICAgICAgIAogICAgICAsIGV4dGVuc2lvbl9mZWVkX2l0ZW0udGFyZ2V0ZWRfa2V5d29yZC50ZXh0Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzID0gY3JlYXRlX2NsYXNzKEN1c3RvbWVyRXh0U2V0dGluZ3MpCg==</text>
+        <text encoding="base64">ICAgIGV4dDogQWRzUmVzb3VyY2UgPSBjcmVhdGVfY2xhc3MoRXh0RmVlZEl0ZW1zKS5maW5kX2V4dF9pdGVtKGJvbykKICAgIGZvciBsIGluIFtleHRdOgogICAgICBpdGVtID0gY2VzLmV4dGVuc2lvbl9mZWVkX2l0ZW1zLmFkZCgpCiAgICAgIGl0ZW0udmFsdWUgPSBsLnJlc291cmNlX25hbWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBmZWVkOgogICAgICBmZWVkID0gc2VsZi5hZGRfZmVlZChhdXRoLCBsYWJlbHMpCiAgICBlbHNlOgogICAgICBmZWVkID0gc2VsZi51cGRhdGVfZmVlZChmZWVkLCBsYWJlbHMpCg==</text>
+        <text encoding="base64">CiAgZGVmIHRhcmdldF9jYW1wYWlnbihzZWxmLCBib286IEJvb3N0KToKICAgICIiIiIiIgogICAgZnJvbSBzYy5hcHAuYWRzLmtpbmRzLmNhbXBhaWducyBpbXBvcnQgQ2FtcGFpZ25zCgogICAgaWYgbm90IGJvby5mZWVkX2l0ZW0gb3Igbm90IGJvby5jYW1wYWlnbjoKICAgICAgbG9nLmluZm8oZidDYW5ub3QgdGFyZ2V0IGNhbXBhaWduIHlldCAtLSBGZWVkSXRlbToge2Jvb2woYm9vLmZlZWRfaXRlbSl9IENhbXA6IHtib29sKGJvby5jYW1wYWlnbil9JykKICAgICAgcmV0dXJuCgogICAgaWYgYm9vLmZlZWRfaXRlbS5jYW1wX3RhcmdldGVkOgogICAgICByZXR1cm4KCiAgICBuYW1lID0gc25ha2VfY2FzZShzZWxmLmtpbmQpCgogICAgcm5hbWUgPSBzZWxmLnBhdGgoYm9vLmZlZWRfaXRlbS5pZGQpCgogICAgcSA9IGYiIiIKICAgICAgU0VMRUNUCiAgICAgICAgICB7bmFtZX0uZXh0ZW5zaW9uX3R5cGUKICAgICAgICAsIHtuYW1lfS5zdGF0dXMKICAgICAgRlJPTSB7bmFtZX0KICAgICAgV0hFUkUge25hbWV9LnJlc291cmNlX25hbWUgPSAne3JuYW1lfScKICAgICIiIgoKICAgIGZvciByb3cgaW4gc2VsZi5zZWFyY2gocSk6CiAgICAgIG9sZCA9IGdldGF0dHIocm93LCBuYW1lKQogICAgICBicmVhawogICAgZWxzZToKICAgICAgcmFpc2UgTm90Rm91bmRFcnJvcihmJ3tzZWxmLmtpbmR9IEludmFsaWQgd2l0aCB7cm5hbWV9JykKCiAgICBvcCA9IHNlbGYub3AoKQogICAgb3AudXBkYXRlLkNvcHlGcm9tKG9sZCkKICAgIGV4dDogQWRzUmVzb3VyY2UgPSBvcC51cGRhdGUKCiAgICBleHQudGFyZ2V0ZWRfY2FtcGFpZ24udmFsdWUgPSBjcmVhdGVfY2xhc3MoQ2FtcGFpZ25zKS5wYXRoKGJvby5jYW1wYWlnbi5pZGQpCgogICAgb3AudXBkYXRlX21hc2suQ29weUZyb20oZmllbGRfbWFzayhvbGQsIGV4dCkpCiAgICBzZWxmLm11dGF0ZShvcCkKICAgIGJvby5mZWVkX2l0ZW0uY2FtcF90YXJnZXRlZCA9IFRydWUKICAgIGxvZy5pbmZvKGYnRXh0ZW5zaW9uIEZlZWQgSXRlbTogQ2FtcGFpZ24gVGFyZ2V0ZWQgLS0ge2Jvby5mZWVkX2l0ZW0uaWRkfScpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsb2cuaW5mbyhmJ0FkQXV0aDoge2cuYWRfYXV0aCBhbmQgZy5hZF9hdXRoLmVtYWlsfScpCg==</text>
+        <text encoding="base64">ICAgICAgLCBleHRlbnNpb25fZmVlZF9pdGVtLmVuZF9kYXRlX3RpbWUKICAgICAgLCBleHRlbnNpb25fZmVlZF9pdGVtLmV4dGVuc2lvbl90eXBlICAgICAgICAgICAgCiAgICAgICwgZXh0ZW5zaW9uX2ZlZWRfaXRlbS5sb2NhdGlvbl9mZWVkX2l0ZW0uYnVzaW5lc3NfbmFtZQogICAgICAsIGV4dGVuc2lvbl9mZWVkX2l0ZW0ucHJpY2VfZmVlZF9pdGVtLmZpbmFsX3VybF9zdWZmaXgKICAgICAgLCBleHRlbnNpb25fZmVlZF9pdGVtLnByaWNlX2ZlZWRfaXRlbS5sYW5ndWFnZV9jb2RlICAgICAgICAgICAgCiAgICAgICwgZXh0ZW5zaW9uX2ZlZWRfaXRlbS50YXJnZXRlZF9hZF9ncm91cCAgICAgICAgICAgIAogICAgICAsIGV4dGVuc2lvbl9mZWVkX2l0ZW0udGFyZ2V0ZWRfY2FtcGFpZ24gICAgICAgICAgICAKICAgICAgLCBleHRlbnNpb25fZmVlZF9pdGVtLnRhcmdldGVkX2dlb190YXJnZXRfY29uc3RhbnQgICAgICAgICAgICAKICAgICAgLCBleHRlbnNpb25fZmVlZF9pdGVtLnRhcmdldGVkX2tleXdvcmQubWF0Y2hfdHlwZSAgICAgICAgICAgICAgICAgIAogICAgICAsIGV4dGVuc2lvbl9mZWVkX2l0ZW0udGFyZ2V0ZWRfa2V5d29yZC50ZXh0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBuYW1lID0gc25ha2VfY2FzZShzZWxmLmtpbmQpCgogICAgcm5hbWUgPSBzZWxmLnBhdGgoYm9vLmZlZWRfaXRlbS5pZGQpCgogICAgcSA9IGYiIiIKICAgICAgU0VMRUNUCiAgICAgICAgICB7bmFtZX0uZXh0ZW5zaW9uX3R5cGUKICAgICAgICAsIHtuYW1lfS5zdGF0dXMKICAgICAgRlJPTSB7bmFtZX0KICAgICAgV0hFUkUge25hbWV9LnJlc291cmNlX25hbWUgPSAne3JuYW1lfScKICAgICIiIgo=</text>
+        <text encoding="base64">ICBzID0gY3JlYXRlX2NsYXNzKEN1c3RvbWVyRXh0U2V0dGluZ3MpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgogICAgZm9yIHJvdyBpbiBzZWxmLnNlYXJjaChxKToKICAgICAgb2xkID0gZ2V0YXR0cihyb3csIG5hbWUpCiAgICAgIGJyZWFrCiAgICBlbHNlOg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGlmIG5vdCBmZWVkOgogICAgICBmZWVkID0gc2VsZi5hZGRfZmVlZChhdXRoLCBsYWJlbHMpCiAgICBlbHNlOgogICAgICBmZWVkID0gc2VsZi51cGRhdGVfZmVlZChmZWVkLCBsYWJlbHMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2V0KGFsLmxhYmVscyBvciBbXSkgfCA=</text>
+        <text>create_class(Budgets)</text>
       </register>
       <register name="/" type="4">
         <text>isMulti</text>
