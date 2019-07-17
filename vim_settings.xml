@@ -17,12 +17,18 @@
         <mark key="." line="19" column="31" />
         <mark key="^" line="19" column="31" />
       </file>
-      <file name="/code/sc/web/cli/ones.py" timestamp="1563348563891">
-        <mark key="'" line="399" column="76" />
-        <mark key="[" line="758" column="37" />
-        <mark key="]" line="758" column="36" />
-        <mark key="^" line="758" column="36" />
-        <mark key="." line="758" column="36" />
+      <file name="/code/sc/web/static/web/views/boost/details/boost-details.ts" timestamp="1563351301198">
+        <mark key="[" line="61" column="48" />
+        <mark key="]" line="62" column="5" />
+        <mark key="." line="62" column="5" />
+        <mark key="^" line="62" column="5" />
+      </file>
+      <file name="/code/sc/web/cli/ones.py" timestamp="1563351428092">
+        <mark key="'" line="739" column="8" />
+        <mark key="[" line="759" column="24" />
+        <mark key="]" line="760" column="15" />
+        <mark key="^" line="760" column="15" />
+        <mark key="." line="760" column="15" />
       </file>
       <file name="/adgroups.py" timestamp="1563347303171" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1563347140416">
@@ -39,6 +45,7 @@
         <mark key="." line="59" column="0" />
         <mark key="^" line="58" column="14" />
       </file>
+      <file name="/code/trash/google-ads-python/examples/planning/generate_keyword_ideas.py" timestamp="1563351511653" />
       <file name="/code/sc/web/cli/ads.py" timestamp="1563325786071">
         <mark key="'" line="276" column="2" />
         <mark key="[" line="1" column="23" />
@@ -46,7 +53,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="/code/sc/web/sc/app/ads/feeds/customer_feeds.py" timestamp="1563349868936">
+      <file name="/code/sc/web/sc/app/ads/feeds/customer_feeds.py" timestamp="1563350586834">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="53" column="28" />
         <mark key="]" line="53" column="28" />
@@ -163,12 +170,12 @@
         <mark key="." line="77" column="16" />
         <mark key="^" line="77" column="16" />
       </file>
-      <file name="/code/sc/web/sc/app/ads/kinds/keywords.py" timestamp="1563347035376">
+      <file name="/code/sc/web/sc/app/ads/kinds/keywords.py" timestamp="1563351534828">
         <mark key="'" line="24" column="25" />
-        <mark key="[" line="63" column="31" />
-        <mark key="]" line="63" column="45" />
-        <mark key="." line="63" column="45" />
-        <mark key="^" line="63" column="45" />
+        <mark key="[" line="29" column="19" />
+        <mark key="]" line="30" column="18" />
+        <mark key="." line="30" column="18" />
+        <mark key="^" line="30" column="18" />
       </file>
       <file name="/code/sc/web/sc/app/ads/kinds/ag_criterions.py" timestamp="1563346390688">
         <mark key="'" line="37" column="28" />
@@ -197,8 +204,9 @@
         <mark key="^" line="54" column="70" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="/code/sc/web/sc/app/tasks/ads.py" timestamp="1563349443676">
-        <mark key="[" line="28" column="38" />
+      <file name="/customer_feeds.py" timestamp="1563350622610" />
+      <file name="/code/sc/web/sc/app/tasks/ads.py" timestamp="1563350650619">
+        <mark key="[" line="28" column="37" />
         <mark key="]" line="28" column="36" />
         <mark key="." line="28" column="36" />
         <mark key="^" line="28" column="36" />
@@ -241,8 +249,6 @@
       <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/google/ads/google_ads/v2/services/enums.py" timestamp="1563346878042" />
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/d05b8568-35ee-464f-86d5-d02ea8fd4be5/console.sql" />
-      <jump line="22" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/d05b8568-35ee-464f-86d5-d02ea8fd4be5/console.sql" />
       <jump line="1118" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
       <jump line="10" column="43" filename="$APPLICATION_CONFIG_DIR$/consoles/db/d05b8568-35ee-464f-86d5-d02ea8fd4be5/console.sql" />
       <jump line="308" column="3" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
@@ -341,40 +347,42 @@
       <jump line="13" column="6" filename="/code/sc/web/sc/app/ads/feeds/customer_feeds.py" />
       <jump line="64" column="25" filename="/code/sc/web/sc/app/ads/feeds/customer_feeds.py" />
       <jump line="22" column="0" filename="/code/sc/web/sc/app/ads/feeds/customer_feeds.py" />
+      <jump line="60" column="36" filename="/code/sc/web/static/web/views/boost/details/boost-details.ts" />
+      <jump line="739" column="8" filename="/code/sc/web/cli/ones.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGFuZF9zZWVkID0gc2VsZi5hcGkudHlwZSgnS2V5d29yZEFuZFVybFNlZWQnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGF0dHMgPSBbXQo=</text>
+        <text encoding="base64">ICAgIGtleV9zZWVkID0gc2VsZi5hcGkudHlwZSgnS2V5d29yZFNlZWQnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVybF9zZWVkID0gc2VsZi5hcGkudHlwZSgnVXJsU2VlZCcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgZGVmIHVwZGF0ZV9saXN0aW5ncyhzZWxmLCBzeW5jOiBQbGF0U3luYyk6CiAgICAiIiIiIiIKICAgIGxpc3RpbmdzID0gZmluZF9sZWdpdF9saXN0aW5ncyhBdXRoTG9jR29vZ2xlLmF1dGggPT0gc3luYy5hdXRoKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZV9sYWJlbHMK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5ib28uZ2VvID0gbWUoR2VvVGFyZ2V0LCB7IG5hbWU6IG51bGwsIHRhcmdldHM6IFtdIH0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbGV0IG5hbWUgPQogICAgICAgICh0aGlzLmJvby5wcm92aWRlciAmJiB0aGlzLmJvby5wcm92aWRlci5uYW1lKSB8fCB0aGlzLmJvby5hbC5uYW1lCiAgICAgIHRoaXMuYm9vLmdlbyA9IG1lKEdlb1RhcmdldCwgeyBuYW1lOiBudWxsLCB0YXJnZXRzOiBbXSB9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hdGNoaW5nID0gZidDT05UQUlOU19BTlkoRmVlZEF0dHJpYnV0ZVt7c3luYy5mZWVkfSwgMTRdLCB7aWRzfSknCiAgICBjdXN0X2ZlZWQubWF0Y2hpbmdfZnVuY3Rpb24uZnVuY3Rpb25fc3RyaW5nLnZhbHVlID0gbWF0Y2hpbmcK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmJvby5oZWFkMSA9IG5hbWUKICAgICAgICB0aGlzLmJvby5oZWFkMiA9ICcnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbGV0IG5hbWUgPQogICAgICAgICh0aGlzLmJvby5wcm92aWRlciAmJiB0aGlzLmJvby5wcm92aWRlci5uYW1lKSB8fCB0aGlzLmJvby5hbC5uYW1lCiAgICAgIHRoaXMuYm9vLmdlbyA9IG1lKEdlb1RhcmdldCwgeyBuYW1lOiBudWxsLCB0YXJnZXRzOiBbXSB9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxpc3RpbmdzID0gZmluZF9sZWdpdF9saXN0aW5ncyhBdXRoTG9jR29vZ2xlLmF1dGggPT0gc3luYy5hdXRoKQogICAgaWRzID0ge2wuaWQgZm9yIGwgaW4gbGlzdGluZ3N9Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5ib28uaGVhZDEgPSBuYW1lCg==</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>''</text>
       </register>
       <register name="/" type="4">
         <text>isMulti</text>
