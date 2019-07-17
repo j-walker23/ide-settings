@@ -157,6 +157,9 @@
         <mark key="." line="321" column="17" />
         <mark key="^" line="321" column="17" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1563336350633">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/code/sc/web/cli/scripts/v700.py" timestamp="1563332021292">
         <mark key="[" line="7" column="18" />
         <mark key="]" line="7" column="19" />
@@ -403,12 +406,12 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1563332906926">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1563336470531">
         <mark key="'" line="13" column="5" />
-        <mark key="[" line="922" column="8" />
-        <mark key="]" line="922" column="13" />
-        <mark key="." line="922" column="13" />
-        <mark key="^" line="922" column="13" />
+        <mark key="[" line="948" column="1" />
+        <mark key="]" line="950" column="32" />
+        <mark key="." line="950" column="32" />
+        <mark key="^" line="950" column="32" />
       </file>
     </filemarks>
     <jumps>
@@ -545,7 +548,7 @@
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>local</text>
+        <text>auth_locs</text>
       </register>
       <register name="/" type="4">
         <text>isMulti</text>
