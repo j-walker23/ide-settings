@@ -9,6 +9,9 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="44" column="10" />
       </file>
+      <file name="/Python Console" timestamp="1563816415284">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/code/sc/web/sc/app/ads/feeds/feeds.py" timestamp="1563348491700">
         <mark key="'" line="85" column="6" />
         <mark key="[" line="42" column="0" />
@@ -49,6 +52,13 @@
         <mark key="]" line="25" column="71" />
         <mark key="." line="25" column="71" />
         <mark key="^" line="25" column="71" />
+      </file>
+      <file name="/code/sc/web/sc/app/tasks/hjcollecting.py" timestamp="1563816969215">
+        <mark key="'" line="110" column="50" />
+        <mark key="[" line="59" column="118" />
+        <mark key="]" line="61" column="6" />
+        <mark key="." line="61" column="6" />
+        <mark key="^" line="61" column="6" />
       </file>
       <file name="/code/sc/web/sc/app/ads/base.py" timestamp="1563346646731">
         <mark key="'" line="16" column="15" />
@@ -259,13 +269,15 @@
         <mark key="^" line="5" column="46" />
         <mark key="." line="5" column="46" />
       </file>
+      <file name="/code/sc/web/sc/app/integs/hjs/collectors/collector.py" timestamp="1563816038456">
+        <mark key="'" line="60" column="6" />
+        <mark key="[" line="38" column="44" />
+        <mark key="]" line="38" column="48" />
+        <mark key="." line="38" column="48" />
+        <mark key="^" line="38" column="48" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/d05b8568-35ee-464f-86d5-d02ea8fd4be5/console.sql" />
-      <jump line="23" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/d05b8568-35ee-464f-86d5-d02ea8fd4be5/console.sql" />
-      <jump line="21" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/d05b8568-35ee-464f-86d5-d02ea8fd4be5/console.sql" />
-      <jump line="898" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
-      <jump line="31" column="6" filename="/code/trash/google-ads-python/google/ads/google_ads/v2/proto/services/customer_extension_setting_service_pb2_grpc.py" />
       <jump line="40" column="6" filename="/code/trash/google-ads-python/google/ads/google_ads/v2/services/customer_extension_setting_service_client.py" />
       <jump line="296" column="8" filename="/code/trash/google-ads-python/google/ads/google_ads/v2/services/customer_extension_setting_service_client.py" />
       <jump line="22" column="0" filename="/code/sc/web/sc/app/ads/feeds/ext_feed_items.py" />
@@ -361,46 +373,45 @@
       <jump line="306" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
       <jump line="930" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
       <jump line="746" column="8" filename="/code/sc/web/cli/ones.py" />
+      <jump line="109" column="4" filename="/code/sc/web/sc/app/tasks/hjcollecting.py" />
+      <jump line="26" column="0" filename="/code/sc/web/sc/app/tasks/hjcollecting.py" />
+      <jump line="10" column="23" filename="/code/sc/web/sc/app/integs/hjs/collectors/collector.py" />
+      <jump line="110" column="50" filename="/code/sc/web/sc/app/tasks/hjcollecting.py" />
+      <jump line="59" column="6" filename="/code/sc/web/sc/app/integs/hjs/collectors/collector.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICBzeW5jLmZlZWQgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgIGNscyA9IGNvbGxlY3Rvci5lbnRpdHkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpZiBzeW5jLmNfZmVlZDoKICAgIGNyZWF0ZV9jbGFzcyhDdXN0b21lckZlZWRzKS5kZWxfZmVlZChzeW5jLmZlZWQpCg==</text>
+        <text encoding="base64">CkNPTExFQ1RPUlMgPSAoCiAgRGVtb2dyYXBoaWNDb2xsZWN0b3IsCiAgIyBBcHBvaW50bWVudENvbGxlY3RvciwKICAjIEVuY291bnRlckNvbGxlY3RvciwKICBQcm9jZWR1cmVDb2xsZWN0b3IsCiAgIyBEb2N0b3JDb2xsZWN0b3IsCikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXBkYXRlIGFjY291bnRzCnNldCBhZHNfaWQgPSAnMzU2NDM1MDQ5NycKd2hlcmUgaWQgPSA2MAo7CgoK</text>
+        <text encoding="base64">ICBpZiBlcnJvcnM6CiAgICBzaGl0cyA9IFtdCiAgICBmb3IgZSwgcm93IGluIGVycm9yczoKICAgICAgc2hpdHMuYXBwZW5kKGRpY3QoCiAgICAgICAgZXJyPWUsCiAgICAgICAgcm93PXJvdwogICAgICApKQogICAgaWYgZ2V0X2FwcCgpLmxvY2FsOgogICAgICB3cml0ZV9sb2NhbF9qc29uKCdlbmNzJywgc2hpdHMpCgo=</text>
       </register>
-      <register name="4" type="4">
-        <text>select
-    id
-  , name
-  , ads_id
-from accounts a
-where ads_id in ('3564350497', '3737830735', '5710161033')
-;</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBlcnJzID0gc2V0KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlcnJvcnMgPSBbXQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CgpAb25lcy5jb21tYW5kKCkKQGxvYWRfd2ViCkBhcHBfY3R4KDYwKQpkZWYgdDkoKToKICAiIiIiIiIKICBhdXRoID0gR29vZ2xlQXV0aC5nZXQoR29vZ2xlQXV0aC5wbGF0Zm9ybXMuYW55KGlkPWdldF9hY2MoKS5nb29nX3BsYXQuaWQpKQoK</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAganMgPSBtYWtlKHJhd19jbHMsIHJvdykuZm9ybWF0KCkKICAgICAgcm93cy5hcHBlbmQoanMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcmludChhdXRoLmNyZWRzLmdldCgncmVmcmVzaF90b2tlbicpKQogIHByaW50KGF1dGgucmVmcmVzaF90b2tlbikK</text>
+        <text encoding="base64">CiAgc3RhcnQgPSAxCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFuZF9zZWVkID0gc2VsZi5hcGkudHlwZSgnS2V5d29yZEFuZFVybFNlZWQnKQo=</text>
+        <text encoding="base64">ICAjIGlmIHR5cGVfID09IERlbW9ncmFwaGljQ29sbGVjdG9yOgogICMgICBzdGFydCA9IDQwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGtleV9zZWVkID0gc2VsZi5hcGkudHlwZSgnS2V5d29yZFNlZWQnKQo=</text>
+        <text encoding="base64">CiAgIyBjaGFpbmVkID0gY2hhaW4oCiAgIyAgICooY29sbGVjdF9wYWdlLnNpKHR5cGVfLCBoaiwgY2lkLCBudW0sIHBhcmFtcykgZm9yIGNpZCwgcGFnZSwgcGFyYW1zIGluIGxhc3RfcGFnZXMgZm9yIG51bSBpbiByYW5nZShzdGFydCwgcGFnZSkpCiAgIyApCiAgIwogICMgY2hhaW5lZC5hcHBseV9hc3luYyhsaW5rPW5leHRfdXAucyh0eXBlXywgaGopKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>prod</text>
+        <text>collect_page.si(type_, hj, cid, num, params) for cid, page, params in last_pages for num in range(1, page)</text>
       </register>
       <register name="/" type="4">
         <text>isMulti</text>
