@@ -15,11 +15,12 @@
         <mark key="^" line="76" column="33" />
         <mark key="." line="76" column="33" />
       </file>
-      <file name="/code/sc/web/sc/sql/integ/hj/hj_tables.py" timestamp="1563831358650">
-        <mark key="[" line="231" column="18" />
-        <mark key="]" line="231" column="29" />
-        <mark key="." line="231" column="29" />
-        <mark key="^" line="231" column="29" />
+      <file name="/code/sc/web/sc/sql/integ/hj/hj_tables.py" timestamp="1563833267549">
+        <mark key="'" line="54" column="2" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="54" column="16" />
       </file>
       <file name="/code/sc/web/sc/mods/web/rest/accounts/ads/keywords_view.py" timestamp="1563370608877">
         <mark key="[" line="25" column="52" />
@@ -84,6 +85,13 @@
       <file name="/fragment.py" timestamp="1563824820236">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/code/sc/web/migrations/versions/90437b0e479e__193.py" timestamp="1563833080409">
+        <mark key="'" line="62" column="3" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="77" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="86" column="112" />
+      </file>
       <file name="/code/sc/web/sc/coms/utils/times.py" timestamp="1563818549029" />
       <file name="/code/sc/web/migrations/versions/034967de2a80__192.py" timestamp="1563831253656">
         <mark key="[" line="42" column="20" />
@@ -131,10 +139,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="0" filename="/code/sc/web/sc/app/ads/boost.py" />
-      <jump line="7" column="6" filename="/code/trash/google-ads-python/google/ads/google_ads/v2/proto/services/customer_extension_setting_service_pb2_grpc.py" />
-      <jump line="483" column="74" filename="/code/trash/google-ads-python/google/ads/google_ads/v2/__init__.py" />
-      <jump line="101" column="30" filename="/code/trash/google-ads-python/google/ads/google_ads/v2/proto/resources/customer_extension_setting_pb2.py" />
       <jump line="26" column="9" filename="/code/sc/web/sc/app/ads/feeds/customer_ext_settings.py" />
       <jump line="63" column="47" filename="/code/sc/web/sc/app/ads/feeds/feed_items.py" />
       <jump line="155" column="0" filename="/code/sc/web/sc/app/ads/boost.py" />
@@ -231,40 +235,44 @@
       <jump line="966" column="25" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
       <jump line="1199" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
       <jump line="75" column="0" filename="/code/sc/web/sc/app/tasks/hjcollecting.py" />
+      <jump line="93" column="0" filename="/code/sc/web/migrations/versions/90437b0e479e__193.py" />
+      <jump line="78" column="2" filename="/code/sc/web/migrations/versions/90437b0e479e__193.py" />
+      <jump line="61" column="3" filename="/code/sc/web/migrations/versions/90437b0e479e__193.py" />
+      <jump line="59" column="2" filename="/code/sc/web/sc/sql/integ/hj/hj_tables.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICBvcC5kcm9wX3RhYmxlKCdoal9lbmNvdW50ZXJzJykK</text>
+        <text encoding="base64">ICBAaHlicmlkX3Byb3BlcnR5CiAgZGVmIGRhdGUoc2VsZikgLT4gQXJyb3c6CiAgICByZXR1cm4gc2VsZi5fZGF0ZQoKICBAZGF0ZS5zZXR0ZXIKICBkZWYgZGF0ZShzZWxmLCB2YWw6IEFycm93KToKICAgIHNlbGYuX2RhdGUgPSB2YWwKICAgIHNlbGYubW9udGhzID0gdmFsLmZsb29yKCdtb250aCcpLnRpbWVzdGFtcAogICAgc2VsZi53ZWVrcyA9IHZhbC5mbG9vcignd2VlaycpLnRpbWVzdGFtcAogICAgc2VsZi5kYXlzID0gdmFsLmZsb29yKCdkYXknKS50aW1lc3RhbXAKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBvcC5kcm9wX3RhYmxlKCdoal9kZW1vZ3JhcGhpY3MnKQo=</text>
+        <text encoding="base64">ICBtb250aHMgPSBDb2x1bW4oSW50ZWdlciwgbnVsbGFibGU9RmFsc2UpCiAgd2Vla3MgPSBDb2x1bW4oSW50ZWdlciwgbnVsbGFibGU9RmFsc2UpCiAgZGF5cyA9IENvbHVtbihJbnRlZ2VyLCBudWxsYWJsZT1GYWxzZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzYXZlZCwgYmFkcyA9IGNvbGxlY3Rvci5zYXZlKGhqLmlkLCByb3dzLCBwYWdlKQo=</text>
+        <text encoding="base64">ICAgICMgc2VsZi5tb250aHMgPSBpbnQoYXJyb3cuZ2V0KHZhbCkuZm9ybWF0KCdZWVlZTU0nKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBleGNlcHQgSGVhbHRoanVtcEVycm9yIGFzIGU6CiAgICByYWlzZSBzZWxmLnJldHJ5KGV4Yz1lKQo=</text>
+        <text encoding="base64">ICAgIHNhLkNvbHVtbignY3JlYXRlZF9hdCcsIGR0dHlwZS5BcnJvd1R5cGUodGltZXpvbmU9VHJ1ZSksIG51bGxhYmxlPUZhbHNlKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgcGFzc2VkID0gVHJ1ZQogIGlmIHNhdmVkIC8gbGVuKHJvd3MpIDwgMC41OgogICAgcGFzc2VkID0gRmFsc2UK</text>
+        <text encoding="base64">ICAgIHNhLkNvbHVtbignaGppZCcsIHNhLlN0cmluZyhsZW5ndGg9MTI4KSwgbnVsbGFibGU9RmFsc2UpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsb2cuaW5mbyhmJ3tjbHMuX19uYW1lX199IEZvcm1hdHRlZCcsIGM9bGVuKHJvd3MpKQo=</text>
+        <text encoding="base64">ICAgIHNhLkNvbHVtbigncGlkJywgc2EuU3RyaW5nKGxlbmd0aD01MCksIG51bGxhYmxlPUZhbHNlKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNhLkNvbHVtbignaGppZCcsIHNhLlN0cmluZyhsZW5ndGg9MTI4KSwgbnVsbGFibGU9RmFsc2UpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAjIGlmIHBhc3NlZCA+IGZhaWxlZDoK</text>
+        <text encoding="base64">ICAgIHNhLkNvbHVtbignYWNjb3VudF9pZCcsIHNhLkludGVnZXIoKSwgbnVsbGFibGU9RmFsc2UpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgIyBmb3IgaSwgdGFzayBpbiBlbnVtZXJhdGUodGFza3MpOgogICMgICB0YXNrLnNldChjb3VudGRvd249aSkuZGVsYXkoKQogICMKICAjIG5leHRfdGFzayA9IG5leHRfdXAucygpCgogICMgZ3JvdXAodGFza3MpKCkK</text>
+        <text encoding="base64">ICAjICMjIyBjb21tYW5kcyBhdXRvIGdlbmVyYXRlZCBieSBBbGVtYmljIC0gcGxlYXNlIGFkanVzdCEgIyMjCg==</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>'hj_attributions'</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>isMulti</text>
