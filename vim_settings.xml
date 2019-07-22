@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/code/sc/web/sc/app/ads/ads_crud.py" timestamp="1563346661438">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="44" column="10" />
+      </file>
       <file name="/code/sc/web/sc/app/ads/feeds/feeds.py" timestamp="1563348491700">
         <mark key="'" line="85" column="6" />
         <mark key="[" line="42" column="0" />
@@ -17,6 +23,20 @@
         <mark key="." line="19" column="31" />
         <mark key="^" line="19" column="31" />
       </file>
+      <file name="/code/sc/web/sc/app/tasks/syncing.py" timestamp="1563330608735">
+        <mark key="'" line="104" column="19" />
+        <mark key="[" line="279" column="0" />
+        <mark key="]" line="279" column="0" />
+        <mark key="." line="279" column="0" />
+        <mark key="^" line="110" column="21" />
+      </file>
+      <file name="/code/sc/web/sc/app/ads/kinds/adgroups.py" timestamp="1563349123774">
+        <mark key="'" line="80" column="28" />
+        <mark key="[" line="21" column="22" />
+        <mark key="]" line="21" column="30" />
+        <mark key="^" line="21" column="30" />
+        <mark key="." line="21" column="30" />
+      </file>
       <file name="/code/sc/web/cli/ones.py" timestamp="1563354886571">
         <mark key="'" line="746" column="8" />
         <mark key="[" line="744" column="0" />
@@ -30,7 +50,13 @@
         <mark key="." line="25" column="71" />
         <mark key="^" line="25" column="71" />
       </file>
-      <file name="/adgroups.py" timestamp="1563347303171" />
+      <file name="/code/sc/web/sc/app/ads/base.py" timestamp="1563346646731">
+        <mark key="'" line="16" column="15" />
+        <mark key="[" line="111" column="23" />
+        <mark key="]" line="111" column="29" />
+        <mark key="." line="111" column="29" />
+        <mark key="^" line="111" column="29" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1563354214821">
         <mark key="'" line="1182" column="0" />
         <mark key="[" line="1203" column="0" />
@@ -44,13 +70,39 @@
         <mark key="." line="59" column="0" />
         <mark key="^" line="58" column="14" />
       </file>
-      <file name="/code/trash/google-ads-python/examples/planning/generate_keyword_ideas.py" timestamp="1563351511653" />
+      <file name="/code/sc/web/sc/app/ads/api.py" timestamp="1563345862578">
+        <mark key="'" line="82" column="9" />
+        <mark key="[" line="77" column="7" />
+        <mark key="]" line="77" column="16" />
+        <mark key="." line="77" column="16" />
+        <mark key="^" line="77" column="16" />
+      </file>
+      <file name="/code/sc/web/sc/app/ads/kinds/keywords.py" timestamp="1563352532331">
+        <mark key="'" line="24" column="25" />
+        <mark key="[" line="29" column="19" />
+        <mark key="]" line="30" column="18" />
+        <mark key="." line="30" column="18" />
+        <mark key="^" line="30" column="18" />
+      </file>
       <file name="/code/sc/web/cli/ads.py" timestamp="1563325786071">
         <mark key="'" line="276" column="2" />
         <mark key="[" line="1" column="23" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
+      </file>
+      <file name="/code/sc/web/static/web/views/boost/manage/boost-manage.ts" timestamp="1563355196832">
+        <mark key="[" line="37" column="40" />
+        <mark key="]" line="38" column="28" />
+        <mark key="^" line="38" column="28" />
+        <mark key="." line="38" column="28" />
+      </file>
+      <file name="/code/sc/web/sc/app/ads/kinds/ag_criterions.py" timestamp="1563346390688">
+        <mark key="'" line="37" column="28" />
+        <mark key="[" line="16" column="26" />
+        <mark key="]" line="16" column="34" />
+        <mark key="." line="16" column="34" />
+        <mark key="^" line="16" column="34" />
       </file>
       <file name="/code/sc/web/sc/app/ads/feeds/customer_feeds.py" timestamp="1563350586834">
         <mark key="'" line="22" column="0" />
@@ -59,6 +111,13 @@
         <mark key="." line="53" column="28" />
         <mark key="^" line="53" column="28" />
       </file>
+      <file name="/code/sc/web/sc/app/ads/feeds/feed_items.py" timestamp="1563326563816">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="72" column="22" />
+        <mark key="]" line="72" column="27" />
+        <mark key="^" line="72" column="27" />
+        <mark key="." line="72" column="27" />
+      </file>
       <file name="/code/sc/web/instance/local/develop_settings.py" timestamp="1563353631141">
         <mark key="'" line="59" column="0" />
         <mark key="[" line="55" column="13" />
@@ -66,12 +125,25 @@
         <mark key="." line="55" column="17" />
         <mark key="^" line="55" column="17" />
       </file>
+      <file name="/code/sc/web/sc/app/plats/syncs/runner.py" timestamp="1563348688240">
+        <mark key="[" line="86" column="53" />
+        <mark key="]" line="86" column="59" />
+        <mark key="." line="86" column="59" />
+        <mark key="^" line="86" column="59" />
+      </file>
       <file name="/code/sc/web/static/web/views/boost/details/boost-details.html" timestamp="1563325138059">
         <mark key="'" line="14" column="11" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="17" column="19" />
+      </file>
+      <file name="/code/sc/web/sc/app/ads/feeds/ext_feed_items.py" timestamp="1563294404257">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="54" column="70" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="/code/sc/web/sc/mods/web/rest/accounts/plat_syncs_view.py" timestamp="1563349425069">
         <mark key="'" line="27" column="27" />
@@ -101,6 +173,19 @@
         <mark key="." line="201" column="49" />
         <mark key="^" line="201" column="49" />
       </file>
+      <file name="/code/sc/web/sc/app/tasks/ads.py" timestamp="1563350650619">
+        <mark key="[" line="28" column="37" />
+        <mark key="]" line="28" column="36" />
+        <mark key="." line="28" column="36" />
+        <mark key="^" line="28" column="36" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" timestamp="1563353946396">
+        <mark key="'" line="306" column="7" />
+        <mark key="[" line="312" column="0" />
+        <mark key="]" line="312" column="0" />
+        <mark key="^" line="312" column="0" />
+        <mark key="." line="312" column="0" />
+      </file>
       <file name="/code/sc/web/sc/sql/ad/boost.py" timestamp="1563322071250">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="35" column="2" />
@@ -115,121 +200,6 @@
         <mark key="^" line="22" column="52" />
         <mark key="." line="22" column="52" />
       </file>
-      <file name="/code/sc/web/sc/app/ads/kinds/customers.py" timestamp="1563337180160">
-        <mark key="'" line="89" column="57" />
-        <mark key="[" line="31" column="68" />
-        <mark key="]" line="31" column="74" />
-        <mark key="^" line="31" column="74" />
-        <mark key="." line="31" column="74" />
-      </file>
-      <file name="/code/sc/web/instance/env.txt" timestamp="1563354297554">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
-        <mark key="^" line="0" column="3" />
-      </file>
-      <file name="/code/sc/web/sc/app/ads/boost.py" timestamp="1563370699128">
-        <mark key="'" line="141" column="20" />
-        <mark key="[" line="139" column="59" />
-        <mark key="]" line="139" column="97" />
-        <mark key="^" line="139" column="97" />
-        <mark key="." line="139" column="97" />
-      </file>
-      <file name="/code/sc/web/sc/core/interfaces.py" timestamp="1563345848722">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-      </file>
-      <file name="/code/sc/web/sc/app/ads/ads_crud.py" timestamp="1563346661438">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="44" column="10" />
-      </file>
-      <file name="/code/sc/web/sc/app/tasks/syncing.py" timestamp="1563330608735">
-        <mark key="'" line="104" column="19" />
-        <mark key="[" line="279" column="0" />
-        <mark key="]" line="279" column="0" />
-        <mark key="." line="279" column="0" />
-        <mark key="^" line="110" column="21" />
-      </file>
-      <file name="/code/sc/web/sc/app/ads/kinds/adgroups.py" timestamp="1563349123774">
-        <mark key="'" line="80" column="28" />
-        <mark key="[" line="21" column="22" />
-        <mark key="]" line="21" column="30" />
-        <mark key="^" line="21" column="30" />
-        <mark key="." line="21" column="30" />
-      </file>
-      <file name="/code/sc/web/sc/app/ads/base.py" timestamp="1563346646731">
-        <mark key="'" line="16" column="15" />
-        <mark key="[" line="111" column="23" />
-        <mark key="]" line="111" column="29" />
-        <mark key="." line="111" column="29" />
-        <mark key="^" line="111" column="29" />
-      </file>
-      <file name="/code/sc/web/sc/app/ads/api.py" timestamp="1563345862578">
-        <mark key="'" line="82" column="9" />
-        <mark key="[" line="77" column="7" />
-        <mark key="]" line="77" column="16" />
-        <mark key="." line="77" column="16" />
-        <mark key="^" line="77" column="16" />
-      </file>
-      <file name="/code/sc/web/sc/app/ads/kinds/keywords.py" timestamp="1563352532331">
-        <mark key="'" line="24" column="25" />
-        <mark key="[" line="29" column="19" />
-        <mark key="]" line="30" column="18" />
-        <mark key="." line="30" column="18" />
-        <mark key="^" line="30" column="18" />
-      </file>
-      <file name="/code/sc/web/static/web/views/boost/manage/boost-manage.ts" timestamp="1563355196832">
-        <mark key="[" line="37" column="40" />
-        <mark key="]" line="38" column="28" />
-        <mark key="^" line="38" column="28" />
-        <mark key="." line="38" column="28" />
-      </file>
-      <file name="/code/sc/web/sc/app/ads/kinds/ag_criterions.py" timestamp="1563346390688">
-        <mark key="'" line="37" column="28" />
-        <mark key="[" line="16" column="26" />
-        <mark key="]" line="16" column="34" />
-        <mark key="." line="16" column="34" />
-        <mark key="^" line="16" column="34" />
-      </file>
-      <file name="/code/sc/web/sc/app/ads/feeds/feed_items.py" timestamp="1563326563816">
-        <mark key="'" line="56" column="0" />
-        <mark key="[" line="72" column="22" />
-        <mark key="]" line="72" column="27" />
-        <mark key="^" line="72" column="27" />
-        <mark key="." line="72" column="27" />
-      </file>
-      <file name="/code/sc/web/sc/app/plats/syncs/runner.py" timestamp="1563348688240">
-        <mark key="[" line="86" column="53" />
-        <mark key="]" line="86" column="59" />
-        <mark key="." line="86" column="59" />
-        <mark key="^" line="86" column="59" />
-      </file>
-      <file name="/code/sc/web/sc/app/ads/feeds/ext_feed_items.py" timestamp="1563294404257">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="54" column="70" />
-        <mark key="." line="51" column="0" />
-      </file>
-      <file name="/customer_feeds.py" timestamp="1563350622610" />
-      <file name="/code/sc/web/sc/app/tasks/ads.py" timestamp="1563350650619">
-        <mark key="[" line="28" column="37" />
-        <mark key="]" line="28" column="36" />
-        <mark key="." line="28" column="36" />
-        <mark key="^" line="28" column="36" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" timestamp="1563353946396">
-        <mark key="'" line="306" column="7" />
-        <mark key="[" line="312" column="0" />
-        <mark key="]" line="312" column="0" />
-        <mark key="^" line="312" column="0" />
-        <mark key="." line="312" column="0" />
-      </file>
-      <file name="/budgets.py" timestamp="1563347326660" />
       <file name="/code/sc/web/sc/app/ads/kinds/budgets.py" timestamp="1563346133850">
         <mark key="'" line="29" column="16" />
         <mark key="[" line="21" column="21" />
@@ -244,6 +214,13 @@
         <mark key="^" line="16" column="40" />
         <mark key="." line="16" column="40" />
       </file>
+      <file name="/code/sc/web/sc/app/ads/kinds/customers.py" timestamp="1563337180160">
+        <mark key="'" line="89" column="57" />
+        <mark key="[" line="31" column="68" />
+        <mark key="]" line="31" column="74" />
+        <mark key="^" line="31" column="74" />
+        <mark key="." line="31" column="74" />
+      </file>
       <file name="/code/sc/web/sc/app/ads/kinds/ads.py" timestamp="1563346386797">
         <mark key="[" line="22" column="17" />
         <mark key="]" line="22" column="25" />
@@ -257,7 +234,25 @@
         <mark key="." line="965" column="0" />
         <mark key="^" line="965" column="0" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/google/ads/google_ads/v2/services/enums.py" timestamp="1563346878042" />
+      <file name="/code/sc/web/instance/env.txt" timestamp="1563814852614">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+      </file>
+      <file name="/code/sc/web/sc/app/ads/boost.py" timestamp="1563370699128">
+        <mark key="'" line="141" column="20" />
+        <mark key="[" line="139" column="59" />
+        <mark key="]" line="139" column="97" />
+        <mark key="^" line="139" column="97" />
+        <mark key="." line="139" column="97" />
+      </file>
+      <file name="/code/sc/web/sc/core/interfaces.py" timestamp="1563345848722">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+      </file>
       <file name="/code/sc/web/static/web/views/boost/auths/boost-auths.html" timestamp="1563354188876">
         <mark key="[" line="5" column="37" />
         <mark key="]" line="5" column="46" />
@@ -405,7 +400,7 @@ where ads_id in ('3564350497', '3737830735', '5710161033')
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ym9vLmFsLCA=</text>
+        <text>prod</text>
       </register>
       <register name="/" type="4">
         <text>isMulti</text>
