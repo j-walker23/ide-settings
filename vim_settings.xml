@@ -23,6 +23,12 @@
         <mark key="^" line="35" column="59" />
         <mark key="." line="35" column="59" />
       </file>
+      <file name="/code/sc/web/sc/app/integs/hjs/collectors/base.py" timestamp="1563820758277">
+        <mark key="[" line="73" column="29" />
+        <mark key="]" line="73" column="28" />
+        <mark key="^" line="73" column="28" />
+        <mark key="." line="73" column="28" />
+      </file>
       <file name="/code/sc/web/cli/ones.py" timestamp="1563354886571">
         <mark key="'" line="746" column="8" />
         <mark key="[" line="744" column="0" />
@@ -36,12 +42,12 @@
         <mark key="." line="25" column="71" />
         <mark key="^" line="25" column="71" />
       </file>
-      <file name="/code/sc/web/sc/app/tasks/hjcollecting.py" timestamp="1563820074592">
+      <file name="/code/sc/web/sc/app/tasks/hjcollecting.py" timestamp="1563821396239">
         <mark key="'" line="110" column="50" />
-        <mark key="[" line="62" column="9" />
-        <mark key="]" line="62" column="23" />
-        <mark key="." line="62" column="23" />
-        <mark key="^" line="62" column="23" />
+        <mark key="[" line="63" column="22" />
+        <mark key="]" line="63" column="23" />
+        <mark key="." line="63" column="23" />
+        <mark key="^" line="64" column="24" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1563354214821">
         <mark key="'" line="1182" column="0" />
@@ -426,7 +432,7 @@
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>tasks</text>
+        <text>, row=r</text>
       </register>
       <register name="/" type="4">
         <text>isMulti</text>
