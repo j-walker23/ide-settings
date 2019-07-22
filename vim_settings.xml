@@ -17,6 +17,12 @@
         <mark key="." line="19" column="31" />
         <mark key="^" line="19" column="31" />
       </file>
+      <file name="/code/sc/web/sc/sql/survey/__init__.py" timestamp="1563819775826">
+        <mark key="[" line="35" column="54" />
+        <mark key="]" line="35" column="59" />
+        <mark key="^" line="35" column="59" />
+        <mark key="." line="35" column="59" />
+      </file>
       <file name="/code/sc/web/cli/ones.py" timestamp="1563354886571">
         <mark key="'" line="746" column="8" />
         <mark key="[" line="744" column="0" />
@@ -30,12 +36,12 @@
         <mark key="." line="25" column="71" />
         <mark key="^" line="25" column="71" />
       </file>
-      <file name="/code/sc/web/sc/app/tasks/hjcollecting.py" timestamp="1563818265042">
+      <file name="/code/sc/web/sc/app/tasks/hjcollecting.py" timestamp="1563820074592">
         <mark key="'" line="110" column="50" />
-        <mark key="[" line="62" column="39" />
-        <mark key="]" line="62" column="44" />
-        <mark key="." line="62" column="44" />
-        <mark key="^" line="62" column="44" />
+        <mark key="[" line="62" column="9" />
+        <mark key="]" line="62" column="23" />
+        <mark key="." line="62" column="23" />
+        <mark key="^" line="62" column="23" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1563354214821">
         <mark key="'" line="1182" column="0" />
@@ -186,6 +192,12 @@
         <mark key="^" line="111" column="29" />
       </file>
       <file name="/code/sc/web/sc/coms/utils/times.py" timestamp="1563818549029" />
+      <file name="/code/sc/web/migrations/versions/034967de2a80__192.py" timestamp="1563820256698">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="/code/sc/web/migrations/versions/07992136ce1f__60.py" timestamp="1563820248528" />
       <file name="/code/sc/web/sc/app/ads/api.py" timestamp="1563345862578">
         <mark key="'" line="82" column="9" />
         <mark key="[" line="77" column="7" />
@@ -384,37 +396,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAjICMjIyBjb21tYW5kcyBhdXRvIGdlbmVyYXRlZCBieSBBbGVtYmljIC0gcGxlYXNlIGFkanVzdCEgIyMjCiAgcGFzcwogICMgIyMjIGVuZCBBbGVtYmljIGNvbW1hbmRzICMjIwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbG9nLmluZm8oZidGaW5kaW5nIGxhc3QgcGFnZSBmb3Ige2NpZH0gLS0ge3RvX21zdChzaW5jZSl9JykK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdG9fbXN0Cg==</text>
+        <text encoding="base64">ICAgICAgbG9nLmluZm8oZidGaW5kaW5nIGxhc3QgcGFnZSBmb3Ige2NpZH0gLS0ge3RvX21zdChzaW5jZSl9JykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">d2hlcmUgCg==</text>
+        <text encoding="base64">ICAgICAgdG9fbXN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNscyA9IGNvbGxlY3Rvci5lbnRpdHkK</text>
+        <text encoding="base64">d2hlcmUgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CkNPTExFQ1RPUlMgPSAoCiAgRGVtb2dyYXBoaWNDb2xsZWN0b3IsCiAgIyBBcHBvaW50bWVudENvbGxlY3RvciwKICAjIEVuY291bnRlckNvbGxlY3RvciwKICBQcm9jZWR1cmVDb2xsZWN0b3IsCiAgIyBEb2N0b3JDb2xsZWN0b3IsCikK</text>
+        <text encoding="base64">ICAgIGNscyA9IGNvbGxlY3Rvci5lbnRpdHkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpZiBlcnJvcnM6CiAgICBzaGl0cyA9IFtdCiAgICBmb3IgZSwgcm93IGluIGVycm9yczoKICAgICAgc2hpdHMuYXBwZW5kKGRpY3QoCiAgICAgICAgZXJyPWUsCiAgICAgICAgcm93PXJvdwogICAgICApKQogICAgaWYgZ2V0X2FwcCgpLmxvY2FsOgogICAgICB3cml0ZV9sb2NhbF9qc29uKCdlbmNzJywgc2hpdHMpCgo=</text>
+        <text encoding="base64">CkNPTExFQ1RPUlMgPSAoCiAgRGVtb2dyYXBoaWNDb2xsZWN0b3IsCiAgIyBBcHBvaW50bWVudENvbGxlY3RvciwKICAjIEVuY291bnRlckNvbGxlY3RvciwKICBQcm9jZWR1cmVDb2xsZWN0b3IsCiAgIyBEb2N0b3JDb2xsZWN0b3IsCikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBlcnJzID0gc2V0KCkK</text>
+        <text encoding="base64">ICBpZiBlcnJvcnM6CiAgICBzaGl0cyA9IFtdCiAgICBmb3IgZSwgcm93IGluIGVycm9yczoKICAgICAgc2hpdHMuYXBwZW5kKGRpY3QoCiAgICAgICAgZXJyPWUsCiAgICAgICAgcm93PXJvdwogICAgICApKQogICAgaWYgZ2V0X2FwcCgpLmxvY2FsOgogICAgICB3cml0ZV9sb2NhbF9qc29uKCdlbmNzJywgc2hpdHMpCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBlcnJvcnMgPSBbXQo=</text>
+        <text encoding="base64">ICBlcnJzID0gc2V0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>dtformatqs</text>
+        <text>tasks</text>
       </register>
       <register name="/" type="4">
         <text>isMulti</text>
