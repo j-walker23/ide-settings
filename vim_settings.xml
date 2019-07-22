@@ -9,11 +9,17 @@
         <mark key="^" line="35" column="59" />
         <mark key="." line="35" column="59" />
       </file>
-      <file name="/code/sc/web/sc/app/integs/hjs/collectors/base.py" timestamp="1563825076334">
-        <mark key="[" line="75" column="49" />
-        <mark key="]" line="76" column="11" />
-        <mark key="^" line="76" column="11" />
-        <mark key="." line="76" column="11" />
+      <file name="/code/sc/web/sc/app/integs/hjs/collectors/base.py" timestamp="1563829417745">
+        <mark key="[" line="76" column="22" />
+        <mark key="]" line="76" column="33" />
+        <mark key="^" line="76" column="33" />
+        <mark key="." line="76" column="33" />
+      </file>
+      <file name="/code/sc/web/sc/sql/integ/hj/hj_tables.py" timestamp="1563831358650">
+        <mark key="[" line="231" column="18" />
+        <mark key="]" line="231" column="29" />
+        <mark key="." line="231" column="29" />
+        <mark key="^" line="231" column="29" />
       </file>
       <file name="/code/sc/web/sc/mods/web/rest/accounts/ads/keywords_view.py" timestamp="1563370608877">
         <mark key="[" line="25" column="52" />
@@ -21,12 +27,12 @@
         <mark key="." line="25" column="71" />
         <mark key="^" line="25" column="71" />
       </file>
-      <file name="/code/sc/web/sc/app/tasks/hjcollecting.py" timestamp="1563825433129">
-        <mark key="'" line="110" column="50" />
-        <mark key="[" line="114" column="9" />
-        <mark key="]" line="115" column="23" />
-        <mark key="." line="115" column="23" />
-        <mark key="^" line="115" column="23" />
+      <file name="/code/sc/web/sc/app/tasks/hjcollecting.py" timestamp="1563830757339">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
+        <mark key="^" line="112" column="42" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1563824972614">
         <mark key="'" line="1202" column="14" />
@@ -52,9 +58,7 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="4" />
       </file>
-      <file name="/code/sc/web/instance/local/demographic/page7.json" timestamp="1563817975087">
-        <mark key="'" line="4" column="36" />
-      </file>
+      <file name="/code/sc/web/sc/coms/ext/sentry.py" timestamp="1563827193235" />
       <file name="/code/sc/web/sc/app/integs/hjs/collectors/collector.py" timestamp="1563825552727">
         <mark key="'" line="62" column="6" />
         <mark key="[" line="41" column="0" />
@@ -68,6 +72,12 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="44" column="10" />
       </file>
+      <file name="/code/sc/web/sc/mods/config.py" timestamp="1563830268112">
+        <mark key="[" line="32" column="35" />
+        <mark key="]" line="32" column="33" />
+        <mark key="^" line="32" column="33" />
+        <mark key="." line="32" column="33" />
+      </file>
       <file name="/Python Console" timestamp="1563816415284">
         <mark key="[" line="0" column="0" />
       </file>
@@ -75,10 +85,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code/sc/web/sc/coms/utils/times.py" timestamp="1563818549029" />
-      <file name="/code/sc/web/migrations/versions/034967de2a80__192.py" timestamp="1563820256698">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="/code/sc/web/migrations/versions/034967de2a80__192.py" timestamp="1563831253656">
+        <mark key="[" line="42" column="20" />
+        <mark key="]" line="42" column="26" />
+        <mark key="." line="42" column="26" />
+        <mark key="^" line="42" column="26" />
       </file>
       <file name="/code/sc/web/migrations/versions/07992136ce1f__60.py" timestamp="1563820248528" />
       <file name="/code/sc/web/static/web/views/boost/manage/boost-manage.ts" timestamp="1563355196832">
@@ -120,7 +131,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/.virtualenvs/web-XRM0zxco/lib/python3.7/site-packages/google/ads/google_ads/v2/proto/errors/field_mask_error_pb2.py" />
       <jump line="147" column="0" filename="/code/sc/web/sc/app/ads/boost.py" />
       <jump line="7" column="6" filename="/code/trash/google-ads-python/google/ads/google_ads/v2/proto/services/customer_extension_setting_service_pb2_grpc.py" />
       <jump line="483" column="74" filename="/code/trash/google-ads-python/google/ads/google_ads/v2/__init__.py" />
@@ -220,40 +230,41 @@
       <jump line="4" column="36" filename="/code/sc/web/instance/local/demographic/page7.json" />
       <jump line="966" column="25" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
       <jump line="1199" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
+      <jump line="75" column="0" filename="/code/sc/web/sc/app/tasks/hjcollecting.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBvcC5kcm9wX3RhYmxlKCdoal9lbmNvdW50ZXJzJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBvcC5kcm9wX3RhYmxlKCdoal9kZW1vZ3JhcGhpY3MnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAjICAgCiAgIyBleGNlcHQgRXhjZXB0aW9uIGFzIGU6Cg==</text>
+        <text encoding="base64">ICBzYXZlZCwgYmFkcyA9IGNvbGxlY3Rvci5zYXZlKGhqLmlkLCByb3dzLCBwYWdlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIHNlbGYucmV0cnkoZXhjPWUpCg==</text>
+        <text encoding="base64">ICBleGNlcHQgSGVhbHRoanVtcEVycm9yIGFzIGU6CiAgICByYWlzZSBzZWxmLnJldHJ5KGV4Yz1lKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">CiAgcGFzc2VkID0gVHJ1ZQogIGlmIHNhdmVkIC8gbGVuKHJvd3MpIDwgMC41OgogICAgcGFzc2VkID0gRmFsc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgaGpjb2xsZWN0aW5nLnJ1bl9hY2MuYXBwbHlfYXN5bmMoYXJncz0oaGosKSkK</text>
+        <text encoding="base64">ICBsb2cuaW5mbyhmJ3tjbHMuX19uYW1lX199IEZvcm1hdHRlZCcsIGM9bGVuKHJvd3MpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">b3JkZXIgYnkgYWNjb3VudF9pZCBkZXNjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aGF2aW5nIGNjID4gMQo=</text>
+        <text encoding="base64">ICAjIGlmIHBhc3NlZCA+IGZhaWxlZDoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAsIDIK</text>
+        <text encoding="base64">CiAgIyBmb3IgaSwgdGFzayBpbiBlbnVtZXJhdGUodGFza3MpOgogICMgICB0YXNrLnNldChjb3VudGRvd249aSkuZGVsYXkoKQogICMKICAjIG5leHRfdGFzayA9IG5leHRfdXAucygpCgogICMgZ3JvdXAodGFza3MpKCkK</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>EncounterCollector</text>
+        <text>'hj_attributions'</text>
       </register>
       <register name="/" type="4">
         <text>isMulti</text>
