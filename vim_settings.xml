@@ -3,11 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/code/sc/web/sc/sql/survey/__init__.py" timestamp="1563920402757">
-        <mark key="[" line="35" column="43" />
-        <mark key="]" line="35" column="42" />
-        <mark key="^" line="35" column="42" />
-        <mark key="." line="35" column="42" />
+      <file name="/code/sc/web/sc/sql/survey/__init__.py" timestamp="1563922634677">
+        <mark key="[" line="58" column="113" />
+        <mark key="]" line="58" column="110" />
+        <mark key="." line="58" column="110" />
+        <mark key="^" line="58" column="110" />
+      </file>
+      <file name="/code/sc/web/sc/sql/__init__.py" timestamp="1563922274743">
+        <mark key="'" line="29" column="6" />
+        <mark key="[" line="219" column="56" />
+        <mark key="]" line="219" column="53" />
+        <mark key="." line="219" column="53" />
+        <mark key="^" line="219" column="53" />
       </file>
       <file name="/code/sc/web/sc/app/integs/hjs/collectors/base.py" timestamp="1563911431436">
         <mark key="'" line="20" column="0" />
@@ -36,6 +43,12 @@
         <mark key="." line="1287" column="17" />
         <mark key="^" line="1287" column="17" />
       </file>
+      <file name="/code/sc/web/static/common/models/platform.model.ts" timestamp="1563923212255">
+        <mark key="[" line="78" column="28" />
+        <mark key="]" line="78" column="33" />
+        <mark key="." line="78" column="33" />
+        <mark key="^" line="78" column="33" />
+      </file>
       <file name="/code/sc/web/cli/hj.py" timestamp="1563920062313">
         <mark key="'" line="315" column="2" />
         <mark key="[" line="337" column="14" />
@@ -50,14 +63,23 @@
         <mark key="." line="37" column="1" />
         <mark key="^" line="37" column="1" />
       </file>
-      <file name="/code/sc/web/static/web/views/surveys/details/survey-details.ts" timestamp="1563920483657">
-        <mark key="'" line="230" column="29" />
+      <file name="/code/sc/web/static/web/views/surveys/details/survey-details.ts" timestamp="1563922745265">
+        <mark key="'" line="324" column="43" />
       </file>
       <file name="/code/sc/web/sc/app/integs/hjs/auth.py" timestamp="1563907903431">
         <mark key="[" line="81" column="13" />
         <mark key="]" line="81" column="15" />
         <mark key="." line="81" column="15" />
         <mark key="^" line="81" column="15" />
+      </file>
+      <file name="/code/sc/web/migrations/versions/edd93ed6684f__199.py" timestamp="1563922079770">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="/code/sc/web/sc/mods/web/rest/accounts/surveys/surveys_view.py" timestamp="1563922739656">
+        <mark key="[" line="41" column="19" />
+        <mark key="]" line="42" column="7" />
+        <mark key="." line="42" column="7" />
+        <mark key="^" line="42" column="7" />
       </file>
       <file name="/code/sc/web/instance/local/shit-hj.txt" timestamp="1563903743355">
         <mark key="'" line="21" column="75" />
@@ -66,7 +88,7 @@
         <mark key="^" line="21" column="75" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/code/sc/web/sc/app/tasks/customs.py" timestamp="1563919824360">
+      <file name="/code/sc/web/sc/app/tasks/customs.py" timestamp="1563921872331">
         <mark key="'" line="395" column="0" />
         <mark key="[" line="144" column="44" />
         <mark key="]" line="144" column="48" />
@@ -80,15 +102,21 @@
         <mark key="^" line="45" column="36" />
         <mark key="." line="45" column="36" />
       </file>
+      <file name="/code/sc/web/instance/env.txt" timestamp="1563922085407">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+      </file>
       <file name="/code/sc/web/cli/scm.py" timestamp="1563908939912">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/code/sc/web/sc/app/integs/hjs/collectors/collector.py" timestamp="1563908584347">
+      <file name="/code/sc/web/sc/app/integs/hjs/collectors/collector.py" timestamp="1563921893719">
         <mark key="'" line="47" column="15" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="51" column="0" />
+        <mark key="[" line="37" column="26" />
+        <mark key="]" line="37" column="37" />
+        <mark key="^" line="37" column="37" />
+        <mark key="." line="37" column="37" />
       </file>
       <file name="/code/sc/web/sc/utils.py" timestamp="1563905329970" />
       <file name="/Python Console" timestamp="1563911985296">
@@ -132,9 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="15" filename="/code/sc/web/sc/app/ads/base.py" />
-      <jump line="28" column="6" filename="/code/sc/web/sc/sql/__init__.py" />
-      <jump line="105" column="0" filename="/code/sc/web/sc/app/tasks/hjcollecting.py" />
       <jump line="1207" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
       <jump line="67" column="23" filename="/code/sc/web/sc/app/tasks/syncing.py" />
       <jump line="1168" column="11" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
@@ -232,43 +257,43 @@
       <jump line="74" column="31" filename="/code/sc/web/cli/hj.py" />
       <jump line="315" column="2" filename="/code/sc/web/cli/hj.py" />
       <jump line="230" column="29" filename="/code/sc/web/static/web/views/surveys/details/survey-details.ts" />
+      <jump line="0" column="0" filename="/code/sc/web/migrations/versions/edd93ed6684f__199.py" />
+      <jump line="29" column="6" filename="/code/sc/web/sc/sql/__init__.py" />
+      <jump line="324" column="43" filename="/code/sc/web/static/web/views/surveys/details/survey-details.ts" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">CnNlbGVjdCAqCmZyb20gYWNjb3VudHMgYQp3aGVyZSBuYW1lIGxpa2UgJyVDYXJyZWwlJwoKOwoKc2VsZWN0CiAgICBhdXRoX2lkCiAgLCBoYXNfcmVhbHRpbWUKZnJvbSBhdXRoX2xvY3MgYQp3aGVyZSBhY2NvdW50X2lkID0gMjg3IGFuZCBraW5kID0gJ2dvb2dsZScKOwoK</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgbGV0IHF1cyA9IG1lKENob2ljZSkgIAo=</text>
       </register>
-      <register name="2" type="4">
-        <text>update auth_locs
-set has_realtime = false
-where account_id = 287 and kind = 'google'
-;</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBzdGF0aWMgX19yb3V0ZV9fID0gJ2Nob2ljZXMnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhcHBseV9hbGw6IGJvb2xlYW4KICBtYW5jb2w6IGJvb2xlYW4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwb3M6IG51bWJlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwb3M6IG51bWJlcgogIGNvbG9yOiBzdHJpbmcKICBhcHBseV9hbGw6IGJvb2xlYW4KICBtYW5jb2w6IGJvb2xlYW4K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZGVsZXRlCmZyb20gaGpfZW5jb3VudGVycwp3aGVyZSBhY2NvdW50X2lkID0gQGFpZAo7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CmV4cG9ydCBjbGFzcyBRdWVzdGlvbkNob2ljZSBleHRlbmRzIE1vZGVsIHsKICBzdGF0aWMgX19yb3V0ZV9fID0gJ2Nob2ljZXMnCiAgY2hvaWNlOiBDaG9pY2UKICBxdWVzdGlvbl9pZDogbnVtYmVyCiAgY2hvaWNlX2lkOiBzdHJpbmcKICBwb3M6IG51bWJlcgogIGNvbG9yOiBzdHJpbmcKICBhcHBseV9hbGw6IGJvb2xlYW4KICBtYW5jb2w6IGJvb2xlYW4KfQ==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZGVsZXRlCmZyb20gaGpfZGVtb2dyYXBoaWNzCndoZXJlIGFjY291bnRfaWQgPSBAYWlkCjsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICIiIiIiIgogICAgcmV0dXJuIERpY3RhYmxlKGluY2x1ZGU9WydpZCddKQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmcm9tIHNjLmFwcC5pbnRlZ3MuaGpzLmNvbGxlY3RvcnMuZGVtb2dyYXBoaWMgaW1wb3J0IERlbW9ncmFwaGljQ29sbGVjdG9yCiAgZnJvbSBzYy5hcHAuaW50ZWdzLmhqcy5jb2xsZWN0b3JzLmVuY291bnRlciBpbXBvcnQgRW5jb3VudGVyQ29sbGVjdG9yCiAgZnJvbSBzYy5hcHAuaW50ZWdzLmhqcy5jb2xsZWN0b3JzLmFwcG9pbnRtZW50IGltcG9ydCBBcHBvaW50bWVudENvbGxlY3RvcgogIGZyb20gc2MuYXBwLmludGVncy5oanMuY29sbGVjdG9ycy5wcm9jZWR1cmUgaW1wb3J0IFByb2NlZHVyZUNvbGxlY3Rvcgo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmcm9tIHNjLmFwcC5pbnRlZ3MuaGpzLmNvbGxlY3RvcnMuZGVtb2dyYXBoaWMgaW1wb3J0IERlbW9ncmFwaGljQ29sbGVjdG9yCiAgZnJvbSBzYy5hcHAuaW50ZWdzLmhqcy5jb2xsZWN0b3JzLmVuY291bnRlciBpbXBvcnQgRW5jb3VudGVyQ29sbGVjdG9yCiAgZnJvbSBzYy5hcHAuaW50ZWdzLmhqcy5jb2xsZWN0b3JzLmFwcG9pbnRtZW50IGltcG9ydCBBcHBvaW50bWVudENvbGxlY3RvcgogIGZyb20gc2MuYXBwLmludGVncy5oanMuY29sbGVjdG9ycy5wcm9jZWR1cmUgaW1wb3J0IFByb2NlZHVyZUNvbGxlY3Rvcgo=</text>
+        <text encoding="base64">ICB0aXRpZXM6IENvbHVtbihJbnRlZ2VyKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
       </register>
       <register name="-" type="4">
-        <text>,qu_choices.sel()</text>
+        <text>QuChoice</text>
       </register>
       <register name="/" type="4">
         <text>isMulti</text>
