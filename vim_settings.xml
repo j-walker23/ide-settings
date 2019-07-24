@@ -46,12 +46,11 @@
         <mark key="^" line="800" column="24" />
         <mark key="." line="800" column="24" />
       </file>
-      <file name="/code/sc/web/sc/app/tasks/hjcollecting.py" timestamp="1563974883355">
-        <mark key="'" line="97" column="15" />
-        <mark key="[" line="61" column="5" />
-        <mark key="]" line="62" column="7" />
-        <mark key="^" line="62" column="7" />
-        <mark key="." line="62" column="7" />
+      <file name="/code/sc/web/sc/app/tasks/hjcollecting.py" timestamp="1563976714940">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="/code/sc/web/sc/app/ads/base.py" timestamp="1563858800842">
         <mark key="'" line="45" column="15" />
@@ -209,7 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="987" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
       <jump line="45" column="0" filename="/code/sc/web/sc/app/integs/hjs/collectors/types.py" />
       <jump line="14" column="59" filename="/code/sc/web/sc/sql/integ/hj/hj_tables.py" />
       <jump line="0" column="0" filename="/code/sc/web/migrations/versions/b3f517012877__196.py" />
@@ -241,7 +239,6 @@
       <jump line="0" column="0" filename="/code/sc/web/migrations/versions/570721fb2a29__198.py" />
       <jump line="92" column="22" filename="/code/sc/web/sc/app/tasks/hjcollecting.py" />
       <jump line="139" column="13" filename="/code/sc/web/cli/hj.py" />
-      <jump line="76" column="0" filename="/code/sc/web/sc/app/tasks/hjcollecting.py" />
       <jump line="158" column="7" filename="/code/sc/web/sc/app/tasks/hjcollecting.py" />
       <jump line="161" column="16" filename="/code/sc/web/cli/hj.py" />
       <jump line="58" column="4" filename="/code/sc/web/sc/app/tasks/hjcollecting.py" />
@@ -309,34 +306,36 @@
       <jump line="29" column="44" filename="/code/sc/web/sc/sql/survey/__init__.py" />
       <jump line="253" column="29" filename="/code/sc/web/static/web/views/surveys/details/survey-details.ts" />
       <jump line="34" column="7" filename="/code/sc/web/instance/local/develop_settings.py" />
+      <jump line="75" column="7" filename="/code/sc/web/sc/app/tasks/hjcollecting.py" />
+      <jump line="76" column="0" filename="/code/sc/web/sc/app/tasks/hjcollecting.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZm9yICgpCiAgICAgIAo=</text>
+        <text encoding="base64">ICByZXR1cm4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcS5jaG9pY2VzID0gcS5sYWJlbHMuZmlsdGVyKGNoID0+ICEhY2guaWQpCiAgICAgIHEucXVfY2hvaWNlcyA9IHEuY2hvaWNlcyBhcyBRdUNob2ljZVtdCiAgICAgIGRlbGV0ZSBxLmNob2ljZXMK</text>
+        <text encoding="base64">ICByZXR1cm4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcS5jaG9pY2VzID0gcS5sYWJlbHMuZmlsdGVyKGNoID0+ICEhY2guaWQpCiAgICAgIHEucXVfY2hvaWNlcyA9IHEuY2hvaWNlcyBhcyBRdUNob2ljZVtdCiAgICAgIGRlbGV0ZSBxLmNob2ljZXMK</text>
+        <text encoding="base64">ICAgICAgZm9yICgpCiAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIGNsYXNzXyA9PSBRdUNob2ljZToK</text>
+        <text encoding="base64">ICAgICAgcS5jaG9pY2VzID0gcS5sYWJlbHMuZmlsdGVyKGNoID0+ICEhY2guaWQpCiAgICAgIHEucXVfY2hvaWNlcyA9IHEuY2hvaWNlcyBhcyBRdUNob2ljZVtdCiAgICAgIGRlbGV0ZSBxLmNob2ljZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICMgcXVbJ3dlaWdodCddID0gMwo=</text>
+        <text encoding="base64">ICAgICAgcS5jaG9pY2VzID0gcS5sYWJlbHMuZmlsdGVyKGNoID0+ICEhY2guaWQpCiAgICAgIHEucXVfY2hvaWNlcyA9IHEuY2hvaWNlcyBhcyBRdUNob2ljZVtdCiAgICAgIGRlbGV0ZSBxLmNob2ljZXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHEgPSBmdWNrLmFzZGljdCgpCg==</text>
+        <text encoding="base64">ICAgIGlmIGNsYXNzXyA9PSBRdUNob2ljZToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjaG9pY2VfaWQ6IHF1LmlkLAo=</text>
+        <text encoding="base64">CiAgICAgICMgcXVbJ3dlaWdodCddID0gMwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBxID0gcy5xdWVzdGlvbnNbMF0K</text>
+        <text encoding="base64">ICAgIHEgPSBmdWNrLmFzZGljdCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgcXUgPSBxLnF1X2Nob2ljZXNbMF0K</text>
+        <text encoding="base64">ICAgICAgICBjaG9pY2VfaWQ6IHF1LmlkLAo=</text>
       </register>
       <register name=":" type="4">
         <text>action VimWindowSplitVertical</text>
