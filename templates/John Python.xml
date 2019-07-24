@@ -42,7 +42,7 @@
     </context>
   </template>
   <template name="pr" value="print('$text$', $text$)" description="print format" toReformat="true" toShortenFQNames="true">
-    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="text" expression="clipboard()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="Python" value="true" />
     </context>
@@ -155,6 +155,12 @@
   <template name="dbrelo" value="$prop$: 'sql.$model$' = relationship('$model$', uselist=False)" description="one to one" toReformat="true" toShortenFQNames="true">
     <variable name="prop" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="model" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="task" value="from sc.app.tasks import $name$" description="celery task" toReformat="true" toShortenFQNames="true">
+    <variable name="name" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
     </context>
