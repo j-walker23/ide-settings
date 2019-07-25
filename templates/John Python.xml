@@ -165,4 +165,52 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="cs" value="{$VAR_EXPR$ for $VAR$ in $ITERABLE$ $END$}" description="Set comprehension" toReformat="false" toShortenFQNames="true">
+    <variable name="ITERABLE" expression="pyIterableVariable()" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="regularExpression(ITERABLE, &quot;(.).*&quot;, &quot;$1&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR_EXPR" expression="" defaultValue="VAR" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="cl" value="[$VAR_EXPR$ for $VAR$ in $ITERABLE$ $END$]" description="List comprehension" toReformat="false" toShortenFQNames="true">
+    <variable name="ITERABLE" expression="pyIterableVariable()" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="regularExpression(ITERABLE, &quot;(.).*&quot;, &quot;$1&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR_EXPR" expression="" defaultValue="VAR" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="cg" value="($VAR_EXPR$ for $VAR$ in $ITERABLE$ $END$)" description="Generator comprehension" toReformat="false" toShortenFQNames="true">
+    <variable name="ITERABLE" expression="pyIterableVariable()" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="regularExpression(ITERABLE, &quot;(.).*&quot;, &quot;$1&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR_EXPR" expression="" defaultValue="VAR" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="cd" value="{$KEY_EXPR$: $VAL_EXPR$ for $VAR$ in $ITERABLE$ $END$}" description="Dict comprehension" toReformat="false" toShortenFQNames="true">
+    <variable name="ITERABLE" expression="pyIterableVariable()" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="regularExpression(ITERABLE, &quot;(.).*&quot;, &quot;$1&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="KEY_EXPR" expression="" defaultValue="VAR" alwaysStopAt="true" />
+    <variable name="VAL_EXPR" expression="" defaultValue="VAR" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="fie" value="for $INDEX$, $VAR$ in enumerate($ITERABLE$):&#10;    $END$" description="Iterate (for ... in enumerate)" toReformat="false" toShortenFQNames="true">
+    <variable name="ITERABLE" expression="pyIterableVariable()" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="collectionElementName(ITERABLE)" defaultValue="" alwaysStopAt="true" />
+    <variable name="INDEX" expression="" defaultValue="&quot;i&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="fi" value="for $VAR$ in $ITERABLE$:&#10;    $END$" description="Iterate (for ... in ...)" toReformat="false" toShortenFQNames="true">
+    <variable name="ITERABLE" expression="pyIterableVariable()" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="collectionElementName(ITERABLE)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
