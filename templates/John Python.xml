@@ -213,4 +213,10 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="snakeit" value="$val$" description="clipboard to snake case" toReformat="false" toShortenFQNames="true">
+    <variable name="val" expression="snakeCase(clipboard())" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
