@@ -1,0 +1,29 @@
+<templateSet group="Python">
+  <template name="cog" value="($VAR_EXPR$ for $VAR$ in $ITERABLE$)" description="Generator comprehension" toReformat="false" toShortenFQNames="true">
+    <variable name="ITERABLE" expression="pyIterableVariable()" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="collectionElementName(ITERABLE)" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR_EXPR" expression="" defaultValue="VAR" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="cod" value="{$KEY_EXPR$: $VAL_EXPR$ for $VAR$ in $ITERABLE$}" description="Dict comprehension" toReformat="false" toShortenFQNames="true">
+    <variable name="ITERABLE" expression="pyIterableVariable()" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="collectionElementName(ITERABLE)" defaultValue="" alwaysStopAt="true" />
+    <variable name="KEY_EXPR" expression="" defaultValue="VAR" alwaysStopAt="true" />
+    <variable name="VAL_EXPR" expression="" defaultValue="VAR" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="codi" value="{$KEY_EXPR$: $VAL_EXPR$ for $VAR$ in $ITERABLE$ if $VAR_EXPR_IF$}" description="Dict comprehension with 'if'" toReformat="false" toShortenFQNames="true">
+    <variable name="ITERABLE" expression="pyIterableVariable()" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="collectionElementName(ITERABLE)" defaultValue="" alwaysStopAt="true" />
+    <variable name="KEY_EXPR" expression="" defaultValue="VAR" alwaysStopAt="true" />
+    <variable name="VAL_EXPR" expression="" defaultValue="VAR" alwaysStopAt="true" />
+    <variable name="VAR_EXPR_IF" expression="" defaultValue="VAR" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
