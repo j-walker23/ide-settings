@@ -2,11 +2,13 @@
   <component name="DatabaseSettings" version="4">
     <option name="reuse-result-tab" value="false" />
     <option name="execute-inside-option" value="4" />
+    <option name="execute-selection-option" value="3" />
     <option name="warn-unsafe-query" value="false" />
+    <option name="navigate-to-data" value="false" />
     <option name="always-show-console-toolbar" value="true" />
     <option name="always-qualify-names" value="false" />
     <exec-options>
-      <exec-option new-tab="true" exec-inside="4" />
+      <exec-option new-tab="true" exec-inside="4" exec-selection="3" />
       <exec-option />
       <exec-option />
     </exec-options>
