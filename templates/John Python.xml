@@ -181,7 +181,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="cg" value="($VAR_EXPR$ for $VAR$ in $ITERABLE$ $END$)" description="Generator comprehension" toReformat="false" toShortenFQNames="true">
+  <template name="cg" value="$VAR_EXPR$ for $VAR$ in $ITERABLE$ $END$" description="Generator comprehension" toReformat="false" toShortenFQNames="true">
     <variable name="ITERABLE" expression="pyIterableVariable()" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR" expression="regularExpression(ITERABLE, &quot;(.).*&quot;, &quot;$1&quot;)" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR_EXPR" expression="" defaultValue="VAR" alwaysStopAt="true" />
