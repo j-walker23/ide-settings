@@ -219,4 +219,20 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="ne" value="next($VAR_EXPR$ for $VAR$ in $ITERABLE$$END$)" description="next(comp)" toReformat="true" toShortenFQNames="true">
+    <variable name="ITERABLE" expression="pyIterableVariable()" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR_EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="ned" value="next(($VAR_EXPR$ for $VAR$ in $ITERABLE$$END$), None)" description="next((comp), default=None)" toReformat="true" toShortenFQNames="true">
+    <variable name="ITERABLE" expression="pyIterableVariable()" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR_EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
