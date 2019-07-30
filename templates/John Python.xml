@@ -90,7 +90,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="dbrel" value="$prop$: : Union[Column, List['sql.$model$']] = relationship('$model$', cascade='all, delete-orphan', passive_deletes=True)" description="one to many" toReformat="true" toShortenFQNames="true">
+  <template name="dbrel" value="$prop$: Union[Column, List['sql.$model$']] = relationship('$model$', cascade='all, delete-orphan', passive_deletes=True)" description="one to many" toReformat="true" toShortenFQNames="true">
     <variable name="prop" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="model" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
