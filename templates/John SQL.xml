@@ -22,4 +22,12 @@
       <option name="SQL_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="seli" value="select $col$&#10;from $table$ $alias$&#10;;" description="select item" toReformat="false" toShortenFQNames="false">
+    <variable name="table" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="alias" expression="regularExpression(table, &quot;(.).*&quot;, &quot;$1&quot;)" defaultValue="" alwaysStopAt="false" />
+    <variable name="col" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SQL_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
