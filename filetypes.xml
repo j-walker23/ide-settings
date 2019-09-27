@@ -5,20 +5,20 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern=".prettierrc" type="JSON" />
-      <mapping ext="one" type="JSON" />
       <mapping ext="lock" type="JSON" />
-      <mapping pattern=".sentrycliignore" type="PLAIN_TEXT" />
+      <mapping ext="one" type="JSON" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
-      <mapping ext="old" type="PLAIN_TEXT" />
+      <mapping pattern=".sentrycliignore" type="PLAIN_TEXT" />
       <mapping ext="rtf" type="PLAIN_TEXT" />
+      <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="model" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="socket_params" type="nginx file type" />
       <mapping pattern="proxy_params" type="nginx file type" />
-      <mapping pattern="socialclime" type="nginx file type" />
+      <mapping pattern="socket_params" type="nginx file type" />
       <mapping pattern="medrank" type="nginx file type" />
+      <mapping pattern="socialclime" type="nginx file type" />
       <mapping ext="conf" type="nginx file type" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
