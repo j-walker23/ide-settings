@@ -74,4 +74,11 @@
     </context>
   </template>
   <template name="srt" value=".sort((a, b) =&gt; a.name.localeCompare(b.name))&#10;$END$" description=".sort((a, b) =&gt; a.name.localeCompare(b.name))" toReformat="true" toShortenFQNames="true" />
+  <template name="pr" value="console.log('$val$', $val$)" description="console.log" toReformat="true" toShortenFQNames="true">
+    <variable name="val" expression="clipboard()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
