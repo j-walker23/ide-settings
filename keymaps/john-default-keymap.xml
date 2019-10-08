@@ -33,6 +33,10 @@
   <action id="DatabaseView.CopyAction" />
   <action id="DatabaseView.GenerateDDLAction" />
   <action id="DatabaseView.PropertiesAction" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="DebugClass">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
     <keyboard-shortcut first-keystroke="shift meta quote" />
@@ -41,9 +45,6 @@
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup">
     <keyboard-shortcut first-keystroke="meta d" />
-  </action>
-  <action id="DirDiffMenu.EnableNotEqual">
-    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="Django.RunManageTaskAction" />
   <action id="EditorCutLineEnd" />
