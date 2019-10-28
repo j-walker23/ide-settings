@@ -15,11 +15,6 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="proxy_params" type="nginx file type" />
-      <mapping pattern="socket_params" type="nginx file type" />
-      <mapping pattern="medrank" type="nginx file type" />
-      <mapping pattern="socialclime" type="nginx file type" />
-      <mapping ext="conf" type="nginx file type" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
@@ -28,6 +23,11 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping ext="conf" type="nginx file type" />
+      <mapping pattern="medrank" type="nginx file type" />
+      <mapping pattern="proxy_params" type="nginx file type" />
+      <mapping pattern="socialclime" type="nginx file type" />
+      <mapping pattern="socket_params" type="nginx file type" />
     </extensionMap>
   </component>
 </application>
