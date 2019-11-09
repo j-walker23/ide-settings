@@ -257,4 +257,9 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="annot" value="from __future__ import annotations" description="from __future__ import annotations" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
