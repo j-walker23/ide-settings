@@ -243,7 +243,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="dbus" value="$col$: Union[Column, &quot;sql.$type$&quot;]" description="db col union type sql model" toReformat="true" toShortenFQNames="true">
+  <template name="dbuo" value="$col$: Union[Column, &quot;sql.$type$&quot;]" description="db col union type sql model" toReformat="true" toShortenFQNames="true">
     <variable name="col" expression="clipboard()" defaultValue="" alwaysStopAt="false" />
     <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
