@@ -47,26 +47,26 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="dbs" value="$p$: Union[Column, str] = Column(String($v$)$END$)" description="db.String" toReformat="true" toShortenFQNames="true">
+  <template name="dbs" value="$p$: Col[str] = Column(String($v$)$END$)" description="db.String" toReformat="true" toShortenFQNames="true">
     <variable name="p" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="v" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="dbb" value="$p$: Union[Column, bool] = Column(Boolean, nullable=False, default=False)$END$" description="db.Boolean" toReformat="true" toShortenFQNames="true">
+  <template name="dbb" value="$p$: Col[bool] = Column(Boolean, nullable=False, default=False)$END$" description="db.Boolean" toReformat="true" toShortenFQNames="true">
     <variable name="p" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="dbd" value="$p$: Union[Column, Arrow] = Column(ArrowType$END$)" description="db.Datetim" toReformat="true" toShortenFQNames="true">
+  <template name="dbd" value="$p$: Col[Arrow] = Column(ArrowType$END$)" description="db.Datetim" toReformat="true" toShortenFQNames="true">
     <variable name="p" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="dbcol" value="$p$: Union[Column, $type$] = Column($n$)" description="db.Col" toReformat="true" toShortenFQNames="true">
+  <template name="dbcol" value="$p$: Col[$type$] = Column($n$)" description="db.Col" toReformat="true" toShortenFQNames="true">
     <variable name="p" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="n" expression="" defaultValue="" alwaysStopAt="true" />
@@ -74,7 +74,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="dbrelm" value="$prop$: Union[Column, List['sql.$model$']] = relationship('$model$', secondary='$sec$', backref=backref('$back$'))" description="many to many" toReformat="true" toShortenFQNames="true">
+  <template name="dbrelm" value="$prop$: ColMany[sql.$model$] = relationship('$model$', secondary='$sec$', backref=backref('$back$'))" description="many to many" toReformat="true" toShortenFQNames="true">
     <variable name="prop" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="model" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="sec" expression="" defaultValue="" alwaysStopAt="true" />
@@ -83,33 +83,33 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="dbkey" value="$p$: Union[Column, int] = Column(Integer, ForeignKey('$n$', **const.FK_DEL), nullable=False$END$)" description="FoeignKey" toReformat="true" toShortenFQNames="true">
+  <template name="dbkey" value="$p$: Col[int] = Column(Integer, ForeignKey('$n$', **const.FK_DEL), nullable=False$END$)" description="FoeignKey" toReformat="true" toShortenFQNames="true">
     <variable name="p" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="n" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="dbrel" value="$prop$: Union[Column, List['sql.$model$']] = relationship('$model$', cascade='all, delete-orphan', passive_deletes=True)" description="one to many" toReformat="true" toShortenFQNames="true">
+  <template name="dbrel" value="$prop$: ColMany[sql.$model$] = relationship('$model$', cascade='all, delete-orphan', passive_deletes=True)" description="one to many" toReformat="true" toShortenFQNames="true">
     <variable name="prop" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="model" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="dbt" value="$p$: Union[Column, str] = Column(Text)$END$" description="db.Text" toReformat="true" toShortenFQNames="true">
+  <template name="dbt" value="$p$: Col[str] = Column(Text)$END$" description="db.Text" toReformat="true" toShortenFQNames="true">
     <variable name="p" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="dbi" value="$p$: Union[Column, int] = Column(Integer)$END$" description="db.Integer" toReformat="true" toShortenFQNames="true">
+  <template name="dbi" value="$p$: Col[int] = Column(Integer)$END$" description="db.Integer" toReformat="true" toShortenFQNames="true">
     <variable name="p" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="dbf" value="$p$: Union[Column, float] = Column(Float)$END$" description="db.Float" toReformat="true" toShortenFQNames="true">
+  <template name="dbf" value="$p$: Col[float] = Column(Float)$END$" description="db.Float" toReformat="true" toShortenFQNames="true">
     <variable name="p" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
@@ -128,7 +128,7 @@
       <option name="Python_Class" value="false" />
     </context>
   </template>
-  <template name="dbj" value="$p$: Union[Column, Dict] = Column(JSONType())" description="JSONType" toReformat="true" toShortenFQNames="true">
+  <template name="dbj" value="$p$: Col[Dict] = Column(JSONType())" description="JSONType" toReformat="true" toShortenFQNames="true">
     <variable name="p" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
@@ -141,8 +141,9 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="dbe" value="$p$: Union[Column, $clas$] = Column(EnumType($clas$), default=$clas$$END$)" description="db.Enum" toReformat="true" toShortenFQNames="true">
+  <template name="dbe" value="$p$: Col[$class$] = Column(EnumType($clas$), default=$clas$$END$)" description="db.Enum" toReformat="true" toShortenFQNames="true">
     <variable name="p" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="clas" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
@@ -153,7 +154,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="dbrelo" value="$prop$: Union[Column, 'sql.$model$'] = relationship('$model$', uselist=False)" description="one to one" toReformat="true" toShortenFQNames="true">
+  <template name="dbrelo" value="$prop$: Col[sql.$model$] = relationship('$model$', uselist=False)" description="one to one" toReformat="true" toShortenFQNames="true">
     <variable name="prop" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="model" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -236,21 +237,21 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="dbu" value="$col$: Union[Column, $type$]" description="db col union type" toReformat="true" toShortenFQNames="true">
+  <template name="dut" value="$col$: Col[$type$]" description="db col union type" toReformat="true" toShortenFQNames="true">
     <variable name="col" expression="clipboard()" defaultValue="" alwaysStopAt="false" />
     <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="dbuo" value="$col$: Union[Column, &quot;sql.$type$&quot;]" description="db col union type sql model" toReformat="true" toShortenFQNames="true">
+  <template name="duo" value="$col$: Col[sql.$type$]" description="db col union type sql model" toReformat="true" toShortenFQNames="true">
     <variable name="col" expression="clipboard()" defaultValue="" alwaysStopAt="false" />
     <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="dbum" value="$col$: Union[Column, List[&quot;sql.$type$&quot;]]" description="db col union type sql model list" toReformat="true" toShortenFQNames="true">
+  <template name="dum" value="$col$: ColMany[sql.$type$]" description="db col union type sql model list" toReformat="true" toShortenFQNames="true">
     <variable name="col" expression="clipboard()" defaultValue="" alwaysStopAt="false" />
     <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
