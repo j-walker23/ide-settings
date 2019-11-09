@@ -6,7 +6,10 @@
   <action id="ActivatePythonConsoleToolWindow">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
-  <action id="ActivateServicesToolWindow" />
+  <action id="ActivateServicesToolWindow">
+    <keyboard-shortcut first-keystroke="meta 6" />
+  </action>
+  <action id="ActivateTODOToolWindow" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down">
     <keyboard-shortcut first-keystroke="shift g" />
   </action>
