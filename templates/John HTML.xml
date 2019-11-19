@@ -35,4 +35,11 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template name="swi" value="&lt;switch-hint ng-model=&quot;ctrl.note.$model$&quot; label=&quot;$label$&quot;&gt;&#10;  $END$&#10;&lt;/switch-hint&gt;&#10;" description="switch-hint" toReformat="true" toShortenFQNames="true">
+    <variable name="model" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="label" expression="clipboard()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
 </templateSet>
