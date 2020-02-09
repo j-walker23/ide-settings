@@ -47,28 +47,27 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="dbs" value="$p$: Col[str] = Column(String($v$)$END$)" description="db.String" toReformat="true" toShortenFQNames="true">
+  <template name="dbs" value="$p$: ColStr = Column(String($v$)$END$)" description="db.String" toReformat="true" toShortenFQNames="true">
     <variable name="p" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="v" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="dbb" value="$p$: Col[bool] = Column(Boolean, nullable=False, default=False)$END$" description="db.Boolean" toReformat="true" toShortenFQNames="true">
+  <template name="dbb" value="$p$: ColBool = Column(Boolean, nullable=False, default=False)$END$" description="db.Boolean" toReformat="true" toShortenFQNames="true">
     <variable name="p" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="dbd" value="$p$: Col[Arrow] = Column(ArrowType$END$)" description="db.Datetim" toReformat="true" toShortenFQNames="true">
+  <template name="dbd" value="$p$: ColDate = Column(ArrowType$END$)" description="db.Datetim" toReformat="true" toShortenFQNames="true">
     <variable name="p" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="dbcol" value="$p$: Col[$type$] = Column($n$)" description="db.Col" toReformat="true" toShortenFQNames="true">
+  <template name="dbcol" value="$p$: ColInt = Column($n$)" description="db.Col" toReformat="true" toShortenFQNames="true">
     <variable name="p" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="n" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
@@ -97,19 +96,19 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="dbt" value="$p$: Col[str] = Column(Text)$END$" description="db.Text" toReformat="true" toShortenFQNames="true">
+  <template name="dbt" value="$p$: ColStr = Column(Text)$END$" description="db.Text" toReformat="true" toShortenFQNames="true">
     <variable name="p" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="dbi" value="$p$: Col[int] = Column(Integer)$END$" description="db.Integer" toReformat="true" toShortenFQNames="true">
+  <template name="dbi" value="$p$: ColInt = Column(Integer)$END$" description="db.Integer" toReformat="true" toShortenFQNames="true">
     <variable name="p" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="dbf" value="$p$: Col[float] = Column(Float)$END$" description="db.Float" toReformat="true" toShortenFQNames="true">
+  <template name="dbf" value="$p$: ColFloat = Column(Float)$END$" description="db.Float" toReformat="true" toShortenFQNames="true">
     <variable name="p" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
@@ -128,7 +127,7 @@
       <option name="Python_Class" value="false" />
     </context>
   </template>
-  <template name="dbj" value="$p$: Col[Dict] = Column(JSONType())" description="JSONType" toReformat="true" toShortenFQNames="true">
+  <template name="dbj" value="$p$: ColDict = Column(JSONType())" description="JSONType" toReformat="true" toShortenFQNames="true">
     <variable name="p" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
@@ -141,9 +140,8 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="dbe" value="$p$: Col[$class$] = Column(EnumType($clas$), default=$clas$$END$)" description="db.Enum" toReformat="true" toShortenFQNames="true">
+  <template name="dbe" value="$p$ = Column(EnumType($clas$), default=$clas$$END$)" description="db.Enum" toReformat="true" toShortenFQNames="true">
     <variable name="p" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="clas" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
