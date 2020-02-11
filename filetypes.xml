@@ -4,20 +4,20 @@
     <extensionMap>
       <removed_mapping ext="conf" approved="true" type="HOCON" />
       <mapping pattern=".prettierrc" type="JSON" />
-      <mapping ext="lock" type="JSON" />
       <mapping ext="one" type="JSON" />
-      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="JSON" />
       <mapping pattern=".sentrycliignore" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="rtf" type="PLAIN_TEXT" />
-      <mapping ext="old" type="PLAIN_TEXT" />
+      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping ext="model" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="old" type="PLAIN_TEXT" />
+      <mapping ext="rtf" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="git-hf-bug" type="Shell Script" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="git-hf-chore" type="Shell Script" />
       <mapping pattern="git-hf-refactor" type="Shell Script" />
+      <mapping pattern="git-hf-bug" type="Shell Script" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
