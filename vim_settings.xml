@@ -24,6 +24,7 @@
         <entry>router</entry>
         <entry>Squ</entry>
         <entry>RAB</entry>
+        <entry>log</entry>
         <entry>asdf</entry>
       </history-search>
       <history-cmd>
@@ -83,120 +84,107 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1586449950745">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/boost/boost-menu.html" timestamp="1586902880894">
+        <mark key="[" line="24" column="38" />
+        <mark key="]" line="24" column="49" />
+        <mark key="." line="24" column="48" />
+        <mark key="^" line="24" column="49" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/ads/feeds/feed_items.py" timestamp="1586469768716">
-        <mark key="[" line="55" column="48" />
-        <mark key="]" line="55" column="47" />
-        <mark key="." line="55" column="47" />
-        <mark key="^" line="55" column="47" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/boost/details/boost-details.ts" timestamp="1586903296917">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1586883816154">
-        <mark key="'" line="1163" column="22" />
-        <mark key="[" line="1182" column="18" />
-        <mark key="]" line="1183" column="27" />
-        <mark key="." line="1183" column="26" />
-        <mark key="^" line="1183" column="27" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/vitally/event.py" timestamp="1586900726239">
+        <mark key="[" line="385" column="58" />
+        <mark key="]" line="385" column="74" />
+        <mark key="." line="385" column="73" />
+        <mark key="^" line="385" column="74" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/provider/__init__.py" timestamp="1586428941249">
-        <mark key="'" line="54" column="2" />
-        <mark key="[" line="108" column="45" />
-        <mark key="]" line="108" column="43" />
-        <mark key="^" line="108" column="43" />
-        <mark key="." line="108" column="43" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/tasks/boosting/sync.py" timestamp="1586902263469">
+        <mark key="'" line="29" column="4" />
+        <mark key="[" line="49" column="31" />
+        <mark key="]" line="49" column="28" />
+        <mark key="." line="49" column="27" />
+        <mark key="^" line="49" column="28" />
       </file>
-      <file name="/console" timestamp="1586894318570">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/ads/codes.py" timestamp="1586899825851">
+        <mark key="[" line="17" column="98" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1586888167568">
-        <mark key="'" line="55" column="22" />
-        <mark key="[" line="77" column="13" />
-        <mark key="]" line="77" column="17" />
-        <mark key="." line="77" column="17" />
-        <mark key="^" line="77" column="17" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/ads/syncing/boosts.py" timestamp="1586900988590">
+        <mark key="'" line="51" column="6" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/migrations/versions/26ac500172e9__109.py" timestamp="1586452406945">
+      <file name="$USER_HOME$/code/sc/web/sc/app/boost/manage.py" timestamp="1586899663721">
+        <mark key="[" line="41" column="35" />
+        <mark key="]" line="41" column="38" />
+        <mark key="^" line="41" column="38" />
+        <mark key="." line="41" column="37" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/ads/feeds/feed_items.py" timestamp="1586899346888">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="63" column="27" />
+        <mark key="." line="74" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/boosts/boost_view.py" timestamp="1586903155607">
+        <mark key="'" line="79" column="34" />
+        <mark key="[" line="125" column="37" />
+        <mark key="]" line="125" column="45" />
+        <mark key="." line="125" column="44" />
+        <mark key="^" line="125" column="45" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/common/resource.ts" timestamp="1586901563519">
+        <mark key="[" line="358" column="58" />
+        <mark key="]" line="358" column="71" />
+        <mark key="^" line="358" column="71" />
+        <mark key="." line="358" column="70" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/boost/details/ad-schedule/ad-hours/ad-hours.ts" timestamp="1586898993694">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="42" column="7" />
+        <mark key="]" line="42" column="5" />
+        <mark key="^" line="42" column="5" />
+        <mark key="." line="42" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/ads/syncing/changes.py" timestamp="1586903123677" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/ads/multi.py" timestamp="1586903823501">
         <mark key="'" line="36" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="32" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="56" column="40" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/settings/preferences/preferences.ts" timestamp="1586466298022">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/boost/details/shared-negative-keywords/shared-negative-keywords.ts" timestamp="1586899001314">
+        <mark key="[" line="5" column="54" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/components/http-error/http-error.ts" timestamp="1586436612741">
-        <mark key="'" line="33" column="13" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/boost/details/ad-schedule/ad-schedule.ts" timestamp="1586898982093">
+        <mark key="'" line="12" column="12" />
+        <mark key="[" line="41" column="9" />
+        <mark key="]" line="41" column="7" />
+        <mark key="^" line="41" column="7" />
+        <mark key="." line="41" column="6" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj.txt" timestamp="1586894299928">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/boost/boost.ts" timestamp="1586903721758">
+        <mark key="'" line="235" column="2" />
+        <mark key="[" line="112" column="68" />
+        <mark key="]" line="113" column="6" />
+        <mark key="." line="113" column="5" />
+        <mark key="^" line="113" column="6" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/boost/boost.ts" timestamp="1586429392986">
-        <mark key="'" line="302" column="2" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/bulk/incoming.py" timestamp="1586462626938">
-        <mark key="'" line="66" column="27" />
-      </file>
-      <file name="/a.sql" timestamp="1586449950734">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1586441253921">
-        <mark key="'" line="1828" column="0" />
-        <mark key="[" line="1830" column="8" />
-        <mark key="]" line="1830" column="20" />
-        <mark key="." line="1830" column="20" />
-        <mark key="^" line="1830" column="20" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1586472935962">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-        <mark key="^" line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/user/__init__.py" timestamp="1586466889607">
-        <mark key="[" line="96" column="2" />
-        <mark key="]" line="96" column="10" />
-        <mark key="." line="96" column="10" />
-        <mark key="^" line="96" column="10" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/nav-toolbar.html" timestamp="1586466368593">
-        <mark key="[" line="81" column="58" />
-        <mark key="]" line="81" column="68" />
-        <mark key="^" line="81" column="68" />
-        <mark key="." line="81" column="68" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1586469571567">
-        <mark key="[" line="301" column="0" />
-        <mark key="]" line="301" column="0" />
-        <mark key="." line="301" column="0" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/boost/boost.html" timestamp="1586901155726" />
+      <file name="$USER_HOME$/code/sc/web/sc/sql/ad/enums.py" timestamp="1586903764101">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/settings/settings.html" />
-      <jump line="12" column="8" filename="$USER_HOME$/code/sc/web/static/web/views/settings/settings.html" />
-      <jump line="184" column="28" filename="$USER_HOME$/code/sc/web/sc/sql/platform/auth_loc/__init__.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/code/sc/web/sc/app/tasks/saevents/vitally.py" />
-      <jump line="67" column="10" filename="$USER_HOME$/code/sc/web/static/common/common.conf.ts" />
-      <jump line="66" column="23" filename="$USER_HOME$/code/sc/web/static/web/views/boost/playbooks/details/playbook-details.html" />
-      <jump line="227" column="24" filename="$USER_HOME$/code/sc/web/sc/app/tasks/syncing.py" />
-      <jump line="66" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/boost/playbooks/details/playbook-details.ts" />
-      <jump line="24" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/boost/playbooks/details/playbook-details.ts" />
-      <jump line="76" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/boost/playbooks/playbooks.ts" />
-      <jump line="542" column="47" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
-      <jump line="22" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/reviews/item/fb-comments/fb-comments.ts" />
-      <jump line="1141" column="15" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
-      <jump line="36" column="71" filename="$USER_HOME$/code/sc/web/static/web/views/boost/details/boost-details.html" />
-      <jump line="130" column="11" filename="$USER_HOME$/code/sc/web/static/web/views/boost/details/boost-details.ts" />
-      <jump line="45" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/boost/details/custom/boost-custom.ts" />
-      <jump line="50" column="9" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
-      <jump line="38" column="29" filename="$USER_HOME$/code/sc/web/sc/app/boost/calls.py" />
-      <jump line="26" column="6" filename="$USER_HOME$/code/sc/web/sc/sql/ad/__init__.py" />
-      <jump line="100" column="6" filename="$USER_HOME$/code/sc/web/sc/app/ads/api.py" />
-      <jump line="140" column="50" filename="$USER_HOME$/code/sc/web/static/web/views/boost/details/boost-details.ts" />
-      <jump line="47" column="14" filename="$USER_HOME$/code/sc/web/static/web/views/boost/details/custom/boost-custom.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/migrations/versions/26ac500172e9__109.py" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
-      <jump line="43" column="17" filename="$USER_HOME$/code/sc/web/sc/sql/twilio/call_tracking_data.py" />
-      <jump line="1652" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
       <jump line="513" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
       <jump line="1688" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/mods/config.py" />
@@ -271,15 +259,41 @@
       <jump line="72" column="20" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
       <jump line="1163" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
       <jump line="55" column="22" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
+      <jump line="1164" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
+      <jump line="53" column="31" filename="$USER_HOME$/code/sc/web/sc/app/ads/syncing/boosts.py" />
+      <jump line="51" column="6" filename="$USER_HOME$/code/sc/web/sc/app/ads/syncing/boosts.py" />
+      <jump line="27" column="4" filename="$USER_HOME$/code/sc/web/sc/app/tasks/boosting/sync.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/boost/manage/boost-manage.ts" />
+      <jump line="28" column="6" filename="$USER_HOME$/code/sc/web/sc/app/ads/feeds/campaigns.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/boost/details/ad-group-tabs/ad-group-tabs.html" />
+      <jump line="43" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/boost/details/ad-group-tabs/ad-group-tabs.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/boost/details/ad-group-tabs/ad-group-tabs.html" />
+      <jump line="38" column="16" filename="$USER_HOME$/code/sc/web/static/web/views/boost/details/ad-group-tabs/ad-group-tabs.ts" />
+      <jump line="8" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/boost/details/ad-group-tabs/ad-group-tabs.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/boost/playbooks/details/playbook-details.html" />
+      <jump line="209" column="30" filename="$USER_HOME$/code/sc/web/static/common/components/grid/grid.ts" />
+      <jump line="49" column="6" filename="$USER_HOME$/code/sc/web/static/web/views/boost/details/ad-group-tabs/ad-group/ad-group.ts" />
+      <jump line="49" column="6" filename="$USER_HOME$/code/sc/web/static/web/views/boost/details/ad-group-tabs/ad-group-tabs.ts" />
+      <jump line="11" column="21" filename="$USER_HOME$/code/sc/web/static/web/views/boost/details/ad-group-tabs/ad-group-tabs.ts" />
+      <jump line="37" column="6" filename="$USER_HOME$/code/sc/web/static/web/views/boost/details/ad-schedule/ad-schedule.ts" />
+      <jump line="13" column="12" filename="$USER_HOME$/code/sc/web/static/web/views/boost/details/ad-schedule/ad-schedule.ts" />
+      <jump line="42" column="4" filename="$USER_HOME$/code/sc/web/static/web/views/boost/details/ad-schedule/ad-hours/ad-hours.ts" />
+      <jump line="10" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/boost/details/ad-schedule/ad-hours/ad-hours.ts" />
+      <jump line="84" column="12" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/boosts/boost_view.py" />
+      <jump line="29" column="6" filename="$USER_HOME$/code/sc/web/sc/app/ads/multi.py" />
+      <jump line="80" column="34" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/boosts/boost_view.py" />
+      <jump line="57" column="6" filename="$USER_HOME$/code/sc/web/sc/app/ads/multi.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/code/sc/web/sc/app/ads/multi.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/code/sc/web/sc/app/ads/multi.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">CgotLS0tLQpXaGF0IHdhcyBwYXRyaWNrIHRhbGtpbmcgYWJvdXQgd2l0aCB0aGUgQVBJIHRoYXQgam9zZSBzZW50IG92ZXI/CkxvY2F0aW9ucy9Qcm92aWRlcnMgVmVyc2lvbnMsIHRoYXRzIGdvaW5nIHRvIHN1Y2suCk5lZWQgdG8gc2V0IGRhdGVzIGZvciB0aGUgdmVyc2lvbiBncm91cHMuCg==</text>
+      <register name="+" type="4">
+        <text>BoostStatus</text>
       </register>
       <register name="-" type="4">
-        <text>prod</text>
+        <text>BoostStatus</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -288,34 +302,34 @@
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgotLS0tLQpXaGF0IHdhcyBwYXRyaWNrIHRhbGtpbmcgYWJvdXQgd2l0aCB0aGUgQVBJIHRoYXQgam9zZSBzZW50IG92ZXI/CkxvY2F0aW9ucy9Qcm92aWRlcnMgVmVyc2lvbnMsIHRoYXRzIGdvaW5nIHRvIHN1Y2suCk5lZWQgdG8gc2V0IGRhdGVzIGZvciB0aGUgdmVyc2lvbiBncm91cHMuCg==</text>
+        <text encoding="base64">CmNsYXNzIEJvb3N0U3RhdHVzKEVudW1CYXNlKToKICAiIiJEaWZmZXJlbnQgdHlwZXMgYW4gYWNjb3VudCBpcyB3aGljaCBkcml2ZXMgdGhlIHNldHVwIHByb2Nlc3MiIiIKCiAgUEVORElORywgVU5LTk9XTiwgRU5BQkxFRCwgUEFVU0VELCBSRU1PVkVELCBESVNBUFBST1ZFRCA9IHJhbmdlKDEsIDcpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LSBOb25lIG9mIHRoZSBBZE11bHRpQ3J1ZCBzaGl0IHdhcyBldmVyIGZpeGVkLgotIEJsYW5rIG91dCBFeHRlbnNpb24gY29sdW1uIHdoZW4gdGhlcmUgaXMgbm90aGluZyB0byBzaG93Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">d2hlcmUgCg==</text>
+        <text encoding="base64">ICAgICAgZ2V0U3RhdGUoKS5nbygnLmN1c3RvbScpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKGYnJykKICAgICMgbm9pbnNwZWN0aW9uIFB5VHlwZUNoZWNrZXIKICAgICMgZGF0YSA9IHsKICAgICMgICBrOiBib28uZmVlZF9pdGVtW2tdLm5hbWUKICAgICMgICBmb3IgayBpbiBwaWNrKGJvby5mZWVkX2l0ZW0sICJzdGF0dXMiLCAibG9jX3N0YXR1cyIsICJ0YXJnZXRfc3RhdHVzIiwgImxvY19hcHByb3ZhbCIpCiAgICAjIH0K</text>
+        <text encoding="base64">ICAgICAgdGhpcy4kcmVzLmVudGl0eSA9IHRoaXMuYm9vCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBib29zOiBMaXN0W0Jvb3N0XSA9IEJvb3N0LnNlYXJjaChCb29zdC5nZW8uaGFzKCksIGZpZWxkcz0nYWwuaW4oKSxjYWxsX3RyYWNrZXIuaW4oKScpLmFsbCgpCgogIGZvciBib28gaW4gYm9vczoKICAgIGFsID0gYm9vLmFsCiAgICBpZiBhbC5hZF9waG9uZSAhPSBib28uY2FsbF90cmFja2VyLmluY29taW5nX251bWJlcjoKICAgICAgcGxhdHMubGlzdGluZ3MoYWwpLnBhdGNoX2xpc3RpbmcoeyJhZF9waG9uZSI6IGJvby5jYWxsX3RyYWNrZXIuaW5jb21pbmdfbnVtYmVyfSkKICAgICAgcHJpbnQoJ0JhZCcsIGJvby5hZG5hbWUsIGFsLmFkX3Bob25lLCBib28uY2FsbF90cmFja2VyLmluY29taW5nX251bWJlcikK</text>
+        <text encoding="base64">CiAgZGVmIG11dGF0ZShzZWxmLCBvcHM6IFVuaW9uW0FueSwgTGlzdFtBbnldXSk6CiAgICAiIiIiIiIKICAgIHJldHVybiBzZWxmLnNlcnZpY2UubXV0YXRlKHNlbGYuY2lkLCB1dGlscy50b19saXN0KG9wcykpLm11dGF0ZV9vcGVyYXRpb25fcmVzcG9uc2VzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgcmVtb3ZlQWQoYm9vOiBCb29zdCkgewogICAgcmV0dXJuIGJvbwogICAgICAucmVtb3ZlKHsgbm90aWZ5OiAnUmVtb3ZlZCcgfSkKICAgICAgLnRoZW4oKCkgPT4gKGJvby5zdGF0dXMgPSBBZFN0YXR1cy5SRU1PVkVEKSkKICAgICAgLnRoZW4oKCkgPT4gYm9vLmNsZWFyKCkpCiAgfQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBsZXQgZGlhbCA9IGdldERpYWxvZygpCiAgICBkaWFsCiAgICAgIC5zaG93KAogICAgICAgIGRpYWwKICAgICAgICAgIC5jb25maXJtKCkKICAgICAgICAgIC50aXRsZSgnQXJlIHlvdSBzdXJlPycpCiAgICAgICAgICAudGV4dENvbnRlbnQoJ1RoaXMgd2lsbCByZW1vdmUgYSBydW5uaW5nIEFkLicpCiAgICAgICAgICAub2soJ0RvIGl0JykKICAgICAgICAgIC5jYW5jZWwoJ0JhY2sgYXdheSBzbG93bHknKSwKICAgICAgKQogICAgICAudGhlbigoKSA9PiB0aGlzLnJlbW92ZUFkKGJvbyksIElHTk9SRV9DQU5DRUwpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAjIGNydWQgPSBhZHMubWFrZShBZHNDcnVkKQogICAgIyBmb3IgYm9vIGluIGJvb3M6CiAgICAjICAgY3J1ZC5yZW1vdmUoYm9vKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
