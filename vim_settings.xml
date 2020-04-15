@@ -84,16 +84,41 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1586964399939">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/boost/details/boost-details.ts" timestamp="1586903296917">
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/boosts/boost_view.py" timestamp="1586903155607">
+        <mark key="'" line="79" column="34" />
+        <mark key="[" line="125" column="37" />
+        <mark key="]" line="125" column="45" />
+        <mark key="." line="125" column="44" />
+        <mark key="^" line="125" column="45" />
+      </file>
       <file name="/Python Console" timestamp="1586907250998">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console" timestamp="1586906207183">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1586906223063">
+        <mark key="[" line="1193" column="0" />
+        <mark key="]" line="1193" column="0" />
+        <mark key="." line="1193" column="0" />
+      </file>
+      <file name="/console" timestamp="1586971790430">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/ads/syncing/changes.py" timestamp="1586907883682">
+        <mark key="'" line="57" column="41" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/ads/multi.py" timestamp="1586903823501">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="32" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="56" column="40" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/ads/globals/change_status.py" timestamp="1586907919907">
         <mark key="'" line="71" column="2" />
@@ -114,49 +139,28 @@
         <mark key="^" line="9" column="24" />
         <mark key="." line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1586966307891">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="3" />
-        <mark key="^" line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/webpacks/serve.ts" timestamp="1586964842413" />
-      <file name="$USER_HOME$/code/sc/web/webpacks/shares/devs.ts" timestamp="1586965055282" />
-      <file name="/Dummy.txt" timestamp="1586964399939">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/boosts/boost_view.py" timestamp="1586903155607">
-        <mark key="'" line="79" column="34" />
-        <mark key="[" line="125" column="37" />
-        <mark key="]" line="125" column="45" />
-        <mark key="." line="125" column="44" />
-        <mark key="^" line="125" column="45" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1586906223063">
-        <mark key="[" line="1193" column="0" />
-        <mark key="]" line="1193" column="0" />
-        <mark key="." line="1193" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/ads/syncing/changes.py" timestamp="1586907883682">
-        <mark key="'" line="57" column="41" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/ads/multi.py" timestamp="1586903823501">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="32" />
-        <mark key="." line="56" column="0" />
-        <mark key="^" line="56" column="40" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/ad/enums.py" timestamp="1586903764101">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1586971908206">
+        <mark key="[" line="1837" column="19" />
+        <mark key="]" line="1837" column="21" />
+        <mark key="^" line="1837" column="21" />
+        <mark key="." line="1837" column="20" />
       </file>
       <file name="$USER_HOME$/code/sc/web/webpack.config.ts" timestamp="1586964418413">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="4" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1586966307891">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="3" />
+        <mark key="^" line="0" column="4" />
       </file>
       <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1586966404844">
         <mark key="'" line="302" column="6" />
@@ -272,10 +276,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>60295</text>
+        <text>401</text>
       </register>
       <register name="-" type="4">
-        <text>60295</text>
+        <text>401</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
