@@ -25,8 +25,9 @@
         <entry>Squ</entry>
         <entry>RAB</entry>
         <entry>log</entry>
-        <entry>asdf</entry>
         <entry>hjcli</entry>
+        <entry>dry=</entry>
+        <entry>asdf</entry>
       </history-search>
       <history-cmd>
         <entry>SplitVertically</entry>
@@ -86,12 +87,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" timestamp="1586991378271">
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" timestamp="1587003646300">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="43" column="23" />
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="0" />
+        <mark key="." line="117" column="0" />
+        <mark key="^" line="117" column="32" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" timestamp="1586989682991">
         <mark key="'" line="596" column="22" />
@@ -106,9 +107,6 @@
         <mark key="^" line="28" column="16" />
         <mark key="." line="28" column="15" />
       </file>
-      <file name="/fragment.js" timestamp="1586983135654">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1586988805855">
         <mark key="'" line="1170" column="22" />
         <mark key="[" line="1193" column="1" />
@@ -116,20 +114,17 @@
         <mark key="." line="1213" column="0" />
         <mark key="^" line="1213" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/cli/apis/hj.py" timestamp="1586996040249">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/code/sc/web/cli/apis/hj.py" timestamp="1587005155548">
+        <mark key="'" line="101" column="21" />
+        <mark key="[" line="111" column="23" />
+        <mark key="]" line="111" column="23" />
+        <mark key="." line="111" column="22" />
+        <mark key="^" line="111" column="23" />
       </file>
-      <file name="/console" timestamp="1586998698171">
+      <file name="/console" timestamp="1587003082161">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/auth.py" timestamp="1586986000826">
-        <mark key="[" line="74" column="28" />
-        <mark key="]" line="74" column="31" />
-        <mark key="." line="74" column="30" />
-        <mark key="^" line="74" column="31" />
-      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/ads/models/campaigns.py" timestamp="1587003489469" />
       <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1586993310730">
         <mark key="'" line="83" column="0" />
       </file>
@@ -140,26 +135,30 @@
         <mark key="^" line="27" column="46" />
         <mark key="." line="27" column="45" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/unloading.py" timestamp="1586991176006">
-        <mark key="'" line="40" column="17" />
-        <mark key="[" line="50" column="49" />
-        <mark key="]" line="50" column="63" />
-        <mark key="." line="50" column="62" />
-        <mark key="^" line="50" column="63" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" timestamp="1587004469647">
+        <mark key="[" line="228" column="73" />
+        <mark key="]" line="228" column="78" />
+        <mark key="^" line="228" column="78" />
+        <mark key="." line="228" column="81" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/converter.py" timestamp="1586996222988">
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/unloading.py" timestamp="1587005453703">
+        <mark key="'" line="153" column="35" />
+        <mark key="[" line="58" column="59" />
+        <mark key="]" line="58" column="59" />
+        <mark key="." line="58" column="58" />
+        <mark key="^" line="58" column="59" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/converter.py" timestamp="1587004490476">
         <mark key="'" line="117" column="0" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="^" line="73" column="33" />
-        <mark key="." line="74" column="0" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/base.py" timestamp="1586991343276">
-        <mark key="'" line="153" column="6" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="^" line="77" column="0" />
-        <mark key="." line="75" column="0" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/base.py" timestamp="1587003693639">
+        <mark key="'" line="133" column="6" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/unloader.py" timestamp="1586991494887">
         <mark key="'" line="83" column="26" />
@@ -168,18 +167,24 @@
         <mark key="." line="65" column="17" />
         <mark key="^" line="64" column="33" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/ads/base.py" timestamp="1587003246085" />
       <file name="$USER_HOME$/code/sc/web/sc/app/tasks/hj/collecting.py" timestamp="1586988515266">
         <mark key="'" line="45" column="0" />
       </file>
+      <file name="/hj.py" timestamp="1587005540845" />
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/procedure.py" timestamp="1587003825229" />
       <file name="$USER_HOME$/code/sc/web/cli/machine.py" timestamp="1586996168882">
         <mark key="'" line="103" column="1" />
         <mark key="[" line="47" column="17" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1587005615966">
+        <mark key="[" line="339" column="4" />
+        <mark key="]" line="339" column="9" />
+        <mark key="." line="339" column="8" />
+        <mark key="^" line="339" column="9" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/common/common.conf.ts" />
-      <jump line="19" column="10" filename="$USER_HOME$/code/sc/web/static/web/web.conf.ts" />
-      <jump line="0" column="38" filename="$USER_HOME$/code/sc/web/static/web/web.conf.ts" />
       <jump line="108" column="45" filename="$USER_HOME$/code/sc/web/static/web/web.conf.ts" />
       <jump line="291" column="2" filename="$USER_HOME$/code/sc/web/static/web/views/boost/boost.ts" />
       <jump line="14" column="9" filename="$USER_HOME$/code/sc/web/static/web/views/boost/audit/boost-audit.ts" />
@@ -246,7 +251,6 @@
       <jump line="324" column="35" filename="$USER_HOME$/code/sc/web/cli/john.py" />
       <jump line="302" column="6" filename="$USER_HOME$/code/sc/web/cli/john.py" />
       <jump line="41" column="0" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/unloading.py" />
-      <jump line="153" column="15" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/unloading.py" />
       <jump line="124" column="5" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/converter.py" />
       <jump line="574" column="36" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
       <jump line="110" column="25" filename="$USER_HOME$/code/sc/web/sc/app/tasks/hj/collecting.py" />
@@ -254,7 +258,6 @@
       <jump line="83" column="26" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/unloader.py" />
       <jump line="64" column="33" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/converter.py" />
       <jump line="22" column="0" filename="$USER_HOME$/code/sc/web/sc/app/tasks/hj/unloading.py" />
-      <jump line="50" column="24" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/unloading.py" />
       <jump line="153" column="6" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/base.py" />
       <jump line="124" column="0" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" />
       <jump line="341" column="0" filename="$USER_HOME$/code/sc/web/cli/apis/hj.py" />
@@ -277,51 +280,56 @@
       <jump line="23" column="18" filename="$USER_HOME$/code/sc/web/cli/machine.py" />
       <jump line="231" column="0" filename="$USER_HOME$/code/sc/web/cli/machine.py" />
       <jump line="102" column="1" filename="$USER_HOME$/code/sc/web/cli/machine.py" />
+      <jump line="58" column="58" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/unloading.py" />
+      <jump line="50" column="51" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/unloading.py" />
+      <jump line="147" column="39" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/unloading.py" />
+      <jump line="153" column="35" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/unloading.py" />
+      <jump line="101" column="21" filename="$USER_HOME$/code/sc/web/cli/apis/hj.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">CgpAaGpjbGkuY29tbWFuZCgpCkBsb2FkX2FwcApAYXBwX2N0eCg3NjApCmRlZiB3dGYoKToKICAiIiIiIiIKICBhY2MgPSBnZXRfYWNjKCkKICBzdiA9IGhqcy51bmxvYWQudW5sb2FkaW5nKGFjYy5oaiwgdHk9ImMiKQogIGZvciBjIGluIHN2LmNvbnZlcnRlcnM6CiAgICBmb3Igcm93IGluIGMudW5sb2FkZXIucmVhZF9maWxlKCk6CiAgICAgIHJlcyA9IGMucmF3X2Nscy5wYXJzZV9vYmoocm93KS5kaWN0KCkKICAgICAgcHJldHR5KHJlcywgRmFsc2UpCiAgICAgIGJyZWFrCgoKQGhqY2xpLmNvbW1hbmQoKQpAb3B0aW9uKCItLWFpZCIpCkBsb2FkX2FwcApkZWYgZW5jX3R5cGVzKGFpZCk6CiAgIiIiIiIiCiAgYWlkcyA9IHV0aWxzLnRvX2xpc3QoYWlkKQogIGlmIG5vdCBhaWRzOgogICAgYWlkcyA9IFs3NjAsIDY0MSwgNzE3XQogIGZvciBhaWQgaW4gYWlkczoKICAgIHdpdGggYWNjX2JpbmQoYWlkKToKICAgICAgYWNjID0gZ2V0X2FjYygpCiAgICAgIGZvciBjaWQgaW4gYWNjLmhqLmNpZHM6CiAgICAgICAgc3YgPSBoanMuZW5jb3VudGVycy5wcm9jZXNzKGNpZCkKICAgICAgICBzdi53aXBlKCkKICAgICAgICBzdi5pbnNlcnRfZW5jb3VudGVycygpCg==</text>
+      <register name="+" type="4">
+        <text>specials</text>
       </register>
       <register name="-" type="4">
-        <text>add</text>
+        <text>specials</text>
       </register>
       <register name="/" type="4">
-        <text>hjcli</text>
+        <text>asdf</text>
       </register>
       <register name="0" type="4">
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgpAaGpjbGkuY29tbWFuZCgpCkBsb2FkX2FwcApAYXBwX2N0eCg3NjApCmRlZiB3dGYoKToKICAiIiIiIiIKICBhY2MgPSBnZXRfYWNjKCkKICBzdiA9IGhqcy51bmxvYWQudW5sb2FkaW5nKGFjYy5oaiwgdHk9ImMiKQogIGZvciBjIGluIHN2LmNvbnZlcnRlcnM6CiAgICBmb3Igcm93IGluIGMudW5sb2FkZXIucmVhZF9maWxlKCk6CiAgICAgIHJlcyA9IGMucmF3X2Nscy5wYXJzZV9vYmoocm93KS5kaWN0KCkKICAgICAgcHJldHR5KHJlcywgRmFsc2UpCiAgICAgIGJyZWFrCgoKQGhqY2xpLmNvbW1hbmQoKQpAb3B0aW9uKCItLWFpZCIpCkBsb2FkX2FwcApkZWYgZW5jX3R5cGVzKGFpZCk6CiAgIiIiIiIiCiAgYWlkcyA9IHV0aWxzLnRvX2xpc3QoYWlkKQogIGlmIG5vdCBhaWRzOgogICAgYWlkcyA9IFs3NjAsIDY0MSwgNzE3XQogIGZvciBhaWQgaW4gYWlkczoKICAgIHdpdGggYWNjX2JpbmQoYWlkKToKICAgICAgYWNjID0gZ2V0X2FjYygpCiAgICAgIGZvciBjaWQgaW4gYWNjLmhqLmNpZHM6CiAgICAgICAgc3YgPSBoanMuZW5jb3VudGVycy5wcm9jZXNzKGNpZCkKICAgICAgICBzdi53aXBlKCkKICAgICAgICBzdi5pbnNlcnRfZW5jb3VudGVycygpCg==</text>
+        <text encoding="base64">ICBmbmFtZSA9ICItIi5qb2luKG1hcChzdHIsIGZpbHRlcl9ub25lKFsiaGoiLCAnbm8tYW5hbHMnLCBkYl0pKSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">X2Jhc2UgPSAiaHR0cHM6Ly9kYXRhLmhlYWx0aGp1bXAuY29tL2FwaSIKCgpkZWYgX3BvbGxfam9iKHMsIGpvYik6CiAgIiIiIiIiCiAgc3RhdHVzZXMgPSB7CiAgICAxOiAiUVVFVUVEIiwKICAgIDI6ICJTVEFSVEVEIiwKICAgIDM6ICJGSU5JU0hFRCIsCiAgICA0OiAiRkFJTEVEIiwKICB9CgogIHdoaWxlIGpvYlsic3RhdHVzIl0gbm90IGluICgzLCA0KToKICAgIHVybCA9IGYie19iYXNlfS9qb2JzL3tqb2JbJ2lkJ119IgogICAgciA9IHMuZ2V0KHVybCkKICAgIHIucmFpc2VfZm9yX3N0YXR1cygpCiAgICBqb2IgPSByLmpzb24oKVsiam9iIl0KICAgIHRpbWUuc2xlZXAoMSkKICAgIHN0YXQgPSBqb2JbInN0YXR1cyJdCiAgICBwcmludCgiSk9CIC0tIiwgc3RhdHVzZXNbc3RhdF0sICJKT0ItSUQgLS0iLCBqb2JbImlkIl0pCiAgICBpZiBqb2IuZ2V0KCJlcnJvciIpOgogICAgICBhc3NlcnQgRmFsc2UsIGpvYlsiZXJyb3IiXQoKICBpZiBqb2JbInN0YXR1cyJdID09IDM6CiAgICByZXR1cm4gam9iWyJxdWVyeV9yZXN1bHRfaWQiXQoKICByZXR1cm4gTm9uZQoKCmRlZiBfcXVlcnlfcmVzdWx0KHF1ZXJ5X2lkLCBwYXJhbXMsIHM9Tm9uZSk6CiAgIiIiIiIiCiAgcGFyYW1zID0ge2YicF97a30iOiB2IGZvciBrLCB2IGluIChwYXJhbXMgb3Ige30pLml0ZW1zKCl9CgogIGlmIG5vdCBzOgogICAgcyA9IGdldF9zZXNzaW9uKCkKICAgIHMuaGVhZGVycyA9IHsiQXV0aG9yaXphdGlvbiI6ICJLZXkgTkZWNUlOM3NWMUI4MTJzSFB3RE5CTnE5WTg2ZEN1UFMxTHV3YVdUcSJ9CgogIHVybCA9IGYie19iYXNlfS9xdWVyaWVzL3txdWVyeV9pZH0vcmVmcmVzaCIKCiAgciA9IHMucG9zdCh1cmwsIHBhcmFtcz1wYXJhbXMpCiAgci5yYWlzZV9mb3Jfc3RhdHVzKCkKCiAgam9iID0gci5qc29uKClbImpvYiJdCiAgcmVzdWx0X2lkID0gX3BvbGxfam9iKHMsIGpvYikKCiAgYXNzZXJ0IHJlc3VsdF9pZCwgIlF1ZXJ5IGV4ZWN1dGlvbiBmYWlsZWQuIgoKICB1cmwgPSBmIntfYmFzZX0vcXVlcnlfcmVzdWx0cy97cmVzdWx0X2lkfSIKICByID0gcy5nZXQodXJsKQogIHIucmFpc2VfZm9yX3N0YXR1cygpCiAgcmV0dXJuIHIuanNvbigpWyJxdWVyeV9yZXN1bHQiXQoKCkBoamNsaS5jb21tYW5kKCkKQGFyZ3VtZW50KCJxaWQiKQpAYXJndW1lbnQoInRibCIpCkBhcmd1bWVudCgiY29sIikKZGVmIHJ1bl9xdWVyeShxaWQsIHRibCwgY29sKToKICAiIiIiIiIKICBwYXJhbXMgPSB7InRibCI6IHRibCwgImNvbCI6IGNvbH0KICByZXMgPSBfcXVlcnlfcmVzdWx0KHFpZCwgcGFyYW1zKQogIHByZXR0eShyZXMpCgoKZGVmIF9ydW5fdGFibGVzKG5hbWUsIGZuKToKICAiIiIiIiIKCiAgZ2xvYnMgPSBbCiAgICAiY2xpZW50X2lkIiwKICAgICJhY2NvdW50X2lkIiwKICAgICJ5ZWFycyIsCiAgICAibW9udGhzIiwKICAgICJ3ZWVrcyIsCiAgICAiZGF5cyIsCiAgICAiY2xpZW50X2lkIiwKICAgICJuYW1lIiwKICAgICJ6aXBfc3ViIiwKICBdCgogIHR5cGVzID0gWwogICAgKERlbW9ncmFwaGljLCBSYXdEZW1vZ3JhcGhpYywgWyJ0byJdKSwKICAgIChBcHBvaW50bWVudCwgUmF3QXBwb2ludG1lbnQsIFtdKSwKICAgIChQcm9jZWR1cmUsIFJhd1Byb2NlZHVyZSwgWyJ5ZWFyIl0pLAogICAgKENoYXJnZSwgUmF3Q2hhcmdlLCBbIm1vZGlmaWVyMSIsICJtb2RpZmllcjIiXSksCiAgICAoVHJhbnNhY3Rpb24sIFJhd1RyYW5zYWN0aW9uLCBbXSksCiAgICAoRG9jdG9yLCBSYXdEb2N0b3IsIFsiaXNfZG9jIl0pLAogICAgKE9mZmljZSwgUmF3T2ZmaWNlLCBbXSksCiAgXQogIHRhYmxlcyA9IHsiZG9jdG9yIjogInByb3ZpZGVyIiwgIm9mZmljZSI6ICJsb2NhdGlvbiJ9CgogIHMgPSBnZXRfc2Vzc2lvbigpCiAgcy5oZWFkZXJzID0geyJBdXRob3JpemF0aW9uIjogIktleSBORlY1SU4zc1YxQjgxMnNIUHdETkJOcTlZODZkQ3VQUzFMdXdhV1RxIn0KCiAgcmV0ID0gW10KICBmb3IgY2xzLCByYXcsIHNraXBzIGluIHR5cGVzOgogICAgdGJsID0gY2xzLl9fbmFtZV9fLmxvd2VyKCkKICAgIHRibCA9IHRhYmxlcy5nZXQodGJsKSBvciB0YmwKCiAgICBza2lwcyArPSBnbG9icwogICAgc2MgPSByYXcuc2NoZW1hKCkKCiAgICBwcmludCgiU3RhcnRpbmcgVGFibGUgLS0iLCB0YmwpCiAgICByZXQgKz0gZm4ocywgc2MsIHRibCwgc2tpcHMpCgogIHdyaXRlX2xvY2FsX2pzb24oZiJoai9jb2xzL3tuYW1lfSIsIHJldCkKICBwcmludCh0YWJ1bGF0ZShyZXQsIGhlYWRlcnM9ImtleXMiKSkKCgpAaGpjbGkuY29tbWFuZCgpCmRlZiBjb2xfbGVuKCk6CiAgIiIiIiIiCgogIGRlZiBfcnVuX2NvbHMocywgc2MsIHRibCwgc2tpcHMpOgogICAgIiIiIiIiCiAgICBjb2xzID0gWwogICAgICBrCiAgICAgIGZvciBrLCBvYmogaW4gc2NbInByb3BlcnRpZXMiXS5pdGVtcygpCiAgICAgIGlmIGsgbm90IGluIHNraXBzIGFuZCBvYmpbInR5cGUiXSA9PSAic3RyaW5nIiBhbmQgImZvcm1hdCIgbm90IGluIG9iagogICAgXQoKICAgIHJldCA9IFtdCiAgICBmb3IgY29sIGluIGNvbHM6CiAgICAgIHBhcmFtcyA9IHsidGJsIjogdGJsLCAiY29sIjogY29sfQogICAgICByZXMgPSBfcXVlcnlfcmVzdWx0KDY4NSwgcGFyYW1zLCBzKQogICAgICBqcyA9IHJlc1siZGF0YSJdWyJyb3dzIl1bMF0KICAgICAgcmV0LmFwcGVuZCgKICAgICAgICAgIHsKICAgICAgICAgICAgIkNPTCI6IGYie3RibH0ue2NvbH0iLAogICAgICAgICAgICAiTEVOIjoganNbIm1heCJdLAogICAgICAgICAgICAiTUFYKExFTkdUSChUUklNKCRDT0wkKSkpIjoganNbIm1heCJdLAogICAgICAgICAgICAiUlVOVElNRSI6IHJlc1sicnVudGltZSJdLAogICAgICAgICAgICAiUkVTVUxUIElEIjogcmVzWyJpZCJdLAogICAgICAgICAgfQogICAgICApCiAgICByZXR1cm4gcmV0CgogIF9ydW5fdGFibGVzKCJsZW5ndGhzIiwgX3J1bl9jb2xzKQoKCkBoamNsaS5jb21tYW5kKCkKZGVmIG51bGxzKCk6CiAgIiIiIiIiCgogIGRlZiBfcnVuX2NvbHMocywgc2MsIHRibCwgc2tpcHMpOgogICAgIiIiIiIiCiAgICBjb2xzID0gW2sgZm9yIGssIG9iaiBpbiBzY1sicHJvcGVydGllcyJdLml0ZW1zKCkgaWYgayBub3QgaW4gc2tpcHNdCgogICAgcmV0ID0gW10KICAgIGZvciBjb2wgaW4gY29sczoKICAgICAgcGFyYW1zID0geyJ0YmwiOiB0YmwsICJjb2wiOiBjb2x9CiAgICAgIHJlcyA9IF9xdWVyeV9yZXN1bHQoNjg0LCBwYXJhbXMsIHMpCiAgICAgIHJvd3MgPSByZXNbImRhdGEiXVsicm93cyJdCgogICAgICByb3cgPSB7fQogICAgICBmb3IgZW1wdHksIHN1YiBpbiBrZXlfYnkocm93cywgImVtcHR5IikuaXRlbXMoKToKICAgICAgICByb3dbZW1wdHldID0gc3ViWyJjb3VudCJdCgogICAgICByZXQuYXBwZW5kKAogICAgICAgICAgeyJDT0wiOiBmInt0Ymx9Lntjb2x9IiwgKipyb3csICJSVU5USU1FIjogcmVzWyJydW50aW1lIl0sICJSRVNVTFQgSUQiOiByZXNbImlkIl0sIH0KICAgICAgKQogICAgcmV0dXJuIHJldAoKICBfcnVuX3RhYmxlcygibnVsbHMiLCBfcnVuX2NvbHMpCgoKQGhqY2xpLmNvbW1hbmQoKQpkZWYgY3N2cygpOgogICIiIiIiIgogIHJvd3MgPSByZWFkX2xvY2FsX2pzb24oImhqL2NvbHMvbnVsbHMiKQoKICByb3dzID0gWwogICAgewogICAgICAiY29sIjogclsiQ09MIl0sCiAgICAgICJlbXB0eV9vcl9udWxsX2NvdW50Ijogci5nZXQoIkVNUFRZX09SX05VTEwiLCAwKSwKICAgICAgImZpbGxlZF9jb3VudCI6IHIuZ2V0KCJOT05fRU1QVFkiLCAwKSwKICAgIH0KICAgIGZvciByIGluIHJvd3MKICBdCgogIGxlbnMgPSByZWFkX2xvY2FsX2pzb24oImhqL2NvbHMvbGVuZ3RocyIpCiAgbGVucyA9IFsKICAgIHsiY29sIjogclsiQ09MIl0sICJtYXgobGVuZ3RoKHRyaW0oJGNvbCQpKSkiOiByLmdldCgiTUFYKExFTkdUSChUUklNKCRDT0wkKSkpIiwgMCl9CiAgICBmb3IgciBpbiBsZW5zCiAgXQoKICB0bXAgPSByb3dzCiAgcm93cyA9IFtdCiAgc2tpcCA9IFsiaGpfIiwgImNsaWVudF9pZCJdCiAgZm9yIHIgaW4gdG1wOgogICAgc3ViID0gbmV4dCgobCBmb3IgbCBpbiBsZW5zIGlmIGxbImNvbCJdID09IHJbImNvbCJdKSwgTm9uZSkKICAgIG51bSA9IHN1YiBhbmQgc3ViLmdldCgibWF4KGxlbmd0aCh0cmltKCRjb2wkKSkpIikgb3IgMAogICAgclsibWF4KGxlbmd0aCh0cmltKCRjb2wkKSkpIl0gPSBudW0KICAgIGlmIG5vdCBhbnkocyBpbiByWyJjb2wiXSBmb3IgcyBpbiBza2lwKToKICAgICAgcm93cy5hcHBlbmQoe2s6IGludCh2KSBpZiBrICE9ICJjb2wiIGVsc2UgdiBmb3IgaywgdiBpbiByLml0ZW1zKCl9KQoKICByb3dzID0gbXVsdGlrZXlzb3J0KAogICAgICByb3dzLCBbImNvbCIsICJlbXB0eV9vcl9udWxsX2NvdW50Il0sIHsiY29sIjogbGFtYmRhIHI6IHJbImNvbCJdLnNwbGl0KCIuIilbMF19CiAgKQogIHdyaXRlX2xvY2FsX2NzdigiaGotdGFibGVzIiwgcm93cywgb3BlbnM9VHJ1ZSkK</text>
+        <text encoding="base64">CiAgc291cmNlX2NtZCA9IGYicHYgaW5zdGFuY2UvbG9jYWwvaGove2ZuYW1lfS5zcWwgfCBteXNxbCAtdXJvb3QiCiAgcnVuY21kKHNvdXJjZV9jbWQsIHNoZWxsPVRydWUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CkBoamNsaS5jb21tYW5kKCkKQGxvYWRfYXBwCmRlZiBzaGl0KCk6CiAgIiIiIiIiCiAgcSA9ICgKICAgIEFjY291bnQuc2VhcmNoKCkKICAgICAgLmpvaW5fZWFnZXIoQWNjb3VudC5pbnRlZywgSW50ZWdyYXRpb24uaGVhbHRoanVtcCkKICAgICAgLmZpbHRlcihBY2NvdW50LmlzX2FjdGl2ZSkKICAgICAgLmZpbHRlcih+SGVhbHRoanVtcC5pc19kdXApCiAgICAgIC5maWx0ZXIofkhlYWx0aGp1bXAuaXNfZGlzYWJsZWQpCiAgICAgIC5maWx0ZXIofkhlYWx0aGp1bXAuaW5jbHVkZV9hbmFscykKICAgICAgLmZpbHRlcihIZWFsdGhqdW1wLmNpZHMgPiAiIikKICAgICAgLm9yZGVyX2J5KEFjY291bnQubmFtZSkKICApCiAgcm93czogTGlzdFtBY2NvdW50XSA9IHNlbGVjdHMuYWNjb3VudHMuYWRkX2ZpbHRlcnMocSkuYWxsKCkKICBwcmludCgnSEogQ291bnQnLCBsZW4ocm93cykpCiAgaW52ZXJzZSA9IHt2OiBrIGZvciBrLCB2IGluIEhKX1RZUEVTLml0ZW1zKCl9CgogIGZvciBhY2MgaW4gcm93czoKICAgIHNldF9hY2MoYWNjKQogICAgaGogPSBhY2MuaGoKICAgIHN2ID0gaGpzLnVubG9hZC51bmxvYWRpbmcoaGopCiAgICBmb3IgY29uIGluIHN2LmNvbnZlcnRlcnM6CiAgICAgIGZpbGUgPSBjb24udW5sb2FkZXIuZmlsZQogICAgICBvZiA9IFBhdGgoZiJ7ZmlsZVs6LTRdfS5vbmUiKQogICAgICBvbmUgPSB7fQogICAgICBpZiBvZi5leGlzdHMoKToKICAgICAgICB3aXRoIG9wZW4ob2YpIGFzIGY6CiAgICAgICAgICBvbmUgPSBsb2FkcyhmLnJlYWQoKSkgb3Ige30KICAgICAgaWYgbm90IG9uZToKICAgICAgICBvbmUgPSBjb24udW5sb2FkZXIub25lX3JvdwogICAgICAgIGlmIG9uZToKICAgICAgICAgIHR5ID0gaW52ZXJzZVt0eXBlKGNvbi51bmxvYWRlci5jb2xsZWN0b3IpXQogICAgICAgICAgaGpzLnVubG9hZC51bmxvYWRpbmcoYWNjLmhqLCB0eT10eSwgZHJ5PVRydWUpLnJ1bigpCg==</text>
+        <text encoding="base64">ICAgICAgc3YucnVuKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZm5hbWUgPSAiLSIuam9pbihtYXAoc3RyLCBmaWx0ZXJfbm9uZShbImhqIiwgJ2FsbCcsICdkZXYnXSkpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvZy53YXJuaW5nKGtleSkK</text>
+        <text encoding="base64">ICAgICAgYWNjID0gZ2V0X2FjYygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN2LnJ1bigpCg==</text>
+        <text encoding="base64">ICBwcmludCgnSEogQ291bnQnLCBsZW4ocm93cyksICdkcnknLCBkcnkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoKQo=</text>
+        <text encoding="base64">QG9wdGlvbigiLS10eSIpCkBvcHRpb24oIi0tZHJ5IiwgaXNfZmxhZz1UcnVlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QG9wdGlvbigiLS10eSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgZXJyb3JzOgogICAgICAgICAgcHJldHR5KHJvdykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcHJldHR5KHJvdykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//machine</text>
@@ -330,13 +338,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>hjcli</last-search>
+      <last-search>asdf</last-search>
       <last-offset />
-      <last-pattern>hjcli</last-pattern>
+      <last-pattern>asdf</last-pattern>
       <last-replace>machine</last-replace>
       <last-substitute>hjcli</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
