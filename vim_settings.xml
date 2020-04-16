@@ -98,13 +98,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/cli/apis/hj.py" timestamp="1587055204105">
-        <mark key="'" line="119" column="15" />
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="^" line="128" column="10" />
-        <mark key="." line="119" column="0" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" timestamp="1587057503668">
         <mark key="'" line="18" column="34" />
         <mark key="[" line="18" column="0" />
@@ -131,7 +124,7 @@
         <mark key="^" line="532" column="18" />
         <mark key="." line="532" column="17" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1587061546064">
+      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1587064307885">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="4" />
@@ -140,8 +133,8 @@
       <file name="$USER_HOME$/code/sc/web/static/web/vendors.ts" timestamp="1587057940630">
         <mark key="'" line="26" column="13" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1587059672470">
-        <mark key="'" line="82" column="83" />
+      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1587064087163">
+        <mark key="'" line="83" column="0" />
         <mark key="[" line="82" column="83" />
         <mark key="]" line="82" column="84" />
         <mark key="." line="82" column="84" />
@@ -189,7 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="14" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
       <jump line="57" column="30" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
       <jump line="315" column="2" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
       <jump line="205" column="2" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
@@ -289,15 +281,16 @@
       <jump line="7600" column="59" filename="$USER_HOME$/code/sc/web/yarn.lock" />
       <jump line="7606" column="0" filename="$USER_HOME$/code/sc/web/yarn.lock" />
       <jump line="7608" column="41" filename="$USER_HOME$/code/sc/web/yarn.lock" />
+      <jump line="83" column="0" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVHJhY2tpbmdEaWFsb2cgfSBmcm9tICcuL3RyYWNraW5nL3RyYWNraW5nLmRpYWxvZycK</text>
+      <register name="+" type="4">
+        <text>dev</text>
       </register>
       <register name="-" type="4">
-        <text>prod</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>webpack</text>
