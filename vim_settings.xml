@@ -97,13 +97,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" timestamp="1587044594755">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="0" />
-        <mark key="^" line="150" column="29" />
-        <mark key="." line="151" column="0" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/cli/apis/hj.py" timestamp="1587055204105">
         <mark key="'" line="119" column="15" />
         <mark key="[" line="119" column="0" />
@@ -144,8 +137,20 @@
         <mark key="^" line="532" column="18" />
         <mark key="." line="532" column="17" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1587059675814">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="3" />
+        <mark key="^" line="0" column="4" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/vendors.ts" timestamp="1587057940630">
         <mark key="'" line="26" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1587059672470">
+        <mark key="'" line="82" column="83" />
+        <mark key="[" line="82" column="83" />
+        <mark key="]" line="82" column="84" />
+        <mark key="." line="82" column="84" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/unloader.py" timestamp="1587055326777">
         <mark key="[" line="68" column="41" />
@@ -166,29 +171,23 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/tasks/hj/collecting.py" timestamp="1587044646041">
-        <mark key="'" line="36" column="6" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/boost/boost-menu.html" timestamp="1587060175276">
+        <mark key="[" line="24" column="27" />
+        <mark key="]" line="24" column="31" />
+        <mark key="." line="24" column="30" />
+        <mark key="^" line="24" column="31" />
       </file>
-      <file name="/usr/local/Cellar/python/3.7.4_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/typing.py" timestamp="1587044509463" />
+      <file name="/Python Console" timestamp="1587060081204">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/webpacks/shares/base.ts" timestamp="1587057844363">
         <mark key="'" line="67" column="23" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/yarn.lock" timestamp="1587058416419" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1587046884700">
-        <mark key="'" line="1205" column="0" />
-        <mark key="[" line="1209" column="0" />
-        <mark key="]" line="1209" column="0" />
-        <mark key="." line="1209" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj.txt" timestamp="1587057676814">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/coms/pydantics/types.py" timestamp="1587045774282" />
       <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1587056028731">
         <mark key="'" line="309" column="0" />
         <mark key="[" line="431" column="16" />
@@ -198,7 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1183" column="27" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
       <jump line="1810" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
       <jump line="101" column="6" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/unloader.py" />
       <jump line="1842" column="18" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
@@ -298,15 +296,16 @@
       <jump line="26" column="13" filename="$USER_HOME$/code/sc/web/static/web/vendors.ts" />
       <jump line="7" column="16" filename="$USER_HOME$/code/sc/web/webpacks/prod.ts" />
       <jump line="21" column="19" filename="$USER_HOME$/code/sc/web/webpacks/prod.ts" />
+      <jump line="82" column="83" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>.[contenthash]</text>
+        <text>row.entity.budget</text>
       </register>
       <register name="-" type="4">
-        <text>.[contenthash]</text>
+        <text>row.entity.budget</text>
       </register>
       <register name="/" type="4">
         <text>pretty</text>
