@@ -28,6 +28,7 @@
         <entry>hjcli</entry>
         <entry>dry=</entry>
         <entry>asdf</entry>
+        <entry>my_table</entry>
       </history-search>
       <history-cmd>
         <entry>SplitVertically</entry>
@@ -51,6 +52,7 @@
         <entry>%s//Listing</entry>
         <entry>action SplitVertically</entry>
         <entry>%s//machine</entry>
+        <entry>%s//placeholders</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -87,20 +89,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" timestamp="1587003646300">
+      <file name="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/SQL-Insert-Statements.sql.groovy" timestamp="1587014871678" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" timestamp="1587012630568">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="0" />
-        <mark key="." line="117" column="0" />
-        <mark key="^" line="117" column="32" />
+        <mark key="[" line="47" column="51" />
+        <mark key="]" line="47" column="72" />
+        <mark key="." line="47" column="71" />
+        <mark key="^" line="47" column="72" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" timestamp="1587010700268">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" timestamp="1587014983439">
         <mark key="'" line="596" column="22" />
-        <mark key="[" line="599" column="0" />
-        <mark key="]" line="599" column="0" />
-        <mark key="." line="599" column="0" />
-        <mark key="^" line="603" column="337" />
+        <mark key="[" line="602" column="1" />
+        <mark key="]" line="604" column="67" />
+        <mark key="." line="604" column="66" />
+        <mark key="^" line="604" column="67" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/__init__.py" timestamp="1587012520862" />
       <file name="$USER_HOME$/code/sc/web/cli/apis/hj.py" timestamp="1587011512707">
         <mark key="'" line="82" column="0" />
         <mark key="[" line="111" column="23" />
@@ -108,21 +112,17 @@
         <mark key="." line="111" column="22" />
         <mark key="^" line="111" column="23" />
       </file>
-      <file name="/console" timestamp="1587003082161">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/demographic.py" timestamp="1587012285216">
+        <mark key="[" line="59" column="45" />
+        <mark key="]" line="59" column="61" />
+        <mark key="^" line="59" column="61" />
+        <mark key="." line="59" column="60" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" timestamp="1587011324752">
-        <mark key="[" line="76" column="35" />
-        <mark key="]" line="76" column="48" />
-        <mark key="^" line="76" column="48" />
-        <mark key="." line="76" column="47" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/unloading.py" timestamp="1587005453703">
-        <mark key="'" line="153" column="35" />
-        <mark key="[" line="58" column="59" />
-        <mark key="]" line="58" column="59" />
-        <mark key="." line="58" column="58" />
-        <mark key="^" line="58" column="59" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" timestamp="1587012724079">
+        <mark key="[" line="89" column="49" />
+        <mark key="]" line="89" column="47" />
+        <mark key="^" line="89" column="47" />
+        <mark key="." line="89" column="46" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/converter.py" timestamp="1587009661485">
         <mark key="'" line="120" column="45" />
@@ -134,61 +134,64 @@
       <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/pymysql/connections.py" timestamp="1587010162675">
         <mark key="'" line="433" column="46" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/procedure.py" timestamp="1587003825229" />
-      <file name="$USER_HOME$/code/sc/web/sc/app/ads/models/campaigns.py" timestamp="1587003489469" />
-      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1586993310730">
-        <mark key="'" line="83" column="0" />
+      <file name="/a.sql" timestamp="1587014317048">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/base.py" timestamp="1587003693639">
-        <mark key="'" line="133" column="6" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="/dumpDataPreview" timestamp="1587015014351">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/unloader.py" timestamp="1586991494887">
-        <mark key="'" line="83" column="26" />
+      <file name="/Dummy.txt" timestamp="1587014317043">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/coms/testing/utils.py" timestamp="1587015170906">
+        <mark key="[" line="345" column="48" />
+        <mark key="]" line="345" column="48" />
+        <mark key="." line="345" column="47" />
+        <mark key="^" line="345" column="48" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1587012798510">
+        <mark key="'" line="1183" column="27" />
+        <mark key="[" line="1230" column="1" />
+        <mark key="]" line="1235" column="0" />
+        <mark key="." line="1235" column="0" />
+        <mark key="^" line="1235" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/unloader.py" timestamp="1587015161456">
+        <mark key="'" line="101" column="6" />
         <mark key="[" line="65" column="16" />
         <mark key="]" line="65" column="17" />
         <mark key="." line="65" column="17" />
         <mark key="^" line="64" column="33" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_39.py" timestamp="1587011235565">
-        <mark key="[" line="5" column="41" />
-        <mark key="]" line="5" column="42" />
-        <mark key="^" line="5" column="42" />
-        <mark key="." line="5" column="41" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_39.py" timestamp="1587013297053">
+        <mark key="'" line="14" column="8" />
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="23" />
+        <mark key="^" line="14" column="23" />
+        <mark key="." line="14" column="22" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/ads/base.py" timestamp="1587003246085" />
       <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/pymysql/converters.py" timestamp="1587009620578">
         <mark key="'" line="187" column="4" />
       </file>
-      <file name="/hj.py" timestamp="1587005540845" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" timestamp="1587015289128">
+        <mark key="[" line="1865" column="0" />
+        <mark key="]" line="1865" column="0" />
+        <mark key="." line="1865" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/coms/pydantics/types.py" timestamp="1587011314639">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/cli/machine.py" timestamp="1586996168882">
-        <mark key="'" line="103" column="1" />
-        <mark key="[" line="47" column="17" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1587011518537">
-        <mark key="'" line="350" column="28" />
-        <mark key="[" line="339" column="4" />
-        <mark key="]" line="339" column="9" />
-        <mark key="." line="339" column="8" />
-        <mark key="^" line="339" column="9" />
+      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1587015220896">
+        <mark key="'" line="351" column="28" />
+        <mark key="[" line="383" column="9" />
+        <mark key="]" line="383" column="18" />
+        <mark key="." line="383" column="17" />
+        <mark key="^" line="383" column="18" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1799" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
-      <jump line="20" column="49" filename="$USER_HOME$/code/sc/web/sc/sql/note/__init__.py" />
-      <jump line="79" column="0" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
-      <jump line="131" column="13" filename="$USER_HOME$/code/sc/web/sc/mods/config.py" />
-      <jump line="204" column="2" filename="$USER_HOME$/code/sc/web/sc/mods/config.py" />
-      <jump line="221" column="2" filename="$USER_HOME$/code/sc/web/sc/mods/config.py" />
-      <jump line="52" column="0" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
-      <jump line="35" column="11" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
       <jump line="53" column="2" filename="$USER_HOME$/code/sc/web/sc/sql/provider/__init__.py" />
       <jump line="1770" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
       <jump line="64" column="57" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
@@ -281,64 +284,72 @@
       <jump line="433" column="46" filename="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/pymysql/connections.py" />
       <jump line="82" column="0" filename="$USER_HOME$/code/sc/web/cli/apis/hj.py" />
       <jump line="350" column="28" filename="$USER_HOME$/code/sc/web/cli/john.py" />
+      <jump line="1183" column="27" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
+      <jump line="1810" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
+      <jump line="101" column="6" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/unloader.py" />
+      <jump line="1842" column="18" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
+      <jump line="15" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_39.py" />
+      <jump line="1877" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
+      <jump line="2856" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
+      <jump line="1885" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgcGFzcwogICAgVmFsdWVFcnJvcgo=</text>
+        <text encoding="base64">ICAsICdzbXMnICAgICAgIHR5cGUKICAsIG5vdygpICAgICAgIHVwZGF0ZWRfYXQKICAsIG5vdygpICAgICAgIGNyZWF0ZWRfYXQK</text>
       </register>
       <register name="-" type="4">
-        <text>val</text>
+        <text>Place</text>
       </register>
       <register name="/" type="4">
-        <text>asdf</text>
+        <text>my_table</text>
       </register>
       <register name="0" type="4">
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcGFzcwogICAgVmFsdWVFcnJvcgo=</text>
+        <text encoding="base64">ICAsICdzbXMnICAgICAgIHR5cGUKICAsIG5vdygpICAgICAgIHVwZGF0ZWRfYXQKICAsIG5vdygpICAgICAgIGNyZWF0ZWRfYXQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNwYW5pc2hfc3RhcnRzID0gJ3NwJywgJ2VzJwo=</text>
+        <text encoding="base64">ICBwaW5ydDkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXBkYXRlIGhlYWx0aGp1bXBzIHNldCBpc19hcnJvd2x5dGljcyA9IFRydWU7Cg==</text>
+        <text encoding="base64">ICBjID0gc2EudXBzZXJ0KFBsYWNlaG9sZGVyLCByb3dzKQogIHBpbnJ0OQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UkVQTEFDRSBJTlRPIGBoal9kZW1vZ3JhcGhpY3NgIChgYWNjb3VudF9pZGAsYGNpZGAsYHBpZGAsYG5hbWVgLGBwaG9uZV9udW1iZXJgLGBwaG9uZV90eXBlYCxgcGhvbmVfZXh0YCxgdG9gLGBmaXJzdF9lbWFpbGAsYHNlY29uZF9udW1iZXJgLGBzZWNvbmRfdHlwZWAsYHNlY29uZF9leHRgLGBzZWNvbmRfZW1haWxgLGBwcmltYXJ5X2xhbmd1YWdlYCxgcHJlZml4YCxgc3VmZml4YCxgc3NuYCxgcGNwX2lkYCxgY29uc2VudF90b190ZXh0YCxgZG9iYCxgZXRobmljaXR5YCxgZ2VuZGVyYCxgcmFjZWAsYGFkZHJlc3NfbGluZV8xYCxgYWRkcmVzc19saW5lXzJgLGBhZGRyZXNzX3R5cGVgLGBjaXR5YCxgc3RhdGVgLGB6aXBgLGB6aXBfc3ViYCxgZGF0ZV9vZl9maXJzdF9hcHBvaW50bWVudGAsYGRlYXRoX2RhdGVgLGBkZWF0aF9pbmRpY2F0aW9uYCxgaGpfY3JlYXRlYCxgaGpfbW9kaWZ5YCkgVkFMVUVTICg3LCdBVlAwMDEnLCc2NzczMzMnLCdNaXJpYW0gUmVzZW5kZXonLE5VTEwsJ0gnLE5VTEwsTlVMTCxOVUxMLE5VTEwsJ00nLE5VTEwsTlVMTCxOVUxMLE5VTEwsTlVMTCxOVUxMLE5VTEwsJ04nLE5VTEwsJ1UnLE5VTEwsJzIxMzEtMScsJzE1Mjg4IFMgQXZlIDRlJyxOVUxMLCdIb21lJywnWXVtYScsJ0FaJywnODUzNjUnLE5VTEwsTlVMTCxOVUxMLCdOJywnMjAxOS0wOC0xMyAxMzoyNzozMy45NTc5NzYnLCcyMDE5LTA4LTEzIDEzOjM3OjU4LjgzNjgzNScpLAoKKDcsJ0FWUDAwMScsJzExNTY0MzgnLCdWaW9sZXRhIEdhbWJvYScsJzUyMDMzMzA0ODknLCdIJyxOVUxMLCc1MjAzMzMwNDg5JyxOVUxMLE5VTEwsJ00nLE5VTEwsTlVMTCwnU3BhbmlzaDsgQ2FzdGlsaWFuJyxOVUxMLE5VTEwsJzk5OTk5OTk5OScsJzE5MzIxOTI3NDcnLCdOJywnMTk2MS0wMS0yNCAwMDowMDowMCcsJ0gnLCdGJywnMjEzMS0xJywnNzAzMyBFIEtpbmdzdG9uIERyaXZlJyxOVUxMLCdIb21lJywnVHVjc29uJywnQVonLCc4NTcxMCcsTlVMTCxOVUxMLE5VTEwsJ04nLCAgICAnMjAxOS0wOC0xMyAxMzoyNzozMy45NTc5NzYnLCcyMDE5LTA4LTEzIDEzOjM3OjU4LjgzNjgzNScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgcmV0dXJuIHR1cGxlKAogICAgICAgICJOVUxMIgogICAgICAgIGlmIHYgaXMgTm9uZQogICAgICAgIGVsc2Ugc3RyKHYpLmxvd2VyKCkKICAgICAgICBpZiBpc2luc3RhbmNlKHYsIGJvb2wpCiAgICAgICAgZWxzZSBmIid7ZXNjYXBlX3N0cmluZyhzdHIodikpfSciCiAgICAgICAgICBmb3IgdiBpbiByb3cKICAgICkK</text>
+        <text encoding="base64">ICBzdiA9IGNyZWF0ZV9jb2xsZWN0b3IoRGVtb2dyYXBoaWNDb2xsZWN0b3IpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmbmFtZSA9ICItIi5qb2luKG1hcChzdHIsIGZpbHRlcl9ub25lKFsiaGoiLCAnbm8tYW5hbHMnLCBkYl0pKSkK</text>
+        <text encoding="base64">aW5zZXJ0IGludG8gcGxhY2Vob2xkZXJzIHZhbHVlICgxKSAsdmFsdWUgKDIpLHZhbHVlICgzKSx2YWx1ZSAoNCksdmFsdWUgKDUpLHZhbHVlICg2KSx2YWx1ZSAoNyksdmFsdWUgKDgpLHZhbHVlICg5KSx2YWx1ZSAoMTApLHZhbHVlICgxMSksdmFsdWUgKDEyKSx2YWx1ZSAoMTMpLHZhbHVlICgxNCksdmFsdWUgKDE1KSx2YWx1ZSAoMTYpLHZhbHVlICgxNyksdmFsdWUgKDE4KSx2YWx1ZSAoMTkpLHZhbHVlICgyMCksdmFsdWUgKDIxKSx2YWx1ZSAoMjIpLHZhbHVlICgyMyksdmFsdWUgKDI0KSx2YWx1ZSAoMjUpLHZhbHVlICgyNiksdmFsdWUgKDI3KSx2YWx1ZSAoMjgpLHZhbHVlICgyOSksdmFsdWUgKDMwKSx2YWx1ZSAoMzEpLHZhbHVlICgzMiksdmFsdWUgKDMzKSx2YWx1ZSAoMzQpLHZhbHVlICgzNSksdmFsdWUgKDM2KSx2YWx1ZSAoMzcpLHZhbHVlICgzOCksdmFsdWUgKDM5KSx2YWx1ZSAoNDApLHZhbHVlICg0MSksdmFsdWUgKDQyKSx2YWx1ZSAoNDMpLHZhbHVlICg0NCksdmFsdWUgKDQ1KSx2YWx1ZSAoNDYpLHZhbHVlICg0NyksdmFsdWUgKDQ4KSx2YWx1ZSAoNDkpLHZhbHVlICg1MCksdmFsdWUgKDUxKSx2YWx1ZSAoNTIpLHZhbHVlICg1MyksdmFsdWUgKDU0KSx2YWx1ZSAoNTUpLHZhbHVlICg1NiksdmFsdWUgKDU3KSx2YWx1ZSAoNTgpLHZhbHVlICg1OSksdmFsdWUgKDYwKSx2YWx1ZSAoNjEpLHZhbHVlICg2MiksdmFsdWUgKDYzKSx2YWx1ZSAoNjQpLHZhbHVlICg2NSksdmFsdWUgKDY2KSx2YWx1ZSAoNjcpLHZhbHVlICg2OCksdmFsdWUgKDY5KSx2YWx1ZSAoNzApLHZhbHVlICg3MSksdmFsdWUgKDcyKSx2YWx1ZSAoNzMpLHZhbHVlICg3NCksdmFsdWUgKDc1KSx2YWx1ZSAoNzYpLHZhbHVlICg3NyksdmFsdWUgKDc4KSx2YWx1ZSAoNzkpLHZhbHVlICg4MCksdmFsdWUgKDgxKSx2YWx1ZSAoODIpLHZhbHVlICg4MyksdmFsdWUgKDg0KSx2YWx1ZSAoODUpLHZhbHVlICg4NiksdmFsdWUgKDg3KSx2YWx1ZSAoODgpLHZhbHVlICg4OSksdmFsdWUgKDkwKSx2YWx1ZSAoOTEpLHZhbHVlICg5MiksdmFsdWUgKDkzKSx2YWx1ZSAoOTQpLHZhbHVlICg5NSksdmFsdWUgKDk2KSx2YWx1ZSAoOTcpLHZhbHVlICg5OCksdmFsdWUgKDk5KSx2YWx1ZSAoMTAwKSx2YWx1ZSAoMTAxKSx2YWx1ZSAoMTAyKSx2YWx1ZSAoMTAzKSx2YWx1ZSAoMTA0KSx2YWx1ZSAoMTA1KSx2YWx1ZSAoMTA2KSx2YWx1ZSAoMTA3KSx2YWx1ZSAoMTA4KSx2YWx1ZSAoMTA5KSx2YWx1ZSAoMTEwKSx2YWx1ZSAoMTExKSx2YWx1ZSAoMTEyKSx2YWx1ZSAoMTEzKSx2YWx1ZSAoMTE0KSx2YWx1ZSAoMTE1KSx2YWx1ZSAoMTE2KSx2YWx1ZSAoMTE3KSx2YWx1ZSAoMTE4KSx2YWx1ZSAoMTE5KSx2YWx1ZSAoMTIwKSx2YWx1ZSAoMTIxKSx2YWx1ZSAoMTIyKSx2YWx1ZSAoMTIzKSx2YWx1ZSAoMTI0KSx2YWx1ZSAoMTI1KSx2YWx1ZSAoMTI2KSx2YWx1ZSAoMTI3KSx2YWx1ZSAoMTI4KSx2YWx1ZSAoMTI5KSx2YWx1ZSAoMTMwKSx2YWx1ZSAoMTMxKSx2YWx1ZSAoMTMyKSx2YWx1ZSAoMTMzKSx2YWx1ZSAoMTM0KSx2YWx1ZSAoMTM1KSx2YWx1ZSAoMTM2KSx2YWx1ZSAoMTM3KSx2YWx1ZSAoMTM4KSx2YWx1ZSAoMTM5KSx2YWx1ZSAoMTQwKSx2YWx1ZSAoMTQxKSx2YWx1ZSAoMTQyKSx2YWx1ZSAoMTQzKSx2YWx1ZSAoMTQ0KSx2YWx1ZSAoMTQ1KSx2YWx1ZSAoMTQ2KSx2YWx1ZSAoMTQ3KSx2YWx1ZSAoMTQ4KSx2YWx1ZSAoMTQ5KSx2YWx1ZSAoMTUwKSx2YWx1ZSAoMTUxKSx2YWx1ZSAoMTUyKSx2YWx1ZSAoMTUzKSx2YWx1ZSAoMTU0KSx2YWx1ZSAoMTU1KSx2YWx1ZSAoMTU2KSx2YWx1ZSAoMTU3KSx2YWx1ZSAoMTU4KSx2YWx1ZSAoMTU5KSx2YWx1ZSAoMTYwKSx2YWx1ZSAoMTYxKSx2YWx1ZSAoMTYyKSx2YWx1ZSAoMTYzKSx2YWx1ZSAoMTY0KSx2YWx1ZSAoMTY1KSx2YWx1ZSAoMTY2KSx2YWx1ZSAoMTY3KSx2YWx1ZSAoMTY4KSx2YWx1ZSAoMTY5KSx2YWx1ZSAoMTcwKSx2YWx1ZSAoMTcxKSx2YWx1ZSAoMTcyKSx2YWx1ZSAoMTczKSx2YWx1ZSAoMTc0KSx2YWx1ZSAoMTc1KSx2YWx1ZSAoMTc2KSx2YWx1ZSAoMTc3KSx2YWx1ZSAoMTc4KSx2YWx1ZSAoMTc5KSx2YWx1ZSAoMTgwKSx2YWx1ZSAoMTgxKSx2YWx1ZSAoMTgyKSx2YWx1ZSAoMTgzKSx2YWx1ZSAoMTg0KSx2YWx1ZSAoMTg1KSx2YWx1ZSAoMTg2KSx2YWx1ZSAoMTg3KSx2YWx1ZSAoMTg4KSx2YWx1ZSAoMTg5KSx2YWx1ZSAoMTkwKSx2YWx1ZSAoMTkxKSx2YWx1ZSAoMTkyKSx2YWx1ZSAoMTkzKSx2YWx1ZSAoMTk0KSx2YWx1ZSAoMTk1KSx2YWx1ZSAoMTk2KSx2YWx1ZSAoMTk3KSx2YWx1ZSAoMTk4KSx2YWx1ZSAoMTk5KSx2YWx1ZSAoMjAwKSx2YWx1ZSAoMjAxKSx2YWx1ZSAoMjAyKSx2YWx1ZSAoMjAzKSx2YWx1ZSAoMjA0KSx2YWx1ZSAoMjA1KSx2YWx1ZSAoMjA2KSx2YWx1ZSAoMjA3KSx2YWx1ZSAoMjA4KSx2YWx1ZSAoMjA5KSx2YWx1ZSAoMjEwKSx2YWx1ZSAoMjExKSx2YWx1ZSAoMjEyKSx2YWx1ZSAoMjEzKSx2YWx1ZSAoMjE0KSx2YWx1ZSAoMjE1KSx2YWx1ZSAoMjE2KSx2YWx1ZSAoMjE3KSx2YWx1ZSAoMjE4KSx2YWx1ZSAoMjE5KSx2YWx1ZSAoMjIwKSx2YWx1ZSAoMjIxKSx2YWx1ZSAoMjIyKSx2YWx1ZSAoMjIzKSx2YWx1ZSAoMjI0KSx2YWx1ZSAoMjI1KSx2YWx1ZSAoMjI2KSx2YWx1ZSAoMjI3KSx2YWx1ZSAoMjI4KSx2YWx1ZSAoMjI5KSx2YWx1ZSAoMjMwKSx2YWx1ZSAoMjMxKSx2YWx1ZSAoMjMyKSx2YWx1ZSAoMjMzKSx2YWx1ZSAoMjM0KSx2YWx1ZSAoMjM1KSx2YWx1ZSAoMjM2KSx2YWx1ZSAoMjM3KSx2YWx1ZSAoMjM4KSx2YWx1ZSAoMjM5KSx2YWx1ZSAoMjQwKSx2YWx1ZSAoMjQxKSx2YWx1ZSAoMjQyKSx2YWx1ZSAoMjQzKSBhLmFAYS5jb20sYm9lbWFpbEBub2VtYWlsLmNvbSxkZWNsaWVuQG5vZW1haWwuY29tLGRlY2xpbmVAbWhlYWx0aC5jb20sZGVjbGluZUBub2VtYWlsLmNvbSxkZWNsaW5lQG5vZW1hbC5jb20sZGVjbGluZUBub21haWwuY29tLGRlY2xpbmVAb3B0dW0uY29tLGRlY2xpbmUyMDEyQGdtYWlsLmNvbSxkZWNsaW5lZEBkZWNsaW5lZCxkZWNsaW5lZEBkZWNsaW5lZC5uZXQsZGVjbGluZWRAZ21haWwuY29tLGRlY2xpbmVkQG1oZWFsdGguY29tLGRlY2xpbmVkQG1oZWFsdGhsLmNvbSxkZWNsaW5lZEBub2VpbWFpbC5jb20sZGVjbGluZWRAbm9lbWFpbC5jb20sZGVjbGluZWRAbm9uZS5jb20sZGVjbGluZWRAb3B0dW0uY29tLGRlY2xpbmVkcG9ydGFsQGdtYWlsLmNvbSxkZWNsaW5lZHBvcnRhbEBtaGVhbHRoLmNvbSxkZWNsaW5lZHBvcnRhbEB5YWhvby5jb20sZGVjbGluZWRwdHBvcnRhbEBtaGVhbHRoLmNvbSxkZWNsaW5lZHB0cG9ydGFsQHlhaG9vLmNvbSxkZWNsaW5lc0BtaGVhbHRoLmNvbSxlbWFpbEBub2VtYWlsLmNvbSxpZG9udHVzZWVtYWlsQG5vZW1haWwuY29tLGlkb250dXNlZW1haWxAbm9lbWFpbHMuY29tLGloYXZlbm9lbWFpbEBub3RoYW5rcy5jb20sam5vZW1haWxAZW1haWwuY29tLGxldG5vQG5vZW1haWwuY29tLG5lbWFpbEBub2VtYWlsLmNvbSxuaWVtYWlsQG5vZW1haWwuY29tLG5tb2VAbm9lbWFpbC5jb20sbm5vZW1haWxAbm9lbWFpbC5jb20sbm5vZW1haWxAbm9lbWFpbC5jb21tLG5ub3NjaG9Abm9lbWFpbC5jb20sbm9Abm9lbWFpbC5jb20sbm9hbGNhbWFpbEBub2VtYWlsLmNvbSxub2FubmlybWFpbEBub2VtYWlsLmNvbSxub2VAbm9lbWFpbC5jb20sbm9lYWlsQG5vZW1haWwuY29tLG5vZWFtYWlsQG5vZW1haWwuY29tLG5vZWFtaWxAbm9lbWFpbC5jb20sbm9lZW1haWxAbm9lbWFpbC5jb20sbm9lbWFpQDJlbWFpbC5jb20sbm9lbWFpQGVtYWlsLmNvbSxub2VtYWlAZ21haWwuY29tLG5vZW1haUBub2VtYWlsLmNvbSxub2VtYWk5bEBlbWFpbC5jb20sbm9lbWFpaWxAZW1haWwuY29tLG5vZW1haWlsQG5vZW1haWwuY29tLG5vZW1haWtsQGVtYWlsLmNvbSxub2VtYWlsIUBub2VtYWlsLmNvbSxub2VtYWlsLmNvbUBub2VtYWlsLmNvbSxub2VtYWlsQCFlbWFpbC5jb20sbm9lbWFpbEBhb2wuY29tLG5vZW1haWxAY29tLG5vZW1haWxAY294Lm5ldCxub2VtYWlsQGVhbWFpbC5jb20sbm9lbWFpbEBlYW1pbC5jb20sbm9lbWFpbEBlbSxub2VtYWlsQGVtYWkuY29tLG5vZW1haWxAZW1haTlsLmNvbSxub2VtYWlsQGVtYWlsLG5vZW1haWxAZW1haWwuL2NvbSxub2VtYWlsQGVtYWlsLmMsbm9lbWFpbEBlbWFpbC5jY29tLG5vZW1haWxAZW1haWwuY2ltLG5vZW1haWxAZW1haWwuY2xvbSxub2VtYWlsQGVtYWlsLmNtLG5vZW1haWxAZW1haWwuY28sbm9lbWFpbEBlbWFpbC5jb20sbm9lbWFpbEBlbWFpbC5jb21vLG5vZW1haWxAZW1haWwuY29uLG5vZW1haWxAZW1haWwuY29wbSxub2VtYWlsQGVtYWlsLm5ldCxub2VtYWlsQGVtYWlsLm9tLG5vZW1haWxAZW1haWwub21jLG5vZW1haWxAZW1haWxjLm9tLG5vZW1haWxAZW1haWxjb20sbm9lbWFpbEBlbWFpbGwuY29tLG5vZW1haWxAZW1hbC5jb20sbm9lbWFpbEBlbWFvbC5jb20sbm9lbWFpbEBlbWlhbC5jb20sbm9lbWFpbEBlbWlsLmNvbSxub2VtYWlsQGVtbWFpbC5jb20sbm9lbWFpbEBlbXIuY29tLG5vZW1haWxAZW5tYWlsLmNvbSxub2VtYWlsQGVybWFpbCxub2VtYWlsQGZhc3RwYWNlbWVkaWNhbC5jb20sbm9lbWFpbEBnbWFpbC5jb20sbm9lbWFpbEBnbmFpbC5jb20sbm9lbWFpbEBob2FnLm9yZyxub2VtYWlsQGhvdG1haWwuY29tLG5vZW1haWxAbWFpbC5jbG9tLG5vZW1haWxAbWFpbC5jb20sbm9lbWFpbEBtZWFpbC5jb20sbm9lbWFpbEBtaGVhbHRoLmNvbSxub2VtYWlsQG5lbWFpbC5jb20sbm9lbWFpbEBuZW9tYWlsLmNvbSxub2VtYWlsQG5vLmNvbSxub2VtYWlsQG5vZSxub2VtYWlsQG5vZWFpbC5jb20sbm9lbWFpbEBub2VhbWFpbC5jb20sbm9lbWFpbEBub2VhbWlsLmNvbSxub2VtYWlsQG5vZW1haS5jb20sbm9lbWFpbEBub2VtYWlhbC5jb20sbm9lbWFpbEBub2VtYWlrbC5jb20sbm9lbWFpbEBub2VtYWlsLG5vZW1haWxAbm9lbWFpbC5jLG5vZW1haWxAbm9lbWFpbC5jY29tLG5vZW1haWxAbm9lbWFpbC5jbSxub2VtYWlsQG5vZW1haWwuY28sbm9lbWFpbEBub2VtYWlsLmNvbG0sbm9lbWFpbEBub2VtYWlsLmNvbSxub2VtYWlsQG5vZW1haWwuY29tayxub2VtYWlsQG5vZW1haWwuY29tbCxub2VtYWlsQG5vZW1haWwuY29tcGVyLG5vZW1haWxAbm9lbWFpbC5jb210LG5vZW1haWxAbm9lbWFpbC5jb24sbm9lbWFpbEBub2VtYWlsLmNvb20sbm9lbWFpbEBub2VtYWlsLmNvcG0sbm9lbWFpbEBub2VtYWlsLm5ldCxub2VtYWlsQG5vZW1haWxjLm9jbSxub2VtYWlsQG5vZW1haWxsLmNvbSxub2VtYWlsQG5vZW1hbC5jb20sbm9lbWFpbEBub2VtaWFsLmNvbSxub2VtYWlsQG5vZW1pbC5jb20sbm9lbWFpbEBub2VybWFpbC5jb20sbm9lbWFpbEBub21haWwuY29tLG5vZW1haWxAbm9tZW1haWwuY29tLG5vZW1haWxAbm9uZS5jb20sbm9lbWFpbEBub3JtYWlsLmNvbSxub2VtYWlsQG5vdGhhbmtzLmNvbSxub2VtYWlsQG5vd21haWwuY29tLG5vZW1haWxAb3J0aG8uY29tLG5vZW1haWxAcm1haWwuY29tLG5vZW1haWxAc2VuaW9ycy5jb20sbm9lbWFpbEB2ZW1haWwuY29tLG5vZW1haWxAd2VtYWlsLmNvbSxub2VtYWlsQHlhaG9vLmNvbSxub2VtYWlsI0Bub2VtYWlsLmNvbSxub2VtYWlsYUBlbWFpbC5jb20sbm9lbWFpbGNAZW1haWwuY29tLG5vZW1haWxlQGVtYWlsLmNvbSxub2VtYWlsZWRAZW1haWwuY29tLG5vZW1haWxpQGxub2VtYWlsLmNvbSxub2VtYWlsbEBub2VtYWlsLmNvbSxub2VtYWlscHJvdmlkZWRAbWhlYWx0aC5jb20sbm9lbWFpbHNAbm90aGFua3MuY29tLG5vZW1haWx5ZXRAZW1haWwuY29tLG5vZW1haWx5ZXRAbm9lbWFpbC5jb20sbm9lbWFpbkBub2VtYWlsLmNvbSxub2VtYWlvbEBlbWFpbC5jb20sbm9lbWFpdWxAZW1haWwuY29tLG5vZW1hbEBub2VtYWlsLmNvbSxub2VtYWxpQG5vZW1haWwuY29tLG5vZW1pYWxAbm9lbWFpbC5jb20sbm9lbWthbEBub2VtYWlsLmNvbSxub2VuYWlsQG5vZW1haWwuY29tLG5vZW5tYWlsQG5vZW1haWwuY29tLG5vZXJtYWlsQG5vZW1haWwuY29tLG5vaGFsbEBub2VtYWlsLmNvbSxub2lsb25hQG5vZW1haWwuY29tLG5va2F6dUBub2VtYWlsLmNvbSxub2xpZGRlbEBub21haWwuY29tLG5vbWFpbEBlbWFpbC5jb20sbm9tYWlsQG5vZW1haWwuY29tLG5vbWFpbEBub21haWwuY29tLG5vbWFpbDkxMUBnbWFpbC5jb20sbm9tZWFpbEBub2VtYWlsLmNvbSxub21lbWFpbEBub2VtYWlsLmNvbSxub21lekBub2VtYWlsLmNvbSxub25hbWVAbm9lbWFpbC5jb20sbm9uYW1lbWFpbEBub21haWwuY29tLG5vbmVAbm9lbWFpbC5jb20sbm9uZUBub21haWwuY29tLG5vbmVtYWlsQG5vZW1haWwuY29tLG5vbm9lbWFpbEBub2VtYWlsLmNvbSxub3JuZXdlbWFpbEBub21haWwuY29tLG5vc2ltbXNtYWlsQG5vZW1haWwuY29tLG5vdGhhbmtzQG5vZW1haWwuY29tLG5vdGhhbmtzQG5vZW1haWxzLmNvbSxub3RoYW5rc2RvbnR1c2VlbWFpbEBub2VtYWlsLmVyLG5vd2lsQG5vZW1haWwuY29tLG9lbWFpbEBub2VtYWlsLmNvbSxwYXRpZW5kZWNsaW5lQG1oZWFsdGguY29tLHBhdGllbnQtcmVmdXNlQG1oZWFsdGguY29tLHBhdGllbnQtcmVmdXNlZEBtaGVhbHRoLmNvbSxwYXRpZW50QHJlZnVzZWQuY29tLHBhdGllbnRkZWNsaWluZUBtaGVhbHRoLmNvbSxwYXRpZW50ZGVjbGluZUBtaGVhbHRoLmNqb20scGF0aWVudGRlY2xpbmVAbWhlYWx0aC5jb20scGF0aWVudGRlY2xpbmVkQG0uaGVhbHRoLmNvbSxwYXRpZW50ZGVjbGluZWRAbWhlYWx0aC5jb20scGF0aWVudGRlY2xpbmVzQG1oZWFsdGguY29tLHBhdGllbnRkZWNsaW5lc0Bub2VtYWlsLmNvbSxwYXRpZW50cmVmdXNlQG1oZWFsdGguY29tLHBhdGllbnRyZWZ1c2VAeWFob28uY29tLHBhdGllbnRyZWZ1c2VkQG1oYWVsdGguY29tLHBhdGllbnRyZWZ1c2VkQG1oZWFsdGguY29tLHBhdGllbnRyZWZ1c2VzQG1oZWFsdGguY29tLHBhdGllbnRyZWZ1c2VzQG1oZWF0aC5jb20scHJkZWNsaW5lZEBtaGVhbHRoLmNvbSxwdEBub2VtYWlsLmNvbSxwdGRlY2xpZW5lZEBtaGVhbHRoLmNvbSxwdGRlY2xpbmVAbWhjLmNvbSxwdGRlY2xpbmVAbWhlYWx0aC5jb20scHRkZWNsaW5lZEBnbWFpbC5jb20scHRkZWNsaW5lZEBtZWFsdGguY29tLHB0ZGVjbGluZWRAbWhlYWx0aC5jb20scHRkZWNsaW5lZEBtaGhlYWx0aC5jb20scHRkZWNsaW5lZEBtc2hlYWx0aC5jb20scHRkZWNsaW5lZEB5YWhvby5jb20scHRkZWNsaW5lZHBvcnRhbEB5YWhvby5jb20scHRkZWNsaW5lc0BtaGVhbHRoLmNvbSxwdGRlY2xpbmVzQG1oaXBhLmNvbSxwdGRlY2xpbmVzQHB0ZGVjbGluZXMuY29tLHB0ZGVjbGluZXNAcHRwb3J0YWwuY29tLHB0bm9lbWFpbEBlbWFpbC5jb20scHRwb3J0YWxkZWNsaW5lZEBtaGVhbHRoLmNvbSxwdHJlZnVzZUBtaGVhbHRoLmNvbSxwdHJlZnVzZUBwdHJlZnVzZS5jb20scHRyZWZ1c2VkQG1oZWFsdGguY29tLHB0cmVmdXNlc0BtaGMuY29tLHB0cmVmdXNlc0BtaGVhbHRoLmNvbSxwdHJlZnVzZXNAbWhlYXRoLmNvbSxwdHJlZnVzZXNAcHRwb3J0YWwuY29tLHJlZnVzZUBhb2wuY29tLHJlZnVzZUByZWZ1c2UuY29tLHJlZnVzZWRAYW9sLmNvbSxyZWZ1c2VkQGNvdmhlYWx0aC5jb20scmVmdXNlZEBnbWFpbC5jb20scmVmdXNlZEBnbWFpbC5jb25tLHJlZnVzZWRAaGVhbHRoaXBhc3MuY29tLHJlZnVzZWRjQGhlYWx0aGlwYXNzLmNvbSxyZWZ1c2VlbWFpbEBvY3BiYy5jb20scmVmdXNlcmVjZXB0b3JAZ21haWwuY29tLHJlZnVzZXNAZ21haWwuY29tLHRlc3RAcmFkaXhoZWFsdGguY29tLHRlc3RAdGVzdC5jb20sdGVzdEB0ZXN0LnRlc3QsdGVzdGVtYWlsQG5vZW1haWwuY29tCnNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zLHNtcyxzbXMsc21zCjIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0CjIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0LDIwMjAtMDQtMTYgMDU6MjM6NDQsMjAyMC0wNC0xNiAwNToyMzo0NCwyMDIwLTA0LTE2IDA1OjIzOjQ0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgc291cmNlX2NtZCA9IGYicHYgaW5zdGFuY2UvbG9jYWwvaGove2ZuYW1lfS5zcWwgfCBteXNxbCAtdXJvb3QiCiAgcnVuY21kKHNvdXJjZV9jbWQsIHNoZWxsPVRydWUpCg==</text>
+        <text encoding="base64">aW5zZXJ0IHBsYWNlaG9sZGVycwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc3YucnVuKCkK</text>
+        <text encoding="base64">aW5zZXJ0IHBsYWNlaG9sZGVycwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZm5hbWUgPSAiLSIuam9pbihtYXAoc3RyLCBmaWx0ZXJfbm9uZShbImhqIiwgJ2FsbCcsICdkZXYnXSkpKQo=</text>
+        <text encoding="base64">IyAgICBvciBmaXJzdF9lbWFpbCBsaWtlICclZW1haWwlJwo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s//machine</text>
+        <text>%s//placeholders</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>asdf</last-search>
+      <last-search>my_table</last-search>
       <last-offset />
-      <last-pattern>asdf</last-pattern>
-      <last-replace>machine</last-replace>
-      <last-substitute>hjcli</last-substitute>
+      <last-pattern>my_table</last-pattern>
+      <last-replace>placeholders</last-replace>
+      <last-substitute>my_table</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
