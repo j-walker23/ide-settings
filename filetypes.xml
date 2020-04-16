@@ -7,6 +7,7 @@
       <mapping ext="one" type="JSON" />
       <mapping ext="lock" type="JSON" />
       <mapping pattern=".sentrycliignore" type="PLAIN_TEXT" />
+      <mapping pattern="placeholders" type="PLAIN_TEXT" />
       <mapping ext="model" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
