@@ -116,6 +116,12 @@
       <file name="/console" timestamp="1587068336843">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" timestamp="1587074666288">
+        <mark key="[" line="75" column="15" />
+        <mark key="]" line="75" column="29" />
+        <mark key="." line="75" column="28" />
+        <mark key="^" line="75" column="29" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/mysqlutils.py" timestamp="1587068054969">
         <mark key="[" line="17" column="25" />
         <mark key="]" line="17" column="25" />
@@ -127,13 +133,6 @@
         <mark key="]" line="66" column="73" />
         <mark key="." line="66" column="72" />
         <mark key="^" line="66" column="73" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/webpacks/prod.ts" timestamp="1587058857441">
-        <mark key="'" line="21" column="19" />
-        <mark key="[" line="17" column="35" />
-        <mark key="]" line="17" column="35" />
-        <mark key="^" line="17" column="35" />
-        <mark key="." line="17" column="34" />
       </file>
       <file name="$USER_HOME$/code/sc/web/yarn.lock" timestamp="1587065888273" />
       <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1587064307885">
@@ -290,10 +289,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>cid</text>
+        <text>max_length</text>
       </register>
       <register name="-" type="4">
-        <text>cid</text>
+        <text>max_length</text>
       </register>
       <register name="/" type="4">
         <text>webpack</text>
@@ -302,34 +301,34 @@
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbmRfdGltZT1lbmQsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBmbmFtZSA9ICdoai02NDEtNzE3LTc2MC1sb2NhbCcK</text>
+        <text encoding="base64">ICAgIGVuZCA9IHN0cih2YWx1ZXNbImVuZF90aW1lIl0gb3IgIiIpLnN0cmlwKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBmbmFtZSA9ICdoai02NDEtNzE3LTc2MC1sb2NhbCcK</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBlbmQ6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByb3dzID0gWwogICAgYiJzZXQgVU5JUVVFX0NIRUNLUz0wOyIsCiAgICBiInNldCBGT1JFSUdOX0tFWV9DSEVDS1M9MDsiLAogIF0KICByZXR1cm4gYiJcbiIuam9pbihyb3dzKQo=</text>
+        <text encoding="base64">ICAgIGVuZCA9IGxlbihlbmQpID09IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRiICE9IGIibG9jYWwiIGFuZCBiJ3NldCBzZXNzaW9uIHR4X2lzb2xhdGlvbj0iUkVQRUFUQUJMRS1SRUFEIjsnIG9yIGIiIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkYiA9IGRiLmVuY29kZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGIiVVNFIGAlYmAiICUgZGIsCg==</text>
+        <text encoding="base64">ICAgIGlmIGxlbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgImFsbG93SnMiOiB0cnVlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJub0VtaXQiOiB0cnVlLAo=</text>
+        <text encoding="base64">ICBmbmFtZSA9ICdoai02NDEtNzE3LTc2MC1sb2NhbCcK</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
