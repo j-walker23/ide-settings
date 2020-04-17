@@ -98,9 +98,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/selenium/automation/socialclimb/app/dashboard/testcases/test_unresponsive_widget.py" timestamp="1587152402686" />
+      <file name="$USER_HOME$/code/sc/web/sc/coms/testing/utils.py" timestamp="1587075654130">
+        <mark key="[" line="247" column="20" />
+        <mark key="]" line="247" column="25" />
+        <mark key="." line="247" column="24" />
+        <mark key="^" line="247" column="25" />
+      </file>
       <file name="/Python Console" timestamp="1587152994111">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1587154850842">
+        <mark key="'" line="65" column="42" />
+        <mark key="[" line="1229" column="1" />
+        <mark key="]" line="1240" column="9" />
+        <mark key="^" line="1240" column="9" />
+        <mark key="." line="1240" column="8" />
       </file>
       <file name="$USER_HOME$/code/sc/web/cli/apis/hj.py" timestamp="1587152889462">
         <mark key="[" line="60" column="71" />
@@ -111,55 +123,35 @@
       <file name="/console" timestamp="1587153418962">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/selenium/automation/__init__.py" timestamp="1587152386247" />
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" timestamp="1587076125051">
-        <mark key="[" line="296" column="0" />
-        <mark key="]" line="296" column="0" />
-        <mark key="." line="296" column="0" />
-        <mark key="^" line="289" column="19" />
-      </file>
-      <file name="$USER_HOME$/code/sc/selenium/automation/testcases/test_dashboard/test_unresponded_widget.py" timestamp="1587151104066" />
-      <file name="$USER_HOME$/code/sc/selenium/entry_point.py" timestamp="1587151258549" />
-      <file name="$USER_HOME$/.virtualenvs/selenium-4V6blNV6/lib/python3.7/site-packages/selenium/webdriver/support/expected_conditions.py" timestamp="1587152144159" />
-      <file name="$USER_HOME$/code/sc/web/sc/coms/testing/utils.py" timestamp="1587075654130">
-        <mark key="[" line="247" column="20" />
-        <mark key="]" line="247" column="25" />
-        <mark key="." line="247" column="24" />
-        <mark key="^" line="247" column="25" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1587153796604">
-        <mark key="'" line="65" column="42" />
-        <mark key="[" line="1237" column="67" />
-        <mark key="]" line="1237" column="67" />
-        <mark key="^" line="1226" column="39" />
-        <mark key="." line="1237" column="67" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/instance/local/notes/selenium.txt" timestamp="1587150749287">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj.txt" timestamp="1587153746853">
-        <mark key="[" line="18" column="332" />
-        <mark key="]" line="21" column="319" />
-        <mark key="^" line="21" column="319" />
-        <mark key="." line="21" column="318" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" timestamp="1587076125051">
+        <mark key="[" line="296" column="0" />
+        <mark key="]" line="296" column="0" />
+        <mark key="." line="296" column="0" />
+        <mark key="^" line="289" column="19" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj.txt" timestamp="1587154845004">
+        <mark key="[" line="23" column="450" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="/" timestamp="1587075869349">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/selenium/automation/socialclimb/app/outer_ui/login/login_page.py" timestamp="1587152287684" />
       <file name="$USER_HOME$/code/sc/web/Pipfile" timestamp="1587075594910">
         <mark key="'" line="50" column="15" />
       </file>
-      <file name="$USER_HOME$/code/sc/selenium/config.py" timestamp="1587151381950" />
-      <file name="$USER_HOME$/code/sc/selenium/automation/testcases/__init__.py" timestamp="1587151738111" />
-      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1587153224720">
-        <mark key="[" line="360" column="34" />
-        <mark key="]" line="360" column="36" />
+      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1587155380174">
+        <mark key="[" line="360" column="39" />
+        <mark key="]" line="360" column="40" />
         <mark key="^" line="360" column="36" />
-        <mark key="." line="360" column="35" />
+        <mark key="." line="360" column="40" />
       </file>
     </filemarks>
     <jumps>
