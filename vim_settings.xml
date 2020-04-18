@@ -31,12 +31,14 @@
         <entry>encounter_id</entry>
         <entry>eid</entry>
         <entry>encou</entry>
-        <entry>asdf</entry>
         <entry>DefaultS</entry>
         <entry>table</entry>
         <entry>sadf</entry>
         <entry>pretty</entry>
         <entry>webpack</entry>
+        <entry>values</entry>
+        <entry>asdf</entry>
+        <entry>street</entry>
       </history-search>
       <history-cmd>
         <entry>SplitVertically</entry>
@@ -62,6 +64,7 @@
         <entry>%s//placeholders</entry>
         <entry>%s//encounter_id</entry>
         <entry>action SplitVertically</entry>
+        <entry>%s//vals</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -116,18 +119,18 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/demographic.py" timestamp="1587179911128">
-        <mark key="[" line="31" column="5" />
-        <mark key="]" line="31" column="5" />
-        <mark key="." line="31" column="4" />
-        <mark key="^" line="31" column="5" />
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/demographic.py" timestamp="1587180903231">
+        <mark key="[" line="31" column="26" />
+        <mark key="]" line="31" column="33" />
+        <mark key="." line="31" column="32" />
+        <mark key="^" line="31" column="33" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" timestamp="1587179913844">
-        <mark key="'" line="246" column="6" />
-        <mark key="[" line="69" column="54" />
-        <mark key="]" line="69" column="68" />
-        <mark key="." line="69" column="67" />
-        <mark key="^" line="69" column="68" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" timestamp="1587181251672">
+        <mark key="'" line="44" column="5" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="52" column="38" />
       </file>
       <file name="$USER_HOME$/code/sc/web/migrations/versions/a35a2507cd39__4.py" timestamp="1587177792194">
         <mark key="'" line="58" column="0" />
@@ -196,11 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="345" column="2" filename="$USER_HOME$/code/sc/web/cli/john.py" />
-      <jump line="1855" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
-      <jump line="1206" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
-      <jump line="32" column="6" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/settings.py" />
-      <jump line="55" column="23" filename="$USER_HOME$/code/sc/web/migrations/versions/4df3c9522ba7__1.py" />
       <jump line="38" column="21" filename="$USER_HOME$/code/sc/web/migrations/versions/4df3c9522ba7__1.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/migrations/versions/de58dd723724__1.py" />
       <jump line="3155" column="34" filename="$USER_HOME$/code/sc/web/migrations/versions/de58dd723724__1.py" />
@@ -296,64 +294,69 @@
       <jump line="42" column="3" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_40.py" />
       <jump line="48" column="0" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/transaction.py" />
       <jump line="35" column="3" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/engagement.py" />
+      <jump line="158" column="5" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="45" column="53" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="434" column="4" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="44" column="5" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>ount</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICB2YWxzLnVwZGF0ZSgKICAgIG5hbWU9IiAiLmpvaW4oW24udGl0bGUoKSBmb3IgbiBpbiBmaWx0ZXIoTm9uZSwgW2ZpcnN0LCBtaWQsIGxhc3RdKV0pIG9yIE5vbmUsCiAgICBpc2RvYz12YWxzLmdldCgibWRfZmxhZyIpID09ICJZIiwKICAgIHN0cmVldD1zdHJlZXQsCiAgKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>ount</text>
+        <text>utils.filter_none([first, last])</text>
       </register>
       <register name="/" type="4">
-        <text>webpack</text>
+        <text>street</text>
       </register>
       <register name="0" type="4">
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YWxzLnVwZGF0ZSgKICAgIG5hbWU9IiAiLmpvaW4oW24udGl0bGUoKSBmb3IgbiBpbiBmaWx0ZXIoTm9uZSwgW2ZpcnN0LCBtaWQsIGxhc3RdKV0pIG9yIE5vbmUsCiAgICBpc2RvYz12YWxzLmdldCgibWRfZmxhZyIpID09ICJZIiwKICAgIHN0cmVldD1zdHJlZXQsCiAgKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdHJlZXQgPSAiICIuam9pbigKICAgIHV0aWxzLmZpbHRlcl9ub25lKFt2YWxzLmdldCgiYWRkcmVzc19saW5lXzEiKSwgdmFscy5nZXQoImFkZHJlc3NfbGluZV8yIildKQogICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjbGFzcyBFbmdhZ2VtZW50KE1hcHBlck1peCwgTW9kZWwsIEhKTWl4LCBfSEpEYXRlLCBEZW1vQ29sKToK</text>
+        <text encoding="base64">ICAgICAgemlwX3N1Yj12YWx1ZXMuZ2V0KCJ6aXAiKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwY3BfaWQ6IENvbFN0ciA9IENvbHVtbihTdHJpbmcoMjApKQo=</text>
+        <text encoding="base64">ICB6aXBfc3ViOiBQb3N0YWxTdWIgPSBOb25lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhZGRyZXNzX3R5cGU6IG5vbmVtcHR5KGN1cnRhaWxfbGVuZ3RoPTEwKSA9IE5vbmUK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwY3BfaWQ6IG5vbmVtcHR5KG1heF9sZW5ndGg9MjApID0gTm9uZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ClJFUExBQ0UgSU5UTyBgaGpfZGVtb2dyYXBoaWNzYCAoYGFjY291bnRfaWRgLGBjaWRgLGBwaWRgLGBuYW1lYCxgcGhvbmVfbnVtYmVyYCxgcGhvbmVfdHlwZWAsYHBob25lX2V4dGAsYHRvYCxgZmlyc3RfZW1haWxgLGBzZWNvbmRfbnVtYmVyYCxgc2Vjb25kX3R5cGVgLGBzZWNvbmRfZXh0YCxgc2Vjb25kX2VtYWlsYCxgcHJpbWFyeV9sYW5ndWFnZWAsYHByZWZpeGAsYHN1ZmZpeGAsYHNzbmAsYHBjcF9pZGAsYGNvbnNlbnRfdG9fdGV4dGAsYGRvYmAsYGV0aG5pY2l0eWAsYGdlbmRlcmAsYHJhY2VgLGBhZGRyZXNzX2xpbmVfMWAsYGFkZHJlc3NfbGluZV8yYCxgYWRkcmVzc190eXBlYCxgY2l0eWAsYHN0YXRlYCxgemlwYCxgemlwX3N1YmAsYGRhdGVfb2ZfZmlyc3RfYXBwb2ludG1lbnRgLGBkZWF0aF9kYXRlYCxgZGVhdGhfaW5kaWNhdGlvbmAsYGhqX2NyZWF0ZWAsYGhqX21vZGlmeWApClZBTFVFUwooNDc1LCdBVlAwMDEnLCcxMzk3MDU3JywnRW1tZXR0IFwiR2VuZVwiIFZlbnRyZXNzJywnOTI4ODU0NDE4NicsJ0gnLE5VTEwsJzkyODg1NDQxODYnLE5VTEwsTlVMTCwnTScsTlVMTCxOVUxMLCdlbicsTlVMTCxOVUxMLE5VTEwsTlVMTCwnTicsJzE5MjYtMDktMDYgMDA6MDA6MDAnLCdVJywnTScsJzIxMzEtMScsJ1BPIEJPWCAxODI4JywnMzI2MCBIQVNTQVlBTVBBIERSJywnSG9tZScsJ0xBS0UgSEFWQVNVIENJVFknLCdBWicsJzg2NDA1JywnMTgyOCcsTlVMTCxOVUxMLCdOJywnMjAxOS0wOC0xMyAxMzoyNzozMy45NTc5NzYnLCcyMDE5LTA4LTEzIDEzOjM3OjU4LjgzNjgzNScpOwoKKDQ3NSwnQVZQMDAxJywnMTY1MTY4NCcsJ0dyYWNpZWxhIE1hcmlzY2FsJywnNTIwODA2NDA1OScsJ0gnLE5VTEwsJzUyMDgwNjQwNTknLE5VTEwsTlVMTCwnTScsTlVMTCxOVUxMLE5VTEwsTlVMTCxOVUxMLCc1NzE5OTIwNzInLE5VTEwsJ04nLCcxOTQzLTA0LTE4IDAwOjAwOjAwJywnVScsJ0YnLCcyMTMxLTEnLCc5ODAwIFMgTk9HQUxFUycsTlVMTCwnSG9tZScsJ1RVQ1NPTicsJ0FaJywnODU3MDYnLE5VTEwsTlVMTCxOVUxMLCdOJywnMjAxOS0wOC0xMyAxMzoyNzozMy45NTc5NzYnLCcyMDE5LTA4LTEzIDEzOjM3OjU4LjgzNjgzNScpLAogICA2MjEwICg0NzUsJ0FWUDAwMScsJzk3ODQ2MCcsJ0ppbW15IExlZGZvcmQnLCc0ODAzNzQwNjQ1JywnSCcsTlVMTCwnNDgwMzc0MDY0NScsTlVMTCxOVUxMLCdNJyxOVUxMLE5VTEwsJ2VuJyxOVUxMLE5VTEwsTlVMTCwnMTkxMjk2MzU4OCcsJ04nLCcxOTU5LTEwLTA4IDAwOjAwOjAwJywnVScsJ00nLCcyMTMxLTEnLCcxMDQ1IFNvdXRoIFNhbiBKb3NlICMyMDEnLE5VTEwsJ0hvbWUnLCdNZXNhJywnQVonLCc4NTIwMicsTlVMTCxOVUxMLE5VTEwsJ04nLCcyMDE5LTA4LTEzIDEzOjI3OjMzLjk1Nzk3NicsJzIwMTktMDgtMTMgMTM6Mzc6NTguODM2ODM1JyksCgpSRVBMQUNFIElOVE8gYGhqX2RlbW9ncmFwaGljc2AgKGBhY2NvdW50X2lkYCxgY2lkYCxgcGlkYCxgbmFtZWAsYHBob25lX251bWJlcmAsYHBob25lX3R5cGVgLGBwaG9uZV9leHRgLGB0b2AsYGZpcnN0X2VtYWlsYCxgc2Vjb25kX251bWJlcmAsYHNlY29uZF90eXBlYCxgc2Vjb25kX2V4dGAsYHNlY29uZF9lbWFpbGAsYHByaW1hcnlfbGFuZ3VhZ2VgLGBwcmVmaXhgLGBzdWZmaXhgLGBzc25gLGBwY3BfaWRgLGBjb25zZW50X3RvX3RleHRgLGBkb2JgLGBldGhuaWNpdHlgLGBnZW5kZXJgLGByYWNlYCxgYWRkcmVzc19saW5lXzFgLGBhZGRyZXNzX2xpbmVfMmAsYGFkZHJlc3NfdHlwZWAsYGNpdHlgLGBzdGF0ZWAsYHppcGAsYHppcF9zdWJgLGBkYXRlX29mX2ZpcnN0X2FwcG9pbnRtZW50YCxgZGVhdGhfZGF0ZWAsYGRlYXRoX2luZGljYXRpb25gLGBoal9jcmVhdGVgLGBoal9tb2RpZnlgKQpWQUxVRVMgKDcsJ0FWUDAwMScsJzE5MzIwNzQnLCdTZWFuIE9yaW9uIENvbGxpbnMnLCc1MDUyNDAyMDIxJywnSCcsTlVMTCwnNTA1MjQwMjAyMScsJ3NvY29sbGluc25tQGFvbC5jb20nLCc1MDUyNDA1MTA5JywnTScsTlVMTCxOVUxMLCdlbicsTlVMTCxOVUxMLCc3NjQwOTQwODInLE5VTEwsJ04nLCcyMDAxLTAzLTE1IDAwOjAwOjAwJywnVScsJ00nLCcyMTMxLTEnLCcxNzE3IE4gVHVycXVvaXNlIERyJyxOVUxMLCdIb21lJywnRmxhZ3N0YWZmJywnQVonLCc4NjAwMScsTlVMTCxOVUxMLE5VTEwsJ04nLCcyMDE5LTA4LTEzIDEzOjI3OjMzLjk1Nzk3NicsJzIwMTktMDgtMTkgMDc6MDI6NDQuOTg0Mjg4JyksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SplitVertically</text>
+        <text>%s//vals</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>webpack</last-search>
+      <last-search>street</last-search>
       <last-offset />
-      <last-pattern>webpack</last-pattern>
-      <last-replace>encounter_id</last-replace>
-      <last-substitute>eid</last-substitute>
+      <last-pattern>street</last-pattern>
+      <last-replace>vals</last-replace>
+      <last-substitute>values</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
