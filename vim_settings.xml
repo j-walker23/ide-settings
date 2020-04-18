@@ -119,18 +119,18 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/demographic.py" timestamp="1587180903231">
-        <mark key="[" line="31" column="26" />
-        <mark key="]" line="31" column="33" />
-        <mark key="." line="31" column="32" />
-        <mark key="^" line="31" column="33" />
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/demographic.py" timestamp="1587182960594">
+        <mark key="[" line="31" column="2" />
+        <mark key="]" line="31" column="8" />
+        <mark key="." line="31" column="7" />
+        <mark key="^" line="31" column="8" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" timestamp="1587181251672">
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" timestamp="1587183029060">
         <mark key="'" line="44" column="5" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="52" column="38" />
+        <mark key="[" line="82" column="30" />
+        <mark key="]" line="83" column="33" />
+        <mark key="." line="83" column="32" />
+        <mark key="^" line="83" column="33" />
       </file>
       <file name="$USER_HOME$/code/sc/web/migrations/versions/a35a2507cd39__4.py" timestamp="1587177792194">
         <mark key="'" line="58" column="0" />
@@ -303,11 +303,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">ICB2YWxzLnVwZGF0ZSgKICAgIG5hbWU9IiAiLmpvaW4oW24udGl0bGUoKSBmb3IgbiBpbiBmaWx0ZXIoTm9uZSwgW2ZpcnN0LCBtaWQsIGxhc3RdKV0pIG9yIE5vbmUsCiAgICBpc2RvYz12YWxzLmdldCgibWRfZmxhZyIpID09ICJZIiwKICAgIHN0cmVldD1zdHJlZXQsCiAgKQo=</text>
+      <register name="+" type="4">
+        <text>other_id</text>
       </register>
       <register name="-" type="4">
-        <text>utils.filter_none([first, last])</text>
+        <text>other_id</text>
       </register>
       <register name="/" type="4">
         <text>street</text>
@@ -316,34 +316,34 @@
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YWxzLnVwZGF0ZSgKICAgIG5hbWU9IiAiLmpvaW4oW24udGl0bGUoKSBmb3IgbiBpbiBmaWx0ZXIoTm9uZSwgW2ZpcnN0LCBtaWQsIGxhc3RdKV0pIG9yIE5vbmUsCiAgICBpc2RvYz12YWxzLmdldCgibWRfZmxhZyIpID09ICJZIiwKICAgIHN0cmVldD1zdHJlZXQsCiAgKQo=</text>
+        <text encoding="base64">ICBwY3BfaWQ6IG5vbmVtcHR5KG1heF9sZW5ndGg9MjApID0gTm9uZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzdHJlZXQgPSAiICIuam9pbigKICAgIHV0aWxzLmZpbHRlcl9ub25lKFt2YWxzLmdldCgiYWRkcmVzc19saW5lXzEiKSwgdmFscy5nZXQoImFkZHJlc3NfbGluZV8yIildKQogICkK</text>
+        <text encoding="base64">ICBwY3BfaWQ6IENvbFN0ciA9IENvbHVtbihTdHJpbmcoMjApKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgemlwX3N1Yj12YWx1ZXMuZ2V0KCJ6aXAiKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB6aXBfc3ViOiBQb3N0YWxTdWIgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgJ290aGVyX2lkJzoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhZGRyZXNzX3R5cGU6IG5vbmVtcHR5KGN1cnRhaWxfbGVuZ3RoPTEwKSA9IE5vbmUK</text>
+        <text encoding="base64">Y2xhc3MgUmF3UHJvY2VkdXJlKFJhd1RhYmxlKToKICAiIiIiIiIKCiAgY2xhc3MgQ29uZmlnOgogICAgZmllbGRzID0gewogICAgICAicHJvX2lkIjogImNsaWVudF9wcm9jZWR1cmVfaWQiLAogICAgICAicGlkIjogInBhdGllbnRfaWQiLAogICAgICAiY3B0X2NvZGUiOiAiY3B0NF9oY3Bjc19jb2RlIiwKICAgICAgIm1vZGlmaWVyMSI6ICJtb2RpZmllcl9jb2RlMSIsCiAgICAgICJtb2RpZmllcjIiOiAibW9kaWZpZXJfY29kZTIiLAogICAgfQoKICBwcm9faWQ6IG5vbmVtcHR5KG1heF9sZW5ndGg9UElEX0xFTiwgbG93ZXJzPVRydWUpCiAgcGlkOiBub25lbXB0eShtYXhfbGVuZ3RoPVBJRF9MRU4sIGxvd2Vycz1UcnVlKSA9IFVOS05PV04KICBlbmNvdW50ZXJfaWQ6IG5vbmVtcHR5KG1heF9sZW5ndGg9UElEX0xFTiwgbG93ZXJzPVRydWUpID0gVU5LTk9XTgogIGNwdF9jb2RlOiBub25lbXB0eShjdXJ0YWlsX2xlbmd0aD1DUFRfTEVOKQogIHllYXI6IGludAogIG1vZGlmaWVyMTogY29uc3RyKGN1cnRhaWxfbGVuZ3RoPTIpID0gIiIKICBtb2RpZmllcjI6IGNvbnN0cihjdXJ0YWlsX2xlbmd0aD0yKSA9ICIiCiAgZGF0ZTogY29uYXJyb3coY29uc3QuaGpfZGF5X2Zvcm1hdCkKICBpbnRlcm5hbF9jaGFyZ2VfY29kZTogbm9uZW1wdHkobWF4X2xlbmd0aD0xMikgPSBOb25lCiAgZGVzY3JpcHRpb246IG5vbmVtcHR5KG1heF9sZW5ndGg9NTAwKSA9IE5vbmUKICByZXN1bHQ6IG5vbmVtcHR5KG1heF9sZW5ndGg9MSkgPSBOb25lCiAgdG90YWxfY2hhcmdlczogZmxvYXQgPSBOb25lCiAgdW5pdHM6IGZsb2F0ID0gTm9uZQogIGR4MV9jb2RlOiBub25lbXB0eShjdXJ0YWlsX2xlbmd0aD0xMCkgPSBOb25lCiAgZHgyX2NvZGU6IG5vbmVtcHR5KGN1cnRhaWxfbGVuZ3RoPTEwKSA9IE5vbmUKICBkeDNfY29kZTogbm9uZW1wdHkoY3VydGFpbF9sZW5ndGg9MTApID0gTm9uZQogIGR4NF9jb2RlOiBub25lbXB0eShjdXJ0YWlsX2xlbmd0aD0xMCkgPSBOb25lCiAgaGpfY3JlYXRlOiBkYXRldGltZSA9IEZpZWxkKC4uLiwgYWxpYXM9ImhqX2NyZWF0ZV90aW1lc3RhbXAiKQogIGhqX21vZGlmeTogZGF0ZXRpbWUgPSBGaWVsZCguLi4sIGFsaWFzPSJoal9tb2RpZnlfdGltZXN0YW1wIikKCiAgQHJvb3RfdmFsaWRhdG9yKHByZT1UcnVlKQogIGRlZiBfcm9vdChjbHMsIHZhbHM6IERpY3QpOgogICAgIiIiIiIiCiAgICBpZiB2YWxzLmdldCgiZGF0ZSIpOgogICAgICBkYXRlID0gdG9faGpfYXJyb3codmFsc1siZGF0ZSJdLCBjb25zdC5oal9kYXlfZm9ybWF0KQogICAgICBjb2RlID0gdmFsc1siY3B0NF9oY3Bjc19jb2RlIl0uc3BsaXQoIiwiKVswXS5zcGxpdCgiICIpWzBdCiAgICAgIHZhbHMudXBkYXRlKAogICAgICAgIGRhdGU9ZGF0ZSwgeWVhcj1kYXRlLnllYXIsIGNwdDRfaGNwY3NfY29kZT1jb2RlLAogICAgICApCiAgICByZXR1cm4gY2xzLl9jbGVhbl9yb290KHZhbHMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0cmVldCA9ICIgIi5qb2luKAogICAgICB1dGlscy5maWx0ZXJfbm9uZShbdmFscy5nZXQoImFkZHJlc3NfbGluZV8xIiksIHZhbHMuZ2V0KCJhZGRyZXNzX2xpbmVfMiIpXSkKICAgICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwY3BfaWQ6IG5vbmVtcHR5KG1heF9sZW5ndGg9MjApID0gTm9uZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0cmVldCA9ICIgIi5qb2luKAogICAgICB1dGlscy5maWx0ZXJfbm9uZShbdmFscy5nZXQoImFkZHJlc3NfbGluZV8xIiksIHZhbHMuZ2V0KCJhZGRyZXNzX2xpbmVfMiIpXSkKICAgICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc3RyZWV0PV9zdHJlZXQodmFscyksCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//vals</text>
