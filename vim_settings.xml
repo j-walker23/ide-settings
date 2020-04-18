@@ -112,12 +112,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" timestamp="1587194429589">
-        <mark key="'" line="599" column="0" />
-        <mark key="[" line="606" column="0" />
-        <mark key="]" line="606" column="23" />
-        <mark key="^" line="606" column="23" />
-        <mark key="." line="606" column="22" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" timestamp="1587214017427">
+        <mark key="'" line="580" column="0" />
+        <mark key="[" line="607" column="32" />
+        <mark key="]" line="608" column="26" />
+        <mark key="^" line="608" column="26" />
+        <mark key="." line="608" column="25" />
       </file>
       <file name="/Python Console" timestamp="1587192814229">
         <mark key="[" line="0" column="0" />
@@ -143,7 +143,7 @@
         <mark key="." line="65" column="29" />
         <mark key="^" line="65" column="30" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" timestamp="1587211897538">
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" timestamp="1587213573179">
         <mark key="'" line="375" column="38" />
         <mark key="[" line="404" column="0" />
         <mark key="]" line="404" column="0" />
@@ -235,7 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7544" column="0" filename="$USER_HOME$/code/sc/web/yarn.lock" />
       <jump line="7546" column="57" filename="$USER_HOME$/code/sc/web/yarn.lock" />
       <jump line="7551" column="0" filename="$USER_HOME$/code/sc/web/yarn.lock" />
       <jump line="7553" column="56" filename="$USER_HOME$/code/sc/web/yarn.lock" />
@@ -335,6 +334,7 @@
       <jump line="1321" column="33" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
       <jump line="1243" column="18" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
       <jump line="375" column="38" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="580" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
