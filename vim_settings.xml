@@ -45,6 +45,7 @@
         <entry>modifier1</entry>
         <entry>zip</entry>
         <entry>\.zip</entry>
+        <entry>--</entry>
       </history-search>
       <history-cmd>
         <entry>SplitVertically</entry>
@@ -127,7 +128,7 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="20" column="47" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/transaction.py" timestamp="1587193665487">
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/transaction.py" timestamp="1587203017705">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="67" />
         <mark key="^" line="47" column="9" />
@@ -142,7 +143,7 @@
         <mark key="." line="65" column="29" />
         <mark key="^" line="65" column="30" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" timestamp="1587202445559">
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" timestamp="1587203352318">
         <mark key="'" line="375" column="38" />
         <mark key="[" line="395" column="2" />
         <mark key="]" line="395" column="9" />
@@ -172,12 +173,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1587194288105">
-        <mark key="'" line="1243" column="4" />
-        <mark key="[" line="1242" column="10" />
-        <mark key="]" line="1329" column="93" />
-        <mark key="^" line="1329" column="93" />
-        <mark key="." line="1307" column="52" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1587203408584">
+        <mark key="'" line="1321" column="33" />
+        <mark key="[" line="1322" column="4" />
+        <mark key="]" line="1322" column="4" />
+        <mark key="^" line="1322" column="4" />
+        <mark key="." line="1322" column="4" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/charge.py" timestamp="1587192518279">
         <mark key="[" line="84" column="38" />
@@ -192,11 +193,11 @@
         <mark key="^" line="22" column="54" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj.txt" timestamp="1587193408991">
-        <mark key="[" line="16" column="3" />
-        <mark key="]" line="18" column="7" />
-        <mark key="." line="18" column="6" />
-        <mark key="^" line="18" column="7" />
+      <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj.txt" timestamp="1587203267315">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="24" column="44" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_40.py" timestamp="1587191565851">
         <mark key="'" line="14" column="3" />
@@ -234,14 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7225" column="25" filename="$USER_HOME$/code/sc/web/yarn.lock" />
-      <jump line="4676" column="57" filename="$USER_HOME$/code/sc/web/yarn.lock" />
-      <jump line="4959" column="4" filename="$USER_HOME$/code/sc/web/yarn.lock" />
-      <jump line="7079" column="7" filename="$USER_HOME$/code/sc/web/yarn.lock" />
-      <jump line="7081" column="72" filename="$USER_HOME$/code/sc/web/yarn.lock" />
-      <jump line="7091" column="4" filename="$USER_HOME$/code/sc/web/yarn.lock" />
-      <jump line="7252" column="15" filename="$USER_HOME$/code/sc/web/yarn.lock" />
-      <jump line="7254" column="88" filename="$USER_HOME$/code/sc/web/yarn.lock" />
       <jump line="7544" column="0" filename="$USER_HOME$/code/sc/web/yarn.lock" />
       <jump line="7546" column="57" filename="$USER_HOME$/code/sc/web/yarn.lock" />
       <jump line="7551" column="0" filename="$USER_HOME$/code/sc/web/yarn.lock" />
@@ -331,54 +324,62 @@
       <jump line="303" column="51" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
       <jump line="375" column="38" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
       <jump line="1308" column="31" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
-      <jump line="1243" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
       <jump line="599" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
+      <jump line="1243" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
+      <jump line="1332" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
+      <jump line="1329" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
+      <jump line="1246" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
+      <jump line="1260" column="32" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
+      <jump line="1271" column="31" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
+      <jump line="1285" column="47" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
+      <jump line="1318" column="55" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
+      <jump line="1321" column="33" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>delete_ind</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>delete_ind</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>\.zip</text>
+        <text>--</text>
       </register>
       <register name="0" type="4">
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">V2hhdCBkbyBzb21lIG9mIHRoZSBjb21tZW50ZWQgb3V0IGBjYXNlYCBjb2RlIG1lYW4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpc2NvcGF5OiBDb2xCb29sID0gQ29sdW1uKEJvb2xlYW4sIG51bGxhYmxlPUZhbHNlLCBkZWZhdWx0PUZhbHNlKQo=</text>
+        <text encoding="base64">aXNjb3BheQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlzY29wYXkK</text>
+        <text encoding="base64">LS0gY2FzZSBjLmNvcGF5X2NvbGxlY3RlZF9hbW91bnQKLS0gd2hlbiBOVUxMIHRoZW4gJzAuMDAnCi0tIHdoZW4gJycgdGhlbiAnMC4wMCcKLS0gZWxzZSBjLmNvcGF5X2NvbGxlY3RlZF9hbW91bnQgZW5kCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbHMudXBkYXRlKCkK</text>
+        <text encoding="base64">LS0gd2hlbiBOVUxMIHRoZW4gJzAuMDAnCi0tIHdoZW4gJycgdGhlbiAnMC4wMCcKLS0gZWxzZSBjLmNvcGF5X2JhbGFuY2VfYW1vdW50IGVuZAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBpc2NvcGF5OiBDb2xCb29sID0gQ29sdW1uKEJvb2xlYW4sIG51bGxhYmxlPUZhbHNlLCBkZWZhdWx0PUZhbHNlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpc19hcnJvd2x5dGljcyA9IENvbHVtbihCb29sZWFuLCBudWxsYWJsZT1GYWxzZSwgZGVmYXVsdD1GYWxzZSkK</text>
+        <text encoding="base64">ICAgIGlzY29wYXkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCAxJSAK</text>
+        <text encoding="base64">ICAgIHZhbHMudXBkYXRlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpc2JhY2tvdXQ6IENvbEJvb2wgPSBDb2x1bW4oQm9vbGVhbiwgbnVsbGFibGU9RmFsc2UsIGRlZmF1bHQ9RmFsc2UpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//.postal</text>
@@ -387,9 +388,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>\.zip</last-search>
+      <last-search>--</last-search>
       <last-offset />
-      <last-pattern>\.zip</last-pattern>
+      <last-pattern>--</last-pattern>
       <last-replace>.postal</last-replace>
       <last-substitute>\.zip</last-substitute>
       <last-dir>1</last-dir>
