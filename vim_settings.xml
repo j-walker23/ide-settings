@@ -143,12 +143,12 @@
         <mark key="." line="65" column="29" />
         <mark key="^" line="65" column="30" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" timestamp="1587213573179">
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" timestamp="1587226247913">
         <mark key="'" line="375" column="38" />
-        <mark key="[" line="404" column="0" />
-        <mark key="]" line="404" column="0" />
-        <mark key="." line="404" column="0" />
-        <mark key="^" line="417" column="29" />
+        <mark key="[" line="267" column="35" />
+        <mark key="]" line="267" column="42" />
+        <mark key="." line="267" column="41" />
+        <mark key="^" line="267" column="42" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/tasks/twilio.py" timestamp="1587191306809">
         <mark key="[" line="27" column="30" />
@@ -186,12 +186,12 @@
         <mark key="." line="84" column="53" />
         <mark key="^" line="84" column="54" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" timestamp="1587190469283">
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" timestamp="1587226256316">
         <mark key="'" line="35" column="2" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="22" column="54" />
-        <mark key="." line="39" column="0" />
+        <mark key="[" line="39" column="35" />
+        <mark key="]" line="39" column="51" />
+        <mark key="^" line="39" column="51" />
+        <mark key="." line="39" column="50" />
       </file>
       <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj.txt" timestamp="1587225263233">
         <mark key="'" line="5" column="0" />
@@ -341,10 +341,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>But</text>
+        <text>None</text>
       </register>
       <register name="-" type="4">
-        <text>But</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
         <text>--</text>
@@ -353,34 +353,34 @@
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0eXBlOiBub25lbXB0eShtYXhfbGVuZ3RoPTEyOCkgPSBOb25lCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXZlbnVlX2RldGFpbDogbm9uZW1wdHkobWF4X2xlbmd0aD00MCkK</text>
+        <text encoding="base64">ICByZXNvdXJjZTogQ29sU3RyID0gQ29sdW1uKFN0cmluZygxMDApKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ck5FVwotIERpZmZlcmVudCBkYXRlIGZvcm1hdCBwZXIgY3VzdG9tZXIgZm9yIHNvdXJjZV9tb2RpZnlfdGltZXN0YW1wLHNvdXJjZV9jcmVhdGVfdGltZXN0YW1wCi0gU2VlbXMgbGlrZSBpdCB3b3VsZCBiZSBoYW5keSBmb3IgYXBwb2ludG1lbnQuY2xpZW50X2FwcHRfaWQgPT0gY2hhcmdlLmFwcG9pbnRtZW50X2lkPwotIGFwcG9pbnRtZW50X3N0YXR1czogU2hvdWxkICJXYWl0IExpc3RlZCwgQnVtcGVkIiBiZSBhbGlhc2VkIHRvIGFueSBvZiB0aGUgY3VycmVudCBvcHRpb25zPwo=</text>
+        <text encoding="base64">ICByZXNvdXJjZTogbm9uZW1wdHkobWF4X2xlbmd0aD0xMDApID0gTm9uZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">V2hhdCBkbyBzb21lIG9mIHRoZSBjb21tZW50ZWQgb3V0IGBjYXNlYCBjb2RlIG1lYW4K</text>
+        <text encoding="base64">ICBwbGFjZV9vZl9zZXJ2aWNlX2NvZGU6IENvbEludCA9IENvbHVtbihJbnRlZ2VyLCBudWxsYWJsZT1GYWxzZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aXNjb3BheQo=</text>
+        <text encoding="base64">ICB0eXBlOiBDb2xTdHIgPSBDb2x1bW4oU3RyaW5nKDEyOCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LS0gY2FzZSBjLmNvcGF5X2NvbGxlY3RlZF9hbW91bnQKLS0gd2hlbiBOVUxMIHRoZW4gJzAuMDAnCi0tIHdoZW4gJycgdGhlbiAnMC4wMCcKLS0gZWxzZSBjLmNvcGF5X2NvbGxlY3RlZF9hbW91bnQgZW5kCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">LS0gd2hlbiBOVUxMIHRoZW4gJzAuMDAnCi0tIHdoZW4gJycgdGhlbiAnMC4wMCcKLS0gZWxzZSBjLmNvcGF5X2JhbGFuY2VfYW1vdW50IGVuZAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICByZXZlbnVlX2RldGFpbDogbm9uZW1wdHkobWF4X2xlbmd0aD00MCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ck5FVwotIERpZmZlcmVudCBkYXRlIGZvcm1hdCBwZXIgY3VzdG9tZXIgZm9yIHNvdXJjZV9tb2RpZnlfdGltZXN0YW1wLHNvdXJjZV9jcmVhdGVfdGltZXN0YW1wCi0gU2VlbXMgbGlrZSBpdCB3b3VsZCBiZSBoYW5keSBmb3IgYXBwb2ludG1lbnQuY2xpZW50X2FwcHRfaWQgPT0gY2hhcmdlLmFwcG9pbnRtZW50X2lkPwotIGFwcG9pbnRtZW50X3N0YXR1czogU2hvdWxkICJXYWl0IExpc3RlZCwgQnVtcGVkIiBiZSBhbGlhc2VkIHRvIGFueSBvZiB0aGUgY3VycmVudCBvcHRpb25zPwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpc2NvcGF5OiBDb2xCb29sID0gQ29sdW1uKEJvb2xlYW4sIG51bGxhYmxlPUZhbHNlLCBkZWZhdWx0PUZhbHNlKQo=</text>
+        <text encoding="base64">V2hhdCBkbyBzb21lIG9mIHRoZSBjb21tZW50ZWQgb3V0IGBjYXNlYCBjb2RlIG1lYW4K</text>
       </register>
       <register name=":" type="4">
         <text>%s//.postal</text>
