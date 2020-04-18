@@ -128,7 +128,7 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="20" column="47" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/transaction.py" timestamp="1587203017705">
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/transaction.py" timestamp="1587211874032">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="67" />
         <mark key="^" line="47" column="9" />
@@ -143,12 +143,12 @@
         <mark key="." line="65" column="29" />
         <mark key="^" line="65" column="30" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" timestamp="1587208350298">
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" timestamp="1587211897538">
         <mark key="'" line="375" column="38" />
-        <mark key="[" line="395" column="2" />
-        <mark key="]" line="395" column="9" />
-        <mark key="." line="395" column="8" />
-        <mark key="^" line="395" column="9" />
+        <mark key="[" line="404" column="0" />
+        <mark key="]" line="404" column="0" />
+        <mark key="." line="404" column="0" />
+        <mark key="^" line="417" column="29" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/tasks/twilio.py" timestamp="1587191306809">
         <mark key="[" line="27" column="30" />
@@ -173,7 +173,7 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1587203414612">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" timestamp="1587211642511">
         <mark key="'" line="1243" column="18" />
         <mark key="[" line="1322" column="4" />
         <mark key="]" line="1322" column="4" />
@@ -193,11 +193,11 @@
         <mark key="^" line="22" column="54" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj.txt" timestamp="1587205579595">
-        <mark key="[" line="27" column="72" />
-        <mark key="]" line="27" column="72" />
-        <mark key="." line="27" column="72" />
-        <mark key="^" line="27" column="74" />
+      <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj.txt" timestamp="1587211614566">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="22" column="74" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_40.py" timestamp="1587191565851">
         <mark key="'" line="14" column="3" />
@@ -322,7 +322,6 @@
       <jump line="308" column="22" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
       <jump line="1226" column="10" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
       <jump line="303" column="51" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="375" column="38" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
       <jump line="1308" column="31" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
       <jump line="599" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
       <jump line="1332" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
@@ -335,15 +334,16 @@
       <jump line="1318" column="55" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
       <jump line="1321" column="33" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
       <jump line="1243" column="18" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
+      <jump line="375" column="38" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICByZXZlbnVlX2RldGFpbDogbm9uZW1wdHkobWF4X2xlbmd0aD00MCkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>vals['trans_description']</text>
       </register>
       <register name="/" type="4">
         <text>--</text>
@@ -352,34 +352,34 @@
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">V2hhdCBkbyBzb21lIG9mIHRoZSBjb21tZW50ZWQgb3V0IGBjYXNlYCBjb2RlIG1lYW4K</text>
+        <text encoding="base64">ICByZXZlbnVlX2RldGFpbDogbm9uZW1wdHkobWF4X2xlbmd0aD00MCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aXNjb3BheQo=</text>
+        <text encoding="base64">Ck5FVwotIERpZmZlcmVudCBkYXRlIGZvcm1hdCBwZXIgY3VzdG9tZXIgZm9yIHNvdXJjZV9tb2RpZnlfdGltZXN0YW1wLHNvdXJjZV9jcmVhdGVfdGltZXN0YW1wCi0gU2VlbXMgbGlrZSBpdCB3b3VsZCBiZSBoYW5keSBmb3IgYXBwb2ludG1lbnQuY2xpZW50X2FwcHRfaWQgPT0gY2hhcmdlLmFwcG9pbnRtZW50X2lkPwotIGFwcG9pbnRtZW50X3N0YXR1czogU2hvdWxkICJXYWl0IExpc3RlZCwgQnVtcGVkIiBiZSBhbGlhc2VkIHRvIGFueSBvZiB0aGUgY3VycmVudCBvcHRpb25zPwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LS0gY2FzZSBjLmNvcGF5X2NvbGxlY3RlZF9hbW91bnQKLS0gd2hlbiBOVUxMIHRoZW4gJzAuMDAnCi0tIHdoZW4gJycgdGhlbiAnMC4wMCcKLS0gZWxzZSBjLmNvcGF5X2NvbGxlY3RlZF9hbW91bnQgZW5kCg==</text>
+        <text encoding="base64">V2hhdCBkbyBzb21lIG9mIHRoZSBjb21tZW50ZWQgb3V0IGBjYXNlYCBjb2RlIG1lYW4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LS0gd2hlbiBOVUxMIHRoZW4gJzAuMDAnCi0tIHdoZW4gJycgdGhlbiAnMC4wMCcKLS0gZWxzZSBjLmNvcGF5X2JhbGFuY2VfYW1vdW50IGVuZAo=</text>
+        <text encoding="base64">aXNjb3BheQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0gY2FzZSBjLmNvcGF5X2NvbGxlY3RlZF9hbW91bnQKLS0gd2hlbiBOVUxMIHRoZW4gJzAuMDAnCi0tIHdoZW4gJycgdGhlbiAnMC4wMCcKLS0gZWxzZSBjLmNvcGF5X2NvbGxlY3RlZF9hbW91bnQgZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpc2NvcGF5OiBDb2xCb29sID0gQ29sdW1uKEJvb2xlYW4sIG51bGxhYmxlPUZhbHNlLCBkZWZhdWx0PUZhbHNlKQo=</text>
+        <text encoding="base64">LS0gd2hlbiBOVUxMIHRoZW4gJzAuMDAnCi0tIHdoZW4gJycgdGhlbiAnMC4wMCcKLS0gZWxzZSBjLmNvcGF5X2JhbGFuY2VfYW1vdW50IGVuZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlzY29wYXkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbHMudXBkYXRlKCkK</text>
+        <text encoding="base64">ICBpc2NvcGF5OiBDb2xCb29sID0gQ29sdW1uKEJvb2xlYW4sIG51bGxhYmxlPUZhbHNlLCBkZWZhdWx0PUZhbHNlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlzY29wYXkK</text>
       </register>
       <register name=":" type="4">
         <text>%s//.postal</text>
