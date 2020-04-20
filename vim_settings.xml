@@ -118,9 +118,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/selenium/automation/socialclimb/app/dashboard/testcases/test_unresponsive_widget.py" timestamp="1587377975859" />
+      <file name="$USER_HOME$/code/sc/selenium/utils.py" timestamp="1587380424432" />
       <file name="$USER_HOME$/code/sc/selenium/automation/models/account.py" timestamp="1587379512933">
         <mark key="'" line="55" column="11" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1587380035178">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" timestamp="1587378376339">
         <mark key="'" line="600" column="7" />
@@ -135,6 +138,12 @@
         <mark key="^" line="39" column="30" />
         <mark key="." line="39" column="29" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/migrations/versions/06ff607d4999__5.py" timestamp="1587369279380">
+        <mark key="[" line="282" column="0" />
+        <mark key="]" line="282" column="0" />
+        <mark key="^" line="282" column="0" />
+        <mark key="." line="282" column="0" />
+      </file>
       <file name="/console" timestamp="1587378361442">
         <mark key="[" line="0" column="0" />
       </file>
@@ -145,15 +154,21 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="44" column="12" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/demographic.py" timestamp="1587369142104">
-        <mark key="'" line="39" column="2" />
-        <mark key="[" line="23" column="27" />
-        <mark key="]" line="23" column="34" />
-        <mark key="." line="23" column="33" />
-        <mark key="^" line="23" column="34" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/migrations/keepers.sql" timestamp="1587378375066">
         <mark key="'" line="80" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/charge.py" timestamp="1587369152578">
+        <mark key="[" line="59" column="22" />
+        <mark key="]" line="59" column="40" />
+        <mark key="." line="59" column="39" />
+        <mark key="^" line="59" column="40" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" timestamp="1587369159891">
+        <mark key="'" line="35" column="2" />
+        <mark key="[" line="28" column="27" />
+        <mark key="]" line="28" column="45" />
+        <mark key="." line="28" column="44" />
+        <mark key="^" line="28" column="45" />
       </file>
       <file name="$USER_HOME$/code/sc/selenium/selenium.txt" timestamp="1587379736996">
         <mark key="'" line="36" column="51" />
@@ -162,9 +177,11 @@
         <mark key="." line="5" column="26" />
         <mark key="^" line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/code/sc/selenium/entry_point.py" timestamp="1587379052496" />
       <file name="$USER_HOME$/code/sc/selenium/scripts/update_cookies.py" timestamp="1587378901404">
         <mark key="'" line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/selenium/config.py" timestamp="1587379586994">
+        <mark key="'" line="30" column="19" />
       </file>
       <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1587374221273">
         <mark key="[" line="0" column="0" />
@@ -181,31 +198,6 @@
         <mark key="]" line="46" column="70" />
         <mark key="^" line="46" column="70" />
         <mark key="." line="46" column="69" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1587380035178">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/migrations/versions/06ff607d4999__5.py" timestamp="1587369279380">
-        <mark key="[" line="282" column="0" />
-        <mark key="]" line="282" column="0" />
-        <mark key="^" line="282" column="0" />
-        <mark key="." line="282" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/charge.py" timestamp="1587369152578">
-        <mark key="[" line="59" column="22" />
-        <mark key="]" line="59" column="40" />
-        <mark key="." line="59" column="39" />
-        <mark key="^" line="59" column="40" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" timestamp="1587369159891">
-        <mark key="'" line="35" column="2" />
-        <mark key="[" line="28" column="27" />
-        <mark key="]" line="28" column="45" />
-        <mark key="." line="28" column="44" />
-        <mark key="^" line="28" column="45" />
-      </file>
-      <file name="$USER_HOME$/code/sc/selenium/config.py" timestamp="1587379586994">
-        <mark key="'" line="30" column="19" />
       </file>
       <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1587378760835">
         <mark key="'" line="431" column="14" />
