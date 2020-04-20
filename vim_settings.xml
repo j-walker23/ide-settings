@@ -133,13 +133,6 @@
         <mark key="^" line="39" column="30" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" timestamp="1587396802357">
-        <mark key="'" line="329" column="11" />
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
-        <mark key="^" line="118" column="58" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1587397331267">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
@@ -195,6 +188,9 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
+      <file name="/console" timestamp="1587410036560">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/selenium/automation/__init__.py" timestamp="1587399250007">
         <mark key="'" line="45" column="0" />
         <mark key="[" line="36" column="26" />
@@ -202,13 +198,14 @@
         <mark key="^" line="36" column="27" />
         <mark key="." line="36" column="26" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/demographic.py" timestamp="1587396840242">
-        <mark key="[" line="35" column="41" />
-        <mark key="]" line="35" column="41" />
-        <mark key="." line="35" column="40" />
-        <mark key="^" line="35" column="41" />
-      </file>
       <file name="$USER_HOME$/code/sc/selenium/automation/socialclimb/app/surveys/testcases/__init__.py" timestamp="1587398694824" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b6782c72-08eb-450d-8519-6d42b23fd316/console.sql" timestamp="1587410115808">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1587406939458">
         <mark key="'" line="472" column="7" />
         <mark key="[" line="502" column="57" />
@@ -218,7 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="6" filename="$USER_HOME$/code/sc/web/sc/sql/__init__.py" />
       <jump line="11" column="40" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/source_encounter.py" />
       <jump line="416" column="35" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
       <jump line="46" column="0" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
@@ -318,15 +314,16 @@
       <jump line="620" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
       <jump line="56" column="19" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" />
       <jump line="64" column="28" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" />
+      <jump line="16" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b6782c72-08eb-450d-8519-6d42b23fd316/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>row.count</text>
+      <register name="+" type="2">
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBhZF9wbGF5Ym9va3NfYm9vc3RzIGEKd2hlcmUgYm9vc3RfaWQgaW4gKDYwNiwgNjA3KQo7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>row.count</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>_count</text>
@@ -335,34 +332,34 @@
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIC5kZWJ1Z19wcmludCgpCg==</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBhZF9wbGF5Ym9va3NfYm9vc3RzIGEKd2hlcmUgYm9vc3RfaWQgaW4gKDYwNiwgNjA3KQo7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGF0YSA9IGRpY3QoCiAgICAgICAgYWlkPWFjYy5pZCwKICAgICAgICBhY2M9YWNjLm5hbWUsCiAgICAgICAgcGF0aWVudHM9ZGVtcywKICAgICAgICBsb2NhdGlvbnM9bG9jcywKICAgICAgICBwcm92aWRlcnM9ZG9jcywKICAgICAgICBsb2NhdGlvbl9wY3RfbWlzc2luZz0oMSAtIChyb3cubG9jYXRpb25fY291bnQgLyByb3cuY291bnQpKSAqIDEwMCwKICAgICAgICBwcm92aWRlcl9wY3RfbWlzc2luZz0oMSAtIChyb3cucHJvdmlkZXJfY291bnQgLyByb3cuY291bnQpKSAqIDEwMCwKICAgICAgICBwYXRpZW50X3BjdF9taXNzaW5nPSgxIC0gKHJvdy5wYXRpZW50X2NvdW50IC8gcm93LmNvdW50KSkgKiAxMDAsCiAgICAgICAgc3RhdHVzX3BjdF9taXNzaW5nPSgxIC0gKHJvdy5zdGF0dXNfY291bnQgLyByb3cuY291bnQpKSAqIDEwMCwKICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIC5kZWJ1Z19wcmludCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgQGh5YnJpZF9wcm9wZXJ0eQogIGRlZiBzdGF0dXNfY291bnQoY2xzKToKICAgICIiIiIiIgogICAgcmV0dXJuIChzZWxlY3QoW2Z1bmMuY291bnQoKV0pCiAgICAgICAgICAgIC53aGVyZShjbHMuc3RhdHVzICE9IFN0YXR1c1R5cGUuVU5LTk9XTikKICAgICAgICAgICAgLmxhYmVsKCdzdGF0dXNfY291bnQnKSkK</text>
+        <text encoding="base64">ICAgICAgZGF0YSA9IGRpY3QoCiAgICAgICAgYWlkPWFjYy5pZCwKICAgICAgICBhY2M9YWNjLm5hbWUsCiAgICAgICAgcGF0aWVudHM9ZGVtcywKICAgICAgICBsb2NhdGlvbnM9bG9jcywKICAgICAgICBwcm92aWRlcnM9ZG9jcywKICAgICAgICBsb2NhdGlvbl9wY3RfbWlzc2luZz0oMSAtIChyb3cubG9jYXRpb25fY291bnQgLyByb3cuY291bnQpKSAqIDEwMCwKICAgICAgICBwcm92aWRlcl9wY3RfbWlzc2luZz0oMSAtIChyb3cucHJvdmlkZXJfY291bnQgLyByb3cuY291bnQpKSAqIDEwMCwKICAgICAgICBwYXRpZW50X3BjdF9taXNzaW5nPSgxIC0gKHJvdy5wYXRpZW50X2NvdW50IC8gcm93LmNvdW50KSkgKiAxMDAsCiAgICAgICAgc3RhdHVzX3BjdF9taXNzaW5nPSgxIC0gKHJvdy5zdGF0dXNfY291bnQgLyByb3cuY291bnQpKSAqIDEwMCwKICAgICAgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBcHBvaW50bWVudC5zdGF0dXNfY291bnQsCg==</text>
+        <text encoding="base64">CiAgQGh5YnJpZF9wcm9wZXJ0eQogIGRlZiBzdGF0dXNfY291bnQoY2xzKToKICAgICIiIiIiIgogICAgcmV0dXJuIChzZWxlY3QoW2Z1bmMuY291bnQoKV0pCiAgICAgICAgICAgIC53aGVyZShjbHMuc3RhdHVzICE9IFN0YXR1c1R5cGUuVU5LTk9XTikKICAgICAgICAgICAgLmxhYmVsKCdzdGF0dXNfY291bnQnKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZm9yIHJvdyBpbiBxOgo=</text>
+        <text encoding="base64">ICAgICAgICBBcHBvaW50bWVudC5zdGF0dXNfY291bnQsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBBcHBvaW50bWVudC5hY2NvdW50X2lkLAo=</text>
+        <text encoding="base64">ICAgICAgZm9yIHJvdyBpbiBxOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBcHBvaW50bWVudC5hY2NvdW50X2lkLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAuZGVidWdfcHJpbnQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAuZGVidWdfcHJpbnQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s//_joined</text>
