@@ -41,12 +41,15 @@
         <entry>null</entry>
         <entry>street</entry>
         <entry>appointment_status</entry>
-        <entry>asdf</entry>
         <entry>modifier1</entry>
         <entry>zip</entry>
         <entry>\.zip</entry>
         <entry>--</entry>
         <entry>ATH</entry>
+        <entry>lowers</entry>
+        <entry>uppers</entry>
+        <entry>seq</entry>
+        <entry>asdf</entry>
       </history-search>
       <history-cmd>
         <entry>SplitVertically</entry>
@@ -77,6 +80,7 @@
         <entry>%s//modifier</entry>
         <entry>%s//postal</entry>
         <entry>%s//.postal</entry>
+        <entry>%s//uppers</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -145,14 +149,16 @@
         <mark key="]" line="133" column="72" />
         <mark key="." line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" timestamp="1587350930930">
-        <mark key="'" line="93" column="39" />
-        <mark key="[" line="423" column="64" />
-        <mark key="]" line="424" column="63" />
-        <mark key="." line="424" column="62" />
-        <mark key="^" line="424" column="63" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" timestamp="1587352207263">
+        <mark key="'" line="110" column="29" />
+        <mark key="[" line="111" column="34" />
+        <mark key="]" line="111" column="40" />
+        <mark key="." line="111" column="39" />
+        <mark key="^" line="111" column="40" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/unloading.py" timestamp="1587348605620" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/unloading.py" timestamp="1587352251150">
+        <mark key="'" line="72" column="16" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/const.py" timestamp="1587336550132">
         <mark key="[" line="49" column="17" />
         <mark key="]" line="49" column="21" />
@@ -197,6 +203,12 @@
         <mark key="." line="22" column="32" />
         <mark key="^" line="22" column="33" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/coms/pydantics/types.py" timestamp="1587352127551">
+        <mark key="[" line="124" column="22" />
+        <mark key="]" line="126" column="22" />
+        <mark key="." line="126" column="21" />
+        <mark key="^" line="126" column="22" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/__init__.py" timestamp="1587350614178">
         <mark key="'" line="34" column="6" />
         <mark key="[" line="300" column="52" />
@@ -204,13 +216,7 @@
         <mark key="^" line="301" column="61" />
         <mark key="." line="301" column="60" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/doctor.py" timestamp="1587335583261">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="47" column="5" />
-        <mark key="." line="40" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1587338132012">
+      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1587352255567">
         <mark key="[" line="457" column="0" />
         <mark key="]" line="457" column="0" />
         <mark key="^" line="453" column="24" />
@@ -218,33 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="3" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_40.py" />
-      <jump line="48" column="0" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/transaction.py" />
-      <jump line="35" column="3" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/engagement.py" />
-      <jump line="158" column="5" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="45" column="53" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="434" column="4" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="182" column="0" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="151" column="8" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="163" column="2" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="194" column="7" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="204" column="2" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="85" column="7" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="115" column="2" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="149" column="7" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="347" column="0" filename="$USER_HOME$/code/sc/web/cli/john.py" />
-      <jump line="435" column="8" filename="$USER_HOME$/code/sc/web/cli/john.py" />
-      <jump line="436" column="21" filename="$USER_HOME$/code/sc/web/cli/john.py" />
-      <jump line="442" column="35" filename="$USER_HOME$/code/sc/web/cli/john.py" />
-      <jump line="133" column="2" filename="$USER_HOME$/code/sc/web/cli/john.py" />
-      <jump line="122" column="19" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="119" column="2" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="137" column="14" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="169" column="0" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="185" column="14" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="210" column="0" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
       <jump line="217" column="24" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
       <jump line="44" column="5" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
       <jump line="80" column="0" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" />
@@ -254,7 +233,6 @@
       <jump line="266" column="0" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
       <jump line="286" column="41" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
       <jump line="291" column="45" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="301" column="14" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
       <jump line="333" column="2" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
       <jump line="193" column="0" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/listings_view.py" />
       <jump line="198" column="6" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/listings_view.py" />
@@ -270,7 +248,6 @@
       <jump line="244" column="4" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/listings_view.py" />
       <jump line="308" column="22" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
       <jump line="1226" column="10" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
-      <jump line="303" column="51" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
       <jump line="1308" column="31" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
       <jump line="599" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
       <jump line="1332" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
@@ -299,7 +276,6 @@
       <jump line="453" column="0" filename="$USER_HOME$/code/sc/web/cli/john.py" />
       <jump line="20" column="11" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/charge.py" />
       <jump line="192" column="17" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
-      <jump line="110" column="43" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
       <jump line="341" column="7" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
       <jump line="40" column="14" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
       <jump line="410" column="28" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
@@ -308,7 +284,6 @@
       <jump line="267" column="7" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
       <jump line="11" column="2" filename="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj.txt" />
       <jump line="293" column="11" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="247" column="6" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
       <jump line="409" column="19" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
       <jump line="66" column="16" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
       <jump line="83" column="7" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
@@ -318,18 +293,49 @@
       <jump line="34" column="6" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" />
       <jump line="34" column="6" filename="$USER_HOME$/code/sc/web/sc/sql/__init__.py" />
       <jump line="11" column="40" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/source_encounter.py" />
+      <jump line="416" column="35" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="145" column="23" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="101" column="43" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="102" column="41" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="104" column="39" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="167" column="44" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="213" column="44" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="244" column="19" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="245" column="23" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="246" column="24" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="247" column="24" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="248" column="25" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="299" column="42" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="300" column="43" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="301" column="44" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="302" column="44" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="303" column="45" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="304" column="41" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="305" column="54" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="364" column="41" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="365" column="42" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="366" column="39" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="420" column="45" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="421" column="41" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="422" column="43" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="423" column="42" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="424" column="41" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="110" column="29" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="72" column="16" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/unloading.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>member_id</text>
+        <text>uppers</text>
       </register>
       <register name="-" type="4">
-        <text>member_id</text>
+        <text>uppers</text>
       </register>
       <register name="/" type="4">
-        <text>ATH</text>
+        <text>asdf</text>
       </register>
       <register name="0" type="4">
         <text>]</text>
@@ -365,17 +371,17 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s//.postal</text>
+        <text>%s//uppers</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ATH</last-search>
+      <last-search>asdf</last-search>
       <last-offset />
-      <last-pattern>ATH</last-pattern>
-      <last-replace>.postal</last-replace>
-      <last-substitute>\.zip</last-substitute>
+      <last-pattern>asdf</last-pattern>
+      <last-replace>uppers</last-replace>
+      <last-substitute>lowers</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
