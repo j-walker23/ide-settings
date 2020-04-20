@@ -132,30 +132,23 @@
         <mark key="^" line="1891" column="10" />
         <mark key="." line="1891" column="9" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" timestamp="1587414090633">
-        <mark key="'" line="329" column="11" />
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
-        <mark key="^" line="118" column="58" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/arrowlytics.ts" timestamp="1587414183827">
         <mark key="[" line="238" column="38" />
         <mark key="]" line="238" column="38" />
         <mark key="." line="238" column="37" />
         <mark key="^" line="238" column="38" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1587415617211">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="2" />
+        <mark key="^" line="0" column="3" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/projected-hallspace/projected-hallspace.ts" timestamp="1587414216566">
         <mark key="[" line="234" column="15" />
         <mark key="]" line="234" column="15" />
         <mark key="." line="234" column="14" />
         <mark key="^" line="234" column="15" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/csvs.py" timestamp="1587414136572">
-        <mark key="[" line="45" column="5" />
-        <mark key="]" line="45" column="5" />
-        <mark key="." line="45" column="4" />
-        <mark key="^" line="45" column="5" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/wait-times-lag/wait-times-lag.ts" timestamp="1587414219305">
         <mark key="[" line="24" column="20" />
@@ -242,9 +235,15 @@
         <mark key="." line="190" column="37" />
         <mark key="^" line="190" column="38" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1587415811368">
+        <mark key="'" line="498" column="18" />
+        <mark key="[" line="480" column="23" />
+        <mark key="]" line="481" column="20" />
+        <mark key="." line="481" column="19" />
+        <mark key="^" line="481" column="20" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="416" column="35" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
       <jump line="46" column="0" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
       <jump line="145" column="23" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
@@ -344,15 +343,16 @@
       <jump line="64" column="28" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" />
       <jump line="16" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b6782c72-08eb-450d-8519-6d42b23fd316/console.sql" />
       <jump line="39" column="6" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" />
+      <jump line="497" column="18" filename="$USER_HOME$/code/sc/web/cli/john.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>locaiton</text>
+        <text>~</text>
       </register>
       <register name="-" type="4">
-        <text>locaiton</text>
+        <text>~</text>
       </register>
       <register name="/" type="4">
         <text>_count</text>
