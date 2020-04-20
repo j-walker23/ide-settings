@@ -119,17 +119,14 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/code/sc/selenium/automation/socialclimb/app/dashboard/testcases/test_unresponsive_widget.py" timestamp="1587380971901" />
-      <file name="$USER_HOME$/code/sc/selenium/automation/models/account.py" timestamp="1587379512933">
-        <mark key="'" line="55" column="11" />
-      </file>
       <file name="/Python Console" timestamp="1587381811107">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/selenium/automation/__init__.py" timestamp="1587380948404">
+      <file name="$USER_HOME$/code/sc/selenium/automation/__init__.py" timestamp="1587384157836">
         <mark key="'" line="49" column="2" />
-        <mark key="[" line="49" column="22" />
-        <mark key="]" line="50" column="53" />
-        <mark key="." line="50" column="64" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
         <mark key="^" line="50" column="53" />
       </file>
       <file name="$USER_HOME$/code/sc/selenium/data/results.json" timestamp="1587381072186">
@@ -144,21 +141,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/selenium/selenium.txt" timestamp="1587379736996">
-        <mark key="'" line="36" column="51" />
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="5" column="27" />
-        <mark key="." line="5" column="26" />
-        <mark key="^" line="5" column="27" />
-      </file>
       <file name="$USER_HOME$/code/sc/selenium/entry_point.py" timestamp="1587381810576">
         <mark key="[" line="102" column="70" />
         <mark key="]" line="102" column="84" />
         <mark key="." line="102" column="83" />
         <mark key="^" line="102" column="84" />
-      </file>
-      <file name="$USER_HOME$/code/sc/selenium/scripts/update_cookies.py" timestamp="1587378901404">
-        <mark key="'" line="41" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/selenium/automation/socialclimb/app/reports/notifications/notification_page.py" timestamp="1587383158810">
         <mark key="'" line="63" column="11" />
@@ -172,8 +159,16 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587380035178">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/sc/selenium/automation/socialclimb/app/reports/notifications/testcases/test_locadmin_multiedit.py" timestamp="1587384141877">
+        <mark key="[" line="3" column="42" />
+        <mark key="]" line="3" column="40" />
+        <mark key="." line="3" column="39" />
+        <mark key="^" line="3" column="40" />
+      </file>
+      <file name="$USER_HOME$/code/sc/selenium/automation/socialclimb/app/reports/notifications/testcases/test_locadmin_copy.py" timestamp="1587384096765">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/selenium/automation/socialclimb/app/reports/notifications/testcases/test_prc_note.py" timestamp="1587383169795">
         <mark key="[" line="11" column="0" />
@@ -181,28 +176,43 @@
         <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/selenium/automation/socialclimb/app/surveys/manage/manage_survey_page.py" timestamp="1587382665027" />
-      <file name="$USER_HOME$/code/sc/selenium/automation/socialclimb/app/surveys/manage/survey_details/survey_details.py" timestamp="1587382882587">
+      <file name="$USER_HOME$/code/sc/selenium/automation/socialclimb/app/surveys/manage/survey_details/survey_details.py" timestamp="1587383813385">
         <mark key="'" line="73" column="18" />
-        <mark key="[" line="164" column="7" />
-        <mark key="]" line="167" column="0" />
-        <mark key="." line="167" column="0" />
-        <mark key="^" line="167" column="0" />
+        <mark key="[" line="165" column="77" />
+        <mark key="]" line="165" column="77" />
+        <mark key="." line="165" column="77" />
+        <mark key="^" line="166" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/selenium/automation/socialclimb/app/settings/testcases/test_img_upload.py" timestamp="1587382311839">
-        <mark key="'" line="153" column="4" />
+      <file name="$USER_HOME$/code/sc/selenium/automation/socialclimb/app/settings/testcases/test_img_upload.py" timestamp="1587383853547">
+        <mark key="'" line="144" column="4" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/selenium/config.py" timestamp="1587379586994">
-        <mark key="'" line="30" column="19" />
+      <file name="$USER_HOME$/code/sc/selenium/automation/socialclimb/app/reports/notifications/testcases/test_leg_multiedit.py" timestamp="1587384052380">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="3" column="40" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/selenium/automation/socialclimb/app/reports/notifications/testcases/test_lrc_multiedit.py" timestamp="1587384030903">
+        <mark key="'" line="11" column="23" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="41" />
+        <mark key="." line="18" column="40" />
+        <mark key="^" line="18" column="41" />
+      </file>
+      <file name="$USER_HOME$/code/sc/selenium/automation/socialclimb/app/reports/notifications/testcases/test_survq_multiedit.py" timestamp="1587384060108">
+        <mark key="[" line="3" column="46" />
+        <mark key="]" line="3" column="40" />
+        <mark key="." line="3" column="39" />
+        <mark key="^" line="3" column="40" />
       </file>
       <file name="$USER_HOME$/code/sc/selenium/automation/socialclimb/app/testcases/test_scratch.py" timestamp="1587381613329">
         <mark key="'" line="17" column="4" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/charge.py" />
       <jump line="350" column="17" filename="$USER_HOME$/code/sc/web/cli/john.py" />
       <jump line="453" column="0" filename="$USER_HOME$/code/sc/web/cli/john.py" />
       <jump line="20" column="11" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/charge.py" />
@@ -302,15 +312,16 @@
       <jump line="156" column="4" filename="$USER_HOME$/code/sc/selenium/automation/socialclimb/app/reports/notifications/notifications_details/notification_details_page.py" />
       <jump line="160" column="6" filename="$USER_HOME$/code/sc/selenium/automation/socialclimb/app/reports/notifications/notifications_details/notification_details_page.py" />
       <jump line="62" column="11" filename="$USER_HOME$/code/sc/selenium/automation/socialclimb/app/reports/notifications/notification_page.py" />
+      <jump line="11" column="23" filename="$USER_HOME$/code/sc/selenium/automation/socialclimb/app/reports/notifications/testcases/test_lrc_multiedit.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">ZnJvbSBhdXRvbWF0aW9uLnRlc3RjYXNlcy50ZXN0X25vdGUgaW1wb3J0IE5vdGlmaWNhdGlvblRlc3QK</text>
+      <register name="+" type="4">
+        <text>User</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>User</text>
       </register>
       <register name="/" type="4">
         <text>trun</text>
@@ -319,34 +330,34 @@
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBhdXRvbWF0aW9uLnRlc3RjYXNlcy50ZXN0X25vdGUgaW1wb3J0IE5vdGlmaWNhdGlvblRlc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBhdXRvbWF0aW9uLm1vZGVscy5ub3RpZmljYXRpb24gaW1wb3J0IFByb3ZpZGVyUmVwb3J0Q2FyZE5vdGlmaWNhdGlvbgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBhdXRvbWF0aW9uLnNvY2lhbGNsaW1iLmFwcC5yZXBvcnRzLm5vdGlmaWNhdGlvbnMubm90aWZpY2F0aW9uc19kZXRhaWxzLm5vdGlmaWNhdGlvbl9kZXRhaWxzX3BhZ2UgaW1wb3J0IE5vdGlmaWNhdGlvbkRldGFpbHNQYWdlCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBhdXRvbWF0aW9uLnNvY2lhbGNsaW1iLmFwcC5yZXBvcnRzLm5vdGlmaWNhdGlvbnMubm90aWZpY2F0aW9uX3BhZ2UgaW1wb3J0IE5vdGlmaWNhdGlvblBhZ2UK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBhdXRvbWF0aW9uLnRlc3RjYXNlcyBpbXBvcnQgQmFzZVRlc3QK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBhdXRvbWF0aW9uLm1vZGVscy5ub3RpZmljYXRpb24gaW1wb3J0IE5vdGlmaWNhdGlvbgpmcm9tIGF1dG9tYXRpb24ucGFnZXMubm90aWZpY2F0aW9ucy5ub3RpZmljYXRpb25fcGFnZSBpbXBvcnQgTm90aWZpY2F0aW9uUGFnZSwgTm90aWZpY2F0aW9uRGV0YWlsc1BhZ2UK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBhdXRvbWF0aW9uLnNvY2lhbGNsaW1iLmFwcC5zZXR0aW5ncy5tYW5hZ2VfbG9jYXRpb25zLmxvY2F0aW9uX2RldGFpbHMubG9jYXRpb25zX2RldGFpbHNfcGFnZSBpbXBvcnQgTG9jYXRpb25EZXRhaWxzUGFnZQpmcm9tIGF1dG9tYXRpb24uc29jaWFsY2xpbWIuYXBwLnNldHRpbmdzLm1hbmFnZV9sb2NhdGlvbnMubG9jYXRpb25zX3BhZ2UgaW1wb3J0IExvY2F0aW9uUGFnZQpmcm9tIGF1dG9tYXRpb24uc29jaWFsY2xpbWIuYXBwLnNldHRpbmdzLm1hbmFnZV9wcm92aWRlcnMucHJvdmlkZXJfZGV0YWlscy5wcm92aWRlcl9kZXRhaWxzX3BhZ2UgaW1wb3J0IFByb3ZpZGVyRGV0YWlsc1BhZ2UKZnJvbSBhdXRvbWF0aW9uLnNvY2lhbGNsaW1iLmFwcC5zZXR0aW5ncy5tYW5hZ2VfcHJvdmlkZXJzLnByb3ZpZGVyX3BhZ2UgaW1wb3J0IFByb3ZpZGVyUGFnZQpmcm9tIGF1dG9tYXRpb24uc29jaWFsY2xpbWIuYXBwLnNldHRpbmdzLnByZWZlcmVuY2VzLmFjb3VudF9wcmVmZXJlbmNlc19wYWdlIGltcG9ydCBBY2NvdW50UHJlZmVyZW5jZXNQYWdlCmZyb20gYXV0b21hdGlvbi5zb2NpYWxjbGltYi5hcHAuc2V0dGluZ3MudXNlcl9hY2NvdW50cy5pbnZpdGVfdXNlci5pbnZpdGVfdXNlcl9wYWdlIGltcG9ydCBVc2VyUHJlZmVyZW5jZXNQYWdlCmZyb20gYXV0b21hdGlvbi5zb2NpYWxjbGltYi5hcHAuc3VydmV5cy5tYW5hZ2UubWFuYWdlX3N1cnZleV9wYWdlIGltcG9ydCBTdXJ2ZXlQYWdlCmZyb20gYXV0b21hdGlvbi5zb2NpYWxjbGltYi5hcHAuc3VydmV5cy5tYW5hZ2Uuc3VydmV5X2RldGFpbHMuc3VydmV5X2RldGFpbHMgaW1wb3J0IFN1cnZleURldGFpbHNQYWdlCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBhdXRvbWF0aW9uLnRlc3RjYXNlcy50ZXN0X25vdGUgaW1wb3J0IE5vdGlmaWNhdGlvblRlc3QK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBhdXRvbWF0aW9uLm1vZGVscy5ub3RpZmljYXRpb24gaW1wb3J0IFByb3ZpZGVyUmVwb3J0Q2FyZE5vdGlmaWNhdGlvbgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJvbSBhdXRvbWF0aW9uLnNvY2lhbGNsaW1iLmFwcC5yZXBvcnRzLm5vdGlmaWNhdGlvbnMubm90aWZpY2F0aW9uc19kZXRhaWxzLm5vdGlmaWNhdGlvbl9kZXRhaWxzX3BhZ2UgaW1wb3J0IE5vdGlmaWNhdGlvbkRldGFpbHNQYWdlCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBhdXRvbWF0aW9uLnNvY2lhbGNsaW1iLmFwcC5zdXJ2ZXlzLm1hbmFnZS5tYW5hZ2Vfc3VydmV5X3BhZ2UgaW1wb3J0IFN1cnZleVBhZ2UK</text>
+        <text encoding="base64">ZnJvbSBhdXRvbWF0aW9uLnNvY2lhbGNsaW1iLmFwcC5yZXBvcnRzLm5vdGlmaWNhdGlvbnMubm90aWZpY2F0aW9uX3BhZ2UgaW1wb3J0IE5vdGlmaWNhdGlvblBhZ2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBmcm9tIGF1dG9tYXRpb24uc29jaWFsY2xpbWIuYXBwLnNldHRpbmdzLm1hbmFnZV9sb2NhdGlvbnMubG9jYXRpb25fZGV0YWlscy5sb2NhdGlvbnNfZGV0YWlsc19wYWdlIGltcG9ydCBcCiMgICBMb2NhdGlvbkRldGFpbHNQYWdlCiMgZnJvbSBhdXRvbWF0aW9uLnNvY2lhbGNsaW1iLmFwcC5zZXR0aW5ncy5tYW5hZ2VfbG9jYXRpb25zLmxvY2F0aW9uc19wYWdlIGltcG9ydCBMb2NhdGlvblBhZ2UKIyBmcm9tIGF1dG9tYXRpb24uc29jaWFsY2xpbWIuYXBwLnNldHRpbmdzLm1hbmFnZV9wcm92aWRlcnMucHJvdmlkZXJfZGV0YWlscy5wcm92aWRlcl9kZXRhaWxzX3BhZ2UgaW1wb3J0IFwKIyAgIFByb3ZpZGVyRGV0YWlsc1BhZ2UKIyBmcm9tIGF1dG9tYXRpb24uc29jaWFsY2xpbWIuYXBwLnNldHRpbmdzLm1hbmFnZV9wcm92aWRlcnMucHJvdmlkZXJfcGFnZSBpbXBvcnQgUHJvdmlkZXJQYWdlCiMgZnJvbSBhdXRvbWF0aW9uLnNvY2lhbGNsaW1iLmFwcC5zZXR0aW5ncy5wcmVmZXJlbmNlcy5hY291bnRfcHJlZmVyZW5jZXNfcGFnZSBpbXBvcnQgQWNjb3VudFByZWZlcmVuY2VzUGFnZQojIGZyb20gYXV0b21hdGlvbi5zb2NpYWxjbGltYi5hcHAuc2V0dGluZ3MudXNlcl9hY2NvdW50cy5pbnZpdGVfdXNlci5pbnZpdGVfdXNlcl9wYWdlIGltcG9ydCBVc2VyUHJlZmVyZW5jZXNQYWdlCiMgZnJvbSBhdXRvbWF0aW9uLnNvY2lhbGNsaW1iLmFwcC5zdXJ2ZXlzLm1hbmFnZS5tYW5hZ2Vfc3VydmV5X3BhZ2UgaW1wb3J0IFN1cnZleVBhZ2UKIyBmcm9tIGF1dG9tYXRpb24uc29jaWFsY2xpbWIuYXBwLnN1cnZleXMubWFuYWdlLnN1cnZleV9kZXRhaWxzLnN1cnZleV9kZXRhaWxzIGltcG9ydCBTdXJ2ZXlEZXRhaWxzUGFnZQo=</text>
+        <text encoding="base64">ZnJvbSBhdXRvbWF0aW9uLnRlc3RjYXNlcyBpbXBvcnQgQmFzZVRlc3QK</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
