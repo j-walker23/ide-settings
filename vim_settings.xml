@@ -133,11 +133,18 @@
         <mark key="^" line="39" column="30" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1587397331267">
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" timestamp="1587412079786">
+        <mark key="'" line="329" column="11" />
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
+        <mark key="^" line="118" column="58" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1587412123211">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="2" />
-        <mark key="^" line="0" column="3" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="5" />
       </file>
       <file name="$USER_HOME$/code/sc/selenium/automation/socialclimb/app/reports/notifications/testcases/__init__.py" timestamp="1587399003163">
         <mark key="[" line="9" column="0" />
@@ -150,22 +157,7 @@
         <mark key="^" line="43" column="8" />
         <mark key="." line="43" column="7" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/encounters/process.py" timestamp="1587397196967">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts_list_view.py" timestamp="1587400911214" />
-      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1587396870741">
-        <mark key="'" line="72" column="20" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" timestamp="1587406802725">
-        <mark key="'" line="64" column="28" />
-        <mark key="[" line="60" column="37" />
-        <mark key="]" line="60" column="43" />
-        <mark key="." line="60" column="42" />
-        <mark key="^" line="60" column="43" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/med-imports/med-imports.ts" timestamp="1587402192073" />
       <file name="$USER_HOME$/code/sc/selenium/automation/models/user.py" timestamp="1587399242840">
         <mark key="[" line="22" column="17" />
@@ -187,6 +179,12 @@
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/transaction.py" timestamp="1587412083462">
+        <mark key="[" line="61" column="41" />
+        <mark key="]" line="61" column="41" />
+        <mark key="." line="61" column="40" />
+        <mark key="^" line="61" column="41" />
       </file>
       <file name="/console" timestamp="1587410036560">
         <mark key="[" line="0" column="0" />
@@ -319,11 +317,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBhZF9wbGF5Ym9va3NfYm9vc3RzIGEKd2hlcmUgYm9vc3RfaWQgaW4gKDYwNiwgNjA3KQo7Cg==</text>
+      <register name="+" type="4">
+        <text>dev</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>_count</text>
@@ -332,34 +330,34 @@
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBhZF9wbGF5Ym9va3NfYm9vc3RzIGEKd2hlcmUgYm9vc3RfaWQgaW4gKDYwNiwgNjA3KQo7Cg==</text>
+        <text encoding="base64">ICByZXZlbnVlX2RldGFpbDogQ29sU3RyID0gQ29sdW1uKFN0cmluZyg0MCksIG51bGxhYmxlPUZhbHNlKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIC5kZWJ1Z19wcmludCgpCg==</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBhZF9wbGF5Ym9va3NfYm9vc3RzIGEKd2hlcmUgYm9vc3RfaWQgaW4gKDYwNiwgNjA3KQo7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGF0YSA9IGRpY3QoCiAgICAgICAgYWlkPWFjYy5pZCwKICAgICAgICBhY2M9YWNjLm5hbWUsCiAgICAgICAgcGF0aWVudHM9ZGVtcywKICAgICAgICBsb2NhdGlvbnM9bG9jcywKICAgICAgICBwcm92aWRlcnM9ZG9jcywKICAgICAgICBsb2NhdGlvbl9wY3RfbWlzc2luZz0oMSAtIChyb3cubG9jYXRpb25fY291bnQgLyByb3cuY291bnQpKSAqIDEwMCwKICAgICAgICBwcm92aWRlcl9wY3RfbWlzc2luZz0oMSAtIChyb3cucHJvdmlkZXJfY291bnQgLyByb3cuY291bnQpKSAqIDEwMCwKICAgICAgICBwYXRpZW50X3BjdF9taXNzaW5nPSgxIC0gKHJvdy5wYXRpZW50X2NvdW50IC8gcm93LmNvdW50KSkgKiAxMDAsCiAgICAgICAgc3RhdHVzX3BjdF9taXNzaW5nPSgxIC0gKHJvdy5zdGF0dXNfY291bnQgLyByb3cuY291bnQpKSAqIDEwMCwKICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIC5kZWJ1Z19wcmludCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgQGh5YnJpZF9wcm9wZXJ0eQogIGRlZiBzdGF0dXNfY291bnQoY2xzKToKICAgICIiIiIiIgogICAgcmV0dXJuIChzZWxlY3QoW2Z1bmMuY291bnQoKV0pCiAgICAgICAgICAgIC53aGVyZShjbHMuc3RhdHVzICE9IFN0YXR1c1R5cGUuVU5LTk9XTikKICAgICAgICAgICAgLmxhYmVsKCdzdGF0dXNfY291bnQnKSkK</text>
+        <text encoding="base64">ICAgICAgZGF0YSA9IGRpY3QoCiAgICAgICAgYWlkPWFjYy5pZCwKICAgICAgICBhY2M9YWNjLm5hbWUsCiAgICAgICAgcGF0aWVudHM9ZGVtcywKICAgICAgICBsb2NhdGlvbnM9bG9jcywKICAgICAgICBwcm92aWRlcnM9ZG9jcywKICAgICAgICBsb2NhdGlvbl9wY3RfbWlzc2luZz0oMSAtIChyb3cubG9jYXRpb25fY291bnQgLyByb3cuY291bnQpKSAqIDEwMCwKICAgICAgICBwcm92aWRlcl9wY3RfbWlzc2luZz0oMSAtIChyb3cucHJvdmlkZXJfY291bnQgLyByb3cuY291bnQpKSAqIDEwMCwKICAgICAgICBwYXRpZW50X3BjdF9taXNzaW5nPSgxIC0gKHJvdy5wYXRpZW50X2NvdW50IC8gcm93LmNvdW50KSkgKiAxMDAsCiAgICAgICAgc3RhdHVzX3BjdF9taXNzaW5nPSgxIC0gKHJvdy5zdGF0dXNfY291bnQgLyByb3cuY291bnQpKSAqIDEwMCwKICAgICAgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBBcHBvaW50bWVudC5zdGF0dXNfY291bnQsCg==</text>
+        <text encoding="base64">CiAgQGh5YnJpZF9wcm9wZXJ0eQogIGRlZiBzdGF0dXNfY291bnQoY2xzKToKICAgICIiIiIiIgogICAgcmV0dXJuIChzZWxlY3QoW2Z1bmMuY291bnQoKV0pCiAgICAgICAgICAgIC53aGVyZShjbHMuc3RhdHVzICE9IFN0YXR1c1R5cGUuVU5LTk9XTikKICAgICAgICAgICAgLmxhYmVsKCdzdGF0dXNfY291bnQnKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZm9yIHJvdyBpbiBxOgo=</text>
+        <text encoding="base64">ICAgICAgICBBcHBvaW50bWVudC5zdGF0dXNfY291bnQsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBcHBvaW50bWVudC5hY2NvdW50X2lkLAo=</text>
+        <text encoding="base64">ICAgICAgZm9yIHJvdyBpbiBxOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBcHBvaW50bWVudC5hY2NvdW50X2lkLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAuZGVidWdfcHJpbnQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//_joined</text>
@@ -374,7 +372,7 @@
       <last-replace>_joined</last-replace>
       <last-substitute>_count</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
