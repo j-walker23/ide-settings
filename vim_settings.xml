@@ -51,6 +51,7 @@
         <entry>encount</entry>
         <entry>asdf</entry>
         <entry>trun</entry>
+        <entry>_count</entry>
       </history-search>
       <history-cmd>
         <entry>SplitVertically</entry>
@@ -82,6 +83,7 @@
         <entry>%s//.postal</entry>
         <entry>%s//uppers</entry>
         <entry>action SplitVertically</entry>
+        <entry>%s//_joined</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -118,12 +120,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" timestamp="1587400525597">
-        <mark key="'" line="586" column="0" />
-        <mark key="[" line="618" column="5" />
-        <mark key="]" line="618" column="26" />
-        <mark key="." line="618" column="25" />
-        <mark key="^" line="618" column="26" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" timestamp="1587406558381">
+        <mark key="'" line="649" column="0" />
+        <mark key="[" line="646" column="22" />
+        <mark key="]" line="647" column="24" />
+        <mark key="." line="647" column="23" />
+        <mark key="^" line="647" column="24" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/encounter.py" timestamp="1587397261247">
         <mark key="[" line="48" column="0" />
@@ -137,12 +139,6 @@
         <mark key="]" line="119" column="0" />
         <mark key="." line="119" column="0" />
         <mark key="^" line="118" column="58" />
-      </file>
-      <file name="$USER_HOME$/code/sc/selenium/entry_point.py" timestamp="1587393783506">
-        <mark key="[" line="106" column="10" />
-        <mark key="]" line="106" column="10" />
-        <mark key="." line="106" column="9" />
-        <mark key="^" line="106" column="10" />
       </file>
       <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1587397331267">
         <mark key="[" line="0" column="0" />
@@ -170,12 +166,12 @@
       <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1587396870741">
         <mark key="'" line="72" column="20" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" timestamp="1587401153310">
-        <mark key="'" line="36" column="2" />
-        <mark key="[" line="71" column="20" />
-        <mark key="]" line="71" column="28" />
-        <mark key="." line="71" column="27" />
-        <mark key="^" line="71" column="28" />
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" timestamp="1587406802725">
+        <mark key="'" line="64" column="28" />
+        <mark key="[" line="60" column="37" />
+        <mark key="]" line="60" column="43" />
+        <mark key="." line="60" column="42" />
+        <mark key="^" line="60" column="43" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/med-imports/med-imports.ts" timestamp="1587402192073" />
       <file name="$USER_HOME$/code/sc/selenium/automation/models/user.py" timestamp="1587399242840">
@@ -191,6 +187,9 @@
         <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/scrapers/yelp_not_recommended.py" timestamp="1587398563696" />
+      <file name="/Python Console" timestamp="1587404160366">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/integrations/healthjump/healthjump.html" timestamp="1587397680256">
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
@@ -210,19 +209,15 @@
         <mark key="^" line="35" column="41" />
       </file>
       <file name="$USER_HOME$/code/sc/selenium/automation/socialclimb/app/surveys/testcases/__init__.py" timestamp="1587398694824" />
-      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1587400898739">
-        <mark key="'" line="360" column="4" />
-        <mark key="[" line="482" column="36" />
-        <mark key="]" line="483" column="19" />
-        <mark key="^" line="483" column="19" />
-        <mark key="." line="483" column="18" />
+      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1587406939458">
+        <mark key="'" line="472" column="7" />
+        <mark key="[" line="502" column="57" />
+        <mark key="]" line="502" column="72" />
+        <mark key="." line="502" column="71" />
+        <mark key="^" line="502" column="72" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="12" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="368" column="11" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="93" column="39" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="34" column="6" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" />
       <jump line="34" column="6" filename="$USER_HOME$/code/sc/web/sc/sql/__init__.py" />
       <jump line="11" column="40" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/source_encounter.py" />
       <jump line="416" column="35" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
@@ -319,66 +314,70 @@
       <jump line="586" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
       <jump line="350" column="11" filename="$USER_HOME$/code/sc/web/cli/john.py" />
       <jump line="353" column="4" filename="$USER_HOME$/code/sc/web/cli/john.py" />
+      <jump line="470" column="7" filename="$USER_HOME$/code/sc/web/cli/john.py" />
+      <jump line="620" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
+      <jump line="56" column="19" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" />
+      <jump line="64" column="28" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>location</text>
+        <text>row.count</text>
       </register>
       <register name="-" type="4">
-        <text>location</text>
+        <text>row.count</text>
       </register>
       <register name="/" type="4">
-        <text>trun</text>
+        <text>_count</text>
       </register>
       <register name="0" type="4">
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIC5kZWJ1Z19wcmludCgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QGFwcF9jdHgoNDYwKQo=</text>
+        <text encoding="base64">ICAgICAgZGF0YSA9IGRpY3QoCiAgICAgICAgYWlkPWFjYy5pZCwKICAgICAgICBhY2M9YWNjLm5hbWUsCiAgICAgICAgcGF0aWVudHM9ZGVtcywKICAgICAgICBsb2NhdGlvbnM9bG9jcywKICAgICAgICBwcm92aWRlcnM9ZG9jcywKICAgICAgICBsb2NhdGlvbl9wY3RfbWlzc2luZz0oMSAtIChyb3cubG9jYXRpb25fY291bnQgLyByb3cuY291bnQpKSAqIDEwMCwKICAgICAgICBwcm92aWRlcl9wY3RfbWlzc2luZz0oMSAtIChyb3cucHJvdmlkZXJfY291bnQgLyByb3cuY291bnQpKSAqIDEwMCwKICAgICAgICBwYXRpZW50X3BjdF9taXNzaW5nPSgxIC0gKHJvdy5wYXRpZW50X2NvdW50IC8gcm93LmNvdW50KSkgKiAxMDAsCiAgICAgICAgc3RhdHVzX3BjdF9taXNzaW5nPSgxIC0gKHJvdy5zdGF0dXNfY291bnQgLyByb3cuY291bnQpKSAqIDEwMCwKICAgICAgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsYW5kaW5nX3BhdGg6IHN0ciA9ICcvYXBwL2ludml0ZScK</text>
+        <text encoding="base64">CiAgQGh5YnJpZF9wcm9wZXJ0eQogIGRlZiBzdGF0dXNfY291bnQoY2xzKToKICAgICIiIiIiIgogICAgcmV0dXJuIChzZWxlY3QoW2Z1bmMuY291bnQoKV0pCiAgICAgICAgICAgIC53aGVyZShjbHMuc3RhdHVzICE9IFN0YXR1c1R5cGUuVU5LTk9XTikKICAgICAgICAgICAgLmxhYmVsKCdzdGF0dXNfY291bnQnKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzdGFydF90aW1lOiBmbG9hdCA9IE5vbmUKICBlbmRfdGltZTogZmxvYXQgPSBOb25lCiAgZHJpdmVyOiBSZXRyeURyaXZlciA9IE5vbmUKICBsb2dfZmFjYWRlOiB1dGlscy5XZWJkcml2ZXJMb2dGYWNhZGUgPSBOb25lCiAgdzogV2ViRHJpdmVyV2FpdCA9IE5vbmUKICBhY250OiBBY2NvdW50ID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICBBcHBvaW50bWVudC5zdGF0dXNfY291bnQsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBvaWQgPSBmJ3UgZGVmYXVsdCBvaWQnCiAgbmFtZSA9IGYnQXV0b2dlbmVyYXRlZCBVc2VyLSB7b2lkfScKICBlbWFpbCA9ICcnCiAgcGFzc3dvcmQgPSB1dGlscy5yYW5kX3dvcmQoMTIpCiAgcGhvbmUgPSAnJwogIHRpdGxlID0gJycKICBiaW8gPSAnJwogIHJvbGUgPSBVc2VyVHlwZS5zZXJ2aWNlX3VzZXIKICBpbnZpdGVfZGF0ZSA9IHV0aWxzLmdldF9kYXRlKCkKICBjb25maXJtZWRfZGF0ZSA9ICcnCiAgYWRtaW5fbXNnID0gJycKICBwYXJ0bmVyID0gJycKICBwYXJ0bmVyX2dyb3VwX2FjY2VzcyA9IEZhbHNlCiAgbG9jcyA9IFtdCiAgcHJvdnMgPSBbXQogIAo=</text>
+        <text encoding="base64">ICAgICAgZm9yIHJvdyBpbiBxOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8bWQtYnV0dG9uCiAgICAgICAgICAgICAgICBjbGFzcz0ibWQtcmFpc2VkIG1kLXNtIgogICAgICAgICAgICAgICAgdHlwZT0iYnV0dG9uIgogICAgICAgICAgICAgICAgKGNsaWNrKT0iY3RybC5vbkNvbGxlY3QoJ3ByJykiPgogICAgICAgICAgICAgICAgUHJvY2VkdXJlcwogICAgICAgICAgICAgIDwvbWQtYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgICBBcHBvaW50bWVudC5hY2NvdW50X2lkLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwbGFjZV9vZl9zZXJ2aWNlX2NvZGU6IENvbEludCA9IENvbHVtbihJbnRlZ2VyLCBudWxsYWJsZT1GYWxzZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgT2ZmaWNlLnBsYWNlX29mX3NlcnZpY2VfY29kZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAuZGVidWdfcHJpbnQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhY2Nfbm86IGludCA9IFBPUwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SplitVertically</text>
+        <text>%s//_joined</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>trun</last-search>
+      <last-search>_count</last-search>
       <last-offset />
-      <last-pattern>trun</last-pattern>
-      <last-replace>uppers</last-replace>
-      <last-substitute>lowers</last-substitute>
+      <last-pattern>_count</last-pattern>
+      <last-replace>_joined</last-replace>
+      <last-substitute>_count</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
