@@ -73,7 +73,6 @@
         <entry>%s//machine</entry>
         <entry>%s//placeholders</entry>
         <entry>%s//encounter_id</entry>
-        <entry>action SplitVertically</entry>
         <entry>%s//vals</entry>
         <entry>%s//None</entry>
         <entry>%s//status</entry>
@@ -81,6 +80,7 @@
         <entry>%s//postal</entry>
         <entry>%s//.postal</entry>
         <entry>%s//uppers</entry>
+        <entry>action SplitVertically</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -124,9 +124,6 @@
         <mark key="^" line="138" column="32" />
         <mark key="." line="138" column="31" />
       </file>
-      <file name="/Python Console" timestamp="1587338924298">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/integrations/healthjump/healthjump.html" timestamp="1587350530211">
         <mark key="[" line="102" column="41" />
         <mark key="]" line="102" column="42" />
@@ -139,9 +136,6 @@
         <mark key="]" line="53" column="67" />
         <mark key="^" line="47" column="9" />
         <mark key="." line="53" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1587338892482">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1587349590950">
         <mark key="[" line="0" column="1" />
@@ -163,6 +157,9 @@
       </file>
       <file name="/a.sql" timestamp="1587354317907">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/selenium/entry_point.py" timestamp="1587359297741">
+        <mark key="'" line="114" column="32" />
       </file>
       <file name="/default" timestamp="1587354337879">
         <mark key="[" line="0" column="0" />
@@ -225,7 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="2" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" />
       <jump line="171" column="9" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
       <jump line="243" column="2" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
       <jump line="266" column="0" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
@@ -325,6 +321,7 @@
       <jump line="52" column="16" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/transaction.py" />
       <jump line="23" column="2" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/source_encounter.py" />
       <jump line="36" column="0" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/source_encounter.py" />
+      <jump line="114" column="32" filename="$USER_HOME$/code/sc/selenium/entry_point.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -372,7 +369,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s//uppers</text>
+        <text>action SplitVertically</text>
       </register>
     </registers>
   </component>
