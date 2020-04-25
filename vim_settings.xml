@@ -43,7 +43,6 @@
         <entry>modifier1</entry>
         <entry>zip</entry>
         <entry>\.zip</entry>
-        <entry>--</entry>
         <entry>ATH</entry>
         <entry>lowers</entry>
         <entry>uppers</entry>
@@ -64,6 +63,14 @@
         <entry>nvm</entry>
         <entry>fork</entry>
         <entry>too</entry>
+        <entry>revenue</entry>
+        <entry>modifier</entry>
+        <entry>P</entry>
+        <entry>reven</entry>
+        <entry>axdf</entry>
+        <entry>--</entry>
+        <entry>rvu</entry>
+        <entry>RVU</entry>
         <entry>asdf</entry>
       </history-search>
       <history-cmd>
@@ -137,196 +144,232 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587841277432">
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/encounter.py" timestamp="1587850443007">
+        <mark key="[" line="45" column="2" />
+        <mark key="]" line="45" column="9" />
+        <mark key="." line="45" column="8" />
+        <mark key="^" line="45" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/transaction.py" timestamp="1587851943279">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="61" column="43" />
+        <mark key="." line="60" column="0" />
+      </file>
+      <file name="/console" timestamp="1587852825194">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1587848440453">
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" timestamp="1587855702790">
+        <mark key="'" line="397" column="20" />
+        <mark key="[" line="426" column="5" />
+        <mark key="]" line="427" column="19" />
+        <mark key="." line="427" column="18" />
+        <mark key="^" line="427" column="19" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/adjustments.sql" timestamp="1587854961152">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/charges.sql" timestamp="1587855223270">
+        <mark key="'" line="20" column="32" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="86" column="1" />
+        <mark key="^" line="86" column="1" />
+        <mark key="." line="86" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" timestamp="1587855780890">
+        <mark key="[" line="15" column="11" />
+        <mark key="]" line="16" column="38" />
+        <mark key="^" line="16" column="38" />
+        <mark key="." line="16" column="37" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" timestamp="1587854976146">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+        <mark key="^" line="94" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/surveys/results/csv_results.py" timestamp="1587850413196">
+        <mark key="[" line="77" column="10" />
+        <mark key="]" line="77" column="11" />
+        <mark key="." line="77" column="10" />
+        <mark key="^" line="77" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/base.py" timestamp="1587850586204">
+        <mark key="[" line="58" column="55" />
+        <mark key="]" line="58" column="62" />
+        <mark key="." line="58" column="61" />
+        <mark key="^" line="58" column="62" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/marketing_report/listings.py" timestamp="1587850515378">
+        <mark key="[" line="81" column="47" />
+        <mark key="]" line="81" column="57" />
+        <mark key="." line="81" column="56" />
+        <mark key="^" line="81" column="57" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2d8ba393-01bf-4f4e-9cf7-218d6955dea4/console.sql" timestamp="1587852842268">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="26" />
+        <mark key="^" line="2" column="26" />
+        <mark key="." line="2" column="25" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/charge.py" timestamp="1587851908662">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="92" column="69" />
+        <mark key="." line="89" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/source_encounter.py" timestamp="1587850447687">
+        <mark key="[" line="22" column="2" />
+        <mark key="]" line="22" column="9" />
+        <mark key="." line="22" column="8" />
+        <mark key="^" line="22" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" timestamp="1587850430235">
+        <mark key="[" line="109" column="17" />
+        <mark key="]" line="109" column="24" />
+        <mark key="." line="109" column="23" />
+        <mark key="^" line="109" column="24" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/payments.sql" timestamp="1587854900154">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_42.py" timestamp="1587854100734">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="21" />
+        <mark key="^" line="11" column="21" />
+        <mark key="." line="11" column="20" />
+      </file>
+      <file name="/console_1" timestamp="1587854817940">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console" timestamp="1587841216053">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/sc/web/cli/utes.py" timestamp="1587850680793">
+        <mark key="'" line="247" column="26" />
+        <mark key="[" line="248" column="15" />
+        <mark key="]" line="248" column="21" />
+        <mark key="^" line="248" column="21" />
+        <mark key="." line="248" column="20" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1587840943722">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/.gitignore" timestamp="1587841580347">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="27" column="14" />
-        <mark key="]" line="28" column="12" />
-        <mark key="." line="28" column="11" />
-        <mark key="^" line="28" column="12" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/Pipfile.lock" timestamp="1587842200916">
-        <mark key="'" line="107" column="14" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/play/.prettierrc" timestamp="1587804109530">
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="3" column="24" />
-        <mark key="." line="3" column="24" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/instance/local/locals.js" timestamp="1587840425035">
-        <mark key="[" line="5" column="42" />
-        <mark key="]" line="5" column="51" />
-        <mark key="." line="5" column="50" />
-        <mark key="^" line="5" column="51" />
-      </file>
-      <file name="$USER_HOME$/code/fuck/shit/.gitignore" timestamp="1587806659909">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="38" column="9" />
-        <mark key="]" line="119" column="0" />
-        <mark key="^" line="119" column="0" />
-        <mark key="." line="119" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/setup.py" timestamp="1587840869336">
-        <mark key="[" line="9" column="30" />
-        <mark key="]" line="9" column="31" />
-        <mark key="." line="9" column="31" />
-      </file>
-      <file name="/a.sql" timestamp="1587841220941">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/utils.py" timestamp="1587842589978">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="40" />
-        <mark key="." line="92" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/fuck/shit/.prettierrc" timestamp="1587806672682">
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="3" column="24" />
-        <mark key="." line="3" column="24" />
-      </file>
-      <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/wtforms/validators.py" timestamp="1587843878658" />
-      <file name="$USER_HOME$/code/fuck/web/.gitignore" timestamp="1587806656462">
-        <mark key="'" line="12" column="19" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/cli/__init__.py" timestamp="1587841574326">
-        <mark key="'" line="87" column="4" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/Pipfile" timestamp="1587844074784">
-        <mark key="'" line="41" column="11" />
-        <mark key="[" line="77" column="18" />
-        <mark key="]" line="77" column="19" />
-        <mark key="." line="77" column="19" />
-        <mark key="^" line="77" column="26" />
-      </file>
-      <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/email_validator/__init__.py" timestamp="1587844008049">
-        <mark key="'" line="253" column="19" />
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="4" column="10" />
-        <mark key="^" line="4" column="10" />
-        <mark key="." line="4" column="9" />
+      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1587850705981">
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="14" column="17" />
+        <mark key="^" line="14" column="17" />
+        <mark key="." line="14" column="16" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="6" filename="$USER_HOME$/code/sc/web/cli/john.py" />
-      <jump line="507" column="42" filename="$USER_HOME$/code/sc/web/cli/john.py" />
-      <jump line="509" column="19" filename="$USER_HOME$/code/sc/web/cli/john.py" />
-      <jump line="750" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
-      <jump line="746" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
-      <jump line="154" column="21" filename="$USER_HOME$/code/sc/web/sc/coms/ext/celery.py" />
-      <jump line="81" column="4" filename="$USER_HOME$/code/sc/web/sc/coms/ext/celery.py" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bc37d78-1a63-4c7a-bb8c-320d8fc41963/console.sql" />
-      <jump line="1186" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/35635bee-0fe2-4197-a883-a146230756ed/console.sql" />
-      <jump line="119" column="11" filename="$USER_HOME$/code/sc/web/sc/app/plats/syncs/cron/starters.py" />
-      <jump line="46" column="24" filename="$USER_HOME$/code/sc/web/sc/app/selects/accounts.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/code/sc/web/sc/coms/search/hints.py" />
-      <jump line="139" column="13" filename="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" />
-      <jump line="138" column="11" filename="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/code/sc/web/sc/app/selects/accounts.py" />
-      <jump line="49" column="26" filename="$USER_HOME$/code/sc/web/sc/app/selects/accounts.py" />
-      <jump line="222" column="43" filename="$USER_HOME$/code/sc/web/sc/sql/__init__.py" />
-      <jump line="26" column="8" filename="$USER_HOME$/code/sc/web/sc/app/selects/listings.py" />
-      <jump line="785" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
-      <jump line="14" column="4" filename="$USER_HOME$/code/sc/web/sc/app/selects/listings.py" />
-      <jump line="264" column="5" filename="$USER_HOME$/code/sc/web/sc/app/notes/cron.py" />
-      <jump line="265" column="59" filename="$USER_HOME$/code/sc/web/sc/app/notes/cron.py" />
-      <jump line="220" column="75" filename="$USER_HOME$/code/sc/web/sc/app/notes/cron.py" />
-      <jump line="230" column="0" filename="$USER_HOME$/code/sc/web/sc/app/notes/cron.py" />
-      <jump line="215" column="4" filename="$USER_HOME$/code/sc/web/sc/app/notes/cron.py" />
-      <jump line="476" column="27" filename="$USER_HOME$/code/sc/web/cli/john.py" />
-      <jump line="475" column="8" filename="$USER_HOME$/code/sc/web/cli/john.py" />
-      <jump line="134" column="4" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/converter.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/converter.py" />
-      <jump line="93" column="2" filename="$USER_HOME$/code/sc/web/sc/sql/note/__init__.py" />
-      <jump line="23" column="18" filename="$USER_HOME$/code/sc/web/pyproject.toml" />
-      <jump line="13" column="11" filename="$USER_HOME$/code/sc/web/pyproject.toml" />
-      <jump line="262" column="4" filename="$USER_HOME$/code/sc/web/sc/app/notes/cron.py" />
-      <jump line="297" column="25" filename="$USER_HOME$/code/sc/web/sc/app/notes/cron.py" />
-      <jump line="77" column="0" filename="$USER_HOME$/code/sc/web/sc/app/notes/cron.py" />
-      <jump line="21" column="18" filename="$USER_HOME$/code/sc/web/sc/app/selects/notifications.py" />
-      <jump line="120" column="0" filename="$USER_HOME$/code/sc/web/sc/app/tasks/alert.py" />
-      <jump line="8" column="9" filename="$USER_HOME$/code/sc/web/sc/app/tasks/alert.py" />
-      <jump line="540" column="0" filename="$USER_HOME$/code/sc/web/cli/john.py" />
-      <jump line="5" column="5" filename="$USER_HOME$/code/sc/web/static/web/views/notes/details/note-types.ts" />
-      <jump line="154" column="2" filename="$USER_HOME$/code/sc/web/sc/app/tasks/alert.py" />
-      <jump line="275" column="3" filename="$USER_HOME$/code/sc/web/sc/app/notes/cron.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/code/sc/web/sc/core/types.py" />
-      <jump line="34" column="6" filename="$USER_HOME$/code/sc/web/sc/coms/customsql/enumtype.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/coms/customsql/enumtype.py" />
-      <jump line="35" column="4" filename="$USER_HOME$/code/sc/web/sc/core/types.py" />
-      <jump line="32" column="4" filename="$USER_HOME$/code/sc/web/sc/core/types.py" />
-      <jump line="8" column="36" filename="$USER_HOME$/code/sc/web/sc/core/types.py" />
-      <jump line="45" column="19" filename="$USER_HOME$/code/sc/web/sc/core/types.py" />
-      <jump line="23" column="6" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/reportcard_view.py" />
-      <jump line="227" column="0" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
-      <jump line="226" column="14" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
-      <jump line="92" column="10" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
-      <jump line="219" column="10" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
-      <jump line="224" column="36" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
-      <jump line="777" column="35" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
-      <jump line="166" column="0" filename="$USER_HOME$/code/sc/web/sc/app/tasks/alert.py" />
-      <jump line="212" column="7" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
-      <jump line="400" column="14" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
-      <jump line="128" column="16" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
-      <jump line="177" column="14" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
-      <jump line="179" column="5" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
-      <jump line="181" column="5" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
-      <jump line="182" column="20" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
-      <jump line="189" column="12" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
-      <jump line="193" column="28" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
-      <jump line="198" column="20" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
-      <jump line="200" column="8" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
-      <jump line="209" column="25" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
-      <jump line="211" column="8" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
-      <jump line="217" column="18" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
-      <jump line="221" column="37" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
-      <jump line="222" column="8" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
-      <jump line="231" column="18" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
-      <jump line="233" column="11" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
-      <jump line="240" column="8" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
-      <jump line="143" column="17" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
-      <jump line="239" column="17" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
-      <jump line="251" column="11" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
-      <jump line="252" column="28" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
-      <jump line="27" column="33" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
-      <jump line="55" column="31" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
-      <jump line="56" column="11" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/.gitignore" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/play/.gitignore" />
-      <jump line="12" column="19" filename="$USER_HOME$/code/fuck/web/.gitignore" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/fuck/shit/.gitignore" />
-      <jump line="70" column="22" filename="$USER_HOME$/code/sc/web/Pipfile" />
-      <jump line="10" column="0" filename="$USER_HOME$/code/sc/web/Pipfile" />
-      <jump line="21" column="0" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
-      <jump line="87" column="4" filename="$USER_HOME$/code/sc/web/cli/__init__.py" />
-      <jump line="58" column="13" filename="$USER_HOME$/code/sc/web/Pipfile" />
-      <jump line="25" column="15" filename="$USER_HOME$/code/sc/web/Pipfile" />
-      <jump line="40" column="11" filename="$USER_HOME$/code/sc/web/Pipfile" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/Pipfile.lock" />
-      <jump line="107" column="14" filename="$USER_HOME$/code/sc/web/Pipfile.lock" />
-      <jump line="30" column="15" filename="$USER_HOME$/code/sc/web/sc/coms/services/email_validator.py" />
-      <jump line="253" column="19" filename="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/email_validator/__init__.py" />
+      <jump line="47" column="29" filename="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/email_validator/__init__.py" />
+      <jump line="60" column="22" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/migrations/versions/a35a2507cd39__4.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/migrations/versions/cfb911924f11__10.py" />
+      <jump line="247" column="26" filename="$USER_HOME$/code/sc/web/cli/utes.py" />
+      <jump line="83" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="317" column="31" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="9" column="10" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="37" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="114" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="108" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="24" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="92" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="49" column="20" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="334" column="23" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="358" column="29" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="363" column="21" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="310" column="19" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="311" column="20" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="338" column="2" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="339" column="2" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="340" column="11" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="57" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="68" column="32" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="85" column="11" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="87" column="20" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="74" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="48" column="41" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="50" column="50" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="106" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="80" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="36" column="15" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="43" column="25" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="97" column="83" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="81" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="86" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="31" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="18" column="25" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="20" column="26" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="21" column="25" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="76" column="26" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="93" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="8" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="225" column="88" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="7" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="96" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="158" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="120" column="61" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="115" column="50" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="122" column="333" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="124" column="49" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="126" column="80" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="129" column="124" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="131" column="405" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="132" column="34" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="133" column="27" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="397" column="20" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="125" column="3" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="134" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="135" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="159" column="35" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="161" column="39" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="164" column="51" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="172" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="175" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="178" column="32" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="183" column="42" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="188" column="27" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="130" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="145" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="152" column="34" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="189" column="50" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="195" column="36" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="185" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="44" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/adjustments.sql" />
+      <jump line="149" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="98" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="43" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/payments.sql" />
+      <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/payments.sql" />
+      <jump line="5" column="29" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/adjustments.sql" />
+      <jump line="2" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/adjustments.sql" />
+      <jump line="95" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="94" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="11" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="7" column="46" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/charges.sql" />
+      <jump line="4" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/charges.sql" />
+      <jump line="12" column="26" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/charges.sql" />
+      <jump line="13" column="26" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/charges.sql" />
+      <jump line="14" column="25" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/charges.sql" />
+      <jump line="2" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/charges.sql" />
+      <jump line="9" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/charges.sql" />
+      <jump line="15" column="15" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/charges.sql" />
+      <jump line="63" column="25" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/charges.sql" />
+      <jump line="64" column="25" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/charges.sql" />
+      <jump line="65" column="25" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/charges.sql" />
+      <jump line="66" column="31" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/charges.sql" />
+      <jump line="80" column="46" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/charges.sql" />
+      <jump line="20" column="32" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/charges.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ZW1haWxfdmFsaWRhdG9yID0gIioiCg==</text>
+        <text encoding="base64">ICAgIGNvcGF5ID0gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>==1.3.13</text>
+        <text>re.search(r&quot;co.?pay&quot;, desc, re.I) is not None</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -335,34 +378,34 @@
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZW1haWxfdmFsaWRhdG9yID0gIioiCg==</text>
+        <text encoding="base64">ICAgIGNvcGF5ID0gCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIHZhbGlkYXRlX2VtYWlsKGVtYWlsLCB0aW1lb3V0PTMsIGlnbm9yZT1UcnVlKToKICAiIiIiIiIKICBpZiBub3QgZW1haWw6CiAgICByZXR1cm4gTm9uZQogIHJldHVybiBjaGVja19lbWFpbChlbWFpbCwgdGltZW91dCwgaWdub3JlKSBhbmQgZW1haWwgb3IgTm9uZQoKCiMgbm9pbnNwZWN0aW9uIFB5VHlwZUNoZWNrZXIKZGVmIGNoZWNrX2VtYWlsKGVtYWlsLCB0aW1lb3V0PTMsIGlnbm9yZT1UcnVlKToKICAiIiJDaGVjayBpZiBlbWFpbCBpcyByZWFsIGFuZCBzaG91bGQgbm90IGJvdW5jZSBzbyBzZW5kZ3JpZCBzdG9wcyBiZWluZyBhIGJpdGNoIiIiCgogIHRyeToKICAgIGlmIG5vdCBFTUFJTF9SRUdFWFAubWF0Y2goZW1haWwpOgogICAgICByYWlzZSBMb29rdXBFcnJvcihmIkZhaWxlZCBSZWdleCBlbWFpbD17ZW1haWx9IikKICAgIGhvc3RuYW1lID0gZW1haWxbZW1haWwuZmluZCgiQCIpICsgMSA6XQogICAgaG9zdF9tYXAgPSBnZXRfaG9zdHMoaG9zdG5hbWUpCiAgICBpZiBweV8uZmluZChsaXN0KGhvc3RfbWFwKSwgbGFtYmRhIHR1cDogdHVwWzFdKToKICAgICAgcmV0dXJuIFRydWUKCiAgICBmb3IgaG9zdCwgdmFsIGluIGhvc3RfbWFwLml0ZW1zKCk6CiAgICAgIHdpdGggU01UUChob3N0LCB0aW1lb3V0PXRpbWVvdXQpIGFzIHNtdHA6CiAgICAgICAgc3RhdHVzLCBfID0gc210cC5oZWxvKCkKICAgICAgICBpZiBzdGF0dXMgIT0gMjUwOgogICAgICAgICAgY29udGludWUKICAgICAgICBzbXRwLm1haWwoImluZm9Ac29jaWFsY2xpbWIuY29tIikKICAgICAgICBzdGF0dXMsIF8gPSBzbXRwLnJjcHQoZW1haWwpCiAgICAgICAgaWYgc3RhdHVzID09IDI1MDoKICAgICAgICAgIENBQ0hFW2hvc3RuYW1lXVtob3N0XSA9IFRydWUKICAgICAgICAgIHJldHVybiBUcnVlCiAgICBsb2cuZGVidWcoZiJjaGVja19lbWFpbCBpbnZhbGlkIGRvbWFpbiB7ZW1haWx9IikKICAgIHJldHVybiBGYWxzZQogIGV4Y2VwdCBfc29ja2V0LnRpbWVvdXQ6CiAgICBsb2cud2FybmluZyhmImNoZWNrX2VtYWlsIHRpbWVvdXQgZm9yIHtlbWFpbH0iKQogICAgcmV0dXJuIFRydWUKICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICBpZiBub3QgaWdub3JlOgogICAgICByYWlzZSBMb29rdXBFcnJvcihmImNoZWNrX2VtYWlsIGZhaWxlZCBmb3Ige2VtYWlsfSIpIGZyb20gZQogICAgbG9nLmRlYnVnKGYiY2hlY2tfZW1haWwgZmFpbGVkIGZvciB7ZW1haWx9IHtlfSIpCiAgICByZXR1cm4gRmFsc2UKCgojIG5vaW5zcGVjdGlvbiBQeVR5cGVDaGVja2VyCmRlZiBnZXRfaG9zdHMoaG9zdG5hbWUpOgogICIiIkxvb2t1cCBvZiBlbWFpbCBkb21haW4iIiIKICBpZiBob3N0bmFtZSBpbiBDQUNIRToKICAgIHJldHVybiBDQUNIRVtob3N0bmFtZV0KCiAgQ0FDSEVbaG9zdG5hbWVdID0ge30KICB3aXRoIHN1cHByZXNzKFNlcnZlckVycm9yKToKICAgIGhvc3RzID0gbXhsb29rdXAoaG9zdG5hbWUpCiAgICBsb2cuaW5mbyhmIk1YIEhvc3RzIHtob3N0bmFtZX0gPSB7aG9zdHN9IikKICAgIGZvciBfLCBob3N0IGluIGhvc3RzOgogICAgICBpZiBob3N0ID09ICJsb2NhbGhvc3QiOgogICAgICAgIGNvbnRpbnVlCiAgICAgIENBQ0hFW2hvc3RuYW1lXVtob3N0XSA9IEZhbHNlCgogIHJldHVybiBDQUNIRVtob3N0bmFtZV0K</text>
+        <text encoding="base64">V2hhdCBhcmUgYWxsIHRoZSBwb3NzaWJsZSBsZXR0ZXJzIGluIHRyYW5zYWN0aW9uLnR5cGUuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBmbGFza19zZWN1cml0eSBpbXBvcnQgbG9nb3V0X3VzZXIK</text>
+        <text encoding="base64">VGhlbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">d3Rmb3JtcyA9IHtleHRyYXMgPSBbImVtYWlsIl0sdmVyc2lvbiA9ICIqIn0K</text>
+        <text encoding="base64">IyAqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKgojIFBheW1lbnRzCgpTRUxFQ1QgRElTVElOQ1QKICAgIDEgQVMgQ2xhaW1JZCwKICAgIHQuY2xpZW50X2NoYXJnZV9pZCBBUyBTb3VyY2VDaGFyZ2VObywKICAgIHQudHJhbnNfaWQgQVMgU291cmNlU2VxTm8sCiAgICBkLmNsaWVudF9wYXRpZW50X2lkIEFTIEFjY291bnROdW1iZXIsCiAgICAxIEFTIFNvdXJjZVBhdE5vLAogICAgMSBBUyBJbnNTZXRObywKICAgIDEgQVMgSGlzdE5vLAogICAgMSBBUyBTb3VyY2VPcmlnaW5hbCwKICAgIGJlZ2lubmluZ19kYXRlX29mX3NlcnZpY2UgQVMgU2VydmljZURhdGUsCiAgICB0LnBvc3RfZGF0ZSBBUyBCYWNrT3V0RGF0ZSwKICAgIHQub3JpZ19wb3N0X2RhdGUgQVMgUG9zdGVkRGF0ZSwKICAgIE5VTEwgQVMgRWRpdERhdGUsCiAgICBOVUxMIEFTIFNlY29uZGFyeUluc3VyYW5jZUNvZGUsCiAgICB0LnNvdXJjZV9wYXlfY29kZSBBUyBTb3VyY2VQYXlDb2RlLAogICAgcGFpZF9hbXQgQVMgUGFpZEFtb3VudCwKICAgIDAgQVMgQ29QYXlBbW91bnQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIDAgQVMgQ29QYXlCYWxhbmNlQW1vdW50LAogICAgICAgICAgICAgICAgICAgICAgICAgICBnZXRkYXRlKCkgQVMgSW5zZXJ0RGF0ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgMSBBUyBFVExDb250cm9sSUQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICcnIEFTIFRyYW5zYWN0aW9uUmVhc29uQ29kZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgYy5jcHRfY29kZSBBUyBDUFRDb2RlLAogICAgICAgICAgICAgICAgICAgICAgICAgICByZW5kZXJpbmdfaWQgQVMgQ2hhcmdlUHJvdmlkZXJDb2RlLApOVUxMIEFTIFJlc291cmNlUHJvdmlkZXJDb2RlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGMucmVmZXJyaW5nX3Byb3ZpZGVyX2lkIEFTIFJlZmVycmluZ1Byb3ZpZGVyQ29kZSwKYy5sb2NhdGlvbl9pZCBBUyBTb3VyY2VQbGFjZU9mU2VydmljZUNvZGUsCmxlZnQoY3B0X2NvZGVfbW9kaWZpZXJzLCAyKSBBUyBQcm9jZWR1cmVNb2RpZmllcjEsCkNBU0UKICAgIFdIRU4gbGVuZ3RoKGNwdF9jb2RlX21vZGlmaWVycykgPiAyIFRIRU4gc3Vic3RyaW5nKGNwdF9jb2RlX21vZGlmaWVycywgNCwgMikKRU5EIEFTIFByb2NlZHVyZU1vZGlmaWVyMiwKZHgyX2NvZGUgQVMgU291cmNlRGlhZ25vc2lzQ29kZSwKTlVMTCBBUyBSZWZOdW1fSW4xLAonUGxhY2Vob2xkZXInIEFTIERlbmlhbERlc2NyaXB0aW9uLAonUGxhY2Vob2xkZXInIEFTIENvcnJlY3Rpb24sCk5VTEwgQVMgSXNDb3BheSwKYy5yZXZlbnVlX2NlbnRlcl9jb2RlIEFTIFJldmVudWVDZW50ZXJDb2RlLApjLnJldmVudWVfY2VudGVyX2NvZGUgQVMgQ2hhcmdlUmV2ZW51ZUNlbnRlckNvZGUKRlJPTSBzb2NpYWxjbGltZS52aWV3X3RyYW5zYWN0aW9uIHQKTEVGVCBPVVRFUiBKT0lOIHNvY2lhbGNsaW1lLnZpZXdfY2hhcmdlIGMgT04gYy5jbGllbnRfaWQgPSB0LmNsaWVudF9pZApBTkQgYy5jbGllbnRfY2hhcmdlX2lkID0gdC5jbGllbnRfY2hhcmdlX2lkCkxFRlQgT1VURVIgSk9JTiBzb2NpYWxjbGltZS52aWV3X2RlbW9ncmFwaGljIGQgT04gYy5jbGllbnRfaWQgPSBkLmNsaWVudF9pZApBTkQgYy5wYXRpZW50X2lkID0gZC5jbGllbnRfcGF0aWVudF9pZApXSEVSRSB0LmNsaWVudF9pZCA9ICd7eyBDbGllbnRfSUQgfX0nCiAgQU5EIFRZUEUgPSAnQycKQU5EICh0b19kYXRlICh0Lm9yaWdfcG9zdF9kYXRlLCAnWVlZWU1NREQnKSBCRVRXRUVOICd7e3N0YXJ0X2RhdGV9fScgQU5EICd7e2VuZF9kYXRlfX0nKSA7CgoKIyAqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKgojIEFkanVzdG1lbnRzCgoKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Zmxhc2stc2VjdXJpdHktdG9vID0gIioiCg==</text>
+        <text encoding="base64">IyAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAib3ZlcnJpZGVzIjogWwogICAgewogICAgICAiZmlsZXMiOiAiKi5odG1sIiwKICAgICAgIm9wdGlvbnMiOiB7CiAgICAgICAgInBhcnNlciI6ICJodG1sIiwKICAgICAgICAiaHRtbFdoaXRlc3BhY2VTZW5zaXRpdml0eSI6ICJpZ25vcmUiCiAgICAgIH0KICAgIH0KICBdCg==</text>
+        <text encoding="base64">U0VMRUNUCkRJU1RJTkNUIDEgQVMgQ2xhaW1JRCwKICAgICAgICAgdC5jbGllbnRfY2hhcmdlX2lkIEFTIFNvdXJjZUNoYXJnZU5vLAogICAgICAgICB0LnRyYW5zX2lkIEFTIFNvdXJjZVNlcU5vLAogICAgICAgICBkLmNsaWVudF9wYXRpZW50X2lkIEFTIEFjY291bnROdW1iZXIsCiAgICAgICAgIDEgQVMgU291cmNlUGF0Tm8sCiAgICAgICAgIDEgQVMgSGlzdE5vLAogICAgICAgICAxIEFTIFNvdXJjZU9yaWdpbmFsLAogICAgICAgICBjLmJlZ2lubmluZ19kYXRlX29mX3NlcnZpY2UgQVMgU2VydmljZURhdGUsCiAgICAgICAgIHQucG9zdF9kYXRlIEFTIEJhY2tvdXREYXRlLAogICAgICAgICB0Lm9yaWdfcG9zdF9kYXRlIEFTIFBvc3RlZERhdGUsCiAgICAgICAgIE5VTEwgQVMgRWRpdERhdGUsCiAgICAgICAgIGMucHJpbWFyeV9wYXllcl9pZCBBUyBQcmltYXJ5SW5zdXJhbmNlQ29kZSwKICAgICAgICAgTlVMTCBBUyBTZWNvbmRhcnlJbnN1cmFuY2VDb2RlLAogICAgICAgICAwIEFTIHRyYW5zYWN0aW9udHlwZSwKICAgICAgICAgTlVMTCBBUyBFZGl0VXNlciwKICAgICAgICAgTlVMTCBBUyBQb3N0VXNlciwKICAgICAgICAgTlVMTCBBUyBTeXN0ZW1Vc2VyLAogICAgICAgICBOVUxMIEFTIFRyYW5zYWN0aW9uTXNnQ29kZSwKICAgICAgICAgdC5hZGp1c3RtZW50X2FtdCBBUyBBZGp1c3RlZEFtb3VudCwKICAgICAgICAgZ2V0ZGF0ZSAoKSBBUyBJbnNlcnREYXRlLAogICAgICAgICAxIEFTIEVUTENvbnRyb2xJRCwKICAgICAgICAgdC5zb3VyY2VfYWRqX2NvZGUgQVMgU291cmNlQWRqQ29kZSwKICAgICAgICAgdC5jcHRfY29kZSBBUyBDUFRDb2RlLAogICAgICAgICBjLnJlbmRlcmluZ19pZCBBUyBDaGFyZ2VQcm92aWRlckNvZGUsCiAgICAgICAgIE5VTEwgQVMgUmVzb3VyY2VQcm92aWRlckNvZGUsCiAgICAgICAgIGMucmVmZXJyaW5nX3Byb3ZpZGVyX2lkIEFTIFJlZmVycmluZ1Byb3ZpZGVyQ29kZSwKICAgICAgICAgYy5sb2NhdGlvbl9pZCBBUyBTb3VyY2VQbGFjZW9mU2VydmljZUNvZGUsCiAgICAgICAgIGxlZnQoY3B0X2NvZGVfbW9kaWZpZXJzLCAyKSBBUyBQcm9jZWR1cmVNb2RpZmllcjEsCiAgICAgICAgIENBU0UKICAgICAgICAgICAgIFdIRU4gbGVuZ3RoKGNwdF9jb2RlX21vZGlmaWVycykgPiAyIFRIRU4gc3Vic3RyaW5nKGNwdF9jb2RlX21vZGlmaWVycywgNCwgMikKICAgICAgICAgRU5EIEFTIFByb2NlZHVyZU1vZGlmaWVyMiwKICAgICAgICAgYy5keDJfY29kZSBBUyBTb3VyY2VEaWFnbm9zaXNDb2RlLAogICAgICAgICBOVUxMIEFTIFJlZk51bV9JbjEsCiAgICAgICAgIE5VTEwgQVMgRGVuaWFsQ29kZSwKICAgICAgICAgTlVMTCBBUyBEZW5pYWxEZXNjcmlwdGlvbiwKICAgICAgICAgYy5yZXZlbnVlX2NlbnRlcl9jb2RlIEFTIENoYXJnZVJldmVudWVDZW50ZXJDb2RlLAogICAgICAgICBjLnJldmVudWVfY2VudGVyX2NvZGUgQVMgUmV2ZW51ZUNlbnRlckNvZGUKRlJPTSBzb2NpYWxjbGltZS52aWV3X3RyYW5zYWN0aW9uIHQKTEVGVCBPVVRFUiBKT0lOIHNvY2lhbGNsaW1lLnZpZXdfY2hhcmdlIGMgT04gYy5jbGllbnRfaWQgPSB0LmNsaWVudF9pZApBTkQgYy5jbGllbnRfY2hhcmdlX2lkID0gdC5jbGllbnRfY2hhcmdlX2lkCkxFRlQgT1VURVIgSk9JTiBzb2NpYWxjbGltZS52aWV3X2RlbW9ncmFwaGljIGQgT04gYy5wYXRpZW50X2lkID0gZC5jbGllbnRfcGF0aWVudF9pZApBTkQgYy5jbGllbnRfaWQgPSBkLmNsaWVudF9pZApXSEVSRSB0LmNsaWVudF9pZCA9ICd7eyBDbGllbnRfSUQgfX0nCkFORCB0LnR5cGUgPSAnQScKQU5EICh0b19kYXRlICh0Lm9yaWdfcG9zdF9kYXRlLCAnWVlZWU1NREQnKSBCRVRXRUVOICd7e3N0YXJ0X2RhdGV9fScgQU5EICd7e2VuZF9kYXRlfX0nKQo7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAib3ZlcnJpZGVzIjogWwogICAgewogICAgICAiZmlsZXMiOiAiKi5odG1sIiwKICAgICAgIm9wdGlvbnMiOiB7CiAgICAgICAgInBhcnNlciI6ICJodG1sIiwKICAgICAgICAiaHRtbFdoaXRlc3BhY2VTZW5zaXRpdml0eSI6ICJpZ25vcmUiCiAgICAgIH0KICAgIH0KICBdCg==</text>
+        <text encoding="base64">IC0tYW5kICgodHJ1bmModC5oal9jcmVhdGVfdGltZXN0YW1wKSBiZXR3ZWVuICd7e3N0YXJ0X2RhdGV9fScgYW5kICAne3tlbmRfZGF0ZX19JykKLS1vciAodHJ1bmModC5oal9tb2RpZnlfdGltZXN0YW1wKSBiZXR3ZWVuICd7e3N0YXJ0X2RhdGV9fScgYW5kICAne3tlbmRfZGF0ZX19JykKLS1vciAodHJ1bmMoYy5oal9jcmVhdGVfdGltZXN0YW1wKSBiZXR3ZWVuICd7e3N0YXJ0X2RhdGV9fScgYW5kICAne3tlbmRfZGF0ZX19JykKLS1vciAodHJ1bmMoYy5oal9tb2RpZnlfdGltZXN0YW1wKSBiZXR3ZWVuICd7e3N0YXJ0X2RhdGV9fScgYW5kICAne3tlbmRfZGF0ZX19JykKLS1vciAodG9fZGF0ZSAodC5vcmlnX3Bvc3RfZGF0ZSwgJ1lZWVlNTUREJykgYmV0d2VlbiAne3tzdGFydF9kYXRlfX0nIGFuZCAgJ3t7ZW5kX2RhdGV9fScpCi0tKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aWYgISBoYXNoIG52bSAyPi9kZXYvbnVsbDsgdGhlbgogIGVjaG8gIkluc3RhbGxpbmcgbnZtIgogIG1rZGlyIC1wICIke0hPTUV9Ly5udm0iCiAgY3VybCAtby0gaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2NyZWF0aW9uaXgvbnZtL3YwLjM0LjAvaW5zdGFsbC5zaCB8IGJhc2gKZmkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aWYgISBoYXNoIG52bSAyPi9kZXYvbnVsbDsgdGhlbgogIGVjaG8gIkluc3RhbGxpbmcgbnZtIgogIG1rZGlyIC1wICIke0hPTUV9Ly5udm0iCiAgY3VybCAtby0gaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2NyZWF0aW9uaXgvbnZtL3YwLjM0LjAvaW5zdGFsbC5zaCB8IGJhc2gKZmkK</text>
+        <text encoding="base64">LAo=</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
@@ -377,7 +420,7 @@
       <last-replace>q</last-replace>
       <last-substitute>query</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
