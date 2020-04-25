@@ -62,6 +62,7 @@
         <entry>js</entry>
         <entry>aids</entry>
         <entry>asdf</entry>
+        <entry>nvm</entry>
       </history-search>
       <history-cmd>
         <entry>SplitVertically</entry>
@@ -332,7 +333,7 @@
         <text>aids=None</text>
       </register>
       <register name="/" type="4">
-        <text>asdf</text>
+        <text>nvm</text>
       </register>
       <register name="0" type="4">
         <text>]</text>
@@ -374,13 +375,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>asdf</last-search>
+      <last-search>nvm</last-search>
       <last-offset />
-      <last-pattern>asdf</last-pattern>
+      <last-pattern>nvm</last-pattern>
       <last-replace>q</last-replace>
       <last-substitute>query</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
