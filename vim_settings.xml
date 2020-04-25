@@ -135,11 +135,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/sc/app/vitally/cron.py" timestamp="1587799448336">
-        <mark key="[" line="29" column="15" />
-        <mark key="]" line="29" column="15" />
-        <mark key="." line="29" column="14" />
-        <mark key="^" line="29" column="15" />
+      <file name="/Dummy.txt" timestamp="1587841277432">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/README.md" timestamp="1587841194916" />
+      <file name="/console" timestamp="1587841216053">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.dotfiles/node/install.sh" timestamp="1587803235512">
         <mark key="[" line="6" column="0" />
@@ -147,14 +148,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/.gitignore" timestamp="1587804060777">
+      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1587840943722">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/plats/cron/starters.py" timestamp="1587799669807">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="44" column="26" />
+      <file name="$USER_HOME$/code/sc/web/.gitignore" timestamp="1587804060777">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/play/.prettierrc" timestamp="1587804109530">
         <mark key="[" line="3" column="24" />
@@ -192,12 +190,13 @@
         <mark key="]" line="209" column="0" />
         <mark key="." line="209" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" timestamp="1587799575227">
-        <mark key="'" line="56" column="11" />
-        <mark key="[" line="128" column="17" />
-        <mark key="]" line="128" column="17" />
-        <mark key="." line="128" column="16" />
-        <mark key="^" line="128" column="17" />
+      <file name="$USER_HOME$/code/sc/web/setup.py" timestamp="1587840869336">
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="9" column="31" />
+        <mark key="." line="9" column="31" />
+      </file>
+      <file name="/a.sql" timestamp="1587841220941">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/fuck/shit/.prettierrc" timestamp="1587806672682">
         <mark key="[" line="3" column="24" />
@@ -206,6 +205,9 @@
       </file>
       <file name="$USER_HOME$/code/fuck/web/.gitignore" timestamp="1587806656462">
         <mark key="'" line="12" column="19" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/Pipfile" timestamp="1587840654464">
+        <mark key="'" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/__init__.py" timestamp="1587799729494">
         <mark key="'" line="222" column="43" />
@@ -216,11 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="31" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
-      <jump line="145" column="21" filename="$USER_HOME$/code/sc/web/sc/sql/__init__.py" />
-      <jump line="206" column="0" filename="$USER_HOME$/code/sc/web/sc/sql/__init__.py" />
-      <jump line="16" column="6" filename="$USER_HOME$/code/sc/web/sc/coms/search/hints.py" />
-      <jump line="38" column="4" filename="$USER_HOME$/code/sc/web/sc/coms/search/hints.py" />
       <jump line="204" column="13" filename="$USER_HOME$/code/sc/web/sc/sql/__init__.py" />
       <jump line="149" column="6" filename="$USER_HOME$/code/sc/web/sc/sql/__init__.py" />
       <jump line="76" column="6" filename="$USER_HOME$/code/sc/web/sc/coms/customsql/stringtypes.py" />
@@ -316,6 +313,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/play/.gitignore" />
       <jump line="12" column="19" filename="$USER_HOME$/code/fuck/web/.gitignore" />
       <jump line="0" column="0" filename="$USER_HOME$/code/fuck/shit/.gitignore" />
+      <jump line="70" column="22" filename="$USER_HOME$/code/sc/web/Pipfile" />
+      <jump line="10" column="0" filename="$USER_HOME$/code/sc/web/Pipfile" />
+      <jump line="21" column="0" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
+      <jump line="67" column="0" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
