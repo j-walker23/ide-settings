@@ -137,8 +137,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1587841277432">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1587843879670">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/console" timestamp="1587841216053">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1587840943722">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/.gitignore" timestamp="1587841580347">
         <mark key="'" line="0" column="0" />
@@ -147,10 +156,19 @@
         <mark key="." line="28" column="11" />
         <mark key="^" line="28" column="12" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/Pipfile.lock" timestamp="1587842200916">
+        <mark key="'" line="107" column="14" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/play/.prettierrc" timestamp="1587804109530">
         <mark key="[" line="3" column="24" />
         <mark key="]" line="3" column="24" />
         <mark key="." line="3" column="24" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/instance/local/locals.js" timestamp="1587840425035">
+        <mark key="[" line="5" column="42" />
+        <mark key="]" line="5" column="51" />
+        <mark key="." line="5" column="50" />
+        <mark key="^" line="5" column="51" />
       </file>
       <file name="$USER_HOME$/code/fuck/shit/.gitignore" timestamp="1587806659909">
         <mark key="'" line="0" column="0" />
@@ -158,6 +176,11 @@
         <mark key="]" line="119" column="0" />
         <mark key="^" line="119" column="0" />
         <mark key="." line="119" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/setup.py" timestamp="1587840869336">
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="9" column="31" />
+        <mark key="." line="9" column="31" />
       </file>
       <file name="/a.sql" timestamp="1587841220941">
         <mark key="[" line="0" column="0" />
@@ -172,44 +195,29 @@
         <mark key="]" line="3" column="24" />
         <mark key="." line="3" column="24" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/wtforms/validators.py" timestamp="1587843878658" />
       <file name="$USER_HOME$/code/fuck/web/.gitignore" timestamp="1587806656462">
         <mark key="'" line="12" column="19" />
       </file>
       <file name="$USER_HOME$/code/sc/web/cli/__init__.py" timestamp="1587841574326">
         <mark key="'" line="87" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587841277432">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/README.md" timestamp="1587841194916" />
-      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1587840943722">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/Pipfile.lock" timestamp="1587842200916">
-        <mark key="'" line="107" column="14" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/instance/local/locals.js" timestamp="1587840425035">
-        <mark key="[" line="5" column="42" />
-        <mark key="]" line="5" column="51" />
-        <mark key="." line="5" column="50" />
-        <mark key="^" line="5" column="51" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/setup.py" timestamp="1587840869336">
-        <mark key="[" line="9" column="30" />
-        <mark key="]" line="9" column="31" />
-        <mark key="." line="9" column="31" />
-      </file>
-      <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/wtforms/validators.py" timestamp="1587842151685" />
-      <file name="$USER_HOME$/code/sc/web/Pipfile" timestamp="1587842801798">
+      <file name="$USER_HOME$/code/sc/web/Pipfile" timestamp="1587844074784">
         <mark key="'" line="41" column="11" />
         <mark key="[" line="77" column="18" />
         <mark key="]" line="77" column="19" />
         <mark key="." line="77" column="19" />
         <mark key="^" line="77" column="26" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/email_validator/__init__.py" timestamp="1587844008049">
+        <mark key="'" line="253" column="19" />
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="10" />
+        <mark key="^" line="4" column="10" />
+        <mark key="." line="4" column="9" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="651" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
       <jump line="85" column="6" filename="$USER_HOME$/code/sc/web/cli/john.py" />
       <jump line="507" column="42" filename="$USER_HOME$/code/sc/web/cli/john.py" />
       <jump line="509" column="19" filename="$USER_HOME$/code/sc/web/cli/john.py" />
@@ -309,6 +317,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/Pipfile.lock" />
       <jump line="107" column="14" filename="$USER_HOME$/code/sc/web/Pipfile.lock" />
       <jump line="30" column="15" filename="$USER_HOME$/code/sc/web/sc/coms/services/email_validator.py" />
+      <jump line="253" column="19" filename="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/email_validator/__init__.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
