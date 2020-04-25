@@ -53,8 +53,14 @@
         <entry>_count</entry>
         <entry encoding="base64">XDw7XD4=</entry>
         <entry>save_request_context</entry>
-        <entry>aids</entry>
         <entry>hyb</entry>
+        <entry>query</entry>
+        <entry>Impac</entry>
+        <entry>_rep</entry>
+        <entry>perio</entry>
+        <entry>_hg</entry>
+        <entry>js</entry>
+        <entry>aids</entry>
         <entry>asdf</entry>
       </history-search>
       <history-cmd>
@@ -88,6 +94,7 @@
         <entry>%s//uppers</entry>
         <entry>%s//_joined</entry>
         <entry>action SplitVertically</entry>
+        <entry>%s//q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -127,165 +134,86 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/sc/coms/ext/celery.py" timestamp="1587789748555">
-        <mark key="'" line="81" column="4" />
-        <mark key="]" line="91" column="4" />
-        <mark key="." line="91" column="3" />
-        <mark key="^" line="91" column="4" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/tasks/alert.py" timestamp="1587799029878">
+        <mark key="'" line="166" column="0" />
+        <mark key="[" line="167" column="34" />
+        <mark key="]" line="167" column="60" />
+        <mark key="." line="167" column="59" />
+        <mark key="^" line="167" column="60" />
       </file>
-      <file name="/Python Console" timestamp="1587790467091">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" timestamp="1587798841210">
+        <mark key="'" line="777" column="35" />
+        <mark key="[" line="888" column="22" />
+        <mark key="]" line="889" column="1" />
+        <mark key="^" line="889" column="1" />
+        <mark key="." line="889" column="0" />
+      </file>
+      <file name="/fragment.js" timestamp="1587798789384">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1587790687077">
-        <mark key="[" line="0" column="1" />
+      <file name="/console" timestamp="1587798791341">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/plats/cron/starters.py" timestamp="1587791142599">
-        <mark key="[" line="26" column="54" />
-        <mark key="]" line="26" column="52" />
-        <mark key="." line="26" column="51" />
-        <mark key="^" line="26" column="52" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/plats/cron/starters.py" timestamp="1587799669807">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="44" column="26" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/converter.py" timestamp="1587784064919">
-        <mark key="'" line="41" column="0" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/internal/cron.py" timestamp="1587799755581">
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
+        <mark key="^" line="148" column="25" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/plats/syncs/cron/starters.py" timestamp="1587789778469">
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="." line="127" column="0" />
-        <mark key="^" line="127" column="0" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/notes/query_notes.py" timestamp="1587799764708">
+        <mark key="[" line="209" column="0" />
+        <mark key="]" line="209" column="0" />
+        <mark key="." line="209" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/note/__init__.py" timestamp="1587785794684">
-        <mark key="[" line="128" column="18" />
-        <mark key="]" line="128" column="26" />
-        <mark key="^" line="128" column="26" />
-        <mark key="." line="128" column="25" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" timestamp="1587799575227">
+        <mark key="'" line="56" column="11" />
+        <mark key="[" line="128" column="17" />
+        <mark key="]" line="128" column="17" />
+        <mark key="." line="128" column="16" />
+        <mark key="^" line="128" column="17" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/notes/query_notes.py" timestamp="1587791162818">
-        <mark key="[" line="211" column="56" />
-        <mark key="]" line="211" column="56" />
-        <mark key="." line="211" column="55" />
-        <mark key="^" line="211" column="56" />
+      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/reportcard_view.py" timestamp="1587798225454">
+        <mark key="'" line="23" column="6" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" timestamp="1587791137550">
-        <mark key="[" line="106" column="36" />
-        <mark key="]" line="106" column="36" />
-        <mark key="^" line="106" column="36" />
-        <mark key="." line="106" column="35" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/vitally/cron.py" timestamp="1587799448336">
+        <mark key="[" line="29" column="15" />
+        <mark key="]" line="29" column="15" />
+        <mark key="." line="29" column="14" />
+        <mark key="^" line="29" column="15" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/coms/ext/flasks.py" timestamp="1587782581984">
-        <mark key="[" line="149" column="16" />
-        <mark key="]" line="149" column="20" />
-        <mark key="^" line="149" column="20" />
-        <mark key="." line="149" column="19" />
+      <file name="$USER_HOME$/code/sc/web/sc/core/types.py" timestamp="1587798445150">
+        <mark key="'" line="45" column="19" />
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="27" />
+        <mark key="^" line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/pyproject.toml" timestamp="1587789774777">
-        <mark key="'" line="13" column="11" />
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="1" column="16" />
-        <mark key="." line="1" column="15" />
-        <mark key="^" line="1" column="16" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" timestamp="1587783263914">
-        <mark key="'" line="139" column="11" />
-        <mark key="[" line="382" column="0" />
-        <mark key="]" line="382" column="0" />
-        <mark key="^" line="391" column="10" />
-        <mark key="." line="382" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/selects/accounts.py" timestamp="1587789732014">
-        <mark key="'" line="49" column="26" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="6" />
-        <mark key="." line="49" column="6" />
-        <mark key="^" line="60" column="17" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/selects/__init__.py" timestamp="1587784261856">
-        <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="32" />
-        <mark key="^" line="3" column="32" />
-        <mark key="." line="3" column="31" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/selects/notifications.py" timestamp="1587790984660">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="42" column="37" />
-        <mark key="." line="50" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/selects/notes.py" timestamp="1587790571343">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="40" />
-        <mark key="^" line="38" column="55" />
-        <mark key="." line="40" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/__init__.py" timestamp="1587784990702">
+      <file name="$USER_HOME$/code/sc/web/sc/app/plats/listings/qna/cron.py" timestamp="1587798056856" />
+      <file name="$USER_HOME$/code/sc/web/sc/sql/__init__.py" timestamp="1587799729494">
         <mark key="'" line="222" column="43" />
-        <mark key="[" line="222" column="55" />
-        <mark key="]" line="222" column="59" />
-        <mark key="." line="222" column="58" />
-        <mark key="^" line="222" column="59" />
+        <mark key="[" line="226" column="38" />
+        <mark key="]" line="226" column="38" />
+        <mark key="." line="226" column="37" />
+        <mark key="^" line="226" column="38" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1587783084681">
-        <mark key="'" line="475" column="8" />
-        <mark key="[" line="550" column="12" />
-        <mark key="]" line="550" column="30" />
-        <mark key="^" line="550" column="30" />
-        <mark key="." line="550" column="29" />
+      <file name="$USER_HOME$/code/sc/web/sc/coms/customsql/enumtype.py" timestamp="1587797906664">
+        <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/notes/cron.py" timestamp="1587791075457">
-        <mark key="'" line="78" column="0" />
-        <mark key="[" line="266" column="0" />
-        <mark key="]" line="266" column="0" />
-        <mark key="." line="266" column="0" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/notes/cron.py" timestamp="1587797790988">
+        <mark key="'" line="275" column="3" />
+        <mark key="[" line="270" column="0" />
+        <mark key="]" line="270" column="4" />
+        <mark key="." line="270" column="4" />
+        <mark key="^" line="267" column="51" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="23" filename="$USER_HOME$/code/sc/selenium/automation/socialclimb/app/reports/notifications/testcases/test_lrc_multiedit.py" />
-      <jump line="19" column="15" filename="$USER_HOME$/code/sc/selenium/automation/models/user.py" />
-      <jump line="64" column="28" filename="$USER_HOME$/code/sc/selenium/automation/models/invite.py" />
-      <jump line="52" column="4" filename="$USER_HOME$/code/sc/selenium/automation/models/previsit.py" />
-      <jump line="115" column="2" filename="$USER_HOME$/code/sc/selenium/automation/models/survey.py" />
-      <jump line="107" column="25" filename="$USER_HOME$/code/sc/selenium/automation/__init__.py" />
-      <jump line="40" column="2" filename="$USER_HOME$/code/sc/selenium/automation/__init__.py" />
-      <jump line="118" column="56" filename="$USER_HOME$/code/sc/selenium/automation/__init__.py" />
-      <jump line="51" column="21" filename="$USER_HOME$/code/sc/selenium/automation/__init__.py" />
-      <jump line="48" column="0" filename="$USER_HOME$/code/sc/selenium/automation/__init__.py" />
-      <jump line="329" column="11" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="72" column="20" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
-      <jump line="88" column="21" filename="$USER_HOME$/code/sc/selenium/automation/socialclimb/app/reviews/followup/followup_page.py" />
-      <jump line="586" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
-      <jump line="350" column="11" filename="$USER_HOME$/code/sc/web/cli/john.py" />
-      <jump line="353" column="4" filename="$USER_HOME$/code/sc/web/cli/john.py" />
-      <jump line="470" column="7" filename="$USER_HOME$/code/sc/web/cli/john.py" />
-      <jump line="620" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
-      <jump line="56" column="19" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" />
-      <jump line="64" column="28" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" />
-      <jump line="16" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b6782c72-08eb-450d-8519-6d42b23fd316/console.sql" />
-      <jump line="39" column="6" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" />
-      <jump line="497" column="18" filename="$USER_HOME$/code/sc/web/cli/john.py" />
-      <jump line="644" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
-      <jump line="324" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
-      <jump line="659" column="57" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
-      <jump line="105" column="0" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="244" column="0" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="397" column="46" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="436" column="6" filename="$USER_HOME$/code/sc/web/cli/john.py" />
-      <jump line="52" column="0" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
-      <jump line="692" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
-      <jump line="693" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
-      <jump line="691" column="46" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
-      <jump line="378" column="9" filename="$USER_HOME$/code/sc/web/cli/john.py" />
-      <jump line="42" column="11" filename="$USER_HOME$/code/sc/web/sc/app/selects/accounts.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/code/sc/web/sc/app/selects/accounts.py" />
-      <jump line="48" column="4" filename="$USER_HOME$/code/sc/web/sc/app/selects/accounts.py" />
-      <jump line="30" column="92" filename="$USER_HOME$/code/sc/web/sc/app/selects/accounts.py" />
-      <jump line="53" column="4" filename="$USER_HOME$/code/sc/web/sc/app/selects/accounts.py" />
-      <jump line="58" column="2" filename="$USER_HOME$/code/sc/web/sc/app/selects/accounts.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/code/sc/web/sc/app/selects/accounts.py" />
-      <jump line="22" column="32" filename="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj.txt" />
-      <jump line="36" column="2" filename="$USER_HOME$/code/sc/web/sc/app/selects/accounts.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/code/sc/web/sc/app/selects/accounts.py" />
-      <jump line="40" column="4" filename="$USER_HOME$/code/sc/web/sc/app/selects/accounts.py" />
-      <jump line="64" column="2" filename="$USER_HOME$/code/sc/web/sc/app/selects/accounts.py" />
       <jump line="32" column="0" filename="$USER_HOME$/code/sc/web/sc/app/selects/accounts.py" />
       <jump line="148" column="22" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
       <jump line="106" column="38" filename="$USER_HOME$/code/sc/web/sc/app/internal/cron.py" />
@@ -322,7 +250,6 @@
       <jump line="222" column="43" filename="$USER_HOME$/code/sc/web/sc/sql/__init__.py" />
       <jump line="26" column="8" filename="$USER_HOME$/code/sc/web/sc/app/selects/listings.py" />
       <jump line="785" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
-      <jump line="179" column="47" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
       <jump line="14" column="4" filename="$USER_HOME$/code/sc/web/sc/app/selects/listings.py" />
       <jump line="264" column="5" filename="$USER_HOME$/code/sc/web/sc/app/notes/cron.py" />
       <jump line="265" column="59" filename="$USER_HOME$/code/sc/web/sc/app/notes/cron.py" />
@@ -339,15 +266,63 @@
       <jump line="262" column="4" filename="$USER_HOME$/code/sc/web/sc/app/notes/cron.py" />
       <jump line="297" column="25" filename="$USER_HOME$/code/sc/web/sc/app/notes/cron.py" />
       <jump line="77" column="0" filename="$USER_HOME$/code/sc/web/sc/app/notes/cron.py" />
+      <jump line="21" column="18" filename="$USER_HOME$/code/sc/web/sc/app/selects/notifications.py" />
+      <jump line="120" column="0" filename="$USER_HOME$/code/sc/web/sc/app/tasks/alert.py" />
+      <jump line="8" column="9" filename="$USER_HOME$/code/sc/web/sc/app/tasks/alert.py" />
+      <jump line="540" column="0" filename="$USER_HOME$/code/sc/web/cli/john.py" />
+      <jump line="5" column="5" filename="$USER_HOME$/code/sc/web/static/web/views/notes/details/note-types.ts" />
+      <jump line="154" column="2" filename="$USER_HOME$/code/sc/web/sc/app/tasks/alert.py" />
+      <jump line="275" column="3" filename="$USER_HOME$/code/sc/web/sc/app/notes/cron.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/code/sc/web/sc/core/types.py" />
+      <jump line="34" column="6" filename="$USER_HOME$/code/sc/web/sc/coms/customsql/enumtype.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/coms/customsql/enumtype.py" />
+      <jump line="35" column="4" filename="$USER_HOME$/code/sc/web/sc/core/types.py" />
+      <jump line="32" column="4" filename="$USER_HOME$/code/sc/web/sc/core/types.py" />
+      <jump line="8" column="36" filename="$USER_HOME$/code/sc/web/sc/core/types.py" />
+      <jump line="45" column="19" filename="$USER_HOME$/code/sc/web/sc/core/types.py" />
+      <jump line="23" column="6" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/reportcard_view.py" />
+      <jump line="227" column="0" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
+      <jump line="226" column="14" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
+      <jump line="92" column="10" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
+      <jump line="219" column="10" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
+      <jump line="224" column="36" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
+      <jump line="777" column="35" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b5d85402-d5bc-4efa-b86a-8ed9d1a101c4/console.sql" />
+      <jump line="166" column="0" filename="$USER_HOME$/code/sc/web/sc/app/tasks/alert.py" />
+      <jump line="212" column="7" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
+      <jump line="400" column="14" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
+      <jump line="128" column="16" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
+      <jump line="177" column="14" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
+      <jump line="179" column="5" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
+      <jump line="181" column="5" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
+      <jump line="182" column="20" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
+      <jump line="189" column="12" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
+      <jump line="193" column="28" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
+      <jump line="198" column="20" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
+      <jump line="200" column="8" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
+      <jump line="209" column="25" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
+      <jump line="211" column="8" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
+      <jump line="217" column="18" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
+      <jump line="221" column="37" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
+      <jump line="222" column="8" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
+      <jump line="231" column="18" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
+      <jump line="233" column="11" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
+      <jump line="240" column="8" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
+      <jump line="143" column="17" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
+      <jump line="239" column="17" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
+      <jump line="251" column="11" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
+      <jump line="252" column="28" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
+      <jump line="27" column="33" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
+      <jump line="55" column="31" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
+      <jump line="56" column="11" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>, aids=None</text>
+      <register name="+" type="2">
+        <text encoding="base64">ZGVmIGdldF9jcm9uX25vdGVzX3EocGVyaW9kOiBOb3RlUGVyaW9kLCB0eXBlXzogTm90ZVR5cGUpOgogICIiIiIiIgogIGZpbHRlcnMgPSBbTm90aWZpY2F0aW9uLmFjY291bnRfaWQuaW5fKGFpZHMpXSBpZiBhaWRzIGVsc2UgW10KCiAgcSA9ICgKICAgIE5vdGlmaWNhdGlvbi5zZWFyY2goKmZpbHRlcnMsIGZpZWxkcz0iYWNjb3VudHtuYW1lfSIpCiAgICAuZmlsdGVyKEFjY291bnQuaXNfYWN0aXZlID09IFRydWUpCiAgICAuZmlsdGVyKE5vdGlmaWNhdGlvbi5jb250YWN0cy5hbnkoQ29udGFjdC52YWwuY29udGFpbnMoIkAiKSkpCiAgICAuZmlsdGVyKE5vdGlmaWNhdGlvbi50eXBlID09IHR5cGVfKQogICAgLmZpbHRlcihOb3RpZmljYXRpb24uaXNfZGlzYWJsZWQgPT0gRmFsc2UpCiAgICAuZmlsdGVyKHBlcmlvZC5wZXJpb2RfZmlsdGVyKQogICAgLm9yZGVyX2J5KEFjY291bnQubmFtZSkKICAgIC5lbmFibGVfYXNzZXJ0aW9ucyhGYWxzZSkKICApCgogIHJldHVybiBxCg==</text>
       </register>
       <register name="-" type="4">
-        <text>, aids=None</text>
+        <text>aids=None</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -356,37 +331,37 @@
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBqcyA9IGpzIG9yIHt9CiAgYWlkcyA9IGpzLmdldCgiYWlkcyIpCg==</text>
+        <text encoding="base64">ZGVmIGdldF9jcm9uX25vdGVzX3EocGVyaW9kOiBOb3RlUGVyaW9kLCB0eXBlXzogTm90ZVR5cGUpOgogICIiIiIiIgogIGZpbHRlcnMgPSBbTm90aWZpY2F0aW9uLmFjY291bnRfaWQuaW5fKGFpZHMpXSBpZiBhaWRzIGVsc2UgW10KCiAgcSA9ICgKICAgIE5vdGlmaWNhdGlvbi5zZWFyY2goKmZpbHRlcnMsIGZpZWxkcz0iYWNjb3VudHtuYW1lfSIpCiAgICAuZmlsdGVyKEFjY291bnQuaXNfYWN0aXZlID09IFRydWUpCiAgICAuZmlsdGVyKE5vdGlmaWNhdGlvbi5jb250YWN0cy5hbnkoQ29udGFjdC52YWwuY29udGFpbnMoIkAiKSkpCiAgICAuZmlsdGVyKE5vdGlmaWNhdGlvbi50eXBlID09IHR5cGVfKQogICAgLmZpbHRlcihOb3RpZmljYXRpb24uaXNfZGlzYWJsZWQgPT0gRmFsc2UpCiAgICAuZmlsdGVyKHBlcmlvZC5wZXJpb2RfZmlsdGVyKQogICAgLm9yZGVyX2J5KEFjY291bnQubmFtZSkKICAgIC5lbmFibGVfYXNzZXJ0aW9ucyhGYWxzZSkKICApCgogIHJldHVybiBxCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgbG9nLmluZm8oZiJGb3VuZCB7bGVuKGRhdGEpfSBhY2NvdW50cyB3aXRoIG5vdGVzIHRvIHByb2Nlc3MiKQoKICBmb3IgYWNjLCBpdGVtcyBpbiBkYXRhLml0ZW1zKCk6CiAgICBsb2cuaW5mbyhmIkNyZWF0aW5nIFFuQSBkaWdlc3Qgbm90ZXMgdGFzayAtLS0gQWNjPXthY2MubmFtZX0gbGVuPXtsZW4oaXRlbXMpfSBub3RlcyIpCiAgICB3aXRoIGFjY19iaW5kKGFjYywgbG9nPWxvZyk6Cg==</text>
+        <text encoding="base64">ICBpZiBhaWRzOgogICAgZmlsbHMgPSBbVUlXYXJuaW5nLmFjY291bnRfaWQuaW5fKGFpZHMpXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbm90ZXMucW5hX2FjY19ub3Rlcy5kZWxheShbbi5pZCBmb3IgbiBpbiBpdGVtc10sIHBlcmlvZCkK</text>
+        <text encoding="base64">ZGVmIGFkZF9maWx0ZXJzKHE6IFEsIGFpZHM9Tm9uZSkgLT4gUToKICAiIiIiIiIKICBhaWRzID0gYWlkcyBvciBnZXRfYWlkcygpCiAgaWYgYWlkczoKICAgIHEgPSBxLmZpbHRlcihBY2NvdW50LmlkLmluXyhhaWRzKSkKICBlbGlmIG5vdCBnZXRfYWNjKCk6CiAgICBxID0gKAogICAgICBxLmZpbHRlcihBY2NvdW50LmlzX21vbmV5X21ha2VyID09IFRydWUpCiAgICAgIC5maWx0ZXIoQWNjb3VudC5kaXNhYmxlX2Nyb25fc3luYy5hc19ib29sZWFuKCkgPT0gRmFsc2UpCiAgICAgIC5maWx0ZXIoQWNjb3VudC5pZCAhPSBjb25zdC5jaGlsaXNfYWlkKQogICAgKQogIGVsaWYgZ2V0X2FjYygpOgogICAgcSA9IHEuZmlsdGVyKEFjY291bnQuaWQgPT0gZ2V0X2FjYygpLmlkKQoKICByZXR1cm4gKAogICAgcS5maWx0ZXIoQWNjb3VudC5pc19hY3RpdmUgPT0gVHJ1ZSkub3JkZXJfYnkoQWNjb3VudC5uYW1lKS5lbmFibGVfYXNzZXJ0aW9ucyhGYWxzZSkKICApCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBub3Rlc19tYXA6IERpY3RbQWNjb3VudCwgTGlzdFtOb3RpZmljYXRpb25dXSA9IHEuc3RhY2tfYnkoImFjY291bnQiKQo=</text>
+        <text encoding="base64">CmRlZiBhY3RpdmVfYWNjb3VudHMoYWlkcz1Ob25lLCBmaWVsZHM9Tm9uZSkgLT4gTGlzdFtBY2NvdW50XToKICAiIiIiIiIKICByZXQgPSBhZGRfZmlsdGVycyhBY2NvdW50LnNlYXJjaChmaWVsZHM9ZmllbGRzKSwgYWlkcykuYWxsKCkKICBsb2cuaW5mbyhmIkFjdGl2ZSBBY2NvdW50cyAtLSB7bGVuKHJldCl9IikKICByZXR1cm4gcmV0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgcSA9ICgKICAgIE5vdGlmaWNhdGlvbi5zZWFyY2goKmZpbHRlcnMsIGZpZWxkcz0iYWNjb3VudHtuYW1lfSIpCiAgICAgIC5maWx0ZXIoQWNjb3VudC5pc19hY3RpdmUgPT0gVHJ1ZSkKICAgICAgLmZpbHRlcihOb3RpZmljYXRpb24uY29udGFjdHMuYW55KENvbnRhY3QudmFsLmNvbnRhaW5zKCJAIikpKQogICAgICAuZmlsdGVyKE5vdGlmaWNhdGlvbi50eXBlID09IE5vdGVUeXBlLkdtYlF1ZXN0aW9ucykKICAgICAgLmZpbHRlcihOb3RpZmljYXRpb24uaXNfZGlzYWJsZWQgPT0gRmFsc2UpCiAgICAgIC5maWx0ZXIocGVyaW9kLnBlcmlvZF9maWx0ZXIpCiAgICAgIC5vcmRlcl9ieShBY2NvdW50Lm5hbWUpCiAgKQo=</text>
+        <text encoding="base64">ICBhY2NzID0gc2VsZWN0cy5hY2NvdW50cy5hY3RpdmUoKS5maWx0ZXIoQWNjb3VudC50eXBlID09IEFjY291bnRUeXBlLm1lZGljYWwpLmFsbCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLnF1ZXJ5LmZpbHRlcihmaWxsKQo=</text>
+        <text encoding="base64">ZGVmIG1lZGljYWwoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLmhhc19lbWFpbF9jb250YWN0cygpCg==</text>
+        <text encoding="base64">ICByZXR1cm4gc2VsZWN0cy5hY2NvdW50cy5hZGRfZmlsdGVycyhxLCBhaWRzKS5hbGwoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLmRlYnVnX3ByaW50KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC5xdWVyeS5maWx0ZXIoZmlsbCkK</text>
+        <text encoding="base64">ICBhaWRzID0ganMuZ2V0KCJhaWRzIikK</text>
       </register>
       <register name=":" type="4">
-        <text>action SplitVertically</text>
+        <text>%s//q</text>
       </register>
     </registers>
   </component>
@@ -395,10 +370,10 @@
       <last-search>asdf</last-search>
       <last-offset />
       <last-pattern>asdf</last-pattern>
-      <last-replace>_joined</last-replace>
-      <last-substitute>_count</last-substitute>
+      <last-replace>q</last-replace>
+      <last-substitute>query</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
