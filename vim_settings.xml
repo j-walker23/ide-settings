@@ -168,6 +168,12 @@
         <mark key="^" line="119" column="0" />
         <mark key="." line="119" column="0" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/instance/local/locals.js" timestamp="1587840425035">
+        <mark key="[" line="5" column="42" />
+        <mark key="]" line="5" column="51" />
+        <mark key="." line="5" column="50" />
+        <mark key="^" line="5" column="51" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/internal/cron.py" timestamp="1587799755581">
         <mark key="[" line="151" column="0" />
         <mark key="]" line="151" column="0" />
@@ -186,7 +192,6 @@
         <mark key="]" line="209" column="0" />
         <mark key="." line="209" column="0" />
       </file>
-      <file name="$USER_HOME$/code/fuck/play/apps/sc/src/app/app.component.html" timestamp="1587808086788" />
       <file name="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" timestamp="1587799575227">
         <mark key="'" line="56" column="11" />
         <mark key="[" line="128" column="17" />
@@ -202,7 +207,6 @@
       <file name="$USER_HOME$/code/fuck/web/.gitignore" timestamp="1587806656462">
         <mark key="'" line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/code/fuck/play/angular.json" timestamp="1587807080654" />
       <file name="$USER_HOME$/code/sc/web/sc/sql/__init__.py" timestamp="1587799729494">
         <mark key="'" line="222" column="43" />
         <mark key="[" line="226" column="38" />
@@ -317,10 +321,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>,</text>
+        <text>privkey</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>privkey</text>
       </register>
       <register name="/" type="4">
         <text>nvm</text>
