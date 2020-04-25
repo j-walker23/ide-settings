@@ -127,13 +127,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/sc/app/selects/listings.py" timestamp="1587782151221">
-        <mark key="'" line="14" column="4" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="44" column="4" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/sc/coms/ext/celery.py" timestamp="1587789748555">
         <mark key="'" line="81" column="4" />
         <mark key="]" line="91" column="4" />
@@ -146,7 +139,12 @@
       <file name="/a.dummy" timestamp="1587790687077">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/tasks/boosting/sync.py" timestamp="1587782344636" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/plats/cron/starters.py" timestamp="1587791142599">
+        <mark key="[" line="26" column="54" />
+        <mark key="]" line="26" column="52" />
+        <mark key="." line="26" column="51" />
+        <mark key="^" line="26" column="52" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/converter.py" timestamp="1587784064919">
         <mark key="'" line="41" column="0" />
       </file>
@@ -162,11 +160,17 @@
         <mark key="^" line="128" column="26" />
         <mark key="." line="128" column="25" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" timestamp="1587790803397">
-        <mark key="[" line="99" column="21" />
-        <mark key="]" line="99" column="21" />
-        <mark key="^" line="99" column="21" />
-        <mark key="." line="99" column="20" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/notes/query_notes.py" timestamp="1587791162818">
+        <mark key="[" line="211" column="56" />
+        <mark key="]" line="211" column="56" />
+        <mark key="." line="211" column="55" />
+        <mark key="^" line="211" column="56" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/tasks/customs.py" timestamp="1587791137550">
+        <mark key="[" line="106" column="36" />
+        <mark key="]" line="106" column="36" />
+        <mark key="^" line="106" column="36" />
+        <mark key="." line="106" column="35" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/coms/ext/flasks.py" timestamp="1587782581984">
         <mark key="[" line="149" column="16" />
@@ -339,11 +343,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">CiAgbG9nLmluZm8oZiJGb3VuZCB7bGVuKGRhdGEpfSBhY2NvdW50cyB3aXRoIG5vdGVzIHRvIHByb2Nlc3MiKQoKICBmb3IgYWNjLCBpdGVtcyBpbiBkYXRhLml0ZW1zKCk6CiAgICBsb2cuaW5mbyhmIkNyZWF0aW5nIFFuQSBkaWdlc3Qgbm90ZXMgdGFzayAtLS0gQWNjPXthY2MubmFtZX0gbGVuPXtsZW4oaXRlbXMpfSBub3RlcyIpCiAgICB3aXRoIGFjY19iaW5kKGFjYywgbG9nPWxvZyk6Cg==</text>
+      <register name="+" type="4">
+        <text>, aids=None</text>
       </register>
       <register name="-" type="4">
-        <text>notes</text>
+        <text>, aids=None</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -352,34 +356,34 @@
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgbG9nLmluZm8oZiJGb3VuZCB7bGVuKGRhdGEpfSBhY2NvdW50cyB3aXRoIG5vdGVzIHRvIHByb2Nlc3MiKQoKICBmb3IgYWNjLCBpdGVtcyBpbiBkYXRhLml0ZW1zKCk6CiAgICBsb2cuaW5mbyhmIkNyZWF0aW5nIFFuQSBkaWdlc3Qgbm90ZXMgdGFzayAtLS0gQWNjPXthY2MubmFtZX0gbGVuPXtsZW4oaXRlbXMpfSBub3RlcyIpCiAgICB3aXRoIGFjY19iaW5kKGFjYywgbG9nPWxvZyk6Cg==</text>
+        <text encoding="base64">ICBqcyA9IGpzIG9yIHt9CiAgYWlkcyA9IGpzLmdldCgiYWlkcyIpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbm90ZXMucW5hX2FjY19ub3Rlcy5kZWxheShbbi5pZCBmb3IgbiBpbiBpdGVtc10sIHBlcmlvZCkK</text>
+        <text encoding="base64">CiAgbG9nLmluZm8oZiJGb3VuZCB7bGVuKGRhdGEpfSBhY2NvdW50cyB3aXRoIG5vdGVzIHRvIHByb2Nlc3MiKQoKICBmb3IgYWNjLCBpdGVtcyBpbiBkYXRhLml0ZW1zKCk6CiAgICBsb2cuaW5mbyhmIkNyZWF0aW5nIFFuQSBkaWdlc3Qgbm90ZXMgdGFzayAtLS0gQWNjPXthY2MubmFtZX0gbGVuPXtsZW4oaXRlbXMpfSBub3RlcyIpCiAgICB3aXRoIGFjY19iaW5kKGFjYywgbG9nPWxvZyk6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBub3Rlc19tYXA6IERpY3RbQWNjb3VudCwgTGlzdFtOb3RpZmljYXRpb25dXSA9IHEuc3RhY2tfYnkoImFjY291bnQiKQo=</text>
+        <text encoding="base64">ICAgICAgbm90ZXMucW5hX2FjY19ub3Rlcy5kZWxheShbbi5pZCBmb3IgbiBpbiBpdGVtc10sIHBlcmlvZCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgcSA9ICgKICAgIE5vdGlmaWNhdGlvbi5zZWFyY2goKmZpbHRlcnMsIGZpZWxkcz0iYWNjb3VudHtuYW1lfSIpCiAgICAgIC5maWx0ZXIoQWNjb3VudC5pc19hY3RpdmUgPT0gVHJ1ZSkKICAgICAgLmZpbHRlcihOb3RpZmljYXRpb24uY29udGFjdHMuYW55KENvbnRhY3QudmFsLmNvbnRhaW5zKCJAIikpKQogICAgICAuZmlsdGVyKE5vdGlmaWNhdGlvbi50eXBlID09IE5vdGVUeXBlLkdtYlF1ZXN0aW9ucykKICAgICAgLmZpbHRlcihOb3RpZmljYXRpb24uaXNfZGlzYWJsZWQgPT0gRmFsc2UpCiAgICAgIC5maWx0ZXIocGVyaW9kLnBlcmlvZF9maWx0ZXIpCiAgICAgIC5vcmRlcl9ieShBY2NvdW50Lm5hbWUpCiAgKQo=</text>
+        <text encoding="base64">ICBub3Rlc19tYXA6IERpY3RbQWNjb3VudCwgTGlzdFtOb3RpZmljYXRpb25dXSA9IHEuc3RhY2tfYnkoImFjY291bnQiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLnF1ZXJ5LmZpbHRlcihmaWxsKQo=</text>
+        <text encoding="base64">CiAgcSA9ICgKICAgIE5vdGlmaWNhdGlvbi5zZWFyY2goKmZpbHRlcnMsIGZpZWxkcz0iYWNjb3VudHtuYW1lfSIpCiAgICAgIC5maWx0ZXIoQWNjb3VudC5pc19hY3RpdmUgPT0gVHJ1ZSkKICAgICAgLmZpbHRlcihOb3RpZmljYXRpb24uY29udGFjdHMuYW55KENvbnRhY3QudmFsLmNvbnRhaW5zKCJAIikpKQogICAgICAuZmlsdGVyKE5vdGlmaWNhdGlvbi50eXBlID09IE5vdGVUeXBlLkdtYlF1ZXN0aW9ucykKICAgICAgLmZpbHRlcihOb3RpZmljYXRpb24uaXNfZGlzYWJsZWQgPT0gRmFsc2UpCiAgICAgIC5maWx0ZXIocGVyaW9kLnBlcmlvZF9maWx0ZXIpCiAgICAgIC5vcmRlcl9ieShBY2NvdW50Lm5hbWUpCiAgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLmhhc19lbWFpbF9jb250YWN0cygpCg==</text>
+        <text encoding="base64">ICAgICAgLnF1ZXJ5LmZpbHRlcihmaWxsKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLmRlYnVnX3ByaW50KCkK</text>
+        <text encoding="base64">ICAgICAgLmhhc19lbWFpbF9jb250YWN0cygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC5xdWVyeS5maWx0ZXIoZmlsbCkK</text>
+        <text encoding="base64">ICAgICAgLmRlYnVnX3ByaW50KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhaWRzID0ganMuZ2V0KCJhaWRzIikKICBmaWx0ZXJzID0gW05vdGlmaWNhdGlvbi5hY2NvdW50X2lkLmluXyhhaWRzKV0gaWYgYWlkcyBlbHNlIFtdCg==</text>
+        <text encoding="base64">ICAgIC5xdWVyeS5maWx0ZXIoZmlsbCkK</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
