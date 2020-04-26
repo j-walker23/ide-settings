@@ -218,12 +218,12 @@
         <mark key="." line="107" column="27" />
         <mark key="^" line="85" column="28" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/base.py" timestamp="1587875476040">
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/base.py" timestamp="1587878151145">
         <mark key="'" line="41" column="0" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="^" line="35" column="88" />
-        <mark key="." line="91" column="0" />
+        <mark key="[" line="72" column="6" />
+        <mark key="]" line="72" column="6" />
+        <mark key="^" line="72" column="6" />
+        <mark key="." line="72" column="5" />
         <mark key="o" line="81" column="8" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/mods/factory.py" timestamp="1587875175528">
@@ -361,11 +361,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">RU5USVRZID0gVHlwZVtNb2RlbF0K</text>
+      <register name="+" type="4">
+        <text>sa_index(cls, &quot;postal&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>, viewonly=True</text>
+        <text>sa_index(cls, &quot;postal&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
