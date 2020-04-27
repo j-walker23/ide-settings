@@ -180,12 +180,6 @@
         <mark key="]" line="157" column="4" />
         <mark key="." line="157" column="4" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/coms/utils/strenum.py" timestamp="1587997233537">
-        <mark key="[" line="11" column="16" />
-        <mark key="]" line="11" column="20" />
-        <mark key="." line="11" column="19" />
-        <mark key="^" line="11" column="20" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/integrations/healthjump/healthjump.html" timestamp="1587995938751">
         <mark key="[" line="72" column="41" />
         <mark key="]" line="72" column="42" />
@@ -214,17 +208,6 @@
       <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/converter.py" timestamp="1587997401992">
         <mark key="'" line="40" column="6" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/base.py" timestamp="1587995905791">
-        <mark key="'" line="31" column="6" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/enums.py" timestamp="1587997469282">
-        <mark key="[" line="37" column="26" />
-        <mark key="]" line="37" column="26" />
-        <mark key="." line="37" column="26" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/coms/dm/decors.py" timestamp="1587996093184">
-        <mark key="'" line="132" column="2" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/static/common/pipes/pipes.ts" timestamp="1587996491706">
         <mark key="[" line="63" column="27" />
         <mark key="]" line="63" column="13" />
@@ -243,11 +226,32 @@
         <mark key="^" line="15" column="20" />
         <mark key="." line="15" column="19" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/hj_settings_view.py" timestamp="1587997763128">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="32" column="22" />
+        <mark key="]" line="32" column="51" />
+        <mark key="." line="32" column="50" />
+        <mark key="^" line="32" column="51" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/static/common/components/smart-search/auto-search.service.ts" timestamp="1587996572195">
         <mark key="[" line="42" column="21" />
         <mark key="]" line="43" column="36" />
         <mark key="^" line="43" column="36" />
         <mark key="." line="43" column="35" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/coms/utils/strenum.py" timestamp="1587997233537">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="20" />
+        <mark key="." line="11" column="19" />
+        <mark key="^" line="11" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/enums.py" timestamp="1587997469282">
+        <mark key="[" line="37" column="26" />
+        <mark key="]" line="37" column="26" />
+        <mark key="." line="37" column="26" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/coms/dm/decors.py" timestamp="1587996093184">
+        <mark key="'" line="132" column="2" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/coms/customsql/enumtype.py" timestamp="1587997513152">
         <mark key="[" line="39" column="0" />
@@ -315,7 +319,6 @@
       <jump line="46" column="42" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/doctors/details/doctors.dialog.html" />
       <jump line="127" column="32" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/doctors/doctors.ts" />
       <jump line="41" column="9" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/doctors/details/doctors.dialog.html" />
-      <jump line="58" column="16" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/hj_settings_view.py" />
       <jump line="20" column="1" filename="$USER_HOME$/code/sc/web/static/web/components/selects/hj/credential/credential.select.ts" />
       <jump line="7" column="16" filename="$USER_HOME$/code/sc/web/static/common/mixins/select-hidden.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/web/web.sass" />
@@ -356,12 +359,13 @@
       <jump line="132" column="2" filename="$USER_HOME$/code/sc/web/sc/coms/dm/decors.py" />
       <jump line="111" column="28" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/office.py" />
       <jump line="40" column="6" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/converter.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/hj_settings_view.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">CiAgZGVmIF9vYmplY3RfdmFsdWVfZm9yX2VsZW0oc2VsZiwgZWxlbSk6CiAgICB0cnk6CiAgICAgIHJldHVybiBzdXBlcigpLl9vYmplY3RfdmFsdWVfZm9yX2VsZW0oZWxlbSkKICAgIGV4Y2VwdCBLZXlFcnJvcjoKICAgICAgcmV0dXJuIHN1cGVyKCkuX29iamVjdF92YWx1ZV9mb3JfZWxlbSh1dGlscy5zdHJpcF9hbGxfc3BhY2VzKGVsZW0pKQo=</text>
+        <text encoding="base64">ICAgICMgaWRzID0gcGFyYW1zLnBvcCgnaWRzJywgTm9uZSkKICAgICMgaWYgaWRzOgoK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -373,34 +377,34 @@
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgZGVmIF9vYmplY3RfdmFsdWVfZm9yX2VsZW0oc2VsZiwgZWxlbSk6CiAgICB0cnk6CiAgICAgIHJldHVybiBzdXBlcigpLl9vYmplY3RfdmFsdWVfZm9yX2VsZW0oZWxlbSkKICAgIGV4Y2VwdCBLZXlFcnJvcjoKICAgICAgcmV0dXJuIHN1cGVyKCkuX29iamVjdF92YWx1ZV9mb3JfZWxlbSh1dGlscy5zdHJpcF9hbGxfc3BhY2VzKGVsZW0pKQo=</text>
+        <text encoding="base64">ICAgICMgaWRzID0gcGFyYW1zLnBvcCgnaWRzJywgTm9uZSkKICAgICMgaWYgaWRzOgoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmVudW1zID0gW2UubmFtZSBmb3IgZSBpbiBzZWxmLmVudW1fY2xhc3NdCg==</text>
+        <text encoding="base64">CiAgZGVmIF9vYmplY3RfdmFsdWVfZm9yX2VsZW0oc2VsZiwgZWxlbSk6CiAgICB0cnk6CiAgICAgIHJldHVybiBzdXBlcigpLl9vYmplY3RfdmFsdWVfZm9yX2VsZW0oZWxlbSkKICAgIGV4Y2VwdCBLZXlFcnJvcjoKICAgICAgcmV0dXJuIHN1cGVyKCkuX29iamVjdF92YWx1ZV9mb3JfZWxlbSh1dGlscy5zdHJpcF9hbGxfc3BhY2VzKGVsZW0pKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1lcmdlX3NxbF9maWxlcyhmaWxlLCBbcy51bmxvYWRlci5iYXNlZmlsZSBmb3IgcyBpbiBzZWxmLmNvbnZlcnRlcnNdKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmVudW1zID0gW2UubmFtZSBmb3IgZSBpbiBzZWxmLmVudW1fY2xhc3NdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlc3MuYnVsKHJvd3MpCg==</text>
+        <text encoding="base64">ICAgIG1lcmdlX3NxbF9maWxlcyhmaWxlLCBbcy51bmxvYWRlci5iYXNlZmlsZSBmb3IgcyBpbiBzZWxmLmNvbnZlcnRlcnNdKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHN1cHByZXNzX2NvbnN0cmFpbnQoInByaW1hcnkiKToK</text>
+        <text encoding="base64">ICAgICAgICAgIHNlc3MuYnVsKHJvd3MpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIHN1cHByZXNzX2NvbnN0cmFpbnQoInByaW1hcnkiKToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgcm93czoK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgciBpbiByb3dzOgo=</text>
+        <text encoding="base64">ICAgICAgaWYgcm93czoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgciBpbiByb3dzOgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s//office</text>
