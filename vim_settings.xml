@@ -91,8 +91,9 @@
         <entry>Doctors</entry>
         <entry>provider</entry>
         <entry>doctors</entry>
-        <entry>Doctor</entry>
         <entry>doctor</entry>
+        <entry>Doctor</entry>
+        <entry>class</entry>
         <entry>asdf</entry>
       </history-search>
       <history-cmd>
@@ -133,8 +134,8 @@
         <entry>%s//location</entry>
         <entry>action SplitVertically</entry>
         <entry>%s//offices</entry>
-        <entry>%s//Office</entry>
         <entry>%s//office</entry>
+        <entry>%s//Office</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -174,114 +175,113 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/integrations/healthjump/healthjump.html" timestamp="1587995938751">
-        <mark key="[" line="72" column="41" />
-        <mark key="]" line="72" column="42" />
-        <mark key="." line="72" column="42" />
+      <file name="$USER_HOME$/code/sc/web/bin/icons-write.js" timestamp="1588004091659">
+        <mark key="[" line="16" column="102" />
+        <mark key="]" line="16" column="110" />
+        <mark key="^" line="16" column="110" />
+        <mark key="." line="16" column="109" />
       </file>
-      <file name="/Python Console" timestamp="1587997000785">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/office.py" timestamp="1588002848697">
+        <mark key="'" line="122" column="28" />
+        <mark key="[" line="42" column="12" />
+        <mark key="]" line="42" column="12" />
+        <mark key="^" line="42" column="12" />
+        <mark key="." line="42" column="11" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/office.py" timestamp="1587996586649">
-        <mark key="'" line="111" column="28" />
-        <mark key="[" line="112" column="28" />
-        <mark key="]" line="112" column="33" />
-        <mark key="^" line="112" column="33" />
-        <mark key="." line="112" column="32" />
+      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics_view.py" timestamp="1588004023910">
+        <mark key="[" line="230" column="13" />
+        <mark key="]" line="230" column="13" />
+        <mark key="^" line="230" column="13" />
+        <mark key="." line="230" column="12" />
       </file>
-      <file name="/console" timestamp="1587996367490">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/groups/arrowlytics-group-settings.ts" timestamp="1588004888668">
+        <mark key="[" line="79" column="24" />
+        <mark key="]" line="80" column="25" />
+        <mark key="." line="80" column="24" />
+        <mark key="^" line="80" column="25" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/unloading.py" timestamp="1587996332233">
-        <mark key="'" line="108" column="10" />
-        <mark key="[" line="139" column="73" />
-        <mark key="]" line="140" column="4" />
-        <mark key="." line="140" column="3" />
-        <mark key="^" line="140" column="4" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/offices/offices.ts" timestamp="1588003471515">
+        <mark key="'" line="175" column="23" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/converter.py" timestamp="1587997401992">
-        <mark key="'" line="40" column="6" />
+      <file name="$USER_HOME$/code/sc/web/static/common/models/hj/hj-settings.model.ts" timestamp="1588004368169">
+        <mark key="[" line="21" column="23" />
+        <mark key="]" line="22" column="20" />
+        <mark key="." line="22" column="19" />
+        <mark key="^" line="22" column="20" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/pipes/pipes.ts" timestamp="1587996491706">
-        <mark key="[" line="63" column="27" />
-        <mark key="]" line="63" column="13" />
-        <mark key="^" line="63" column="13" />
-        <mark key="." line="63" column="12" />
+      <file name="$USER_HOME$/code/sc/web/static/common/model.ts" timestamp="1588004377332">
+        <mark key="[" line="322" column="13" />
+        <mark key="]" line="322" column="20" />
+        <mark key="." line="322" column="19" />
+        <mark key="^" line="322" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" timestamp="1587996374907">
-        <mark key="[" line="8" column="1" />
-        <mark key="]" line="12" column="22" />
-        <mark key="^" line="12" column="22" />
-        <mark key="." line="12" column="21" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/doctors/details/doctors.dialog.ts" timestamp="1588002387646" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/arrowlytics-settings.ts" timestamp="1588003345741">
+        <mark key="'" line="216" column="7" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/offices/search/office-auto.service.ts" timestamp="1587996581986">
-        <mark key="[" line="15" column="19" />
-        <mark key="]" line="15" column="20" />
-        <mark key="^" line="15" column="20" />
-        <mark key="." line="15" column="19" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/offices/offices.html" timestamp="1588003900019">
+        <mark key="'" line="39" column="28" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/hj_settings_view.py" timestamp="1587997763128">
-        <mark key="[" line="32" column="22" />
-        <mark key="]" line="32" column="51" />
-        <mark key="." line="32" column="50" />
-        <mark key="^" line="32" column="51" />
+      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/hj_settings_view.py" timestamp="1588002879017">
+        <mark key="'" line="30" column="35" />
+        <mark key="[" line="75" column="25" />
+        <mark key="]" line="75" column="40" />
+        <mark key="." line="75" column="39" />
+        <mark key="^" line="75" column="40" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/components/smart-search/auto-search.service.ts" timestamp="1587996572195">
-        <mark key="[" line="42" column="21" />
-        <mark key="]" line="43" column="36" />
-        <mark key="^" line="43" column="36" />
-        <mark key="." line="43" column="35" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/offices/details/offices.dialog.html" timestamp="1588002785285">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="24" />
+        <mark key="." line="14" column="23" />
+        <mark key="^" line="14" column="24" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/coms/utils/strenum.py" timestamp="1587997233537">
-        <mark key="[" line="11" column="16" />
-        <mark key="]" line="11" column="20" />
-        <mark key="." line="11" column="19" />
-        <mark key="^" line="11" column="20" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/offices/details/offices.dialog.ts" timestamp="1588002409309">
+        <mark key="'" line="4" column="9" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="4" column="44" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/enums.py" timestamp="1587997469282">
-        <mark key="[" line="37" column="26" />
-        <mark key="]" line="37" column="26" />
-        <mark key="." line="37" column="26" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/doctors/details/doctors.dialog.html" timestamp="1588004545858">
+        <mark key="'" line="74" column="0" />
+        <mark key="[" line="20" column="57" />
+        <mark key="]" line="20" column="77" />
+        <mark key="." line="20" column="76" />
+        <mark key="^" line="20" column="77" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/coms/dm/decors.py" timestamp="1587996093184">
-        <mark key="'" line="132" column="2" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/groups/arrowlytics-group-settings.html" timestamp="1588003894066">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="13" column="42" />
+        <mark key="]" line="13" column="42" />
+        <mark key="." line="13" column="42" />
+        <mark key="^" line="13" column="10" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/listings_view.py" timestamp="1587999519314" />
-      <file name="$USER_HOME$/code/sc/web/sc/coms/customsql/enumtype.py" timestamp="1587997513152">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/groups/revenue-parent-groups/revenue-parent-groups.dialog.ts" timestamp="1588004133432" />
+      <file name="$USER_HOME$/code/sc/web/static/web/web.nav.ts" timestamp="1588004096041">
+        <mark key="[" line="339" column="10" />
+        <mark key="]" line="339" column="8" />
+        <mark key="^" line="339" column="8" />
+        <mark key="." line="339" column="7" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/doctors/search/doctors-auto.service.ts" timestamp="1588001489153">
+        <mark key="'" line="14" column="10" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/doctor.py" timestamp="1588002842196" />
+      <file name="$USER_HOME$/code/sc/web/static/common/components/better-grid/grid.sass" timestamp="1588004508507">
+        <mark key="'" line="151" column="0" />
+        <mark key="[" line="103" column="21" />
+        <mark key="]" line="104" column="13" />
+        <mark key="^" line="104" column="13" />
+        <mark key="." line="104" column="12" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/migrations/versions/e2d6021a6664__17.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/offices/offices.ts" />
-      <jump line="25" column="28" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/doctors/doctors.ts" />
-      <jump line="110" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/doctors/doctors.ts" />
-      <jump line="37" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/offices/offices.html" />
-      <jump line="103" column="39" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/migrations/versions/a5232ad7f53a__16.py" />
-      <jump line="78" column="21" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/offices/offices.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/sql/tables.py" />
-      <jump line="171" column="1" filename="$USER_HOME$/code/sc/web/sc/sql/tables.py" />
-      <jump line="63" column="2" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/doctor.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/arrowlytics-settings.ts" />
-      <jump line="24" column="36" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/doctors/details/doctors.dialog.html" />
-      <jump line="13" column="0" filename="$USER_HOME$/code/sc/web/static/web/components/selects/listing/listing.select.html" />
-      <jump line="45" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/doctors/details/doctors.dialog.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/user-accounts/invite-user/invite-user.html" />
-      <jump line="52" column="6" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/doctors/details/doctors.dialog.html" />
-      <jump line="84" column="2" filename="$USER_HOME$/code/sc/web/static/web/views/settings/providers/details/provider-details.ts" />
-      <jump line="695" column="16" filename="$USER_HOME$/code/sc/web/static/common/utils.ts" />
-      <jump line="74" column="9" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/doctors/doctors.ts" />
-      <jump line="42" column="20" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/hj_settings_view.py" />
-      <jump line="86" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/settings/locations/locations.ts" />
-      <jump line="66" column="28" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/doctors/doctors.ts" />
-      <jump line="26" column="66" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
       <jump line="44" column="0" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/hj_settings_view.py" />
       <jump line="18" column="21" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/doctors/doctors.html" />
-      <jump line="24" column="6" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/demographic.py" />
       <jump line="54" column="48" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
       <jump line="23" column="21" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/doctors/doctors.html" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/settings/platforms/locations-sync/locations-sync.ts" />
@@ -301,7 +301,6 @@
       <jump line="84" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
       <jump line="160" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/doctors/doctors.ts" />
       <jump line="10" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
-      <jump line="71" column="19" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/doctors/details/doctors.dialog.html" />
       <jump line="23" column="7" filename="$USER_HOME$/code/sc/web/static/web/components/selects/hj/credential/credential.select.html" />
       <jump line="17" column="0" filename="$USER_HOME$/code/sc/web/static/web/components/selects/hj/credential/credential.select.html" />
       <jump line="46" column="4" filename="$USER_HOME$/code/sc/web/static/web/components/selects/hj/credential/credential.select.ts" />
@@ -354,15 +353,42 @@
       <jump line="111" column="28" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/office.py" />
       <jump line="40" column="6" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/converter.py" />
       <jump line="58" column="0" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/hj_settings_view.py" />
+      <jump line="67" column="7" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/hj_settings_view.py" />
+      <jump line="24" column="40" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/demographic.py" />
+      <jump line="52" column="37" filename="$USER_HOME$/code/sc/web/static/common/components/smart-search/auto-search.service.ts" />
+      <jump line="119" column="58" filename="$USER_HOME$/code/sc/web/static/common/components/smart-search/auto-search.service.ts" />
+      <jump line="14" column="10" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/doctors/search/doctors-auto.service.ts" />
+      <jump line="33" column="9" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/doctors/details/doctors.dialog.html" />
+      <jump line="44" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/offices/details/offices.dialog.html" />
+      <jump line="29" column="19" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/doctors/details/doctors.dialog.html" />
+      <jump line="50" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/doctors/details/doctors.dialog.html" />
+      <jump line="94" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/offices/details/offices.dialog.html" />
+      <jump line="37" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/offices/details/offices.dialog.ts" />
+      <jump line="2" column="9" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/offices/details/offices.dialog.ts" />
+      <jump line="33" column="24" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/offices/details/offices.dialog.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/offices/details/offices.dialog.html" />
+      <jump line="27" column="0" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/hj_settings_view.py" />
+      <jump line="30" column="35" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/hj_settings_view.py" />
+      <jump line="150" column="0" filename="$USER_HOME$/code/sc/web/static/common/components/better-grid/grid.sass" />
+      <jump line="216" column="7" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/arrowlytics-settings.ts" />
+      <jump line="175" column="23" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/offices/offices.ts" />
+      <jump line="23" column="12" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/groups/arrowlytics-group-settings.html" />
+      <jump line="33" column="17" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/groups/arrowlytics-group-settings.ts" />
+      <jump line="162" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/groups/arrowlytics-group-settings.ts" />
+      <jump line="21" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/groups/arrowlytics-group-settings.html" />
+      <jump line="18" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/groups/arrowlytics-group-settings.html" />
+      <jump line="69" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/groups/arrowlytics-group-settings.ts" />
+      <jump line="39" column="28" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/offices/offices.html" />
+      <jump line="71" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/doctors/details/doctors.dialog.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICMgaWRzID0gcGFyYW1zLnBvcCgnaWRzJywgTm9uZSkKICAgICMgaWYgaWRzOgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>group</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -371,37 +397,37 @@
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgaWRzID0gcGFyYW1zLnBvcCgnaWRzJywgTm9uZSkKICAgICMgaWYgaWRzOgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgZGVmIF9vYmplY3RfdmFsdWVfZm9yX2VsZW0oc2VsZiwgZWxlbSk6CiAgICB0cnk6CiAgICAgIHJldHVybiBzdXBlcigpLl9vYmplY3RfdmFsdWVfZm9yX2VsZW0oZWxlbSkKICAgIGV4Y2VwdCBLZXlFcnJvcjoKICAgICAgcmV0dXJuIHN1cGVyKCkuX29iamVjdF92YWx1ZV9mb3JfZWxlbSh1dGlscy5zdHJpcF9hbGxfc3BhY2VzKGVsZW0pKQo=</text>
+        <text encoding="base64">ICAgIDxwcm92aWRlci1zZWxlY3QKICAgICAgZmxvYXRpbmctbGFiZWwKICAgICAgaG9sZGVyPSJ7eyRyb290LndsLm5hbWV9fSBQcm92aWRlciIKICAgICAgbmctbW9kZWw9ImN0cmwucm93LnByb3ZpZGVyIj4KICAgIDwvcHJvdmlkZXItc2VsZWN0Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmVudW1zID0gW2UubmFtZSBmb3IgZSBpbiBzZWxmLmVudW1fY2xhc3NdCg==</text>
+        <text encoding="base64">ICAgICAgZmxleAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1lcmdlX3NxbF9maWxlcyhmaWxlLCBbcy51bmxvYWRlci5iYXNlZmlsZSBmb3IgcyBpbiBzZWxmLmNvbnZlcnRlcnNdKQo=</text>
+        <text encoding="base64">ICAgICAgbmctaWY9IiFjdHJsLmlzbXVsdGkiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlc3MuYnVsKHJvd3MpCg==</text>
+        <text encoding="base64">CiAgZWRpdEdyb3VwKGV2LCByb3c6IFJldmVudWVHcm91cCkgewogICAgb3BlbkRpYWwoCiAgICAgIGV2LAogICAgICBSZXZlbnVlR3JvdXBzRGlhbG9nLAogICAgICB7IHRpdGxlOiByb3cubmFtZSB9LAogICAgICB7IHJvdyB9LAogICAgKS50aGVuKHJlcyA9PiB7fSwgSUdOT1JFX0NBTkNFTCkKICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHN1cHByZXNzX2NvbnN0cmFpbnQoInByaW1hcnkiKToK</text>
+        <text encoding="base64">CiAgZ3JvdXBHcmlkOiBJR3JpZE9wdGlvbnNPZjxSZXZlbnVlR3JvdXA+ID0gewogICAgYXBwU2NvcGVQcm92aWRlcjogdGhpcywKICAgIGVuYWJsZVBhZ2luYXRpb246IGZhbHNlLAogICAgZW5hYmxlUGFnaW5hdGlvbkNvbnRyb2xzOiBmYWxzZSwKICAgIGNvbHVtbkRlZnM6IFsKICAgICAgewogICAgICAgIG5hbWU6ICduYW1lJywKICAgICAgICBkaXNwbGF5TmFtZTogJ05hbWUnLAogICAgICB9LAogICAgICB7CiAgICAgICAgbmFtZTogJyAnLAogICAgICAgIGVuYWJsZVNvcnRpbmc6IGZhbHNlLAogICAgICAgIGVuYWJsZUNlbGxFZGl0OiBmYWxzZSwKICAgICAgICB3aWR0aDogNjAsCiAgICAgICAgY2VsbFRlbXBsYXRlOiBgCiAgICAgICAgICA8ZGl2IGNsYXNzPSJ1aS1ncmlkLWNlbGwtY29udGVudHMiPgogICAgICAgICAgICA8bWQtbWVudSBtZC1wb3NpdGlvbi1tb2RlPSJ0YXJnZXQtcmlnaHQgdGFyZ2V0Ij4KICAgICAgICAgICAgICA8bWQtYnV0dG9uIG5nLWNsaWNrPSIkbWRNZW51Lm9wZW4oJGV2ZW50KSIgY2xhc3M9Im1kLWljb24tYnV0dG9uIiAgYXJpYS1sYWJlbD0iTWVudSI+CiAgICAgICAgICAgICAgICA8bWQtaWNvbiBtZC1zdmctaWNvbj0ibW9yZS12ZXJ0Ij48L21kLWljb24+CiAgICAgICAgICAgICAgPC9tZC1idXR0b24+CiAgICAgICAgICAgICAgPG1kLW1lbnUtY29udGVudD4KICAgICAgICAgICAgICAgIDxtZC1tZW51LWl0ZW0+CiAgICAgICAgICAgICAgICAgIDxtZC1idXR0b24gKGNsaWNrKT0iZ3JpZC5hcHBTY29wZS5lZGl0R3JvdXAoJGV2ZW50LCByb3cuZW50aXR5KSI+CiAgICAgICAgICAgICAgICAgICAgPG1kLWljb24gbWQtc3ZnLWljb249ImVkaXQiPjwvbWQtaWNvbj4KICAgICAgICAgICAgICAgICAgICBFZGl0CiAgICAgICAgICAgICAgICAgIDwvbWQtYnV0dG9uPgogICAgICAgICAgICAgICAgPC9tZC1tZW51LWl0ZW0+CiAgICAgICAgICAgICAgPC9tZC1tZW51LWNvbnRlbnQ+CiAgICAgICAgICAgIDwvbWQtbWVudT4KICAgICAgICAgIDwvZGl2PgogICAgICAgIGAsCiAgICAgIH0sCiAgICBdLAogICAgb25SZWdpc3RlckFwaTogZ3JpZEFwaSA9PiB7CiAgICAgIHNldFRpbWVvdXQoKCkgPT4gewogICAgICAgIGdyaWRBcGkuY29yZS5oYW5kbGVXaW5kb3dSZXNpemUoKQogICAgICAgIGdyaWRBcGkuY29yZS5yZWZyZXNoUm93cygpCiAgICAgIH0sIDE2MDApCiAgICB9LAogIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIG9uUmVnaXN0ZXJBcGk6IGdyaWRBcGkgPT4gewogICAgICBsZXQgcmVmID0gKCkgPT4gewogICAgICAgIGdyaWRBcGkuY29yZS5oYW5kbGVXaW5kb3dSZXNpemUoKQogICAgICAgIGdyaWRBcGkuY29yZS5yZWZyZXNoUm93cygpCiAgICAgIH0KICAgICAgc2V0VGltZW91dChyZWYsIDE2MDApCiAgICAgIHNldFRpbWVvdXQocmVmLCAzNjAwKQogICAgfSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgcm93czoK</text>
+        <text encoding="base64">ICAgICAgICA8cGFnZS1jYXJkIGNsYXNzPSJsLWNhcmQiIHJvdXRlPSJyZXZlbnVlLXBhcmVudC1ncm91cCIgbWV0aG9kcz0iZ2V0Ij4KICAgICAgICAgIDxwYWdlLWNhcmQtaGVhZGVyPgogICAgICAgICAgICA8c3Bhbj5SZXZlbnVlIFBhcmVudCBHcm91cHM8L3NwYW4+CiAgICAgICAgICAgIDxzcGFuIGZsZXg+PC9zcGFuPgogICAgICAgICAgICA8bWQtYnV0dG9uIGNsYXNzPSJtZC1yYWlzZWQgbWQtYWNjZW50IiAoY2xpY2spPSJjdHJsLmVkaXRQYXJlbnRHcm91cCgpIj4KICAgICAgICAgICAgICBDcmVhdGUgR3JvdXAKICAgICAgICAgICAgPC9tZC1idXR0b24+CiAgICAgICAgICA8L3BhZ2UtY2FyZC1oZWFkZXI+CiAgICAgICAgICA8cGFnZS1jYXJkLWJvZHk+CiAgICAgICAgICAgIDxncmlkCiAgICAgICAgICAgICAgZGF0YT0iY3RybC5wYXJlbnRHcm91cHMkIHwgYXN5bmMiCiAgICAgICAgICAgICAgW29wdGlvbnNdPSJjdHJsLnBhcmVudEdyb3VwR3JpZCIKICAgICAgICAgICAgICAoc2VsZWN0ZWQpPSJjdHJsLm9uUHJvdlNlbGVjdGVkKCRldmVudCkiPgogICAgICAgICAgICA8L2dyaWQ+CiAgICAgICAgICA8L3BhZ2UtY2FyZC1ib2R5PgogICAgICAgIDwvcGFnZS1jYXJkPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgciBpbiByb3dzOgo=</text>
+        <text encoding="base64">ICAgIGxldCBwYXJhbXMgPSB0aGlzLnBhcmFtcwogICAgcGFyYW1zLnBlcl9wYWdlID0gMTAwMAo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s//office</text>
+        <text>%s//Office</text>
       </register>
     </registers>
   </component>
@@ -410,8 +436,8 @@
       <last-search>asdf</last-search>
       <last-offset />
       <last-pattern>asdf</last-pattern>
-      <last-replace>office</last-replace>
-      <last-substitute>doctor</last-substitute>
+      <last-replace>Office</last-replace>
+      <last-substitute>Doctor</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
