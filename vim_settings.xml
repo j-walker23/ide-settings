@@ -201,7 +201,7 @@
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/revenue-groups/revenue-parent-groups/revenue-parent-groups.dialog.ts" timestamp="1588016447223">
         <mark key="'" line="85" column="7" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1588016941076">
+      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1588020340074">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="4" />
@@ -211,8 +211,8 @@
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/revenue-groups/details/revenue-group-details.html" timestamp="1588010365327">
         <mark key="[" line="6" column="79" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1588016871011">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1588020322813">
+        <mark key="'" line="68" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2d8ba393-01bf-4f4e-9cf7-218d6955dea4/console.sql" timestamp="1588015471169">
         <mark key="[" line="12" column="15" />
@@ -336,20 +336,20 @@
       <jump line="45" column="19" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/migrations/versions/8033c626d5f8__21.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/migrations/versions/2c03a9e6a46b__20.py" />
-      <jump line="68" column="0" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
       <jump line="37" column="6" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" />
       <jump line="85" column="7" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/revenue-groups/revenue-parent-groups/revenue-parent-groups.dialog.ts" />
       <jump line="198" column="27" filename="$USER_HOME$/code/sc/web/sc/app/tasks/alert.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICJlbWFpbCI6ICJucHggd3AgLS1jb25maWcgd2VicGFja3MvZW1haWxzLnRzIiwK</text>
+      <register name="+" type="4">
+        <text>dev</text>
       </register>
       <register name="-" type="4">
-        <text>uni</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
