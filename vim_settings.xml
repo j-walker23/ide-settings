@@ -178,17 +178,20 @@
       <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" timestamp="1588010145456">
         <mark key="'" line="37" column="6" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/tasks/alert.py" timestamp="1588014353661">
+        <mark key="[" line="198" column="0" />
+        <mark key="]" line="198" column="0" />
+        <mark key="." line="198" column="0" />
+        <mark key="^" line="197" column="49" />
+      </file>
       <file name="/console" timestamp="1588009506999">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/revenue-groups/revenue-groups.ts" timestamp="1588009634580" />
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/revenue-groups/details/revenue-group-details.ts" timestamp="1588009650774">
         <mark key="'" line="44" column="0" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="36" column="2" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/reports/survey/charts.py" timestamp="1588015522336" />
       <file name="$USER_HOME$/code/sc/web/migrations/versions/8033c626d5f8__21.py" timestamp="1588009446462">
         <mark key="'" line="0" column="0" />
       </file>
@@ -197,12 +200,6 @@
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/revenue-groups/revenue-parent-groups/revenue-parent-groups.dialog.ts" timestamp="1588010369231">
         <mark key="'" line="85" column="7" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/arrowlytics.ts" timestamp="1588008808530">
-        <mark key="[" line="39" column="60" />
-        <mark key="]" line="39" column="101" />
-        <mark key="^" line="39" column="101" />
-        <mark key="." line="39" column="100" />
       </file>
       <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1588009602846">
         <mark key="[" line="0" column="0" />
@@ -220,30 +217,21 @@
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/revenue-groups/details/revenue-group-details.html" timestamp="1588010365327">
         <mark key="[" line="6" column="79" />
-        <mark key="]" line="8" column="10" />
-        <mark key="." line="8" column="9" />
-        <mark key="^" line="8" column="10" />
       </file>
       <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1588009609558">
         <mark key="'" line="68" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2d8ba393-01bf-4f4e-9cf7-218d6955dea4/console.sql" timestamp="1588010135361">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2d8ba393-01bf-4f4e-9cf7-218d6955dea4/console.sql" timestamp="1588015471169">
         <mark key="[" line="12" column="15" />
-        <mark key="]" line="12" column="30" />
-        <mark key="^" line="12" column="30" />
-        <mark key="." line="12" column="29" />
+        <mark key="]" line="12" column="35" />
+        <mark key="^" line="12" column="35" />
+        <mark key="." line="12" column="34" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/revenue-groups/details/playbook-details.ts" timestamp="1588008153519">
-        <mark key="[" line="17" column="13" />
-        <mark key="]" line="17" column="26" />
-        <mark key="." line="17" column="25" />
-        <mark key="^" line="17" column="26" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/web.ts" timestamp="1588008801183">
-        <mark key="[" line="158" column="2" />
-        <mark key="]" line="157" column="26" />
-        <mark key="." line="157" column="25" />
-        <mark key="^" line="157" column="26" />
+      <file name="$USER_HOME$/code/sc/web/main_cron.py" timestamp="1588014411390">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="^" line="108" column="84" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/220f3b26-e246-4f4a-b074-e77612c19b55/console.sql" timestamp="1588010305007">
         <mark key="[" line="24" column="21" />
@@ -256,7 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="29" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
       <jump line="84" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
       <jump line="160" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/doctors/doctors.ts" />
       <jump line="10" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
@@ -356,15 +343,16 @@
       <jump line="68" column="0" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
       <jump line="37" column="6" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" />
       <jump line="85" column="7" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/revenue-groups/revenue-parent-groups/revenue-parent-groups.dialog.ts" />
+      <jump line="198" column="27" filename="$USER_HOME$/code/sc/web/sc/app/tasks/alert.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text encoding="base64">ci5wYXJlbnRfaWQsIA==</text>
+        <text>hj_transactions</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ci5wYXJlbnRfaWQsIA==</text>
+        <text>hj_transactions</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -373,34 +361,34 @@
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">b3JkZXIgYnkgbGVuZ3RoKG5hbWUpIGRlc2MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICApCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgb25SZW1vdmUoZXY6IGFueSkgewogICAgdGV4dENvbmZpcm0oZXYsICdSZW1vdmUgUGxheWJvb2snLCBgQXJlIHlvdSBzdXJlP2AsICgpID0+CiAgICAgIHRoaXMuYm9vay5yZW1vdmUoeyBub3RpZnk6ICdSZW1vdmVkJyB9KS50aGVuKCgpID0+IGdvQmFjaygpKSwKICAgICkKICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgcmVwID0gaW1wYWN0LmJ1aWxkX3Byb3ZpZGVyX2ltcGFjdF9ub3RlKG5vdGUsIHN0YXJ0LCBlbmQsIGxvY2F0aW9uX2FkbWluPXVzZXIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmVwID0gYnVpbGRfZXhlY3V0aXZlX25vdGUoKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">b3JkZXIgYnkgbGVuZ3RoKG5hbWUpIGRlc2MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5yb3cuc2F2ZSh7IG5vdGlmeSB9KS50aGVuKCgpID0+IGdvQmFjaygpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgb25TdWJBdXRvKHR5cGU6IHN0cmluZykgewogICAgcmV0dXJuIHRoaXMuJHJlcy5maW5kUGF0aCgnL3R5cGVzJywgeyB0eXBlIH0pCiAgfQoKICBvblNoYXJlZChldjogYW55KSB7CiAgICBsZXQgc2hhcmVkID0gdGhpcy5ib29rLnNoYXJlZF9uZWdhdGl2ZXMKICAgIG9wZW5EaWFsKAogICAgICBldiwKICAgICAgU2hhcmVkTmVnYXRpdmVLZXl3b3Jkc0RpYWxvZywKICAgICAgeyB0aXRsZTogJ05lZ2F0aXZlIEtleXdvcmQgTGlzdHMnIH0sCiAgICAgIHsgc2hhcmVkIH0sCiAgICApLnRoZW4oKHNoYXJlZCkgPT4gKHRoaXMuYm9vay5zaGFyZWRfbmVnYXRpdmVzID0gc2hhcmVkKSwgSUdOT1JFX0NBTkNFTCkKICB9CgogIG9uQWRHcm91cHMoZ3JvdXBzOiBQbGF5Ym9va0FkZ3JvdXBbXSkgewogICAgdGhpcy5ib29rLmdyb3VwcyA9IGdyb3VwcwogIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s//Office</text>
