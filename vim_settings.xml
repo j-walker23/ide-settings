@@ -238,18 +238,18 @@
         <mark key="^" line="5" column="22" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/doctors/doctors.ts" timestamp="1587984233489">
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/doctors/doctors.ts" timestamp="1587985043131">
         <mark key="'" line="127" column="32" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
-        <mark key="^" line="130" column="21" />
+        <mark key="[" line="128" column="22" />
+        <mark key="]" line="128" column="29" />
+        <mark key="." line="128" column="28" />
+        <mark key="^" line="128" column="29" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/components/better-grid/grid.sass" timestamp="1587984161908">
-        <mark key="[" line="218" column="10" />
-        <mark key="]" line="218" column="12" />
-        <mark key="." line="218" column="11" />
-        <mark key="^" line="218" column="12" />
+      <file name="$USER_HOME$/code/sc/web/static/common/components/better-grid/grid.sass" timestamp="1587985444581">
+        <mark key="[" line="208" column="26" />
+        <mark key="]" line="208" column="37" />
+        <mark key="." line="208" column="36" />
+        <mark key="^" line="208" column="37" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/coms/search/auto/auto_search.py" timestamp="1587982484210" />
     </filemarks>
@@ -359,10 +359,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICBtYXhXaWR0aDogNjAsCg==</text>
+        <text encoding="base64">ICAgICAgICBmb250LXNpemU6IDEwMCUKICAgICAgICB3aWR0aDogMWVtCg==</text>
       </register>
       <register name="-" type="4">
-        <text>q1</text>
+        <text>.sortable</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -371,7 +371,7 @@
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtYXhXaWR0aDogNjAsCg==</text>
+        <text encoding="base64">ICAgICAgICBmb250LXNpemU6IDEwMCUKICAgICAgICB3aWR0aDogMWVtCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -380,25 +380,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgogICAgLy8KICAgIC8vICAgIC51aS1ncmlkLWNlbGwtY29udGVudHMKICAgIC8vICAgICAgZGlzcGxheTogZmxleAogICAgLy8gICAgICB0ZXh0LWFsaWduOiBjZW50ZXIKICAgIC8vICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXIKICAgIC8vCiAgICAvLyAgICAmOmZpcnN0LW9mLXR5cGUKICAgIC8vICAgICAgLnVpLWdyaWQtY2VsbC1jb250ZW50cwogICAgLy8gICAgICAgIGp1c3RpZnktY29udGVudDogbGVmdAogICAgLy8gICAgICAgIHRleHQtYWxpZ246IGxlZnQKICAgIC8vCiAgICAvLy51aS1ncmlkLXZpZXdwb3J0IC51aS1ncmlkLXJvdwogICAgLy8gIC51aS1ncmlkLWNlbGwKICAgIC8vCiAgICAvLyAgICAmOm5vdCg6Zmlyc3Qtb2YtdHlwZSkKICAgIC8vICAgICAgLnVpLWdyaWQtY2VsbC1jb250ZW50cwogICAgLy8gICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyCg==</text>
+        <text encoding="base64">ICAgICAgICBtYXhXaWR0aDogNjAsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJvcmRlci1sZWZ0OiAxcHggc29saWQgI2MxYzFjMQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CgogICAgLy8KICAgIC8vICAgIC51aS1ncmlkLWNlbGwtY29udGVudHMKICAgIC8vICAgICAgZGlzcGxheTogZmxleAogICAgLy8gICAgICB0ZXh0LWFsaWduOiBjZW50ZXIKICAgIC8vICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXIKICAgIC8vCiAgICAvLyAgICAmOmZpcnN0LW9mLXR5cGUKICAgIC8vICAgICAgLnVpLWdyaWQtY2VsbC1jb250ZW50cwogICAgLy8gICAgICAgIGp1c3RpZnktY29udGVudDogbGVmdAogICAgLy8gICAgICAgIHRleHQtYWxpZ246IGxlZnQKICAgIC8vCiAgICAvLy51aS1ncmlkLXZpZXdwb3J0IC51aS1ncmlkLXJvdwogICAgLy8gIC51aS1ncmlkLWNlbGwKICAgIC8vCiAgICAvLyAgICAmOm5vdCg6Zmlyc3Qtb2YtdHlwZSkKICAgIC8vICAgICAgLnVpLWdyaWQtY2VsbC1jb250ZW50cwogICAgLy8gICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vdGV4dC1hbGlnbjogY2VudGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGJvcmRlci1sZWZ0OiAxcHggc29saWQgI2MxYzFjMQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXJDZWxsQ2xhc3M6ICdjZW50ZXInLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXIK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vdGV4dC1hbGlnbjogY2VudGVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgQGRlY2xhcmVkX2F0dHIKICBkZWYgX19sb2NhbF9hcmdzX18oY2xzKToKICAgIHJldHVybiBzYV9pbmRleChjbHMsICJwb3N0YWwiKQo=</text>
+        <text encoding="base64">ICAgICAgICBoZWFkZXJDZWxsQ2xhc3M6ICdjZW50ZXInLAo=</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
