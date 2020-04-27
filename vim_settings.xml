@@ -198,12 +198,11 @@
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/arrowlytics-settings.ts" timestamp="1587976701159">
         <mark key="'" line="106" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" timestamp="1587975499653">
-        <mark key="'" line="54" column="48" />
-        <mark key="[" line="85" column="15" />
-        <mark key="]" line="85" column="25" />
-        <mark key="^" line="85" column="25" />
-        <mark key="." line="85" column="24" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" timestamp="1587979396079">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="10" column="8" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/hj_settings_view.py" timestamp="1587979111797">
         <mark key="'" line="44" column="0" />
@@ -259,9 +258,6 @@
       <file name="$USER_HOME$/code/sc/web/sc/coms/search/auto/auto_search.py" timestamp="1587978786794" />
     </filemarks>
     <jumps>
-      <jump line="25" column="11" filename="$USER_HOME$/code/sc/web/static/common/components/smart-search/auto-search.service.ts" />
-      <jump line="27" column="2" filename="$USER_HOME$/code/sc/web/static/common/components/smart-search/auto-search.service.ts" />
-      <jump line="168" column="12" filename="$USER_HOME$/code/sc/web/static/web/views/boost/boost.ts" />
       <jump line="19" column="1" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/doctors/search/doctors-search.ts" />
       <jump line="20" column="8" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/doctors/search/doctors-search.ts" />
       <jump line="26" column="2" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/doctors/search/doctors-search.ts" />
@@ -359,15 +355,18 @@
       <jump line="73" column="0" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/doctor.py" />
       <jump line="71" column="35" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/doctor.py" />
       <jump line="68" column="2" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/doctor.py" />
+      <jump line="80" column="29" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="84" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
+      <jump line="10" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICBlbnQgPSBhbGlhc2VkKERvY3RvcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZXJlIGhqX2RvY3RvcnMuYWNjb3VudF9pZCA9IGhqX2FwcG9pbnRtZW50cy5hY2NvdW50X2lkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZCBoal9kb2N0b3JzLnByb3ZpZGVyX2lkID0gaGpfYXBwb2ludG1lbnRzLnByb3ZpZGVyX2lkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZCBoal9kb2N0b3JzLmNpZCA9IGhqX2FwcG9pbnRtZW50cy5jaWQK</text>
       </register>
       <register name="-" type="4">
-        <text>ent.cid</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -376,34 +375,34 @@
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBlbnQgPSBhbGlhc2VkKERvY3RvcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZXJlIGhqX2RvY3RvcnMuYWNjb3VudF9pZCA9IGhqX2FwcG9pbnRtZW50cy5hY2NvdW50X2lkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZCBoal9kb2N0b3JzLnByb3ZpZGVyX2lkID0gaGpfYXBwb2ludG1lbnRzLnByb3ZpZGVyX2lkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZCBoal9kb2N0b3JzLmNpZCA9IGhqX2FwcG9pbnRtZW50cy5jaWQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgQl92aWFjZCA9IGFsaWFzZWQoQiwgaiwgZmxhdD1UcnVlKQo=</text>
+        <text encoding="base64">ICAgIGNvbmNhdChjb25jYXQoY29uY2F0KGNvbmNhdChoal9kb2N0b3JzLnN0cmVldCwgJywgJyksIGhqX2RvY3RvcnMuY2l0eSksICcsICcpLCBoal9kb2N0b3JzLnN0YXRlKSBhbm9uXzEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QsIFRZUEVfQ0hFQ0tJTkcsIFVuaW9uCg==</text>
+        <text encoding="base64">ICBlbnQgPSBhbGlhc2VkKERvY3RvcikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QsIFRZUEVfQ0hFQ0tJTkcsIFVuaW9uCg==</text>
+        <text encoding="base64">CiAgQl92aWFjZCA9IGFsaWFzZWQoQiwgaiwgZmxhdD1UcnVlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjZWxsRmlsdGVyOiAncGhvbmUnLAo=</text>
+        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QsIFRZUEVfQ0hFQ0tJTkcsIFVuaW9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0ID0gdGltZXMueWVhcl9hZ28oKVswXQo=</text>
+        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QsIFRZUEVfQ0hFQ0tJTkcsIFVuaW9uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAud2hlcmUoY2xzLmxvY2F0aW9uX2lkID09IEFwcG9pbnRtZW50LmxvY2F0aW9uKQogICAgICAgIC53aGVyZShBcHBvaW50bWVudC5kYXRlID4gc3RhcnQpCg==</text>
+        <text encoding="base64">ICAgICAgICBjZWxsRmlsdGVyOiAncGhvbmUnLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YXJ0ID0gdGltZXMueWVhcl9hZ28oKVswXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAud2hlcmUoY2xzLmxvY2F0aW9uX2lkID09IEFwcG9pbnRtZW50LmxvY2F0aW9uKQogICAgICAgIC53aGVyZShBcHBvaW50bWVudC5kYXRlID4gc3RhcnQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
