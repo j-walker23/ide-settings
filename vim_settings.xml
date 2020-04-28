@@ -94,11 +94,13 @@
         <entry>doctor</entry>
         <entry>Doctor</entry>
         <entry>class</entry>
-        <entry>asdf</entry>
         <entry>Group</entry>
         <entry>group</entry>
         <entry>ad-</entry>
         <entry>Ad</entry>
+        <entry>ismulti</entry>
+        <entry encoding="base64">PG1kLWNoZWNr</entry>
+        <entry>asdf</entry>
       </history-search>
       <history-cmd>
         <entry>SplitVertically</entry>
@@ -198,7 +200,6 @@
         <mark key="^" line="62" column="16" />
         <mark key="." line="62" column="15" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/styles/overrides/material.sass" timestamp="1588097169908" />
       <file name="$USER_HOME$/code/sc/web/templates/web-theme.html" timestamp="1588098801173">
         <mark key="'" line="23" column="64" />
         <mark key="[" line="127" column="0" />
@@ -252,9 +253,14 @@
         <mark key="^" line="86" column="46" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/boost/details/custom/boost-custom.html" timestamp="1588097109324">
-        <mark key="'" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" timestamp="1588112119249">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="30" column="10" />
+        <mark key="]" line="31" column="16" />
+        <mark key="." line="31" column="15" />
+        <mark key="^" line="31" column="16" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/listings/edits/edit-item/items/al-attributes.ts" timestamp="1588111460957" />
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/tabs/group/procedure-group.ts" timestamp="1588099420079">
         <mark key="[" line="29" column="28" />
         <mark key="]" line="29" column="50" />
@@ -262,7 +268,7 @@
         <mark key="." line="29" column="49" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/boost/details/ad-group-tabs/ad-group-tabs.html" timestamp="1588098057800" />
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/procedure-group-details.ts" timestamp="1588097659595">
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/procedure-group-details.ts" timestamp="1588112057282">
         <mark key="[" line="3" column="57" />
         <mark key="]" line="3" column="101" />
         <mark key="^" line="3" column="101" />
@@ -276,28 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="10" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/doctors/search/doctors-auto.service.ts" />
-      <jump line="33" column="9" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/doctors/details/doctors.dialog.html" />
-      <jump line="44" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/offices/details/offices.dialog.html" />
-      <jump line="29" column="19" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/doctors/details/doctors.dialog.html" />
-      <jump line="50" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/doctors/details/doctors.dialog.html" />
-      <jump line="94" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/offices/details/offices.dialog.html" />
-      <jump line="37" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/offices/details/offices.dialog.ts" />
-      <jump line="2" column="9" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/offices/details/offices.dialog.ts" />
-      <jump line="33" column="24" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/offices/details/offices.dialog.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/offices/details/offices.dialog.html" />
-      <jump line="27" column="0" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/hj_settings_view.py" />
-      <jump line="30" column="35" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/hj_settings_view.py" />
-      <jump line="150" column="0" filename="$USER_HOME$/code/sc/web/static/common/components/better-grid/grid.sass" />
-      <jump line="216" column="7" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/arrowlytics-settings.ts" />
-      <jump line="175" column="23" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/offices/offices.ts" />
-      <jump line="23" column="12" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/groups/arrowlytics-group-settings.html" />
-      <jump line="33" column="17" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/groups/arrowlytics-group-settings.ts" />
-      <jump line="162" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/groups/arrowlytics-group-settings.ts" />
-      <jump line="21" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/groups/arrowlytics-group-settings.html" />
-      <jump line="18" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/groups/arrowlytics-group-settings.html" />
-      <jump line="69" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/groups/arrowlytics-group-settings.ts" />
-      <jump line="39" column="28" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/offices/offices.html" />
       <jump line="71" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/doctors/details/doctors.dialog.html" />
       <jump line="90" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/groups/arrowlytics-group-settings.ts" />
       <jump line="42" column="8" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/groups/arrowlytics-group-settings.ts" />
@@ -376,51 +360,73 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/encounters/process.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/app/tasks/hj/collecting.py" />
       <jump line="108" column="13" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" />
+      <jump line="281" column="25" filename="$USER_HOME$/code/sc/web/static/web/views/listings/edits/edit-item/items/al-attributes.ts" />
+      <jump line="24" column="20" filename="$USER_HOME$/code/sc/web/static/web/views/listings/edits/edit-item/items/al-attributes.ts" />
+      <jump line="47" column="11" filename="$USER_HOME$/code/sc/web/static/web/views/listings/edits/edit-item/items/al-attributes.ts" />
+      <jump line="67" column="14" filename="$USER_HOME$/code/sc/web/static/web/views/listings/edits/edit-item/items/al-attributes.ts" />
+      <jump line="84" column="18" filename="$USER_HOME$/code/sc/web/static/web/views/listings/edits/edit-item/items/al-attributes.ts" />
+      <jump line="111" column="11" filename="$USER_HOME$/code/sc/web/static/web/views/listings/edits/edit-item/items/al-attributes.ts" />
+      <jump line="117" column="14" filename="$USER_HOME$/code/sc/web/static/web/views/listings/edits/edit-item/items/al-attributes.ts" />
+      <jump line="134" column="18" filename="$USER_HOME$/code/sc/web/static/web/views/listings/edits/edit-item/items/al-attributes.ts" />
+      <jump line="160" column="11" filename="$USER_HOME$/code/sc/web/static/web/views/listings/edits/edit-item/items/al-attributes.ts" />
+      <jump line="166" column="36" filename="$USER_HOME$/code/sc/web/static/web/views/listings/edits/edit-item/items/al-attributes.ts" />
+      <jump line="182" column="18" filename="$USER_HOME$/code/sc/web/static/web/views/listings/edits/edit-item/items/al-attributes.ts" />
+      <jump line="206" column="11" filename="$USER_HOME$/code/sc/web/static/web/views/listings/edits/edit-item/items/al-attributes.ts" />
+      <jump line="253" column="14" filename="$USER_HOME$/code/sc/web/static/web/views/listings/edits/edit-item/items/al-attributes.ts" />
+      <jump line="279" column="13" filename="$USER_HOME$/code/sc/web/static/web/views/listings/edits/edit-item/items/al-attributes.ts" />
+      <jump line="286" column="13" filename="$USER_HOME$/code/sc/web/static/web/views/listings/edits/edit-item/items/al-attributes.ts" />
+      <jump line="294" column="13" filename="$USER_HOME$/code/sc/web/static/web/views/listings/edits/edit-item/items/al-attributes.ts" />
+      <jump line="301" column="13" filename="$USER_HOME$/code/sc/web/static/web/views/listings/edits/edit-item/items/al-attributes.ts" />
+      <jump line="336" column="2" filename="$USER_HOME$/code/sc/web/static/web/views/listings/edits/edit-item/items/al-attributes.ts" />
+      <jump line="29" column="3" filename="$USER_HOME$/code/sc/web/static/web/views/listings/edits/edit-item/items/al-attributes.ts" />
+      <jump line="90" column="3" filename="$USER_HOME$/code/sc/web/static/web/views/listings/edits/edit-item/items/al-attributes.ts" />
+      <jump line="140" column="3" filename="$USER_HOME$/code/sc/web/static/web/views/listings/edits/edit-item/items/al-attributes.ts" />
+      <jump line="188" column="17" filename="$USER_HOME$/code/sc/web/static/web/views/listings/edits/edit-item/items/al-attributes.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">ZnJvbSBzYy5hcHAudGFza3MuYWxlcnQgaW1wb3J0IHJ1bl9ub3RpZmljYXRpb25fa2V5d29yZHNfZm9yX3Jldmlldwo=</text>
+      <register name="+" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>delay</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Ad</text>
+        <text>asdf</text>
       </register>
       <register name="0" type="4">
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBzYy5hcHAudGFza3MuYWxlcnQgaW1wb3J0IHJ1bl9ub3RpZmljYXRpb25fa2V5d29yZHNfZm9yX3Jldmlldwo=</text>
+        <text encoding="base64">ICAgICAgPG1kLWNoZWNrYm94CiAgICAgICAgY2xhc3M9Im0tMCIKICAgICAgICBuZy1tb2RlbD0iY3RybC5jaGVjayIKICAgICAgICBuZy1pZj0iY3RybC5pc211bHRpIgogICAgICAgIGFyaWEtbGFiZWw9ImRpc2FibGUiCiAgICAgICAgbmctY2hhbmdlPSJjdHJsLmRvY2hlY2suZW1pdChjdHJsLmF0dCkiCiAgICAgIC8+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIF9nbWJfc2NvcmVzKCkK</text>
+        <text encoding="base64">ZnJvbSBzYy5hcHAudGFza3MuYWxlcnQgaW1wb3J0IHJ1bl9ub3RpZmljYXRpb25fa2V5d29yZHNfZm9yX3Jldmlldwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGtleXMgPSBbYy5rZXkgZm9yIGMgaW4gY29sc10KICAgIHJvd3MgPSBbZGljdCh6aXAoa2V5cywgcikpIGZvciByIGluIHJvd3NdCg==</text>
+        <text encoding="base64">ICAgIF9nbWJfc2NvcmVzKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJvd3MgPSB7dHVwbGUocikgZm9yIHIgaW4gcX0K</text>
+        <text encoding="base64">ICAgIGtleXMgPSBbYy5rZXkgZm9yIGMgaW4gY29sc10KICAgIHJvd3MgPSBbZGljdCh6aXAoa2V5cywgcikpIGZvciByIGluIHJvd3NdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgZ2ctYXV0b2ZvY3VzCg==</text>
+        <text encoding="base64">ICAgIHJvd3MgPSB7dHVwbGUocikgZm9yIHIgaW4gcX0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgZ2ctYXV0b2ZvY3VzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPG1kLWJ1dHRvbiBjbGFzcz0ibWQtZmFiIG1kLXhzIG1kLWFjY2VudCIgKGNsaWNrKT0iY3RybC5yb3cubmFtZSAmJiBjdHJsLm9uTmFtZSgpIj4KICAgICAgICA8bWQtaWNvbiBtZC1zdmctaWNvbj0iZGVsZXRlIj48L21kLWljb24+CiAgICAgIDwvbWQtYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgZ2ctYXV0b2ZvY3VzCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgPG1kLWJ1dHRvbiBjbGFzcz0ibWQtZmFiIG1kLXhzIG1kLWFjY2VudCIgKGNsaWNrKT0iY3RybC5yb3cubmFtZSAmJiBjdHJsLm9uTmFtZSgpIj4KICAgICAgICA8bWQtaWNvbiBtZC1zdmctaWNvbj0iZGVsZXRlIj48L21kLWljb24+CiAgICAgIDwvbWQtYnV0dG9uPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8bWQtdG9vbHRpcD5SZW1vdmUgcGxhbjwvbWQtdG9vbHRpcD4K</text>
+        <text encoding="base64">ICAgICAgPG1kLWJ1dHRvbiBjbGFzcz0ibWQtZmFiIG1kLXhzIG1kLWFjY2VudCIgKGNsaWNrKT0iY3RybC5yb3cubmFtZSAmJiBjdHJsLm9uTmFtZSgpIj4KICAgICAgICA8bWQtaWNvbiBtZC1zdmctaWNvbj0iZGVsZXRlIj48L21kLWljb24+CiAgICAgIDwvbWQtYnV0dG9uPgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s//Procedure</text>
@@ -429,13 +435,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Ad</last-search>
+      <last-search>asdf</last-search>
       <last-offset />
-      <last-pattern>Ad</last-pattern>
+      <last-pattern>asdf</last-pattern>
       <last-replace>Procedure</last-replace>
       <last-substitute>Ad</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
