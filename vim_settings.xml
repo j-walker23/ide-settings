@@ -202,12 +202,12 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/boost/details/ad-group-tabs/ad-group-tabs.ts" timestamp="1588076628112" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2d8ba393-01bf-4f4e-9cf7-218d6955dea4/console.sql" timestamp="1588078235581">
-        <mark key="'" line="47" column="19" />
-        <mark key="[" line="20" column="7" />
-        <mark key="]" line="21" column="4" />
-        <mark key="^" line="21" column="4" />
-        <mark key="." line="21" column="3" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2d8ba393-01bf-4f4e-9cf7-218d6955dea4/console.sql" timestamp="1588079176103">
+        <mark key="'" line="56" column="14" />
+        <mark key="[" line="66" column="19" />
+        <mark key="]" line="66" column="22" />
+        <mark key="^" line="66" column="22" />
+        <mark key="." line="66" column="21" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/charge.py" timestamp="1588071646647">
         <mark key="'" line="41" column="6" />
@@ -253,8 +253,8 @@
         <mark key="." line="0" column="2" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" timestamp="1588078134353">
-        <mark key="'" line="26" column="7" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" timestamp="1588078270041">
+        <mark key="'" line="68" column="29" />
         <mark key="[" line="68" column="15" />
         <mark key="]" line="68" column="30" />
         <mark key="." line="68" column="29" />
@@ -277,8 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/web/web.conf.ts" />
-      <jump line="73" column="17" filename="$USER_HOME$/code/sc/web/static/web/web.conf.ts" />
       <jump line="42" column="4" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/doctors/doctors.ts" />
       <jump line="7" column="22" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/offices/search/offices-search.ts" />
       <jump line="19" column="8" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/offices/search/offices-search.ts" />
@@ -377,15 +375,17 @@
       <jump line="26" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
       <jump line="16" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2d8ba393-01bf-4f4e-9cf7-218d6955dea4/console.sql" />
       <jump line="46" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2d8ba393-01bf-4f4e-9cf7-218d6955dea4/console.sql" />
+      <jump line="56" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2d8ba393-01bf-4f4e-9cf7-218d6955dea4/console.sql" />
+      <jump line="68" column="29" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>ad_playbooks_positive_keywordws</text>
+        <text>60</text>
       </register>
       <register name="-" type="4">
-        <text>ad_playbooks_positive_keywordws</text>
+        <text>60</text>
       </register>
       <register name="/" type="4">
         <text>group</text>
@@ -394,34 +394,34 @@
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBMb2NhdGlvbi5zZWFyY2goZmllbGRzPSdpZCcpLmpvaW4oTG9jYXRpb24uZ3JvdXBzKS5kZWJ1Z19wcmludCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmdzOiB7CiAgICAgIGdyb3VwczogJzwnLAogICAgfSwK</text>
+        <text encoding="base64">ICBMb2NhdGlvbi5zZWFyY2goZmllbGRzPSdpZCcpLmpvaW4oTG9jYXRpb24uZ3JvdXBzKS5kZWJ1Z19wcmludCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmdzOiB7CiAgICAgIGdyb3VwczogJzwnLAogICAgfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbXBsYXRlIGZyb20gJy4vcmV2ZW51ZS1jZW50ZXIuY2hpcHMuaHRtbCcK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgb25BdXRvKG5hbWU6IHN0cmluZykgewogICAgcmV0dXJuIGF1dG9TZWFyY2godGhpcywgbmFtZSkKICB9CgogIG9uQ2hpcChuYW1lKSB7CiAgICBpZiAoIW5hbWUpIHJldHVybiBudWxsCiAgICBsZXQgY2hpcCA9IHR5cGVvZiBuYW1lID09PSAnc3RyaW5nJyA/IHsgbmFtZSB9IDogbmFtZQogICAgbGV0IG5hbWVzID0gKHRoaXMucm93cyB8fCBbXSkubWFwKHIgPT4gci5uYW1lLmxvd2VyKCkpCiAgICBpZiAobmFtZXMuZmluZChuID0+IG4gPT09IGNoaXAubmFtZS5sb3dlcigpKSkgcmV0dXJuIG51bGwKICAgIHJldHVybiBjaGlwCiAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IHRlbXBsYXRlIGZyb20gJy4vcmV2ZW51ZS1jZW50ZXIuY2hpcHMuaHRtbCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgY29uc3RydWN0b3IocHVibGljICRyZXM6IEFycm93bHl0aWNzQ2hhcmdlc1Jlc291cmNlKSB7fQo=</text>
+        <text encoding="base64">CiAgb25BdXRvKG5hbWU6IHN0cmluZykgewogICAgcmV0dXJuIGF1dG9TZWFyY2godGhpcywgbmFtZSkKICB9CgogIG9uQ2hpcChuYW1lKSB7CiAgICBpZiAoIW5hbWUpIHJldHVybiBudWxsCiAgICBsZXQgY2hpcCA9IHR5cGVvZiBuYW1lID09PSAnc3RyaW5nJyA/IHsgbmFtZSB9IDogbmFtZQogICAgbGV0IG5hbWVzID0gKHRoaXMucm93cyB8fCBbXSkubWFwKHIgPT4gci5uYW1lLmxvd2VyKCkpCiAgICBpZiAobmFtZXMuZmluZChuID0+IG4gPT09IGNoaXAubmFtZS5sb3dlcigpKSkgcmV0dXJuIG51bGwKICAgIHJldHVybiBjaGlwCiAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjYWNoZSA9IFtdCgogIHBhdGggPSAnL2NlbnRlcnMnCiAgQElucHV0KCkgcm93cyA9IFtdCiAgQElucHV0KCkgcGxhaW4gPSB0cnVlCiAgQElucHV0KCkgaG9sZGVyID0gJ1JldmVudWUgQ2VudGVycycKICBASW5wdXQoKSByZXF1aXJlbWF0Y2ggPSBmYWxzZQogIEBJbnB1dCgpIHJlcXVpcmVkID0gZmFsc2UK</text>
+        <text encoding="base64">CiAgY29uc3RydWN0b3IocHVibGljICRyZXM6IEFycm93bHl0aWNzQ2hhcmdlc1Jlc291cmNlKSB7fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QEluamVjdChBcnJvd2x5dGljc0NoYXJnZXNSZXNvdXJjZSkK</text>
+        <text encoding="base64">ICBjYWNoZSA9IFtdCgogIHBhdGggPSAnL2NlbnRlcnMnCiAgQElucHV0KCkgcm93cyA9IFtdCiAgQElucHV0KCkgcGxhaW4gPSB0cnVlCiAgQElucHV0KCkgaG9sZGVyID0gJ1JldmVudWUgQ2VudGVycycKICBASW5wdXQoKSByZXF1aXJlbWF0Y2ggPSBmYWxzZQogIEBJbnB1dCgpIHJlcXVpcmVkID0gZmFsc2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqIEBuZ2RvYyBjb21wb25lbnQKICogQG5hbWUgCiAqLwo=</text>
+        <text encoding="base64">QEluamVjdChBcnJvd2x5dGljc0NoYXJnZXNSZXNvdXJjZSkK</text>
       </register>
       <register name=":" type="4">
         <text>%s//revenue-center</text>
