@@ -189,17 +189,11 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/models/hj/hj-settings.model.ts" timestamp="1588099376118">
-        <mark key="[" line="61" column="24" />
-        <mark key="]" line="62" column="16" />
-        <mark key="^" line="62" column="16" />
-        <mark key="." line="62" column="15" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1588114942998">
+      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1588117958512">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="2" />
-        <mark key="^" line="0" column="3" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="5" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/encounters/process.py" timestamp="1588099758251">
         <mark key="'" line="0" column="0" />
@@ -215,6 +209,12 @@
         <mark key="'" line="108" column="13" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/med-imports/med-imports.ts" timestamp="1588115296561" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/unloader.py" timestamp="1588117783514">
+        <mark key="[" line="100" column="4" />
+        <mark key="]" line="100" column="6" />
+        <mark key="." line="100" column="5" />
+        <mark key="^" line="100" column="6" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/scrapers/realself.py" timestamp="1588113871053">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -232,6 +232,12 @@
         <mark key="]" line="25" column="42" />
         <mark key="^" line="25" column="42" />
         <mark key="." line="25" column="41" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/mysqlutils.py" timestamp="1588117478277">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="19" column="39" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/notes/query_notes.py" timestamp="1588100069411">
         <mark key="[" line="182" column="14" />
@@ -252,30 +258,24 @@
         <mark key="." line="34" column="44" />
         <mark key="^" line="34" column="45" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/__init__.py" timestamp="1588114905781">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="28" column="59" />
-        <mark key="." line="27" column="0" />
+      <file name="/Dummy.txt" timestamp="1588118229625">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/__init__.py" timestamp="1588117904203">
+        <mark key="[" line="27" column="31" />
+        <mark key="]" line="27" column="33" />
+        <mark key="^" line="27" column="33" />
+        <mark key="." line="27" column="32" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/integrations/scheduled-config/scheduled-config.ts" timestamp="1588115325178">
         <mark key="^" line="21" column="28" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/listings/edits/edit-item/items/al-attributes.ts" timestamp="1588111460957" />
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/tabs/group/procedure-group.ts" timestamp="1588099420079">
-        <mark key="[" line="29" column="28" />
-        <mark key="]" line="29" column="50" />
-        <mark key="^" line="29" column="50" />
-        <mark key="." line="29" column="49" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/procedure-group-details.ts" timestamp="1588112057282">
         <mark key="[" line="3" column="57" />
         <mark key="]" line="3" column="101" />
         <mark key="^" line="3" column="101" />
         <mark key="." line="3" column="100" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/settings/billing/subscription/config/plan-row/plan-row.html" timestamp="1588099246558">
-        <mark key="'" line="42" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -383,11 +383,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgYnVsa193aW5kb3dfem9uZTogem9uZSwK</text>
+      <register name="+" type="4">
+        <text>dev</text>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -396,34 +396,34 @@
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYnVsa193aW5kb3dfem9uZTogem9uZSwK</text>
+        <text encoding="base64">ICAgICAgZXhjZXB0IDoKICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdHJ5Ogo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbW9udGhzID0gZy5nZXQoInBhIikgYW5kIDI0IG9yIDEK</text>
+        <text encoding="base64">ICAgICAgZm9yIGYgaW4gZmlsZXM6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgZGVmIHVubG9hZF9wYXJhbXMoc2VsZik6CiAgICAiIiIiIiIKICAgIHNpbmNlID0gYXJyb3cudXRjbm93KCkuZmxvb3IoInllYXIiKS5zaGlmdCh5ZWFycz0tMykKICAgIGlmIG5vdCBnZXRfYWNjKCkuaGouaW5jbHVkZV9hbmFsczoKICAgICAgc2luY2UgPSBhcnJvdy51dGNub3coKS5zaGlmdCh5ZWFycz0tMSkKICAgIGhqX2R0ID0gc2luY2UuZm9ybWF0KCJZWVlZLU1NLUREIEhIOm1tOnNzIikKICAgIHJldHVybiBkaWN0KGhqX21vZGlmeV90aW1lc3RhbXA9ZiJndGVxfntoal9kdH0iLCBkZWF0aF9pbmRpY2F0aW9uPSJOIikK</text>
+        <text encoding="base64">ICAgICAgYnVsa193aW5kb3dfem9uZTogem9uZSwK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmV2LnVwZGF0ZShyZXZpZXdfaWQ9cmV2X2lkLCByYXRpbmc9cmF0aW5nLCBuYW1lPW5hbWUsIGNyZWF0ZV90aW1lPWNyZWF0ZV90aW1lKQo=</text>
+        <text encoding="base64">ICAgICAgbW9udGhzID0gZy5nZXQoInBhIikgYW5kIDI0IG9yIDEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgZGVmIHVubG9hZF9wYXJhbXMoc2VsZik6CiAgICAiIiIiIiIKICAgIHNpbmNlID0gYXJyb3cudXRjbm93KCkuZmxvb3IoInllYXIiKS5zaGlmdCh5ZWFycz0tMykKICAgIGlmIG5vdCBnZXRfYWNjKCkuaGouaW5jbHVkZV9hbmFsczoKICAgICAgc2luY2UgPSBhcnJvdy51dGNub3coKS5zaGlmdCh5ZWFycz0tMSkKICAgIGhqX2R0ID0gc2luY2UuZm9ybWF0KCJZWVlZLU1NLUREIEhIOm1tOnNzIikKICAgIHJldHVybiBkaWN0KGhqX21vZGlmeV90aW1lc3RhbXA9ZiJndGVxfntoal9kdH0iLCBkZWF0aF9pbmRpY2F0aW9uPSJOIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZV90aW1lID0gYXJyb3cuZ2V0KCkudG8oInV0YyIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbm93ID0gYXJyb3cudXRjbm93KCkK</text>
+        <text encoding="base64">ICAgICAgcmV2LnVwZGF0ZShyZXZpZXdfaWQ9cmV2X2lkLCByYXRpbmc9cmF0aW5nLCBuYW1lPW5hbWUsIGNyZWF0ZV90aW1lPWNyZWF0ZV90aW1lKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s//Procedure</text>
