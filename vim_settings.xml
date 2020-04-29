@@ -209,7 +209,7 @@
       <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/integrations/scheduled-config/scheduled-config.ts" timestamp="1588115325178">
         <mark key="^" line="21" column="28" />
       </file>
-      <file name="/console" timestamp="1588124872457">
+      <file name="/console" timestamp="1588126167913">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1588125518943">
@@ -236,10 +236,11 @@
         <mark key="." line="184" column="0" />
         <mark key="^" line="184" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" timestamp="1588125007336">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" timestamp="1588126222031">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="3" column="26" />
+        <mark key="." line="3" column="25" />
+        <mark key="^" line="3" column="26" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/scrapers/realself.py" timestamp="1588113871053">
         <mark key="[" line="54" column="0" />
@@ -388,8 +389,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>local</text>
+      <register name="+" type="2">
+        <text encoding="base64">d2hlcmUgCg==</text>
       </register>
       <register name="-" type="4">
         <text>local</text>
@@ -401,34 +402,34 @@
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">d2hlcmUgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBoaiA9IGdldF9hY2MoKS5oagogIHN2ID0gaGpzLnVubG9hZC51bmxvYWRpbmcoaGosICdhJykKICBwcmludChzdikK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QGFwcF9jdHgoNzYwKQo=</text>
+        <text encoding="base64">ICBoaiA9IGdldF9hY2MoKS5oagogIHN2ID0gaGpzLnVubG9hZC51bmxvYWRpbmcoaGosICdhJykKICBwcmludChzdikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QGFwcF9jdHgoNzYwKQpkZWYgdHQoKToK</text>
+        <text encoding="base64">QGFwcF9jdHgoNzYwKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2RmamoK</text>
+        <text encoding="base64">QGFwcF9jdHgoNzYwKQpkZWYgdHQoKToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZXhjZXB0IDoKICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">c2RmamoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgICAgZXhjZXB0IDoKICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZm9yIGYgaW4gZmlsZXM6Cg==</text>
+        <text encoding="base64">ICAgICAgdHJ5Ogo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYnVsa193aW5kb3dfem9uZTogem9uZSwK</text>
+        <text encoding="base64">ICAgICAgZm9yIGYgaW4gZmlsZXM6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
