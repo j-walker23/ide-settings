@@ -141,10 +141,10 @@
         <entry>%s//offices</entry>
         <entry>%s//office</entry>
         <entry>%s//Office</entry>
-        <entry>action SplitVertically</entry>
         <entry>%s//RevenueCenter</entry>
         <entry>%s//revenue-center</entry>
         <entry>%s//Procedure</entry>
+        <entry>action SplitVertically</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -184,17 +184,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" timestamp="1588114797479">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1588117958512">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="4" />
-        <mark key="^" line="0" column="5" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/encounters/process.py" timestamp="1588099758251">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="55" column="0" />
@@ -202,30 +191,22 @@
         <mark key="^" line="55" column="38" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1588114939700">
-        <mark key="'" line="48" column="11" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" timestamp="1588114797479">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" timestamp="1588101040120">
-        <mark key="'" line="108" column="13" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/med-imports/med-imports.ts" timestamp="1588115296561" />
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/unloader.py" timestamp="1588117783514">
-        <mark key="[" line="100" column="4" />
-        <mark key="]" line="100" column="6" />
-        <mark key="." line="100" column="5" />
-        <mark key="^" line="100" column="6" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/scrapers/realself.py" timestamp="1588113871053">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="45" column="29" />
-        <mark key="." line="54" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/tasks/hj/collecting.py" timestamp="1588099891858">
-        <mark key="'" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1588118229625">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1588114224687">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/integrations/scheduled-config/scheduled-config.ts" timestamp="1588115325178">
+        <mark key="^" line="21" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1588114939700">
+        <mark key="'" line="48" column="11" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/tabs/group/procedure-group.html" timestamp="1588099545114">
         <mark key="[" line="25" column="36" />
@@ -239,11 +220,32 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="19" column="39" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" timestamp="1588101040120">
+        <mark key="'" line="108" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/unloader.py" timestamp="1588117783514">
+        <mark key="[" line="100" column="4" />
+        <mark key="]" line="100" column="6" />
+        <mark key="." line="100" column="5" />
+        <mark key="^" line="100" column="6" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/notes/query_notes.py" timestamp="1588100069411">
         <mark key="[" line="182" column="14" />
         <mark key="]" line="184" column="0" />
         <mark key="." line="184" column="0" />
         <mark key="^" line="184" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/scrapers/realself.py" timestamp="1588113871053">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="45" column="29" />
+        <mark key="." line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/procedure-group-details.ts" timestamp="1588112057282">
+        <mark key="[" line="3" column="57" />
+        <mark key="]" line="3" column="101" />
+        <mark key="^" line="3" column="101" />
+        <mark key="." line="3" column="100" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/tasks/customs/customs.py" timestamp="1588099922632">
         <mark key="[" line="87" column="0" />
@@ -251,25 +253,21 @@
         <mark key="^" line="86" column="46" />
         <mark key="." line="87" column="0" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/tasks/hj/collecting.py" timestamp="1588099891858">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1588117958512">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="5" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" timestamp="1588113708088">
         <mark key="'" line="34" column="0" />
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="45" />
         <mark key="." line="34" column="44" />
         <mark key="^" line="34" column="45" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588118229625">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/integrations/scheduled-config/scheduled-config.ts" timestamp="1588115325178">
-        <mark key="^" line="21" column="28" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/listings/edits/edit-item/items/al-attributes.ts" timestamp="1588111460957" />
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/procedure-group-details.ts" timestamp="1588112057282">
-        <mark key="[" line="3" column="57" />
-        <mark key="]" line="3" column="101" />
-        <mark key="^" line="3" column="101" />
-        <mark key="." line="3" column="100" />
       </file>
     </filemarks>
     <jumps>
@@ -420,7 +418,7 @@
         <text encoding="base64">ICAgICAgcmV2LnVwZGF0ZShyZXZpZXdfaWQ9cmV2X2lkLCByYXRpbmc9cmF0aW5nLCBuYW1lPW5hbWUsIGNyZWF0ZV90aW1lPWNyZWF0ZV90aW1lKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s//Procedure</text>
+        <text>action SplitVertically</text>
       </register>
     </registers>
   </component>
@@ -432,7 +430,7 @@
       <last-replace>Procedure</last-replace>
       <last-substitute>Ad</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
