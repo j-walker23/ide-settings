@@ -101,6 +101,7 @@
         <entry>ismulti</entry>
         <entry encoding="base64">PG1kLWNoZWNr</entry>
         <entry>asdf</entry>
+        <entry>exper</entry>
       </history-search>
       <history-cmd>
         <entry>SplitVertically</entry>
@@ -184,24 +185,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e48b375-fdd8-413d-be5c-4a28f85cc940/console.sql" timestamp="1588130055478">
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="3" column="1" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" timestamp="1588114797479">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588124892533">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/boosts/boost_view.py" timestamp="1588129585386">
-        <mark key="[" line="61" column="4" />
-        <mark key="]" line="61" column="6" />
-        <mark key="." line="61" column="5" />
-        <mark key="^" line="61" column="6" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/tasks/alert.py" timestamp="1588129423367">
         <mark key="[" line="236" column="0" />
@@ -217,14 +204,11 @@
         <mark key="." line="27" column="6" />
         <mark key="^" line="27" column="7" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/integrations/scheduled-config/scheduled-config.ts" timestamp="1588115325178">
-        <mark key="^" line="21" column="28" />
-      </file>
       <file name="/console" timestamp="1588130054219">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1588125518943">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/code/sc/web/sc/coms/testing/badwords.py" timestamp="1588131092311">
+        <mark key="'" line="25" column="9" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/mysqlutils.py" timestamp="1588117478277">
         <mark key="[" line="22" column="0" />
@@ -232,8 +216,35 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="19" column="39" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" timestamp="1588101040120">
-        <mark key="'" line="108" column="13" />
+      <file name="/a.sql" timestamp="1588124872371">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/bin/black_quick.py" timestamp="1588131296132" />
+      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1588125524302">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="3" />
+        <mark key="^" line="0" column="4" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e48b375-fdd8-413d-be5c-4a28f85cc940/console.sql" timestamp="1588130055478">
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="3" column="1" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588124892533">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/boosts/boost_view.py" timestamp="1588129585386">
+        <mark key="[" line="61" column="4" />
+        <mark key="]" line="61" column="6" />
+        <mark key="." line="61" column="5" />
+        <mark key="^" line="61" column="6" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/integrations/scheduled-config/scheduled-config.ts" timestamp="1588115325178">
+        <mark key="^" line="21" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1588125518943">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/unloader.py" timestamp="1588117783514">
         <mark key="[" line="100" column="4" />
@@ -253,28 +264,6 @@
         <mark key="^" line="45" column="29" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/procedure-group-details.ts" timestamp="1588112057282">
-        <mark key="[" line="3" column="57" />
-        <mark key="]" line="3" column="101" />
-        <mark key="^" line="3" column="101" />
-        <mark key="." line="3" column="100" />
-      </file>
-      <file name="/a.sql" timestamp="1588124872371">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1588125524302">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="3" />
-        <mark key="^" line="0" column="4" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7583078d-92a7-4333-bd71-3ed82e3cad10/console.sql" timestamp="1588113708088">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="45" />
-        <mark key="." line="34" column="44" />
-        <mark key="^" line="34" column="45" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1588129804875">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="125" column="6" />
@@ -284,8 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="8" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/groups/arrowlytics-group-settings.ts" />
-      <jump line="73" column="2" filename="$USER_HOME$/code/sc/web/static/web/views/boost/playbooks/playbooks.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/boost/playbooks/details/playbook-details.html" />
       <jump line="84" column="22" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/groups/arrowlytics-group-settings.ts" />
       <jump line="222" column="9" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics_view.py" />
@@ -384,6 +371,8 @@
       <jump line="48" column="11" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/cli/john.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
+      <jump line="13" column="4" filename="$USER_HOME$/code/sc/web/sc/coms/testing/badwords.py" />
+      <jump line="25" column="9" filename="$USER_HOME$/code/sc/web/sc/coms/testing/badwords.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -395,7 +384,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>asdf</text>
+        <text>exper</text>
       </register>
       <register name="0" type="4">
         <text>]</text>
@@ -437,13 +426,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>asdf</last-search>
+      <last-search>exper</last-search>
       <last-offset />
-      <last-pattern>asdf</last-pattern>
+      <last-pattern>exper</last-pattern>
       <last-replace>Procedure</last-replace>
       <last-substitute>Ad</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
