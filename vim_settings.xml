@@ -210,16 +210,10 @@
       <file name="/Python Console" timestamp="1588258920094">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" timestamp="1588263997397">
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" timestamp="1588269533875">
         <mark key="[" line="2016" column="0" />
         <mark key="]" line="2016" column="0" />
         <mark key="." line="2016" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/arrow-common/arrow-common.ts" timestamp="1588256909378">
-        <mark key="'" line="180" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/transaction.py" timestamp="1588263189431">
         <mark key="'" line="29" column="33" />
@@ -235,7 +229,7 @@
         <mark key="." line="248" column="0" />
         <mark key="^" line="248" column="0" />
       </file>
-      <file name="/console" timestamp="1588265843880">
+      <file name="/console" timestamp="1588270220371">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/charge.py" timestamp="1588263594628">
@@ -254,11 +248,20 @@
         <mark key="^" line="107" column="25" />
         <mark key="." line="107" column="24" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console_1.sql" timestamp="1588270617411">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="22" />
+        <mark key="^" line="7" column="23" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/charges-variance/charges-variance.ts" timestamp="1588257108126">
         <mark key="[" line="47" column="56" />
         <mark key="]" line="47" column="64" />
         <mark key="^" line="47" column="64" />
         <mark key="." line="47" column="63" />
+      </file>
+      <file name="/console_1" timestamp="1588270387126">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/charges-variance-monthly/charges-variance-monthly.ts" timestamp="1588257688466">
         <mark key="[" line="63" column="56" />
@@ -303,6 +306,12 @@
         <mark key="]" line="78" column="43" />
         <mark key="." line="78" column="42" />
         <mark key="^" line="78" column="43" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1588270850777">
+        <mark key="[" line="49" column="4" />
+        <mark key="]" line="49" column="6" />
+        <mark key="." line="49" column="5" />
+        <mark key="^" line="49" column="6" />
       </file>
     </filemarks>
     <jumps>
@@ -410,11 +419,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>local</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgIHdpdGggYWNjX2JpbmQoYWNjKToKICAgICAgYyA9IERlbW9ncmFwaGljLnVwKAogICAgICAgIERlbW9ncmFwaGljLmRhdGVfb2ZfZmlyc3RfYXBwb2ludG1lbnQuaXNfKE5vbmUpLAogICAgICAgIERlbW9ncmFwaGljLmZpcnN0X2FwcCwKICAgICAgICBqcz17RGVtb2dyYXBoaWMuZGF0ZV9vZl9maXJzdF9hcHBvaW50bWVudDogQXBwb2ludG1lbnQuZGF0ZX0sCiAgICAgICkKICAgICAgcHJpbnQoImMiLCBjKQoK</text>
       </register>
       <register name="-" type="4">
-        <text>local</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -423,34 +432,34 @@
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcmV0dHkoZW5jX3R5cGVzKQo=</text>
+        <text encoding="base64">ICAgIHdpdGggYWNjX2JpbmQoYWNjKToKICAgICAgYyA9IERlbW9ncmFwaGljLnVwKAogICAgICAgIERlbW9ncmFwaGljLmRhdGVfb2ZfZmlyc3RfYXBwb2ludG1lbnQuaXNfKE5vbmUpLAogICAgICAgIERlbW9ncmFwaGljLmZpcnN0X2FwcCwKICAgICAgICBqcz17RGVtb2dyYXBoaWMuZGF0ZV9vZl9maXJzdF9hcHBvaW50bWVudDogQXBwb2ludG1lbnQuZGF0ZX0sCiAgICAgICkKICAgICAgcHJpbnQoImMiLCBjKQoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2FfYWRkX2luZGV4KFRyYW5zYWN0aW9uLnR5cGUsIFRyYW5zYWN0aW9uLmlzYmFja291dCwgVHJhbnNhY3Rpb24uZGF0ZSkKc2FfYWRkX2luZGV4KFRyYW5zYWN0aW9uLnR5cGUsIFRyYW5zYWN0aW9uLmlzYmFja291dCwgVHJhbnNhY3Rpb24uYmFja291dF9kYXRlKQo=</text>
+        <text encoding="base64">d2hlcmUgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2FfYWRkX2luZGV4KFRyYW5zYWN0aW9uLnBheWVyX21peCwgVHJhbnNhY3Rpb24udHlwZSwgVHJhbnNhY3Rpb24uZGF0ZSkK</text>
+        <text encoding="base64">ICBwcmV0dHkoZW5jX3R5cGVzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2FfYWRkX2luZGV4KFRyYW5zYWN0aW9uLnR5cGUsIFRyYW5zYWN0aW9uLmlzYmFja291dCwgVHJhbnNhY3Rpb24uZGF0ZSkKc2FfYWRkX2luZGV4KFRyYW5zYWN0aW9uLnR5cGUsIFRyYW5zYWN0aW9uLmlzYmFja291dCwgVHJhbnNhY3Rpb24uYmFja291dF9kYXRlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2FfYWRkX2luZGV4KFRyYW5zYWN0aW9uLnBheWVyX21peCwgVHJhbnNhY3Rpb24udHlwZSwgVHJhbnNhY3Rpb24uZGF0ZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgYWRqdXN0bWVudHMoc2VsZik6CiAgICAiIiIiIiIKICAgIHJldHVybiByZXN0LmFkanVzdG1lbnRzKEFycm93bHl0aWNzQXJncy5mb3JfdWkocmVxdWVzdC5hcmdzKSkKCiAgZGVmIGFkanVzdGVkX250ZyhzZWxmKToKICAgICIiIiIiIgogICAgcmV0dXJuIHJlc3QuYWRqdXN0bWVudHNfcGF5bWVudHMoQXJyb3dseXRpY3NBcmdzLmZvcl91aShyZXF1ZXN0LmFyZ3MpKQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBnZXRBZGp1c3RtZW50cyhwYXJhbUluLCBzcGFuOiBzdHJpbmcpIHsKICAgIGxldCBwYXJhbXMgPSBPYmplY3QuYXNzaWduKHt9LCBwYXJhbUluKQogICAgcGFyYW1zLnNwYW4gPSBzcGFuCiAgICByZXR1cm4gdGhpcy5nZXQoeyBwYXRoOiAnL2FkanVzdG1lbnRzJywgcGFyYW1zIH0pCiAgfQoKICBnZXRBZGp1c3RlZE5ldFRvR3Jvc3MocGFyYW1Jbiwgc3Bhbjogc3RyaW5nKSB7CiAgICBsZXQgcGFyYW1zID0gT2JqZWN0LmFzc2lnbih7fSwgcGFyYW1JbikKICAgIHBhcmFtcy5zcGFuID0gc3BhbgogICAgcmV0dXJuIHRoaXMuZ2V0KHsgcGF0aDogJy9hZGp1c3RlZC1udGcnLCBwYXJhbXMgfSkKICB9Cgo=</text>
+        <text encoding="base64">ICBkZWYgYWRqdXN0bWVudHMoc2VsZik6CiAgICAiIiIiIiIKICAgIHJldHVybiByZXN0LmFkanVzdG1lbnRzKEFycm93bHl0aWNzQXJncy5mb3JfdWkocmVxdWVzdC5hcmdzKSkKCiAgZGVmIGFkanVzdGVkX250ZyhzZWxmKToKICAgICIiIiIiIgogICAgcmV0dXJuIHJlc3QuYWRqdXN0bWVudHNfcGF5bWVudHMoQXJyb3dseXRpY3NBcmdzLmZvcl91aShyZXF1ZXN0LmFyZ3MpKQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIHVua25vd25fcHJvY2VkdXJlX2dyb3VwcygpOgogICIiIiIiIgogIGZpZWxkID0gQ2hhcmdlLnJldmVudWVfY2VudGVyCiAgY2VudGVycyA9IHNldCgKICAgIENoYXJnZS5zZWFyY2goKQogICAgLndpdGhfZW50aXRpZXMoZmllbGQpCiAgICAuZGlzdGluY3QoZmllbGQpCiAgICAub3JkZXJfYnkoZmllbGQpCiAgICAubGltaXQoMTAwKQogICAgLnBsdWNrKCJyZXZlbnVlX2NlbnRlciIpCiAgKQoKICBleGlzdHMgPSBzZXQoUmV2ZW51ZUdyb3VwLnNlYXJjaCgpLnBsdWNrKCJyZXZlbnVlX2NlbnRlciIpKQoKICBtaXNzaW5nID0gY2VudGVycyAtIGV4aXN0cwogIGxvZy5pbmZvKGYiTWlzc2luZyBQcm9jZWR1cmUgR3JvdXBzIC0tIHtsZW4obWlzc2luZyl9IikKICBpZiBtaXNzaW5nOgogICAgcGFyZW50ID0gUmV2ZW51ZVBhcmVudEdyb3VwLm9uZShuYW1lPVVOS05PV04sIGZpZWxkcz0iY2hpbGRyZW4uc2VsKCkiKQogICAgcGFyZW50ID0gcGFyZW50IG9yIFJldmVudWVQYXJlbnRHcm91cC5hZGQobmFtZT1VTktOT1dOKQogICAga2V5ZWQgPSBrZXlfYnkocGFyZW50LmNoaWxkcmVuLCAicmV2ZW51ZV9jZW50ZXIiKQogICAgZm9yIGNlbnRlciBpbiBtaXNzaW5nOgogICAgICBncm91cCA9IGtleWVkLmdldChjZW50ZXIpIG9yIFJldmVudWVHcm91cC5hZGQocGFyZW50PXBhcmVudCwgbmFtZT1VTktOT1dOKQogICAgICBncm91cC5yZXZlbnVlX2NlbnRlciA9IGNlbnRlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
