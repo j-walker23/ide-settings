@@ -213,6 +213,12 @@
         <mark key="." line="58" column="0" />
         <mark key="^" line="55" column="92" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/gce/startup-script.sh" timestamp="1588286179073">
+        <mark key="[" line="292" column="0" />
+        <mark key="]" line="292" column="0" />
+        <mark key="^" line="289" column="19" />
+        <mark key="." line="292" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics_view.py" timestamp="1588262274763">
         <mark key="'" line="104" column="0" />
         <mark key="[" line="239" column="0" />
@@ -240,12 +246,6 @@
       <file name="/charges" timestamp="1588281682229">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/http/arrowlytics.resource.ts" timestamp="1588262253167">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="^" line="89" column="2" />
-        <mark key="." line="90" column="0" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/arrow-charges.ts" timestamp="1588262879649">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="89" column="17" />
@@ -259,7 +259,7 @@
         <mark key="." line="0" column="2" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="/usr/local/etc/nginx/nginx.conf" timestamp="1588285708708">
+      <file name="/usr/local/etc/nginx/nginx.conf" timestamp="1588286023172">
         <mark key="'" line="87" column="23" />
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -410,10 +410,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAzMDEgaHR0cDovL2RvbWFpbi5jb20kcmVxdWVzdF91cmk7Cg==</text>
+        <text encoding="base64">ICBzZXJ2ZXIgewogICAgbGlzdGVuIDgwOwogICAgbGlzdGVuIFs6Ol06ODA7CiAgICBzZXJ2ZXJfbmFtZSBsb2NhbC5zb2NpYWxjbGltZS5jb20gd2ViaG9vay5zb2NpYWxjbGltZS5jb207CiAgICByZXR1cm4gMzAxIGh0dHBzOi8vJGhvc3QkcmVxdWVzdF91cmk7CiAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>local.socialclime.com webhook.socialclime.com;</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -422,34 +422,34 @@
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAzMDEgaHR0cDovL2RvbWFpbi5jb20kcmVxdWVzdF91cmk7Cg==</text>
+        <text encoding="base64">ICBzZXJ2ZXIgewogICAgbGlzdGVuIDgwOwogICAgbGlzdGVuIFs6Ol06ODA7CiAgICBzZXJ2ZXJfbmFtZSBsb2NhbC5zb2NpYWxjbGltZS5jb20gd2ViaG9vay5zb2NpYWxjbGltZS5jb207CiAgICByZXR1cm4gMzAxIGh0dHBzOi8vJGhvc3QkcmVxdWVzdF91cmk7CiAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgcmVkaXJlY3RzIGJvdGggd3d3IGFuZCBub24td3d3IHRvIHNzbCBwb3J0IHdpdGggaHR0cCAoTk9UIEhUVFBTLCBmb3JjaW5nIGVycm9yIDQ5NykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvY2F0aW9uIC8gewogICAgICAgIHJldHVybiAzMDEgaHR0cHM6Ly8kaG9zdCRyZXF1ZXN0X3VyaTsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAzMDEgaHR0cDovL2RvbWFpbi5jb20kcmVxdWVzdF91cmk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgcmVkaXJlY3RzIGJvdGggd3d3IGFuZCBub24td3d3IHRvIHNzbCBwb3J0IHdpdGggaHR0cCAoTk9UIEhUVFBTLCBmb3JjaW5nIGVycm9yIDQ5NykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VsZWN0CiAgICBhY2NvdW50X2lkCiAgLCBkb2N0b3JfaWQKICAsIG9mZmljZV9pZAogICwgZGVtb19pZAogICwgZGF0ZQogICwgYy4qCmZyb20gaGpfY2hhcmdlIGMKd2hlcmUgNzYwID0gYy5hY2NvdW50X2lkCiAgYW5kIGMuZGF0ZSA+IG5vdygpIC0gaW50ZXJ2YWwgMSBtb250aApncm91cCBieQogICAgMQogICwgMgogICwgMwogICwgNAogICwgNQo7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdpdGggYWNjX2JpbmQoYWNjKToKICAgICAgYyA9IERlbW9ncmFwaGljLnVwKAogICAgICAgIERlbW9ncmFwaGljLmRhdGVfb2ZfZmlyc3RfYXBwb2ludG1lbnQuaXNfKE5vbmUpLAogICAgICAgIERlbW9ncmFwaGljLmZpcnN0X2FwcCwKICAgICAgICBqcz17RGVtb2dyYXBoaWMuZGF0ZV9vZl9maXJzdF9hcHBvaW50bWVudDogQXBwb2ludG1lbnQuZGF0ZX0sCiAgICAgICkKICAgICAgcHJpbnQoImMiLCBjKQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">d2hlcmUgCg==</text>
+        <text encoding="base64">c2VsZWN0CiAgICBhY2NvdW50X2lkCiAgLCBkb2N0b3JfaWQKICAsIG9mZmljZV9pZAogICwgZGVtb19pZAogICwgZGF0ZQogICwgYy4qCmZyb20gaGpfY2hhcmdlIGMKd2hlcmUgNzYwID0gYy5hY2NvdW50X2lkCiAgYW5kIGMuZGF0ZSA+IG5vdygpIC0gaW50ZXJ2YWwgMSBtb250aApncm91cCBieQogICAgMQogICwgMgogICwgMwogICwgNAogICwgNQo7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
