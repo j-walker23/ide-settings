@@ -201,15 +201,38 @@
         <mark key="^" line="40" column="24" />
         <mark key="." line="40" column="23" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" timestamp="1588215774169">
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" timestamp="1588217231226">
         <mark key="'" line="1939" column="22" />
-        <mark key="[" line="1964" column="20" />
-        <mark key="]" line="1964" column="26" />
-        <mark key="." line="1964" column="25" />
-        <mark key="^" line="1964" column="26" />
+        <mark key="[" line="1986" column="29" />
+        <mark key="]" line="1986" column="39" />
+        <mark key="." line="1986" column="38" />
+        <mark key="^" line="1986" column="39" />
       </file>
       <file name="/a.dummy" timestamp="1588215127390">
         <mark key="[" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1588215509362">
+        <mark key="'" line="67" column="0" />
+        <mark key="[" line="67" column="76" />
+        <mark key="]" line="67" column="76" />
+        <mark key="." line="67" column="75" />
+        <mark key="^" line="67" column="76" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/charge.py" timestamp="1588215730529">
+        <mark key="[" line="64" column="48" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="67" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" timestamp="1588215722656">
+        <mark key="'" line="44" column="14" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/settings/providers/providers.html" timestamp="1588214027913">
+        <mark key="'" line="62" column="8" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/offices/offices.ts" timestamp="1588213991741">
         <mark key="[" line="91" column="60" />
@@ -233,43 +256,6 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/base.py" timestamp="1588215344399">
-        <mark key="'" line="53" column="6" />
-        <mark key="[" line="49" column="21" />
-        <mark key="]" line="49" column="27" />
-        <mark key="." line="49" column="26" />
-        <mark key="^" line="49" column="27" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588212940790">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" timestamp="1588213312936">
-        <mark key="'" line="286" column="8" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1588215509362">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="67" column="76" />
-        <mark key="]" line="67" column="76" />
-        <mark key="." line="67" column="75" />
-        <mark key="^" line="67" column="76" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/charge.py" timestamp="1588215730529">
-        <mark key="[" line="64" column="48" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-        <mark key="^" line="67" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" timestamp="1588215722656">
-        <mark key="'" line="37" column="14" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="43" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/settings/providers/providers.html" timestamp="1588214027913">
-        <mark key="'" line="62" column="8" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/boost/playbooks/playbooks.ts" timestamp="1588213757667" />
       <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/globals/boosts/playbooks_view.py" timestamp="1588213651556">
         <mark key="'" line="11" column="6" />
       </file>
@@ -284,12 +270,18 @@
         <mark key="." line="225" column="0" />
         <mark key="^" line="225" column="13" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/boost/playbooks/playbooks.html" timestamp="1588213697489" />
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/doctors/doctors.ts" timestamp="1588213995619">
-        <mark key="[" line="88" column="28" />
-        <mark key="]" line="88" column="36" />
-        <mark key="^" line="88" column="36" />
-        <mark key="." line="88" column="35" />
+        <mark key="[" line="91" column="28" />
+        <mark key="]" line="91" column="36" />
+        <mark key="^" line="91" column="36" />
+        <mark key="." line="91" column="35" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/base.py" timestamp="1588215344399">
+        <mark key="'" line="53" column="6" />
+        <mark key="[" line="49" column="21" />
+        <mark key="]" line="49" column="27" />
+        <mark key="." line="49" column="26" />
+        <mark key="^" line="49" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -398,10 +390,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>location</text>
+        <text>facility</text>
       </register>
       <register name="-" type="4">
-        <text>location</text>
+        <text>facility</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -410,31 +402,31 @@
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcm92aWRlcjogVW5pb25bQ29sdW1uLCBzcWwuRG9jdG9yXSA9IHN5bm9ueW0oJ2RvY3RvcicpCiAgbG9jYXRpb246IFVuaW9uW0NvbHVtbiwgc3FsLk9mZmljZV0gPSBzeW5vbnltKCdvZmZpY2UnKQo=</text>
+        <text encoding="base64">ICAgIC5qb2luKEVuY291bnRlci5yZWYpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC5qb2luKEVuY291bnRlci5yZWYpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBvZmZpY2VfaWQ6IHN0cgo=</text>
+        <text encoding="base64">ICAgIC5qb2luKEVuY291bnRlci5yZWYpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgPHNlbGVjdC1oaWRkZW4KICAgICAgICAgIFtvcHRzXT0iY3RybC5zZWxlY3RlZE9wdHMiCiAgICAgICAgICAoaGlkZGVuKT0iY3RybC5vbkhpZGRlbigkZXZlbnQpIj4KICAgICAgICA8L3NlbGVjdC1oaWRkZW4+Cg==</text>
+        <text encoding="base64">ICAgIE9mZmljZS5wbGFjZV9vZl9zZXJ2aWNlX2NvZGUubGFiZWwoImZhY2lsaXR5X3R5cGUiKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcm92aWRlcjogVW5pb25bQ29sdW1uLCBzcWwuRG9jdG9yXSA9IHN5bm9ueW0oJ2RvY3RvcicpCiAgbG9jYXRpb246IFVuaW9uW0NvbHVtbiwgc3FsLk9mZmljZV0gPSBzeW5vbnltKCdvZmZpY2UnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgZ2V0IGlkKCkgewogICAgcmV0dXJuIGAke3RoaXMuY2lkfS8ke3RoaXMucHJvdmlkZXJfaWR9YAogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgZ2V0IGlkKCkgewogICAgcmV0dXJuIGAke3RoaXMuY2lkfS8ke3RoaXMubG9jYXRpb25faWR9YAogIH0K</text>
+        <text encoding="base64">ICBvZmZpY2VfaWQ6IHN0cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgPHNlbGVjdC1oaWRkZW4KICAgICAgICAgIFtvcHRzXT0iY3RybC5zZWxlY3RlZE9wdHMiCiAgICAgICAgICAoaGlkZGVuKT0iY3RybC5vbkhpZGRlbigkZXZlbnQpIj4KICAgICAgICA8L3NlbGVjdC1oaWRkZW4+Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -452,7 +444,7 @@
       <last-replace>None</last-replace>
       <last-substitute>null</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
