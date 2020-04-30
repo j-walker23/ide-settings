@@ -193,12 +193,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" timestamp="1588201350229">
-        <mark key="'" line="101" column="6" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/encounter.py" timestamp="1588203966678">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="42" column="6" />
@@ -207,11 +201,11 @@
         <mark key="^" line="42" column="14" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" timestamp="1588203579244">
-        <mark key="'" line="352" column="12" />
-        <mark key="[" line="436" column="4" />
-        <mark key="]" line="436" column="5" />
-        <mark key="." line="436" column="5" />
-        <mark key="^" line="433" column="43" />
+        <mark key="'" line="345" column="12" />
+        <mark key="[" line="429" column="4" />
+        <mark key="]" line="429" column="5" />
+        <mark key="." line="429" column="5" />
+        <mark key="^" line="426" column="43" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/const.py" timestamp="1588201927640">
         <mark key="[" line="69" column="20" />
@@ -231,7 +225,6 @@
         <mark key="." line="23" column="45" />
         <mark key="^" line="23" column="46" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/local/hj/760/PCAMG01/provider.one" timestamp="1588200755525" />
       <file name="/Python Console" timestamp="1588201873670">
         <mark key="[" line="0" column="0" />
       </file>
@@ -247,6 +240,9 @@
         <mark key="]" line="25" column="80" />
         <mark key="." line="25" column="79" />
         <mark key="^" line="25" column="80" />
+      </file>
+      <file name="/console" timestamp="1588205259311">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/provider/__init__.py" timestamp="1588203188286">
         <mark key="[" line="74" column="50" />
@@ -267,6 +263,9 @@
         <mark key="." line="9" column="16" />
         <mark key="^" line="9" column="17" />
       </file>
+      <file name="/a.sql" timestamp="1588205343140">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/base.py" timestamp="1588201996370">
         <mark key="'" line="109" column="25" />
         <mark key="[" line="30" column="0" />
@@ -274,11 +273,14 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="32" column="29" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/selects/accounts.py" timestamp="1588200537507">
-        <mark key="[" line="25" column="24" />
-        <mark key="]" line="25" column="28" />
-        <mark key="." line="25" column="27" />
-        <mark key="^" line="25" column="28" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a265add-6432-48a9-b258-51df3fa71002/console.sql" timestamp="1588205377217">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588205343158">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/source_encounter.py" timestamp="1588203505531">
         <mark key="[" line="11" column="22" />
@@ -287,7 +289,6 @@
         <mark key="^" line="11" column="31" />
       </file>
       <file name="$USER_HOME$/code/sc/web/instance/local/hj/760/PCAMG01/demographic.one" timestamp="1588201358811" />
-      <file name="$USER_HOME$/code/sc/web/instance/local/hj/760/PCAMG01/location.one" timestamp="1588200634404" />
       <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/doctor.py" timestamp="1588202402797">
         <mark key="'" line="39" column="38" />
         <mark key="[" line="41" column="49" />
@@ -408,8 +409,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>iscopay</text>
+      <register name="+" type="2">
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBzZXQgcwp3aGVyZQo7CgpzZWxlY3QgKgpmcm9tIGFwcCBhCjsK</text>
       </register>
       <register name="-" type="4">
         <text>iscopay</text>
@@ -421,34 +422,34 @@
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBzZXQgcwp3aGVyZQo7CgpzZWxlY3QgKgpmcm9tIGFwcCBhCjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhbGxvd2VkX2FtdDogQ29sRmxvYXQgPSBDb2x1bW4oRmxvYXQsIG51bGxhYmxlPUZhbHNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhbGxvd2VkX2FtdDogQ29sRmxvYXQgPSBDb2x1bW4oRmxvYXQsIG51bGxhYmxlPUZhbHNlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzb3VyY2VfbW9kaWZ5OiBjb25hcnJvdyhfU09VUkNFX0ZPUk1BVFMpCiAgc291cmNlX2NyZWF0ZTogY29uYXJyb3coX1NPVVJDRV9GT1JNQVRTKQogIGR1cmF0aW9uOiBpbnQgPSAwCiAgYmVnaW5fdGltZTogbm9uZW1wdHkoKQogIGVuZF90aW1lOiBub25lbXB0eSgpCiAgZGF0ZTogQXJyb3dzCiAgeWVhcnM6IGludAogIG1vbnRoczogaW50CiAgd2Vla3M6IGludAogIGRheXM6IGludAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBkdXJhdGlvbjogaW50ID0gMAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBwcm92aWRlcl9pZDogbm9uZW1wdHkodXBwZXJzPVRydWUsIGN1cnRhaWxfbGVuZ3RoPUhKX0lEKSA9IFVOS05PV04K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBzb3VyY2VfbW9kaWZ5OiBjb25hcnJvdyhfU09VUkNFX0ZPUk1BVFMpCiAgc291cmNlX2NyZWF0ZTogY29uYXJyb3coX1NPVVJDRV9GT1JNQVRTKQogIGR1cmF0aW9uOiBpbnQgPSAwCiAgYmVnaW5fdGltZTogbm9uZW1wdHkoKQogIGVuZF90aW1lOiBub25lbXB0eSgpCiAgZGF0ZTogQXJyb3dzCiAgeWVhcnM6IGludAogIG1vbnRoczogaW50CiAgd2Vla3M6IGludAogIGRheXM6IGludAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBkdXJhdGlvbjogaW50ID0gMAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBwcm92aWRlcl9pZDogbm9uZW1wdHkodXBwZXJzPVRydWUsIGN1cnRhaWxfbGVuZ3RoPUhKX0lEKSA9IFVOS05PV04K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBuYW1lOiBub25lbXB0eShjdXJ0YWlsX2xlbmd0aD1jb25zdC5jb2xfbmFtZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXR1cm4K</text>
+        <text encoding="base64">ICBuYW1lOiBub25lbXB0eShjdXJ0YWlsX2xlbmd0aD1jb25zdC5jb2xfbmFtZSkK</text>
       </register>
       <register name=":" type="4">
         <text>%s//None</text>
