@@ -110,6 +110,7 @@
         <entry>location</entry>
         <entry>location_name</entry>
         <entry>provider_id</entry>
+        <entry>row.name</entry>
         <entry>asdf</entry>
       </history-search>
       <history-cmd>
@@ -156,6 +157,7 @@
         <entry>%s//declared_attr</entry>
         <entry>%s//None</entry>
         <entry>action SplitVertically</entry>
+        <entry>%s//top.name</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -208,26 +210,23 @@
         <mark key="." line="1986" column="38" />
         <mark key="^" line="1986" column="39" />
       </file>
-      <file name="/a.dummy" timestamp="1588215127390">
-        <mark key="[" line="0" column="1" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/tabs/group/procedure-group.html" timestamp="1588223154462">
+        <mark key="[" line="33" column="89" />
+        <mark key="]" line="33" column="92" />
+        <mark key="^" line="33" column="92" />
+        <mark key="." line="33" column="91" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/tabs/group/procedure-group.html" timestamp="1588221872340">
-        <mark key="[" line="31" column="33" />
-        <mark key="]" line="31" column="39" />
-        <mark key="^" line="31" column="39" />
-        <mark key="." line="31" column="38" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/tabs/procedure-group-tabs.ts" timestamp="1588221877839">
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/tabs/procedure-group-tabs.ts" timestamp="1588222627747">
         <mark key="[" line="22" column="56" />
-        <mark key="]" line="22" column="66" />
-        <mark key="." line="22" column="65" />
-        <mark key="^" line="22" column="66" />
+        <mark key="]" line="22" column="56" />
+        <mark key="." line="22" column="55" />
+        <mark key="^" line="22" column="56" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/procedure-group-tabs.ints.ts" timestamp="1588221889337">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/procedure-group-tabs.ints.ts" timestamp="1588222935892">
+        <mark key="[" line="14" column="33" />
+        <mark key="]" line="14" column="48" />
+        <mark key="^" line="14" column="48" />
+        <mark key="." line="14" column="47" />
       </file>
       <file name="$USER_HOME$/code/sc/web/templates/web-theme.html" timestamp="1588220449676">
         <mark key="'" line="27" column="31" />
@@ -236,18 +235,15 @@
         <mark key="^" line="131" column="15" />
         <mark key="." line="131" column="14" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/procedure-group-details.html" timestamp="1588219570505">
-        <mark key="[" line="16" column="67" />
-        <mark key="]" line="16" column="67" />
-        <mark key="." line="16" column="66" />
-        <mark key="^" line="16" column="67" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/procedure-group-details.html" timestamp="1588223076355">
+        <mark key="'" line="13" column="36" />
+        <mark key="[" line="38" column="31" />
+        <mark key="]" line="38" column="37" />
+        <mark key="." line="38" column="36" />
+        <mark key="^" line="38" column="37" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/base.py" timestamp="1588215344399">
-        <mark key="'" line="53" column="6" />
-        <mark key="[" line="49" column="21" />
-        <mark key="]" line="49" column="27" />
-        <mark key="." line="49" column="26" />
-        <mark key="^" line="49" column="27" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/boost/details/ad-schedule/ad-hours/ad-hours.ts" timestamp="1588222287227">
+        <mark key="'" line="25" column="13" />
       </file>
       <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1588215509362">
         <mark key="'" line="67" column="0" />
@@ -256,11 +252,11 @@
         <mark key="." line="67" column="75" />
         <mark key="^" line="67" column="76" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/tabs/group/procedure-group.ts" timestamp="1588221129261">
-        <mark key="[" line="39" column="51" />
-        <mark key="]" line="40" column="16" />
-        <mark key="." line="40" column="15" />
-        <mark key="^" line="40" column="16" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/tabs/group/procedure-group.ts" timestamp="1588222982173">
+        <mark key="[" line="34" column="14" />
+        <mark key="]" line="35" column="16" />
+        <mark key="." line="35" column="15" />
+        <mark key="^" line="35" column="16" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/charge.py" timestamp="1588215730529">
         <mark key="[" line="64" column="48" />
@@ -275,13 +271,22 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="50" column="0" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/boost/details/ad-schedule/ad-schedule.ts" timestamp="1588222292988">
+        <mark key="'" line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/tabs/procedure-group-tabs.html" timestamp="1588221770942">
         <mark key="[" line="7" column="59" />
         <mark key="]" line="7" column="64" />
         <mark key="." line="7" column="63" />
         <mark key="^" line="7" column="64" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/procedure-group-details.ts" timestamp="1588220726329" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/procedure-group-details.ts" timestamp="1588223102463">
+        <mark key="'" line="68" column="13" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="54" column="35" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/surveys/details/question/qu-choice.ts" timestamp="1588220971406">
         <mark key="'" line="74" column="13" />
       </file>
@@ -300,12 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="20" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="160" column="0" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="253" column="0" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="483" column="36" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="170" column="9" filename="$USER_HOME$/code/sc/web/cli/john.py" />
-      <jump line="212" column="5" filename="$USER_HOME$/code/sc/web/cli/john.py" />
       <jump line="276" column="18" filename="$USER_HOME$/code/sc/web/cli/john.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/cli/john.py" />
       <jump line="263" column="25" filename="$USER_HOME$/code/sc/web/cli/john.py" />
@@ -400,15 +399,21 @@
       <jump line="62" column="30" filename="$USER_HOME$/code/sc/web/main_cron.py" />
       <jump line="27" column="31" filename="$USER_HOME$/code/sc/web/templates/web-theme.html" />
       <jump line="74" column="13" filename="$USER_HOME$/code/sc/web/static/web/views/surveys/details/question/qu-choice.ts" />
+      <jump line="23" column="32" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/procedure-group-details.html" />
+      <jump line="25" column="13" filename="$USER_HOME$/code/sc/web/static/web/views/boost/details/ad-schedule/ad-hours/ad-hours.ts" />
+      <jump line="5" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/boost/details/ad-schedule/ad-schedule.ts" />
+      <jump line="64" column="13" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/procedure-group-details.ts" />
+      <jump line="6" column="71" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/procedure-group-details.html" />
+      <jump line="13" column="36" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/procedure-group-details.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">CgpleHBvcnQgY2xhc3MgUHJvY2VkdXJlR3JvdXBUYWIgewogIEBUeXBlKCgpID0+IEFkR3JvdXApCiAgZ3JvdXA6IEFkR3JvdXAKCiAgZ2V0IGxhYmVsKCkgewogICAgcmV0dXJuIHRyeUl0KCgpID0+IHRoaXMuZ3JvdXAubmFtZSwgJytBZGQnKQogIH0KfQoK</text>
+      <register name="+" type="4">
+        <text>ceiwrevter</text>
       </register>
       <register name="-" type="4">
-        <text>revenue_center</text>
+        <text>ceiwrevter</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -417,37 +422,37 @@
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgpleHBvcnQgY2xhc3MgUHJvY2VkdXJlR3JvdXBUYWIgewogIEBUeXBlKCgpID0+IEFkR3JvdXApCiAgZ3JvdXA6IEFkR3JvdXAKCiAgZ2V0IGxhYmVsKCkgewogICAgcmV0dXJuIHRyeUl0KCgpID0+IHRoaXMuZ3JvdXAubmFtZSwgJytBZGQnKQogIH0KfQoK</text>
+        <text encoding="base64">ICAgIGxldCB7IHJvdzogcGFyZW50IH0gPSB0aGlzCiAgICBsZXQgbmFtZSA9IHBhcmVudC5uYW1lCgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGNsYXNzIE1pZEdyb3VwIHsKICBuYW1lOiBzdHJpbmcKfQo=</text>
+        <text encoding="base64">ICAgIAogICAgbGV0IHRvcCA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbmRleDogbnVtYmVyCg==</text>
+        <text encoding="base64">ICAgCgogICAgZm9yT3duKGNoaWxkcmVuLCAocm93cywgbmFtZSkgPT4gewogICAgICBsZXQgY2VudGVycyA9IHJvd3MubWFwKHIgPT4gKHsgY2VudGVyOiByLnJldmVudWVfY2VudGVyIH0pKQogICAgICBncm91cHMucHVzaCh7IG5hbWUsIGNlbnRlcnMgfSkKICAgIH0pCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0aGlzLmVsJywgdGhpcy5lbC5sZW5ndGgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZWwgPSAkIAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">KFtuYW1lLCByb3dzXSkgPT4gewogICAgICAKICAgIH0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxsYWJlbD48L2xhYmVsPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICghdGhpcy5yb3cpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SplitVertically</text>
+        <text>%s//top.name</text>
       </register>
     </registers>
   </component>
@@ -456,8 +461,8 @@
       <last-search>asdf</last-search>
       <last-offset />
       <last-pattern>asdf</last-pattern>
-      <last-replace>None</last-replace>
-      <last-substitute>null</last-substitute>
+      <last-replace>top.name</last-replace>
+      <last-substitute>row.name</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
