@@ -207,9 +207,6 @@
         <mark key="." line="119" column="31" />
         <mark key="^" line="119" column="32" />
       </file>
-      <file name="/Python Console" timestamp="1588258920094">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" timestamp="1588274400561">
         <mark key="[" line="2028" column="0" />
         <mark key="]" line="2028" column="0" />
@@ -232,9 +229,6 @@
       <file name="/console" timestamp="1588282862066">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/charge.py" timestamp="1588263594628">
-        <mark key="'" line="32" column="6" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1588282494962">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="6" column="0" />
@@ -248,15 +242,6 @@
         <mark key="]" line="7" column="23" />
         <mark key="." line="7" column="22" />
         <mark key="^" line="7" column="23" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" timestamp="1588283110939">
-        <mark key="[" line="41" column="67" />
-        <mark key="]" line="42" column="19" />
-        <mark key="^" line="42" column="19" />
-        <mark key="." line="42" column="18" />
-      </file>
-      <file name="/console_1" timestamp="1588281266361">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/charges" timestamp="1588281682229">
         <mark key="[" line="0" column="0" />
@@ -274,11 +259,28 @@
         <mark key="." line="89" column="42" />
         <mark key="^" line="89" column="43" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1588266052521">
+      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1588284733860">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="3" />
-        <mark key="^" line="0" column="4" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="2" />
+        <mark key="^" line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1588284940282">
+        <mark key="[" line="48" column="11" />
+        <mark key="]" line="48" column="11" />
+        <mark key="." line="48" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/charge.py" timestamp="1588263594628">
+        <mark key="'" line="32" column="6" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" timestamp="1588284418978">
+        <mark key="[" line="48" column="1" />
+        <mark key="]" line="52" column="29" />
+        <mark key="^" line="52" column="29" />
+        <mark key="." line="52" column="28" />
+      </file>
+      <file name="/console_1" timestamp="1588281266361">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/227f2ba4-0163-4488-ac54-a37aea04849a/charges.sql" timestamp="1588281696859" />
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/arrow-payments.ts" timestamp="1588263840424">
@@ -407,10 +409,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>,</text>
+        <text>{</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
