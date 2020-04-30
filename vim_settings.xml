@@ -111,7 +111,10 @@
         <entry>location_name</entry>
         <entry>provider_id</entry>
         <entry>row.name</entry>
+        <entry encoding="base64">PG1lbnU=</entry>
+        <entry>group_by_provider</entry>
         <entry>asdf</entry>
+        <entry>backout_date</entry>
       </history-search>
       <history-cmd>
         <entry>SplitVertically</entry>
@@ -197,236 +200,253 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/sessions/arrow-sess-config.dialog.ts" timestamp="1588235379436">
-        <mark key="[" line="12" column="55" />
-        <mark key="]" line="12" column="55" />
-        <mark key="^" line="12" column="55" />
-        <mark key="." line="12" column="54" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" timestamp="1588245533177">
+        <mark key="[" line="1062" column="37" />
+        <mark key="]" line="1062" column="37" />
+        <mark key="." line="1062" column="36" />
+        <mark key="^" line="1062" column="37" />
       </file>
-      <file name="/console" timestamp="1588234482202">
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/search/encounters-auto.service.ts" timestamp="1588241059584">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/search/charges-auto.service.ts" timestamp="1588241056234">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/encounters/process.py" timestamp="1588246083914">
+        <mark key="[" line="44" column="27" />
+        <mark key="]" line="45" column="20" />
+        <mark key="^" line="45" column="20" />
+        <mark key="." line="45" column="19" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/charge.py" timestamp="1588245510397">
+        <mark key="'" line="31" column="6" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" timestamp="1588243587083">
+        <mark key="'" line="29" column="6" />
+        <mark key="[" line="58" column="51" />
+        <mark key="]" line="58" column="70" />
+        <mark key="." line="58" column="69" />
+        <mark key="^" line="58" column="70" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/tasks/hj/collecting.py" timestamp="1588246149970">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="89" column="34" />
+        <mark key="]" line="89" column="34" />
+        <mark key="." line="89" column="34" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/arrow-charges.html" timestamp="1588244724774" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1588246598449">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="46" column="57" />
+        <mark key="]" line="47" column="30" />
+        <mark key="." line="47" column="29" />
+        <mark key="^" line="47" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/offices/offices.ts" timestamp="1588241876908">
+        <mark key="[" line="93" column="31" />
+        <mark key="]" line="93" column="34" />
+        <mark key="." line="93" column="33" />
+        <mark key="^" line="93" column="34" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/search/transactions-auto.service.ts" timestamp="1588241062443">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/migrations/versions/a6cf6983eed9__31.py" timestamp="1588244198004">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="56" column="81" />
+        <mark key="]" line="56" column="90" />
+        <mark key="^" line="56" column="90" />
+        <mark key="." line="56" column="89" />
+      </file>
+      <file name="/a.sql" timestamp="1588244129727">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/tabs/procedure-group-tabs.ts" timestamp="1588230934154">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="28" column="28" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/arrow-charges.ts" timestamp="1588245587108" />
+      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/hj_settings_view.py" timestamp="1588241364673">
+        <mark key="'" line="97" column="11" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="16" column="45" />
+        <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/tabs/group/procedure-group.html" timestamp="1588231261422">
-        <mark key="'" line="24" column="23" />
-        <mark key="[" line="28" column="32" />
-        <mark key="]" line="29" column="33" />
-        <mark key="^" line="29" column="33" />
-        <mark key="." line="29" column="32" />
+      <file name="/Dummy.txt" timestamp="1588244129739">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1588234715647" />
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/__init__.py" timestamp="1588235113197" />
-      <file name="$USER_HOME$/code/sc/web/static/web/http/ints.resource.ts" timestamp="1588235422604">
-        <mark key="[" line="28" column="2" />
-        <mark key="]" line="28" column="2" />
-        <mark key="^" line="28" column="2" />
-        <mark key="." line="28" column="1" />
+      <file name="$USER_HOME$/code/sc/web/static/common/mixins/select-hidden.ts" timestamp="1588241984486">
+        <mark key="'" line="20" column="17" />
+        <mark key="[" line="50" column="80" />
+        <mark key="]" line="50" column="87" />
+        <mark key="^" line="50" column="87" />
+        <mark key="." line="50" column="86" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/procedure-group-details.html" timestamp="1588232002353">
-        <mark key="'" line="31" column="24" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="43" column="12" />
+      <file name="$USER_HOME$/code/sc/web/migrations/mig_stuff.py" timestamp="1588244055154">
+        <mark key="'" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/procedure-groups.ts" timestamp="1588234876570">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="56" column="31" />
+      <file name="$USER_HOME$/code/sc/web/static/common/search/search.ts" timestamp="1588241587572">
+        <mark key="'" line="140" column="42" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/components/selects/hj/revenue-center/revenue-center.select.ts" timestamp="1588231384365">
-        <mark key="[" line="53" column="36" />
-        <mark key="]" line="53" column="41" />
-        <mark key="^" line="53" column="41" />
-        <mark key="." line="53" column="40" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/__init__.py" timestamp="1588235211490">
-        <mark key="[" line="25" column="60" />
-        <mark key="]" line="25" column="64" />
-        <mark key="^" line="25" column="64" />
-        <mark key="." line="25" column="63" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/web.sass" timestamp="1588230288896">
-        <mark key="'" line="300" column="52" />
-        <mark key="[" line="300" column="53" />
-        <mark key="]" line="300" column="92" />
-        <mark key="^" line="300" column="92" />
-        <mark key="." line="300" column="91" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/boost/details/ad-group-tabs/ad-group-tabs.ts" timestamp="1588230923677">
-        <mark key="'" line="28" column="14" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/integrations_view.py" timestamp="1588235392577">
-        <mark key="'" line="21" column="6" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/types.py" timestamp="1588235136094" />
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/tabs/procedure-group-tabs.html" timestamp="1588230898668">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="7" column="12" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/procedure-group-details.ts" timestamp="1588231879297">
-        <mark key="'" line="81" column="0" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
-        <mark key="^" line="105" column="24" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/doctors/doctors.ts" timestamp="1588241891335">
+        <mark key="[" line="93" column="28" />
+        <mark key="]" line="93" column="37" />
+        <mark key="." line="93" column="36" />
+        <mark key="^" line="93" column="37" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="295" column="17" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="331" column="7" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="338" column="7" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="346" column="2" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="390" column="7" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="399" column="7" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="417" column="2" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="441" column="33" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="560" column="13" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="352" column="12" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="36" column="6" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" />
-      <jump line="40" column="6" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/converter.py" />
-      <jump line="29" column="6" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/unloading.py" />
-      <jump line="81" column="2" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/unloader.py" />
-      <jump line="51" column="6" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/base.py" />
-      <jump line="401" column="4" filename="$USER_HOME$/code/sc/web/cli/john.py" />
-      <jump line="62" column="2" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/demographic.py" />
-      <jump line="12" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
-      <jump line="20" column="28" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
-      <jump line="61" column="2" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/demographic.py" />
-      <jump line="23" column="6" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/migrations/keepers.sql" />
-      <jump line="64" column="0" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
-      <jump line="40" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
-      <jump line="83" column="28" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
-      <jump line="76" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
-      <jump line="11" column="6" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/globals/boosts/playbooks_view.py" />
-      <jump line="62" column="8" filename="$USER_HOME$/code/sc/web/static/web/views/settings/providers/providers.html" />
-      <jump line="283" column="0" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
-      <jump line="25" column="4" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
-      <jump line="123" column="9" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
-      <jump line="2" column="6" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
-      <jump line="37" column="14" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" />
-      <jump line="273" column="23" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
-      <jump line="234" column="35" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
-      <jump line="259" column="23" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
-      <jump line="264" column="32" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
-      <jump line="268" column="30" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
-      <jump line="609" column="12" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
-      <jump line="1158" column="25" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
-      <jump line="1183" column="17" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
-      <jump line="1184" column="22" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
-      <jump line="1187" column="25" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
-      <jump line="1188" column="34" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
-      <jump line="1196" column="14" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
-      <jump line="902" column="21" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
-      <jump line="758" column="42" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
-      <jump line="310" column="27" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
-      <jump line="614" column="26" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
-      <jump line="606" column="17" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="105" column="22" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/arrowlytics.html" />
+      <jump line="145" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/arrowlytics-forw.ts" />
+      <jump line="18" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/arrowlytics-forw.ts" />
+      <jump line="166" column="17" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/arrowlytics.html" />
+      <jump line="123" column="9" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/arrowlytics-forw.html" />
+      <jump line="77" column="25" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics_view.py" />
+      <jump line="202" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
+      <jump line="36" column="9" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics_view.py" />
+      <jump line="98" column="11" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/hj_settings_view.py" />
+      <jump line="140" column="42" filename="$USER_HOME$/code/sc/web/static/common/search/search.ts" />
+      <jump line="19" column="17" filename="$USER_HOME$/code/sc/web/static/common/mixins/select-hidden.ts" />
+      <jump line="126" column="35" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="128" column="5" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="228" column="2" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="230" column="18" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="252" column="48" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="276" column="7" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="280" column="44" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="287" column="11" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="291" column="50" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="297" column="63" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="307" column="11" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="311" column="50" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="318" column="36" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="328" column="57" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="342" column="7" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="352" column="67" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="358" column="11" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="361" column="59" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="366" column="74" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="374" column="22" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="404" column="0" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="406" column="46" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="413" column="11" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="416" column="58" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="421" column="71" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="431" column="11" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="435" column="24" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="442" column="36" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="452" column="56" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="468" column="5" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="478" column="65" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="484" column="11" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="487" column="58" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="494" column="50" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="502" column="5" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="514" column="65" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="521" column="11" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="528" column="52" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="534" column="36" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="545" column="2" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="585" column="9" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="633" column="11" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="643" column="4" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="658" column="6" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="682" column="11" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="692" column="4" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="707" column="6" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="778" column="11" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="847" column="11" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="872" column="2" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="929" column="2" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="979" column="22" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="1055" column="11" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="1063" column="45" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="1070" column="36" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="1079" column="22" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="1118" column="11" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="1120" column="58" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="1144" column="50" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="1166" column="11" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="1169" column="52" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="1175" column="65" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="246" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
+      <jump line="43" column="2" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/charge.py" />
+      <jump line="29" column="6" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/migrations/versions/a6cf6983eed9__31.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/sc/web/migrations/mig_stuff.py" />
+      <jump line="1384" column="19" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
-      <jump line="615" column="42" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
-      <jump line="1148" column="36" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
-      <jump line="1090" column="28" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
-      <jump line="1939" column="22" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
-      <jump line="62" column="30" filename="$USER_HOME$/code/sc/web/main_cron.py" />
-      <jump line="27" column="31" filename="$USER_HOME$/code/sc/web/templates/web-theme.html" />
-      <jump line="74" column="13" filename="$USER_HOME$/code/sc/web/static/web/views/surveys/details/question/qu-choice.ts" />
-      <jump line="25" column="13" filename="$USER_HOME$/code/sc/web/static/web/views/boost/details/ad-schedule/ad-hours/ad-hours.ts" />
-      <jump line="5" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/boost/details/ad-schedule/ad-schedule.ts" />
-      <jump line="64" column="13" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/procedure-group-details.ts" />
-      <jump line="6" column="71" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/procedure-group-details.html" />
-      <jump line="80" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
-      <jump line="71" column="13" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/procedure-group-details.ts" />
-      <jump line="31" column="13" filename="$USER_HOME$/code/sc/web/static/web/components/selects/listing/listing.select.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/web/web.sass" />
-      <jump line="22" column="69" filename="$USER_HOME$/code/sc/web/static/web/components/selects/hj/revenue-center/revenue-center.select.html" />
-      <jump line="18" column="36" filename="$USER_HOME$/code/sc/web/static/web/components/selects/hj/revenue-center/revenue-center.select.ts" />
-      <jump line="67" column="75" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
-      <jump line="159" column="6" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics_view.py" />
-      <jump line="102" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
-      <jump line="286" column="6" filename="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" />
-      <jump line="84" column="0" filename="$USER_HOME$/code/sc/web/cli/john.py" />
-      <jump line="434" column="2" filename="$USER_HOME$/code/sc/web/cli/john.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/code/sc/web/static/web/components/selects/hj/revenue-center/revenue-center.select.html" />
-      <jump line="29" column="25" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/tabs/group/procedure-group.html" />
-      <jump line="82" column="15" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/procedure-groups.ts" />
-      <jump line="105" column="50" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/procedure-group-details.ts" />
-      <jump line="49" column="11" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/hj_settings_view.py" />
-      <jump line="15" column="37" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/procedure-group-details.ts" />
-      <jump line="297" column="52" filename="$USER_HOME$/code/sc/web/static/web/web.sass" />
-      <jump line="33" column="21" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/procedure-group-details.html" />
-      <jump line="18" column="16" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/tabs/procedure-group-tabs.html" />
-      <jump line="1" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/tabs/procedure-group-tabs.html" />
-      <jump line="35" column="8" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/procedure-group-details.html" />
-      <jump line="38" column="13" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/tabs/group/procedure-group.html" />
-      <jump line="28" column="14" filename="$USER_HOME$/code/sc/web/static/web/views/boost/details/ad-group-tabs/ad-group-tabs.ts" />
-      <jump line="40" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/procedure-group-details.ts" />
-      <jump line="24" column="23" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/tabs/group/procedure-group.html" />
-      <jump line="54" column="20" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/procedure-group-details.ts" />
-      <jump line="5" column="0" filename="$USER_HOME$/code/sc/web/static/web/components/selects/hj/revenue-center/revenue-center.select.ts" />
-      <jump line="46" column="13" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/procedure-group-details.ts" />
-      <jump line="63" column="2" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/procedure-group-details.ts" />
-      <jump line="81" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/procedure-group-details.ts" />
-      <jump line="13" column="42" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/procedure-group-details.html" />
-      <jump line="23" column="22" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/procedure-group-details.html" />
-      <jump line="31" column="24" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/procedure-group-details.html" />
-      <jump line="29" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/procedure-groups.ts" />
-      <jump line="21" column="6" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/integrations_view.py" />
+      <jump line="1016" column="39" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="1035" column="56" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="1037" column="15" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="1099" column="12" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="1724" column="2" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="218" column="27" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="220" column="9" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="985" column="41" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="989" column="42" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="993" column="40" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="997" column="41" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="1003" column="51" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="1009" column="43" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="1026" column="111" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="1027" column="19" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
+      <jump line="31" column="6" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/charge.py" />
+      <jump line="250" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
+      <jump line="247" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
+      <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/app/tasks/hj/collecting.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">CiAgZ2V0UHJhY3RpY2VNYW5hZ2VtZW50TGlzdCgpIHsKICAgIHJldHVybiB0aGlzLmxpc3RQYXRoPHN0cmluZ1tdPignL3ByYWN0aWNlLW1hbmFnZW1lbnQnLCBudWxsLCB7CiAgICAgIHBsYWluOiB0cnVlLAogICAgfSkKICB9Cg==</text>
+      <register name="+" type="4">
+        <text>hj_charge</text>
       </register>
       <register name="-" type="4">
-        <text>Integration</text>
+        <text>hj_charge</text>
       </register>
       <register name="/" type="4">
-        <text>asdf</text>
+        <text>backout_date</text>
       </register>
       <register name="0" type="4">
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgZ2V0UHJhY3RpY2VNYW5hZ2VtZW50TGlzdCgpIHsKICAgIHJldHVybiB0aGlzLmxpc3RQYXRoPHN0cmluZ1tdPignL3ByYWN0aWNlLW1hbmFnZW1lbnQnLCBudWxsLCB7CiAgICAgIHBsYWluOiB0cnVlLAogICAgfSkKICB9Cg==</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBjYW1wYWlnbnMgYwp3aGVyZSBkZWxldGVkX2F0IGlzIG51bGwKICBhbmQgaXNfZG9jID0gdHJ1ZQpvcmRlciBieQogICAgbGVuZ3RoKGMubmFtZSkgZGVzYwo7CgpleHBsYWluCnVwZGF0ZSBoal9kZW1vZ3JhcGhpYywgaGpfYXBwb2ludG1lbnQKc2V0IGhqX2RlbW9ncmFwaGljLmRhdGVfb2ZfZmlyc3RfYXBwb2ludG1lbnQ9aGpfYXBwb2ludG1lbnQuZGF0ZQp3aGVyZSA3NjAgPSBoal9kZW1vZ3JhcGhpYy5hY2NvdW50X2lkCiAgYW5kIChFWElTVFMoc2VsZWN0IDEgZnJvbSBoal9hcHBvaW50bWVudCB3aGVyZSBoal9kZW1vZ3JhcGhpYy5pZCA9IGhqX2FwcG9pbnRtZW50LmRlbW9faWQpKQogIGFuZCBoal9kZW1vZ3JhcGhpYy5pZCA9IGhqX2FwcG9pbnRtZW50LmRlbW9faWQKICBhbmQgaGpfYXBwb2ludG1lbnQuZGF0ZSA9ICgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGVjdCBtaW4oaGpfYXBwb2ludG1lbnQuZGF0ZSkgbWluXzEKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZyb20gaGpfYXBwb2ludG1lbnQKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZXJlIGhqX2RlbW9ncmFwaGljLmlkID0gaGpfYXBwb2ludG1lbnQuZGVtb19pZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgKQogIGFuZCBoal9kZW1vZ3JhcGhpYy5kYXRlX29mX2ZpcnN0X2FwcG9pbnRtZW50IGlzIG51bGwKOwoKZXhwbGFpbgp1cGRhdGUgaGpfZGVtb2dyYXBoaWMsIGhqX2FwcG9pbnRtZW50CnNldCBoal9kZW1vZ3JhcGhpYy5kYXRlX29mX2ZpcnN0X2FwcG9pbnRtZW50PWhqX2FwcG9pbnRtZW50LmRhdGUKd2hlcmUgNzYwID0gaGpfZGVtb2dyYXBoaWMuYWNjb3VudF9pZAogIGFuZCBoal9kZW1vZ3JhcGhpYy5pZCA9IGhqX2FwcG9pbnRtZW50LmRlbW9faWQKICBhbmQgaGpfZGVtb2dyYXBoaWMuZGF0ZV9vZl9maXJzdF9hcHBvaW50bWVudCBpcyBudWxsCiAgYW5kIGhqX2FwcG9pbnRtZW50LmRhdGUgPSAoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxlY3QgbWluKGhqX2FwcG9pbnRtZW50LmRhdGUpIG1pbl8xCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmcm9tIGhqX2FwcG9pbnRtZW50CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVyZSBoal9kZW1vZ3JhcGhpYy5pZCA9IGhqX2FwcG9pbnRtZW50LmRlbW9faWQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICkKOwoKY3JlYXRlIGluZGV4IGl4eCBvbiBoal9kZW1vZ3JhcGhpYyhkYXRlX29mX2ZpcnN0X2FwcG9pbnRtZW50LCBhY2NvdW50X2lkKQo7Cgpkcm9wIGluZGV4IGl4eCBvbiBoal9kZW1vZ3JhcGhpYwo7CgpleHBsYWluCnVwZGF0ZSBoal9kZW1vZ3JhcGhpYywgaGpfYXBwb2ludG1lbnQKc2V0IGhqX2RlbW9ncmFwaGljLmRhdGVfb2ZfZmlyc3RfYXBwb2ludG1lbnQ9aGpfYXBwb2ludG1lbnQuZGF0ZQp3aGVyZSBoal9kZW1vZ3JhcGhpYy5kYXRlX29mX2ZpcnN0X2FwcG9pbnRtZW50IGlzIG51bGwKIyB3aGVyZSA3NjAgPSBoal9kZW1vZ3JhcGhpYy5hY2NvdW50X2lkCiMgICBhbmQgaGpfZGVtb2dyYXBoaWMuZGF0ZV9vZl9maXJzdF9hcHBvaW50bWVudCBpcyBudWxsCiAgYW5kIGhqX2RlbW9ncmFwaGljLmlkID0gaGpfYXBwb2ludG1lbnQuZGVtb19pZAogIGFuZCA3NjAgPSBoal9kZW1vZ3JhcGhpYy5hY2NvdW50X2lkCiAgYW5kIGhqX2FwcG9pbnRtZW50LmRhdGUgPSAoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxlY3QgbWluKGhqX2FwcG9pbnRtZW50LmRhdGUpIG1pbl8xCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmcm9tIGhqX2FwcG9pbnRtZW50CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVyZSBoal9kZW1vZ3JhcGhpYy5pZCA9IGhqX2FwcG9pbnRtZW50LmRlbW9faWQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICkKOwoKb3B0aW1pemUgdGFibGUgaGpfZGVtb2dyYXBoaWMKOwoKCnNlbGVjdAogICAgY291bnQoKikKZnJvbSBoal9kb2N0b3IgaApqb2luIGhqX2FwcG9pbnRtZW50IGhhIG9uIGhhLmRvY3Rvcl9pZCA9IGguaWQKd2hlcmUgaC5hY2NvdW50X2lkID0gNzYwCiAgYW5kIGgucmF3X2lkICE9ICdVTktOT1dOJwo7CgpzZWxlY3QKICAgIGNvdW50KCopCmZyb20gaGpfZG9jdG9yIGgKam9pbiBoal9hcHBvaW50bWVudCBoYSBvbiBoYS5kb2N0b3JfaWQgPSBoLmlkCndoZXJlIGguYWNjb3VudF9pZCA9IDc2MAogIGFuZCBoLnJhd19pZCAhPSAnVU5LTk9XTicKOwoKCnNlbGVjdAogICAgY291bnQoKikKZnJvbSBoal9hcHBvaW50bWVudCBoCndoZXJlIGFjY291bnRfaWQgPSA3NjAKOwoKc2VsZWN0CiAgICBhY2NvdW50cy5pZCAgICAgICAgYWlkCiAgLCBhY2NvdW50cy5uYW1lICAgICAgYWNjCiAgLCBoal9hcHBvaW50bWVudC5jaWQgY2xpZW50X2lkCiAgLCBjb3VudCgqKSAgICAgICAgICAgcmF3X2FwcG9pbnRtZW50c19jb3VudAogICwgMjUwMjIxICAgICAgICAgICAgIHBhdGllbnRfcmF3X2NvdW50CiAgLCAoCiAgICBzZWxlY3QKICAgICAgICBjb3VudCgqKSBhbm9uXzEKICAgIGZyb20gaGpfYXBwb2ludG1lbnQgaAogICAgam9pbiBoal9kZW1vZ3JhcGhpYyBoZCBvbiBoZC5pZCA9IGguZGVtb19pZAogICAgd2hlcmUgaC5pZCA9IGhqX2FwcG9pbnRtZW50LmlkCiAgICAgIGFuZCBoZC5yYXdfaWQgIT0gJ1VOS05PV04nCgogICAgKSAgICAgICAgICAgICAgICAgIHBhdGllbnRfYXBwb2ludG1lbnRzCmZyb20gaGpfYXBwb2ludG1lbnQKaW5uZXIgam9pbiBhY2NvdW50cyBvbiBhY2NvdW50cy5pZCA9IGhqX2FwcG9pbnRtZW50LmFjY291bnRfaWQKd2hlcmUgNzYwID0gaGpfYXBwb2ludG1lbnQuYWNjb3VudF9pZApncm91cCBieQogICAgaGpfYXBwb2ludG1lbnQuYWNjb3VudF9pZAogICwgaGpfYXBwb2ludG1lbnQuY2lkCjsKCnNlbGVjdCAqCmZyb20gaGVhbHRoanVtcHMgaAp3aGVyZSBpbmNsdWRlX2FuYWxzID0gdHJ1ZQo7CgoKc2VsZWN0IGRpc3RpbmN0CiAgICBoal9jaGFyZ2UucmV2ZW51ZV9jZW50ZXIKZnJvbSBoal9jaGFyZ2UKd2hlcmUgNzYwID0gaGpfY2hhcmdlLmFjY291bnRfaWQKb3JkZXIgYnkKICAgIGhqX2NoYXJnZS5yZXZlbnVlX2NlbnRlcgpsaW1pdCAzMAo7CgpleHBsYWluCnNlbGVjdAogICAgYXZnKGRhdGVkaWZmKGhqX2FwcG9pbnRtZW50LmRhdGUsIGhqX2FwcG9pbnRtZW50LnNvdXJjZV9jcmVhdGUpKSBhcHB0X2dhcAogICwgY291bnQoaGpfYXBwb2ludG1lbnQuaWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb3VudAogICwgaGpfYXBwb2ludG1lbnQueWVhcnMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB5ZWFyCiAgLCBoal9hcHBvaW50bWVudC5tb250aHMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vbnRoCiAgLCBkYXkoaGpfYXBwb2ludG1lbnQuZGF0ZSkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRheQogICwgd2Vlayhoal9hcHBvaW50bWVudC5kYXRlKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3ZWVrCiAgLCBkYXRlKGhqX2FwcG9pbnRtZW50LmRhdGUpICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGUKICAsICdtb250aCcgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHlwZQpmcm9tIGhqX2FwcG9pbnRtZW50CmlubmVyIGpvaW4gaGpfb2ZmaWNlIG9uIGhqX29mZmljZS5pZCA9IGhqX2FwcG9pbnRtZW50Lm9mZmljZV9pZAp3aGVyZSA3NjAgPSBoal9hcHBvaW50bWVudC5hY2NvdW50X2lkCiAgYW5kIGhqX2FwcG9pbnRtZW50LmRhdGUgPj0gJzIwMjAtMDEtMDFUMDA6MDA6MDBaJwogIGFuZCBoal9hcHBvaW50bWVudC5kYXRlIDw9ICcyMDIwLTEyLTMxVDIzOjU5OjU5WicKICBhbmQgaGpfYXBwb2ludG1lbnQuc3RhdHVzID0gJ0Fycml2ZWQnCiAgYW5kIGhqX29mZmljZS5wbGFjZV9vZl9zZXJ2aWNlX2NvZGUgPSAxMQpncm91cCBieQogICAgaGpfYXBwb2ludG1lbnQubW9udGhzCiAgLCBoal9hcHBvaW50bWVudC55ZWFycwojIG9yZGVyIGJ5CiMgICAgIGhqX2FwcG9pbnRtZW50LmRhdGUKOwojIGZtdDogb2ZmCgpleHBsYWluClNFTEVDVCBvZy5tb3JuaW5nX2NvdW50LAogICAgICAgb2cubW9ybmluZ19jcmVkaXQsCiAgICAgICBvZy5hZnRlcm5vb25fY291bnQsCiAgICAgICBvZy5hZnRlcm5vb25fY3JlZGl0LAogICAgICAgb2cuY291bnQsCiAgICAgICBvZy55ZWFyLAogICAgICAgb2cubW9udGgsCiAgICAgICBvZy5kYXksCiAgICAgICBvZy53ZWVrLAogICAgICAgb2cuZGF0ZSwKICAgICAgIG9nLmxvY19uYW1lLAogICAgICAgb2cucHJvdl9uYW1lLAogICAgICAgaGpfZG9jdG9yLm5hbWUgIGNsaW5pY2lhbiwKICAgICAgIGhqX29mZmljZS5uYW1lICBsb2NhdGlvbiwKICAgICAgIG9nLnR5cGUKRlJPTSBoal9kb2N0b3IKSU5ORVIgSk9JTgogICAgICAgICAgIChTRUxFQ1Qgc3VtKElGKFRJTUUoaGpfYXBwb2ludG1lbnQuZGF0ZSkgPiAnMDk6MDAnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFORCBUSU1FKGhqX2FwcG9pbnRtZW50LmRhdGUpIDwgJzEyOjAwJywgMSwgMCkpICBtb3JuaW5nX2NvdW50LAogICAgICAgICAgICAgICAgICAgSUYoZmxvb3Ioc3VtKElGKFRJTUUoaGpfYXBwb2ludG1lbnQuZGF0ZSkgPiAnMDk6MDAnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFORCBUSU1FKGhqX2FwcG9pbnRtZW50LmRhdGUpIDwgJzEyOjAwJywgMSwgMCkpIC8gMTApID49IDEsIDEsIDApICBtb3JuaW5nX2NyZWRpdCwKICAgICAgICAgICAgICAgICAgIHN1bShJRihUSU1FKGhqX2FwcG9pbnRtZW50LmRhdGUpID4gJzE0OjAwJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBTkQgVElNRShoal9hcHBvaW50bWVudC5kYXRlKSA8ICcxNzowMCcsIDEsIDApKSAgYWZ0ZXJub29uX2NvdW50LAogICAgICAgICAgICAgICAgICAgSUYoZmxvb3Ioc3VtKElGKFRJTUUoaGpfYXBwb2ludG1lbnQuZGF0ZSkgPiAnMTQ6MDAnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFORCBUSU1FKGhqX2FwcG9pbnRtZW50LmRhdGUpIDwgJzE3OjAwJywgMSwgMCkpIC8gMTApID49IDEsIDEsIDApICBhZnRlcm5vb25fY3JlZGl0LAogICAgICAgICAgICAgICAgICAgY291bnQoaGpfYXBwb2ludG1lbnQuaWQpICBjb3VudCwKICAgICAgICAgICAgICAgICAgIGhqX2FwcG9pbnRtZW50LnllYXJzICB5ZWFyLAogICAgICAgICAgICAgICAgICAgaGpfYXBwb2ludG1lbnQubW9udGhzICBtb250aCwKICAgICAgICAgICAgICAgICAgIGRheShoal9hcHBvaW50bWVudC5kYXRlKSAgZGF5LAogICAgICAgICAgICAgICAgICAgd2Vlayhoal9hcHBvaW50bWVudC5kYXRlKSAgd2VlaywKICAgICAgICAgICAgICAgICAgIGRhdGUoaGpfYXBwb2ludG1lbnQuZGF0ZSkgIGRhdGUsCiAgICAgICAgICAgICAgICAgICBoal9hcHBvaW50bWVudC5vZmZpY2VfaWQgIGxvY19uYW1lLAogICAgICAgICAgICAgICAgICAgaGpfYXBwb2ludG1lbnQuZG9jdG9yX2lkICBwcm92X25hbWUsCiAgICAgICAgICAgICAgICAgICAnbW9udGgnICB0eXBlCiAgICAgICAgICAgIEZST00gaGpfYXBwb2ludG1lbnQKICAgICAgICAgICAgSU5ORVIgSk9JTiBoal9vZmZpY2UgT04gaGpfb2ZmaWNlLmlkID0gaGpfYXBwb2ludG1lbnQub2ZmaWNlX2lkCiAgICAgICAgICAgIElOTkVSIEpPSU4gaGpfZG9jdG9yIE9OIGhqX2RvY3Rvci5pZCA9IGhqX2FwcG9pbnRtZW50LmRvY3Rvcl9pZAogICAgICAgICAgICBXSEVSRSA3NjAgPSBoal9hcHBvaW50bWVudC5hY2NvdW50X2lkCiAgICAgICAgICAgICAgQU5EIGhqX2FwcG9pbnRtZW50LmRhdGUgPj0gJzIwMTktMDEtMDFUMDA6MDA6MDBaJwogICAgICAgICAgICAgIEFORCBoal9hcHBvaW50bWVudC5kYXRlIDw9ICcyMDE5LTEyLTMxVDIzOjU5OjU5WicKICAgICAgICAgICAgICBBTkQgaGpfYXBwb2ludG1lbnQuc3RhdHVzID0gJ0Fycml2ZWQnCiAgICAgICAgICAgICAgQU5EIGhqX29mZmljZS5pc19oYWxsc3BhY2UgPSAxCiAgICAgICAgICAgIEdST1VQIEJZIGhqX2FwcG9pbnRtZW50Lm1vbnRocywKICAgICAgICAgICAgICAgICAgICAgaGpfYXBwb2ludG1lbnQueWVhcnMsCiAgICAgICAgICAgICAgICAgICAgIGhqX2FwcG9pbnRtZW50LmRvY3Rvcl9pZAogICAgICAgICAgICBPUkRFUiBCWSBoal9hcHBvaW50bWVudC5kYXRlKSBBUyBvZyBPTiBvZy5wcm92X25hbWUgPSBoal9kb2N0b3IuaWQKSU5ORVIgSk9JTiBoal9vZmZpY2UgT04gb2cubG9jX25hbWUgPSBoal9vZmZpY2UuaWQKV0hFUkUgNzYwID0gaGpfZG9jdG9yLmFjY291bnRfaWQKT1JERVIgQlkgb2cuZGF0ZQo7CgpleHBsYWluClNFTEVDVCBESVNUSU5DVCBoal9kb2N0b3IubmFtZSAgaGpfZG9jdG9yX25hbWUKRlJPTSBoal9hcHBvaW50bWVudCBJTk5FUiBKT0lOIGhqX2RvY3RvciBPTiBoal9kb2N0b3IuaWQgPSBoal9hcHBvaW50bWVudC5kb2N0b3JfaWQKV0hFUkUgNzYwID0gaGpfYXBwb2ludG1lbnQuYWNjb3VudF9pZCBBTkQgaGpfZG9jdG9yLm5hbWUgPiAnJyBPUkRFUiBCWSBoal9kb2N0b3IubmFtZQpMSU1JVCAxMDAKOwoKClNFTEVDVCBhbm9uXzEuY291bnRfdG90YWwgIGNvdW50X3RvdGFsLAogICAgICAgY291bnQoaGpfYXBwb2ludG1lbnQuaWQpICBjb3VudCwKICAgICAgIGhqX2FwcG9pbnRtZW50LnllYXJzICB5ZWFyLAogICAgICAgaGpfYXBwb2ludG1lbnQubW9udGhzICBtb250aCwKICAgICAgIGRheShoal9hcHBvaW50bWVudC5kYXRlKSAgZGF5LAogICAgICAgd2Vlayhoal9hcHBvaW50bWVudC5kYXRlKSAgd2VlaywKICAgICAgIGRhdGUoaGpfYXBwb2ludG1lbnQuZGF0ZSkgIGRhdGUsCiAgICAgICAnbW9udGgnICB0eXBlCkZST00gaGpfYXBwb2ludG1lbnQKSU5ORVIgSk9JTgooU0VMRUNUIGNvdW50KGhqX2FwcG9pbnRtZW50LmlkKSAgY291bnRfdG90YWwsCiAgICAgICAgaGpfYXBwb2ludG1lbnQueWVhcnMgIHllYXIsCiAgICAgICAgaGpfYXBwb2ludG1lbnQubW9udGhzICBtb250aCwKICAgICAgICBkYXkoaGpfYXBwb2ludG1lbnQuZGF0ZSkgIGRheSwKICAgICAgICB3ZWVrKGhqX2FwcG9pbnRtZW50LmRhdGUpICB3ZWVrLAogICAgICAgIGRhdGUoaGpfYXBwb2ludG1lbnQuZGF0ZSkgIGRhdGUKIEZST00gaGpfYXBwb2ludG1lbnQKIFdIRVJFIDc2MCA9IGhqX2FwcG9pbnRtZW50LmFjY291bnRfaWQKICAgQU5EIGhqX2FwcG9pbnRtZW50LmRhdGUgPj0gJzIwMjAtMDEtMDFUMDA6MDA6MDBaJwogICBBTkQgaGpfYXBwb2ludG1lbnQuZGF0ZSA8PSAnMjAyMC0wMy0zMVQyMzo1OTo1OVonCiBHUk9VUCBCWSBoal9hcHBvaW50bWVudC5tb250aHMsCiAgICAgICAgICBoal9hcHBvaW50bWVudC55ZWFycykgQVMgYW5vbl8xIE9OIGFub25fMS55ZWFyID0gaGpfYXBwb2ludG1lbnQueWVhcnMKICAgIEFORCBhbm9uXzEubW9udGggPSBoal9hcHBvaW50bWVudC5tb250aHMKV0hFUkUgNzYwID0gaGpfYXBwb2ludG1lbnQuYWNjb3VudF9pZAogIEFORCBoal9hcHBvaW50bWVudC5kYXRlID49ICcyMDIwLTAxLTAxVDAwOjAwOjAwWicKICBBTkQgaGpfYXBwb2ludG1lbnQuZGF0ZSA8PSAnMjAyMC0wMy0zMVQyMzo1OTo1OVonCiAgQU5EIGhqX2FwcG9pbnRtZW50LnN0YXR1cyA9ICdDYW5jZWxsZWQnCkdST1VQIEJZIGhqX2FwcG9pbnRtZW50Lm1vbnRocywKICAgICAgICAgaGpfYXBwb2ludG1lbnQueWVhcnMKT1JERVIgQlkgaGpfYXBwb2ludG1lbnQuZGF0ZQo7CgojIGZtdDogb2ZmCgoKCgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgYm9vOiBCb29zdAogIGFnYTogQWRHcm91cEFkCiAgdHlwZTogQWRUeXBlCiAgcmVzcG9uc2l2ZUNvdW50OiBudW1iZXIK</text>
+        <text encoding="base64">IyBmbXQ6IG9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbXBsYXRlIGZyb20gJ3dlYi92aWV3cy9hcnJvd2x5dGljcy9zZXR0aW5ncy9zZXNzaW9ucy9hcnJvdy1zZXNzLWNvbmZpZy5kaWFsb2cuaHRtbCcK</text>
+        <text encoding="base64">IyBleHBsYWluCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgb25FZGl0KGV2OiBhbnksIHJvdzogUmV2ZW51ZVBhcmVudEdyb3VwKSB7CiAgICBsZXQgbmFtZQogICAgaWYgKCFyb3cpIHsKICAgICAgcm93ID0gbWUoUmV2ZW51ZVBhcmVudEdyb3VwLCB7fSwgYXBwLmFjY291bnQpCiAgICAgIG5hbWUgPSAnQ3JlYXRlIFByb2NlZHVyZSBHcm91cHMnCiAgICB9IGVsc2UgewogICAgICBuYW1lID0gcm93Lm5hbWUKICAgIH0KCiAgICBvcGVuRGlhbChldiwgUmV2ZW51ZVBhcmVudEdyb3Vwc0RpYWxvZywgeyB0aXRsZTogbmFtZSB9LCB7IHJvdyB9KS50aGVuKAogICAgICByZXMgPT4gewogICAgICAgIHJlcy5zYXZlKCkKICAgICAgfSwKICAgICAgSUdOT1JFX0NBTkNFTCwKICAgICkKICB9Cg==</text>
+        <text encoding="base64">ZXhwbGFpbgpzZWxlY3QKICAgIHJvdW5kKHN1bShoal9jaGFyZ2UuY2hhcmdlX2FtdCksIDIpIGNvdW50CiAgLCBjYXNlIHdoZW4gaGpfY2hhcmdlLmlzYmFja291dAogICAgICAgICAgICAgdGhlbiB5ZWFyKGhqX2NoYXJnZS5iYWNrb3V0X2RhdGUpCiAgICAgICAgIGVsc2UgeWVhcihoal9jaGFyZ2UuZGF0ZSkgZW5kICB5ZWFyCiAgLCBjYXNlIHdoZW4gaGpfY2hhcmdlLmlzYmFja291dAogICAgICAgICAgICAgdGhlbiBtb250aChoal9jaGFyZ2UuYmFja291dF9kYXRlKQogICAgICAgICBlbHNlIG1vbnRoKGhqX2NoYXJnZS5kYXRlKSBlbmQgbW9udGgKICAsIGNhc2Ugd2hlbiBoal9jaGFyZ2UuaXNiYWNrb3V0CiAgICAgICAgICAgICB0aGVuIGRheShoal9jaGFyZ2UuYmFja291dF9kYXRlKQogICAgICAgICBlbHNlIGRheShoal9jaGFyZ2UuZGF0ZSkgZW5kICAgZGF5CiAgLCBjYXNlIHdoZW4gaGpfY2hhcmdlLmlzYmFja291dAogICAgICAgICAgICAgdGhlbiB3ZWVrKGhqX2NoYXJnZS5iYWNrb3V0X2RhdGUpCiAgICAgICAgIGVsc2Ugd2Vlayhoal9jaGFyZ2UuZGF0ZSkgZW5kICB3ZWVrCiAgLCBjYXNlIHdoZW4gaGpfY2hhcmdlLmlzYmFja291dAogICAgICAgICAgICAgdGhlbiBkYXRlKGhqX2NoYXJnZS5iYWNrb3V0X2RhdGUpCiAgICAgICAgIGVsc2UgZGF0ZShoal9jaGFyZ2UuZGF0ZSkgZW5kICBkYXRlCiAgLCAnbW9udGgnICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0eXBlCmZyb20gaGpfY2hhcmdlCndoZXJlIDc2MCA9IGhqX2NoYXJnZS5hY2NvdW50X2lkCiAgYW5kIChoal9jaGFyZ2UuZGF0ZSBiZXR3ZWVuICcyMDIwLTA0LTAxVDAwOjAwOjAwWicgYW5kICcyMDIwLTA2LTMwVDIzOjU5OjU5WicgYW5kCiAgICAgICAoaGpfY2hhcmdlLmJhY2tvdXRfZGF0ZSBiZXR3ZWVuICcyMDIwLTA0LTAxVDAwOjAwOjAwWicgYW5kICcyMDIwLTA2LTMwVDIzOjU5OjU5Wicgb3IgaGpfY2hhcmdlLmlzYmFja291dCA9IDApIG9yCiAgICAgICBoal9jaGFyZ2UuYmFja291dF9kYXRlIGJldHdlZW4gJzIwMjAtMDQtMDFUMDA6MDA6MDBaJyBhbmQgJzIwMjAtMDYtMzBUMjM6NTk6NTlaJykKZ3JvdXAgYnkKICAgIGNhc2Ugd2hlbiBoal9jaGFyZ2UuaXNiYWNrb3V0CiAgICAgICAgICAgICB0aGVuIG1vbnRoKGhqX2NoYXJnZS5iYWNrb3V0X2RhdGUpCiAgICAgICAgIGVsc2UgbW9udGgoaGpfY2hhcmdlLmRhdGUpIGVuZAogICwgY2FzZSB3aGVuIGhqX2NoYXJnZS5pc2JhY2tvdXQKICAgICAgICAgICAgIHRoZW4geWVhcihoal9jaGFyZ2UuYmFja291dF9kYXRlKQogICAgICAgICBlbHNlIHllYXIoaGpfY2hhcmdlLmRhdGUpIGVuZAoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIDxwYWdlLXN1Ym1pdC1yaWdodD4KICAgICAgICAgICAgICA8bWQtYnV0dG9uCiAgICAgICAgICAgICAgICBjbGFzcz0ibWQtaWNvbi1idXR0b24iCiAgICAgICAgICAgICAgICB0eXBlPSJidXR0b24iCiAgICAgICAgICAgICAgICBhcmlhLWxhYmVsPSJkZWxldGUiCiAgICAgICAgICAgICAgICBuZy1pZj0iY3RybC5yb3cuaWQiCiAgICAgICAgICAgICAgICAoY2xpY2spPSJjdHJsLm9uUmVtb3ZlKCRldmVudCkiPgogICAgICAgICAgICAgICAgPG1kLWljb24gbWQtc3ZnLWljb249ImRlbGV0ZSI+PC9tZC1pY29uPgogICAgICAgICAgICAgIDwvbWQtYnV0dG9uPgogICAgICAgICAgICA8L3BhZ2Utc3VibWl0LXJpZ2h0PgogICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgQ2hhcmdlLnllYXJzLAogICAgICBDaGFyZ2UubW9udGhzLAogICAgICBDaGFyZ2Uud2Vla3MsCiAgICAgIENoYXJnZS5kYXlzLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgQ2hhcmdlLmNpZCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucm93KQogICAgY29uc29sZS5sb2codGhpcy5yb3cubmFtZSkKCg==</text>
+        <text encoding="base64">c2FfYWRkX2luZGV4KENoYXJnZS5kYXRlLCBDaGFyZ2UuaXNiYWNrb3V0LCBDaGFyZ2UuYmFja291dF9kYXRlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMucm93Lm5hbWUgPSB0aGlzLnRvcC5uYW1lCiAgICBjb25zb2xlLmxvZyh0aGlzLnRvcCkKICAgIGNvbnNvbGUubG9nKHRoaXMucm93KQogICAgY29uc29sZS5sb2codGhpcy5yb3cubmFtZSkK</text>
+        <text encoding="base64">ICBwcmludChmaWx0ZXJzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMucm93LmNoaWxkcmVuID0gdGhpcy5vdXRnb2luZygpCg==</text>
+        <text encoding="base64">ICAgIC5maWx0ZXIofkNoYXJnZS5pc2JhY2tvdXQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//top.name</text>
@@ -435,13 +455,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>asdf</last-search>
+      <last-search>backout_date</last-search>
       <last-offset />
-      <last-pattern>asdf</last-pattern>
+      <last-pattern>backout_date</last-pattern>
       <last-replace>top.name</last-replace>
       <last-substitute>row.name</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
