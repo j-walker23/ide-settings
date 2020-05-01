@@ -247,12 +247,12 @@
         <mark key="]" line="48" column="11" />
         <mark key="." line="48" column="11" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" timestamp="1588361124063">
-        <mark key="'" line="12" column="6" />
-        <mark key="[" line="56" column="26" />
-        <mark key="]" line="57" column="16" />
-        <mark key="." line="57" column="15" />
-        <mark key="^" line="57" column="16" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" timestamp="1588364912739">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="70" column="31" />
+        <mark key="]" line="71" column="28" />
+        <mark key="." line="71" column="27" />
+        <mark key="^" line="71" column="28" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/integs/rosetta.py" timestamp="1588361338883" />
       <file name="/console_1" timestamp="1588353605751">
@@ -267,7 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="487" column="58" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
       <jump line="494" column="50" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
       <jump line="502" column="5" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
       <jump line="514" column="65" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
@@ -367,15 +366,16 @@
       <jump line="67" column="0" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
       <jump line="12" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" />
       <jump line="35" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
+      <jump line="57" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>Integration</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICBhbmQgbWNhLmlkIGlzIG51bGwK</text>
       </register>
       <register name="-" type="4">
-        <text>Integration</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -384,34 +384,34 @@
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">NDY0Cg==</text>
+        <text encoding="base64">ICBhbmQgbWNhLmlkIGlzIG51bGwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">d2hlcmUgCg==</text>
+        <text encoding="base64">NDY0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSByb3NldHRhX2F0dGFjaG1lbnRzIHIKd2hlcmUgCg==</text>
+        <text encoding="base64">d2hlcmUgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSByb3NldHRhX2F0dGFjaG1lbnRzIHIKd2hlcmUgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgQ2hhcmdlLmlkLmxhYmVsKCJjaGFyZ2VfaWQiKSwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBzZXRfYWNjKEFjY291bnQucXVlcnkuZ2V0KDc2MCkpCiAgZmllbGQgPSBDaGFyZ2UucmV2ZW51ZV9jZW50ZXIKICByb3dzID0gKAogICAgQ2hhcmdlLnNlYXJjaCgpCiAgICAud2l0aF9lbnRpdGllcyhmaWVsZCkKICAgIC5kaXN0aW5jdChmaWVsZCkKICAgIC5vcmRlcl9ieShmaWVsZCkKICAgIC5saW1pdCgzMCkKICAgIC5kZWJ1Z19wcmludCgpCiAgICAuYWxsKCkKICApCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBzZXJ2ZXIgewogICAgbGlzdGVuIDgwOwogICAgbGlzdGVuIFs6Ol06ODA7CiAgICBzZXJ2ZXJfbmFtZSBsb2NhbC5zb2NpYWxjbGltZS5jb20gd2ViaG9vay5zb2NpYWxjbGltZS5jb207CiAgICByZXR1cm4gMzAxIGh0dHBzOi8vJGhvc3QkcmVxdWVzdF91cmk7CiAgfQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgQ2hhcmdlLmlkLmxhYmVsKCJjaGFyZ2VfaWQiKSwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBzZXRfYWNjKEFjY291bnQucXVlcnkuZ2V0KDc2MCkpCiAgZmllbGQgPSBDaGFyZ2UucmV2ZW51ZV9jZW50ZXIKICByb3dzID0gKAogICAgQ2hhcmdlLnNlYXJjaCgpCiAgICAud2l0aF9lbnRpdGllcyhmaWVsZCkKICAgIC5kaXN0aW5jdChmaWVsZCkKICAgIC5vcmRlcl9ieShmaWVsZCkKICAgIC5saW1pdCgzMCkKICAgIC5kZWJ1Z19wcmludCgpCiAgICAuYWxsKCkKICApCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBzZXJ2ZXIgewogICAgbGlzdGVuIDgwOwogICAgbGlzdGVuIFs6Ol06ODA7CiAgICBzZXJ2ZXJfbmFtZSBsb2NhbC5zb2NpYWxjbGltZS5jb20gd2ViaG9vay5zb2NpYWxjbGltZS5jb207CiAgICByZXR1cm4gMzAxIGh0dHBzOi8vJGhvc3QkcmVxdWVzdF91cmk7CiAgfQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvY2F0aW9uIC8gewogICAgICAgIHJldHVybiAzMDEgaHR0cHM6Ly8kaG9zdCRyZXF1ZXN0X3VyaTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
