@@ -201,11 +201,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" timestamp="1588274400561">
-        <mark key="[" line="2028" column="0" />
-        <mark key="]" line="2028" column="0" />
-        <mark key="." line="2028" column="0" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/gce/startup-script.sh" timestamp="1588286179073">
         <mark key="[" line="292" column="0" />
         <mark key="]" line="292" column="0" />
@@ -228,6 +223,12 @@
         <mark key="." line="164" column="10" />
         <mark key="^" line="164" column="11" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" timestamp="1588361447327">
+        <mark key="[" line="45" column="40" />
+        <mark key="]" line="45" column="40" />
+        <mark key="^" line="45" column="40" />
+        <mark key="." line="45" column="39" />
+      </file>
       <file name="/charges" timestamp="1588353605695">
         <mark key="[" line="0" column="0" />
       </file>
@@ -236,13 +237,6 @@
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="5" />
-      </file>
-      <file name="/usr/local/etc/nginx/nginx.conf" timestamp="1588286023172">
-        <mark key="'" line="87" column="23" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="41" column="4" />
-        <mark key="." line="43" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1588359907479">
         <mark key="[" line="0" column="0" />
@@ -253,13 +247,14 @@
         <mark key="]" line="48" column="11" />
         <mark key="." line="48" column="11" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" timestamp="1588357463380">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" timestamp="1588361124063">
         <mark key="'" line="12" column="6" />
-        <mark key="[" line="48" column="1" />
-        <mark key="]" line="52" column="29" />
-        <mark key="^" line="52" column="29" />
-        <mark key="." line="52" column="28" />
+        <mark key="[" line="56" column="26" />
+        <mark key="]" line="57" column="16" />
+        <mark key="." line="57" column="15" />
+        <mark key="^" line="57" column="16" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/rosetta.py" timestamp="1588361338883" />
       <file name="/console_1" timestamp="1588353605751">
         <mark key="[" line="0" column="0" />
       </file>
@@ -376,11 +371,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="+" type="2">
+        <text encoding="base64">NDY0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IGl0IGNhbiBjaG9vc2UgdGhlIHJpZ2h0IG9uZQ==</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -389,34 +384,34 @@
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgQ2hhcmdlLmlkLmxhYmVsKCJjaGFyZ2VfaWQiKSwK</text>
+        <text encoding="base64">NDY0Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzZXRfYWNjKEFjY291bnQucXVlcnkuZ2V0KDc2MCkpCiAgZmllbGQgPSBDaGFyZ2UucmV2ZW51ZV9jZW50ZXIKICByb3dzID0gKAogICAgQ2hhcmdlLnNlYXJjaCgpCiAgICAud2l0aF9lbnRpdGllcyhmaWVsZCkKICAgIC5kaXN0aW5jdChmaWVsZCkKICAgIC5vcmRlcl9ieShmaWVsZCkKICAgIC5saW1pdCgzMCkKICAgIC5kZWJ1Z19wcmludCgpCiAgICAuYWxsKCkKICApCg==</text>
+        <text encoding="base64">d2hlcmUgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzZXJ2ZXIgewogICAgbGlzdGVuIDgwOwogICAgbGlzdGVuIFs6Ol06ODA7CiAgICBzZXJ2ZXJfbmFtZSBsb2NhbC5zb2NpYWxjbGltZS5jb20gd2ViaG9vay5zb2NpYWxjbGltZS5jb207CiAgICByZXR1cm4gMzAxIGh0dHBzOi8vJGhvc3QkcmVxdWVzdF91cmk7CiAgfQo=</text>
+        <text encoding="base64">ZnJvbSByb3NldHRhX2F0dGFjaG1lbnRzIHIKd2hlcmUgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvY2F0aW9uIC8gewogICAgICAgIHJldHVybiAzMDEgaHR0cHM6Ly8kaG9zdCRyZXF1ZXN0X3VyaTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgQ2hhcmdlLmlkLmxhYmVsKCJjaGFyZ2VfaWQiKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAzMDEgaHR0cDovL2RvbWFpbi5jb20kcmVxdWVzdF91cmk7Cg==</text>
+        <text encoding="base64">ICBzZXRfYWNjKEFjY291bnQucXVlcnkuZ2V0KDc2MCkpCiAgZmllbGQgPSBDaGFyZ2UucmV2ZW51ZV9jZW50ZXIKICByb3dzID0gKAogICAgQ2hhcmdlLnNlYXJjaCgpCiAgICAud2l0aF9lbnRpdGllcyhmaWVsZCkKICAgIC5kaXN0aW5jdChmaWVsZCkKICAgIC5vcmRlcl9ieShmaWVsZCkKICAgIC5saW1pdCgzMCkKICAgIC5kZWJ1Z19wcmludCgpCiAgICAuYWxsKCkKICApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgcmVkaXJlY3RzIGJvdGggd3d3IGFuZCBub24td3d3IHRvIHNzbCBwb3J0IHdpdGggaHR0cCAoTk9UIEhUVFBTLCBmb3JjaW5nIGVycm9yIDQ5NykK</text>
+        <text encoding="base64">ICBzZXJ2ZXIgewogICAgbGlzdGVuIDgwOwogICAgbGlzdGVuIFs6Ol06ODA7CiAgICBzZXJ2ZXJfbmFtZSBsb2NhbC5zb2NpYWxjbGltZS5jb20gd2ViaG9vay5zb2NpYWxjbGltZS5jb207CiAgICByZXR1cm4gMzAxIGh0dHBzOi8vJGhvc3QkcmVxdWVzdF91cmk7CiAgfQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGxvY2F0aW9uIC8gewogICAgICAgIHJldHVybiAzMDEgaHR0cHM6Ly8kaG9zdCRyZXF1ZXN0X3VyaTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
