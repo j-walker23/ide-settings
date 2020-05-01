@@ -236,17 +236,11 @@
       <file name="/Dummy.txt" timestamp="1588359907479">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/invites/med_imports_view.py" timestamp="1588369691139">
-        <mark key="[" line="82" column="31" />
-        <mark key="]" line="82" column="32" />
-        <mark key="^" line="82" column="32" />
-        <mark key="." line="82" column="31" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1588356747947">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="48" column="11" />
-        <mark key="]" line="48" column="11" />
-        <mark key="." line="48" column="11" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_45.py" timestamp="1588373361760">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/gce/startup-script-back.sh" timestamp="1588365890063" />
       <file name="$USER_HOME$/code/sc/web/sc/app/tasks/invite.py" timestamp="1588368415907">
@@ -255,7 +249,7 @@
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="49" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" timestamp="1588364912739">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" timestamp="1588373181283">
         <mark key="'" line="57" column="0" />
         <mark key="[" line="70" column="31" />
         <mark key="]" line="71" column="28" />
@@ -370,8 +364,13 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>prod</text>
+      <register name="+" type="2">
+        <text>from sc.sql import Account, MessageLanguage
+
+Account.search(Mess)
+
+
+MessageLanguage.search()</text>
       </register>
       <register name="-" type="4">
         <text>prod</text>
@@ -383,34 +382,39 @@
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJvd3MgPSBbXQogICAgZm9yIHIgaW4gcS5hbGwoKToKICAgICAgcm93ID0geyoqci5yb3csICJtZXNzYWdlX3R5cGUiOiAiam9obiJ9CiAgICAgIHJvd3MuYXBwZW5kKHJvdykKCg==</text>
+        <text>from sc.sql import Account, MessageLanguage
+
+Account.search(Mess)
+
+
+MessageLanguage.search()</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQobGVuKHJvd3MpKQo=</text>
+        <text encoding="base64">ICAgIHJvd3MgPSBbXQogICAgZm9yIHIgaW4gcS5hbGwoKToKICAgICAgcm93ID0geyoqci5yb3csICJtZXNzYWdlX3R5cGUiOiAiam9obiJ9CiAgICAgIHJvd3MuYXBwZW5kKHJvdykKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcm93WycnXSA9ICdqb2huJwo=</text>
+        <text encoding="base64">ICAgICMgcHJpbnQobGVuKHJvd3MpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcm93ID0geyoqbWUucm93fQo=</text>
+        <text encoding="base64">ICAgICAgcm93WycnXSA9ICdqb2huJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFjY19pZCA9IE1lZEltcG9ydC5nZXQoXykuYWNjb3VudF9pZAogICAgbWVkX2Vycm9ycyA9IE1lZEVycm9yLnNlYXJjaCgKICAgICAgTWVkRXJyb3IubWVkX2ltcG9ydF9pZCA9PSBfLCB0eXBlPSJNaXNtYXRjaCIsIGRlbGV0ZWQ9Tm9uZQogICAgKQogICAgZm9yIG1lIGluIG1lZF9lcnJvcnM6CiAgICAgIHJvd3MuYXBwZW5kKG1lLnJvdykKCg==</text>
+        <text encoding="base64">ICAgICAgcm93ID0geyoqbWUucm93fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhbmQgbWNhLmlkIGlzIG51bGwK</text>
+        <text encoding="base64">ICAgIGFjY19pZCA9IE1lZEltcG9ydC5nZXQoXykuYWNjb3VudF9pZAogICAgbWVkX2Vycm9ycyA9IE1lZEVycm9yLnNlYXJjaCgKICAgICAgTWVkRXJyb3IubWVkX2ltcG9ydF9pZCA9PSBfLCB0eXBlPSJNaXNtYXRjaCIsIGRlbGV0ZWQ9Tm9uZQogICAgKQogICAgZm9yIG1lIGluIG1lZF9lcnJvcnM6CiAgICAgIHJvd3MuYXBwZW5kKG1lLnJvdykKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">NDY0Cg==</text>
+        <text encoding="base64">ICBhbmQgbWNhLmlkIGlzIG51bGwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">d2hlcmUgCg==</text>
+        <text encoding="base64">NDY0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSByb3NldHRhX2F0dGFjaG1lbnRzIHIKd2hlcmUgCg==</text>
+        <text encoding="base64">d2hlcmUgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
