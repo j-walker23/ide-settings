@@ -201,29 +201,26 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588359907479">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Python Console" timestamp="1588378878383">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console" timestamp="1588377626875">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1588378290397" />
+      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1588380370889">
+        <mark key="'" line="49" column="27" />
+        <mark key="[" line="52" column="54" />
+        <mark key="]" line="52" column="54" />
+        <mark key="^" line="52" column="54" />
+        <mark key="." line="52" column="53" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_45.py" timestamp="1588373361760">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1588357468862">
-        <mark key="'" line="35" column="7" />
-        <mark key="[" line="94" column="1" />
-        <mark key="]" line="108" column="0" />
-        <mark key="^" line="108" column="0" />
-        <mark key="." line="108" column="0" />
-      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/mods/celeryconfig.py" timestamp="1588380324417" />
       <file name="$USER_HOME$/code/sc/web/sc/sql/integ/__init__.py" timestamp="1588360259183">
         <mark key="[" line="164" column="3" />
         <mark key="]" line="164" column="11" />
@@ -249,14 +246,15 @@
         <mark key="." line="71" column="27" />
         <mark key="^" line="71" column="28" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1588369924269">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="4" />
-        <mark key="^" line="0" column="5" />
+      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1588380376528">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="3" />
+        <mark key="^" line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/coms/ext/sio.py" timestamp="1588380431788" />
+      <file name="$USER_HOME$/code/sc/web/sc/mods/config.py" timestamp="1588380401356" />
       <file name="$USER_HOME$/code/sc/web/static/web/vendors.ts" timestamp="1588378517016">
-        <mark key="'" line="28" column="18" />
         <mark key="[" line="8" column="30" />
         <mark key="]" line="9" column="26" />
         <mark key="^" line="9" column="26" />
@@ -264,8 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="502" column="5" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
-      <jump line="514" column="65" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
       <jump line="521" column="11" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
       <jump line="528" column="52" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
       <jump line="534" column="36" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
@@ -364,20 +360,17 @@
       <jump line="35" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
       <jump line="57" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" />
       <jump line="27" column="18" filename="$USER_HOME$/code/sc/web/static/web/vendors.ts" />
+      <jump line="39" column="7" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
+      <jump line="49" column="27" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text>from sc.sql import Account, MessageLanguage
-
-Account.search(Mess)
-
-
-MessageLanguage.search()</text>
+      <register name="+" type="4">
+        <text>104.155.164.241</text>
       </register>
       <register name="-" type="4">
-        <text>prod</text>
+        <text>104.155.164.241</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
