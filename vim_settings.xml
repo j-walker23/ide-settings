@@ -246,13 +246,17 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_45.py" timestamp="1588373361760">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/code/sc/web/static/web/web.ts" timestamp="1588486886870">
+        <mark key="[" line="215" column="0" />
+        <mark key="]" line="215" column="0" />
+        <mark key="." line="215" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/web.ts" timestamp="1588482273632" />
+      <file name="$USER_HOME$/code/sc/web/static/common/common.conf.ts" timestamp="1588486863774">
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="^" line="130" column="45" />
+        <mark key="." line="131" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/coms/ext/sio.py" timestamp="1588380431788" />
       <file name="$USER_HOME$/code/sc/web/sc/mods/config.py" timestamp="1588380401356" />
       <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1588480545127" />
@@ -363,10 +367,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICR1aVJvdXRlci51cmxTZXJ2aWNlLnJ1bGVzLm90aGVyd2lzZSh7IHN0YXRlOiBjb25zdGFudHMuZGVmYXVsdFN0YXRlIH0pCg==</text>
+        <text encoding="base64">CiAgICBpZiAoYXBwLnVzZXIuaXNfYmlsbGluZ19vbmx5IHx8IGFwcC51c2VyLmJpbGxpbmdfbmV4dCkKICAgICAgdGhpcy5kZWZhdWx0U3RhdGUgPSAnd2ViLnNldHRpbmdzLmJpbGxpbmctc291cmNlcycKICAgIGVsc2UgaWYgKGFwcC51c2VyLmlzX2ludml0ZV9vbmx5IHx8IGFwcC51c2VyLmlzX3NlcnZpY2VfdXNlcikKICAgICAgaWYgKGFwcC5hY2NvdW50LmlzX21lZGljYWwpIHRoaXMuZGVmYXVsdFN0YXRlID0gJ3dlYi5tZWRpY2FsLWludml0ZScKICAgICAgZWxzZSB0aGlzLmRlZmF1bHRTdGF0ZSA9ICd3ZWIuaW52aXRlJwoK</text>
       </register>
       <register name="-" type="4">
-        <text>'home'</text>
+        <text>app</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -375,39 +379,34 @@
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICR1aVJvdXRlci51cmxTZXJ2aWNlLnJ1bGVzLm90aGVyd2lzZSh7IHN0YXRlOiBjb25zdGFudHMuZGVmYXVsdFN0YXRlIH0pCg==</text>
+        <text encoding="base64">CiAgICBpZiAoYXBwLnVzZXIuaXNfYmlsbGluZ19vbmx5IHx8IGFwcC51c2VyLmJpbGxpbmdfbmV4dCkKICAgICAgdGhpcy5kZWZhdWx0U3RhdGUgPSAnd2ViLnNldHRpbmdzLmJpbGxpbmctc291cmNlcycKICAgIGVsc2UgaWYgKGFwcC51c2VyLmlzX2ludml0ZV9vbmx5IHx8IGFwcC51c2VyLmlzX3NlcnZpY2VfdXNlcikKICAgICAgaWYgKGFwcC5hY2NvdW50LmlzX21lZGljYWwpIHRoaXMuZGVmYXVsdFN0YXRlID0gJ3dlYi5tZWRpY2FsLWludml0ZScKICAgICAgZWxzZSB0aGlzLmRlZmF1bHRTdGF0ZSA9ICd3ZWIuaW52aXRlJwoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCB7IHVzZXIsIGFjY291bnQsIGxpY2Vuc2UgfSA9IGFwcAogICAgYXBwLmFjY291bnQgPSBtZShBY2NvdW50LCBhY2NvdW50KQogICAgYXBwLnVzZXIgPSBtZShVc2VyLCB1c2VyKQogICAgYXBwLmxpY2Vuc2UgPSBtZShMaWNlbnNlLCBsaWNlbnNlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGFjYy5pc19tZWRpY2FsKSByZXQgPSAnd2ViLm1lZGljYWwtaW52aXRlJwogICAgICBlbHNlIHRoaXMuZGVmYXVsdFN0YXRlID0gJ3dlYi5pbnZpdGUnCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICoK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICoK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAjICdyYWJiaXRfdXJsJzogJ2FtcXA6Ly9zZXJ2ZXI6eW1OM3dQQUcyTjRNQDEwNC4xNTUuMTY0LjI0MScsCiAgIyAnYnJva2VyX3VybCc6ICdhbXFwOi8vc2VydmVyOnltTjN3UEFHMk40TUAxMDQuMTU1LjE2NC4yNDEnLAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICR1aVJvdXRlci51cmxTZXJ2aWNlLnJ1bGVzLm90aGVyd2lzZSh7IHN0YXRlOiBjb25zdGFudHMuZGVmYXVsdFN0YXRlIH0pCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgaWYgKGFjYy5pc19tZWRpY2FsKSByZXQgPSAnd2ViLm1lZGljYWwtaW52aXRlJwogICAgICBlbHNlIHRoaXMuZGVmYXVsdFN0YXRlID0gJ3dlYi5pbnZpdGUnCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAndGFza19hbHdheXNfZWFnZXInOiBUcnVlLAogICd0YXNrX2VhZ2VyX3Byb3BhZ2F0ZXMnOiBUcnVlLAo=</text>
+        <text encoding="base64">ICAgICoK</text>
       </register>
       <register name="9" type="2">
-        <text>from sc.sql import Account, MessageLanguage
-
-Account.search(Mess)
-
-
-MessageLanguage.search()</text>
+        <text encoding="base64">ICAgICoK</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
