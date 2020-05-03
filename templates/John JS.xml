@@ -81,4 +81,11 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="perm" value="data: {&#10;  permissions: {&#10;    only: PermRoles.$perm$,&#10;  },&#10;},&#10;" description="ui-router data permissions" toReformat="true" toShortenFQNames="true">
+    <variable name="perm" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>

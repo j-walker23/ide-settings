@@ -116,6 +116,7 @@
         <entry>backout_date</entry>
         <entry>char</entry>
         <entry>asdf</entry>
+        <entry>ctrl.roles</entry>
       </history-search>
       <history-cmd>
         <entry>SplitVertically</entry>
@@ -162,6 +163,7 @@
         <entry>%s//None</entry>
         <entry>%s//top.name</entry>
         <entry>action SplitVertically</entry>
+        <entry>%s//$root.roles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -201,129 +203,116 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/static/web/services/softroles.ts" timestamp="1588495918423">
-        <mark key="'" line="13" column="2" />
+      <file name="$USER_HOME$/code/sc/web/static/common/models/account.model.ts" timestamp="1588515418556">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="^" line="116" column="34" />
+        <mark key="." line="118" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/user-accounts/invite-user/invite-user.ts" timestamp="1588496026018">
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="0" />
-        <mark key="." line="150" column="0" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/reviews/item/fb-comments/fb-comments.html" timestamp="1588514355479">
+        <mark key="'" line="120" column="11" />
+        <mark key="[" line="102" column="127" />
+        <mark key="]" line="101" column="40" />
+        <mark key="." line="101" column="39" />
+        <mark key="^" line="101" column="40" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/unsubscribe/unsubscribe.ts" timestamp="1588509926993">
+      <file name="$USER_HOME$/code/sc/web/static/web/views/settings/billing/subscription/config/invite/invite-customer.dialog.ts" timestamp="1588515785231" />
+      <file name="$USER_HOME$/code/sc/web/static/web/permissions/permissions.ts" timestamp="1588517330626">
+        <mark key="'" line="37" column="1" />
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="12" column="20" />
+        <mark key="." line="12" column="19" />
+        <mark key="^" line="12" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/nav-toolbar.html" timestamp="1588516301342">
+        <mark key="[" line="110" column="40" />
+        <mark key="]" line="110" column="40" />
+        <mark key="." line="110" column="39" />
+        <mark key="^" line="110" column="40" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/reviews/item/fb-comments/fb-comments.ts" timestamp="1588514305220" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/dashboard/dashboard.html" timestamp="1588514558208">
+        <mark key="[" line="167" column="41" />
+        <mark key="]" line="167" column="46" />
+        <mark key="." line="167" column="45" />
+        <mark key="^" line="167" column="46" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/common/common.conf.ts" timestamp="1588515648280">
+        <mark key="'" line="170" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/dashboard/dashboard.ts" timestamp="1588514548597">
+        <mark key="[" line="156" column="11" />
+        <mark key="]" line="156" column="30" />
+        <mark key="." line="156" column="29" />
+        <mark key="^" line="156" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/services/softroles.ts" timestamp="1588517239554">
+        <mark key="'" line="15" column="37" />
+        <mark key="[" line="29" column="31" />
+        <mark key="]" line="30" column="32" />
+        <mark key="." line="30" column="31" />
+        <mark key="^" line="30" column="32" />
+      </file>
+      <file name="/console" timestamp="1588515213954">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/unsubscribe/unsubscribe.ts" timestamp="1588517441135">
         <mark key="[" line="40" column="24" />
         <mark key="]" line="40" column="35" />
         <mark key="." line="40" column="34" />
         <mark key="^" line="40" column="35" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/settings/settings.ts" timestamp="1588496073694">
-        <mark key="[" line="74" column="27" />
-        <mark key="]" line="74" column="27" />
-        <mark key="." line="74" column="27" />
+      <file name="$USER_HOME$/code/sc/web/static/common/models/user.model.ts" timestamp="1588517081767">
+        <mark key="[" line="215" column="6" />
+        <mark key="]" line="215" column="14" />
+        <mark key="^" line="215" column="14" />
+        <mark key="." line="215" column="13" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/models/user.model.ts" timestamp="1588510204739">
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="^" line="102" column="52" />
-        <mark key="." line="97" column="0" />
+      <file name="$USER_HOME$/code/sc/web/static/web/web.conf.ts" timestamp="1588516990823">
+        <mark key="'" line="124" column="28" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="84" column="61" />
+        <mark key="." line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/invite/medical/invite.ts" timestamp="1588509940797">
-        <mark key="[" line="28" column="6" />
-        <mark key="]" line="34" column="6" />
-        <mark key="." line="34" column="5" />
-        <mark key="^" line="34" column="6" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/sad-face/sad-face.ts" timestamp="1588514524138">
+        <mark key="[" line="66" column="14" />
+        <mark key="]" line="66" column="36" />
+        <mark key="." line="66" column="35" />
+        <mark key="^" line="66" column="36" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/node_modules/@types/angular-permission/index.d.ts" timestamp="1588508720482">
-        <mark key="'" line="100" column="24" />
-        <mark key="[" line="103" column="14" />
-        <mark key="]" line="103" column="0" />
-        <mark key="^" line="103" column="0" />
-        <mark key="." line="103" column="0" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/settings/settings.html" timestamp="1588516893316">
+        <mark key="[" line="143" column="15" />
+        <mark key="]" line="143" column="17" />
+        <mark key="." line="143" column="16" />
+        <mark key="^" line="143" column="17" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/web.conf.ts" timestamp="1588510254966">
-        <mark key="'" line="103" column="8" />
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="^" line="127" column="72" />
-        <mark key="." line="127" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e48b375-fdd8-413d-be5c-4a28f85cc940/console.sql" timestamp="1588515218020">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/disabled-account/disabled-account.dialog.ts" timestamp="1588496069104">
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="8" column="27" />
-        <mark key="." line="8" column="26" />
-        <mark key="^" line="8" column="27" />
+      <file name="$USER_HOME$/code/sc/web/static/web/web.nav.ts" timestamp="1588515754751">
+        <mark key="[" line="465" column="8" />
+        <mark key="]" line="465" column="30" />
+        <mark key="." line="465" column="29" />
+        <mark key="^" line="465" column="30" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/typings/ng-modules.d.ts" timestamp="1588508767114">
-        <mark key="[" line="95" column="31" />
-        <mark key="]" line="95" column="44" />
-        <mark key="." line="95" column="43" />
-        <mark key="^" line="95" column="44" />
+      <file name="$USER_HOME$/code/sc/web/static/web/permissions/permissions.config.ts" timestamp="1588517526615">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="23" column="39" />
+        <mark key="]" line="23" column="46" />
+        <mark key="^" line="23" column="46" />
+        <mark key="." line="23" column="45" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/booted/booted-data.ts" timestamp="1588507875631">
-        <mark key="'" line="59" column="1" />
-        <mark key="[" line="56" column="2" />
-        <mark key="]" line="56" column="6" />
-        <mark key="^" line="56" column="6" />
-        <mark key="." line="56" column="5" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/permissions/permissions.ts" timestamp="1588508129401">
-        <mark key="'" line="37" column="1" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="27" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/nav-toolbar.ts" timestamp="1588496071218">
-        <mark key="[" line="64" column="27" />
-        <mark key="]" line="64" column="27" />
-        <mark key="." line="64" column="27" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/settings/preferences/preferences.ts" timestamp="1588496076729">
-        <mark key="[" line="38" column="27" />
-        <mark key="]" line="38" column="27" />
-        <mark key="." line="38" column="27" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/web.ts" timestamp="1588509864240">
-        <mark key="'" line="286" column="10" />
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="." line="118" column="0" />
-        <mark key="^" line="115" column="14" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/common.conf.ts" timestamp="1588510076568">
-        <mark key="'" line="172" column="13" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/constants.ts" timestamp="1588496591776">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/invite/invite.ts" timestamp="1588509937074">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/web.nav.ts" timestamp="1588509838537">
-        <mark key="[" line="207" column="0" />
-        <mark key="]" line="207" column="0" />
-        <mark key="." line="207" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/permissions/permissions.config.ts" timestamp="1588509281606">
-        <mark key="[" line="18" column="46" />
-        <mark key="]" line="18" column="60" />
-        <mark key="^" line="18" column="60" />
-        <mark key="." line="18" column="59" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/analytics/analytics.ts" timestamp="1588517549893">
+        <mark key="[" line="34" column="6" />
+        <mark key="]" line="37" column="24" />
+        <mark key="^" line="37" column="24" />
+        <mark key="." line="37" column="23" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="872" column="2" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
-      <jump line="929" column="2" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
-      <jump line="979" column="22" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
-      <jump line="1055" column="11" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
-      <jump line="1063" column="45" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
-      <jump line="1070" column="36" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
-      <jump line="1079" column="22" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
       <jump line="1118" column="11" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
       <jump line="1120" column="58" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
       <jump line="1144" column="50" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
@@ -417,64 +406,71 @@
       <jump line="93" column="33" filename="$USER_HOME$/code/sc/web/static/common/common.conf.ts" />
       <jump line="290" column="10" filename="$USER_HOME$/code/sc/web/static/web/web.ts" />
       <jump line="172" column="13" filename="$USER_HOME$/code/sc/web/static/common/common.conf.ts" />
+      <jump line="126" column="28" filename="$USER_HOME$/code/sc/web/static/web/web.conf.ts" />
+      <jump line="102" column="127" filename="$USER_HOME$/code/sc/web/static/web/views/reviews/item/fb-comments/fb-comments.html" />
+      <jump line="120" column="11" filename="$USER_HOME$/code/sc/web/static/web/views/reviews/item/fb-comments/fb-comments.html" />
+      <jump line="37" column="26" filename="$USER_HOME$/code/sc/web/static/web/services/softroles.ts" />
+      <jump line="14" column="37" filename="$USER_HOME$/code/sc/web/static/web/services/softroles.ts" />
+      <jump line="16" column="22" filename="$USER_HOME$/code/sc/web/static/web/permissions/permissions.config.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/web/permissions/permissions.config.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgIGxldCBhY2MgPSBib290ZWQuYWNjb3VudAo=</text>
+      <register name="+" type="4">
+        <text>SUPER</text>
       </register>
       <register name="-" type="4">
-        <text>'web.invite'</text>
+        <text>SUPER</text>
       </register>
       <register name="/" type="4">
-        <text>asdf</text>
+        <text>ctrl.roles</text>
       </register>
       <register name="0" type="4">
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCBhY2MgPSBib290ZWQuYWNjb3VudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChhcHAuYWNjb3VudC5pc19tZWRpY2FsKQogICAgICB0aGlzLm5hdi5zYXZlSXRlbSgnbWVkLWludml0ZScsIHsKICAgICAgICB0aXRsZTogJ1NlbmQgSW52aXRlJywKICAgICAgICBpY29uOiAndGV4dHNtcycsCiAgICAgICAgc3RhdGU6ICd3ZWIubWVkaWNhbC1pbnZpdGUnLAogICAgICAgIHdlaWdodDogMSwKICAgICAgfSkKICAgIGVsc2UK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLlNFUlZJQ0UgPSB0cnVlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBJbnZpdGVDb21wb25lbnQuc3RhdGUsCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLk9GRklDRV9TVEFGRiA9IHRydWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBNZWRpY2FsU2VuZEludml0ZUNvbXBvbmVudC5zdGF0ZSwK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLk9GRklDRV9TVEFGRiA9IHRydWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2FwcC5hY2NvdW50LmlzX21lZGljYWwnLCBhcHAuYWNjb3VudC5pc19tZWRpY2FsKQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLkxPQ0FUSU9OID0gdHJ1ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2FwcC51c2VyLmRlZmF1bHRfc3RhdGUnLCBhcHAudXNlci5kZWZhdWx0X3N0YXRlKQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLlNFUlZJQ0UgPSB0cnVlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0aGlzLmhhc1JvbGUoUm9sZXMuYmlsbGluZ29ubHkpJywgdGhpcy5oYXNSb2xlKFJvbGVzLmJpbGxpbmdvbmx5KSkK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLkxPQ0FUSU9OID0gdHJ1ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBTRVJWSUNFID0gJ1NFUlZJQ0VfVVNFUicsCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLkxPQ0FUSU9OID0gdHJ1ZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SplitVertically</text>
+        <text>%s//$root.roles</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>asdf</last-search>
+      <last-search>ctrl.roles</last-search>
       <last-offset />
-      <last-pattern>asdf</last-pattern>
-      <last-replace>top.name</last-replace>
-      <last-substitute>row.name</last-substitute>
+      <last-pattern>ctrl.roles</last-pattern>
+      <last-replace>$root.roles</last-replace>
+      <last-substitute>ctrl.roles</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
