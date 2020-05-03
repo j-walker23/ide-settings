@@ -207,12 +207,27 @@
       <file name="/console" timestamp="1588377626875">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1588383621877">
-        <mark key="'" line="49" column="27" />
-        <mark key="[" line="52" column="54" />
-        <mark key="]" line="52" column="54" />
-        <mark key="^" line="52" column="54" />
-        <mark key="." line="52" column="53" />
+      <file name="$USER_HOME$/code/sc/web/sc/mods/celeryconfig.py" timestamp="1588380324417" />
+      <file name="$USER_HOME$/code/sc/web/static/web/web.conf.ts" timestamp="1588480549898">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1588480196783">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/vendors.ts" timestamp="1588378517016">
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="9" column="26" />
+        <mark key="^" line="9" column="26" />
+        <mark key="." line="9" column="25" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1588480214256">
+        <mark key="'" line="63" column="15" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_45.py" timestamp="1588373361760">
         <mark key="[" line="0" column="0" />
@@ -220,18 +235,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/mods/celeryconfig.py" timestamp="1588380324417" />
       <file name="$USER_HOME$/code/sc/web/sc/app/tasks/invite.py" timestamp="1588368415907">
         <mark key="[" line="137" column="48" />
         <mark key="]" line="137" column="49" />
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="49" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" timestamp="1588362327260">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="63" />
-        <mark key="^" line="50" column="63" />
-        <mark key="." line="50" column="62" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" timestamp="1588373181283">
         <mark key="'" line="57" column="0" />
@@ -240,24 +248,11 @@
         <mark key="." line="71" column="27" />
         <mark key="^" line="71" column="28" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1588380376528">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="3" />
-        <mark key="^" line="0" column="4" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/sc/coms/ext/sio.py" timestamp="1588380431788" />
       <file name="$USER_HOME$/code/sc/web/sc/mods/config.py" timestamp="1588380401356" />
-      <file name="$USER_HOME$/code/sc/web/static/web/vendors.ts" timestamp="1588378517016">
-        <mark key="[" line="8" column="30" />
-        <mark key="]" line="9" column="26" />
-        <mark key="^" line="9" column="26" />
-        <mark key="." line="9" column="25" />
-      </file>
+      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1588480545127" />
     </filemarks>
     <jumps>
-      <jump line="521" column="11" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
-      <jump line="528" column="52" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
       <jump line="534" column="36" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
       <jump line="545" column="2" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
       <jump line="585" column="9" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
@@ -356,15 +351,17 @@
       <jump line="27" column="18" filename="$USER_HOME$/code/sc/web/static/web/vendors.ts" />
       <jump line="39" column="7" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
       <jump line="49" column="27" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
+      <jump line="61" column="15" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/web/web.conf.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>104.155.164.241</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAjICdyYWJiaXRfdXJsJzogJ2FtcXA6Ly9zZXJ2ZXI6eW1OM3dQQUcyTjRNQDEwNC4xNTUuMTY0LjI0MScsCiAgIyAnYnJva2VyX3VybCc6ICdhbXFwOi8vc2VydmVyOnltTjN3UEFHMk40TUAxMDQuMTU1LjE2NC4yNDEnLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>104.155.164.241</text>
+        <text>prod</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -373,6 +370,18 @@
         <text>]</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAjICdyYWJiaXRfdXJsJzogJ2FtcXA6Ly9zZXJ2ZXI6eW1OM3dQQUcyTjRNQDEwNC4xNTUuMTY0LjI0MScsCiAgIyAnYnJva2VyX3VybCc6ICdhbXFwOi8vc2VydmVyOnltTjN3UEFHMk40TUAxMDQuMTU1LjE2NC4yNDEnLAo=</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAndGFza19hbHdheXNfZWFnZXInOiBUcnVlLAogICd0YXNrX2VhZ2VyX3Byb3BhZ2F0ZXMnOiBUcnVlLAo=</text>
+      </register>
+      <register name="4" type="2">
         <text>from sc.sql import Account, MessageLanguage
 
 Account.search(Mess)
@@ -380,32 +389,20 @@ Account.search(Mess)
 
 MessageLanguage.search()</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHJvd3MgPSBbXQogICAgZm9yIHIgaW4gcS5hbGwoKToKICAgICAgcm93ID0geyoqci5yb3csICJtZXNzYWdlX3R5cGUiOiAiam9obiJ9CiAgICAgIHJvd3MuYXBwZW5kKHJvdykKCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICMgcHJpbnQobGVuKHJvd3MpKQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgcm93WycnXSA9ICdqb2huJwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgcm93ID0geyoqbWUucm93fQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGFjY19pZCA9IE1lZEltcG9ydC5nZXQoXykuYWNjb3VudF9pZAogICAgbWVkX2Vycm9ycyA9IE1lZEVycm9yLnNlYXJjaCgKICAgICAgTWVkRXJyb3IubWVkX2ltcG9ydF9pZCA9PSBfLCB0eXBlPSJNaXNtYXRjaCIsIGRlbGV0ZWQ9Tm9uZQogICAgKQogICAgZm9yIG1lIGluIG1lZF9lcnJvcnM6CiAgICAgIHJvd3MuYXBwZW5kKG1lLnJvdykKCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBhbmQgbWNhLmlkIGlzIG51bGwK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">NDY0Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">d2hlcmUgCg==</text>
+        <text encoding="base64">ICAgIGFjY19pZCA9IE1lZEltcG9ydC5nZXQoXykuYWNjb3VudF9pZAogICAgbWVkX2Vycm9ycyA9IE1lZEVycm9yLnNlYXJjaCgKICAgICAgTWVkRXJyb3IubWVkX2ltcG9ydF9pZCA9PSBfLCB0eXBlPSJNaXNtYXRjaCIsIGRlbGV0ZWQ9Tm9uZQogICAgKQogICAgZm9yIG1lIGluIG1lZF9lcnJvcnM6CiAgICAgIHJvd3MuYXBwZW5kKG1lLnJvdykKCg==</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
