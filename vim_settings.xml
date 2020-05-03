@@ -203,11 +203,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/reviews/reviews.ts" timestamp="1588527976674">
-        <mark key="[" line="69" column="6" />
-        <mark key="]" line="75" column="0" />
-        <mark key="^" line="75" column="0" />
-        <mark key="." line="75" column="0" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/settings/account-iframe/account-iframe.ts" timestamp="1588532721855">
+        <mark key="[" line="31" column="6" />
+        <mark key="]" line="34" column="32" />
+        <mark key="^" line="34" column="32" />
+        <mark key="." line="34" column="31" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/notes/unsub/note-unsubs.ts" timestamp="1588528324808">
         <mark key="[" line="50" column="6" />
@@ -215,7 +215,7 @@
         <mark key="^" line="55" column="6" />
         <mark key="." line="55" column="5" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/user-accounts/user-accounts.ts" timestamp="1588528079255">
+      <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/user-accounts/user-accounts.ts" timestamp="1588533027198">
         <mark key="'" line="107" column="0" />
         <mark key="[" line="33" column="30" />
         <mark key="]" line="33" column="30" />
@@ -228,7 +228,8 @@
         <mark key="^" line="79" column="6" />
         <mark key="." line="79" column="5" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/user-accounts/user-accounts.html" timestamp="1588528035894">
+      <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/user-accounts/user-accounts.html" timestamp="1588533027733">
+        <mark key="'" line="33" column="0" />
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
@@ -239,7 +240,6 @@
         <mark key="^" line="34" column="29" />
         <mark key="." line="34" column="28" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/user-accounts/upload-oid/upload-oid.ts" timestamp="1588528010438" />
       <file name="$USER_HOME$/code/sc/web/static/web/views/settings/messages/details/message-details.ts" timestamp="1588528402551">
         <mark key="[" line="50" column="6" />
         <mark key="]" line="53" column="32" />
@@ -252,17 +252,23 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/surveys/details/survey-details.ts" timestamp="1588528438141">
-        <mark key="[" line="59" column="6" />
-        <mark key="]" line="62" column="32" />
-        <mark key="^" line="62" column="32" />
-        <mark key="." line="62" column="31" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/previsits/previsits.html" timestamp="1588533114700">
+        <mark key="[" line="26" column="59" />
+        <mark key="]" line="26" column="94" />
+        <mark key="^" line="26" column="94" />
+        <mark key="." line="26" column="93" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/assign-dash/assign-dash.html" timestamp="1588532979601">
+        <mark key="[" line="8" column="69" />
+        <mark key="]" line="8" column="78" />
+        <mark key="^" line="8" column="78" />
+        <mark key="." line="8" column="77" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/web.ts" timestamp="1588528857828">
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="170" column="0" />
-        <mark key="." line="170" column="0" />
-        <mark key="^" line="112" column="14" />
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="173" column="0" />
+        <mark key="." line="173" column="0" />
+        <mark key="^" line="115" column="14" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/common/common.conf.ts" timestamp="1588529190103">
         <mark key="'" line="0" column="0" />
@@ -277,11 +283,12 @@
         <mark key="^" line="33" column="32" />
         <mark key="." line="33" column="31" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/user-accounts/invite-user/invite-user.ts" timestamp="1588528165945">
-        <mark key="[" line="58" column="6" />
-        <mark key="]" line="61" column="32" />
-        <mark key="." line="61" column="31" />
-        <mark key="^" line="61" column="32" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/previsits/previsits.ts" timestamp="1588533059325">
+        <mark key="'" line="50" column="24" />
+        <mark key="[" line="47" column="6" />
+        <mark key="]" line="50" column="36" />
+        <mark key="^" line="50" column="36" />
+        <mark key="." line="50" column="35" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/web.conf.ts" timestamp="1588529162959">
         <mark key="'" line="121" column="11" />
@@ -309,25 +316,15 @@
         <mark key="." line="3" column="73" />
         <mark key="^" line="3" column="4" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/notes/notes.ts" timestamp="1588528299222">
-        <mark key="'" line="242" column="86" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/notes/notes.ts" timestamp="1588533058173">
+        <mark key="'" line="74" column="24" />
         <mark key="[" line="242" column="59" />
         <mark key="]" line="242" column="87" />
         <mark key="^" line="242" column="87" />
         <mark key="." line="242" column="86" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/web.nav.ts" timestamp="1588528268697">
-        <mark key="'" line="144" column="0" />
-        <mark key="[" line="465" column="0" />
-        <mark key="]" line="465" column="0" />
-        <mark key="." line="465" column="0" />
-        <mark key="^" line="465" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="985" column="41" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
-      <jump line="989" column="42" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
-      <jump line="993" column="40" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
       <jump line="997" column="41" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
       <jump line="1003" column="51" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
       <jump line="1009" column="43" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" />
@@ -425,15 +422,18 @@
       <jump line="121" column="11" filename="$USER_HOME$/code/sc/web/static/web/web.conf.ts" />
       <jump line="91" column="33" filename="$USER_HOME$/code/sc/web/static/common/common.conf.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/common/common.conf.ts" />
+      <jump line="33" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/user-accounts/user-accounts.html" />
+      <jump line="74" column="24" filename="$USER_HOME$/code/sc/web/static/web/views/notes/notes.ts" />
+      <jump line="50" column="24" filename="$USER_HOME$/code/sc/web/static/web/views/previsits/previsits.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">CiAgICAkcm9vdFNjb3BlLiRvbignJHN0YXRlQ2hhbmdlUGVybWlzc2lvbkRlbmllZCcsIGZ1bmN0aW9uICgKICAgICAgZXZlbnQsCiAgICAgIHRvU3RhdGUsCiAgICAgIHRvUGFyYW1zLAogICAgICBvcHRpb25zLAogICAgKSB7CiAgICAgIGxvZyhldmVudCwgdG9TdGF0ZSwgdG9QYXJhbXMsIG9wdGlvbnMpCiAgICB9KQoK</text>
+      <register name="+" type="4">
+        <text>ng-if=&quot;::$root.roles.OFFICE_STAFF&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>only: ArrowlyticsPerms.all,</text>
+        <text>ng-if=&quot;::$root.roles.OFFICE_STAFF&quot;</text>
       </register>
       <register name="/" type="4">
         <text>ctrl.roles</text>
