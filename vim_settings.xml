@@ -252,6 +252,12 @@
         <mark key="." line="180" column="34" />
         <mark key="^" line="180" column="35" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/boost/details/boost-details.html" timestamp="1588604843825">
+        <mark key="[" line="5" column="53" />
+        <mark key="]" line="5" column="68" />
+        <mark key="^" line="5" column="68" />
+        <mark key="." line="5" column="67" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/web.ts" timestamp="1588556757387">
         <mark key="[" line="256" column="5" />
         <mark key="]" line="256" column="5" />
@@ -368,10 +374,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>to_split</text>
+        <text>playbooks.length</text>
       </register>
       <register name="-" type="4">
-        <text>to_split</text>
+        <text>playbooks.length</text>
       </register>
       <register name="/" type="4">
         <text>ctrl.roles</text>
