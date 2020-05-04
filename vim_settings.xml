@@ -203,29 +203,25 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/boost/details/ad-group-tabs/display-ad/display-ad.html" timestamp="1588610735095">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="16" column="35" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/boost/details/boost-details.ts" timestamp="1588608178986">
-        <mark key="'" line="137" column="25" />
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="^" line="139" column="28" />
-        <mark key="." line="140" column="0" />
+        <mark key="'" line="132" column="25" />
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="0" />
+        <mark key="^" line="141" column="28" />
+        <mark key="." line="142" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/common/models/ads/boost.model.ts" timestamp="1588607345473">
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="^" line="127" column="25" />
-        <mark key="." line="144" column="0" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/settings/providers/details/provider-details.ts" timestamp="1588599873493" />
-      <file name="$USER_HOME$/code/sc/web/sc/sql/provider/__init__.py" timestamp="1588600418280">
-        <mark key="[" line="51" column="100" />
-        <mark key="]" line="51" column="100" />
-        <mark key="^" line="51" column="100" />
-        <mark key="." line="51" column="99" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/locations/restful.py" timestamp="1588600308576" />
-      <file name="$USER_HOME$/code/sc/web/static/web/views/settings/locations/details/location-details.html" timestamp="1588599313277" />
-      <file name="$USER_HOME$/code/sc/web/static/web/components/chips/contact/contact.chips.html" timestamp="1588599797069" />
+      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics_view.py" timestamp="1588609903500" />
       <file name="$USER_HOME$/code/sc/web/sc/app/integs/bulk/incoming.py" timestamp="1588601521719">
         <mark key="'" line="482" column="18" />
         <mark key="[" line="468" column="86" />
@@ -240,6 +236,10 @@
         <mark key="." line="123" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/settings/providers/bulk-create/bulk-create.html" timestamp="1588600838169" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/boost/playbooks/details/playbook-details.html" timestamp="1588609120174">
+        <mark key="'" line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/ads/globals/keywords.py" timestamp="1588609282530" />
       <file name="$USER_HOME$/code/sc/web/static/web/views/settings/providers/details/provider-details.html" timestamp="1588601361087">
         <mark key="[" line="176" column="59" />
         <mark key="]" line="180" column="35" />
@@ -262,9 +262,6 @@
         <mark key="^" line="11" column="107" />
         <mark key="." line="11" column="106" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/settings/providers/providers.ts" timestamp="1588599230417">
-        <mark key="'" line="65" column="16" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/static/common/services/enums.ts" timestamp="1588607277909">
         <mark key="[" line="187" column="32" />
         <mark key="]" line="188" column="22" />
@@ -274,10 +271,27 @@
       <file name="$USER_HOME$/code/sc/web/static/web/views/boost/boost.ts" timestamp="1588606880647">
         <mark key="'" line="66" column="0" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/static/common/models/ads/ad.model.ts" timestamp="1588610722127">
+        <mark key="'" line="171" column="26" />
+        <mark key="[" line="92" column="67" />
+        <mark key="]" line="93" column="24" />
+        <mark key="." line="93" column="23" />
+        <mark key="^" line="93" column="24" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/globals/boosts/playbooks_view.py" timestamp="1588609904972">
+        <mark key="[" line="64" column="64" />
+        <mark key="]" line="65" column="29" />
+        <mark key="." line="65" column="28" />
+        <mark key="^" line="65" column="29" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/sql/__init__.py" timestamp="1588609775115">
+        <mark key="[" line="262" column="0" />
+        <mark key="]" line="262" column="0" />
+        <mark key="." line="262" column="0" />
+        <mark key="^" line="261" column="24" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="6" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/charge.py" />
-      <jump line="90" column="43" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/arrow-charges.ts" />
       <jump line="12" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/arrow-charges.ts" />
       <jump line="145" column="6" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics_view.py" />
       <jump line="81" column="31" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/arrow-payments.ts" />
@@ -376,15 +390,17 @@
       <jump line="15" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/boost/details/ad-group-tabs/ad-group-tabs.ts" />
       <jump line="66" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/boost/boost.ts" />
       <jump line="137" column="25" filename="$USER_HOME$/code/sc/web/static/web/views/boost/details/boost-details.ts" />
+      <jump line="31" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/boost/playbooks/details/playbook-details.html" />
+      <jump line="148" column="26" filename="$USER_HOME$/code/sc/web/static/common/models/ads/ad.model.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuPnt7Y3RybC5hZ2EuYWQuaGVhZDF9fTwvc3Bhbj4KICAgICAgICAgICAgICAgIHwKICAgICAgICAgICAgICAgIDxzcGFuPnt7Y3RybC5hZ2EuYWQuaGVhZDJ9fTwvc3Bhbj4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IWFnLmlkICYmIG5hbWVzLmluY2x1ZGVzKGFnLm5hbWUubG93ZXIoKSk=</text>
+        <text encoding="base64">IHx8IHRoaXMuZGVzY3JpcHRpb25fMg==</text>
       </register>
       <register name="/" type="4">
         <text>ctrl.roles</text>
@@ -393,34 +409,34 @@
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuPnt7Y3RybC5hZ2EuYWQuaGVhZDF9fTwvc3Bhbj4KICAgICAgICAgICAgICAgIHwKICAgICAgICAgICAgICAgIDxzcGFuPnt7Y3RybC5hZ2EuYWQuaGVhZDJ9fTwvc3Bhbj4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICB0aGlzLmJvby5hZF9ncm91cHMgPSB0aGlzLmJvby5hZF9ncm91cHMuZmlsdGVyKAogICAgICBhZyA9PiAhYm9vay5ncm91cHMuZmluZChwYiA9PiBwYi5uYW1lLmxvd2VyKCkgPT0gYWcubmFtZS5sb3dlcigpKSwKICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYWRkZWQgPSB0cnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYWRkZWQgPSB0cnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhZGRlZCA9IGZhbHNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgW1BvbGljeVJldmlld1N0YXR1cy5VTktOT1dOXTogJ3NjLWJhZGdlLS1ncmV5JywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHN0YXR1cyAhPT0gJ3VuZGVmaW5lZCcpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
