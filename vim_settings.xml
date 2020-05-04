@@ -203,12 +203,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/sc/web/templates/web.html" timestamp="1588556032662" />
       <file name="$USER_HOME$/code/sc/web/sc/sql/location/__init__.py" timestamp="1588552960665" />
-      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1588543604467">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/code/sc/web/sc/mods/web/viewhelp.py" timestamp="1588556732156">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/locations_view.py" timestamp="1588552670284">
         <mark key="[" line="67" column="22" />
@@ -223,15 +223,13 @@
         <mark key="^" line="88" column="28" />
         <mark key="." line="88" column="27" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/survey-summary/question-performance/question-performance.ts" timestamp="1588543031070">
-        <mark key="[" line="115" column="11" />
-        <mark key="]" line="115" column="15" />
-        <mark key="^" line="115" column="15" />
-        <mark key="." line="115" column="14" />
+      <file name="$USER_HOME$/code/sc/web/sc/sql/provider/__init__.py" timestamp="1588557187813">
+        <mark key="[" line="64" column="56" />
+        <mark key="]" line="65" column="71" />
+        <mark key="^" line="65" column="71" />
+        <mark key="." line="65" column="70" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/med-imports/med-imports.html" timestamp="1588545789923" />
-      <file name="$USER_HOME$/code/sc/web/sc/sql/provider/__init__.py" timestamp="1588552496763" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1588551856705">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1588556309178">
         <mark key="'" line="114" column="0" />
         <mark key="[" line="133" column="8" />
         <mark key="]" line="133" column="8" />
@@ -244,14 +242,14 @@
         <mark key="^" line="93" column="27" />
         <mark key="." line="93" column="26" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/static/common/models/provider.model.ts" timestamp="1588557200632">
+        <mark key="[" line="25" column="9" />
+        <mark key="]" line="25" column="20" />
+        <mark key="." line="25" column="19" />
+        <mark key="^" line="25" column="20" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/migrations/versions/752892c2b4c7__38.py" timestamp="1588552537972">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/meds/errors.py" timestamp="1588543249663">
-        <mark key="[" line="28" column="5" />
-        <mark key="]" line="28" column="13" />
-        <mark key="^" line="28" column="13" />
-        <mark key="." line="28" column="12" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/med-imports/med-item/med-item.html" timestamp="1588546593339">
         <mark key="'" line="89" column="59" />
@@ -259,13 +257,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="89" column="64" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/survey-summary/question-performance/question-performance.html" timestamp="1588543086073">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="31" column="16" />
-        <mark key="]" line="31" column="47" />
-        <mark key="^" line="31" column="47" />
-        <mark key="." line="31" column="46" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/providers_view.py" timestamp="1588552644074" />
       <file name="$USER_HOME$/code/sc/web/sc/app/tasks/invite.py" timestamp="1588546377861">
@@ -291,6 +282,13 @@
         <mark key="]" line="25" column="32" />
         <mark key="." line="25" column="31" />
         <mark key="^" line="25" column="32" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/settings/providers/details/provider-details.html" timestamp="1588557207599" />
+      <file name="$USER_HOME$/code/sc/web/static/web/web.ts" timestamp="1588556757387">
+        <mark key="[" line="256" column="5" />
+        <mark key="]" line="256" column="5" />
+        <mark key="." line="256" column="4" />
+        <mark key="^" line="256" column="5" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/__init__.py" timestamp="1588551236461">
         <mark key="[" line="257" column="39" />
@@ -405,10 +403,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>prod</text>
+        <text>is_midlevel</text>
       </register>
       <register name="-" type="4">
-        <text>prod</text>
+        <text>is_midlevel</text>
       </register>
       <register name="/" type="4">
         <text>ctrl.roles</text>
@@ -416,35 +414,35 @@
       <register name="0" type="4">
         <text>]</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIGFjYy5pZCAhPSA1NTA6CiAgICAgIGNvbnRpbnVlCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGVsc2UgaWYgKGFwcC5kZXYpIHsKICAgICAgd2luZG93LlZpdGFsbHkubnBzKCdzaG93JywgewogICAgICAgIHByb2R1Y3ROYW1lOiAnU29jaWFsQ2xpbWInLAogICAgICAgIGRlbGF5OiAwLAogICAgICB9KQogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBmbiA9IGZ1bmMuY291bnQoKQogIGRhdGEgPSAoCiAgICBMb2NFeHRJZC5zZWFyY2goZmllbGRzPSJhY2NvdW50IikKICAgICAgLmdyb3VwX2J5KExvY0V4dElkLmFjY291bnRfaWQsIExvY0V4dElkLmV4X2lkKQogICAgICAuaGF2aW5nKGZuID4gMSkKICAgICAgLnN0YWNrX2FjY291bnQoKQogICkK</text>
+        <text encoding="base64">CiAgaWYgYXBwLmRldiBhbmQgbm90IHVzZXIuaXNfc3VwZXJfdXNlcjoKICAgIGt3YXJnc1sidml0YWxseSJdID0gVHJ1ZQogIGt3YXJnc1sidml0YWxseSJdID0gVHJ1ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">ICAgIHdpbmRvdy5WaXRhbGx5LmFjY291bnQoewogICAgICBhY2NvdW50SWQ6IGFwcC5haWQsCiAgICAgIHRyYWl0czogewogICAgICAgIG5hbWU6IGFwcC5hY2NvdW50Lm5hbWUsCiAgICAgIH0sCiAgICB9KQoKICAgIHdpbmRvdy5WaXRhbGx5LnVzZXIoewogICAgICB1c2VySWQ6IGFwcC51aWQsCiAgICAgIGFjY291bnRJZDogYXBwLmFpZCwKICAgICAgdHJhaXRzOiB7CiAgICAgICAgbmFtZTogYXBwLnVzZXIubmFtZSwKICAgICAgICBlbWFpbDogYXBwLnVzZXIuZW1haWwsCiAgICAgICAgY3JlYXRlZEF0OiAnMjAxOC0wMi0yMicsCiAgICAgIH0sCiAgICB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBkdXBzOgogICAgICAgICAgcHJpbnQobG9jLmlkLCBsb2MubmFtZSwgIiwgIi5qb2luKG1hcChyZXByLCBvaWRzKSkpCgo=</text>
+        <text encoding="base64">ICAgIHdpbmRvdy5WaXRhbGx5Lm5wcygnc2hvdycsIHsKICAgICAgcHJvZHVjdE5hbWU6ICdTb2NpYWxDbGltYicsCiAgICAgIGRlbGF5OiAwLAogICAgfSkKCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkdXBzID0gc2VlbiAmIG9pZHMK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IC8vIFdoZW4gcG9zc2libGUsIHdlIHJlY29tbWVuZGluZyBzZXR0aW5nIHRoaXMgdG8gdGhlIGRhdGUgdGhlIHVzZXIgZmlyc3Qgc3RhcnRlZCBhbiBhY2NvdW50IHdpdGggeW91ciBwcm9kdWN0CiAgICAgICAgLy8gQWRkIGFueSBvdGhlciB0cmFpdHMgaGVyZSB5b3UnZCBsaWtlIHRvIGF0dGFjaCB0byB5b3VyIHVzZXJzIGluIFZpdGFsbHk=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICBpbmR1c3RyeTogJ0Rpc3J1cHRpdmUgc29mdHdhcmUnLCAvLyBBbiBleGFtcGxlIGV4dHJhIHRyYWl0IC0gdGhpcyBpcyBub3QgcmVxdWlyZWQgOikKICAgICAgICAvLyBBZGQgYW55IG90aGVyIHRyYWl0cyBoZXJlIHlvdSdkIGxpa2UgdG8gYXR0YWNoIHRvIHlvdXIgYWNjb3VudHMgaW4gVml0YWxseQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmb3IgciBpbiByb3dzOgogICAgcHJpbnQoci5sb2NhdGlvbikKCiAgcHJpbnQobGVuKHJvd3MpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGRlbGF5OiAwLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIC53aXRoX2VudGl0aWVzKCkK</text>
+        <text encoding="base64">ICAgICAgd2luZG93LlZpdGFsbHkgJiYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgIWFwcC51c2VyLmlzX3N1cGVyX3VzZXIgJiYK</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
