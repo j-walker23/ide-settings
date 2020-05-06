@@ -216,10 +216,12 @@
       <file name="/console" timestamp="1588773933448">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1588778187427">
-        <mark key="[" line="267" column="58" />
-        <mark key="." line="267" column="58" />
-        <mark key="^" line="273" column="23" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1588779062412">
+        <mark key="'" line="251" column="1" />
+        <mark key="[" line="288" column="1" />
+        <mark key="]" line="289" column="16" />
+        <mark key="." line="289" column="15" />
+        <mark key="^" line="289" column="16" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" timestamp="1588778403349">
         <mark key="'" line="317" column="6" />
@@ -251,7 +253,7 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="/dumpDataPreview" timestamp="1588778083786">
+      <file name="/dumpDataPreview" timestamp="1588778632940">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/encounters_view.py" timestamp="1588770756955">
@@ -282,13 +284,13 @@
         <mark key="^" line="95" column="52" />
         <mark key="." line="95" column="51" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/coms/utils/times.py" timestamp="1588778408348" />
-      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/charges_view.py" timestamp="1588770620376">
-        <mark key="[" line="1" column="23" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/charge.py" timestamp="1588779481854">
+        <mark key="[" line="119" column="83" />
+        <mark key="]" line="119" column="83" />
+        <mark key="." line="119" column="82" />
+        <mark key="^" line="119" column="83" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/coms/utils/times.py" timestamp="1588778408348" />
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/arrow-payments.ts" timestamp="1588771216091">
         <mark key="'" line="36" column="14" />
         <mark key="[" line="68" column="0" />
@@ -305,7 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="0" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/providers_view.py" />
       <jump line="69" column="4" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/providers_view.py" />
       <jump line="107" column="32" filename="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/user-accounts/invite-user/invite-user.ts" />
       <jump line="7236" column="8" filename="$USER_HOME$/code/sc/web/yarn.lock" />
@@ -405,15 +406,16 @@
       <jump line="510" column="8" filename="$USER_HOME$/code/sc/web/cli/john.py" />
       <jump line="535" column="9" filename="$USER_HOME$/code/sc/web/cli/john.py" />
       <jump line="317" column="6" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
+      <jump line="251" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>date_int_columns(date)</text>
+        <text>, Charge.cpt_code == WeightedEncounterRef.code</text>
       </register>
       <register name="-" type="4">
-        <text>date_int_columns(date)</text>
+        <text>, Charge.cpt_code == WeightedEncounterRef.code</text>
       </register>
       <register name="/" type="4">
         <text>leaflet</text>
@@ -422,34 +424,34 @@
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGF0ZSA9IHJbJ2RhdGUnXQo=</text>
+        <text encoding="base64">ICAgICAgLndoZXJlKG9ycykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgQ2hhcmdlLnllYXJzLAogICAgICBDaGFyZ2UubW9udGhzLAogICAgICBDaGFyZ2Uud2Vla3MsCiAgICAgIENoYXJnZS5kYXlzLAo=</text>
+        <text encoding="base64">ICAgIENoYXJnZS5jcHRfY29kZSA9PSBXZWlnaHRlZEVuY291bnRlclJlZi5jb2RlLAogICAgQ2hhcmdlLm1vZGlmaWVyID09IFdlaWdodGVkRW5jb3VudGVyUmVmLm1vZGlmaWVyLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cmdyb3VwIGJ5CiAgICAxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhdGllbnRfaWQK</text>
+        <text encoding="base64">ICAgICAgZGF0ZSA9IHJbJ2RhdGUnXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAsIGNvdW50KCopCg==</text>
+        <text encoding="base64">ICAgICAgQ2hhcmdlLnllYXJzLAogICAgICBDaGFyZ2UubW9udGhzLAogICAgICBDaGFyZ2Uud2Vla3MsCiAgICAgIENoYXJnZS5kYXlzLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cmdyb3VwIGJ5CiAgICAxCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Z3JvdXAgYnkKICAgIG1vbnRoKGhqX2VuY291bnRlci5kYXRlKQogICwgeWVhcihoal9lbmNvdW50ZXIuZGF0ZSkK</text>
+        <text encoding="base64">ICAgIHBhdGllbnRfaWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhbmQgaGQubmFtZSA9ICdMYW1pYSBEcmlzJwo=</text>
+        <text encoding="base64">ICAsIGNvdW50KCopCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvdW50KCopICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
