@@ -207,6 +207,11 @@
       <file name="/console" timestamp="1588662914548">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics_view.py" timestamp="1588749223030">
+        <mark key="[" line="295" column="0" />
+        <mark key="]" line="295" column="0" />
+        <mark key="." line="295" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/cols.py" timestamp="1588747954577" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1588746554922">
         <mark key="'" line="111" column="0" />
@@ -228,26 +233,22 @@
         <mark key="^" line="63" column="35" />
         <mark key="." line="63" column="34" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/package.json" timestamp="1588652542339">
-        <mark key="'" line="14" column="36" />
-        <mark key="[" line="76" column="21" />
-        <mark key="]" line="76" column="21" />
-        <mark key="." line="76" column="21" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/yarn.lock" timestamp="1588652003270">
-        <mark key="'" line="4571" column="0" />
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="2" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="1" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/procedure-groups.ts" timestamp="1588749908578">
+        <mark key="[" line="73" column="94" />
+        <mark key="]" line="73" column="98" />
+        <mark key="." line="73" column="97" />
+        <mark key="^" line="73" column="98" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/vendors.ts" timestamp="1588652573892">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/node_modules/leaflet.pattern/src/Pattern.js" timestamp="1588652370516">
-        <mark key="'" line="90" column="3" />
+      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/procedure_groups_view.py" timestamp="1588749231418">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="17" column="38" />
       </file>
       <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1588747789959">
         <mark key="'" line="45" column="19" />
@@ -262,10 +263,20 @@
         <mark key="^" line="5" column="45" />
         <mark key="." line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/node_modules/ui-leaflet/package.json" timestamp="1588651968176">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/procedure-groups.html" timestamp="1588749383831">
+        <mark key="[" line="12" column="25" />
+        <mark key="]" line="12" column="25" />
+        <mark key="^" line="12" column="25" />
+        <mark key="." line="12" column="24" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/details/procedure-group-details.ts" timestamp="1588749768396" />
       <file name="$USER_HOME$/code/sc/web/sc/coms/customsql/mixes.py" timestamp="1588747880865" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/procedure-groups.ints.ts" timestamp="1588749638650">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="14" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/static/common/highcharts.theme.ts" timestamp="1588653141382">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -279,16 +290,8 @@
         <mark key="^" line="369" column="84" />
         <mark key="." line="369" column="83" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1588626823196">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="37" column="4" />
-        <mark key="]" line="37" column="9" />
-        <mark key="." line="37" column="8" />
-        <mark key="^" line="37" column="9" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="28" filename="$USER_HOME$/code/sc/web/static/web/web.conf.ts" />
       <jump line="102" column="127" filename="$USER_HOME$/code/sc/web/static/web/views/reviews/item/fb-comments/fb-comments.html" />
       <jump line="120" column="11" filename="$USER_HOME$/code/sc/web/static/web/views/reviews/item/fb-comments/fb-comments.html" />
       <jump line="37" column="26" filename="$USER_HOME$/code/sc/web/static/web/services/softroles.ts" />
@@ -388,15 +391,16 @@
       <jump line="51" column="7" filename="$USER_HOME$/code/sc/web/sc/sql/__init__.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/migrations/versions/c2791eaccf5b__42.py" />
       <jump line="48" column="13" filename="$USER_HOME$/code/sc/web/static/common/models/hj/hj-settings.model.ts" />
+      <jump line="51" column="0" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/procedure_groups_view.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>RevenueParentGroup</text>
+        <text>revenue_center</text>
       </register>
       <register name="-" type="4">
-        <text>RevenueParentGroup</text>
+        <text>revenue_center</text>
       </register>
       <register name="/" type="4">
         <text>leaflet</text>
@@ -405,34 +409,34 @@
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAKCiAgQG11bHRpCiAgQFR5cGUoKCkgPT4gUmV2ZW51ZUdyb3VwKQogIGNoaWxkcmVuOiBSZXZlbnVlR3JvdXBbXQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGxldCBjZW50ZXJzID0gcm93cy5tYXAociA9PiAoeyBjZW50ZXI6IHIucmV2ZW51ZV9jZW50ZXIgfSkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgQGRlY2xhcmVkX2F0dHIKICBkZWYgX19sb2NhbF9hcmdzX18oY2xzKToKICAgIHJldHVybiBzYV9hZGRfdW5pcXVlKGNscywgIm5hbWUiKQo=</text>
+        <text encoding="base64">ICBAVHlwZSgoKSA9PiBNaWRHcm91cCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjaGlsZHJlbjogQ29sTGlzdFtzcWwuUmV2ZW51ZUdyb3VwXSA9IHJlbGF0aW9uc2hpcCgKICAgICJSZXZlbnVlR3JvdXAiLCBjYXNjYWRlPSJhbGwsIGRlbGV0ZS1vcnBoYW4iLCBwYXNzaXZlX2RlbGV0ZXM9VHJ1ZQogICkK</text>
+        <text encoding="base64">ICAgIF9jaGVja19ncm91cHMoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VsZWN0IGFjY291bnRfaWQsCiAgICBjb3VudCgqKQpmcm9tIGhqX2FwcG9pbnRtZW50IGgKZ3JvdXAgYnkgMQo7Cg==</text>
+        <text encoding="base64">ICAgIF9jaGVja19ncm91cHMoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">d2hlcmUgCg==</text>
+        <text encoding="base64">CiAgQHZpZXcucm91dGUoIi9hdXRvLzxrZXk+L3ZhbHVlcyIpCiAgQHZpZXcuYXV0byhmaWx0ZXJzPVtEb2N0b3IucmF3X2lkICE9IFVOS05PV04sIERvY3Rvci5hcHBvaW50bWVudHMuYW55KCldKQogIGRlZiBhdXRvKHNlbGYsIGtleSk6CiAgICAiIiJBdXRvIHZhbHVlcyIiIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL2xlYWYucGF0dGVybi5taXgnCg==</text>
+        <text encoding="base64">CmNsYXNzIFJldmVudWVHcm91cFZpZXcoQWNjb3VudHNWaWV3QmFzZSk6CiAgIiIiIiIiCgogIGVudGl0eSA9IFJldmVudWVHcm91cAoKICBAdmlldy5pbmRleAogIGRlZiBpbmRleChzZWxmKToKICAgICIiIiIiIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ0QnLCBEKQo=</text>
+        <text encoding="base64">ICBmaWVsZHMgPSBEb2N0b3IuRklFTERTCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICdsZWFmbGV0LnBhdHRlcm4nCg==</text>
+        <text encoding="base64">ZGVmIF9zZWFyY2gocTogUXVlcnlbRG9jdG9yXSk6CiAgIiIiIiIiCiAgY2xzID0gcS5lbnQKICBmaWxsID0gY2xzLmFwcG9pbnRtZW50cy5hbnkoKQogIGlmIG5vdCByZXFfYXJncygpLnBvcCgiaGFzX2FwcCIsIE5vbmUpOgogICAgZmlsbCA9IH5maWxsCiAgcmV0dXJuIHEuZmlsdGVyKGNscy5yYXdfaWQgIT0gVU5LTk9XTiwgZmlsbCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJsZWFmbGV0IjogIjEuNi4wIgo=</text>
+        <text encoding="base64">ICAKCiAgQG11bHRpCiAgQFR5cGUoKCkgPT4gUmV2ZW51ZUdyb3VwKQogIGNoaWxkcmVuOiBSZXZlbnVlR3JvdXBbXQo=</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
