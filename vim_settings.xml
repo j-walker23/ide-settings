@@ -219,12 +219,12 @@
       <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/messages_view.py" timestamp="1588856749527">
         <mark key="^" line="59" column="30" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/settings/locations/details/location-details.html" timestamp="1588857476355">
+      <file name="$USER_HOME$/code/sc/web/static/web/views/settings/locations/details/location-details.html" timestamp="1588859746748">
         <mark key="'" line="236" column="61" />
-        <mark key="[" line="211" column="19" />
-        <mark key="]" line="211" column="80" />
-        <mark key="^" line="211" column="80" />
-        <mark key="." line="211" column="79" />
+        <mark key="[" line="217" column="21" />
+        <mark key="]" line="217" column="27" />
+        <mark key="^" line="217" column="27" />
+        <mark key="." line="217" column="26" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/locations/combine.py" timestamp="1588853106441">
         <mark key="[" line="114" column="0" />
@@ -400,11 +400,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgIGlkcyA9IFtpbnQoXyldCiAgICBNZXNzYWdlLmRlbGV0ZV9xdWVyeShpZHM9aWRzKQo=</text>
+      <register name="+" type="4">
+        <text>rows</text>
       </register>
       <register name="-" type="4">
-        <text>.now()</text>
+        <text>rows</text>
       </register>
       <register name="/" type="4">
         <text>leaflet</text>
