@@ -225,6 +225,12 @@
       <file name="/Python Console" timestamp="1588851826342">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/settings/providers/details/provider-details.html" timestamp="1588854575434">
+        <mark key="[" line="176" column="87" />
+        <mark key="]" line="176" column="88" />
+        <mark key="^" line="176" column="88" />
+        <mark key="." line="176" column="87" />
+      </file>
       <file name="/console" timestamp="1588850701798">
         <mark key="[" line="0" column="0" />
       </file>
@@ -241,6 +247,7 @@
         <mark key="^" line="65" column="4" />
         <mark key="." line="65" column="3" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/settings/locations/details/location-details.html" timestamp="1588853994924" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1588848124436">
         <mark key="'" line="239" column="26" />
         <mark key="[" line="334" column="21" />
@@ -272,6 +279,12 @@
         <mark key="]" line="158" column="34" />
         <mark key="^" line="158" column="34" />
         <mark key="." line="158" column="33" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/web.conf.ts" timestamp="1588854120793">
+        <mark key="[" line="87" column="67" />
+        <mark key="]" line="88" column="4" />
+        <mark key="." line="88" column="3" />
+        <mark key="^" line="88" column="4" />
       </file>
       <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1588850903915">
         <mark key="[" line="0" column="0" />
@@ -391,11 +404,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="+" type="4">
+        <text>Will override listing disable split config</text>
       </register>
       <register name="-" type="4">
-        <text>loc.oids or oloc.oids</text>
+        <text>Will override listing disable split config</text>
       </register>
       <register name="/" type="4">
         <text>leaflet</text>
@@ -404,34 +417,34 @@
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1dXVEZGJywgc3RhdGUpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAjIGMgPSBMb2NhdGlvbi5kZWxldGVfcXVlcnkoaWRzPXJlbV9pZHMpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAjIGZvcgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiAgIyBpZiBvbGRfZ29vZ19zeW5jX2xvYzoKICAjICAgbG9jLmRvY19pZCA9IG9sZF9nb29nX3N5bmNfbG9jLmRvY19pZCBvciBsb2MuZG9jX2lkCiAgIyAgIGxvYy5wYXJlbnRzID0gb2xkX2dvb2dfc3luY19sb2MucGFyZW50cyBvciBsb2MucGFyZW50cwogICMgZWxzZToKICAjICAgbG9jLnBhcmVudHMgPSBsb2MucGFyZW50cyBvciBvbG9jLnBhcmVudHMKICAjICAgIyBsb2MuY2hpbGRyZW4gPSBbXQogICMgICBsb2MuZG9jX2lkID0gbG9jLmRvY19pZCBvciBvbG9jLmRvY19pZAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAjIG9sb2Mub2lkcyA9IFtdCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBib28gPSBCb29zdC5nZXQoNDYwNjEsIGZpZWxkcz1Cb29zdC5DVVNUT01JWkVfRklFTERTKQogIHByZXR0eShib28uYXNkaWN0KCkpCiAgIyBib28uc3RhdHVzID0gQWRTdGF0dXMuUEFVU0VECiAgIyBib28ucGxheWJvb2tzID0gW10KICAjIGJvby5idWRnZXQgPSBOb25lCiAgIyBib28uZ2VvID0gTm9uZQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBhbHMgPSAoCiAgICBBdXRoTG9jR29vZ2xlLnNlYXJjaChwYXJhbXM9eyJmaWx0ZXJzIjogeyJjYXRfbmFtZSI6ICJNZWRpY2FsIGNsaW5pYyJ9fSkKICAgIC5kZWJ1Z19wcmludCgpCiAgICAuYWxsKCkKICApCiAgIyBhbHMgPSAoCiAgIyAgIEF1dGhMb2NHb29nbGUuc2VhcmNoKEF1dGhMb2NHb29nbGUuY2F0X25hbWUuYXNfc3RyaW5nKCkgPT0gIkRvY3RvciIpCiAgIyAgIC5kZWJ1Z19wcmludCgpCiAgIyAgIC5hbGwoKQogICMgKQoKICBwcmludChsZW4oYWxzKSkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAjIGMgPSBMb2NhdGlvbi5kZWxldGVfcXVlcnkoaWRzPXJlbV9pZHMpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAjIGZvcgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgIyBpZiBvbGRfZ29vZ19zeW5jX2xvYzoKICAjICAgbG9jLmRvY19pZCA9IG9sZF9nb29nX3N5bmNfbG9jLmRvY19pZCBvciBsb2MuZG9jX2lkCiAgIyAgIGxvYy5wYXJlbnRzID0gb2xkX2dvb2dfc3luY19sb2MucGFyZW50cyBvciBsb2MucGFyZW50cwogICMgZWxzZToKICAjICAgbG9jLnBhcmVudHMgPSBsb2MucGFyZW50cyBvciBvbG9jLnBhcmVudHMKICAjICAgIyBsb2MuY2hpbGRyZW4gPSBbXQogICMgICBsb2MuZG9jX2lkID0gbG9jLmRvY19pZCBvciBvbG9jLmRvY19pZAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAjIG9sb2Mub2lkcyA9IFtdCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBib28gPSBCb29zdC5nZXQoNDYwNjEsIGZpZWxkcz1Cb29zdC5DVVNUT01JWkVfRklFTERTKQogIHByZXR0eShib28uYXNkaWN0KCkpCiAgIyBib28uc3RhdHVzID0gQWRTdGF0dXMuUEFVU0VECiAgIyBib28ucGxheWJvb2tzID0gW10KICAjIGJvby5idWRnZXQgPSBOb25lCiAgIyBib28uZ2VvID0gTm9uZQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBhbHMgPSAoCiAgICBBdXRoTG9jR29vZ2xlLnNlYXJjaChwYXJhbXM9eyJmaWx0ZXJzIjogeyJjYXRfbmFtZSI6ICJNZWRpY2FsIGNsaW5pYyJ9fSkKICAgIC5kZWJ1Z19wcmludCgpCiAgICAuYWxsKCkKICApCiAgIyBhbHMgPSAoCiAgIyAgIEF1dGhMb2NHb29nbGUuc2VhcmNoKEF1dGhMb2NHb29nbGUuY2F0X25hbWUuYXNfc3RyaW5nKCkgPT0gIkRvY3RvciIpCiAgIyAgIC5kZWJ1Z19wcmludCgpCiAgIyAgIC5hbGwoKQogICMgKQoKICBwcmludChsZW4oYWxzKSkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIGdldF9hcHAoKS5wcm9kOgogICAgICBib28gPSBib29zdC5jYWxscyhib28pLnNldHVwKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
