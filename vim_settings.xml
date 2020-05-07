@@ -207,6 +207,12 @@
       <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" timestamp="1588879802686">
         <mark key="'" line="39" column="6" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/cli/apis/hj.py" timestamp="1588892788060">
+        <mark key="[" line="208" column="44" />
+        <mark key="]" line="208" column="56" />
+        <mark key="^" line="208" column="56" />
+        <mark key="." line="208" column="55" />
+      </file>
       <file name="/console" timestamp="1588883616908">
         <mark key="[" line="0" column="0" />
       </file>
@@ -227,20 +233,20 @@
         <mark key="." line="59" column="27" />
         <mark key="^" line="59" column="28" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/redashAPI/client.py" timestamp="1588892601203" />
       <file name="/a.sql" timestamp="1588877616553">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/charges" timestamp="1588877613480">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dumpDataPreview" timestamp="1588879665120">
+      <file name="/dumpDataPreview" timestamp="1588891730850">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a265add-6432-48a9-b258-51df3fa71002/console.sql" timestamp="1588880276082">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="36" />
-        <mark key="." line="29" column="35" />
-        <mark key="^" line="29" column="36" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a265add-6432-48a9-b258-51df3fa71002/console.sql" timestamp="1588891727113">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1588877616595">
         <mark key="[" line="0" column="0" />
@@ -261,23 +267,14 @@
         <mark key="^" line="73" column="29" />
         <mark key="." line="74" column="84" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/227f2ba4-0163-4488-ac54-a37aea04849a/payments.sql" timestamp="1588874346047" />
-      <file name="$USER_HOME$/code/sc/web/gce/startup-script-back.sh" timestamp="1588870119450">
-        <mark key="'" line="205" column="68" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1588879970550">
-        <mark key="[" line="553" column="10" />
-        <mark key="]" line="553" column="18" />
-        <mark key="^" line="553" column="18" />
-        <mark key="." line="553" column="17" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/ads/syncing/campaigns.py" timestamp="1588892534375" />
+      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1588891792707">
+        <mark key="[" line="540" column="0" />
+        <mark key="]" line="540" column="0" />
+        <mark key="." line="540" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="6" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/globals.py" />
-      <jump line="37" column="6" filename="$USER_HOME$/code/sc/web/sc/sql/__init__.py" />
-      <jump line="51" column="7" filename="$USER_HOME$/code/sc/web/sc/sql/__init__.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/migrations/versions/c2791eaccf5b__42.py" />
-      <jump line="48" column="13" filename="$USER_HOME$/code/sc/web/static/common/models/hj/hj-settings.model.ts" />
       <jump line="51" column="0" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/procedure_groups_view.py" />
       <jump line="50" column="1" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/settings/procedure-groups/procedure-groups.ts" />
       <jump line="297" column="0" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics_view.py" />
@@ -373,15 +370,20 @@
       <jump line="363" column="5" filename="$USER_HOME$/code/sc/web/sc/coms/testing/utils.py" />
       <jump line="39" column="6" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" />
       <jump line="377" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/cli/apis/hj.py" />
+      <jump line="142" column="2" filename="$USER_HOME$/code/sc/web/cli/apis/hj.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/sc/web/cli/apis/hj.py" />
+      <jump line="182" column="2" filename="$USER_HOME$/code/sc/web/cli/apis/hj.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/code/sc/web/cli/apis/hj.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">ICBibG9iLnVybGAK</text>
+      <register name="+" type="4">
+        <text>Redash</text>
       </register>
       <register name="-" type="4">
-        <text>office_id</text>
+        <text>Redash</text>
       </register>
       <register name="/" type="4">
         <text>leaflet</text>
@@ -390,34 +392,34 @@
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBibG9iLnVybGAK</text>
+        <text encoding="base64">ICByZXMgPSBhcGkucmVmcmVzaF9xdWVyeSg3MjYpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIGFpZCBub3QgaW4gYWlkczoKICAgICAgY29udGludWUK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIGFpZCBub3QgaW4gYWlkczoKICAgICAgY29udGludWUK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBhaWRzID0gNzYwLCA2NDEsIDcxNwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICByZXMgPSBhcGkucmVmcmVzaF9xdWVyeSg3MjYpCiAganMgPSByZXMuanNvbigpCiAgcHJldHR5KGpzKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBhcGkucXVlcnlfYW5kX3dhaXRfcmVzdWx0KGRzX2lkLCAic2VsZWN0ICogZnJvbSBteV90YWJsZTsiLCA2MCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICByZXMgPSBhcGkuZ2V0KCJkYXRhX3NvdXJjZXMiKQogIHByZXR0eShyZXMuanNvbigpKQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ZnJvbSByZWRhc2hBUEkgaW1wb3J0IFJlZGFzaEFQSUNsaWVudAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbmFtZXMgPSBwbHVjayhyb3dzLCAnbmFtZScpCg==</text>
+        <text encoding="base64">ICBhcGkgPSBSZWRhc2hBUElDbGllbnQoQVBJX0tFWSwgUkVEQVNIX0hPU1QpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICBhbGxkb2NzID0gZ3JvdXBfYnkoY29udmVydF9jc3ZfbnVsbHMoImFwcC1kb2NzIiksICJhY2NvdW50X2lkIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsb2NzID0gcmVhZF9sb2NhbF9jc3YoImFwcC1sb2NzIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
