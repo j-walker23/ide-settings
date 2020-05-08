@@ -204,7 +204,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/sc/coms/search/params.py" timestamp="1588938666575" />
+      <file name="$USER_HOME$/code/sc/web/sc/coms/search/params.py" timestamp="1588939293942" />
       <file name="$USER_HOME$/code/sc/web/templates/web.html" timestamp="1588920971972">
         <mark key="[" line="38" column="10" />
         <mark key="]" line="38" column="9" />
@@ -237,15 +237,15 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/coms/search/search.py" timestamp="1588938691044">
-        <mark key="[" line="267" column="0" />
-        <mark key="]" line="267" column="0" />
-        <mark key="^" line="266" column="34" />
-        <mark key="." line="267" column="0" />
+      <file name="$USER_HOME$/code/sc/web/sc/coms/search/search.py" timestamp="1588939688598">
+        <mark key="[" line="240" column="0" />
+        <mark key="]" line="240" column="0" />
+        <mark key="^" line="241" column="44" />
+        <mark key="." line="240" column="0" />
       </file>
       <file name="/Pipfile" timestamp="1588930653317" />
       <file name="/usr/local/Cellar/python/3.7.4_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/typing.py" timestamp="1588936061407" />
-      <file name="/Python Console" timestamp="1588938873256">
+      <file name="/Python Console" timestamp="1588939879873">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/cols.py" timestamp="1588938230380">
@@ -272,12 +272,12 @@
       <file name="$USER_HOME$/code/sc/web/sc/coms/customsql/stringtypes.py" timestamp="1588936085617">
         <mark key="'" line="76" column="6" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1588938198272">
+      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1588939837649">
         <mark key="'" line="513" column="8" />
-        <mark key="[" line="543" column="15" />
-        <mark key="]" line="543" column="15" />
-        <mark key="." line="543" column="14" />
-        <mark key="^" line="543" column="15" />
+        <mark key="[" line="546" column="38" />
+        <mark key="]" line="546" column="49" />
+        <mark key="." line="546" column="48" />
+        <mark key="^" line="546" column="49" />
       </file>
     </filemarks>
     <jumps>
@@ -385,11 +385,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="+" type="4">
+        <text>&quot;name&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>self.</text>
+        <text>&quot;name&quot;</text>
       </register>
       <register name="/" type="4">
         <text>leaflet</text>
@@ -398,34 +398,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRlZnMgPSBkZWZhdWx0X3NlYXJjaF9rZXkoc29ydF90eXBlKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlzaW5uZXIgPSBGYWxzZSBpZiAib3V0KCkiIGluIG1vZCBlbHNlIFRydWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">X0FMID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGV4dHJhX3JlbF9rZXlzID0gZGVmYXVsdF9zZWFyY2hfa2V5KHNvcnRfdHlwZSkuc3BsaXQoIi4iKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIEF1dGhMb2NRdWVzdGlvbi5hbC5hbnkoKQogICAgICAgICAgYWwgPSBBdXRoTG9jUXVlc3Rpb24oKS5hbAogICAgICAgICAgYWwubGFiZWxzCg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRfY29sX3R5cGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UyA9IFR5cGVWYXIoJ1MnKQpTcWxDb2wgPSBVbmlvbltTLCBDb2x1bW5dCgojIGlmIFRZUEVfQ0hFQ0tJTkc6CkNvbCA9IFNxbENvbFtzcWwuQXV0aExvY10KIyBlbHNlOgojICAgQ29sID0gQ29sdW1uCg==</text>
+        <text encoding="base64">ICAgICAgICBleHRyYV9yZWxfa2V5cyA9IGRlZmF1bHRfc2VhcmNoX2tleShlbnQpLnNwbGl0KCIuIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBbT3B0aW9uYWxbc3RyXV0KICBpbXBvcnQgc2Muc3FsIGFzIHNxbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aWYgVFlQRV9DSEVDS0lORzoKICBTID0gVHlwZVZhcignUycsIGJvdW5kPXNxbC5Nb2RlbCkKICBDb2x1bW4gPSBDb2x1bW5bU10KCg==</text>
+        <text encoding="base64">ICAgIGlzaW5uZXIgPSBGYWxzZSBpZiAib3V0KCkiIGluIG1vZCBlbHNlIFRydWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBbT3B0aW9uYWxbc3RyXV0KICBpbXBvcnQgc2Muc3FsIGFzIHNxbAo=</text>
+        <text encoding="base64">X0FMID0gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U3FsQ29sID0gVW5pb25bUywgQ29sdW1uXQo=</text>
+        <text encoding="base64">ICAgICAgICAgIEF1dGhMb2NRdWVzdGlvbi5hbC5hbnkoKQogICAgICAgICAgYWwgPSBBdXRoTG9jUXVlc3Rpb24oKS5hbAogICAgICAgICAgYWwubGFiZWxzCg==</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
