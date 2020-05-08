@@ -209,6 +209,13 @@
       <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" timestamp="1588969032547">
         <mark key="'" line="40" column="6" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" timestamp="1588971146046">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="55" column="6" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/vitally/base.py" timestamp="1588963597224" />
       <file name="$USER_HOME$/code/sc/web/sc/utils.py" timestamp="1588963856551" />
       <file name="/payments" timestamp="1588968530914">
@@ -229,12 +236,12 @@
       <file name="$USER_HOME$/code/sc/selenium/automation/socialclimb/app/settings/manage_locations/location_details/locations_details_page.py" timestamp="1588963142174">
         <mark key="'" line="13" column="16" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_48.py" timestamp="1588967615712">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="107" column="40" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
-        <mark key="^" line="120" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_48.py" timestamp="1588972365385">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="^" line="108" column="5" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="/charges" timestamp="1588968530746">
         <mark key="[" line="0" column="0" />
@@ -242,7 +249,7 @@
       <file name="$USER_HOME$/code/sc/selenium/automation/socialclimb/app/settings/manage_locations/locations_page.py" timestamp="1588963135180">
         <mark key="'" line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/code/sc/selenium/automation/socialclimb/app/settings/connect_platforms/scrapers/provider_scraper.py" timestamp="1588966832520" />
+      <file name="$USER_HOME$/code/sc/selenium/automation/socialclimb/app/settings/connect_platforms/scrapers/provider_scraper.py" timestamp="1588972087433" />
       <file name="$USER_HOME$/code/sc/selenium/automation/models/provider.py" timestamp="1588963290094">
         <mark key="'" line="7" column="9" />
       </file>
@@ -354,10 +361,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICIiIiIiIgo=</text>
+        <text encoding="base64">IyBBIGNhbGxhYmxlIHdoaWNoIHJldHVybnMgYSBsaXN0IG9mIHR1cGxlcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>path</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -366,34 +373,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICIiIiIiIgo=</text>
+        <text encoding="base64">IyBBIGNhbGxhYmxlIHdoaWNoIHJldHVybnMgYSBsaXN0IG9mIHR1cGxlcwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">Y2xhc3MgUHJvdmlkZXJTY3JhcGVyVGVzdChCYXNlVGVzdCk6CiAgIiIiIiIiCgogIHByb3ZpZGVyOiBQcm92aWRlcgoKICBkZWYgbWFrZV9wcm92aWRlcihzZWxmKSAtPiBQcm92aWRlcjoKICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IKCiAgZGVmIHNldFVwKHNlbGYpOgogICAgc2VsZi5wcm92aWRlciA9IHNlbGYubWFrZV9wcm92aWRlcigpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAiIiJBIHNsaW1tZWQgZG93biBQcm92aWRlciBtb2RlbCBleGFtcGxlLgoKICBKdXN0IGVub3VnaCB0byBzaG93IHJldmlldy9zY3JhcGluZyB1cmwgc3R1ZmYuCiAgIiIiCg==</text>
+        <text encoding="base64">CiAgcHJvdmlkZXI6IFByb3ZpZGVyCgogIGRlZiBtYWtlX3Byb3ZpZGVyKHNlbGYpIC0+IFByb3ZpZGVyOgogICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcgoKICBkZWYgc2V0VXAoc2VsZik6CiAgICBzZWxmLnByb3ZpZGVyID0gc2VsZi5tYWtlX3Byb3ZpZGVyKCkKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1ha2VfYXR0cnMoY2xzLCByZXZpZXdfdXJsPXJldmlld191cmwsIHNjcmFwZV91cmw9c2NyYXBlX3VybCwgKiprd2FyZ3MpCiAgICByZXQgPSBjbHMoKQogICAgcmV0Lgo=</text>
+        <text encoding="base64">ICAjIEEgY2FsbGFibGUgd2hpY2ggcmV0dXJucyBhIGxpc3Qgb2YgdHVwbGVzCiAgZGVmIGxvYWRfdGVzdF9jYXNlcygpOgogICAgcmV0dXJuIFsKICAgICAgKCJ0ZXN0MSIsKSwKICAgICAgKCJ0ZXN0MiIsKSwKICAgIF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IiIiIiIiCg==</text>
+        <text encoding="base64">ICBkZWYgbG9hZF90ZXN0X2Nhc2VzKCk6CiAgICByZXR1cm4gWwogICAgICAoInRlc3QxIiwpLAogICAgICAoInRlc3QyIiwpLAogICAgXQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAjIAogICMgCiAgIyAK</text>
+        <text encoding="base64">LSBUaGluayBhYm91dCBwYXltZW50cyBjb21pbmcgaW4gd2l0aCBubyBjaGFyZ2UuIEF0IGxvYWQgdGltZSwgcHJvdmlkZXIgaXMgbWlzc2luZy4KLSBUaGVuIG9uIGluY3JlbWVudGFsLCBydW4gdGFzayB0byBsaW5rIHVwIHBheW1lbnRzLCB3aXRoIGFueSBuZXcgY2hhbmdlcy4KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VCA9IFR5cGVWYXIoIlQiKQo=</text>
+        <text encoding="base64">ICAgICIiIiIiIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VCA9IFR5cGVWYXIoIlQiKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
