@@ -211,11 +211,11 @@
         <mark key="^" line="99" column="44" />
         <mark key="." line="99" column="43" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/templates/web.html" timestamp="1588918088309">
-        <mark key="[" line="38" column="9" />
-        <mark key="]" line="38" column="13" />
-        <mark key="." line="38" column="12" />
-        <mark key="^" line="38" column="13" />
+      <file name="$USER_HOME$/code/sc/web/templates/web.html" timestamp="1588920971972">
+        <mark key="[" line="38" column="10" />
+        <mark key="]" line="38" column="9" />
+        <mark key="." line="38" column="8" />
+        <mark key="^" line="38" column="9" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/assets/shims.js" timestamp="1588914357189">
         <mark key="[" line="0" column="0" />
@@ -233,6 +233,12 @@
         <mark key="." line="70" column="10" />
         <mark key="^" line="70" column="11" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/webpacks/serve.ts" timestamp="1588921510061">
+        <mark key="[" line="37" column="30" />
+        <mark key="]" line="37" column="31" />
+        <mark key="^" line="37" column="31" />
+        <mark key="." line="37" column="30" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/mods/web/viewhelp.py" timestamp="1588914566186">
         <mark key="[" line="61" column="45" />
         <mark key="]" line="61" column="46" />
@@ -245,7 +251,6 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/sqlalchemy/dialects/mysql/dml.py" timestamp="1588906370009" />
       <file name="$USER_HOME$/code/sc/web/sc/sql/__init__.py" timestamp="1588906801554">
         <mark key="[" line="40" column="103" />
         <mark key="]" line="41" column="18" />
@@ -261,12 +266,10 @@
         <mark key="." line="64" column="0" />
       </file>
       <file name="/office.py" timestamp="1588907386433" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1588905460899">
-        <mark key="'" line="387" column="45" />
-        <mark key="[" line="395" column="22" />
-        <mark key="]" line="396" column="56" />
-        <mark key="." line="396" column="55" />
-        <mark key="^" line="396" column="56" />
+      <file name="$USER_HOME$/code/sc/web/webpacks/shares/base.ts" timestamp="1588921449138">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/coms/ext/flasks.py" timestamp="1588914944276">
         <mark key="[" line="198" column="26" />
@@ -274,16 +277,11 @@
         <mark key="^" line="199" column="81" />
         <mark key="." line="199" column="80" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/user-accounts/user-accounts.html" timestamp="1588920953510" />
       <file name="$USER_HOME$/code/sc/web/sc/sql/platform/auth_loc/__init__.py" timestamp="1588918239878">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/coms/dm/sa.py" timestamp="1588906770255">
-        <mark key="[" line="357" column="58" />
-        <mark key="]" line="358" column="2" />
-        <mark key="." line="358" column="1" />
-        <mark key="^" line="358" column="2" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/mods/config.py" timestamp="1588917969246">
         <mark key="[" line="15" column="2" />
@@ -416,11 +414,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>hj_settings</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBAdHMtaWdub3JlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>hj_settings</text>
+        <text>not</text>
       </register>
       <register name="/" type="4">
         <text>leaflet</text>
@@ -429,34 +427,34 @@
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhbHMgPSBBdXRoTG9jR29vZ2xlLnNlYXJjaChBdXRoTG9jR29vZ2xlLm5hbWUuY29uKS5hbGwoKQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBAdHMtaWdub3JlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIEB0cy1pZ25vcmUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBzYy5oaW50cyBpbXBvcnQgU2hpdAo=</text>
+        <text encoding="base64">ICAgIC8vIH0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U2hpdCA9IENvbFtzdHJdCg==</text>
+        <text encoding="base64">ICAgIC8vIG5vZGU6IHsKICAgIC8vICAgQnVmZmVyOiBmYWxzZSwKICAgIC8vICAgcHJvY2VzczogZmFsc2UsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U0VTU0lPTl9DT09LSUVfU0FNRVNJVEUgPSAiU3RyaWN0Igo=</text>
+        <text encoding="base64">ICAgIC8vIG91dHB1dDogewogICAgLy8gICBwdWJsaWNQYXRoOiAnLi8nLAogICAgLy8gfSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgcGF0aDogZGlzdCwKICAgICAgZmlsZW5hbWU6IGAke21vZH0uW25hbWVdLmpzP3Y9e3sgZGF0YS52ZXJzaW9uIH19YCwKICAgICAgY2h1bmtGaWxlbmFtZTogYCR7bW9kfS5bbmFtZV0uanM/dj17eyBkYXRhLnZlcnNpb24gfX1gLAogICAgICBzb3VyY2VNYXBGaWxlbmFtZTogYCR7bW9kfS5bbmFtZV0uanMubWFwYCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAganMuY3Jvc3NPcmlnaW4gPSAnYW5vbnltb3VzJwo=</text>
+        <text encoding="base64">ICBhbHMgPSBBdXRoTG9jR29vZ2xlLnNlYXJjaChBdXRoTG9jR29vZ2xlLm5hbWUuY29uKS5hbGwoKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBzYy5oaW50cyBpbXBvcnQgU2hpdAo=</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
