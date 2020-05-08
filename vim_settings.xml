@@ -217,12 +217,12 @@
       <file name="/console" timestamp="1588949376405">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1588954259013">
-        <mark key="'" line="381" column="0" />
-        <mark key="[" line="365" column="9" />
-        <mark key="]" line="365" column="10" />
-        <mark key="^" line="365" column="10" />
-        <mark key="." line="365" column="9" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1588955421978">
+        <mark key="'" line="421" column="0" />
+        <mark key="[" line="348" column="28" />
+        <mark key="]" line="349" column="10" />
+        <mark key="^" line="349" column="10" />
+        <mark key="." line="349" column="9" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" timestamp="1588953353792">
         <mark key="'" line="450" column="29" />
@@ -240,16 +240,12 @@
       <file name="/default" timestamp="1588951559581">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/dumpDataPreview" timestamp="1588955430754">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/encounters/process.py" timestamp="1588952877620" />
       <file name="$USER_HOME$/code/sc/web/sc/coms/ext/classful.py" timestamp="1588950020778">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" timestamp="1588947590612">
-        <mark key="'" line="552" column="13" />
-        <mark key="[" line="461" column="0" />
-        <mark key="]" line="461" column="0" />
-        <mark key="^" line="461" column="33" />
-        <mark key="." line="461" column="0" />
       </file>
       <file name="/payments" timestamp="1588949376363">
         <mark key="[" line="0" column="0" />
@@ -392,10 +388,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>hj_transaction</text>
+        <text>paid_amt</text>
       </register>
       <register name="-" type="4">
-        <text>hj_transaction</text>
+        <text>paid_amt</text>
       </register>
       <register name="/" type="4">
         <text>leaflet</text>
@@ -404,34 +400,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHQucmF3X2lkICAgICAgIHRyYW5zX2lkCiAgLCB0LmRhdGUgICAgICAgICBvcmlnX3Bvc3RfZGF0ZQogICwgdC5iYWNrb3V0X2RhdGUgcG9zdF9kYXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">d2hlcmUgCg==</text>
+        <text encoding="base64">ICAgIHQucmF3X2lkICAgICAgIHRyYW5zX2lkCiAgLCB0LmRhdGUgICAgICAgICBvcmlnX3Bvc3RfZGF0ZQogICwgdC5iYWNrb3V0X2RhdGUgcG9zdF9kYXRlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIG1vZDEudXAK</text>
+        <text encoding="base64">d2hlcmUgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgcm93cyA9ICgKICAgIFRyYW5zYWN0aW9uLnNlYXJjaCgpCiAgICAub3V0ZXJqb2luKFRyYW5zYWN0aW9uLmNoYXJnZSwgYWxpYXNlZD1UcnVlKQogICAgLmZpbHRlcihDaGFyZ2UuaWQuaXNfKE5vbmUpKQogICAgLmpvaW4oVHJhbnNhY3Rpb24uZmlyc3RfZW5jX2NoYXJnZSkKICAgIC5yZXNldF9qb2lucG9pbnQoKQogICAgLmZpbHRlcihUcmFuc2FjdGlvbi5jaGFyZ2Vfbm8gIT0gVU5LTk9XTikKICAgIC53aXRoX2VudGl0aWVzKFRyYW5zYWN0aW9uLmlkLCBDaGFyZ2UuaWQubGFiZWwoImNoYXJnZV9pZCIpLCBDaGFyZ2Uuc2VxX25vKQogICAgLmFsbCgpCiAgKQogIHByaW50KCJSb3dzIiwgbGVuKHJvd3MpKQogIHJvd3MgPSBbci5fYXNkaWN0KCkgZm9yIHIgaW4gcm93c10KICBzZXNzLmJ1bGtfdXBkYXRlX21hcHBpbmdzKFRyYW5zYWN0aW9uLCByb3dzKQogIHByaW50KCJTYXZlZCIsIGxlbihyb3dzKSkK</text>
+        <text encoding="base64">ICAgIGlmIG1vZDEudXAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBzZXNzLmJ1bGtfaW5zZXJ0X21hcHBpbmdzKEVuY291bnRlciwgcm93cykK</text>
+        <text encoding="base64">CiAgcm93cyA9ICgKICAgIFRyYW5zYWN0aW9uLnNlYXJjaCgpCiAgICAub3V0ZXJqb2luKFRyYW5zYWN0aW9uLmNoYXJnZSwgYWxpYXNlZD1UcnVlKQogICAgLmZpbHRlcihDaGFyZ2UuaWQuaXNfKE5vbmUpKQogICAgLmpvaW4oVHJhbnNhY3Rpb24uZmlyc3RfZW5jX2NoYXJnZSkKICAgIC5yZXNldF9qb2lucG9pbnQoKQogICAgLmZpbHRlcihUcmFuc2FjdGlvbi5jaGFyZ2Vfbm8gIT0gVU5LTk9XTikKICAgIC53aXRoX2VudGl0aWVzKFRyYW5zYWN0aW9uLmlkLCBDaGFyZ2UuaWQubGFiZWwoImNoYXJnZV9pZCIpLCBDaGFyZ2Uuc2VxX25vKQogICAgLmFsbCgpCiAgKQogIHByaW50KCJSb3dzIiwgbGVuKHJvd3MpKQogIHJvd3MgPSBbci5fYXNkaWN0KCkgZm9yIHIgaW4gcm93c10KICBzZXNzLmJ1bGtfdXBkYXRlX21hcHBpbmdzKFRyYW5zYWN0aW9uLCByb3dzKQogIHByaW50KCJTYXZlZCIsIGxlbihyb3dzKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgZm9yZWlnbl9rZXlzPVtjaWQsIGNoYXJnZV9ubywgc2VxX25vXSwK</text>
+        <text encoding="base64">CiAgICBzZXNzLmJ1bGtfaW5zZXJ0X21hcHBpbmdzKEVuY291bnRlciwgcm93cykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJTYXZlZCIsIGxlbihyb3dzKSkK</text>
+        <text encoding="base64">ICAgICMgZm9yZWlnbl9rZXlzPVtjaWQsIGNoYXJnZV9ubywgc2VxX25vXSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJTYXZlZCIsIGxlbihyb3dzKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJSb3dzIiwgbGVuKHJvd3MpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
