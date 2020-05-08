@@ -50,6 +50,11 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="Django.RunManageTaskAction" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="meta down" />
+    <keyboard-shortcut first-keystroke="f4" />
+    <keyboard-shortcut first-keystroke="meta j" />
+  </action>
   <action id="EditorCutLineEnd" />
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />

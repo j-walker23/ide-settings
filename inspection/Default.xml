@@ -86,6 +86,7 @@
       <list>
         <option value="property.label" />
         <option value="sc.sql.integ.hj.base.ChargeMix.account_id" />
+        <option value="sqlalchemy.ext.hybrid.hybrid_property.*" />
       </list>
     </option>
   </inspection_tool>
