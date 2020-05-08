@@ -210,11 +210,11 @@
       <file name="/Python Console" timestamp="1588893072453">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/cli/apis/hj.py" timestamp="1588896558271">
-        <mark key="[" line="292" column="32" />
-        <mark key="]" line="292" column="44" />
-        <mark key="." line="292" column="43" />
-        <mark key="^" line="292" column="44" />
+      <file name="$USER_HOME$/code/sc/web/cli/apis/hj.py" timestamp="1588900056763">
+        <mark key="[" line="306" column="34" />
+        <mark key="]" line="307" column="12" />
+        <mark key="." line="307" column="11" />
+        <mark key="^" line="307" column="12" />
       </file>
       <file name="/console" timestamp="1588883616908">
         <mark key="[" line="0" column="0" />
@@ -375,10 +375,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>str</text>
+        <text>read_local_json(&quot;app-docs&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>str</text>
+        <text>read_local_json(&quot;app-docs&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>leaflet</text>
@@ -387,34 +387,34 @@
         <text>]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgcHJpbnQoIlxuRG9jdG9ycyIpCiAgZm9yIGFpZCwgcm93cyBpbiBhbGxkb2NzLml0ZW1zKCk6CiAgICB3aXRoIGFjY19iaW5kKGFpZCk6CiAgICAgIG5hbWVzID0gcGx1Y2socm93cywgInJhd19pZCIpCiAgICAgIGxvY3MgPSBEb2N0b3Iuc2VhcmNoKERvY3Rvci5yYXdfaWQuaW5fKG5hbWVzKSkuYWxsKCkKICAgICAgcHJpbnQoYWlkLCAiT3JpZyIsIGxlbihuYW1lcyksICJGb3VuZCIsIGxlbihsb2NzKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsaWQgPSByb3dbImxpZCJdCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGdybwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhbGxzID0gCg==</text>
+        <text encoding="base64">ICAgICAgICBsb3dlcnMgPSB7ay5sb3dlcigpOiB2IGZvciBrLCB2IGluIGdyb3Vwcy5pdGVtcygpfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBob3N0ID0gImh0dHBzOi8vZGJ4LmhlYWx0aGp1bXAuY29tLyIKICBhcGlfa2V5ID0gIllpbHFFaTBnNUM1Qm8ybThTMkxxcVNBbWNOMXd2UlVOU09jdW9qMVYiCiAgYXBpID0gUmVkYXNoQVBJQ2xpZW50KGFwaV9rZXksIGhvc3QpCg==</text>
+        <text encoding="base64">CiAgcHJpbnQoIlxuRG9jdG9ycyIpCiAgZm9yIGFpZCwgcm93cyBpbiBhbGxkb2NzLml0ZW1zKCk6CiAgICB3aXRoIGFjY19iaW5kKGFpZCk6CiAgICAgIG5hbWVzID0gcGx1Y2socm93cywgInJhd19pZCIpCiAgICAgIGxvY3MgPSBEb2N0b3Iuc2VhcmNoKERvY3Rvci5yYXdfaWQuaW5fKG5hbWVzKSkuYWxsKCkKICAgICAgcHJpbnQoYWlkLCAiT3JpZyIsIGxlbihuYW1lcyksICJGb3VuZCIsIGxlbihsb2NzKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgaXRlbToKICAgICAgICAgIGl0ZW0gPSAK</text>
+        <text encoding="base64">ICAgICAgICBsaWQgPSByb3dbImxpZCJdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAjIHNoaXQgPSAK</text>
+        <text encoding="base64">ICBhbGxzID0gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBob3N0ID0gImh0dHBzOi8vZGJ4LmhlYWx0aGp1bXAuY29tLyIKICBhcGlfa2V5ID0gIllpbHFFaTBnNUM1Qm8ybThTMkxxcVNBbWNOMXd2UlVOU09jdW9qMVYiCiAgYXBpID0gUmVkYXNoQVBJQ2xpZW50KGFwaV9rZXksIGhvc3QpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJyZWFrCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgaXRlbToKICAgICAgICAgIGl0ZW0gPSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYnJlYWsK</text>
+        <text encoding="base64">ICAjIHNoaXQgPSAK</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
