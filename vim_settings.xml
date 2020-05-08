@@ -276,8 +276,11 @@
       <file name="$USER_HOME$/code/sc/web/migrations/versions/7bec23cab57d__46.py" timestamp="1588946278813">
         <mark key="'" line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1588947607004">
-        <mark key="[" line="543" column="21" />
+      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1588947946277">
+        <mark key="[" line="561" column="0" />
+        <mark key="]" line="561" column="0" />
+        <mark key="^" line="553" column="0" />
+        <mark key="." line="561" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -385,8 +388,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>updates</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICMgLmRlYnVnX3ByaW50KCkKICAgIC51cGRhdGUoanMsIHN5bmNocm9uaXplX3Nlc3Npb249RmFsc2UpCg==</text>
       </register>
       <register name="-" type="4">
         <text>updates</text>
@@ -398,34 +401,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICMgLmRlYnVnX3ByaW50KCkKICAgIC51cGRhdGUoanMsIHN5bmNocm9uaXplX3Nlc3Npb249RmFsc2UpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLmZpbHRlcihDaGFyZ2UuaWQuaXNfKE5vbmUpKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC5maWx0ZXIoQ2hhcmdlLmlkLmlzXyhOb25lKSkK</text>
+        <text encoding="base64">ICAgICAgLmZpbHRlcihDaGFyZ2UuaWQuaXNfKE5vbmUpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAsIGhqX2NoYXJnZV8xLmlkCg==</text>
+        <text encoding="base64">ICAgIC5maWx0ZXIoQ2hhcmdlLmlkLmlzXyhOb25lKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAsIGhqX2NoYXJnZV8xLmlkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VsZWN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIENoYXJnZS5zZXFfbm8gPT0gIjEiLAo=</text>
+        <text encoding="base64">c2VsZWN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjaWQ6IENvbFN0ciA9IENvbHVtbihTdHJpbmcoQ0lEX0xFTiksIG51bGxhYmxlPUZhbHNlKQo=</text>
+        <text encoding="base64">ICAgIENoYXJnZS5zZXFfbm8gPT0gIjEiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgQGRlY2xhcmVkX2F0dHIKICBkZWYgX19sb2NhbF9hcmdzX18oY2xzKToKICAgIGlmIGNscy5fX3RhYmxlbmFtZV9fID09ICJoal9lbmNvdW50ZXIiOgogICAgICByZXR1cm4gTm9uZQogICAgcmV0dXJuIHNhX2luZGV4KGNscywgImRhdGUiKQo=</text>
+        <text encoding="base64">ICBjaWQ6IENvbFN0ciA9IENvbHVtbihTdHJpbmcoQ0lEX0xFTiksIG51bGxhYmxlPUZhbHNlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
