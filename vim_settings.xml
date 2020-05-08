@@ -204,6 +204,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/sc/web/sc/coms/search/params.py" timestamp="1588938666575" />
       <file name="$USER_HOME$/code/sc/web/templates/web.html" timestamp="1588920971972">
         <mark key="[" line="38" column="10" />
         <mark key="]" line="38" column="9" />
@@ -216,12 +217,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/core/mixins/specs.py" timestamp="1588918356024">
-        <mark key="[" line="70" column="9" />
-        <mark key="]" line="70" column="11" />
-        <mark key="." line="70" column="10" />
-        <mark key="^" line="70" column="11" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/user_accounts_view.py" timestamp="1588930335252" />
       <file name="$USER_HOME$/code/sc/web/webpacks/serve.ts" timestamp="1588921510061">
         <mark key="[" line="37" column="30" />
@@ -230,11 +225,11 @@
         <mark key="." line="37" column="30" />
       </file>
       <file name="/Pipfile.lock" timestamp="1588930724917" />
-      <file name="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" timestamp="1588936011568">
-        <mark key="[" line="462" column="30" />
-        <mark key="]" line="462" column="30" />
-        <mark key="." line="462" column="29" />
-        <mark key="^" line="462" column="30" />
+      <file name="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" timestamp="1588938101766">
+        <mark key="[" line="461" column="0" />
+        <mark key="]" line="461" column="0" />
+        <mark key="^" line="461" column="33" />
+        <mark key="." line="461" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1588930246047">
         <mark key="'" line="41" column="0" />
@@ -242,17 +237,22 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/coms/search/search.py" timestamp="1588938691044">
+        <mark key="[" line="267" column="0" />
+        <mark key="]" line="267" column="0" />
+        <mark key="^" line="266" column="34" />
+        <mark key="." line="267" column="0" />
+      </file>
       <file name="/Pipfile" timestamp="1588930653317" />
       <file name="/usr/local/Cellar/python/3.7.4_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/typing.py" timestamp="1588936061407" />
-      <file name="/Python Console" timestamp="1588930021498">
+      <file name="/Python Console" timestamp="1588938873256">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/cols.py" timestamp="1588936082412">
-        <mark key="'" line="264" column="18" />
-        <mark key="[" line="270" column="12" />
-        <mark key="]" line="270" column="12" />
-        <mark key="." line="270" column="11" />
-        <mark key="^" line="270" column="12" />
+      <file name="$USER_HOME$/code/sc/web/sc/sql/cols.py" timestamp="1588938230380">
+        <mark key="[" line="264" column="0" />
+        <mark key="]" line="264" column="0" />
+        <mark key="." line="264" column="0" />
+        <mark key="^" line="264" column="6" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/coms/ext/sentry.py" timestamp="1588935561289" />
       <file name="$USER_HOME$/code/sc/web/webpacks/shares/base.ts" timestamp="1588921449138">
@@ -260,27 +260,24 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/user-accounts/user-accounts.html" timestamp="1588920953510" />
+      <file name="/Dummy.txt" timestamp="1588938182798">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/sess_ext.py" timestamp="1588930296805">
         <mark key="[" line="191" column="14" />
         <mark key="]" line="192" column="12" />
         <mark key="^" line="192" column="12" />
         <mark key="." line="192" column="11" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/platform/auth_loc/__init__.py" timestamp="1588918239878">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/sc/coms/customsql/stringtypes.py" timestamp="1588936085617">
         <mark key="'" line="76" column="6" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1588935664006">
+      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1588938198272">
         <mark key="'" line="513" column="8" />
-        <mark key="[" line="546" column="44" />
-        <mark key="]" line="546" column="57" />
-        <mark key="." line="546" column="56" />
-        <mark key="^" line="546" column="57" />
+        <mark key="[" line="543" column="15" />
+        <mark key="]" line="543" column="15" />
+        <mark key="." line="543" column="14" />
+        <mark key="^" line="543" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -388,11 +385,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>: SqlCol[sql.AuthLoc]</text>
+      <register name="+" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>: SqlCol[sql.AuthLoc]</text>
+        <text>self.</text>
       </register>
       <register name="/" type="4">
         <text>leaflet</text>
@@ -401,34 +398,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ID0gUwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlzaW5uZXIgPSBGYWxzZSBpZiAib3V0KCkiIGluIG1vZCBlbHNlIFRydWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIGxlbihlLm9yaWcuYXJncykgPT0gMjoKICAgICAgZm9yIGEgaW4gZS5vcmlnLmFyZ3M6CiAgICAgICAgcHJpbnQoYSkKICAgIGVsc2U6CiAgICAgIHByaW50KGUpCg==</text>
+        <text encoding="base64">X0FMID0gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoZS5vcmlnLmFyZ3NbMV0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgIEF1dGhMb2NRdWVzdGlvbi5hbC5hbnkoKQogICAgICAgICAgYWwgPSBBdXRoTG9jUXVlc3Rpb24oKS5hbAogICAgICAgICAgYWwubGFiZWxzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgIyB0cnk6Cg==</text>
+        <text encoding="base64">UyA9IFR5cGVWYXIoJ1MnKQpTcWxDb2wgPSBVbmlvbltTLCBDb2x1bW5dCgojIGlmIFRZUEVfQ0hFQ0tJTkc6CkNvbCA9IFNxbENvbFtzcWwuQXV0aExvY10KIyBlbHNlOgojICAgQ29sID0gQ29sdW1uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICBbT3B0aW9uYWxbc3RyXV0KICBpbXBvcnQgc2Muc3FsIGFzIHNxbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgVFlQRV9DSEVDS0lORzoKICBTID0gVHlwZVZhcignUycsIGJvdW5kPXNxbC5Nb2RlbCkKICBDb2x1bW4gPSBDb2x1bW5bU10KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoZS5vcmlnLmFyZ3NbMV0pCiAgICAgIHByaW50KCkKICAgICAgZmluZ2Vycy5hcHBlbmQoKQo=</text>
+        <text encoding="base64">ICBbT3B0aW9uYWxbc3RyXV0KICBpbXBvcnQgc2Muc3FsIGFzIHNxbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBxID0gbWFrZV9vcmRlcl9ieV9kZXRlcm1pbmlzdGljKHEpCiAgcS5kZWJ1Z19wcmludCgpCg==</text>
+        <text encoding="base64">U3FsQ29sID0gVW5pb25bUywgQ29sdW1uXQo=</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
