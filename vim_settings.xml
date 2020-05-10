@@ -216,8 +216,10 @@
       <file name="/Dummy.txt" timestamp="1588978990559">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/listings/listings.html" timestamp="1588976537458">
-        <mark key="'" line="48" column="21" />
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/transaction.py" timestamp="1589080821244">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="67" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="/payments" timestamp="1589068301102">
         <mark key="[" line="0" column="0" />
@@ -225,26 +227,19 @@
       <file name="/console" timestamp="1589068301137">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/charge.py" timestamp="1589075950975">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/227f2ba4-0163-4488-ac54-a37aea04849a/payments.sql" timestamp="1589081025834" />
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/charge.py" timestamp="1589080451685">
         <mark key="'" line="32" column="6" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="43" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="63" column="42" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="43" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1589074580612" />
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" timestamp="1589075772591">
-        <mark key="[" line="460" column="23" />
-        <mark key="]" line="460" column="34" />
-        <mark key="^" line="460" column="34" />
-        <mark key="." line="460" column="33" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_48.py" timestamp="1588975283282">
-        <mark key="'" line="126" column="74" />
-        <mark key="[" line="126" column="16" />
-        <mark key="]" line="126" column="75" />
-        <mark key="." line="126" column="74" />
-        <mark key="^" line="126" column="75" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" timestamp="1589080836573">
+        <mark key="[" line="497" column="15" />
+        <mark key="]" line="497" column="23" />
+        <mark key="^" line="497" column="23" />
+        <mark key="." line="497" column="22" />
       </file>
       <file name="/charges" timestamp="1589068300933">
         <mark key="[" line="0" column="0" />
@@ -390,10 +385,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICBiYWNrb3V0X2RhdGU6IENvbERhdGUgPSBDb2x1bW4oQXJyb3dUeXBlKQo=</text>
+        <text encoding="base64">ICBpc2NvcGF5OiBib29sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;&quot;</text>
+        <text>_date_ints(date)</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -402,34 +397,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBiYWNrb3V0X2RhdGU6IENvbERhdGUgPSBDb2x1bW4oQXJyb3dUeXBlKQo=</text>
+        <text encoding="base64">ICBpc2NvcGF5OiBib29sCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBiZWdpbl9kYXRlOiBjb25hcnJvdyhjb25zdC5oal9kYXlfZm10KQo=</text>
+        <text encoding="base64">ICBpc2NvcGF5OiBDb2xCb29sID0gQ29sdW1uKEJvb2xlYW4sIG51bGxhYmxlPUZhbHNlLCBkZWZhdWx0PUZhbHNlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgInNlcnZpY2VfZGF0ZSI6ICJiZWdpbm5pbmdfZGF0ZV9vZl9zZXJ2aWNlIiwK</text>
+        <text encoding="base64">ICAgIHZhbHMudXBkYXRlKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgImRhdGUiOiAiZW50ZXJlZF9kYXRlX29mX2NoYXJnZSIsCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRhdGUgPSB0b19oal9hcnJvdyhiYWNrb3V0X2RhdGUgb3IgcG9zdGVkX2RhdGUsIGNvbnN0LmhqX2RheV9mbXQpCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzZXJ2aWNlX2RhdGU6IGNvbmFycm93KGNvbnN0LmhqX2RheV9mbXQpCg==</text>
+        <text encoding="base64">ICBlbmRpbmdfZGF0ZTogY29uYXJyb3coY29uc3QuaGpfZGF5X2ZtdCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb3JyZWN0aW9uCg==</text>
+        <text encoding="base64">ICBlbnRlcmVkX2RhdGU6IENvbERhdGUgPSBDb2x1bW4oQXJyb3dUeXBlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vYm9yZGVyOiAxcHggc29saWQgIzU1NQo=</text>
+        <text encoding="base64">ICBlbnRlcmVkX2RhdGU6IGNvbmFycm93KGNvbnN0LmhqX2RheV9mbXQpID0gTm9uZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vbGluZS1oZWlnaHQ6IDIwMCUK</text>
+        <text encoding="base64">ICBiYWNrb3V0X2RhdGU6IGNvbmFycm93KGNvbnN0LmhqX2RheV9mbXQpID0gTm9uZQo=</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
