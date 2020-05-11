@@ -213,12 +213,11 @@
       <file name="/fragment.py" timestamp="1589235784767">
         <mark key="[" line="0" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1589236194621">
-        <mark key="'" line="593" column="3" />
-        <mark key="[" line="633" column="0" />
-        <mark key="]" line="633" column="0" />
-        <mark key="^" line="646" column="2" />
-        <mark key="." line="633" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1589239119340">
+        <mark key="[" line="633" column="43" />
+        <mark key="]" line="633" column="43" />
+        <mark key="." line="633" column="42" />
+        <mark key="^" line="633" column="43" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/charges-variance/charges-variance.html" timestamp="1589225782071">
         <mark key="[" line="6" column="21" />
@@ -316,7 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="4" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/adjustments/arrow-adjustments.ts" />
       <jump line="63" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/charges/arrow-charges.html" />
       <jump line="25" column="13" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/summary-table/summary-table.ts" />
       <jump line="114" column="25" filename="$USER_HOME$/code/sc/web/static/common/interceptors/resource-interceptor.ts" />
@@ -416,15 +414,16 @@
       <jump line="534" column="3" filename="$USER_HOME$/code/sc/web/cli/john.py" />
       <jump line="549" column="2" filename="$USER_HOME$/code/sc/web/cli/john.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/app/surveys/topbox/topbox_agg.py" />
+      <jump line="632" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgIGFyZ3MuZGF0ZV9pbnQsCg==</text>
+      <register name="+" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>months</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>state</text>
@@ -433,34 +432,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFyZ3MuZGF0ZV9pbnQsCg==</text>
+        <text encoding="base64">ICAgIGhqX2NoYXJnZS5tb250aHMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z3JvdXAgYnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFyZ3MuZGF0ZV9pbnQsCg==</text>
+        <text encoding="base64">IyAgICAgaGpfY2hhcmdlLm1vbnRocwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgICAgaGpfY2hhcmdlLm1vbnRocwo=</text>
+        <text encoding="base64">ICAgIGlmIChncm91cGluZyhtb250aHMpLCAnQWxsIE1vbnRocycsIG1vbnRocykKICAgICwgaWYoZ3JvdXBpbmcgKHRvcCksICdBbGxUb3AnLCB0b3ApCiAgICAsIGlmKGdyb3VwaW5nIChtaWQpLCAnQWxsTWlkJywgdG9wKQogICAgLCBpZihncm91cGluZyAobmFtZSksICdBbGxHJywgdG9wKQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAgICAgaGpfY2hhcmdlLm1vbnRocwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFyZ3MuZGF0ZV9pbnQsCg==</text>
+        <text encoding="base64">ICAgaGpfY2hhcmdlLm1vbnRocwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgdG90YWxzCg==</text>
+        <text encoding="base64">ICAsIGhqX2NoYXJnZS5tb250aHMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoKQo=</text>
+        <text encoding="base64">ICAgIGFyZ3MuZGF0ZV9pbnQsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
