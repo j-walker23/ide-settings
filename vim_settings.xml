@@ -208,12 +208,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/code/sc/web/static/web/views/boost/details/boost-details.ts" timestamp="1589250887965" />
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-category-chart.ts" timestamp="1589251788335">
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-category-chart.ts" timestamp="1589253347836">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="39" column="23" />
-        <mark key="]" line="40" column="26" />
-        <mark key="." line="40" column="25" />
-        <mark key="^" line="40" column="26" />
+        <mark key="[" line="38" column="35" />
+        <mark key="]" line="38" column="35" />
+        <mark key="." line="38" column="34" />
+        <mark key="^" line="38" column="35" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/charge-groups-monthly/charge-groups-monthly.ts" timestamp="1589242113057">
         <mark key="'" line="17" column="0" />
@@ -245,6 +245,7 @@
         <mark key="." line="652" column="24" />
         <mark key="^" line="652" column="25" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-line-chart.ts" timestamp="1589253261717" />
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/procedure-group-compare/procedure-group-compare.html" timestamp="1589251195770" />
       <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/types.py" timestamp="1589245724415">
         <mark key="[" line="101" column="20" />
@@ -409,11 +410,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgIC8vIGNoYXJ0LnhBeGlzLmRhdGVUaW1lTGFiZWxGb3JtYXRzID0gewogICAgLy8gICBkYXk6ICclYiAlZScsCiAgICAvLyAgIG1vbnRoOiAnJWIgJVknLAogICAgLy8gICB3ZWVrOiAnJWIgJWUnLAogICAgLy8gfQoK</text>
+      <register name="+" type="4">
+        <text>, type, yAxis</text>
       </register>
       <register name="-" type="4">
-        <text>datetime</text>
+        <text>, type, yAxis</text>
       </register>
       <register name="/" type="4">
         <text>state</text>
@@ -422,34 +423,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGNoYXJ0LnhBeGlzLmRhdGVUaW1lTGFiZWxGb3JtYXRzID0gewogICAgLy8gICBkYXk6ICclYiAlZScsCiAgICAvLyAgIG1vbnRoOiAnJWIgJVknLAogICAgLy8gICB3ZWVrOiAnJWIgJWUnLAogICAgLy8gfQoK</text>
+        <text encoding="base64">ICAgICAgdHlwZTogdHlwZSwKICAgICAgICB5QXhpcwogICAgOgogICAgICBheGlzLAoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNoYXJ0LnhBeGlzLmRhdGVUaW1lTGFiZWxGb3JtYXRzID0gewogICAgLy8gICBkYXk6ICclYiAlZScsCiAgICAvLyAgIG1vbnRoOiAnJWIgJVknLAogICAgLy8gICB3ZWVrOiAnJWIgJWUnLAogICAgLy8gfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGRhdGEgPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA6CiAgICB7CiAgICAgIGRheTogJyViICVlJywKICAgICAgICBtb250aAogICAgOgogICAgICAnJWIgJVknLAogICAgICAgIHdlZWsKICAgIDoKICAgICAgJyViICVlJywKICAgIH0KICAsCg==</text>
+        <text encoding="base64">ICAgICAgbGV0IGRhdGEgPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBudW1iZXJGaWx0ZXIgPSAnZnVjaycK</text>
+        <text encoding="base64">ICA6CiAgICB7CiAgICAgIGRheTogJyViICVlJywKICAgICAgICBtb250aAogICAgOgogICAgICAnJWIgJVknLAogICAgICAgIHdlZWsKICAgIDoKICAgICAgJyViICVlJywKICAgIH0KICAsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGlmIChjaC5kYXRhLmlzRmlyc3RDaGFuZ2UoKSkKICAgIC8vICAgdGhpcy5pbml0KCkK</text>
+        <text encoding="base64">ICBudW1iZXJGaWx0ZXIgPSAnZnVjaycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdudW1iZXJGaWx0ZXInLCB0aGlzLm51bWJlckZpbHRlcikK</text>
+        <text encoding="base64">ICAgIC8vIGlmIChjaC5kYXRhLmlzRmlyc3RDaGFuZ2UoKSkKICAgIC8vICAgdGhpcy5pbml0KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbXBsYXRlIGZyb20gJ3dlYi92aWV3cy9hcnJvd2x5dGljcy9rcGlzL3Byb2NlZHVyZS1ncm91cC1jb21wYXJlL3Byb2NlZHVyZS1ncm91cC1jb21wYXJlLmh0bWwnCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdudW1iZXJGaWx0ZXInLCB0aGlzLm51bWJlckZpbHRlcikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKAogICAgICAnJywKICAgICAgJ0NoYXJnZXMnLAogICAgICAnQ2hhcmdlcycsCiAgICAgICd3ZWIuYXJyb3cuYXJyb3dseXRpY3MuYXJyaXZlZCcsCiAgICAgIGZhbHNlLAogICAgICBmYWxzZSwKICAgICAgJyQnLAogICAgKQogICAgdGhpcy50d29ZZWFyT3ZlcmxheSA9IGZhbHNlCg==</text>
+        <text encoding="base64">aW1wb3J0IHRlbXBsYXRlIGZyb20gJ3dlYi92aWV3cy9hcnJvd2x5dGljcy9rcGlzL3Byb2NlZHVyZS1ncm91cC1jb21wYXJlL3Byb2NlZHVyZS1ncm91cC1jb21wYXJlLmh0bWwnCg==</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
