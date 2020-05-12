@@ -208,6 +208,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/code/sc/web/static/web/views/boost/details/boost-details.ts" timestamp="1589250887965" />
+      <file name="$USER_HOME$/code/sc/web/static/common/models/ads/boost.model.ts" timestamp="1589256417425" />
       <file name="/console" timestamp="1589250487147">
         <mark key="[" line="0" column="0" />
       </file>
@@ -225,6 +226,7 @@
         <mark key="." line="7" column="22" />
         <mark key="^" line="7" column="23" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/summary-table/summary-table.ts" timestamp="1589256726693" />
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/arrowlytics.ints.ts" timestamp="1589255165917">
         <mark key="'" line="35" column="1" />
         <mark key="[" line="68" column="24" />
@@ -232,18 +234,19 @@
         <mark key="^" line="69" column="4" />
         <mark key="." line="69" column="3" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/groups-monthly-grid/groups-monthly-grid.ts" timestamp="1589255123829">
-        <mark key="'" line="19" column="23" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/groups-monthly-grid/groups-monthly-grid.ts" timestamp="1589256964999">
+        <mark key="'" line="32" column="17" />
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
         <mark key="^" line="43" column="52" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/compare-table/compare-table.ts" timestamp="1589255784875">
-        <mark key="[" line="50" column="16" />
-        <mark key="]" line="50" column="16" />
-        <mark key="." line="50" column="15" />
-        <mark key="^" line="50" column="16" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/compare-table/compare-table.ts" timestamp="1589257374498">
+        <mark key="'" line="49" column="18" />
+        <mark key="[" line="50" column="31" />
+        <mark key="]" line="50" column="34" />
+        <mark key="^" line="50" column="34" />
+        <mark key="." line="50" column="33" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/summary-table/summary-table.html" timestamp="1589254779941">
         <mark key="[" line="2" column="25" />
@@ -271,12 +274,6 @@
         <mark key="^" line="43" column="18" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/types.py" timestamp="1589245724415">
-        <mark key="[" line="101" column="20" />
-        <mark key="]" line="101" column="21" />
-        <mark key="^" line="101" column="21" />
-        <mark key="." line="101" column="20" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/procedure-group-compare/procedure-group-compare.ts" timestamp="1589255247927">
         <mark key="[" line="15" column="4" />
         <mark key="]" line="16" column="27" />
@@ -290,16 +287,16 @@
         <mark key="^" line="24" column="48" />
         <mark key="." line="24" column="47" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-compare-chart.ts" timestamp="1589255326076">
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/compare-table/compare-table.html" timestamp="1589256911560">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="19" />
+        <mark key="^" line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-compare-chart.ts" timestamp="1589256258445">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/coms/dm/sa.py" timestamp="1589247828449">
-        <mark key="[" line="351" column="9" />
-        <mark key="]" line="351" column="26" />
-        <mark key="^" line="351" column="26" />
-        <mark key="." line="351" column="25" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/compare-table/summary-table.html" timestamp="1589254775735">
         <mark key="[" line="3" column="12" />
@@ -310,9 +307,6 @@
       <file name="$USER_HOME$/code/sc/web/static/web/views/assign-dash/users-status-trend/users-status-trend.ts" timestamp="1589251613653" />
     </filemarks>
     <jumps>
-      <jump line="379" column="6" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
-      <jump line="45" column="17" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/types.py" />
-      <jump line="44" column="4" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-line-chart.ts" />
       <jump line="50" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/summary-table/summary-table.ts" />
       <jump line="72" column="6" filename="$USER_HOME$/code/sc/web/static/common/constants.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/listings/listings.ts" />
@@ -410,15 +404,18 @@
       <jump line="89" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/groups-monthly-grid/groups-monthly-grid.ts" />
       <jump line="22" column="23" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/groups-monthly-grid/groups-monthly-grid.ts" />
       <jump line="65" column="20" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/compare-table/compare-table.ts" />
+      <jump line="26" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/compare-table/compare-table.ts" />
+      <jump line="32" column="17" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/groups-monthly-grid/groups-monthly-grid.ts" />
+      <jump line="48" column="18" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/compare-table/compare-table.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>this.</text>
+      <register name="+" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>this.</text>
+        <text>num</text>
       </register>
       <register name="/" type="4">
         <text>state</text>
@@ -427,34 +424,39 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgY2xpY2soY2VsbDogYW55LCBjb2wpIHsKICAgIGxldCBxdWVyeSA9IGdldFF1ZXJ5KCkKICAgIGxldCBkYXRlID0gY2VsbC5kYXRlIHx8IGNvbC54CiAgICBsZXQgeyBzdGFydCwgZW5kIH0gPSBBcnJvd0NvbW1vbi5nZXRDbGlja0RldGFpbHMoY29sLnNwYW4sIGRhdGUpCiAgICBpZiAoY2VsbC50eXBlID09ICdzZWxlY3RlZC1ncm91cCcpCiAgICAgIEFycm93Q29tbW9uLmdvVG9EZXRhaWxlZFZpZXcoCiAgICAgICAgdGhpcy5kZXRhaWxlZCwKICAgICAgICBxdWVyeSwKICAgICAgICB0aGlzLmZpbHRlciwKICAgICAgICBzdGFydCwKICAgICAgICBlbmQsCiAgICAgICkKICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ251bScsIG51bSwgZHQsIGR0LmZvcm1hdCgnTU1NLVlZJykpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBjb25zb2xlLmxvZyhkYXRlcykK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ251bScsIG51bSwgZHQuZm9ybWF0KCdNTU0nKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBpZiAodGhpcy5kYXRhKSB7CiAgICAgIHRoaXMuZ3JpZC5jb2x1bW5EZWZzLnB1c2goeyBuYW1lOiAnTmFtZScsIHdpZHRoOiAxNTAgfSkKICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbHVtbkRlZnM6IFtdLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZGF0YVRyYW5zID0gW10KICAgIHRoaXMuZ3JpZC5jb2x1bW5EZWZzID0gW10KCg==</text>
+        <text encoding="base64">CiAgICBjb25zb2xlLmxvZyhkYXRhKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzcGFuOiB2YWwudHlwZSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCBjb2xzID0gW10K</text>
+        <text encoding="base64">CiAgICAgIGdyb3VwW25hbWVdID0gCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGRhdGVzWzBdLmlzCg==</text>
+      <register name="9" type="4">
+        <text>{
+        date: val.date,
+        value: `${sym}${val.count.toLocaleString()}`,
+        type: 'selected-group',
+        span: val.type,
+      }</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
