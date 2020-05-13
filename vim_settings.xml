@@ -210,40 +210,55 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/gmb_questions_view.py" timestamp="1589404818574">
-        <mark key="'" line="11" column="6" />
+      <file name="$USER_HOME$/code/sc/web/sc/coms/search/clauses.py" timestamp="1589409816299" />
+      <file name="$USER_HOME$/code/sc/web/sc/coms/search/auto/auto_model.py" timestamp="1589409692890">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/platform/auth_loc/auth_loc_qa.py" timestamp="1589405373829">
-        <mark key="[" line="31" column="15" />
-        <mark key="]" line="31" column="22" />
-        <mark key="." line="31" column="21" />
-        <mark key="^" line="31" column="22" />
+      <file name="$USER_HOME$/code/sc/web/sc/sql/platform/auth_loc/auth_loc_qa.py" timestamp="1589410419962">
+        <mark key="'" line="74" column="37" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="73" column="36" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1589403271179">
-        <mark key="[" line="0" column="4" />
+      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1589408520594">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/coms/testing/utils.py" timestamp="1589403131469">
-        <mark key="'" line="486" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1589403272852">
-        <mark key="'" line="43" column="2" />
+      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1589409494089">
+        <mark key="'" line="41" column="7" />
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="17" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/dashboard/dashboard.ts" timestamp="1589404801587">
+      <file name="$USER_HOME$/code/sc/web/static/web/views/dashboard/dashboard.html" timestamp="1589410099111">
+        <mark key="'" line="85" column="6" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/dashboard/dashboard.ts" timestamp="1589410225486">
         <mark key="'" line="84" column="13" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/dashboard/dash.py" timestamp="1589405169428" />
-      <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/pyexcel_io/plugins.py" timestamp="1589405712899">
-        <mark key="'" line="113" column="22" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/dashboard/dash.py" timestamp="1589409774878">
+        <mark key="[" line="0" column="40" />
+        <mark key="]" line="0" column="56" />
+        <mark key="^" line="0" column="56" />
+        <mark key="." line="0" column="55" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/grid.ts" timestamp="1589404790257" />
-      <file name="$USER_HOME$/code/sc/web/sc/sql/platform/auth_loc/__init__.py" timestamp="1589405358355">
+      <file name="/Python Console" timestamp="1589409778738">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1589409892638">
+        <mark key="[" line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/sql/platform/auth_loc/__init__.py" timestamp="1589410333100">
         <mark key="'" line="108" column="3" />
+        <mark key="[" line="314" column="0" />
+        <mark key="]" line="314" column="0" />
+        <mark key="^" line="315" column="37" />
+        <mark key="." line="314" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/mods/invite/rest/rest_views.py" timestamp="1589406393187">
         <mark key="'" line="69" column="0" />
@@ -252,21 +267,16 @@
         <mark key="^" line="110" column="82" />
         <mark key="." line="110" column="89" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1589405847645">
+      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/listings_view.py" timestamp="1589410342796" />
+      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1589410403612">
         <mark key="'" line="562" column="10" />
-        <mark key="[" line="555" column="3" />
-        <mark key="]" line="556" column="9" />
-        <mark key="." line="556" column="8" />
-        <mark key="^" line="556" column="9" />
+        <mark key="[" line="536" column="14" />
+        <mark key="]" line="536" column="18" />
+        <mark key="." line="536" column="17" />
+        <mark key="^" line="536" column="18" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/charges-payments-ntg/charges-payments-ntg.ts" />
-      <jump line="21" column="22" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/charges-payments-ntg/charges-payments-ntg.ts" />
-      <jump line="106" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/payor-mix/payor-mix.ts" />
-      <jump line="11" column="21" filename="$USER_HOME$/code/sc/web/static/common/util/times.ts" />
-      <jump line="86" column="20" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/arrowlytics.ints.ts" />
-      <jump line="130" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/arrowlytics.ints.ts" />
       <jump line="140" column="11" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-common.ts" />
       <jump line="105" column="7" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/payor-mix/payor-mix.ts" />
       <jump line="9" column="10" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-compare-chart.ts" />
@@ -361,15 +371,21 @@
       <jump line="113" column="22" filename="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/pyexcel_io/plugins.py" />
       <jump line="562" column="10" filename="$USER_HOME$/code/sc/web/cli/john.py" />
       <jump line="64" column="0" filename="$USER_HOME$/code/sc/web/sc/mods/invite/rest/rest_views.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/app/selects/listings.py" />
+      <jump line="41" column="7" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
+      <jump line="75" column="37" filename="$USER_HOME$/code/sc/web/sc/sql/platform/auth_loc/auth_loc_qa.py" />
+      <jump line="36" column="19" filename="$USER_HOME$/code/sc/web/static/web/views/dashboard/dashboard.html" />
+      <jump line="85" column="6" filename="$USER_HOME$/code/sc/web/static/web/views/dashboard/dashboard.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>pod</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICBfX2t3X18gPSAicXMiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>pod</text>
+        <text>location:&quot;A thru Z Pediatrics&quot;</text>
       </register>
       <register name="/" type="4">
         <text>hyb</text>
@@ -378,34 +394,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV2aWV3LnNhdmVfc3VydmV5cy5zKCkK</text>
+        <text encoding="base64">ICBfX2t3X18gPSAicXMiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcmludChxLmFsbCgpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJBdHRlbXB0aW5nIiwgbCkK</text>
+        <text encoding="base64">ICAgIGNhc2UgPSBsYW1iZGEgazogayA9PSBrZXkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICBpZiBjYXNlKCJpcyIpOgogICAgICBrZXkgPSAiYW5zd2VycyIKICAgICAgc2VwID0gT3AuYW55Lm5hbWUKICAgICAgaWYgdmFsID09ICJ1bmFuc3dlcmVkIjoKICAgICAgICBzZXAgPSBmIn57c2VwfSIKICAgICAgdmFsID0gW3sib3JzIjogW3siYW5zX3R5cGUiOiAiTUVSQ0hBTlQifSwgeyJwcm9tb3RlZF9hbnN3ZXIiOiBUcnVlfV19XQoKICAgIGVsaWYgY2FzZSgiaWdub3JlZCIpOgogICAgICBrZXksIHNlcCwgdmFsID0gY2xzLmlzX2lnbm9yZWQsIE9wLmVxLCB2YWwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBzYy5hcHAuYXJyb3dseXRpY3MuY2hhcmdlcy50eXBlcyBpbXBvcnQgQ2hhcmdlc0FyZ3MK</text>
+        <text encoding="base64">ICAgICMgaWYgc2EuaXNfY29sX2luZGV4X3Byb3AocmV0KToKICAgICMgICBpZiBzZWxmLnR5cGUgaXMgc3RyOgogICAgIyAgICAgcmV0dXJuIHJldC5hc19zdHJpbmcoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAjICJweWV4Y2VsX2lvIiwK</text>
+        <text encoding="base64">ICAgIGlmIGM6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJweWV4Y2VsLWlvIiwK</text>
+        <text encoding="base64">CiAgYyA9IHVuYW5zd2VyZWQoe30pWyJjb3VudCJdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGEpCg==</text>
+        <text encoding="base64">CiAgIyBJbnZpdGVFdmVudC5zZWFyY2gocGFyYW1zPWFyZ3MpCiAgIyBxID0gKAogICMgICBBdXRoTG9jUXVlc3Rpb24uc2VhcmNoKHBhcmFtcz1hcmdzKQogICMgICAuZmlsdGVyKEF1dGhMb2NRdWVzdGlvbi5pc19pZ25vcmVkID09IEZhbHNlKQogICMgICAuZmlsdGVyKAogICMgICAgIH5BdXRoTG9jUXVlc3Rpb24uYW5zd2Vycy5hbnkoCiAgIyAgICAgICBvcl8oQXV0aExvY0Fuc3dlci5hbnNfdHlwZSA9PSAiTUVSQ0hBTlQiLCBBdXRoTG9jQW5zd2VyLnByb21vdGVkX2Fuc3dlciA9PSBUcnVlKQogICMgICAgICkKICAjICAgKQogICMgICAuY291bnQoKQogICMgKQogICMgcHJpbnQocSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICBhY2NzID0gc2VsZWN0cy5hY2NvdW50cy5tZWRpY2FsKCJxc3N7aWR9IikuYWxsKCkKICBmb3IgYWNjIGluIGFjY3M6CiAgICB3aXRoIGFjY19iaW5kKGFjYyk6CiAgICAgIGlmIGM6CiAgICAgICAgcHJpbnQoYWNjLmlkLCBhY2MubmFtZSwgYykKICAgICAgICBicmVhawo=</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
