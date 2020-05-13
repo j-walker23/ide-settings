@@ -210,12 +210,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/pyexcel_io/io.py" timestamp="1589401178198" />
-      <file name="/Python Console" timestamp="1589399146977">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/gmb_questions_view.py" timestamp="1589404818574">
+        <mark key="'" line="11" column="6" />
       </file>
-      <file name="/fragment.py" timestamp="1589399000683">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/sc/web/sc/sql/platform/auth_loc/auth_loc_qa.py" timestamp="1589405373829">
+        <mark key="[" line="31" column="15" />
+        <mark key="]" line="31" column="22" />
+        <mark key="." line="31" column="21" />
+        <mark key="^" line="31" column="22" />
       </file>
       <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1589403271179">
         <mark key="[" line="0" column="4" />
@@ -226,35 +228,39 @@
       <file name="$USER_HOME$/code/sc/web/sc/coms/testing/utils.py" timestamp="1589403131469">
         <mark key="'" line="486" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/invite/event.py" timestamp="1589399229510">
-        <mark key="[" line="16" column="15" />
-        <mark key="]" line="16" column="28" />
-        <mark key="^" line="16" column="28" />
-        <mark key="." line="16" column="27" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1589403272852">
         <mark key="'" line="43" column="2" />
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="17" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/Pipfile.lock" timestamp="1589401144828" />
-      <file name="$USER_HOME$/code/sc/web/Pipfile" timestamp="1589402140456" />
-      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1589404019537">
-        <mark key="'" line="28" column="7" />
-        <mark key="[" line="580" column="13" />
-        <mark key="]" line="580" column="13" />
-        <mark key="." line="580" column="12" />
-        <mark key="^" line="580" column="13" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/dashboard/dashboard.ts" timestamp="1589404801587">
+        <mark key="'" line="84" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/dashboard/dash.py" timestamp="1589405169428" />
+      <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/pyexcel_io/plugins.py" timestamp="1589405712899">
+        <mark key="'" line="113" column="22" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/grid.ts" timestamp="1589404790257" />
+      <file name="$USER_HOME$/code/sc/web/sc/sql/platform/auth_loc/__init__.py" timestamp="1589405358355">
+        <mark key="'" line="108" column="3" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/mods/invite/rest/rest_views.py" timestamp="1589406393187">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="110" column="88" />
+        <mark key="]" line="110" column="89" />
+        <mark key="^" line="110" column="82" />
+        <mark key="." line="110" column="89" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1589405847645">
+        <mark key="'" line="562" column="10" />
+        <mark key="[" line="555" column="3" />
+        <mark key="]" line="556" column="9" />
+        <mark key="." line="556" column="8" />
+        <mark key="^" line="556" column="9" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="4" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/payments/kpis.py" />
-      <jump line="104" column="4" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/payments/kpis.py" />
-      <jump line="134" column="4" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/payments/kpis.py" />
-      <jump line="64" column="19" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/payments/kpis.py" />
-      <jump line="40" column="19" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_50.py" />
-      <jump line="9" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_50.py" />
       <jump line="9" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/charges-payments-ntg/charges-payments-ntg.ts" />
       <jump line="21" column="22" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/charges-payments-ntg/charges-payments-ntg.ts" />
       <jump line="106" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/payor-mix/payor-mix.ts" />
@@ -349,15 +355,21 @@
       <jump line="577" column="11" filename="$USER_HOME$/code/sc/web/cli/john.py" />
       <jump line="43" column="2" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
       <jump line="28" column="7" filename="$USER_HOME$/code/sc/web/cli/john.py" />
+      <jump line="84" column="13" filename="$USER_HOME$/code/sc/web/static/web/views/dashboard/dashboard.ts" />
+      <jump line="11" column="6" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/gmb_questions_view.py" />
+      <jump line="108" column="3" filename="$USER_HOME$/code/sc/web/sc/sql/platform/auth_loc/__init__.py" />
+      <jump line="113" column="22" filename="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/pyexcel_io/plugins.py" />
+      <jump line="562" column="10" filename="$USER_HOME$/code/sc/web/cli/john.py" />
+      <jump line="64" column="0" filename="$USER_HOME$/code/sc/web/sc/mods/invite/rest/rest_views.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>\n</text>
+        <text>pod</text>
       </register>
       <register name="-" type="4">
-        <text>\n</text>
+        <text>pod</text>
       </register>
       <register name="/" type="4">
         <text>hyb</text>
@@ -366,34 +378,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJBdHRlbXB0aW5nIiwgbCkK</text>
+        <text encoding="base64">ICAgICAgcmV2aWV3LnNhdmVfc3VydmV5cy5zKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBwcmludChxLmFsbCgpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBzYy5hcHAuYXJyb3dseXRpY3MuY2hhcmdlcy50eXBlcyBpbXBvcnQgQ2hhcmdlc0FyZ3MK</text>
+        <text encoding="base64">ICAgIHByaW50KCJBdHRlbXB0aW5nIiwgbCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAjICJweWV4Y2VsX2lvIiwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJweWV4Y2VsLWlvIiwK</text>
+        <text encoding="base64">ZnJvbSBzYy5hcHAuYXJyb3dseXRpY3MuY2hhcmdlcy50eXBlcyBpbXBvcnQgQ2hhcmdlc0FyZ3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGEpCg==</text>
+        <text encoding="base64">ICAjICJweWV4Y2VsX2lvIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICJweWV4Y2VsLWlvIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBhID0gZ2V0X2RhdGEoZikK</text>
+        <text encoding="base64">ICAgICAgcGFzcwo=</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
