@@ -228,22 +228,19 @@
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/charges/payments-ntg/charges-payments-ntg.html" timestamp="1589325097005">
         <mark key="'" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/transaction.py" timestamp="1589327109501">
-        <mark key="'" line="68" column="16" />
-        <mark key="[" line="110" column="31" />
-        <mark key="]" line="110" column="53" />
-        <mark key="." line="110" column="52" />
-        <mark key="^" line="110" column="53" />
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/transaction.py" timestamp="1589327239928">
+        <mark key="'" line="69" column="16" />
+        <mark key="[" line="44" column="2" />
+        <mark key="]" line="44" column="2" />
+        <mark key="." line="44" column="1" />
+        <mark key="^" line="44" column="2" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1589327199426">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1589327661415">
         <mark key="'" line="913" column="44" />
-        <mark key="[" line="936" column="18" />
-        <mark key="]" line="936" column="19" />
-        <mark key="." line="936" column="18" />
-        <mark key="^" line="936" column="19" />
-      </file>
-      <file name="/a.sql" timestamp="1589321915440">
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="937" column="7" />
+        <mark key="]" line="937" column="11" />
+        <mark key="." line="937" column="10" />
+        <mark key="^" line="937" column="11" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/payments/arrow-payments.html" timestamp="1589324884118">
         <mark key="'" line="54" column="29" />
@@ -271,6 +268,13 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
         <mark key="^" line="54" column="50" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" timestamp="1589327564477">
+        <mark key="'" line="502" column="0" />
+        <mark key="[" line="535" column="59" />
+        <mark key="]" line="536" column="4" />
+        <mark key="." line="536" column="3" />
+        <mark key="^" line="536" column="4" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/adjustments/arrow-adjustments.html" timestamp="1589325405840">
         <mark key="'" line="37" column="21" />
@@ -428,10 +432,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>copay_amt</text>
+        <text>paid_amt</text>
       </register>
       <register name="-" type="4">
-        <text>copay_amt</text>
+        <text>paid_amt</text>
       </register>
       <register name="/" type="4">
         <text>hyb</text>
