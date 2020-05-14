@@ -210,19 +210,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/pyexcel_io/io.py" timestamp="1589418249892" />
-      <file name="$USER_HOME$/code/sc/web/sc/coms/search/clauses.py" timestamp="1589409816299" />
-      <file name="$USER_HOME$/code/sc/web/sc/coms/search/auto/auto_model.py" timestamp="1589409692890">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="/Dummy.txt" timestamp="1589418020101">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/platform/auth_loc/auth_loc_qa.py" timestamp="1589410419962">
-        <mark key="'" line="74" column="37" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="73" column="36" />
+      <file name="/Python Console" timestamp="1589418029041">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1589409892638">
+        <mark key="[" line="0" column="5" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/dashboard/dashboard.html" timestamp="1589410099111">
         <mark key="'" line="85" column="6" />
@@ -230,22 +225,10 @@
       <file name="$USER_HOME$/code/sc/web/static/web/views/dashboard/dashboard.ts" timestamp="1589410225486">
         <mark key="'" line="84" column="13" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/dashboard/dash.py" timestamp="1589409774878">
-        <mark key="[" line="0" column="40" />
-        <mark key="]" line="0" column="56" />
-        <mark key="^" line="0" column="56" />
-        <mark key="." line="0" column="55" />
-      </file>
-      <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/lml/plugin.py" timestamp="1589417766127" />
-      <file name="/Python Console" timestamp="1589418029041">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1589409892638">
-        <mark key="[" line="0" column="5" />
-      </file>
-      <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/pyexcel_io/constants.py" timestamp="1589418157348" />
-      <file name="/Dummy.txt" timestamp="1589418020101">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/sc/web/sc/coms/search/auto/auto_model.py" timestamp="1589409692890">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/platform/auth_loc/__init__.py" timestamp="1589410333100">
         <mark key="'" line="108" column="3" />
@@ -254,13 +237,25 @@
         <mark key="^" line="315" column="37" />
         <mark key="." line="314" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/listings_view.py" timestamp="1589410342796" />
-      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1589418300013">
+      <file name="$USER_HOME$/code/sc/web/sc/app/dashboard/dash.py" timestamp="1589409774878">
+        <mark key="[" line="0" column="40" />
+        <mark key="]" line="0" column="56" />
+        <mark key="^" line="0" column="56" />
+        <mark key="." line="0" column="55" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/sql/platform/auth_loc/auth_loc_qa.py" timestamp="1589410419962">
+        <mark key="'" line="74" column="37" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="73" column="36" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1589418411810">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="608" column="0" />
-        <mark key="]" line="608" column="0" />
-        <mark key="." line="608" column="0" />
-        <mark key="^" line="607" column="63" />
+        <mark key="[" line="600" column="27" />
+        <mark key="]" line="600" column="27" />
+        <mark key="." line="600" column="26" />
+        <mark key="^" line="600" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -368,11 +363,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByaW50KHN0cihlKSkK</text>
+      <register name="+" type="4">
+        <text>[:1]</text>
       </register>
       <register name="-" type="4">
-        <text>Attempting</text>
+        <text>[:1]</text>
       </register>
       <register name="/" type="4">
         <text>hyb</text>
