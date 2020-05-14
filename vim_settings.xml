@@ -223,9 +223,6 @@
       <file name="/Python Console" timestamp="1589418526815">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1589409892638">
-        <mark key="[" line="0" column="5" />
-      </file>
       <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/openpyxl/reader/excel.py" timestamp="1589421464628" />
       <file name="$USER_HOME$/code/sc/web/Pipfile.lock" timestamp="1589433057513" />
       <file name="$USER_HOME$/code/sc/web/static/web/views/dashboard/dashboard.html" timestamp="1589410099111">
@@ -248,6 +245,12 @@
         <mark key="." line="314" column="0" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/bs4/__init__.py" timestamp="1589426166894" />
+      <file name="$USER_HOME$/code/sc/web/Pipfile" timestamp="1589442705287">
+        <mark key="'" line="44" column="13" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/platform/auth_loc/auth_loc_qa.py" timestamp="1589410419962">
         <mark key="'" line="74" column="37" />
         <mark key="[" line="35" column="0" />
@@ -255,16 +258,17 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="73" column="36" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1589439557680">
-        <mark key="[" line="601" column="41" />
-        <mark key="]" line="602" column="21" />
-        <mark key="^" line="602" column="21" />
-        <mark key="." line="602" column="20" />
+      <file name="$USER_HOME$/code/sc/web/instance/local/omni.xml" timestamp="1589442909958">
+        <mark key="'" line="39" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1589442933247">
+        <mark key="[" line="604" column="33" />
+        <mark key="]" line="604" column="33" />
+        <mark key="^" line="604" column="33" />
+        <mark key="." line="604" column="32" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="28" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-line-chart.ts" />
-      <jump line="18" column="3" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/payor-mix/payor-mix.ts" />
       <jump line="56" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/payor-mix/payor-mix.ts" />
       <jump line="64" column="3" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/compare-table/compare-table.ts" />
       <jump line="47" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/payments/arrow-payments.html" />
@@ -363,15 +367,17 @@
       <jump line="565" column="94" filename="$USER_HOME$/Library/Containers/com.microsoft.Excel/Data/Library/Caches/Microsoft/uls/com.microsoft.Excel/logs/apple-device-log-20200513-1932.log" />
       <jump line="0" column="0" filename="$USER_HOME$/Library/Containers/com.microsoft.Excel/Data/Library/Caches/Microsoft/uls/com.microsoft.Excel/logs/apple-device-log-20200513-1932.log" />
       <jump line="2707" column="0" filename="$USER_HOME$/Library/Containers/com.microsoft.Excel/Data/Library/Caches/Microsoft/uls/com.microsoft.Excel/logs/apple-device-log-20200513-1932.log" />
+      <jump line="44" column="13" filename="$USER_HOME$/code/sc/web/Pipfile" />
+      <jump line="39" column="9" filename="$USER_HOME$/code/sc/web/instance/local/omni.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgdHJ5OgogICAgICAgIGNvbnRlbnQgPSBmLnJlYWQoKQogICAgICAgIGEgPSBweWV4Y2VsLmdldF9ib29rKGZpbGVfdHlwZT10eXBlXywgZmlsZV9jb250ZW50PWNvbnRlbnQpCiAgICAgICAgIyBwcmludChhKQogICAgICAgICMgYSA9IGdldF9kYXRhKGYsIGZpbGVfdHlwZT10eXBlXykKICAgICAgICBwcmludCgiU3VjY2VzcyBsZW4oYSkiLCBsZW4oYSkpCiAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICBwcmludChmIkZhaWxlZCAgICB7dHlwZV99IG1vZGU9YHttb2RlfWAgcmVhc29uPSIsIHN0cihlKSkKCg==</text>
+      <register name="+" type="4">
+        <text>xml_</text>
       </register>
       <register name="-" type="4">
-        <text>html_string</text>
+        <text>xml_</text>
       </register>
       <register name="/" type="4">
         <text>omni</text>
@@ -380,34 +386,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdHJ5OgogICAgICAgIGNvbnRlbnQgPSBmLnJlYWQoKQogICAgICAgIGEgPSBweWV4Y2VsLmdldF9ib29rKGZpbGVfdHlwZT10eXBlXywgZmlsZV9jb250ZW50PWNvbnRlbnQpCiAgICAgICAgIyBwcmludChhKQogICAgICAgICMgYSA9IGdldF9kYXRhKGYsIGZpbGVfdHlwZT10eXBlXykKICAgICAgICBwcmludCgiU3VjY2VzcyBsZW4oYSkiLCBsZW4oYSkpCiAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICBwcmludChmIkZhaWxlZCAgICB7dHlwZV99IG1vZGU9YHttb2RlfWAgcmVhc29uPSIsIHN0cihlKSkKCg==</text>
+        <text encoding="base64">ICAgIGNvbnZlcnRlZCA9IFVuaWNvZGVEYW1taXQoZi5yZWFkKCkpCiAgICBwcmludChjb252ZXJ0ZWQpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiXG5BdHRlbXB0aW5nIHt0eXBlX30gbW9kZT1ge21vZGV9YCIpCg==</text>
+        <text encoding="base64">ICBmb3IgbW9kZSBpbiBbInIiLCAicmIiXToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJcbiIpCg==</text>
+        <text encoding="base64">CiAgd3RmID0gWwogICAgInB5ZXhjZWwtaW8iLAogICAgInB5ZXhjZWwteGxzIiwKICAgICJweWV4Y2VsLXhsc3giLAogICAgInB5ZXhjZWwtb2RzIiwKICAgICJweWV4Y2VsLW9kczMiLAogICAgInB5ZXhjZWwtaHRtbHIiLAogIF0KCiAgdHlwZXMgPSBbCiAgICAjIGNvbnN0YW50cy5GSUxFX0ZPUk1BVF9DU1YsCiAgICAjIGNvbnN0YW50cy5GSUxFX0ZPUk1BVF9UU1YsCiAgICBjb25zdGFudHMuRklMRV9GT1JNQVRfT0RTLAogICAgIm9kczMiLAogICAgY29uc3RhbnRzLkZJTEVfRk9STUFUX1hMUywKICAgIGNvbnN0YW50cy5GSUxFX0ZPUk1BVF9YTFNYLAogICAgY29uc3RhbnRzLkZJTEVfRk9STUFUX1hMU00sCiAgXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBmb3IgdHlwZV8gaW4gdHlwZXM6Cg==</text>
+        <text encoding="base64">ICBpbXBvcnQgcHlleGNlbAogIGZyb20gcHlleGNlbF9pbyBpbXBvcnQgY29uc3RhbnRzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJweWV4Y2VsLW9kczMiLAo=</text>
+        <text encoding="base64">c2V0dXAtdGVzdHMgPSAicGlwIGluc3RhbGwgJ3dhdGNoZG9nW3dhdGNobWVkb10nIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJweWV4Y2VsLW9kc3IiLAo=</text>
+        <text encoding="base64">ICAgICAgdHJ5OgogICAgICAgIGNvbnRlbnQgPSBmLnJlYWQoKQogICAgICAgIGEgPSBweWV4Y2VsLmdldF9ib29rKGZpbGVfdHlwZT10eXBlXywgZmlsZV9jb250ZW50PWNvbnRlbnQpCiAgICAgICAgIyBwcmludChhKQogICAgICAgICMgYSA9IGdldF9kYXRhKGYsIGZpbGVfdHlwZT10eXBlXykKICAgICAgICBwcmludCgiU3VjY2VzcyBsZW4oYSkiLCBsZW4oYSkpCiAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICBwcmludChmIkZhaWxlZCAgICB7dHlwZV99IG1vZGU9YHttb2RlfWAgcmVhc29uPSIsIHN0cihlKSkKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJweWV4Y2VsLXhsc3hyIiwK</text>
+        <text encoding="base64">ICAgIHByaW50KGYiXG5BdHRlbXB0aW5nIHt0eXBlX30gbW9kZT1ge21vZGV9YCIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGltcG9ydCBweWV4Y2VsCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJcbiIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgZnJvbSBvcGVucHl4bCBpbXBvcnQgbG9hZF93b3JrYm9vawoKICB3aXRoIG9wZW4oZmYsICJyYiIpIGFzIGY6CiAgICBzID0gbG9hZF93b3JrYm9vayhmKQoKICByZXR1cm4gcHJpbnQocykKCg==</text>
+        <text encoding="base64">ICBmb3IgdHlwZV8gaW4gdHlwZXM6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
