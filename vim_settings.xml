@@ -227,11 +227,16 @@
         <mark key="[" line="0" column="5" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/openpyxl/reader/excel.py" timestamp="1589421464628" />
-      <file name="$USER_HOME$/code/sc/web/Pipfile.lock" timestamp="1589426094707" />
+      <file name="$USER_HOME$/code/sc/web/Pipfile.lock" timestamp="1589433057513" />
       <file name="$USER_HOME$/code/sc/web/static/web/views/dashboard/dashboard.html" timestamp="1589410099111">
         <mark key="'" line="85" column="6" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/pyexcel_io/constants.py" timestamp="1589421386707" />
+      <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" timestamp="1589433272907">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/dashboard/dashboard.ts" timestamp="1589410225486">
         <mark key="'" line="84" column="13" />
       </file>
@@ -243,12 +248,6 @@
         <mark key="." line="314" column="0" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/bs4/__init__.py" timestamp="1589426166894" />
-      <file name="$USER_HOME$/code/sc/web/sc/app/dashboard/dash.py" timestamp="1589409774878">
-        <mark key="[" line="0" column="40" />
-        <mark key="]" line="0" column="56" />
-        <mark key="^" line="0" column="56" />
-        <mark key="." line="0" column="55" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/platform/auth_loc/auth_loc_qa.py" timestamp="1589410419962">
         <mark key="'" line="74" column="37" />
         <mark key="[" line="35" column="0" />
@@ -369,11 +368,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>, True, data_only=True, keep_links=False</text>
+      <register name="+" type="2">
+        <text encoding="base64">SSB3aWxsIHNheSwgd2l0aCBob25lc3R5IGFuZCBzaW5jZXJpdHksIEkgZGlkIG5vdCByZW1lbWJlciB0aGUgY2FrZS4KQW5kIGl0IGhpdCBtZSB3aGVuIHlvdSBzYWlkIGl0LgoKSSBoYXZlIGEgbG9uZyBsaXN0IG9mIEphbmFlIHRoaW5ncyBsaWtlIHRoaXMgc28gSSBkb24ndCBmb3JnZXQsIGFuZCBJIG5ldmVyIGFkZGVkIGl0LgpJIGhhdmUgbm93LCBpIGFtIHNvcnJ5IEkgZmFpbGVkIG9uIHRoYXQuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>, True, data_only=True, keep_links=False</text>
+        <text>I did not remember that, but</text>
       </register>
       <register name="/" type="4">
         <text>omni</text>
@@ -382,34 +381,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SSB3aWxsIHNheSwgd2l0aCBob25lc3R5IGFuZCBzaW5jZXJpdHksIEkgZGlkIG5vdCByZW1lbWJlciB0aGUgY2FrZS4KQW5kIGl0IGhpdCBtZSB3aGVuIHlvdSBzYWlkIGl0LgoKSSBoYXZlIGEgbG9uZyBsaXN0IG9mIEphbmFlIHRoaW5ncyBsaWtlIHRoaXMgc28gSSBkb24ndCBmb3JnZXQsIGFuZCBJIG5ldmVyIGFkZGVkIGl0LgpJIGhhdmUgbm93LCBpIGFtIHNvcnJ5IEkgZmFpbGVkIG9uIHRoYXQuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0YW50cy5GSUxFX0ZPUk1BVF9DU1ZaLAo=</text>
+        <text encoding="base64">QW5kIGl0IGhpdCBtZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByaW50KHN0cihlKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0YW50cy5GSUxFX0ZPUk1BVF9DU1ZaLAo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICBwcmludA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIHByaW50KHN0cihlKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByaW50KGEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBweWV4Y2VsX2lvIGltcG9ydCBnZXRfZGF0YQpmcm9tIHB5ZXhjZWxfaW8gaW1wb3J0IGNvbnN0YW50cwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgICBwcmludA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBfX2t3X18gPSAicXMiCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHByaW50KGEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBweWV4Y2VsX2lvIGltcG9ydCBnZXRfZGF0YQpmcm9tIHB5ZXhjZWxfaW8gaW1wb3J0IGNvbnN0YW50cwo=</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
