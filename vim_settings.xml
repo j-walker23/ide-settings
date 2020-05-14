@@ -211,7 +211,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589418020101">
+      <file name="/Dummy.txt" timestamp="1589445598046">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Containers/com.microsoft.Excel/Data/Library/Caches/Microsoft/uls/com.microsoft.Excel/logs/apple-device-log-20200513-1932.log" timestamp="1589420332684">
@@ -220,14 +220,14 @@
       <file name="$USER_HOME$/code/sc/web/sc/coms/testing/utils.py" timestamp="1589419046306">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1589418526815">
+      <file name="/Python Console" timestamp="1589447686228">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1589447701514">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/openpyxl/reader/excel.py" timestamp="1589421464628" />
       <file name="$USER_HOME$/code/sc/web/Pipfile.lock" timestamp="1589433057513" />
-      <file name="$USER_HOME$/code/sc/web/static/web/views/dashboard/dashboard.html" timestamp="1589410099111">
-        <mark key="'" line="85" column="6" />
-      </file>
       <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/pyexcel_io/constants.py" timestamp="1589421386707" />
       <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" timestamp="1589436784435">
         <mark key="[" line="9" column="0" />
@@ -258,14 +258,14 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="73" column="36" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/local/omni.xml" timestamp="1589442909958">
+      <file name="$USER_HOME$/code/sc/web/instance/local/omni.xml" timestamp="1589447752303">
         <mark key="'" line="39" column="9" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1589442933247">
-        <mark key="[" line="604" column="33" />
-        <mark key="]" line="604" column="33" />
-        <mark key="^" line="604" column="33" />
-        <mark key="." line="604" column="32" />
+      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1589447676184">
+        <mark key="[" line="610" column="40" />
+        <mark key="]" line="610" column="40" />
+        <mark key="." line="610" column="39" />
+        <mark key="^" line="610" column="40" />
       </file>
     </filemarks>
     <jumps>
@@ -374,10 +374,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>xml_</text>
+        <text>/ss:Data</text>
       </register>
       <register name="-" type="4">
-        <text>xml_</text>
+        <text>/ss:Data</text>
       </register>
       <register name="/" type="4">
         <text>omni</text>
@@ -386,34 +386,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnZlcnRlZCA9IFVuaWNvZGVEYW1taXQoZi5yZWFkKCkpCiAgICBwcmludChjb252ZXJ0ZWQpCg==</text>
+        <text encoding="base64">ICAgIGNlbGwgPSAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBmb3IgbW9kZSBpbiBbInIiLCAicmIiXToK</text>
+        <text encoding="base64">ICAgICMgcm93ID0gdGFibGUueHBhdGgoIlJvdy9zczpDZWxsL3NzOkRhdGEiLCBuYW1lc3BhY2VzPW5zKQogICAgciA9IHJvdy50YWcKICAgIHQgPSByb3cudGV4dAogICAgcHJpbnQoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgd3RmID0gWwogICAgInB5ZXhjZWwtaW8iLAogICAgInB5ZXhjZWwteGxzIiwKICAgICJweWV4Y2VsLXhsc3giLAogICAgInB5ZXhjZWwtb2RzIiwKICAgICJweWV4Y2VsLW9kczMiLAogICAgInB5ZXhjZWwtaHRtbHIiLAogIF0KCiAgdHlwZXMgPSBbCiAgICAjIGNvbnN0YW50cy5GSUxFX0ZPUk1BVF9DU1YsCiAgICAjIGNvbnN0YW50cy5GSUxFX0ZPUk1BVF9UU1YsCiAgICBjb25zdGFudHMuRklMRV9GT1JNQVRfT0RTLAogICAgIm9kczMiLAogICAgY29uc3RhbnRzLkZJTEVfRk9STUFUX1hMUywKICAgIGNvbnN0YW50cy5GSUxFX0ZPUk1BVF9YTFNYLAogICAgY29uc3RhbnRzLkZJTEVfRk9STUFUX1hMU00sCiAgXQo=</text>
+        <text encoding="base64">ICBmb3IgYSBpbiB0YWJsZToK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBpbXBvcnQgcHlleGNlbAogIGZyb20gcHlleGNlbF9pbyBpbXBvcnQgY29uc3RhbnRzCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">KQoKICA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2V0dXAtdGVzdHMgPSAicGlwIGluc3RhbGwgJ3dhdGNoZG9nW3dhdGNobWVkb10nIgo=</text>
+        <text encoding="base64">ICByb290ID0gZG9jLmdldHJvb3QoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdHJ5OgogICAgICAgIGNvbnRlbnQgPSBmLnJlYWQoKQogICAgICAgIGEgPSBweWV4Y2VsLmdldF9ib29rKGZpbGVfdHlwZT10eXBlXywgZmlsZV9jb250ZW50PWNvbnRlbnQpCiAgICAgICAgIyBwcmludChhKQogICAgICAgICMgYSA9IGdldF9kYXRhKGYsIGZpbGVfdHlwZT10eXBlXykKICAgICAgICBwcmludCgiU3VjY2VzcyBsZW4oYSkiLCBsZW4oYSkpCiAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICBwcmludChmIkZhaWxlZCAgICB7dHlwZV99IG1vZGU9YHttb2RlfWAgcmVhc29uPSIsIHN0cihlKSkKCg==</text>
+        <text encoding="base64">ICBucyA9IHsic3MiOiAidXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTpvZmZpY2U6c3ByZWFkc2hlZXQifQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiXG5BdHRlbXB0aW5nIHt0eXBlX30gbW9kZT1ge21vZGV9YCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJcbiIpCg==</text>
+        <text encoding="base64">ICB0YWJsZSA9IGRvYy54cGF0aCgiL1dvcmtzaGVldC9UYWJsZSIsIG5hbWVzcGFjZXM9bnMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmb3IgdHlwZV8gaW4gdHlwZXM6Cg==</text>
+        <text encoding="base64">ICByID0gZG9jLnhwYXRoKCIveDpmb28vYjpiYXIiLCBucykK</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
