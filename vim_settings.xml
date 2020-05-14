@@ -223,8 +223,8 @@
       <file name="/Python Console" timestamp="1589447686228">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1589447701514">
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.py" timestamp="1589447992288">
+        <mark key="[" line="0" column="16" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/openpyxl/reader/excel.py" timestamp="1589421464628" />
       <file name="$USER_HOME$/code/sc/web/Pipfile.lock" timestamp="1589433057513" />
@@ -258,14 +258,14 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="73" column="36" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/local/omni.xml" timestamp="1589447752303">
+      <file name="$USER_HOME$/code/sc/web/instance/local/omni.xml" timestamp="1589448055828">
         <mark key="'" line="39" column="9" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1589447676184">
-        <mark key="[" line="610" column="40" />
-        <mark key="]" line="610" column="40" />
-        <mark key="." line="610" column="39" />
-        <mark key="^" line="610" column="40" />
+      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1589448164540">
+        <mark key="[" line="611" column="20" />
+        <mark key="]" line="610" column="74" />
+        <mark key="." line="610" column="73" />
+        <mark key="^" line="610" column="74" />
       </file>
     </filemarks>
     <jumps>
@@ -374,10 +374,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>/ss:Data</text>
+        <text>table_row.xpath(&quot;ss:Cell&quot;, namespaces=ns)</text>
       </register>
       <register name="-" type="4">
-        <text>/ss:Data</text>
+        <text>table_row.xpath(&quot;ss:Cell&quot;, namespaces=ns)</text>
       </register>
       <register name="/" type="4">
         <text>omni</text>
