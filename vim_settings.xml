@@ -124,6 +124,7 @@
         <entry>Transaction.search</entry>
         <entry>asdf</entry>
         <entry>hyb</entry>
+        <entry>omni</entry>
       </history-search>
       <history-cmd>
         <entry>SplitVertically</entry>
@@ -213,6 +214,9 @@
       <file name="/Dummy.txt" timestamp="1589418020101">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Containers/com.microsoft.Excel/Data/Library/Caches/Microsoft/uls/com.microsoft.Excel/logs/apple-device-log-20200513-1932.log" timestamp="1589420332684">
+        <mark key="'" line="2707" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/coms/testing/utils.py" timestamp="1589419046306">
         <mark key="'" line="0" column="0" />
       </file>
@@ -222,9 +226,12 @@
       <file name="/fragment.py" timestamp="1589409892638">
         <mark key="[" line="0" column="5" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/openpyxl/reader/excel.py" timestamp="1589421464628" />
+      <file name="$USER_HOME$/code/sc/web/Pipfile.lock" timestamp="1589421285915" />
       <file name="$USER_HOME$/code/sc/web/static/web/views/dashboard/dashboard.html" timestamp="1589410099111">
         <mark key="'" line="85" column="6" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/pyexcel_io/constants.py" timestamp="1589421386707" />
       <file name="$USER_HOME$/code/sc/web/static/web/views/dashboard/dashboard.ts" timestamp="1589410225486">
         <mark key="'" line="84" column="13" />
       </file>
@@ -253,18 +260,15 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="73" column="36" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1589418411810">
+      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1589421699514">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="600" column="27" />
-        <mark key="]" line="600" column="27" />
-        <mark key="." line="600" column="26" />
-        <mark key="^" line="600" column="27" />
+        <mark key="[" line="582" column="23" />
+        <mark key="]" line="582" column="23" />
+        <mark key="." line="582" column="22" />
+        <mark key="^" line="582" column="23" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="10" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-compare-chart.ts" />
-      <jump line="41" column="33" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/payor-mix/payor-mix.ts" />
-      <jump line="186" column="4" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-common.ts" />
       <jump line="71" column="28" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-line-chart.ts" />
       <jump line="18" column="3" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/payor-mix/payor-mix.ts" />
       <jump line="56" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/payor-mix/payor-mix.ts" />
@@ -362,51 +366,54 @@
       <jump line="590" column="17" filename="$USER_HOME$/code/sc/web/cli/john.py" />
       <jump line="1" column="0" filename="$USER_HOME$/code/sc/web/cli/john.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/coms/testing/utils.py" />
+      <jump line="565" column="94" filename="$USER_HOME$/Library/Containers/com.microsoft.Excel/Data/Library/Caches/Microsoft/uls/com.microsoft.Excel/logs/apple-device-log-20200513-1932.log" />
+      <jump line="0" column="0" filename="$USER_HOME$/Library/Containers/com.microsoft.Excel/Data/Library/Caches/Microsoft/uls/com.microsoft.Excel/logs/apple-device-log-20200513-1932.log" />
+      <jump line="2707" column="0" filename="$USER_HOME$/Library/Containers/com.microsoft.Excel/Data/Library/Caches/Microsoft/uls/com.microsoft.Excel/logs/apple-device-log-20200513-1932.log" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>[:1]</text>
+        <text>, True, data_only=True, keep_links=False</text>
       </register>
       <register name="-" type="4">
-        <text>[:1]</text>
+        <text>, True, data_only=True, keep_links=False</text>
       </register>
       <register name="/" type="4">
-        <text>hyb</text>
+        <text>omni</text>
       </register>
       <register name="0" type="4">
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByaW50KHN0cihlKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0YW50cy5GSUxFX0ZPUk1BVF9DU1ZaLAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICBwcmludA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIHByaW50KHN0cihlKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByaW50KGEpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBweWV4Y2VsX2lvIGltcG9ydCBnZXRfZGF0YQpmcm9tIHB5ZXhjZWxfaW8gaW1wb3J0IGNvbnN0YW50cwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBfX2t3X18gPSAicXMiCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICBwcmludA==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIHByaW50KGEpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJvbSBweWV4Y2VsX2lvIGltcG9ydCBnZXRfZGF0YQpmcm9tIHB5ZXhjZWxfaW8gaW1wb3J0IGNvbnN0YW50cwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNhc2UgPSBsYW1iZGEgazogayA9PSBrZXkK</text>
+        <text encoding="base64">ICBfX2t3X18gPSAicXMiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBpZiBjYXNlKCJpcyIpOgogICAgICBrZXkgPSAiYW5zd2VycyIKICAgICAgc2VwID0gT3AuYW55Lm5hbWUKICAgICAgaWYgdmFsID09ICJ1bmFuc3dlcmVkIjoKICAgICAgICBzZXAgPSBmIn57c2VwfSIKICAgICAgdmFsID0gW3sib3JzIjogW3siYW5zX3R5cGUiOiAiTUVSQ0hBTlQifSwgeyJwcm9tb3RlZF9hbnN3ZXIiOiBUcnVlfV19XQoKICAgIGVsaWYgY2FzZSgiaWdub3JlZCIpOgogICAgICBrZXksIHNlcCwgdmFsID0gY2xzLmlzX2lnbm9yZWQsIE9wLmVxLCB2YWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
@@ -415,9 +422,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>hyb</last-search>
+      <last-search>omni</last-search>
       <last-offset />
-      <last-pattern>hyb</last-pattern>
+      <last-pattern>omni</last-pattern>
       <last-replace>$root.roles</last-replace>
       <last-substitute>ctrl.roles</last-substitute>
       <last-dir>1</last-dir>
