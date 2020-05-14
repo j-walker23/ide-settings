@@ -220,11 +220,11 @@
       <file name="$USER_HOME$/code/sc/web/sc/coms/testing/utils.py" timestamp="1589419046306">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1589447686228">
+      <file name="/Python Console" timestamp="1589449275643">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1589447992288">
-        <mark key="[" line="0" column="16" />
+      <file name="/fragment.py" timestamp="1589448966309">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/openpyxl/reader/excel.py" timestamp="1589421464628" />
       <file name="$USER_HOME$/code/sc/web/Pipfile.lock" timestamp="1589433057513" />
@@ -258,18 +258,17 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="73" column="36" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/local/omni.xml" timestamp="1589448055828">
+      <file name="$USER_HOME$/code/sc/web/instance/local/omni.xml" timestamp="1589449235340">
         <mark key="'" line="39" column="9" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1589448164540">
-        <mark key="[" line="611" column="20" />
-        <mark key="]" line="610" column="74" />
-        <mark key="." line="610" column="73" />
-        <mark key="^" line="610" column="74" />
+      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1589449258955">
+        <mark key="[" line="89" column="10" />
+        <mark key="]" line="89" column="40" />
+        <mark key="." line="89" column="39" />
+        <mark key="^" line="89" column="40" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/payor-mix/payor-mix.ts" />
       <jump line="64" column="3" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/compare-table/compare-table.ts" />
       <jump line="47" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/payments/arrow-payments.html" />
       <jump line="29" column="6" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/transaction.py" />
@@ -369,15 +368,16 @@
       <jump line="2707" column="0" filename="$USER_HOME$/Library/Containers/com.microsoft.Excel/Data/Library/Caches/Microsoft/uls/com.microsoft.Excel/logs/apple-device-log-20200513-1932.log" />
       <jump line="44" column="13" filename="$USER_HOME$/code/sc/web/Pipfile" />
       <jump line="39" column="9" filename="$USER_HOME$/code/sc/web/instance/local/omni.xml" />
+      <jump line="364" column="12" filename="$USER_HOME$/code/sc/web/cli/john.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>table_row.xpath(&quot;ss:Cell&quot;, namespaces=ns)</text>
+        <text>zip()</text>
       </register>
       <register name="-" type="4">
-        <text>table_row.xpath(&quot;ss:Cell&quot;, namespaces=ns)</text>
+        <text>zip()</text>
       </register>
       <register name="/" type="4">
         <text>omni</text>
@@ -386,34 +386,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNlbGwgPSAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgcm93ID0gdGFibGUueHBhdGgoIlJvdy9zczpDZWxsL3NzOkRhdGEiLCBuYW1lc3BhY2VzPW5zKQogICAgciA9IHJvdy50YWcKICAgIHQgPSByb3cudGV4dAogICAgcHJpbnQoKQo=</text>
+        <text encoding="base64">ICAgIGNlbGwgPSAK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICMgcm93ID0gdGFibGUueHBhdGgoIlJvdy9zczpDZWxsL3NzOkRhdGEiLCBuYW1lc3BhY2VzPW5zKQogICAgciA9IHJvdy50YWcKICAgIHQgPSByb3cudGV4dAogICAgcHJpbnQoKQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICBmb3IgYSBpbiB0YWJsZToK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">KQoKICA=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICByb290ID0gZG9jLmdldHJvb3QoKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBucyA9IHsic3MiOiAidXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTpvZmZpY2U6c3ByZWFkc2hlZXQifQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICB0YWJsZSA9IGRvYy54cGF0aCgiL1dvcmtzaGVldC9UYWJsZSIsIG5hbWVzcGFjZXM9bnMpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByID0gZG9jLnhwYXRoKCIveDpmb28vYjpiYXIiLCBucykK</text>
+        <text encoding="base64">ICB0YWJsZSA9IGRvYy54cGF0aCgiL1dvcmtzaGVldC9UYWJsZSIsIG5hbWVzcGFjZXM9bnMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
