@@ -220,7 +220,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-summary-charts.ts" timestamp="1589567168465">
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-summary-charts.ts" timestamp="1589580206729">
         <mark key="[" line="36" column="11" />
         <mark key="]" line="36" column="23" />
         <mark key="." line="36" column="22" />
@@ -231,6 +231,7 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/arrowlytics.sass" timestamp="1589579903795" />
       <file name="/console" timestamp="1589575904403">
         <mark key="[" line="0" column="0" />
       </file>
@@ -244,32 +245,25 @@
       <file name="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" timestamp="1589575416187">
         <mark key="'" line="497" column="7" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-common.ts" timestamp="1589577081543" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-common.ts" timestamp="1589580198539" />
       <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/analytics_view.py" timestamp="1589575547892">
         <mark key="[" line="15" column="77" />
         <mark key="]" line="15" column="91" />
         <mark key="^" line="15" column="91" />
         <mark key="." line="15" column="90" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-summary-tables.ts" timestamp="1589578162555">
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-summary-tables.ts" timestamp="1589580529368">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="41" column="35" />
-        <mark key="]" line="41" column="35" />
-        <mark key="." line="41" column="34" />
-        <mark key="^" line="41" column="35" />
+        <mark key="[" line="26" column="11" />
+        <mark key="]" line="26" column="52" />
+        <mark key="." line="26" column="51" />
+        <mark key="^" line="26" column="52" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/base.py" timestamp="1589566418032">
         <mark key="[" line="37" column="70" />
         <mark key="]" line="37" column="81" />
         <mark key="." line="37" column="80" />
         <mark key="^" line="37" column="81" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1589563771467">
-        <mark key="'" line="262" column="12" />
-        <mark key="[" line="265" column="7" />
-        <mark key="]" line="265" column="8" />
-        <mark key="." line="265" column="7" />
-        <mark key="^" line="265" column="8" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/coms/search/search.py" timestamp="1589575426703">
         <mark key="'" line="55" column="4" />
@@ -280,12 +274,12 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="31" column="3" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-card/arrow-table.ts" timestamp="1589577285584">
-        <mark key="'" line="58" column="3" />
-        <mark key="[" line="51" column="38" />
-        <mark key="]" line="52" column="4" />
-        <mark key="." line="52" column="3" />
-        <mark key="^" line="52" column="4" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-card/arrow-table.ts" timestamp="1589580217091">
+        <mark key="'" line="66" column="3" />
+        <mark key="[" line="50" column="30" />
+        <mark key="]" line="51" column="27" />
+        <mark key="." line="51" column="26" />
+        <mark key="^" line="51" column="27" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/charges/arrow-charges.html" timestamp="1589565808826">
         <mark key="'" line="25" column="24" />
@@ -311,8 +305,11 @@
         <mark key="." line="67" column="47" />
         <mark key="^" line="67" column="48" />
       </file>
-      <file name="/dumpDataPreview" timestamp="1589563776971">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/sc/web/static/common/pipes/pipes.ts" timestamp="1589579828552">
+        <mark key="[" line="54" column="4" />
+        <mark key="]" line="54" column="6" />
+        <mark key="^" line="54" column="6" />
+        <mark key="." line="54" column="5" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/compare-table/compare-table.ts" timestamp="1589577226931">
         <mark key="'" line="90" column="2" />
@@ -424,10 +421,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text encoding="base64">IHwgcm93LmVudGl0eVtjb2wubmFtZV0udHlwZQ==</text>
+        <text>[...new Set(dates)]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHwgcm93LmVudGl0eVtjb2wubmFtZV0udHlwZQ==</text>
+        <text>[...new Set(dates)]</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -436,37 +433,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgIC8vIHJvd3MuZm9yRWFjaChzcmMgPT4gewogICAgICAvLyAgIGxldCBkdCA9IHNyYy5kYXRlLmZvcm1hdCgnTU1NJykKICAgICAgLy8gICByb3dbZHRdID0gc3JjCiAgICAgIC8vIH0pCiAgICAgIGNvbnNvbGUubG9nKHJvdykK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHNvcnRlZEFycmF5ID0gYXJyYXkuc29ydCgoYSwgYikgPT4gYS5kaWZmKGIpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gbGV0IHJvdzogYW55ID0geyBuYW1lIH0KCg==</text>
+        <text encoding="base64">ICAgIGxldCBkYXRlcyA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gbGV0IHJvdyA9IHJvd3MucmVkdWNlKChyb3csIHNyYykgPT4gT2JqZWN0LmFzc2lnbihyb3csIHsgW3NyYy5kYXRlLmZvcm1hdCh0aGlzLmRhdGVmb3JtYXQpXTogc3JjIH0pLCB7IG5hbWUgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcm93cy5yZWR1Y2Uoc3JjID0+IHJlcykK</text>
+        <text encoding="base64">ICAgICAgbGV0IHJvdyA9IAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-          src,
-          type: 'selected-group',
-        }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vIGxldCBjZWxsVGVtcGxhdGUgPSBgCiAgICAvLyAgIDxkaXYgY2xhc3M9InN1bW1hcnktY2VsbCIKICAgIC8vICAgICBuZy1jbGFzcz0icm93LmVudGl0eVtjb2wubmFtZV0udHlwZSIKICAgIC8vICAgICAoY2xpY2spPSJncmlkLmFwcFNjb3BlLm9uQ2xpY2socm93LmVudGl0eVtjb2wubmFtZV0uc3JjLCBjb2wuY29sRGVmKSI+CiAgICAvLyAgICAge3sgcm93LmVudGl0eVtjb2wubmFtZV0udmFsIHwgcm93LmVudGl0eVtjb2wubmFtZV0uc3JjLnR5cGUgfX0KICAgIC8vICAgPC9kaXY+CiAgICAvLyBgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZy1jbGFzcz0icm93LmVudGl0eVtjb2wubmFtZV0udHlwZSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBASW5wdXQoKSBidWlsZHJvd3M6IEZ1bmN0aW9uCiAgQElucHV0KCkgYnVpbGRjb2xzOiBGdW5jdGlvbgo=</text>
+        <text encoding="base64">CiAgICAgIC8vIHJvd3MuZm9yRWFjaChzcmMgPT4gewogICAgICAvLyAgIGxldCBkdCA9IHNyYy5kYXRlLmZvcm1hdCgnTU1NJykKICAgICAgLy8gICByb3dbZHRdID0gc3JjCiAgICAgIC8vIH0pCiAgICAgIGNvbnNvbGUubG9nKHJvdykK</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
@@ -481,7 +475,7 @@
       <last-replace>$root.roles</last-replace>
       <last-substitute>ctrl.roles</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
