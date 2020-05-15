@@ -259,11 +259,11 @@
         <mark key="." line="26" column="51" />
         <mark key="^" line="26" column="52" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/base.py" timestamp="1589566418032">
-        <mark key="[" line="37" column="70" />
-        <mark key="]" line="37" column="81" />
-        <mark key="." line="37" column="80" />
-        <mark key="^" line="37" column="81" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/base.py" timestamp="1589585872874">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="60" column="43" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/coms/search/search.py" timestamp="1589575426703">
         <mark key="'" line="55" column="4" />
@@ -420,8 +420,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>[...new Set(dates)]</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgIHN0YXJ0ID0gc3RhcnQuc2hpZnQoeWVhcnM9LTEpCg==</text>
       </register>
       <register name="-" type="4">
         <text>[...new Set(dates)]</text>
@@ -433,34 +433,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNvcnRlZEFycmF5ID0gYXJyYXkuc29ydCgoYSwgYikgPT4gYS5kaWZmKGIpKQo=</text>
+        <text encoding="base64">ICAgIHN0YXJ0ID0gc3RhcnQuc2hpZnQoeWVhcnM9LTEpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCBkYXRlcyA9IAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHNvcnRlZEFycmF5ID0gYXJyYXkuc29ydCgoYSwgYikgPT4gYS5kaWZmKGIpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCBkYXRlcyA9IAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHJvdyA9IAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgbGV0IHJvdyA9IAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGxldCBjZWxsVGVtcGxhdGUgPSBgCiAgICAvLyAgIDxkaXYgY2xhc3M9InN1bW1hcnktY2VsbCIKICAgIC8vICAgICBuZy1jbGFzcz0icm93LmVudGl0eVtjb2wubmFtZV0udHlwZSIKICAgIC8vICAgICAoY2xpY2spPSJncmlkLmFwcFNjb3BlLm9uQ2xpY2socm93LmVudGl0eVtjb2wubmFtZV0uc3JjLCBjb2wuY29sRGVmKSI+CiAgICAvLyAgICAge3sgcm93LmVudGl0eVtjb2wubmFtZV0udmFsIHwgcm93LmVudGl0eVtjb2wubmFtZV0uc3JjLnR5cGUgfX0KICAgIC8vICAgPC9kaXY+CiAgICAvLyBgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuZy1jbGFzcz0icm93LmVudGl0eVtjb2wubmFtZV0udHlwZSIK</text>
+        <text encoding="base64">ICAgIC8vIGxldCBjZWxsVGVtcGxhdGUgPSBgCiAgICAvLyAgIDxkaXYgY2xhc3M9InN1bW1hcnktY2VsbCIKICAgIC8vICAgICBuZy1jbGFzcz0icm93LmVudGl0eVtjb2wubmFtZV0udHlwZSIKICAgIC8vICAgICAoY2xpY2spPSJncmlkLmFwcFNjb3BlLm9uQ2xpY2socm93LmVudGl0eVtjb2wubmFtZV0uc3JjLCBjb2wuY29sRGVmKSI+CiAgICAvLyAgICAge3sgcm93LmVudGl0eVtjb2wubmFtZV0udmFsIHwgcm93LmVudGl0eVtjb2wubmFtZV0uc3JjLnR5cGUgfX0KICAgIC8vICAgPC9kaXY+CiAgICAvLyBgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgIC8vIHJvd3MuZm9yRWFjaChzcmMgPT4gewogICAgICAvLyAgIGxldCBkdCA9IHNyYy5kYXRlLmZvcm1hdCgnTU1NJykKICAgICAgLy8gICByb3dbZHRdID0gc3JjCiAgICAgIC8vIH0pCiAgICAgIGNvbnNvbGUubG9nKHJvdykK</text>
+        <text encoding="base64">ICAgICAgICBuZy1jbGFzcz0icm93LmVudGl0eVtjb2wubmFtZV0udHlwZSIK</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
