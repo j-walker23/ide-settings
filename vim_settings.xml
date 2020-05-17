@@ -223,12 +223,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/encounter.py" timestamp="1589735765677">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="29" />
-        <mark key="^" line="0" column="29" />
-        <mark key="." line="0" column="28" />
-      </file>
       <file name="/a.dummy" timestamp="1589741225060">
         <mark key="[" line="0" column="0" />
       </file>
@@ -239,13 +233,6 @@
         <mark key="." line="124" column="6" />
         <mark key="^" line="112" column="22" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/variance-grid/variance-grid.ts" timestamp="1589736197882">
-        <mark key="'" line="15" column="1" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="^" line="20" column="23" />
-        <mark key="." line="61" column="0" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/encounters/arrow-encounters.html" timestamp="1589740188961">
         <mark key="'" line="78" column="0" />
         <mark key="[" line="36" column="23" />
@@ -253,7 +240,7 @@
         <mark key="." line="36" column="22" />
         <mark key="^" line="36" column="23" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/meds/__init__.py" timestamp="1589741050613">
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/meds/__init__.py" timestamp="1589742206867">
         <mark key="'" line="2" column="1" />
         <mark key="[" line="164" column="56" />
         <mark key="]" line="164" column="71" />
@@ -303,6 +290,9 @@
         <mark key="^" line="178" column="15" />
         <mark key="." line="178" column="14" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/invites/med_imports_view.py" timestamp="1589741513236">
+        <mark key="'" line="40" column="7" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/encounters/encounters-by-type/encounters-by-type.html" timestamp="1589739966362">
         <mark key="[" line="2" column="8" />
         <mark key="]" line="2" column="8" />
@@ -314,12 +304,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/tasks/invite.py" timestamp="1589741121978">
+      <file name="$USER_HOME$/code/sc/web/sc/app/tasks/invite.py" timestamp="1589741478114">
         <mark key="'" line="114" column="2" />
-        <mark key="[" line="78" column="17" />
-        <mark key="]" line="78" column="20" />
-        <mark key="^" line="78" column="20" />
-        <mark key="." line="78" column="19" />
+        <mark key="[" line="74" column="16" />
+        <mark key="]" line="74" column="17" />
+        <mark key="^" line="74" column="17" />
+        <mark key="." line="74" column="16" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/groups-monthly-grid/groups-monthly-grid.html" timestamp="1589739900679" />
       <file name="$USER_HOME$/code/sc/web/sc/sql/integ/integration_file/__init__.py" timestamp="1589741023103">
@@ -328,9 +318,14 @@
         <mark key="^" line="31" column="78" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/integration_files_view.py" timestamp="1589742250247">
+        <mark key="[" line="56" column="59" />
+        <mark key="]" line="57" column="44" />
+        <mark key="." line="57" column="43" />
+        <mark key="^" line="57" column="44" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-summary-charts.ts" />
       <jump line="69" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-summary-charts.ts" />
       <jump line="20" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-summary-charts.ts" />
       <jump line="95" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-summary-charts.ts" />
@@ -430,15 +425,16 @@
       <jump line="113" column="2" filename="$USER_HOME$/code/sc/web/sc/app/tasks/invite.py" />
       <jump line="75" column="4" filename="$USER_HOME$/code/sc/web/sc/app/integs/bulk/incoming.py" />
       <jump line="1" column="0" filename="$USER_HOME$/code/sc/web/sc/app/integs/transforms/file_processing.py" />
+      <jump line="40" column="7" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/invites/med_imports_view.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>_rows</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgcGVyaW9kX3N0YXJ0PWludGVncmF0aW9uX2ZpbGUucGVyaW9kX3N0YXJ0LAo=</text>
       </register>
       <register name="-" type="4">
-        <text>_rows</text>
+        <text>apply_async(args=(med_import.id,), queue=const.HIGH_QUEUE)</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -447,34 +443,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZpbGUgPSBtZWQuZmlsZXNbMF0K</text>
+        <text encoding="base64">ICAgICAgcGVyaW9kX3N0YXJ0PWludGVncmF0aW9uX2ZpbGUucGVyaW9kX3N0YXJ0LAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgCg==</text>
+        <text encoding="base64">ICAgICAgZmlsZXM9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbmNvbWluZy5wcm9jZXNzX2ltcG9ydChtZWQsIGdjcy5wYXJzZV9jc3ZfdG9fZmlsZV9saWtlKG1lZC5jc3YpKQo=</text>
+        <text encoding="base64">ICAgIGZyb20gc2MuYXBwLnRhc2tzIGltcG9ydCBpbnZpdGUKCiAgICB3aXRoIHRhc2tydW5uZXIoKToKICAgICAgaW52aXRlLnByb2Nlc3NfZmlsZXMucyhtZWRfaW1wb3J0LmlkKS5zZXQoKipRSElHSCkuZGVsYXkoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBtZWRfaW1wb3J0X2lkID0gQ29sdW1uKEludGVnZXIpCg==</text>
+        <text encoding="base64">ICAgIGZpbGUgPSBtZWQuZmlsZXNbMF0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmbGV4Cg==</text>
+        <text encoding="base64">ICAgICMgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbmNvbWluZy5wcm9jZXNzX2ltcG9ydChtZWQsIGdjcy5wYXJzZV9jc3ZfdG9fZmlsZV9saWtlKG1lZC5jc3YpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0ZW1wbGF0ZSwK</text>
+        <text encoding="base64">ICBtZWRfaW1wb3J0X2lkID0gQ29sdW1uKEludGVnZXIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkaXJlY3RpdmVzOiBbR3JpZENvbXBvbmVudF0sCg==</text>
+        <text encoding="base64">ICAgICAgICBmbGV4Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpbHRlcjogJzwnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//EncountersArgs</text>
