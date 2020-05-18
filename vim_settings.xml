@@ -231,16 +231,17 @@
         <mark key="." line="159" column="16" />
         <mark key="^" line="159" column="17" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/location/__init__.py" timestamp="1589816038190">
+      <file name="$USER_HOME$/code/sc/web/sc/sql/location/__init__.py" timestamp="1589817400431">
         <mark key="'" line="82" column="57" />
-        <mark key="[" line="70" column="107" />
-        <mark key="]" line="70" column="77" />
-        <mark key="^" line="70" column="77" />
-        <mark key="." line="70" column="76" />
+        <mark key="[" line="82" column="55" />
+        <mark key="]" line="82" column="55" />
+        <mark key="^" line="82" column="55" />
+        <mark key="." line="82" column="54" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/settings/providers/details/provider-details.html" timestamp="1589813859909">
         <mark key="'" line="139" column="48" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/providers/crud.py" timestamp="1589817859898" />
       <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/integrations/integration-file-transform/integration-file-transform.ts" timestamp="1589807493915">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -256,12 +257,6 @@
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/boost/boost.ts" timestamp="1589812210298">
         <mark key="'" line="180" column="2" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/models/med.model.ts" timestamp="1589806780521">
-        <mark key="[" line="45" column="24" />
-        <mark key="]" line="46" column="29" />
-        <mark key="^" line="46" column="29" />
-        <mark key="." line="46" column="28" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/__init__.py" timestamp="1589815632756">
         <mark key="[" line="262" column="25" />
@@ -286,8 +281,15 @@
         <mark key="^" line="75" column="111" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/location/platform.py" timestamp="1589815617313" />
-      <file name="$USER_HOME$/code/sc/web/sc/app/locations/combine.py" timestamp="1589816006561">
-        <mark key="'" line="118" column="3" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/locations/combine.py" timestamp="1589818452942">
+        <mark key="'" line="132" column="3" />
+        <mark key="[" line="99" column="61" />
+        <mark key="]" line="100" column="19" />
+        <mark key="." line="100" column="18" />
+        <mark key="^" line="100" column="19" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/platforms/listings/qna/sync.py" timestamp="1589818966872">
+        <mark key="[" line="29" column="59" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/web.conf.ts" timestamp="1589813682842">
         <mark key="'" line="110" column="13" />
@@ -305,13 +307,6 @@
         <mark key="." line="22" column="21" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/med-imports/details/med-import-details.html" timestamp="1589807425886" />
-      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/integration_files_view.py" timestamp="1589806695850">
-        <mark key="'" line="49" column="2" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="48" column="20" />
-        <mark key="." line="58" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="17" column="61" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/source_encounter.py" />
@@ -418,11 +413,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>, num: int</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgbG9jLl9vaWRzLmFwcGVuZCgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>, num: int</text>
+        <text>LocExtId.new(ex_id=oid, location_id=loc.id)</text>
       </register>
       <register name="/" type="4">
         <text>invite</text>
@@ -431,34 +426,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICB0aGlzLmludGVncmF0aW9uRmlsZS5nZXRQYXRoKCcvc2lnbmVkJykudGhlbigocmVzOiBhbnkpID0+IHsKICAgICAgd2luZG93LmxvY2F0aW9uLmhyZWYgPSBgJHtyZXMuc2lnbmVkfWAKICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgbG9jLl9vaWRzLmFwcGVuZCgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaW50ZWdyYXRpb25GaWxlLmZpbGVfdHJhbnNmb3JtLmdldFBhdGgoJy9zaWduZWQnKS50aGVuKChyZXM6IGFueSkgPT4gewogICAgICBjb25zb2xlLmxvZygncmVzICcsIHJlcykKICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgd2luZG93LmxvY2F0aW9uLmhyZWYgPSB1cmwK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">d2hlcmUgCg==</text>
+        <text encoding="base64">ICAgIG9sb2NzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICB0aGlzLmludGVncmF0aW9uRmlsZS5nZXRQYXRoKCcvc2lnbmVkJykudGhlbigocmVzOiBhbnkpID0+IHsKICAgICAgd2luZG93LmxvY2F0aW9uLmhyZWYgPSBgJHtyZXMuc2lnbmVkfWAKICAgIH0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHRoaXMuaW50ZWdyYXRpb25GaWxlLmZpbGVfdHJhbnNmb3JtLmdldFBhdGgoJy9zaWduZWQnKS50aGVuKChyZXM6IGFueSkgPT4gewogICAgICBjb25zb2xlLmxvZygncmVzICcsIHJlcykKICAgIH0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgd2luZG93LmxvY2F0aW9uLmhyZWYgPSB1cmwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuJHJlcy5zZWFyY2godGhpcy5wYXJhbXMpLnRoZW4ocm93cyA9PiB7CiAgICAgIHRoaXMubG9hZC5yb3dzID0gcm93cwogICAgfSkK</text>
+        <text encoding="base64">d2hlcmUgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsb2FkID0gbmV3IEluZmluaXRlTG9hZGVyKHRoaXMucGFyYW1zLnBlcl9wYWdlLCB0aGlzLmxvYWRQYWdlLmJpbmQodGhpcykpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//EncountersArgs</text>
