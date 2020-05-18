@@ -136,6 +136,8 @@
         <entry>ArrowlyticsArgs</entry>
         <entry>encounter</entry>
         <entry>asdf</entry>
+        <entry>cascade</entry>
+        <entry>invite</entry>
       </history-search>
       <history-cmd>
         <entry>SplitVertically</entry>
@@ -223,65 +225,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/static/web/services/softroles.ts" timestamp="1589813693383" />
-      <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/med-imports/med-imports.html" timestamp="1589806191574" />
-      <file name="$USER_HOME$/code/sc/web/static/common/models/ads/boost.model.ts" timestamp="1589813383518">
-        <mark key="]" line="13" column="14" />
-        <mark key="^" line="13" column="14" />
-        <mark key="." line="13" column="13" />
-      </file>
-      <file name="/console" timestamp="1589807118727">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/provider/__init__.py" timestamp="1589814053439">
-        <mark key="[" line="75" column="67" />
-        <mark key="]" line="75" column="67" />
-        <mark key="." line="75" column="66" />
-        <mark key="^" line="75" column="67" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/med-imports/details/med-import-details.ts" timestamp="1589807518604">
         <mark key="[" line="159" column="14" />
         <mark key="]" line="159" column="17" />
         <mark key="." line="159" column="16" />
         <mark key="^" line="159" column="17" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/web.conf.ts" timestamp="1589813682842">
-        <mark key="'" line="110" column="13" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/components/images/images.ts" timestamp="1589813700930">
-        <mark key="[" line="32" column="39" />
-        <mark key="]" line="32" column="49" />
-        <mark key="." line="32" column="48" />
-        <mark key="^" line="32" column="49" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1589805553052">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="2" />
-        <mark key="^" line="0" column="3" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e48b375-fdd8-413d-be5c-4a28f85cc940/console.sql" timestamp="1589807134131">
-        <mark key="[" line="22" column="5" />
-        <mark key="]" line="22" column="22" />
-        <mark key="^" line="22" column="22" />
-        <mark key="." line="22" column="21" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/invites/med_imports_view.py" timestamp="1589806139194">
-        <mark key="[" line="41" column="31" />
-        <mark key="]" line="42" column="27" />
-        <mark key="^" line="42" column="27" />
-        <mark key="." line="42" column="26" />
+      <file name="$USER_HOME$/code/sc/web/sc/sql/location/__init__.py" timestamp="1589816038190">
+        <mark key="'" line="82" column="57" />
+        <mark key="[" line="70" column="107" />
+        <mark key="]" line="70" column="77" />
+        <mark key="^" line="70" column="77" />
+        <mark key="." line="70" column="76" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/settings/providers/details/provider-details.html" timestamp="1589813859909">
         <mark key="'" line="139" column="48" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/integration_file_transforms_view.py" timestamp="1589805868092">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="49" column="63" />
-        <mark key="." line="52" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/med-imports/details/med-import-details.html" timestamp="1589807425886" />
       <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/integrations/integration-file-transform/integration-file-transform.ts" timestamp="1589807493915">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -304,6 +263,48 @@
         <mark key="^" line="46" column="29" />
         <mark key="." line="46" column="28" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/sql/__init__.py" timestamp="1589815632756">
+        <mark key="[" line="262" column="25" />
+        <mark key="]" line="262" column="25" />
+        <mark key="." line="262" column="24" />
+        <mark key="^" line="262" column="25" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/services/softroles.ts" timestamp="1589813693383" />
+      <file name="$USER_HOME$/code/sc/web/static/common/models/ads/boost.model.ts" timestamp="1589813383518">
+        <mark key="]" line="13" column="14" />
+        <mark key="^" line="13" column="14" />
+        <mark key="." line="13" column="13" />
+      </file>
+      <file name="/console" timestamp="1589807118727">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/sql/provider/__init__.py" timestamp="1589815862824">
+        <mark key="'" line="76" column="60" />
+        <mark key="[" line="75" column="67" />
+        <mark key="]" line="75" column="111" />
+        <mark key="." line="75" column="110" />
+        <mark key="^" line="75" column="111" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/sql/location/platform.py" timestamp="1589815617313" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/locations/combine.py" timestamp="1589816006561">
+        <mark key="'" line="118" column="3" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/web.conf.ts" timestamp="1589813682842">
+        <mark key="'" line="110" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/common/components/images/images.ts" timestamp="1589813700930">
+        <mark key="[" line="32" column="39" />
+        <mark key="]" line="32" column="49" />
+        <mark key="." line="32" column="48" />
+        <mark key="^" line="32" column="49" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e48b375-fdd8-413d-be5c-4a28f85cc940/console.sql" timestamp="1589807134131">
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="22" column="22" />
+        <mark key="^" line="22" column="22" />
+        <mark key="." line="22" column="21" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/med-imports/details/med-import-details.html" timestamp="1589807425886" />
       <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/integration_files_view.py" timestamp="1589806695850">
         <mark key="'" line="49" column="2" />
         <mark key="[" line="58" column="0" />
@@ -313,15 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/migrations/versions/71f7acf45cfd__72.py" />
-      <jump line="303" column="4" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/encounters/kpis.py" />
-      <jump line="318" column="0" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/encounters/kpis.py" />
-      <jump line="331" column="28" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/encounters/kpis.py" />
-      <jump line="273" column="11" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/encounters/kpis.py" />
-      <jump line="310" column="11" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/encounters/kpis.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/encounters/kpis.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/transaction.py" />
-      <jump line="62" column="20" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/base.py" />
       <jump line="17" column="61" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/source_encounter.py" />
       <jump line="81" column="2" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/base.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/office.py" />
@@ -413,18 +405,27 @@
       <jump line="48" column="13" filename="$USER_HOME$/code/sc/web/static/common/models/ads/boost.model.ts" />
       <jump line="110" column="13" filename="$USER_HOME$/code/sc/web/static/web/web.conf.ts" />
       <jump line="139" column="48" filename="$USER_HOME$/code/sc/web/static/web/views/settings/providers/details/provider-details.html" />
+      <jump line="70" column="121" filename="$USER_HOME$/code/sc/web/sc/sql/location/__init__.py" />
+      <jump line="69" column="76" filename="$USER_HOME$/code/sc/web/sc/sql/location/__init__.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/sql/location/__init__.py" />
+      <jump line="68" column="86" filename="$USER_HOME$/code/sc/web/sc/sql/location/__init__.py" />
+      <jump line="82" column="57" filename="$USER_HOME$/code/sc/web/sc/sql/location/__init__.py" />
+      <jump line="84" column="10" filename="$USER_HOME$/code/sc/web/sc/sql/provider/__init__.py" />
+      <jump line="74" column="123" filename="$USER_HOME$/code/sc/web/sc/sql/provider/__init__.py" />
+      <jump line="76" column="60" filename="$USER_HOME$/code/sc/web/sc/sql/provider/__init__.py" />
+      <jump line="118" column="3" filename="$USER_HOME$/code/sc/web/sc/app/locations/combine.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>, passive_deletes=True</text>
+        <text>, num: int</text>
       </register>
       <register name="-" type="4">
-        <text>, passive_deletes=True</text>
+        <text>, num: int</text>
       </register>
       <register name="/" type="4">
-        <text>asdf</text>
+        <text>invite</text>
       </register>
       <register name="0" type="4">
         <text>U', str, bytes)  # Must be str or bytes</text>
@@ -466,9 +467,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>asdf</last-search>
+      <last-search>invite</last-search>
       <last-offset />
-      <last-pattern>asdf</last-pattern>
+      <last-pattern>invite</last-pattern>
       <last-replace>EncountersArgs</last-replace>
       <last-substitute>ArrowlyticsArgs</last-substitute>
       <last-dir>1</last-dir>
