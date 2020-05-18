@@ -224,6 +224,9 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/med-imports/med-imports.html" timestamp="1589806191574" />
+      <file name="$USER_HOME$/code/sc/web/static/common/models/ads/boost.model.ts" timestamp="1589812220567">
+        <mark key="'" line="48" column="13" />
+      </file>
       <file name="/console" timestamp="1589807118727">
         <mark key="[" line="0" column="0" />
       </file>
@@ -281,6 +284,9 @@
         <mark key="." line="136" column="0" />
         <mark key="^" line="136" column="0" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/boost/boost.ts" timestamp="1589812210298">
+        <mark key="'" line="180" column="2" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/static/common/models/med.model.ts" timestamp="1589806780521">
         <mark key="[" line="45" column="24" />
         <mark key="]" line="46" column="29" />
@@ -305,8 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/code/sc/web/sc/app/integs/transforms/file_processing.py" />
-      <jump line="40" column="7" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/invites/med_imports_view.py" />
       <jump line="43" column="2" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/encounter.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/migrations/versions/24b4adfadd4d__73.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/migrations/versions/71f7acf45cfd__72.py" />
@@ -405,6 +409,8 @@
       <jump line="205" column="16" filename="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/med-imports/med-imports.ts" />
       <jump line="70" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/med-imports/med-imports.ts" />
       <jump line="48" column="2" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/integration_files_view.py" />
+      <jump line="180" column="2" filename="$USER_HOME$/code/sc/web/static/web/views/boost/boost.ts" />
+      <jump line="48" column="13" filename="$USER_HOME$/code/sc/web/static/common/models/ads/boost.model.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
