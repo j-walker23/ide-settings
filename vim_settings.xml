@@ -277,9 +277,6 @@
         <mark key="." line="24" column="3" />
         <mark key="^" line="24" column="4" />
       </file>
-      <file name="$USER_HOME$/code/trash/web/static/web/views/arrowlytics/summary-table/summary-table.ts" timestamp="1589895612986">
-        <mark key="'" line="40" column="12" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/config/procedure-groups/procedure-groups.ts" timestamp="1589896588847">
         <mark key="'" line="77" column="0" />
       </file>
@@ -289,6 +286,9 @@
         <mark key="]" line="165" column="37" />
         <mark key="." line="165" column="0" />
         <mark key="^" line="165" column="21" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/arrowlytics-forw.ts" timestamp="1589896876653">
+        <mark key="'" line="126" column="26" />
       </file>
       <file name="$USER_HOME$/code/trash/web/static/web/views/arrowlytics/arrow-common/arrow-common.ts" timestamp="1589896134507" />
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/summary-table/summary-table.ts" timestamp="1589896183110">
@@ -317,7 +317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="13" filename="$USER_HOME$/code/sc/web/static/common/models/ads/boost.model.ts" />
       <jump line="110" column="13" filename="$USER_HOME$/code/sc/web/static/web/web.conf.ts" />
       <jump line="139" column="48" filename="$USER_HOME$/code/sc/web/static/web/views/settings/providers/details/provider-details.html" />
       <jump line="70" column="121" filename="$USER_HOME$/code/sc/web/sc/sql/location/__init__.py" />
@@ -417,6 +416,7 @@
       <jump line="18" column="13" filename="$USER_HOME$/code/sc/web/static/web/web.conf.ts" />
       <jump line="77" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/config/procedure-groups/procedure-groups.ts" />
       <jump line="84" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/config/sessions/sessions-config.ts" />
+      <jump line="126" column="26" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/arrowlytics-forw.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
