@@ -230,13 +230,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/charges/crud.py" timestamp="1589906983087">
-        <mark key="[" line="48" column="38" />
-        <mark key="]" line="48" column="45" />
-        <mark key="." line="48" column="44" />
-        <mark key="^" line="48" column="45" />
-      </file>
-      <file name="/Python Console" timestamp="1589911715442">
+      <file name="/Python Console" timestamp="1589913733350">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1589909414966">
@@ -262,6 +256,12 @@
         <mark key="^" line="43" column="17" />
         <mark key="." line="43" column="16" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/scrapers/vitals.py" timestamp="1589913619178">
+        <mark key="[" line="32" column="27" />
+        <mark key="]" line="32" column="28" />
+        <mark key="." line="32" column="27" />
+        <mark key="^" line="32" column="28" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/static/common/styles/globals/helpers.sass" timestamp="1589908786412">
         <mark key="[" line="133" column="33" />
         <mark key="]" line="133" column="44" />
@@ -269,7 +269,7 @@
         <mark key="." line="133" column="43" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/account/license.py" timestamp="1589907444574" />
-      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1589911713771">
+      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1589913749261">
         <mark key="'" line="76" column="0" />
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
@@ -388,11 +388,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="+" type="4">
+        <text>%20</text>
       </register>
       <register name="-" type="4">
-        <text>fn</text>
+        <text>%20</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -401,34 +401,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByZXR0eShncm91cCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">am9pbiBwbGF0Zm9ybXMK</text>
+        <text encoding="base64">ICAgIHByZXR0eShqcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">d2hlcmUgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZmlsbCA9IGNhbGxhYmxlKGZuKSBhbmQgZm4ocGFyYW1zKQo=</text>
+        <text encoding="base64">am9pbiBwbGF0Zm9ybXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmbiA9IGZpbGwocGFyYW1zKQogICAgICBlbHNlOgogICAgICAgIGZuID0gZmlsbAo=</text>
+        <text encoding="base64">d2hlcmUgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZmlsbHMuYXBwZW5kKGNhbGxhYmxlKGZpbGwpIGFuZCBmaWxsKHJlcV9hcmdzKCkpIG9yIGZpbGwpCg==</text>
+        <text encoding="base64">ICAgICAgZmlsbCA9IGNhbGxhYmxlKGZuKSBhbmQgZm4ocGFyYW1zKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICBmbiA9IGZpbGwocGFyYW1zKQogICAgICBlbHNlOgogICAgICAgIGZuID0gZmlsbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJtZC1ibG9jayBtYi01IGZsZXgtdmVydC1nYXAtMjQiPgo=</text>
+        <text encoding="base64">ICAgICAgZmlsbHMuYXBwZW5kKGNhbGxhYmxlKGZpbGwpIGFuZCBmaWxsKHJlcV9hcmdzKCkpIG9yIGZpbGwpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJvd3MgPSBjb21tb24ucHJlcGFyZV9hcnJvd19yb3dzKGFyZ3MsIGtwaXMuZ2V0X21vbmV5X3lveShhcmdzKSkK</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>%s//encounter</text>
