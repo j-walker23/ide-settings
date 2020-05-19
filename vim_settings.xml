@@ -246,13 +246,6 @@
         <mark key="^" line="37" column="14" />
         <mark key="." line="37" column="13" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-summary-card/arrow-chart.ts" timestamp="1589896064713">
-        <mark key="'" line="15" column="27" />
-        <mark key="[" line="60" column="16" />
-        <mark key="]" line="60" column="16" />
-        <mark key="." line="60" column="15" />
-        <mark key="^" line="60" column="16" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/canceled/canceled.ts" timestamp="1589896265339">
         <mark key="'" line="72" column="0" />
       </file>
@@ -292,6 +285,11 @@
         <mark key="]" line="58" column="14" />
         <mark key="." line="58" column="13" />
         <mark key="^" line="58" column="14" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/common/resource.ts" timestamp="1589900441099">
+        <mark key="[" line="369" column="0" />
+        <mark key="]" line="369" column="0" />
+        <mark key="." line="369" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-common.ts" timestamp="1589896144993">
         <mark key="[" line="13" column="0" />
@@ -437,11 +435,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text encoding="base64">TG9va2luZyBCYWNrIA==</text>
+      <register name="+" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TG9va2luZyBCYWNrIA==</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -450,34 +448,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYWJzdHJhY3Q6IHRydWUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYWJzdHJhY3Q6IHRydWUsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzdGF0aWMgZ29Qcm9jZWR1cmVHcm91cChxOiBzdHJpbmcpIHsKICAgIGxldCBwYXJhbXMgPSBzdGF0ZVBhcmFtcygpCiAgICBsZXQgcXVlcnkgPSAocGFyYW1zLnF1ZXJ5ID0gJycpCiAgICBpZiAocS5pbmNsdWRlcygnICcpKSBxID0gYCIke3F9ImAKCiAgICBxdWVyeSA9IFtxdWVyeSwgcV0KICAgICAgLmZpbHRlcihyID0+ICEhcikKICAgICAgLmpvaW4oJyAnKQogICAgICAudHJpbSgpCgogICAgZ29QYXJhbXMoeyAuLi5wYXJhbXMsIHF1ZXJ5IH0pCiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgc3RhdGljIHByZXBRdWVyeShrZXkgPSAnJywgcSA9ICcnKSB7CiAgICBsZXQgcXVlcnkgPSBnZXRRdWVyeSgpCiAgICBpZiAocS5pbmNsdWRlcygnICcpKSBxID0gYCIke3F9ImAKICAgIGlmIChrZXkgJiYgcSkgcSA9IGAke2tleX06JHtxfWAKCiAgICBxdWVyeSA9IFtxdWVyeSwgcV0KICAgICAgLmZpbHRlcihyID0+ICEhcikKICAgICAgLm1hcChyID0+IHIudHJpbSgpKQogICAgICAuam9pbignICcpCiAgICAgIC50cmltKCkKCiAgICByZXR1cm4gcXVlcnkKICB9Cg==</text>
+        <text encoding="base64">ICBzdGF0aWMgZ29Qcm9jZWR1cmVHcm91cChxOiBzdHJpbmcpIHsKICAgIGxldCBwYXJhbXMgPSBzdGF0ZVBhcmFtcygpCiAgICBsZXQgcXVlcnkgPSAocGFyYW1zLnF1ZXJ5ID0gJycpCiAgICBpZiAocS5pbmNsdWRlcygnICcpKSBxID0gYCIke3F9ImAKCiAgICBxdWVyeSA9IFtxdWVyeSwgcV0KICAgICAgLmZpbHRlcihyID0+ICEhcikKICAgICAgLmpvaW4oJyAnKQogICAgICAudHJpbSgpCgogICAgZ29QYXJhbXMoeyAuLi5wYXJhbXMsIHF1ZXJ5IH0pCiAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpZiAocS5pbmNsdWRlcygnICcpKSBxID0gYCIke3F9ImAK</text>
+        <text encoding="base64">CiAgc3RhdGljIHByZXBRdWVyeShrZXkgPSAnJywgcSA9ICcnKSB7CiAgICBsZXQgcXVlcnkgPSBnZXRRdWVyeSgpCiAgICBpZiAocS5pbmNsdWRlcygnICcpKSBxID0gYCIke3F9ImAKICAgIGlmIChrZXkgJiYgcSkgcSA9IGAke2tleX06JHtxfWAKCiAgICBxdWVyeSA9IFtxdWVyeSwgcV0KICAgICAgLmZpbHRlcihyID0+ICEhcikKICAgICAgLm1hcChyID0+IHIudHJpbSgpKQogICAgICAuam9pbignICcpCiAgICAgIC50cmltKCkKCiAgICByZXR1cm4gcXVlcnkKICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgc3RhdGljIGdvUXVlcnkoa2V5OiBzdHJpbmcsIHE6IHN0cmluZykgewogICAgbGV0IHBhcmFtcyA9IHN0YXRlUGFyYW1zKCkKICAgIGxldCBxdWVyeSA9IHRoaXMucHJlcFF1ZXJ5KGtleSwgcSkKICAgIGdvUGFyYW1zKHsgLi4ucGFyYW1zLCBxdWVyeSB9KQogIH0K</text>
+        <text encoding="base64">ICBpZiAocS5pbmNsdWRlcygnICcpKSBxID0gYCIke3F9ImAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgc3RhdGljIGdvUXVlcnkoa2V5OiBzdHJpbmcsIHE6IHN0cmluZykgewogICAgbGV0IHBhcmFtcyA9IHN0YXRlUGFyYW1zKCkKICAgIGxldCBxdWVyeSA9IHRoaXMucHJlcFF1ZXJ5KGtleSwgcSkKICAgIGdvUGFyYW1zKHsgLi4ucGFyYW1zLCBxdWVyeSB9KQogIH0K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgdG9EZXRhaWxzKHBhcmFtczogYW55LCBrZXkgPSAnJywgcSA9ICcnKSB7CiAgICBsZXQgcXVlcnkgPSBBcnJvd0NvbW1vbi5wcmVwUXVlcnkoa2V5LCBxKQogICAgZ29QYXJhbXMoeyAuLi5wYXJhbXMsIHF1ZXJ5IH0pCiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//encounter</text>
