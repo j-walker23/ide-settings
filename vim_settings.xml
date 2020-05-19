@@ -236,12 +236,10 @@
         <mark key="." line="20" column="3" />
         <mark key="^" line="20" column="4" />
       </file>
-      <file name="$USER_HOME$/code/trash/web/static/web/views/arrowlytics/arrow-common/arrow-line-chart.ts" timestamp="1589896232993" />
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-summary-card/arrow-summary-charts.ts" timestamp="1589895557294">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/config/sessions/sessions-config.ts" timestamp="1589896601899">
+        <mark key="'" line="84" column="0" />
       </file>
+      <file name="$USER_HOME$/code/trash/web/static/web/views/arrowlytics/arrow-common/arrow-line-chart.ts" timestamp="1589896232993" />
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/procedure-groups-monthly/procedure-groups-monthly.ts" timestamp="1589895971076">
         <mark key="[" line="32" column="4" />
         <mark key="]" line="32" column="4" />
@@ -264,7 +262,7 @@
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/canceled/canceled.ts" timestamp="1589896265339">
         <mark key="'" line="72" column="0" />
       </file>
-      <file name="/console" timestamp="1589895242861">
+      <file name="/console" timestamp="1589896770310">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-line-chart.ts" timestamp="1589896231240">
@@ -282,6 +280,9 @@
       <file name="$USER_HOME$/code/trash/web/static/web/views/arrowlytics/summary-table/summary-table.ts" timestamp="1589895612986">
         <mark key="'" line="40" column="12" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/config/procedure-groups/procedure-groups.ts" timestamp="1589896588847">
+        <mark key="'" line="77" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/static/common/search/search.ts" timestamp="1589896048612">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="165" column="0" />
@@ -295,6 +296,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/arrowlytics.ts" timestamp="1589896619842" />
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-common.ts" timestamp="1589896144993">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -306,11 +308,15 @@
         <mark key="." line="23" column="3" />
         <mark key="^" line="23" column="4" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/web.conf.ts" timestamp="1589896560521">
+        <mark key="'" line="18" column="13" />
+        <mark key="[" line="129" column="29" />
+        <mark key="]" line="129" column="41" />
+        <mark key="^" line="129" column="41" />
+        <mark key="." line="129" column="40" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/med-imports/med-imports.ts" />
-      <jump line="48" column="2" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/integration_files_view.py" />
-      <jump line="180" column="2" filename="$USER_HOME$/code/sc/web/static/web/views/boost/boost.ts" />
       <jump line="48" column="13" filename="$USER_HOME$/code/sc/web/static/common/models/ads/boost.model.ts" />
       <jump line="110" column="13" filename="$USER_HOME$/code/sc/web/static/web/web.conf.ts" />
       <jump line="139" column="48" filename="$USER_HOME$/code/sc/web/static/web/views/settings/providers/details/provider-details.html" />
@@ -408,15 +414,18 @@
       <jump line="40" column="12" filename="$USER_HOME$/code/trash/web/static/web/views/arrowlytics/summary-table/summary-table.ts" />
       <jump line="7" column="0" filename="$USER_HOME$/code/sc/web/static/common/search/search.ts" />
       <jump line="72" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/canceled/canceled.ts" />
+      <jump line="18" column="13" filename="$USER_HOME$/code/sc/web/static/web/web.conf.ts" />
+      <jump line="77" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/config/procedure-groups/procedure-groups.ts" />
+      <jump line="84" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/config/sessions/sessions-config.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>arrow-</text>
+        <text>config.doctors</text>
       </register>
       <register name="-" type="4">
-        <text>arrow-</text>
+        <text>config.doctors</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -425,34 +434,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYWJzdHJhY3Q6IHRydWUsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzdGF0aWMgZ29Qcm9jZWR1cmVHcm91cChxOiBzdHJpbmcpIHsKICAgIGxldCBwYXJhbXMgPSBzdGF0ZVBhcmFtcygpCiAgICBsZXQgcXVlcnkgPSAocGFyYW1zLnF1ZXJ5ID0gJycpCiAgICBpZiAocS5pbmNsdWRlcygnICcpKSBxID0gYCIke3F9ImAKCiAgICBxdWVyeSA9IFtxdWVyeSwgcV0KICAgICAgLmZpbHRlcihyID0+ICEhcikKICAgICAgLmpvaW4oJyAnKQogICAgICAudHJpbSgpCgogICAgZ29QYXJhbXMoeyAuLi5wYXJhbXMsIHF1ZXJ5IH0pCiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgc3RhdGljIHByZXBRdWVyeShrZXkgPSAnJywgcSA9ICcnKSB7CiAgICBsZXQgcXVlcnkgPSBnZXRRdWVyeSgpCiAgICBpZiAocS5pbmNsdWRlcygnICcpKSBxID0gYCIke3F9ImAKICAgIGlmIChrZXkgJiYgcSkgcSA9IGAke2tleX06JHtxfWAKCiAgICBxdWVyeSA9IFtxdWVyeSwgcV0KICAgICAgLmZpbHRlcihyID0+ICEhcikKICAgICAgLm1hcChyID0+IHIudHJpbSgpKQogICAgICAuam9pbignICcpCiAgICAgIC50cmltKCkKCiAgICByZXR1cm4gcXVlcnkKICB9Cg==</text>
+        <text encoding="base64">ICBzdGF0aWMgZ29Qcm9jZWR1cmVHcm91cChxOiBzdHJpbmcpIHsKICAgIGxldCBwYXJhbXMgPSBzdGF0ZVBhcmFtcygpCiAgICBsZXQgcXVlcnkgPSAocGFyYW1zLnF1ZXJ5ID0gJycpCiAgICBpZiAocS5pbmNsdWRlcygnICcpKSBxID0gYCIke3F9ImAKCiAgICBxdWVyeSA9IFtxdWVyeSwgcV0KICAgICAgLmZpbHRlcihyID0+ICEhcikKICAgICAgLmpvaW4oJyAnKQogICAgICAudHJpbSgpCgogICAgZ29QYXJhbXMoeyAuLi5wYXJhbXMsIHF1ZXJ5IH0pCiAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpZiAocS5pbmNsdWRlcygnICcpKSBxID0gYCIke3F9ImAK</text>
+        <text encoding="base64">CiAgc3RhdGljIHByZXBRdWVyeShrZXkgPSAnJywgcSA9ICcnKSB7CiAgICBsZXQgcXVlcnkgPSBnZXRRdWVyeSgpCiAgICBpZiAocS5pbmNsdWRlcygnICcpKSBxID0gYCIke3F9ImAKICAgIGlmIChrZXkgJiYgcSkgcSA9IGAke2tleX06JHtxfWAKCiAgICBxdWVyeSA9IFtxdWVyeSwgcV0KICAgICAgLmZpbHRlcihyID0+ICEhcikKICAgICAgLm1hcChyID0+IHIudHJpbSgpKQogICAgICAuam9pbignICcpCiAgICAgIC50cmltKCkKCiAgICByZXR1cm4gcXVlcnkKICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgc3RhdGljIGdvUXVlcnkoa2V5OiBzdHJpbmcsIHE6IHN0cmluZykgewogICAgbGV0IHBhcmFtcyA9IHN0YXRlUGFyYW1zKCkKICAgIGxldCBxdWVyeSA9IHRoaXMucHJlcFF1ZXJ5KGtleSwgcSkKICAgIGdvUGFyYW1zKHsgLi4ucGFyYW1zLCBxdWVyeSB9KQogIH0K</text>
+        <text encoding="base64">ICBpZiAocS5pbmNsdWRlcygnICcpKSBxID0gYCIke3F9ImAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgc3RhdGljIGdvUXVlcnkoa2V5OiBzdHJpbmcsIHE6IHN0cmluZykgewogICAgbGV0IHBhcmFtcyA9IHN0YXRlUGFyYW1zKCkKICAgIGxldCBxdWVyeSA9IHRoaXMucHJlcFF1ZXJ5KGtleSwgcSkKICAgIGdvUGFyYW1zKHsgLi4ucGFyYW1zLCBxdWVyeSB9KQogIH0K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgdG9EZXRhaWxzKHBhcmFtczogYW55LCBrZXkgPSAnJywgcSA9ICcnKSB7CiAgICBsZXQgcXVlcnkgPSBBcnJvd0NvbW1vbi5wcmVwUXVlcnkoa2V5LCBxKQogICAgZ29QYXJhbXMoeyAuLi5wYXJhbXMsIHF1ZXJ5IH0pCiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXJyb3dDb21tb24gfSBmcm9tICd3ZWIvdmlld3MvYXJyb3dseXRpY3MvYXJyb3ctY29tbW9uL2Fycm93LWNvbW1vbicK</text>
+        <text encoding="base64">CiAgdG9EZXRhaWxzKHBhcmFtczogYW55LCBrZXkgPSAnJywgcSA9ICcnKSB7CiAgICBsZXQgcXVlcnkgPSBBcnJvd0NvbW1vbi5wcmVwUXVlcnkoa2V5LCBxKQogICAgZ29QYXJhbXMoeyAuLi5wYXJhbXMsIHF1ZXJ5IH0pCiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s//encounter</text>
