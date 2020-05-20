@@ -230,13 +230,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/exports.py" timestamp="1589927047720">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-        <mark key="^" line="60" column="104" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/base.py" timestamp="1589931093430">
         <mark key="[" line="66" column="37" />
         <mark key="]" line="66" column="42" />
@@ -249,11 +242,23 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/utils.py" timestamp="1589935521568">
+        <mark key="[" line="464" column="17" />
+        <mark key="]" line="465" column="13" />
+        <mark key="^" line="465" column="13" />
+        <mark key="." line="465" column="12" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/csvs.py" timestamp="1589931003729">
         <mark key="[" line="124" column="24" />
         <mark key="]" line="124" column="30" />
         <mark key="." line="124" column="29" />
         <mark key="^" line="124" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/coms/testing/utils.py" timestamp="1589934152428">
+        <mark key="[" line="378" column="35" />
+        <mark key="]" line="378" column="41" />
+        <mark key="^" line="378" column="41" />
+        <mark key="." line="378" column="40" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/payments/exports.py" timestamp="1589931503275">
         <mark key="'" line="19" column="40" />
@@ -262,19 +267,13 @@
         <mark key="^" line="54" column="83" />
         <mark key="." line="14" column="20" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/procedure-groups-variance/procedure-groups-variance.html" timestamp="1589926894912">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="2" column="29" />
-        <mark key="]" line="18" column="4" />
-        <mark key="." line="18" column="3" />
-        <mark key="^" line="18" column="4" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/charges-ref-source-variance/charges-ref-source-variance.html" timestamp="1589931459857">
         <mark key="[" line="3" column="29" />
         <mark key="]" line="3" column="34" />
         <mark key="." line="3" column="33" />
         <mark key="^" line="3" column="34" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/rosetta.py" timestamp="1589934129590" />
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/procedure-groups-variance/procedure-groups-variance.ts" timestamp="1589932311602">
         <mark key="'" line="84" column="0" />
         <mark key="[" line="22" column="0" />
@@ -287,12 +286,12 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="50" column="39" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/charges/exports.py" timestamp="1589932338376">
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/charges/exports.py" timestamp="1589933371439">
         <mark key="'" line="42" column="4" />
-        <mark key="[" line="29" column="10" />
-        <mark key="]" line="29" column="11" />
-        <mark key="." line="29" column="11" />
-        <mark key="^" line="30" column="19" />
+        <mark key="[" line="59" column="54" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="64" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/notes/cron.py" timestamp="1589932431237">
         <mark key="[" line="388" column="36" />
@@ -305,12 +304,8 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-summary-card/arrow-summary-card.html" timestamp="1589926921588">
-        <mark key="'" line="24" column="31" />
-        <mark key="[" line="8" column="31" />
-        <mark key="]" line="8" column="35" />
-        <mark key="." line="8" column="34" />
-        <mark key="^" line="8" column="35" />
+      <file name="/Python Console" timestamp="1589934336527">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/charges-ref-source-variance/charges-ref-source-variance.ts" timestamp="1589931456139">
         <mark key="[" line="30" column="54" />
@@ -323,27 +318,26 @@
         <mark key="]" line="39" column="41" />
         <mark key="." line="39" column="41" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/adjustments/crud.py" timestamp="1589928877713">
-        <mark key="[" line="31" column="51" />
-        <mark key="]" line="31" column="68" />
-        <mark key="." line="31" column="67" />
-        <mark key="^" line="31" column="68" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/coms/services/csvs.py" timestamp="1589927104080">
-        <mark key="[" line="14" column="51" />
-        <mark key="]" line="14" column="59" />
-        <mark key="." line="14" column="58" />
-        <mark key="^" line="14" column="59" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/charges_view.py" timestamp="1589932404878">
+      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/charges_view.py" timestamp="1589933260204">
         <mark key="[" line="111" column="0" />
         <mark key="]" line="111" column="0" />
         <mark key="." line="111" column="0" />
         <mark key="^" line="111" column="0" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/coms/search/auto/auto_search.py" timestamp="1589935369609">
+        <mark key="[" line="57" column="48" />
+        <mark key="]" line="58" column="17" />
+        <mark key="^" line="58" column="17" />
+        <mark key="." line="58" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1589935157959">
+        <mark key="[" line="579" column="28" />
+        <mark key="]" line="579" column="32" />
+        <mark key="." line="579" column="31" />
+        <mark key="^" line="579" column="32" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="17" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/base.py" />
       <jump line="573" column="14" filename="$USER_HOME$/code/sc/web/cli/john.py" />
       <jump line="87" column="20" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/csvs.py" />
       <jump line="92" column="6" filename="$USER_HOME$/code/sc/web/sc/coms/search/ops.py" />
@@ -443,15 +437,16 @@
       <jump line="87" column="16" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/charges/arrow-charges.html" />
       <jump line="20" column="3" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/procedure-groups-variance/procedure-groups-variance.ts" />
       <jump line="84" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/procedure-groups-variance/procedure-groups-variance.ts" />
+      <jump line="535" column="8" filename="$USER_HOME$/code/sc/web/cli/john.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>&quot;stop&quot;</text>
+        <text>Book1</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;stop&quot;</text>
+        <text>Book1</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
