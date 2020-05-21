@@ -237,11 +237,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/gce/run-script.sh" timestamp="1590092788166">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="17" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" timestamp="1590098133818">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+        <mark key="^" line="88" column="29" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/config/new-app-types/new-app-types-config.html" timestamp="1590093955720">
         <mark key="'" line="8" column="0" />
@@ -256,27 +256,31 @@
         <mark key="^" line="10" column="19" />
         <mark key="." line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/settings/providers/bulk-create/bulk-create.html" timestamp="1590093240615" />
-      <file name="$USER_HOME$/code/sc/web/static/web/web.sass" timestamp="1590092107045">
-        <mark key="'" line="347" column="66" />
-        <mark key="[" line="347" column="67" />
-        <mark key="]" line="347" column="77" />
-        <mark key="^" line="347" column="77" />
-        <mark key="." line="347" column="76" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/config/doctors/details/doctors.dialog.html" timestamp="1590097979697">
+        <mark key="[" line="38" column="16" />
+        <mark key="]" line="38" column="26" />
+        <mark key="." line="38" column="25" />
+        <mark key="^" line="38" column="26" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/procedure_groups_view.py" timestamp="1590094653809">
+      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/doctors_view.py" timestamp="1590098035373">
+        <mark key="[" line="69" column="26" />
+        <mark key="]" line="69" column="57" />
+        <mark key="^" line="69" column="57" />
+        <mark key="." line="69" column="56" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/procedure_groups_view.py" timestamp="1590097459455">
         <mark key="'" line="43" column="27" />
-        <mark key="[" line="54" column="60" />
-        <mark key="]" line="55" column="15" />
-        <mark key="^" line="55" column="15" />
-        <mark key="." line="55" column="14" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="50" column="27" />
+        <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" timestamp="1590093376072">
-        <mark key="'" line="39" column="2" />
-        <mark key="[" line="71" column="25" />
-        <mark key="]" line="71" column="29" />
-        <mark key="." line="71" column="28" />
-        <mark key="^" line="71" column="29" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/config/offices/offices.ts" timestamp="1590098072336">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="129" column="23" />
+        <mark key="]" line="129" column="27" />
+        <mark key="." line="129" column="26" />
+        <mark key="^" line="129" column="27" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/common/components/loader/loader.service.ts" timestamp="1590094569368">
         <mark key="[" line="24" column="52" />
@@ -284,12 +288,18 @@
         <mark key="^" line="24" column="57" />
         <mark key="." line="24" column="56" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/components/chips/new-app-type/new-app-type.chips.ts" timestamp="1590093962631">
+      <file name="$USER_HOME$/code/sc/web/static/web/components/chips/new-app-type/new-app-type.chips.ts" timestamp="1590096362238">
         <mark key="'" line="10" column="13" />
         <mark key="[" line="21" column="21" />
         <mark key="]" line="21" column="28" />
         <mark key="^" line="21" column="28" />
         <mark key="." line="21" column="27" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/config/offices/details/offices.dialog.html" timestamp="1590097966815">
+        <mark key="[" line="36" column="15" />
+        <mark key="]" line="36" column="23" />
+        <mark key="." line="36" column="22" />
+        <mark key="^" line="36" column="23" />
       </file>
       <file name="$USER_HOME$/code/sc/web/gce/travis_deploy.py" timestamp="1590094419113">
         <mark key="[" line="92" column="17" />
@@ -297,30 +307,43 @@
         <mark key="." line="92" column="19" />
         <mark key="^" line="92" column="20" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/office.py" timestamp="1590093307655">
-        <mark key="[" line="37" column="30" />
-        <mark key="]" line="37" column="46" />
-        <mark key="^" line="37" column="46" />
-        <mark key="." line="37" column="45" />
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/office.py" timestamp="1590098128710">
+        <mark key="'" line="30" column="6" />
+        <mark key="[" line="73" column="25" />
+        <mark key="]" line="73" column="25" />
+        <mark key="^" line="73" column="25" />
+        <mark key="." line="73" column="24" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/config/new-app-types/new-app-types-config.ts" timestamp="1590094015080">
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/config/new-app-types/new-app-types-config.ts" timestamp="1590097484781">
         <mark key="'" line="19" column="5" />
-        <mark key="[" line="18" column="14" />
-        <mark key="]" line="18" column="30" />
-        <mark key="^" line="18" column="30" />
-        <mark key="." line="18" column="29" />
+        <mark key="[" line="35" column="96" />
+        <mark key="]" line="37" column="30" />
+        <mark key="^" line="37" column="30" />
+        <mark key="." line="37" column="29" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1590096045692">
+        <mark key="'" line="52" column="6" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="." line="138" column="0" />
+        <mark key="^" line="138" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/common/interceptors/resource-interceptor.ts" timestamp="1590094528114">
         <mark key="'" line="28" column="19" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/mods/support/rest/error_reports_view.py" timestamp="1590093328380" />
-      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/integration_file_transforms_view.py" timestamp="1590093321010" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e48b375-fdd8-413d-be5c-4a28f85cc940/console.sql" timestamp="1590096099945">
+        <mark key="'" line="39" column="9" />
+        <mark key="[" line="46" column="10" />
+        <mark key="]" line="46" column="10" />
+        <mark key="." line="46" column="9" />
+        <mark key="^" line="46" column="10" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/gce/startup-script-back.sh" timestamp="1590094749827" />
-      <file name="$USER_HOME$/code/sc/web/static/common/search/search.ts" timestamp="1590093841642">
-        <mark key="[" line="122" column="25" />
-        <mark key="]" line="122" column="30" />
-        <mark key="^" line="122" column="30" />
-        <mark key="." line="122" column="29" />
+      <file name="$USER_HOME$/code/sc/web/static/common/search/search.ts" timestamp="1590097407534">
+        <mark key="[" line="160" column="153" />
+        <mark key="]" line="160" column="161" />
+        <mark key="." line="160" column="160" />
+        <mark key="^" line="160" column="161" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/charges_view.py" timestamp="1590093384441" />
       <file name="$USER_HOME$/code/sc/web/sc/coms/search/auto/auto_search.py" timestamp="1590093603258">
@@ -331,9 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="23" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/arrowlytics.ts" />
-      <jump line="72" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/arrowlytics.ts" />
-      <jump line="77" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/arrowlytics.ts" />
       <jump line="32" column="4" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/charges/details/charge-details.ts" />
       <jump line="71" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/arrowlytics.ts" />
       <jump line="69" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/session-details-page.ts" />
@@ -431,15 +451,18 @@
       <jump line="19" column="5" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/config/new-app-types/new-app-types-config.ts" />
       <jump line="28" column="19" filename="$USER_HOME$/code/sc/web/static/common/interceptors/resource-interceptor.ts" />
       <jump line="43" column="27" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/procedure_groups_view.py" />
+      <jump line="39" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2e48b375-fdd8-413d-be5c-4a28f85cc940/console.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/config/offices/offices.ts" />
+      <jump line="30" column="6" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/office.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>values</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgT2ZmaWNlLmZhY2lsaXR5ID09IEZhY2lsaXR5Lk9mZmljZSwK</text>
       </register>
       <register name="-" type="4">
-        <text>values</text>
+        <text>_type</text>
       </register>
       <register name="/" type="4">
         <text>message</text>
@@ -448,34 +471,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgT2ZmaWNlLmZhY2lsaXR5ID09IEZhY2lsaXR5Lk9mZmljZSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFyZ3MgPSByZXFfYXJncygpCiAgICBuYW1lID0gTm9uZQogICAgaWYgYXJncy5nZXQoImZpbHRlcnMiKToKICAgICAgYXJnc1siZmlsdGVycyJdW3R5cGVdID0gYXJnc1siZmlsdGVycyJdW2NvbnN0LmRlZmtleV0KCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsZXQga2V5ID0gc2VsZi5rZXkgfHwgREVGUwo=</text>
+        <text encoding="base64">ICAgICAgICBjZWxsRmlsdGVyOiAnYW5kTW9yZScsCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAdmlldy5pbmRleAo=</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKGpzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpZiAoIW5hbWUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByb3dzOiBzdHJpbmdbXQo=</text>
+        <text encoding="base64">ICByZXMuZmlsdGVyKHIgPT4gIShyb3dzIHx8IFtdKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMucm93cyA9IHRoaXMudHlwZXMubWFwKHIgPT4gci5uYW1lKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQgCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//new-app-type</text>
