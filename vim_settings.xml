@@ -237,13 +237,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e48b375-fdd8-413d-be5c-4a28f85cc940/console.sql" timestamp="1590096099945">
-        <mark key="'" line="39" column="9" />
-        <mark key="[" line="46" column="10" />
-        <mark key="]" line="46" column="10" />
-        <mark key="." line="46" column="9" />
-        <mark key="^" line="46" column="10" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" timestamp="1590098133818">
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
@@ -286,6 +279,9 @@
         <mark key="." line="129" column="26" />
         <mark key="^" line="129" column="27" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/arrowlytics.service.ts" timestamp="1590185722520">
+        <mark key="'" line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/config/new-app-types/new-app-types-config.ts" timestamp="1590097484781">
         <mark key="'" line="19" column="5" />
         <mark key="[" line="35" column="96" />
@@ -308,6 +304,13 @@
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/web.conf.ts" timestamp="1590175056727">
         <mark key="'" line="80" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/arrowlytics.ints.ts" timestamp="1590185737167">
+        <mark key="'" line="189" column="1" />
+        <mark key="[" line="18" column="17" />
+        <mark key="]" line="18" column="39" />
+        <mark key="^" line="18" column="39" />
+        <mark key="." line="18" column="38" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/components/chips/new-app-type/new-app-type.chips.ts" timestamp="1590096362238">
         <mark key="'" line="10" column="13" />
@@ -336,9 +339,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="30" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/arrived-pending-sessions/arrived-pending-sessions.ts" />
-      <jump line="141" column="30" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/arrived-pending-sessions/arrived-pending-sessions.ts" />
-      <jump line="127" column="23" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/arrived-pending-sessions/arrived-pending-sessions.ts" />
       <jump line="139" column="23" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/arrived-pending-sessions/arrived-pending-sessions.ts" />
       <jump line="107" column="16" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/arrived-pending-sessions/arrived-pending-sessions.ts" />
       <jump line="130" column="18" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/arrived-pending-sessions/arrived-pending-sessions.ts" />
@@ -436,15 +436,18 @@
       <jump line="226" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-line-chart.ts" />
       <jump line="8" column="13" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-common.ts" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" />
+      <jump line="5" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/arrowlytics.service.ts" />
+      <jump line="17" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/arrowlytics.ints.ts" />
+      <jump line="183" column="1" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/arrowlytics.ints.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="+" type="4">
+        <text>ArrowlyticsParams</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>ArrowlyticsParams</text>
       </register>
       <register name="/" type="4">
         <text>message</text>
@@ -453,34 +456,39 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text>export interface ArrowlyticsParams {
+  query: string
+  filters: {
+    date: DateFilter
+  }
+}</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgT2ZmaWNlLmZhY2lsaXR5ID09IEZhY2lsaXR5Lk9mZmljZSwK</text>
+        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBDaGFyZ2VBcnJvd1BhcmFtcyB7CiAgZmlsdGVyczogUGFyYW1GaWx0ZXJzCiAgcXVlcnk6IHN0cmluZwogIHNwYW46IFRpbWVTcGFuCn0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjZWxsRmlsdGVyOiAnYW5kTW9yZScsCg==</text>
+        <text encoding="base64">ICAgICAgT2ZmaWNlLmZhY2lsaXR5ID09IEZhY2lsaXR5Lk9mZmljZSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKGpzKQo=</text>
+        <text encoding="base64">ICAgICAgICBjZWxsRmlsdGVyOiAnYW5kTW9yZScsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpZiAoIW5hbWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXMuZmlsdGVyKHIgPT4gIShyb3dzIHx8IFtdKQo=</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKGpzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBpZiAoIW5hbWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//new-app-type</text>
