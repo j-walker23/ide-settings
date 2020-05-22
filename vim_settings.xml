@@ -256,6 +256,12 @@
         <mark key="^" line="10" column="19" />
         <mark key="." line="10" column="18" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1590164024808">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="5" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/config/doctors/details/doctors.dialog.html" timestamp="1590097979697">
         <mark key="[" line="38" column="16" />
         <mark key="]" line="38" column="26" />
@@ -339,13 +345,6 @@
         <mark key="^" line="46" column="10" />
       </file>
       <file name="$USER_HOME$/code/sc/web/gce/startup-script-back.sh" timestamp="1590094749827" />
-      <file name="$USER_HOME$/code/sc/web/static/common/search/search.ts" timestamp="1590097407534">
-        <mark key="[" line="160" column="153" />
-        <mark key="]" line="160" column="161" />
-        <mark key="." line="160" column="160" />
-        <mark key="^" line="160" column="161" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/charges_view.py" timestamp="1590093384441" />
       <file name="$USER_HOME$/code/sc/web/sc/coms/search/auto/auto_search.py" timestamp="1590093603258">
         <mark key="[" line="36" column="11" />
         <mark key="]" line="36" column="14" />
@@ -458,11 +457,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgT2ZmaWNlLmZhY2lsaXR5ID09IEZhY2lsaXR5Lk9mZmljZSwK</text>
+      <register name="+" type="4">
+        <text>dev</text>
       </register>
       <register name="-" type="4">
-        <text>_type</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>message</text>
