@@ -259,13 +259,6 @@
         <mark key="^" line="69" column="57" />
         <mark key="." line="69" column="56" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/procedure_groups_view.py" timestamp="1590097459455">
-        <mark key="'" line="43" column="27" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="^" line="50" column="27" />
-        <mark key="." line="55" column="0" />
-      </file>
       <file name="/console" timestamp="1590180616824">
         <mark key="[" line="0" column="0" />
       </file>
@@ -295,6 +288,7 @@
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-line-chart.ts" timestamp="1590180319541">
         <mark key="'" line="226" column="0" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/search/arrowlytics-search.ts" timestamp="1590185751388" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" timestamp="1590180683649">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="120" column="8" />
@@ -302,22 +296,20 @@
         <mark key="^" line="120" column="11" />
         <mark key="." line="120" column="10" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/encounters/search/encounters-auto.service.ts" timestamp="1590186755204">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/web.conf.ts" timestamp="1590175056727">
         <mark key="'" line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/arrowlytics.ints.ts" timestamp="1590185737167">
-        <mark key="'" line="189" column="1" />
-        <mark key="[" line="18" column="17" />
-        <mark key="]" line="18" column="39" />
-        <mark key="^" line="18" column="39" />
-        <mark key="." line="18" column="38" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/components/chips/new-app-type/new-app-type.chips.ts" timestamp="1590096362238">
-        <mark key="'" line="10" column="13" />
-        <mark key="[" line="21" column="21" />
-        <mark key="]" line="21" column="28" />
-        <mark key="^" line="21" column="28" />
-        <mark key="." line="21" column="27" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/arrowlytics.ints.ts" timestamp="1590186746181">
+        <mark key="'" line="191" column="1" />
+        <mark key="[" line="36" column="74" />
+        <mark key="]" line="38" column="20" />
+        <mark key="^" line="38" column="20" />
+        <mark key="." line="38" column="19" />
       </file>
       <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1590164024808">
         <mark key="[" line="0" column="0" />
@@ -337,6 +329,7 @@
         <mark key="." line="36" column="22" />
         <mark key="^" line="36" column="23" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/search/arrowlytics-auto.service.ts" timestamp="1590186714561" />
     </filemarks>
     <jumps>
       <jump line="139" column="23" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/arrived-pending-sessions/arrived-pending-sessions.ts" />
@@ -443,8 +436,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>ArrowlyticsParams</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICdGYWNpbGl0eScsCiAgICAnRmFjaWxpdHkgVHlwZScsCg==</text>
       </register>
       <register name="-" type="4">
         <text>ArrowlyticsParams</text>
@@ -456,6 +449,12 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICdGYWNpbGl0eScsCiAgICAnRmFjaWxpdHkgVHlwZScsCg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
         <text>export interface ArrowlyticsParams {
   query: string
   filters: {
@@ -463,32 +462,26 @@
   }
 }</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBDaGFyZ2VBcnJvd1BhcmFtcyB7CiAgZmlsdGVyczogUGFyYW1GaWx0ZXJzCiAgcXVlcnk6IHN0cmluZwogIHNwYW46IFRpbWVTcGFuCn0K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgT2ZmaWNlLmZhY2lsaXR5ID09IEZhY2lsaXR5Lk9mZmljZSwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgT2ZmaWNlLmZhY2lsaXR5ID09IEZhY2lsaXR5Lk9mZmljZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjZWxsRmlsdGVyOiAnYW5kTW9yZScsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjZWxsRmlsdGVyOiAnYW5kTW9yZScsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKGpzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpZiAoIW5hbWUpCg==</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKGpzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s//new-app-type</text>
