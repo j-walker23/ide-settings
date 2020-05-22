@@ -237,23 +237,28 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e48b375-fdd8-413d-be5c-4a28f85cc940/console.sql" timestamp="1590096099945">
+        <mark key="'" line="39" column="9" />
+        <mark key="[" line="46" column="10" />
+        <mark key="]" line="46" column="10" />
+        <mark key="." line="46" column="9" />
+        <mark key="^" line="46" column="10" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" timestamp="1590098133818">
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
         <mark key="^" line="88" column="29" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1590164024808">
+      <file name="/copays" timestamp="1590175661728">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="4" />
-        <mark key="^" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/config/doctors/details/doctors.dialog.html" timestamp="1590097979697">
-        <mark key="[" line="38" column="16" />
-        <mark key="]" line="38" column="26" />
-        <mark key="." line="38" column="25" />
-        <mark key="^" line="38" column="26" />
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/office.py" timestamp="1590098128710">
+        <mark key="'" line="30" column="6" />
+        <mark key="[" line="73" column="25" />
+        <mark key="]" line="73" column="25" />
+        <mark key="^" line="73" column="25" />
+        <mark key="." line="73" column="24" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/doctors_view.py" timestamp="1590098035373">
         <mark key="[" line="69" column="26" />
@@ -268,39 +273,15 @@
         <mark key="^" line="50" column="27" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="/console" timestamp="1590175662178">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/config/offices/offices.ts" timestamp="1590098072336">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="129" column="23" />
         <mark key="]" line="129" column="27" />
         <mark key="." line="129" column="26" />
         <mark key="^" line="129" column="27" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/web.ts" timestamp="1590175104848">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="206" column="0" />
-        <mark key="]" line="206" column="0" />
-        <mark key="^" line="205" column="39" />
-        <mark key="." line="206" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/components/chips/new-app-type/new-app-type.chips.ts" timestamp="1590096362238">
-        <mark key="'" line="10" column="13" />
-        <mark key="[" line="21" column="21" />
-        <mark key="]" line="21" column="28" />
-        <mark key="^" line="21" column="28" />
-        <mark key="." line="21" column="27" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/config/offices/details/offices.dialog.html" timestamp="1590097966815">
-        <mark key="[" line="36" column="15" />
-        <mark key="]" line="36" column="23" />
-        <mark key="." line="36" column="22" />
-        <mark key="^" line="36" column="23" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/office.py" timestamp="1590098128710">
-        <mark key="'" line="30" column="6" />
-        <mark key="[" line="73" column="25" />
-        <mark key="]" line="73" column="25" />
-        <mark key="^" line="73" column="25" />
-        <mark key="." line="73" column="24" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/config/new-app-types/new-app-types-config.ts" timestamp="1590097484781">
         <mark key="'" line="19" column="5" />
@@ -309,19 +290,39 @@
         <mark key="^" line="37" column="30" />
         <mark key="." line="37" column="29" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/web.ts" timestamp="1590177426258">
+        <mark key="'" line="168" column="2" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/web.conf.ts" timestamp="1590175056727">
         <mark key="'" line="80" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e48b375-fdd8-413d-be5c-4a28f85cc940/console.sql" timestamp="1590096099945">
-        <mark key="'" line="39" column="9" />
-        <mark key="[" line="46" column="10" />
-        <mark key="]" line="46" column="10" />
-        <mark key="." line="46" column="9" />
-        <mark key="^" line="46" column="10" />
+      <file name="$USER_HOME$/code/sc/web/static/web/components/chips/new-app-type/new-app-type.chips.ts" timestamp="1590096362238">
+        <mark key="'" line="10" column="13" />
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="21" column="28" />
+        <mark key="^" line="21" column="28" />
+        <mark key="." line="21" column="27" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1590164024808">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/config/doctors/details/doctors.dialog.html" timestamp="1590097979697">
+        <mark key="[" line="38" column="16" />
+        <mark key="]" line="38" column="26" />
+        <mark key="." line="38" column="25" />
+        <mark key="^" line="38" column="26" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/config/offices/details/offices.dialog.html" timestamp="1590097966815">
+        <mark key="[" line="36" column="15" />
+        <mark key="]" line="36" column="23" />
+        <mark key="." line="36" column="22" />
+        <mark key="^" line="36" column="23" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="30" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/session-details-page.ts" />
       <jump line="68" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/session-details-page.ts" />
       <jump line="145" column="17" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/arrived-pending-sessions/arrived-pending-sessions.ts" />
       <jump line="200" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/arrived-pending-sessions/arrived-pending-sessions.ts" />
@@ -421,6 +422,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/web/web.conf.ts" />
       <jump line="80" column="0" filename="$USER_HOME$/code/sc/web/static/web/web.conf.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/web/web.ts" />
+      <jump line="167" column="2" filename="$USER_HOME$/code/sc/web/static/web/web.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
