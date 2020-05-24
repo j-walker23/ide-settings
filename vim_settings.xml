@@ -246,11 +246,11 @@
       <file name="/copays" timestamp="1590175661728">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" timestamp="1590277483917">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="14" column="1" />
-        <mark key="^" line="14" column="1" />
-        <mark key="." line="14" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" timestamp="1590277724321">
+        <mark key="[" line="13" column="26" />
+        <mark key="]" line="13" column="30" />
+        <mark key="^" line="13" column="30" />
+        <mark key="." line="13" column="29" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/office.py" timestamp="1590098128710">
         <mark key="'" line="30" column="6" />
@@ -259,7 +259,7 @@
         <mark key="^" line="73" column="25" />
         <mark key="." line="73" column="24" />
       </file>
-      <file name="/console" timestamp="1590275787409">
+      <file name="/console" timestamp="1590277940509">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-common.ts" timestamp="1590180328386">
@@ -297,7 +297,7 @@
         <mark key="^" line="120" column="11" />
         <mark key="." line="120" column="10" />
       </file>
-      <file name="/console_2" timestamp="1590275787119">
+      <file name="/console_2" timestamp="1590277940295">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/encounters/search/encounters-auto.service.ts" timestamp="1590186755204">
@@ -435,10 +435,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>f&quot;[{fk_aid}, {fk_idd}]&quot;</text>
+        <text>query_cache_size</text>
       </register>
       <register name="-" type="4">
-        <text>f&quot;[{fk_aid}, {fk_idd}]&quot;</text>
+        <text>query_cache_size</text>
       </register>
       <register name="/" type="4">
         <text>message</text>
