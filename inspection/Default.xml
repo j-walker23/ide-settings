@@ -89,6 +89,10 @@
         <option value="sqlalchemy.ext.hybrid.hybrid_property.*" />
         <option value="sc.sql.integ.hj.tables.transaction.Transaction._asdict" />
         <option value="sc.sql.integ.hj.tables.charge.Charge._asdict" />
+        <option value="sc.sql.integ.hj.base.DemoMix.account_id" />
+        <option value="sc.sql.integ.hj.base.OfficeMix.account_id" />
+        <option value="sc.sql.integ.hj.base.DoctorMix.account_id" />
+        <option value="sc.sql.integ.hj.base.SrcEncounterMix.account_id" />
       </list>
     </option>
   </inspection_tool>
