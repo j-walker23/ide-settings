@@ -239,11 +239,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/globals.py" timestamp="1590280322288">
-        <mark key="[" line="34" column="28" />
-        <mark key="]" line="35" column="45" />
-        <mark key="^" line="35" column="45" />
-        <mark key="." line="35" column="44" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/encounters/process.py" timestamp="1590303901403">
+        <mark key="'" line="19" column="6" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/encounter.py" timestamp="1590295927706">
         <mark key="[" line="67" column="0" />
@@ -273,8 +270,12 @@
       <file name="/console" timestamp="1590298064458">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1590280158156">
-        <mark key="'" line="75" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1590303925238">
+        <mark key="'" line="116" column="6" />
+        <mark key="[" line="50" column="15" />
+        <mark key="]" line="50" column="15" />
+        <mark key="." line="50" column="15" />
+        <mark key="^" line="43" column="15" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/sqlutils.py" timestamp="1590285625968">
         <mark key="'" line="85" column="2" />
@@ -309,12 +310,6 @@
       <file name="$USER_HOME$/code/sc/web/migrations/versions/fb1cd8694705__86.py" timestamp="1590295279332">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1590280191304">
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="4" />
-        <mark key="^" line="0" column="5" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/search/appointments-search.ts" timestamp="1590296587500">
         <mark key="'" line="7" column="62" />
         <mark key="[" line="7" column="108" />
@@ -329,8 +324,8 @@
         <mark key="^" line="94" column="21" />
         <mark key="." line="94" column="20" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/base.py" timestamp="1590294104457">
-        <mark key="'" line="48" column="0" />
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/base.py" timestamp="1590303453226">
+        <mark key="'" line="63" column="6" />
         <mark key="[" line="121" column="17" />
         <mark key="]" line="121" column="23" />
         <mark key="." line="121" column="22" />
@@ -338,9 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/migrations/versions/2dbf81ffc546__80.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/migrations/versions/05afc7b75976__83.py" />
-      <jump line="418" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
       <jump line="472" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
       <jump line="46" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
       <jump line="115" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
@@ -438,15 +430,18 @@
       <jump line="81" column="4" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/arrow-appointments.ts" />
       <jump line="30" column="32" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/arrow-appointments.ts" />
       <jump line="47" column="46" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/arrow-appointments.ts" />
+      <jump line="63" column="6" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/base.py" />
+      <jump line="116" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
+      <jump line="19" column="6" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/encounters/process.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXBwb2ludG1lbnRzUmVzb3VyY2UgfSBmcm9tICdzdGF0aWMvd2ViL2h0dHAvYXBwb2ludG1lbnRzLnJlc291cmNlJwo=</text>
+      <register name="+" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>, private $pay: PaymentsResource</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>charge</text>
