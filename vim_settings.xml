@@ -246,12 +246,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" timestamp="1590346180505">
-        <mark key="'" line="142" column="6" />
-        <mark key="[" line="151" column="33" />
-        <mark key="]" line="151" column="43" />
-        <mark key="^" line="151" column="43" />
-        <mark key="." line="151" column="42" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/encounters/process.py" timestamp="1590346821956">
+        <mark key="[" line="32" column="15" />
+        <mark key="]" line="32" column="15" />
+        <mark key="." line="32" column="14" />
+        <mark key="^" line="32" column="15" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/encounter.py" timestamp="1590348014275">
         <mark key="'" line="87" column="0" />
@@ -259,6 +258,13 @@
         <mark key="]" line="70" column="41" />
         <mark key="." line="70" column="40" />
         <mark key="^" line="70" column="41" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" timestamp="1590347305426">
+        <mark key="'" line="50" column="24" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="75" column="8" />
+        <mark key="^" line="75" column="8" />
+        <mark key="." line="75" column="7" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/transaction.py" timestamp="1590347749407">
         <mark key="'" line="119" column="0" />
@@ -273,40 +279,15 @@
         <mark key="]" line="73" column="56" />
         <mark key="." line="73" column="0" />
       </file>
+      <file name="/console" timestamp="1590461060364">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/demographic.py" timestamp="1590347976062">
         <mark key="'" line="84" column="0" />
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="53" />
         <mark key="." line="70" column="0" />
         <mark key="^" line="68" column="30" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/encounters/kpis.py" timestamp="1590348389575">
-        <mark key="'" line="12" column="17" />
-        <mark key="[" line="39" column="40" />
-        <mark key="]" line="39" column="42" />
-        <mark key="." line="39" column="41" />
-        <mark key="^" line="39" column="42" />
-      </file>
-      <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/sqlalchemy/orm/relationships.py" timestamp="1590348290819" />
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/base.py" timestamp="1590348452709">
-        <mark key="'" line="167" column="0" />
-        <mark key="[" line="167" column="0" />
-        <mark key="]" line="167" column="40" />
-        <mark key="^" line="184" column="36" />
-        <mark key="." line="167" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/encounters/process.py" timestamp="1590346821956">
-        <mark key="[" line="32" column="15" />
-        <mark key="]" line="32" column="15" />
-        <mark key="." line="32" column="14" />
-        <mark key="^" line="32" column="15" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" timestamp="1590347305426">
-        <mark key="'" line="50" column="24" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="75" column="8" />
-        <mark key="^" line="75" column="8" />
-        <mark key="." line="75" column="7" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/charge.py" timestamp="1590347967258">
         <mark key="'" line="95" column="4" />
@@ -334,10 +315,14 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/base.py" timestamp="1590346149387">
-        <mark key="'" line="50" column="6" />
+      <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" timestamp="1590461457226">
+        <mark key="'" line="12" column="84" />
+        <mark key="[" line="12" column="38" />
+        <mark key="]" line="12" column="85" />
+        <mark key="." line="12" column="84" />
+        <mark key="^" line="12" column="85" />
       </file>
-      <file name="/console_2" timestamp="1590347135983">
+      <file name="/console_2" timestamp="1590461060177">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/migrations/versions/18ba55d3c2f0__91.py" timestamp="1590347588694">
@@ -346,7 +331,20 @@
       <file name="$USER_HOME$/code/sc/web/migrations/versions/7357ce32ae67__90.py" timestamp="1590347594791">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/sqlalchemy/orm/__init__.py" timestamp="1590348254571" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/encounters/kpis.py" timestamp="1590348389575">
+        <mark key="'" line="12" column="17" />
+        <mark key="[" line="39" column="40" />
+        <mark key="]" line="39" column="42" />
+        <mark key="." line="39" column="41" />
+        <mark key="^" line="39" column="42" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/base.py" timestamp="1590348452709">
+        <mark key="'" line="167" column="0" />
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="167" column="40" />
+        <mark key="^" line="184" column="36" />
+        <mark key="." line="167" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1590348406912">
         <mark key="[" line="35" column="22" />
         <mark key="]" line="592" column="18" />
@@ -355,7 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="48" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/arrow-appointments.ts" />
       <jump line="76" column="4" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/arrow-appointments.ts" />
       <jump line="74" column="9" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/arrow-appointments.ts" />
       <jump line="81" column="4" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/arrow-appointments.ts" />
@@ -455,15 +452,16 @@
       <jump line="167" column="0" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/base.py" />
       <jump line="66" column="35" filename="$USER_HOME$/code/sc/web/cli/john.py" />
       <jump line="12" column="17" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/encounters/kpis.py" />
+      <jump line="12" column="84" filename="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>[]</text>
+        <text encoding="base64">IGFyZSA=</text>
       </register>
       <register name="-" type="4">
-        <text>[]</text>
+        <text encoding="base64">IGFyZSA=</text>
       </register>
       <register name="/" type="4">
         <text>on_done</text>
@@ -514,7 +512,7 @@
       <last-replace>source_encounter_id</last-replace>
       <last-substitute>encounter_id</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
