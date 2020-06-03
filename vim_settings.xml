@@ -248,16 +248,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/encounter.py" timestamp="1591168259216">
-        <mark key="'" line="42" column="30" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="3" />
-        <mark key="." line="58" column="2" />
-        <mark key="^" line="58" column="3" />
-      </file>
-      <file name="/dumpDataPreview" timestamp="1591168702848">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/encounters/process.py" timestamp="1591161816077">
         <mark key="'" line="59" column="0" />
         <mark key="[" line="22" column="15" />
@@ -265,13 +255,49 @@
         <mark key="." line="23" column="27" />
         <mark key="^" line="23" column="28" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/coms/testing/utils.py" timestamp="1591167183325" />
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/encounter.py" timestamp="1591168259216">
+        <mark key="'" line="42" column="30" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="3" />
+        <mark key="." line="58" column="2" />
+        <mark key="^" line="58" column="3" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" timestamp="1591169040575">
+        <mark key="'" line="150" column="6" />
+        <mark key="[" line="148" column="13" />
+        <mark key="]" line="179" column="47" />
+        <mark key="^" line="179" column="47" />
+        <mark key="." line="179" column="46" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/transaction.py" timestamp="1591169125575">
+        <mark key="'" line="32" column="6" />
+        <mark key="[" line="121" column="22" />
+        <mark key="]" line="121" column="31" />
+        <mark key="." line="121" column="30" />
+        <mark key="^" line="121" column="31" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/office.py" timestamp="1591169089591">
+        <mark key="'" line="40" column="79" />
+        <mark key="[" line="83" column="10" />
+        <mark key="]" line="83" column="16" />
+        <mark key="." line="83" column="15" />
+        <mark key="^" line="83" column="16" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/doctors_view.py" timestamp="1591165024968">
         <mark key="'" line="27" column="32" />
         <mark key="[" line="69" column="26" />
         <mark key="]" line="69" column="26" />
         <mark key="." line="69" column="25" />
         <mark key="^" line="69" column="26" />
+      </file>
+      <file name="/console" timestamp="1591169277419">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_25.json" timestamp="1591166921950">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/config/offices/offices.ts" timestamp="1591165064160">
         <mark key="'" line="112" column="22" />
@@ -300,32 +326,6 @@
         <mark key="]" line="0" column="410149" />
         <mark key="." line="0" column="410149" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/tasks/hj/collecting.py" timestamp="1591161974069">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-        <mark key="^" line="91" column="63" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/transaction.py" timestamp="1591169125575">
-        <mark key="'" line="32" column="6" />
-        <mark key="[" line="121" column="22" />
-        <mark key="]" line="121" column="31" />
-        <mark key="." line="121" column="30" />
-        <mark key="^" line="121" column="31" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/office.py" timestamp="1591169089591">
-        <mark key="'" line="40" column="79" />
-        <mark key="[" line="83" column="10" />
-        <mark key="]" line="83" column="16" />
-        <mark key="." line="83" column="15" />
-        <mark key="^" line="83" column="16" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_25.json" timestamp="1591166921950">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="1" />
-        <mark key="^" line="4" column="1" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_24.json" timestamp="1591166656617">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
@@ -335,19 +335,17 @@
       <file name="$USER_HOME$/code/sc/web/sc/sql/sqlutils.py" timestamp="1591169055542">
         <mark key="'" line="101" column="4" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/tasks/hj/collecting.py" timestamp="1591161974069">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+        <mark key="^" line="91" column="63" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/encounters/kpis.py" timestamp="1591168597483">
         <mark key="'" line="12" column="17" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" timestamp="1591169040575">
-        <mark key="'" line="150" column="6" />
-        <mark key="[" line="148" column="13" />
-        <mark key="]" line="179" column="47" />
-        <mark key="^" line="179" column="47" />
-        <mark key="." line="179" column="46" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1591166756719" />
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/base.py" timestamp="1591161152777">
-        <mark key="'" line="48" column="6" />
+      <file name="/dumpDataPreview" timestamp="1591168702848">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1591168615210">
         <mark key="[" line="570" column="36" />
