@@ -268,11 +268,17 @@
         <mark key="." line="24" column="33" />
         <mark key="^" line="24" column="34" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/base.py" timestamp="1591191364801">
-        <mark key="[" line="158" column="36" />
-        <mark key="]" line="158" column="36" />
-        <mark key="." line="158" column="36" />
-        <mark key="^" line="158" column="39" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/base.py" timestamp="1591192593450">
+        <mark key="[" line="163" column="67" />
+        <mark key="]" line="164" column="4" />
+        <mark key="." line="164" column="3" />
+        <mark key="^" line="164" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" timestamp="1591192170672">
+        <mark key="[" line="2" column="78" />
+        <mark key="]" line="2" column="107" />
+        <mark key="^" line="2" column="107" />
+        <mark key="." line="2" column="106" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/apps-arrived/apps-arrived.html" timestamp="1591190410790">
         <mark key="[" line="5" column="21" />
@@ -305,6 +311,12 @@
         <mark key="[" line="159" column="0" />
         <mark key="]" line="159" column="0" />
         <mark key="." line="159" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/appointments/types.py" timestamp="1591192755279">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="25" column="39" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-summary-card/arrow-chart.ts" timestamp="1591190262376">
         <mark key="'" line="83" column="0" />
@@ -346,19 +358,6 @@
         <mark key="]" line="32" column="23" />
         <mark key="^" line="32" column="23" />
         <mark key="." line="32" column="22" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" timestamp="1591185594996">
-        <mark key="'" line="218" column="0" />
-        <mark key="[" line="236" column="0" />
-        <mark key="]" line="237" column="8" />
-        <mark key="^" line="237" column="8" />
-        <mark key="." line="237" column="7" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_54.py" timestamp="1591186172097">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="39" />
-        <mark key="^" line="14" column="39" />
-        <mark key="." line="14" column="38" />
       </file>
       <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1591191498432">
         <mark key="'" line="650" column="15" />
@@ -473,11 +472,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>yoy_params</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgIGlmIGVuZCA+IHRpbWVzLm5vdygpOgogICAgICBzdGFydCA9IGVuZC5zaGlmdCh5ZWFycz0tMSkuZmxvb3IoInllYXIiKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>yoy_params</text>
+        <text>yoy_period</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -486,34 +485,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcyA9IHNlbGYubm9fZGF0ZV9wYXJhbXMKICAgIHN0YXJ0LCBlbmQgPSBzZWxmLnJvbGxpbmdfcGVyaW9kCiAgICBzdGFydCwgZW5kID0gdGltZXMuc3RhcnRfZW5kX2RhdGVfaW50KHN0YXJ0LCBlbmQsIHNlbGYuc3BhbnMpCiAgICBzdGFydCwgZW5kID0gc3RhcnRfZW5kX2Zyb21fdXJsKCkKICAgIHBhcmFtc1siZmlsdGVycyJdW3NlbGYuc3BhbnNdID0gZnJvbV9zdGFydF9lbmQoc3RhcnQsIGVuZCkKICAgIGxvZy5pbmZvKGYiQXJncy5yb2xsaW5nX3BhcmFtcyIsIHN0YXJ0PXN0YXJ0LCBlbmQ9ZW5kKQogICAgcmV0dXJuIHBhcmFtcwo=</text>
+        <text encoding="base64">ICAgIGlmIGVuZCA+IHRpbWVzLm5vdygpOgogICAgICBzdGFydCA9IGVuZC5zaGlmdCh5ZWFycz0tMSkuZmxvb3IoInllYXIiKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhlYWRlcnMpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG51bXMpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHN0YXJ0LCBlbmQgPSBzZWxmLmxhc3RfY29tcGxldGVkX21vbnRoCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHNwYW5zID0gc3BhbnMgb3Igc2VsZi5zcGFucwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzcGFuOiBUaW1lU3Bhbgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBzZWxmLnBhcmFtc193aXRoX2RhdGVfaW50KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0aGlzLmRhdGVmb3JtYXQnLCB0aGlzLmRhdGVmb3JtYXQpCg==</text>
+        <text encoding="base64">SSdtIG5vdCBzdXJlIGlmIGknbSBjb21pbmcgaW4gdG9kYXksIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBuZ09uSW5pdCgpIHsKICB9Cgo=</text>
+        <text encoding="base64">ICAgIHBhcmFtcyA9IHNlbGYubm9fZGF0ZV9wYXJhbXMKICAgIHN0YXJ0LCBlbmQgPSBzZWxmLnJvbGxpbmdfcGVyaW9kCiAgICBzdGFydCwgZW5kID0gdGltZXMuc3RhcnRfZW5kX2RhdGVfaW50KHN0YXJ0LCBlbmQsIHNlbGYuc3BhbnMpCiAgICBzdGFydCwgZW5kID0gc3RhcnRfZW5kX2Zyb21fdXJsKCkKICAgIHBhcmFtc1siZmlsdGVycyJdW3NlbGYuc3BhbnNdID0gZnJvbV9zdGFydF9lbmQoc3RhcnQsIGVuZCkKICAgIGxvZy5pbmZvKGYiQXJncy5yb2xsaW5nX3BhcmFtcyIsIHN0YXJ0PXN0YXJ0LCBlbmQ9ZW5kKQogICAgcmV0dXJuIHBhcmFtcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaGVscGVyID0gcGxhaW5Ub0NsYXNzKAogICAgICBBcnJvd1N1bW1hcnlUYWJsZXMsCiAgICAgIHBpY2sodGhpcywgWydrZXknLCAnZGF0ZWZvcm1hdCcsICdkdWFsJ10pLAogICAgKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhlYWRlcnMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaGVscGVyID0gcGxhaW5Ub0NsYXNzKAogICAgICBBcnJvd1N1bW1hcnlDaGFydHMsCiAgICAgIHBpY2sodGhpcywgWwogICAgICAgICdrZXknLAogICAgICAgICdkYXRlZm9ybWF0JywKICAgICAgICAnZHVhbCcsCiAgICAgICAgJ2NoYXJ0dHlwZScsCiAgICAgICAgJ3lveScsCiAgICAgICAgJ3F1ZXJ5a2V5JywKICAgICAgICAneXR5cGUnLAogICAgICBdKSwKICAgICkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG51bXMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
