@@ -255,7 +255,13 @@
         <mark key="^" line="564" column="22" />
         <mark key="." line="564" column="21" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/base.py" timestamp="1591208258707">
+      <file name="$USER_HOME$/code/sc/web/sc/coms/search/clauses.py" timestamp="1591213961620">
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="^" line="139" column="38" />
+        <mark key="." line="140" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/base.py" timestamp="1591214052393">
         <mark key="[" line="177" column="0" />
         <mark key="]" line="177" column="0" />
         <mark key="." line="177" column="0" />
@@ -268,7 +274,6 @@
         <mark key="." line="33" column="42" />
         <mark key="^" line="33" column="43" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/vitally/base.py" timestamp="1591206794834" />
       <file name="/dumpDataPreview" timestamp="1591207446230">
         <mark key="[" line="0" column="0" />
       </file>
@@ -279,24 +284,18 @@
         <mark key="^" line="47" column="32" />
         <mark key="." line="47" column="31" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/appointments/types.py" timestamp="1591211631026">
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/appointments/types.py" timestamp="1591214070846">
         <mark key="'" line="15" column="6" />
-        <mark key="[" line="42" column="26" />
-        <mark key="]" line="42" column="26" />
-        <mark key="^" line="42" column="26" />
-        <mark key="." line="42" column="25" />
+        <mark key="[" line="36" column="32" />
+        <mark key="]" line="36" column="74" />
+        <mark key="^" line="36" column="74" />
+        <mark key="." line="36" column="73" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/__init__.py" timestamp="1591208141392">
         <mark key="[" line="31" column="100" />
         <mark key="]" line="31" column="111" />
         <mark key="." line="31" column="110" />
         <mark key="^" line="31" column="111" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/sessions-worked-yoy/sessions-worked-yoy.html" timestamp="1591207049938">
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="5" column="28" />
-        <mark key="^" line="5" column="28" />
-        <mark key="." line="5" column="27" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/demographic.py" timestamp="1591208128496" />
       <file name="$USER_HOME$/code/sc/web/migrations/keepers.sql" timestamp="1591207840352">
@@ -315,11 +314,17 @@
         <mark key="." line="63" column="42" />
         <mark key="^" line="63" column="43" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/http/appointments.resource.ts" timestamp="1591207043445">
-        <mark key="[" line="23" column="60" />
-        <mark key="]" line="23" column="64" />
-        <mark key="^" line="23" column="64" />
-        <mark key="." line="23" column="63" />
+      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/appointments_view.py" timestamp="1591213538411">
+        <mark key="[" line="37" column="21" />
+        <mark key="]" line="37" column="25" />
+        <mark key="." line="37" column="24" />
+        <mark key="^" line="37" column="25" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/http/appointments.resource.ts" timestamp="1591213555958">
+        <mark key="[" line="22" column="13" />
+        <mark key="]" line="22" column="13" />
+        <mark key="^" line="22" column="13" />
+        <mark key="." line="22" column="12" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" timestamp="1591211566241">
         <mark key="[" line="290" column="26" />
@@ -336,12 +341,10 @@
       <file name="$USER_HOME$/code/sc/web/migrations/mig_stuff.py" timestamp="1591207812798">
         <mark key="'" line="298" column="2" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1591209645061">
-        <mark key="'" line="576" column="14" />
+      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1591213314806">
         <mark key="[" line="714" column="39" />
         <mark key="]" line="714" column="39" />
         <mark key="." line="714" column="39" />
-        <mark key="^" line="576" column="37" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/coms/search/auto/auto_search.py" timestamp="1591207337912">
         <mark key="[" line="134" column="69" />
@@ -351,7 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/encounters/process.py" />
       <jump line="29" column="4" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/encounters/process.py" />
       <jump line="71" column="2" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/encounters/process.py" />
       <jump line="42" column="30" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/encounter.py" />
@@ -451,15 +453,16 @@
       <jump line="576" column="14" filename="$USER_HOME$/code/sc/web/cli/john.py" />
       <jump line="79" column="2" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/types.py" />
       <jump line="229" column="10" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
+      <jump line="451" column="12" filename="$USER_HOME$/code/sc/web/cli/john.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">d2hlcmUgCg==</text>
+      <register name="+" type="4">
+        <text>from_start_end(start, end)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgIjowMCI=</text>
+        <text>from_start_end(start, end)</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -468,34 +471,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">d2hlcmUgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXMgPSBhbmRfKGZpZWxkID49IHN0YXJ0LCBmaWVsZCA8PSBlbmQpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBqb2luCg==</text>
+        <text encoding="base64">ICAgIGxhc3Rfc3RhcnQsIGxhc3RfZW5kID0gc3RhcnQuc2hpZnQoeWVhcnM9LTEpLCBlbmQuc2hpZnQoeWVhcnM9LTEpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAjIG1vcm5fY3JlZGl0ID0K</text>
+        <text encoding="base64">ICAgICwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkaXNwbGF5cyA9IFsKICAgIGZ1bmMuY291bnQoKS5sYWJlbCgidmFsIiksCiAgXQo=</text>
+        <text encoding="base64">ICBhcHB0ID0gYXJncy5hcHB0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC5oYXZpbmcob3JfKG1vcm5fY291bnQgLyBhcHB0ID49IDEsIGFmdF9jb3VudCAvIGFwcHQgPj0gMSkpCiAgICAuZGVidWdfcHJpbnQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjYyA9IGZ1bmMuY291bnQoKQo=</text>
+        <text encoding="base64">d2hlcmUgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0CmZyb20gaGpfYXBwb2ludG1lbnQKaW5uZXIgam9pbiBoal9vZmZpY2UKICAgICAgICAgICBvbiBoal9vZmZpY2UuaWQgPSBoal9hcHBvaW50bWVudC5vZmZpY2VfaWQKd2hlcmUgNzYwID0gaGpfYXBwb2ludG1lbnQuYWNjb3VudF9pZAogIGFuZCBoal9hcHBvaW50bWVudC5zdGF0dXMgPSAnQXJyaXZlZCcKICBhbmQgaGpfb2ZmaWNlLm5hbWUgPSAnUENBIFNhZGRsZWJhY2snCiAgYW5kIGhqX2FwcG9pbnRtZW50Lm1vbnRocyA+PSAyMDAxCiAgYW5kIGhqX2FwcG9pbnRtZW50Lm1vbnRocyA8PSAyMDEyCiAgYW5kIChoal9hcHBvaW50bWVudC5iZWdpbl90aW1lIGJldHdlZW4gJzA4OjAwJyBhbmQgJzEyOjAwJyBvciBoal9hcHBvaW50bWVudC5iZWdpbl90aW1lIGJldHdlZW4gJzEzOjAwJyBhbmQgJzE3OjAwJykKICBhbmQgaGpfb2ZmaWNlLmlzX2hhbGxzcGFjZSA9IDEKZ3JvdXAgYnkKICAgIGhqX2FwcG9pbnRtZW50Lm1vbnRocwpoYXZpbmcgc3VtKElGKGhqX2FwcG9pbnRtZW50LmJlZ2luX3RpbWUgYmV0d2VlbiAnMDg6MDAnIGFuZCAnMTI6MDAnLCAxLCAwKSkgLyA4ID49IDEKICAgIG9yIHN1bShJRihoal9hcHBvaW50bWVudC5iZWdpbl90aW1lIGJldHdlZW4gJzEzOjAwJyBhbmQgJzE3OjAwJywgMSwgMCkpIC8gOCA+PSAxCjs=</text>
+        <text encoding="base64">ICBqb2luCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGhqX2FwcG9pbnRtZW50Lm1vbnRocwogICwgY291bnQoKikgYXMgdmFsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
