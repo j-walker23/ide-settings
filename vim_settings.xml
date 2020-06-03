@@ -258,6 +258,9 @@
         <mark key="^" line="35" column="67" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/sqlalchemy/sql/schema.py" timestamp="1591146125501" />
+      <file name="$USER_HOME$/code/sc/web/migrations/versions/1e61a0888f1c__91.py" timestamp="1591155696391">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/tables.py" timestamp="1591146162965">
         <mark key="'" line="248" column="38" />
       </file>
@@ -306,7 +309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/source_encounter.py" />
       <jump line="29" column="21" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/transaction.py" />
       <jump line="66" column="0" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/encounter.py" />
       <jump line="132" column="11" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/base.py" />
@@ -406,6 +408,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/migrations/versions/ec363b325ce8__91.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/migrations/versions/a57031d4b74f__91.py" />
       <jump line="41" column="6" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/charge.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/migrations/versions/1e61a0888f1c__91.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
