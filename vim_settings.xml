@@ -277,19 +277,13 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/migrations/versions/fe593c6a1904__57.py" timestamp="1591171901381" />
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_24.json" timestamp="1591166656617">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="23" />
-        <mark key="^" line="0" column="23" />
-        <mark key="." line="0" column="22" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/sqlutils.py" timestamp="1591169055542">
         <mark key="'" line="101" column="4" />
       </file>
       <file name="$USER_HOME$/code/sc/web/migrations/versions/c95cb1f3b5a3__94.py" timestamp="1591171932802">
         <mark key="'" line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/encounters/kpis.py" timestamp="1591172385080">
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/encounters/kpis.py" timestamp="1591173517431">
         <mark key="'" line="57" column="0" />
         <mark key="[" line="99" column="20" />
         <mark key="]" line="100" column="18" />
@@ -306,18 +300,25 @@
         <mark key="^" line="187" column="0" />
         <mark key="." line="201" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_53.py" timestamp="1591173635536">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2" column="45" />
+        <mark key="]" line="2" column="45" />
+        <mark key="^" line="2" column="57" />
+        <mark key="." line="2" column="45" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/charge.py" timestamp="1591169413452">
         <mark key="'" line="41" column="6" />
         <mark key="[" line="138" column="0" />
         <mark key="]" line="138" column="0" />
         <mark key="." line="138" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_26.json" timestamp="1591168661268">
-        <mark key="'" line="22395" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_26.json" timestamp="1591173367078">
+        <mark key="'" line="22404" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="22403" column="1" />
-        <mark key="^" line="22403" column="1" />
-        <mark key="." line="22403" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="22404" column="318" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/instance/local/Result_11.csv" timestamp="1591166724788">
         <mark key="'" line="0" column="410148" />
@@ -339,11 +340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="259" column="24" filename="$USER_HOME$/code/sc/web/migrations/versions/39a874d6c98c__90.py" />
-      <jump line="309" column="65" filename="$USER_HOME$/code/sc/web/migrations/versions/39a874d6c98c__90.py" />
-      <jump line="314" column="61" filename="$USER_HOME$/code/sc/web/migrations/versions/39a874d6c98c__90.py" />
-      <jump line="315" column="85" filename="$USER_HOME$/code/sc/web/migrations/versions/39a874d6c98c__90.py" />
-      <jump line="316" column="58" filename="$USER_HOME$/code/sc/web/migrations/versions/39a874d6c98c__90.py" />
       <jump line="317" column="45" filename="$USER_HOME$/code/sc/web/migrations/versions/39a874d6c98c__90.py" />
       <jump line="318" column="58" filename="$USER_HOME$/code/sc/web/migrations/versions/39a874d6c98c__90.py" />
       <jump line="319" column="71" filename="$USER_HOME$/code/sc/web/migrations/versions/39a874d6c98c__90.py" />
@@ -439,15 +435,20 @@
       <jump line="57" column="0" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/encounters/kpis.py" />
       <jump line="150" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" />
       <jump line="144" column="3" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" />
+      <jump line="460" column="23" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_26.json" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_26.json" />
+      <jump line="22405" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_26.json" />
+      <jump line="2" column="55" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_53.py" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_53.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">IyBvcmRlciBieQojICAgICBudWxsCg==</text>
+      <register name="+" type="4">
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="-" type="4">
-        <text>19</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="/" type="4">
         <text>raw_id</text>
@@ -456,34 +457,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBvcmRlciBieQojICAgICBudWxsCg==</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC5kZWJ1Z19wcmludCgpCg==</text>
+        <text encoding="base64">IyBvcmRlciBieQojICAgICBudWxsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAjIGZtdDogb2ZmCg==</text>
+        <text encoding="base64">ICAgIC5kZWJ1Z19wcmludCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRyb3BfYWNjX3VuaXF1ZSgnaGpfdHJhbnNhY3Rpb24nLCAnaXhfaGpfdHJhbnNhY3Rpb25fY2hhcmdlX2lkJykK</text>
+        <text encoding="base64">ICAjIGZtdDogb2ZmCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvbmRlbGV0ZT0iY2FzY2FkZSIsCg==</text>
+        <text encoding="base64">ICAgIGRyb3BfYWNjX3VuaXF1ZSgnaGpfdHJhbnNhY3Rpb24nLCAnaXhfaGpfdHJhbnNhY3Rpb25fY2hhcmdlX2lkJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBhZGRfaW5kZXgoT2ZmaWNlLmlkKQo=</text>
+        <text encoding="base64">ICAgICAgICBvbmRlbGV0ZT0iY2FzY2FkZSIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YWRkX2luZGV4KENoYXJnZS5pZCkK</text>
+        <text encoding="base64">IyBhZGRfaW5kZXgoT2ZmaWNlLmlkKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YWRkX2luZGV4KFRyYW5zYWN0aW9uLmNoYXJnZV9pZCkK</text>
+        <text encoding="base64">YWRkX2luZGV4KENoYXJnZS5pZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJvdykK</text>
+        <text encoding="base64">YWRkX2luZGV4KFRyYW5zYWN0aW9uLmNoYXJnZV9pZCkK</text>
       </register>
       <register name=":" type="4">
         <text>%s//source_encounter_id</text>
