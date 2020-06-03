@@ -272,20 +272,19 @@
       <file name="/dumpDataPreview" timestamp="1591207446230">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/types.py" timestamp="1591206176156" />
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" timestamp="1591208668942">
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" timestamp="1591211582948">
         <mark key="'" line="55" column="0" />
         <mark key="[" line="47" column="12" />
         <mark key="]" line="47" column="32" />
         <mark key="^" line="47" column="32" />
         <mark key="." line="47" column="31" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/appointments/types.py" timestamp="1591210063523">
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/appointments/types.py" timestamp="1591211631026">
         <mark key="'" line="15" column="6" />
         <mark key="[" line="42" column="26" />
-        <mark key="]" line="42" column="34" />
-        <mark key="^" line="42" column="34" />
-        <mark key="." line="42" column="33" />
+        <mark key="]" line="42" column="26" />
+        <mark key="^" line="42" column="26" />
+        <mark key="." line="42" column="25" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/__init__.py" timestamp="1591208141392">
         <mark key="[" line="31" column="100" />
@@ -322,11 +321,17 @@
         <mark key="^" line="23" column="64" />
         <mark key="." line="23" column="63" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" timestamp="1591210347372">
-        <mark key="[" line="286" column="7" />
-        <mark key="]" line="286" column="13" />
-        <mark key="." line="286" column="12" />
-        <mark key="^" line="286" column="13" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" timestamp="1591211566241">
+        <mark key="[" line="290" column="26" />
+        <mark key="]" line="290" column="27" />
+        <mark key="." line="290" column="26" />
+        <mark key="^" line="290" column="27" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/source_encounter.py" timestamp="1591211596686">
+        <mark key="[" line="50" column="32" />
+        <mark key="]" line="50" column="37" />
+        <mark key="^" line="50" column="37" />
+        <mark key="." line="50" column="36" />
       </file>
       <file name="$USER_HOME$/code/sc/web/migrations/mig_stuff.py" timestamp="1591207812798">
         <mark key="'" line="298" column="2" />
@@ -451,10 +456,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>f&quot;{begin[:2]}:{begin[2:]}&quot;, end_time=f&quot;{end[:2]}:{end[2:]}&quot;</text>
+        <text encoding="base64">ICsgIjowMCI=</text>
       </register>
       <register name="-" type="4">
-        <text>f&quot;{begin[:2]}:{begin[2:]}&quot;, end_time=f&quot;{end[:2]}:{end[2:]}&quot;</text>
+        <text encoding="base64">ICsgIjowMCI=</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -505,7 +510,7 @@
       <last-replace>source_encounter_id</last-replace>
       <last-substitute>console</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
