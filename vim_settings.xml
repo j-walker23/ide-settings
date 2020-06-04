@@ -164,6 +164,7 @@
         <entry>type_</entry>
         <entry>asdf</entry>
         <entry>FullText</entry>
+        <entry>fuck</entry>
       </history-search>
       <history-cmd>
         <entry>SplitVertically</entry>
@@ -222,6 +223,7 @@
         <entry>%s//source_encounter_id</entry>
         <entry>asdf</entry>
         <entry>action SplitVertically</entry>
+        <entry>%s//old</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -271,13 +273,13 @@
         <mark key="^" line="134" column="24" />
         <mark key="." line="134" column="23" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/arrowlytics.ints.ts" timestamp="1591287929969">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="14" />
-        <mark key="^" line="38" column="50" />
-        <mark key="." line="65" column="0" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/encounters/process.py" timestamp="1591288053117" />
+      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1591298522150">
+        <mark key="[" line="38" column="15" />
+        <mark key="]" line="39" column="7" />
+        <mark key="^" line="39" column="7" />
+        <mark key="." line="39" column="6" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" timestamp="1591288029028">
         <mark key="'" line="29" column="6" />
         <mark key="[" line="73" column="29" />
@@ -287,6 +289,12 @@
       </file>
       <file name="$USER_HOME$/code/sc/web/static/common/components/smart-search/smart-search.html" timestamp="1591288281439">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/http/accounts.resource.ts" timestamp="1591299043966">
+        <mark key="[" line="36" column="44" />
+        <mark key="]" line="36" column="44" />
+        <mark key="." line="36" column="43" />
+        <mark key="^" line="36" column="44" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/account/__init__.py" timestamp="1591293546930">
         <mark key="[" line="37" column="34" />
@@ -308,19 +316,14 @@
         <mark key="^" line="36" column="28" />
         <mark key="." line="36" column="27" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/sqlalchemy_fulltext/modes.py" timestamp="1591294340669" />
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-summary-card/arrow-summary-card.html" timestamp="1591286594486">
-        <mark key="[" line="20" column="46" />
-        <mark key="]" line="20" column="47" />
-        <mark key="^" line="20" column="47" />
-        <mark key="." line="20" column="46" />
-      </file>
+      <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/sqlalchemy_fulltext/modes.py" timestamp="1591299383871" />
+      <file name="/accounts_view.py" timestamp="1591298725952" />
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/encounters/search/encounters-auto.service.ts" timestamp="1591287946473" />
-      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts_view.py" timestamp="1591294219141">
-        <mark key="[" line="66" column="54" />
-        <mark key="]" line="66" column="59" />
-        <mark key="^" line="66" column="59" />
-        <mark key="." line="66" column="58" />
+      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts_view.py" timestamp="1591299386829">
+        <mark key="[" line="72" column="37" />
+        <mark key="]" line="73" column="28" />
+        <mark key="." line="73" column="27" />
+        <mark key="^" line="73" column="28" />
       </file>
       <file name="$USER_HOME$/code/sc/web/migrations/env.py" timestamp="1591291957862" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" timestamp="1591287959784">
@@ -334,23 +337,15 @@
         <mark key="." line="136" column="0" />
         <mark key="^" line="136" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/search/appointments-auto.service.ts" timestamp="1591287870122">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="12" column="86" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/static/common/constants.ts" timestamp="1591293721008" />
-      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1591294521201">
-        <mark key="[" line="722" column="27" />
-        <mark key="]" line="722" column="30" />
-        <mark key="^" line="722" column="30" />
-        <mark key="." line="722" column="29" />
+      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1591298924329">
+        <mark key="[" line="728" column="21" />
+        <mark key="]" line="728" column="21" />
+        <mark key="^" line="728" column="21" />
+        <mark key="." line="728" column="20" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="15" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/sessions/kpis.py" />
-      <jump line="92" column="31" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/sessions/kpis.py" />
       <jump line="12" column="4" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/sessions/kpis.py" />
       <jump line="48" column="13" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/sessions/kpis.py" />
       <jump line="35" column="9" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/sessions/kpis.py" />
@@ -449,66 +444,68 @@
       <jump line="114" column="26" filename="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/site-packages/sqlalchemy_fulltext/__init__.py" />
       <jump line="721" column="22" filename="$USER_HOME$/code/sc/web/cli/john.py" />
       <jump line="707" column="9" filename="$USER_HOME$/code/sc/web/cli/john.py" />
+      <jump line="710" column="57" filename="$USER_HOME$/code/sc/web/cli/john.py" />
+      <jump line="717" column="18" filename="$USER_HOME$/code/sc/web/cli/john.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgcHJldHR5KGZvcm1hdF9saXN0KHEsIGFsbG93X25vbmUoKSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>QUERY_EXPANSION</text>
+        <text>kind</text>
       </register>
       <register name="/" type="4">
-        <text>FullText</text>
+        <text>fuck</text>
       </register>
       <register name="0" type="4">
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcHJldHR5KGZvcm1hdF9saXN0KHEsIGFsbG93X25vbmUoKSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBmcm9tIHNxbGFsY2hlbXlfZnVsbHRleHQgaW1wb3J0IG1vZGVzCg==</text>
+        <text encoding="base64">CiAgICB3aXRoIHN1cHByZXNzKEtleUVycm9yLCBJbmRleEVycm9yKToKICAgICAgdGVybSA9IGFyZ3NbImZpbHRlcnMiXS5wb3AoY29uc3QuZGVma2V5KVsxXQoKICAgIHEgPSAoCiAgICAgIEFjY291bnQuc2VhcmNoKHBhcmFtcz1hcmdzKQogICAgICAuZW5hYmxlX2Fzc2VydGlvbnMoRmFsc2UpCiAgICAgIC5maWx0ZXIoRnVsbFRleHRTZWFyY2godGVybSwgQWNjb3VudCwgUVVFUllfRVhQQU5TSU9OKSkKICAgICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIHRlcm06Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBGdWxsVGV4dFNlYXJjaCh0ZXJtLCBBY2NvdW50LCBRVUVSWV9FWFBBTlNJT04pKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpbXBvcnQgc3FsYWxjaGVteV9mdWxsdGV4dC5tb2RlcyBhcyBGdWxsVGV4dE1vZGUK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QGFwcF9jdHgoNzYwKQo=</text>
+        <text encoding="base64">ICAgIHRlcm0gPSBOb25lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIF9mdWxsX3RleHRfaWR4KGNscykK</text>
+        <text encoding="base64">ICAjIEB2aWV3LmluZGV4KG9yZGVyPUFjY291bnQubmFtZSwgZG9fcGFnZT1GYWxzZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzcGFuIGNsYXNzPSJtZC1ib2R5LTIgbm9ybWFsIiBuZy1pZj0iaS5pbmZvIj4tIHt7IGkuaW5mbyB9fTwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgICAgcHJpbnQocS5wbHVjaygibmFtZSIpWzo1XSkKICAgICAgIyBwcmV0dHkoZm9ybWF0X2xpc3QocSwgYWxsb3dfbm9uZSgpKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC4uLmZpZWxkcywK</text>
+        <text encoding="base64">ICAgICAgZWxzZToKICAgICAgICBxID0gcS5maWx0ZXIoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SplitVertically</text>
+        <text>%s//old</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>FullText</last-search>
+      <last-search>fuck</last-search>
       <last-offset />
-      <last-pattern>FullText</last-pattern>
-      <last-replace>source_encounter_id</last-replace>
-      <last-substitute>console</last-substitute>
+      <last-pattern>fuck</last-pattern>
+      <last-replace>old</last-replace>
+      <last-substitute>fuck</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
