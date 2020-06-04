@@ -275,22 +275,17 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="11" column="40" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/migrations/versions/8c9666e6b229__100.py" timestamp="1591303302053">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/appointments/kpis.py" timestamp="1591305284283">
+        <mark key="[" line="32" column="4" />
+        <mark key="]" line="32" column="16" />
+        <mark key="^" line="32" column="16" />
+        <mark key="." line="32" column="15" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/arrowlytics.ts" timestamp="1591304817934">
         <mark key="'" line="179" column="27" />
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" timestamp="1591303384818">
-        <mark key="[" line="603" column="12" />
-        <mark key="]" line="603" column="37" />
-        <mark key="^" line="603" column="37" />
-        <mark key="." line="603" column="36" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/web.ts" timestamp="1591304785535">
         <mark key="[" line="166" column="31" />
@@ -323,6 +318,13 @@
         <mark key="]" line="129" column="41" />
         <mark key="." line="129" column="40" />
         <mark key="^" line="129" column="41" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/appointments_view.py" timestamp="1591305205226">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="43" column="6" />
+        <mark key="]" line="43" column="22" />
+        <mark key="^" line="43" column="22" />
+        <mark key="." line="43" column="21" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts_view.py" timestamp="1591303595043">
         <mark key="[" line="78" column="11" />
@@ -462,11 +464,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">QFN0YXRlQ29uZmlnKFsKICBEb2N0b3JzQ29tcG9uZW50LnN0YXRlLAogIE9mZmljZXNDb21wb25lbnQuc3RhdGUsCiAgUHJvY2VkdXJlR3JvdXBzQ29tcG9uZW50LnN0YXRlLAogIFNlc3Npb25zQ29uZmlnQ29tcG9uZW50LnN0YXRlLAogIE5ld0FwcFR5cGVzQ29uZmlnQ29tcG9uZW50LnN0YXRlLApdKQo=</text>
+      <register name="+" type="4">
+        <text>arrived_yoy</text>
       </register>
       <register name="-" type="4">
-        <text>AppsCanceledComponent</text>
+        <text>arrived_yoy</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
