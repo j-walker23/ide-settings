@@ -288,7 +288,6 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/components/better-grid/better-grid.ts" timestamp="1591267867076" />
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/arrow-appointments.html" timestamp="1591278444263">
         <mark key="'" line="51" column="25" />
         <mark key="[" line="53" column="19" />
@@ -309,6 +308,12 @@
         <mark key="]" line="137" column="27" />
         <mark key="^" line="137" column="27" />
         <mark key="." line="137" column="26" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/common.py" timestamp="1591278900550">
+        <mark key="[" line="85" column="8" />
+        <mark key="]" line="87" column="0" />
+        <mark key="^" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/appointments_view.py" timestamp="1591268295603">
         <mark key="'" line="23" column="0" />
@@ -346,7 +351,7 @@
       <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" timestamp="1591270966143">
         <mark key="'" line="29" column="6" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/payments/kpis.py" timestamp="1591278791895">
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/payments/kpis.py" timestamp="1591278898300">
         <mark key="'" line="76" column="24" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/appointments/types.py" timestamp="1591269873056">
@@ -468,10 +473,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>currency</text>
+        <text>cat_grouped</text>
       </register>
       <register name="-" type="4">
-        <text>currency</text>
+        <text>cat_grouped</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
