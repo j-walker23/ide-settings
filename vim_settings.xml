@@ -168,8 +168,8 @@
         <entry>arrowlytics</entry>
         <entry>arrived</entry>
         <entry>Arrived</entry>
-        <entry>asdf</entry>
         <entry>_params</entry>
+        <entry>asdf</entry>
       </history-search>
       <history-cmd>
         <entry>SplitVertically</entry>
@@ -270,8 +270,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/console" timestamp="1591354711405">
+      <file name="/console" timestamp="1591358822384">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/sessions/types.py" timestamp="1591358770641">
+        <mark key="[" line="27" column="34" />
+        <mark key="]" line="27" column="38" />
+        <mark key="." line="27" column="37" />
+        <mark key="^" line="27" column="38" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/base.py" timestamp="1591358763314">
         <mark key="'" line="75" column="16" />
@@ -286,11 +292,23 @@
         <mark key="." line="28" column="21" />
         <mark key="^" line="28" column="22" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/encounters/types.py" timestamp="1591358396164">
+        <mark key="[" line="13" column="30" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" timestamp="1591354574546">
         <mark key="[" line="3" column="52" />
         <mark key="]" line="5" column="31" />
         <mark key="^" line="5" column="31" />
         <mark key="." line="5" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/adjustments/types.py" timestamp="1591358225446">
+        <mark key="[" line="14" column="41" />
+        <mark key="]" line="14" column="45" />
+        <mark key="^" line="14" column="45" />
+        <mark key="." line="14" column="44" />
+      </file>
+      <file name="/console_2" timestamp="1591358822211">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/sessions/kpis.py" timestamp="1591355500079">
         <mark key="[" line="66" column="23" />
@@ -305,6 +323,12 @@
         <mark key="." line="79" column="0" />
         <mark key="^" line="79" column="10" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/charges/types.py" timestamp="1591358394315">
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/appointments_view.py" timestamp="1591355517921">
         <mark key="'" line="47" column="28" />
         <mark key="[" line="76" column="40" />
@@ -314,33 +338,6 @@
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/encounters/kpis.py" timestamp="1591358258410">
         <mark key="'" line="20" column="36" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/sessions/types.py" timestamp="1591358770641">
-        <mark key="[" line="27" column="34" />
-        <mark key="]" line="27" column="38" />
-        <mark key="." line="27" column="37" />
-        <mark key="^" line="27" column="38" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/charges/kpis.py" timestamp="1591357665427" />
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/encounters/types.py" timestamp="1591358396164">
-        <mark key="[" line="13" column="30" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/adjustments/kpis.py" timestamp="1591357658561" />
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/payments/kpis.py" timestamp="1591357719705" />
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/adjustments/types.py" timestamp="1591358225446">
-        <mark key="[" line="14" column="41" />
-        <mark key="]" line="14" column="45" />
-        <mark key="^" line="14" column="45" />
-        <mark key="." line="14" column="44" />
-      </file>
-      <file name="/console_2" timestamp="1591354711266">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/charges/types.py" timestamp="1591358394315">
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/arrowlytics-forw.ts" timestamp="1591354824123">
         <mark key="'" line="60" column="0" />
@@ -473,7 +470,7 @@
         <text>attrib(False, kw_only=True)</text>
       </register>
       <register name="/" type="4">
-        <text>_params</text>
+        <text>asdf</text>
       </register>
       <register name="0" type="4">
         <text>U', str, bytes)  # Must be str or bytes</text>
@@ -515,9 +512,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>_params</last-search>
+      <last-search>asdf</last-search>
       <last-offset />
-      <last-pattern>_params</last-pattern>
+      <last-pattern>asdf</last-pattern>
       <last-replace>Canceled</last-replace>
       <last-substitute>Arrived</last-substitute>
       <last-dir>1</last-dir>
