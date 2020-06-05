@@ -270,21 +270,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/console" timestamp="1591358822384">
+      <file name="/Python Console" timestamp="1591359370342">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/sessions/types.py" timestamp="1591358770641">
-        <mark key="[" line="27" column="34" />
-        <mark key="]" line="27" column="38" />
-        <mark key="." line="27" column="37" />
-        <mark key="^" line="27" column="38" />
+      <file name="/console" timestamp="1591359419470">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/base.py" timestamp="1591358763314">
-        <mark key="'" line="75" column="16" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="38" column="23" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/sessions/types.py" timestamp="1591359463277">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="24" column="23" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/base.py" timestamp="1591359500216">
+        <mark key="'" line="76" column="16" />
+        <mark key="[" line="41" column="34" />
+        <mark key="]" line="41" column="39" />
+        <mark key="." line="41" column="38" />
+        <mark key="^" line="41" column="39" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/look-forward/arrow-look-forward.html" timestamp="1591354243341">
         <mark key="[" line="28" column="23" />
@@ -292,8 +295,14 @@
         <mark key="." line="28" column="21" />
         <mark key="^" line="28" column="22" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/encounters/types.py" timestamp="1591358396164">
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/encounters/types.py" timestamp="1591359508664">
         <mark key="[" line="13" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/appointments/types.py" timestamp="1591359457497">
+        <mark key="[" line="19" column="21" />
+        <mark key="]" line="19" column="48" />
+        <mark key="^" line="19" column="48" />
+        <mark key="." line="19" column="47" />
       </file>
       <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" timestamp="1591354574546">
         <mark key="[" line="3" column="52" />
@@ -301,13 +310,13 @@
         <mark key="^" line="5" column="31" />
         <mark key="." line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/adjustments/types.py" timestamp="1591358225446">
-        <mark key="[" line="14" column="41" />
-        <mark key="]" line="14" column="45" />
-        <mark key="^" line="14" column="45" />
-        <mark key="." line="14" column="44" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/adjustments/types.py" timestamp="1591359505245">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="38" />
+        <mark key="." line="14" column="0" />
       </file>
-      <file name="/console_2" timestamp="1591358822211">
+      <file name="/console_2" timestamp="1591359093561">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/sessions/kpis.py" timestamp="1591355500079">
@@ -323,7 +332,7 @@
         <mark key="." line="79" column="0" />
         <mark key="^" line="79" column="10" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/charges/types.py" timestamp="1591358394315">
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/charges/types.py" timestamp="1591359506968">
         <mark key="[" line="16" column="27" />
         <mark key="]" line="18" column="0" />
         <mark key="^" line="18" column="0" />
@@ -346,7 +355,7 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="29" column="27" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/payments/types.py" timestamp="1591358400736">
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/payments/types.py" timestamp="1591359510353">
         <mark key="[" line="13" column="32" />
         <mark key="]" line="15" column="0" />
         <mark key="^" line="15" column="0" />
@@ -463,11 +472,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>attrib(False, kw_only=True)</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICBpc19sYXN0X2NvbXBsZXRlZF9tb250aDogYm9vbCA9IGF0dHJpYihUcnVlLCBrd19vbmx5PVRydWUpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>attrib(False, kw_only=True)</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -476,34 +485,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpc19sYXN0OiBib29sID0gRmFsc2UK</text>
+        <text encoding="base64">ICBpc19sYXN0X2NvbXBsZXRlZF9tb250aDogYm9vbCA9IGF0dHJpYihUcnVlLCBrd19vbmx5PVRydWUpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBvcmlnaW5hbF9xdWVyeTogc3RyID0gYXR0cmliKCIiLCBrd19vbmx5PVRydWUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0LCBlbmQgPSBzdGFydCwgZW5kID0gc3RhcnRfZW5kX2Zyb21fdXJsKHNlbGYucGFyYW1zWyJmaWx0ZXJzIl1bImRhdGUiXSkK</text>
+        <text encoding="base64">ICBzcGFuOiBzdHIgPSBhdHRyaWIoIm1vbnRoIiwga3dfb25seT1UcnVlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgZW50aXR5OiBDbGFzc1ZhciA9IEFwcG9pbnRtZW50Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBncm91cCA9IAo=</text>
+        <text encoding="base64">CiAgc3RhdHVzZXM6IExpc3Rbc3RyXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIHByZXBfYXJyb3dfY2FyZChhcmdzOiBCYXNlQXJyb3dseXRpY3NBcmdzLCBxLCB0eXBlXz0iY3VycmVuY3kiKToKICAiIiIiIiIKICBkYXRhID0gW3IuX2FzZGljdCgpIGZvciByIGluIHFdCiAgZm9yIHIgaW4gZGF0YToKICAgIGtleSA9IGFyZ3MuZGF0ZV9pbnQua2V5CiAgICByLnVwZGF0ZSh0eXBlPXR5cGVfLCBkYXRlPXRpbWVzLmRhdGVfZnJvbV9pbnQoYXJncy5zcGFuLCByLnBvcChrZXkpKSkKICByZXR1cm4gZGF0YQoK</text>
+        <text encoding="base64">ICBpc19sYXN0X2NvbXBsZXRlZF9tb250aDogYm9vbCA9IFRydWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBmcm9tIHNjLmFwcC5hcnJvd2x5dGljcy5jaGFyZ2VzLnR5cGVzIGltcG9ydCBDaGFyZ2VzQXJncwojIGZyb20gc2MuYXBwLmFycm93bHl0aWNzLnBheW1lbnRzLnR5cGVzIGltcG9ydCBQYXltZW50c0FyZ3MK</text>
+        <text encoding="base64">ICBpc19sYXN0OiBib29sID0gRmFsc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmRlZiBjb252ZXJ0X3lveV9yZXNwKGFyZ3M6IEJhc2VBcnJvd2x5dGljc0FyZ3MsIHJvd3M6IExpc3RbRGljdF0pOgogICIiIiIiIgogIHN0YXJ0LCBlbmQgPSBhcmdzLnlveV9wZXJpb2QKCiAgY3VycmVudF9sYWJlbCwgbGFzdF9sYWJlbCA9IGVuZC5kYXRldGltZS55ZWFyLCBzdGFydC5kYXRldGltZS55ZWFyCgogIGN1cnJlbnQsIGxhc3QgPSB1dGlscy5wYXJ0aXRpb24oCiAgICByb3dzLCBsYW1iZGEgcjogYXJyb3cuZ2V0KHJbImRhdGUiXSkuZGF0ZXRpbWUueWVhciA9PSBjdXJyZW50X2xhYmVsCiAgKQoKICByZXQgPSB7CiAgICAiY3VycmVudCI6IGN1cnJlbnQsCiAgICAiY3VycmVudF9sYWJlbCI6IHN0cihjdXJyZW50X2xhYmVsKSwKICAgICJsYXN0IjogbGFzdCwKICAgICJsYXN0X2xhYmVsIjogc3RyKGxhc3RfbGFiZWwpLAogIH0KICByZXR1cm4gcmV0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgQGNhY2hlZF9wcm9wZXJ0eQogIGRlZiBzdGFydChzZWxmKToKICAgIHJldHVybiBzdGFydF9lbmRfZnJvbV91cmwoc2VsZi5wYXJhbXNbImZpbHRlcnMiXVsiZGF0ZSJdKVswXQoKICBAY2FjaGVkX3Byb3BlcnR5CiAgZGVmIGVuZChzZWxmKToKICAgIHJldHVybiBzdGFydF9lbmRfZnJvbV91cmwoc2VsZi5wYXJhbXNbImZpbHRlcnMiXVsiZGF0ZSJdKVsxXQoKICBAcHJvcGVydHkKICBkZWYgZGF0ZXMoc2VsZik6CiAgICByZXR1cm4gc2VsZi5zdGFydCwgc2VsZi5lbmQK</text>
+        <text encoding="base64">ICAgIHN0YXJ0LCBlbmQgPSBzdGFydCwgZW5kID0gc3RhcnRfZW5kX2Zyb21fdXJsKHNlbGYucGFyYW1zWyJmaWx0ZXJzIl1bImRhdGUiXSkK</text>
       </register>
       <register name=":" type="4">
         <text>%s//Canceled</text>
