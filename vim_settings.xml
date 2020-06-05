@@ -169,6 +169,7 @@
         <entry>arrived</entry>
         <entry>Arrived</entry>
         <entry>asdf</entry>
+        <entry>_params</entry>
       </history-search>
       <history-cmd>
         <entry>SplitVertically</entry>
@@ -269,59 +270,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/apps-status/apps-status.ts" timestamp="1591350350139">
-        <mark key="'" line="27" column="31" />
-        <mark key="[" line="38" column="40" />
-        <mark key="]" line="38" column="51" />
-        <mark key="^" line="38" column="51" />
-        <mark key="." line="38" column="50" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/util/times.ts" timestamp="1591350742143">
-        <mark key="[" line="57" column="81" />
-        <mark key="]" line="57" column="81" />
-        <mark key="." line="57" column="80" />
-        <mark key="^" line="57" column="81" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/http/appointments.resource.ts" timestamp="1591350341297">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="17" column="47" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/web.sass" timestamp="1591350278675">
-        <mark key="'" line="348" column="0" />
-        <mark key="[" line="348" column="5" />
-        <mark key="]" line="348" column="11" />
-        <mark key="^" line="348" column="11" />
-        <mark key="." line="348" column="10" />
-      </file>
       <file name="/console" timestamp="1591354711405">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/sessions/types.py" timestamp="1591355476092">
-        <mark key="[" line="58" column="11" />
-        <mark key="]" line="58" column="39" />
-        <mark key="." line="58" column="38" />
-        <mark key="^" line="58" column="39" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/look-forward/arrow-look-forward.ts" timestamp="1591350818987">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="23" column="28" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/lost-opportunity/arrow-lost.html" timestamp="1591349967364">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/base.py" timestamp="1591355165890">
-        <mark key="'" line="116" column="6" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="48" column="31" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/base.py" timestamp="1591358763314">
+        <mark key="'" line="75" column="16" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="38" column="23" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/look-forward/arrow-look-forward.html" timestamp="1591354243341">
         <mark key="[" line="28" column="23" />
@@ -335,34 +292,18 @@
         <mark key="^" line="5" column="31" />
         <mark key="." line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/arrow-appointments.html" timestamp="1591350281893">
-        <mark key="'" line="28" column="26" />
-        <mark key="[" line="29" column="12" />
-        <mark key="]" line="29" column="18" />
-        <mark key="." line="29" column="17" />
-        <mark key="^" line="29" column="18" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/apps-status/apps-status.html" timestamp="1591350260958">
-        <mark key="[" line="5" column="2" />
-        <mark key="]" line="5" column="8" />
-        <mark key="." line="5" column="7" />
-        <mark key="^" line="5" column="8" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/arrow-appointments.ts" timestamp="1591350800499">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="45" column="28" />
-        <mark key="]" line="46" column="2" />
-        <mark key="^" line="46" column="2" />
-        <mark key="." line="46" column="1" />
-      </file>
-      <file name="/console_2" timestamp="1591354711266">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/sessions/kpis.py" timestamp="1591355500079">
         <mark key="[" line="66" column="23" />
         <mark key="]" line="66" column="41" />
         <mark key="." line="66" column="40" />
         <mark key="^" line="66" column="41" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/common.py" timestamp="1591357812308">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+        <mark key="^" line="79" column="10" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/appointments_view.py" timestamp="1591355517921">
         <mark key="'" line="47" column="28" />
@@ -371,11 +312,35 @@
         <mark key="." line="76" column="59" />
         <mark key="^" line="76" column="60" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts_view.py" timestamp="1591346770677">
-        <mark key="[" line="73" column="37" />
-        <mark key="]" line="74" column="28" />
-        <mark key="." line="74" column="27" />
-        <mark key="^" line="74" column="28" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/encounters/kpis.py" timestamp="1591358258410">
+        <mark key="'" line="20" column="36" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/sessions/types.py" timestamp="1591358770641">
+        <mark key="[" line="27" column="34" />
+        <mark key="]" line="27" column="38" />
+        <mark key="." line="27" column="37" />
+        <mark key="^" line="27" column="38" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/charges/kpis.py" timestamp="1591357665427" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/encounters/types.py" timestamp="1591358396164">
+        <mark key="[" line="13" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/adjustments/kpis.py" timestamp="1591357658561" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/payments/kpis.py" timestamp="1591357719705" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/adjustments/types.py" timestamp="1591358225446">
+        <mark key="[" line="14" column="41" />
+        <mark key="]" line="14" column="45" />
+        <mark key="^" line="14" column="45" />
+        <mark key="." line="14" column="44" />
+      </file>
+      <file name="/console_2" timestamp="1591354711266">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/charges/types.py" timestamp="1591358394315">
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/arrowlytics-forw.ts" timestamp="1591354824123">
         <mark key="'" line="60" column="0" />
@@ -384,16 +349,19 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="29" column="27" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/payments/types.py" timestamp="1591358400736">
+        <mark key="[" line="13" column="32" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1591357728520">
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="22" filename="$USER_HOME$/code/sc/web/static/common/components/better-grid/grid.sass" />
-      <jump line="186" column="27" filename="$USER_HOME$/code/sc/web/static/common/components/better-grid/grid.sass" />
-      <jump line="208" column="29" filename="$USER_HOME$/code/sc/web/static/common/components/better-grid/grid.sass" />
-      <jump line="226" column="10" filename="$USER_HOME$/code/sc/web/static/common/components/better-grid/grid.sass" />
-      <jump line="227" column="22" filename="$USER_HOME$/code/sc/web/static/common/components/better-grid/grid.sass" />
-      <jump line="235" column="10" filename="$USER_HOME$/code/sc/web/static/common/components/better-grid/grid.sass" />
-      <jump line="237" column="29" filename="$USER_HOME$/code/sc/web/static/common/components/better-grid/grid.sass" />
-      <jump line="68" column="10" filename="$USER_HOME$/code/sc/web/static/common/components/better-grid/grid.sass" />
       <jump line="52" column="23" filename="$USER_HOME$/code/sc/web/static/common/components/better-grid/grid.sass" />
       <jump line="304" column="16" filename="$USER_HOME$/code/sc/web/static/common/components/better-grid/grid.sass" />
       <jump line="230" column="15" filename="$USER_HOME$/code/sc/web/static/common/components/better-grid/grid.sass" />
@@ -486,51 +454,59 @@
       <jump line="151" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/arrowlytics-forw.ts" />
       <jump line="60" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/arrowlytics-forw.ts" />
       <jump line="46" column="28" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/appointments_view.py" />
+      <jump line="147" column="6" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/base.py" />
+      <jump line="41" column="5" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/common.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/common.py" />
+      <jump line="75" column="16" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/base.py" />
+      <jump line="49" column="36" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/encounters/kpis.py" />
+      <jump line="72" column="36" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/encounters/kpis.py" />
+      <jump line="95" column="36" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/encounters/kpis.py" />
+      <jump line="20" column="36" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/encounters/kpis.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>Appointment.arrived</text>
+        <text>attrib(False, kw_only=True)</text>
       </register>
       <register name="-" type="4">
-        <text>Appointment.arrived</text>
+        <text>attrib(False, kw_only=True)</text>
       </register>
       <register name="/" type="4">
-        <text>asdf</text>
+        <text>_params</text>
       </register>
       <register name="0" type="4">
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0ID0gc2VsZi5zdGF0dXNlcwo=</text>
+        <text encoding="base64">ICBpc19sYXN0OiBib29sID0gRmFsc2UK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFyZ3MgPSBwcmVwYXJlX3F1ZXJ5X3BhcmFtX2FyZ3MoY2xzLmVudGl0eSwgY2xzLCByZXEpCiAgICBhcmdzWyJwYXJhbXMiXVsiZmlsdGVycyJdLnNldGRlZmF1bHQoImRhdGUiLCBmcm9tX3N0YXJ0X2VuZCgqdGltZXMuc3Bhbl95ZWFyKCkpKQogICAgY2xzLmRlZmF1bHRzKGFyZ3MpCiAgICByZXQgPSBtYWtlKGNscywgYXJncykKICAgIHJldHVybiByZXQK</text>
+        <text encoding="base64">ICAgIHN0YXJ0LCBlbmQgPSBzdGFydCwgZW5kID0gc3RhcnRfZW5kX2Zyb21fdXJsKHNlbGYucGFyYW1zWyJmaWx0ZXJzIl1bImRhdGUiXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIHNwYW46CiAgICAgIGFyZ3MudXBkYXRlKHNwYW49c3BhbikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAKICAK</text>
+        <text encoding="base64">ICBncm91cCA9IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgcGVuZGluZyhzZWxmKToKICAgICIiIiIiIgogICAgYXJncyA9IEFwcG9pbnRtZW50QXJncy5mb3JfdWkocmVxX2FyZ3MoKSkKICAgIHJldHVybiBhcHBvaW50bWVudHMua3Bpcy5wZW5kaW5nKGFyZ3MpCg==</text>
+        <text encoding="base64">ZGVmIHByZXBfYXJyb3dfY2FyZChhcmdzOiBCYXNlQXJyb3dseXRpY3NBcmdzLCBxLCB0eXBlXz0iY3VycmVuY3kiKToKICAiIiIiIiIKICBkYXRhID0gW3IuX2FzZGljdCgpIGZvciByIGluIHFdCiAgZm9yIHIgaW4gZGF0YToKICAgIGtleSA9IGFyZ3MuZGF0ZV9pbnQua2V5CiAgICByLnVwZGF0ZSh0eXBlPXR5cGVfLCBkYXRlPXRpbWVzLmRhdGVfZnJvbV9pbnQoYXJncy5zcGFuLCByLnBvcChrZXkpKSkKICByZXR1cm4gZGF0YQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgZGVmIHBlbmRpbmcoc2VsZik6CiAgICAiIiIiIiIKICAgIGFyZ3MgPSBBcHBvaW50bWVudEFyZ3MuZm9yX3VpKHJlcV9hcmdzKCkpCiAgICByZXR1cm4gYXBwb2ludG1lbnRzLmtwaXMucGVuZGluZyhhcmdzKQoKICBkZWYgY2FuY2VsZWRfeW95KHNlbGYpOgogICAgIiIiIiIiCiAgICBhcmdzID0gQXBwb2ludG1lbnRBcmdzLmZvcl91aShyZXFfYXJncygpKQogICAgcmV0dXJuIGFwcG9pbnRtZW50cy5rcGlzLmNhbmNlbGVkX3lveShhcmdzKQoKICBkZWYgc2FtZV9kYXlfbm9fc2hvd195b3koc2VsZik6CiAgICAiIiIiIiIKICAgIGFyZ3MgPSBBcHBvaW50bWVudEFyZ3MuZm9yX3VpKHJlcV9hcmdzKCkpCiAgICByZXR1cm4gYXBwb2ludG1lbnRzLmtwaXMuc2FtZV9kYXlfbm9fc2hvd195b3koYXJncykK</text>
+        <text encoding="base64">IyBmcm9tIHNjLmFwcC5hcnJvd2x5dGljcy5jaGFyZ2VzLnR5cGVzIGltcG9ydCBDaGFyZ2VzQXJncwojIGZyb20gc2MuYXBwLmFycm93bHl0aWNzLnBheW1lbnRzLnR5cGVzIGltcG9ydCBQYXltZW50c0FyZ3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgYXBwdDogbnVtYmVyID0gOAogIHN0YXJ0TW9ybiA9ICcwNzowMCcKICBlbmRNb3JuID0gJzEyOjAwJwogIHN0YXJ0QWZ0ID0gJzEzOjAwJwogIGVuZEFmdCA9ICcxNzowMCcKICBob3VycyA9IFsKICAgICcwMTowMCcsCiAgICAnMDI6MDAnLAogICAgJzAzOjAwJywKICAgICcwNDowMCcsCiAgICAnMDU6MDAnLAogICAgJzA2OjAwJywKICAgICcwNzowMCcsCiAgICAnMDg6MDAnLAogICAgJzA5OjAwJywKICAgICcxMDowMCcsCiAgICAnMTE6MDAnLAogICAgJzEyOjAwJywKICAgICcxMzowMCcsCiAgICAnMTQ6MDAnLAogICAgJzE1OjAwJywKICAgICcxNjowMCcsCiAgICAnMTc6MDAnLAogICAgJzE4OjAwJywKICAgICcxOTowMCcsCiAgICAnMjA6MDAnLAogICAgJzIxOjAwJywKICAgICcyMjowMCcsCiAgICAnMjM6MDAnLAogIF0K</text>
+        <text encoding="base64">CmRlZiBjb252ZXJ0X3lveV9yZXNwKGFyZ3M6IEJhc2VBcnJvd2x5dGljc0FyZ3MsIHJvd3M6IExpc3RbRGljdF0pOgogICIiIiIiIgogIHN0YXJ0LCBlbmQgPSBhcmdzLnlveV9wZXJpb2QKCiAgY3VycmVudF9sYWJlbCwgbGFzdF9sYWJlbCA9IGVuZC5kYXRldGltZS55ZWFyLCBzdGFydC5kYXRldGltZS55ZWFyCgogIGN1cnJlbnQsIGxhc3QgPSB1dGlscy5wYXJ0aXRpb24oCiAgICByb3dzLCBsYW1iZGEgcjogYXJyb3cuZ2V0KHJbImRhdGUiXSkuZGF0ZXRpbWUueWVhciA9PSBjdXJyZW50X2xhYmVsCiAgKQoKICByZXQgPSB7CiAgICAiY3VycmVudCI6IGN1cnJlbnQsCiAgICAiY3VycmVudF9sYWJlbCI6IHN0cihjdXJyZW50X2xhYmVsKSwKICAgICJsYXN0IjogbGFzdCwKICAgICJsYXN0X2xhYmVsIjogc3RyKGxhc3RfbGFiZWwpLAogIH0KICByZXR1cm4gcmV0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBsb2FkZXJTZXJ2aWNlOiBMb2FkZXJTZXJ2aWNlLAo=</text>
+        <text encoding="base64">CiAgQGNhY2hlZF9wcm9wZXJ0eQogIGRlZiBzdGFydChzZWxmKToKICAgIHJldHVybiBzdGFydF9lbmRfZnJvbV91cmwoc2VsZi5wYXJhbXNbImZpbHRlcnMiXVsiZGF0ZSJdKVswXQoKICBAY2FjaGVkX3Byb3BlcnR5CiAgZGVmIGVuZChzZWxmKToKICAgIHJldHVybiBzdGFydF9lbmRfZnJvbV91cmwoc2VsZi5wYXJhbXNbImZpbHRlcnMiXVsiZGF0ZSJdKVsxXQoKICBAcHJvcGVydHkKICBkZWYgZGF0ZXMoc2VsZik6CiAgICByZXR1cm4gc2VsZi5zdGFydCwgc2VsZi5lbmQK</text>
       </register>
       <register name=":" type="4">
         <text>%s//Canceled</text>
@@ -539,9 +515,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>asdf</last-search>
+      <last-search>_params</last-search>
       <last-offset />
-      <last-pattern>asdf</last-pattern>
+      <last-pattern>_params</last-pattern>
       <last-replace>Canceled</last-replace>
       <last-substitute>Arrived</last-substitute>
       <last-dir>1</last-dir>
