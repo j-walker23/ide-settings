@@ -284,7 +284,7 @@
         <mark key="." line="140" column="0" />
         <mark key="^" line="63" column="22" />
       </file>
-      <file name="$USER_HOME$/code/sc/selenium/automation/socialclimb/app/gmb/listings/listings_page.py" timestamp="1591363949519">
+      <file name="$USER_HOME$/code/sc/selenium/automation/socialclimb/app/gmb/listings/listings_page.py" timestamp="1591364335464">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
@@ -294,11 +294,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/selenium/utils.py" timestamp="1591364258862">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="47" column="86" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/code/sc/selenium/utils.py" timestamp="1591364502918">
+        <mark key="[" line="50" column="2" />
+        <mark key="]" line="50" column="47" />
+        <mark key="." line="50" column="46" />
+        <mark key="^" line="50" column="47" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/kpis.py" timestamp="1591361572458" />
       <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/adjustments/kpis.py" timestamp="1591361828322">
@@ -438,11 +438,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>element_located</text>
       </register>
       <register name="/" type="4">
         <text>axdf</text>
@@ -451,34 +451,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIGVjYygpOgogIHJldHVybiBleHBlY3RlZF9jb25kaXRpb25zCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBmcm9tIHNlbGVuaXVtLndlYmRyaXZlci5zdXBwb3J0IGltcG9ydCBleHBlY3RlZF9jb25kaXRpb25zCg==</text>
+        <text encoding="base64">ZGVmIGVjYygpOgogIHJldHVybiBleHBlY3RlZF9jb25kaXRpb25zCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZWMK</text>
+        <text encoding="base64">ICBmcm9tIHNlbGVuaXVtLndlYmRyaXZlci5zdXBwb3J0IGltcG9ydCBleHBlY3RlZF9jb25kaXRpb25zCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBzZWxlbml1bS53ZWJkcml2ZXIuc3VwcG9ydCBpbXBvcnQgZXhwZWN0ZWRfY29uZGl0aW9ucyBhcyBlYwo=</text>
+        <text encoding="base64">ICAgICAgZWMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBkZWYgZWMoKToKIyAgIGZyb20gc2VsZW5pdW0ud2ViZHJpdmVyLnN1cHBvcnQgaW1wb3J0IGV4cGVjdGVkX2NvbmRpdGlvbnMKIyAgIHJldHVybiBleHBlY3RlZF9jb25kaXRpb25zCg==</text>
+        <text encoding="base64">ZnJvbSBzZWxlbml1bS53ZWJkcml2ZXIuc3VwcG9ydCBpbXBvcnQgZXhwZWN0ZWRfY29uZGl0aW9ucyBhcyBlYwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGVjKCk6CiAgZnJvbSBzZWxlbml1bS53ZWJkcml2ZXIuc3VwcG9ydCBpbXBvcnQgZXhwZWN0ZWRfY29uZGl0aW9ucwogIHJldHVybiBleHBlY3RlZF9jb25kaXRpb25zCg==</text>
+        <text encoding="base64">IyBkZWYgZWMoKToKIyAgIGZyb20gc2VsZW5pdW0ud2ViZHJpdmVyLnN1cHBvcnQgaW1wb3J0IGV4cGVjdGVkX2NvbmRpdGlvbnMKIyAgIHJldHVybiBleHBlY3RlZF9jb25kaXRpb25zCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QmVjYXVzZSBvZiBteSBwYXRoZXRpYyBsaWZlLCBJIGZlZWwgbGlrZSBJIGxldCBwZW9wbGUgZG93biBwcmV0dHkgb2Z0ZW4uCkJ1dCBJIGNhbid0IHJlbWVtYmVyIGEgdGltZSB3aGVuIEkgZmVsdCB3b3JzZSBhYm91dCBsZXR0aW5nIGFueW9uZSBkb3duIGFzIHdpdGggeW91IGFuZCBBcnJvd2x5dGljcyBsYXN0IHdlZWsuCgpUaGUgZGF5IGFmdGVyIGl0IHdhcyBmaW5hbCBJIHdhc24ndCBnb2luZyB0byBtYWtlIGl0LCBJIHRoZW4gcmFuIG91dCBvZiBkcnVncy4KQ292aWQgaGFzIHRha2VuIGEgdG9sbCBvbiBtZSBmaW5kaW5nIHRoZW0sIGJ1dCBJIGdvdCB0aGF0IGZpZ3VyZWQgb3V0IGEgY291cGxlIGRheXMgYWdvLgoKT24gU3VuZGF5LCBJIHBsYW5uZWQgb24gdGVsbGluZyB5b3UgTW9uZGF5IHRoYXQgSSBmdWNraW5nIGJsZXcgQXJyb3dseXRpY3MsCmJ1dCBieSBNb25kYXkgYW55IHBsYW4gd2FzIGdvbmUgYW5kIGl0IHdhcyBqdXN0IGJhY2sgdG8gZGFya25lc3MsIG15IGJlc3QgZnJpZW5kLgoKSSBjYW4gb25seSBpbWFnaW5lIGhvdyBleHRyZW1lbHkgZXh0cmVtZWx5IHNoaXR0eSBkZWFsaW5nIHdpdGggdGhhdCBBcnJvd2x5dGljcwptaWQgd2VlayByZWxlYXNlIHdpdGggbm8gZnVja2luZyBiYWNrdXAgZnJvbSBtZSBhdCBhbGwuIEV2ZW4gd2l0aG91dCBtZSBmYWlsaW5nIG15IGFjdHVhbCBqb2Igb24gdGhlIFNlc3Npb25zLgpNZWFucyBub3RoaW5nLCBidXQgaSdtIHZlcnkgdmVyeSBzb3JyeS4KCkknbSB0cnlpbmcgdG8gbm90IGxldCB0aGlzIHllYXIgYmUgbGlrZSBsYXN0LCBzbyBpIGRpZG4ndCBzdGF5IGRhcmsgZm9yIGEgbW9udGggb3IgbW9yZSB0aGlzIHRpbWUuCgpJJ2xsIGJlIGluIHRoZSBvZmZpY2UuCgo=</text>
+        <text encoding="base64">ZGVmIGVjKCk6CiAgZnJvbSBzZWxlbml1bS53ZWJkcml2ZXIuc3VwcG9ydCBpbXBvcnQgZXhwZWN0ZWRfY29uZGl0aW9ucwogIHJldHVybiBleHBlY3RlZF9jb25kaXRpb25zCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">SSdtIHZlcnkgc29ycnkgbWFuLgo=</text>
+        <text encoding="base64">QmVjYXVzZSBvZiBteSBwYXRoZXRpYyBsaWZlLCBJIGZlZWwgbGlrZSBJIGxldCBwZW9wbGUgZG93biBwcmV0dHkgb2Z0ZW4uCkJ1dCBJIGNhbid0IHJlbWVtYmVyIGEgdGltZSB3aGVuIEkgZmVsdCB3b3JzZSBhYm91dCBsZXR0aW5nIGFueW9uZSBkb3duIGFzIHdpdGggeW91IGFuZCBBcnJvd2x5dGljcyBsYXN0IHdlZWsuCgpUaGUgZGF5IGFmdGVyIGl0IHdhcyBmaW5hbCBJIHdhc24ndCBnb2luZyB0byBtYWtlIGl0LCBJIHRoZW4gcmFuIG91dCBvZiBkcnVncy4KQ292aWQgaGFzIHRha2VuIGEgdG9sbCBvbiBtZSBmaW5kaW5nIHRoZW0sIGJ1dCBJIGdvdCB0aGF0IGZpZ3VyZWQgb3V0IGEgY291cGxlIGRheXMgYWdvLgoKT24gU3VuZGF5LCBJIHBsYW5uZWQgb24gdGVsbGluZyB5b3UgTW9uZGF5IHRoYXQgSSBmdWNraW5nIGJsZXcgQXJyb3dseXRpY3MsCmJ1dCBieSBNb25kYXkgYW55IHBsYW4gd2FzIGdvbmUgYW5kIGl0IHdhcyBqdXN0IGJhY2sgdG8gZGFya25lc3MsIG15IGJlc3QgZnJpZW5kLgoKSSBjYW4gb25seSBpbWFnaW5lIGhvdyBleHRyZW1lbHkgZXh0cmVtZWx5IHNoaXR0eSBkZWFsaW5nIHdpdGggdGhhdCBBcnJvd2x5dGljcwptaWQgd2VlayByZWxlYXNlIHdpdGggbm8gZnVja2luZyBiYWNrdXAgZnJvbSBtZSBhdCBhbGwuIEV2ZW4gd2l0aG91dCBtZSBmYWlsaW5nIG15IGFjdHVhbCBqb2Igb24gdGhlIFNlc3Npb25zLgpNZWFucyBub3RoaW5nLCBidXQgaSdtIHZlcnkgdmVyeSBzb3JyeS4KCkknbSB0cnlpbmcgdG8gbm90IGxldCB0aGlzIHllYXIgYmUgbGlrZSBsYXN0LCBzbyBpIGRpZG4ndCBzdGF5IGRhcmsgZm9yIGEgbW9udGggb3IgbW9yZSB0aGlzIHRpbWUuCgpJJ2xsIGJlIGluIHRoZSBvZmZpY2UuCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">T25jZSBJIGNhbWUgb3V0IG9mIG15IHRhaWxzcGluIGVhcmxpZXIgdGhpcyB3ZWVrLCBJJ3ZlIGhhZCBhCg==</text>
+        <text encoding="base64">SSdtIHZlcnkgc29ycnkgbWFuLgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s//Canceled</text>
