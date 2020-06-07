@@ -184,6 +184,7 @@
         <entry>pct_</entry>
         <entry>csv</entry>
         <entry>asdf</entry>
+        <entry>contents</entry>
       </history-search>
       <history-cmd>
         <entry>SplitVertically</entry>
@@ -347,12 +348,6 @@
         <mark key="^" line="22" column="60" />
         <mark key="." line="22" column="59" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/apps-status/apps-status.html" timestamp="1591544649354">
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="12" column="30" />
-        <mark key="." line="12" column="29" />
-        <mark key="^" line="12" column="30" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/arrowlytics.ints.ts" timestamp="1591549545024">
         <mark key="[" line="21" column="13" />
         <mark key="]" line="21" column="16" />
@@ -372,6 +367,12 @@
         <mark key="." line="26" column="63" />
         <mark key="^" line="26" column="64" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" timestamp="1591555200648">
+        <mark key="'" line="31" column="18" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/static/common/typings/ng-modules.d.ts" timestamp="1591552230479">
         <mark key="[" line="10" column="12" />
         <mark key="]" line="10" column="13" />
@@ -389,7 +390,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/exports.py" />
       <jump line="56" column="51" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/common.py" />
       <jump line="45" column="61" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/common.py" />
       <jump line="60" column="3" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/common.py" />
@@ -489,6 +489,7 @@
       <jump line="127" column="16" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
       <jump line="146" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
       <jump line="147" column="29" filename="$USER_HOME$/code/sc/web/node_modules/angular-ui-grid/ui-grid.core.js" />
+      <jump line="31" column="18" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -500,7 +501,7 @@
         <text encoding="base64">bGV0IA==</text>
       </register>
       <register name="/" type="4">
-        <text>asdf</text>
+        <text>contents</text>
       </register>
       <register name="0" type="4">
         <text>U', str, bytes)  # Must be str or bytes</text>
@@ -542,13 +543,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>asdf</last-search>
+      <last-search>contents</last-search>
       <last-offset />
-      <last-pattern>asdf</last-pattern>
+      <last-pattern>contents</last-pattern>
       <last-replace>xls</last-replace>
       <last-substitute>csv</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
