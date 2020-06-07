@@ -283,18 +283,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/hallspace/kpis.py" timestamp="1591507721359">
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/hallspace/kpis.py" timestamp="1591512471880">
         <mark key="'" line="25" column="13" />
-        <mark key="[" line="108" column="13" />
-        <mark key="]" line="108" column="23" />
-        <mark key="^" line="108" column="23" />
-        <mark key="." line="108" column="22" />
+        <mark key="[" line="105" column="10" />
+        <mark key="]" line="105" column="25" />
+        <mark key="^" line="105" column="25" />
+        <mark key="." line="105" column="24" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" timestamp="1591507585126">
-        <mark key="[" line="220" column="28" />
-        <mark key="]" line="221" column="1" />
-        <mark key="." line="221" column="0" />
-        <mark key="^" line="221" column="1" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" timestamp="1591512412764">
+        <mark key="'" line="184" column="18" />
+        <mark key="[" line="188" column="14" />
+        <mark key="]" line="188" column="14" />
+        <mark key="^" line="188" column="16" />
+        <mark key="." line="188" column="14" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/restful.py" timestamp="1591503950630">
         <mark key="[" line="925" column="4" />
@@ -346,12 +347,12 @@
       <file name="/console_2" timestamp="1591506029624">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/sessions/kpis.py" timestamp="1591507483433">
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/sessions/kpis.py" timestamp="1591512580114">
         <mark key="'" line="61" column="2" />
-        <mark key="[" line="20" column="12" />
-        <mark key="]" line="20" column="13" />
-        <mark key="." line="20" column="12" />
-        <mark key="^" line="20" column="13" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="42" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="37" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_55.py" timestamp="1591505178171">
         <mark key="[" line="0" column="0" />
@@ -373,10 +374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/settings/partner-options/partner-options.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/boost/details/ad-group-tabs/ad-group/keywords/positive/positive.dialog.ts" />
-      <jump line="65" column="0" filename="$USER_HOME$/code/sc/web/static/support/views/partners/partner-setup/partner-setup.html" />
-      <jump line="16" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/settings/partner-options/add/add-partner.dialog.html" />
       <jump line="351" column="12" filename="$USER_HOME$/code/sc/web/static/web/views/settings/partner-options/partner-options.html" />
       <jump line="86" column="35" filename="$USER_HOME$/code/sc/web/static/web/views/settings/partner-options/partner-options.ts" />
       <jump line="49" column="0" filename="$USER_HOME$/code/sc/web/static/support/views/partners/details/partner-details.html" />
@@ -473,15 +470,19 @@
       <jump line="24" column="13" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/hallspace/kpis.py" />
       <jump line="25" column="13" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/hallspace/kpis.py" />
       <jump line="170" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" />
+      <jump line="192" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" />
+      <jump line="185" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" />
+      <jump line="193" column="49" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" />
+      <jump line="184" column="18" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>util</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICBtb3JuX2NyZWRpdCwgYWZ0X2NyZWRpdCwgKl8gPSBkaXNwbGF5cwo=</text>
       </register>
       <register name="-" type="4">
-        <text>util</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>sessions</text>
@@ -490,31 +491,31 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgIyBjb2xzID0gW0FwcG9pbnRtZW50Lm9mZmljZV9pZCwgYXJncy5kYXRlX2ludF0K</text>
+        <text encoding="base64">ICBtb3JuX2NyZWRpdCwgYWZ0X2NyZWRpdCwgKl8gPSBkaXNwbGF5cwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLmZpbHRlcihPZmZpY2UuaXNfaGFsbHNwYWNlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAsIGhqX2FwcG9pbnRtZW50LmRheXMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXMgZGF5cwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLmhhdmluZyhvcl8obW9ybl9jcmVkaXQsIGFmdF9jcmVkaXQpKQo=</text>
+        <text encoding="base64">ICAsIGRheXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLndpdGhfaGludChBcHBvaW50bWVudCwgaWR4KQo=</text>
+        <text encoding="base64">CiAgIyBjb2xzID0gW0FwcG9pbnRtZW50Lm9mZmljZV9pZCwgYXJncy5kYXRlX2ludF0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkaXNwbGF5cyArPSBbT2ZmaWNlLm5hbWUsIE9mZmljZS5udW1faGFsbHNdCg==</text>
+        <text encoding="base64">ICAgICAgLmZpbHRlcihPZmZpY2UuaXNfaGFsbHNwYWNlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGhqX2FwcG9pbnRtZW50Lm9mZmljZV9pZAo=</text>
+        <text encoding="base64">ICAgICAgLmhhdmluZyhvcl8obW9ybl9jcmVkaXQsIGFmdF9jcmVkaXQpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgICAgdXNlIGluZGV4IChpeF9oal9hcHBvaW50bWVudF9zdGF0dXNfZGF5c19vZmZpY2VfaWQpCg==</text>
+        <text encoding="base64">ICAgICAgLndpdGhfaGludChBcHBvaW50bWVudCwgaWR4KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgLCBoal9hcHBvaW50bWVudC5vZmZpY2VfaWQK</text>
+        <text encoding="base64">ICBkaXNwbGF5cyArPSBbT2ZmaWNlLm5hbWUsIE9mZmljZS5udW1faGFsbHNdCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIGhqX2FwcG9pbnRtZW50Lm9mZmljZV9pZAo=</text>
