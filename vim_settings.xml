@@ -369,11 +369,12 @@
         <mark key="." line="26" column="63" />
         <mark key="^" line="26" column="64" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" timestamp="1591555200648">
-        <mark key="'" line="31" column="18" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" timestamp="1591557854395">
+        <mark key="'" line="40" column="20" />
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="29" column="26" />
+        <mark key="." line="29" column="25" />
+        <mark key="^" line="29" column="26" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/common/typings/ng-modules.d.ts" timestamp="1591552230479">
         <mark key="[" line="10" column="12" />
@@ -392,7 +393,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="12" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/hallspace/kpis.py" />
       <jump line="91" column="4" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/exports.py" />
       <jump line="24" column="13" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/procedure-groups-monthly/procedure-groups-monthly.ts" />
       <jump line="21" column="3" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-summary-card/arrow-table.ts" />
@@ -488,19 +488,20 @@
       <jump line="127" column="16" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
       <jump line="146" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
       <jump line="147" column="29" filename="$USER_HOME$/code/sc/web/node_modules/angular-ui-grid/ui-grid.core.js" />
-      <jump line="31" column="18" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" />
       <jump line="101" column="13" filename="$USER_HOME$/code/sc/web/static/common/components/grid/grid.sass" />
       <jump line="5" column="7" filename="$USER_HOME$/code/sc/web/static/common/components/grid/grid.sass" />
       <jump line="31" column="2" filename="$USER_HOME$/code/sc/web/static/common/components/grid/light/light-grid.ts" />
+      <jump line="13" column="0" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" />
+      <jump line="31" column="20" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGxheTogZmxleAo=</text>
+      <register name="+" type="4">
+        <text>middle</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGV0IA==</text>
+        <text>middle</text>
       </register>
       <register name="/" type="4">
         <text>contents</text>
@@ -509,34 +510,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGxheTogZmxleAo=</text>
+        <text encoding="base64">ICAgICAgYm9yZGVyOiAxcHggc29saWQgcmVkCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">LmNvbnRhaW5lcgogIHBvc2l0aW9uOiByZWxhdGl2ZQogIHRleHQtYWxpZ246IGNlbnRlcgogIGRpc3BsYXk6IGJsb2NrCiAgaGVpZ2h0OiAxMDAlCgo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbHMpCg==</text>
+        <text encoding="base64">ICAgICAgZGlzcGxheTogZmxleAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYWdncmVnYXRpb25UeXBlOiBHcmlkQWdnVHlwZS5hdmcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbC5jb2xEZWYuZGlzcGxheU5hbWUKICAgICAgICAgIGNvbnNvbGUubG9nKCdyb3dzJywgcm93cykKICAgICAgICAgIGNvbnNvbGUubG9nKCdjb2wnLCBjb2wpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVuYWJsZUZpbHRlcmluZzogYm9vbGVhbgogICAgc2VhcmNoPzogYW55CiAgICBzb3J0ZXI/OiBzdHJpbmcK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbHMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhZ2dyZWdhdGlvbkhpZGVMYWJlbDogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgYWdncmVnYXRpb25UeXBlOiBHcmlkQWdnVHlwZS5hdmcsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjZWxsQ2xhc3M6IChncmlkLCByb3csIGNvbCkgPT4gY2VsbENsYXNzKGdyaWQsIHJvdywgY29sLCAnbW9ybl91dGlsJyksCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbC5jb2xEZWYuZGlzcGxheU5hbWUKICAgICAgICAgIGNvbnNvbGUubG9nKCdyb3dzJywgcm93cykKICAgICAgICAgIGNvbnNvbGUubG9nKCdjb2wnLCBjb2wpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//xls</text>
