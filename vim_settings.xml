@@ -176,6 +176,8 @@
         <entry>es-lint</entry>
         <entry>eslint</entry>
         <entry>asdf</entry>
+        <entry>Sessions</entry>
+        <entry>sessions</entry>
       </history-search>
       <history-cmd>
         <entry>SplitVertically</entry>
@@ -238,8 +240,10 @@
         <entry>%s//Canceled</entry>
         <entry>%s//HallspaceGroup</entry>
         <entry>%s//SessionsGroup</entry>
-        <entry>action SplitVertically</entry>
         <entry>%s//ctrl.acc.partner</entry>
+        <entry>action SplitVertically</entry>
+        <entry>%s//Hallspace</entry>
+        <entry>%s//hallspace</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -279,6 +283,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/sc/web/node_modules/@types/ui-grid/index.d.ts" timestamp="1591497525423" />
+      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/sessions_view.py" timestamp="1591498371762" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/hallspace-util-line.ts" timestamp="1591499298057">
+        <mark key="[" line="23" column="13" />
+        <mark key="]" line="23" column="22" />
+        <mark key="." line="23" column="21" />
+        <mark key="^" line="23" column="22" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/static/common/services/ng-mods.ts" timestamp="1591497365867">
         <mark key="'" line="67" column="6" />
         <mark key="[" line="13" column="0" />
@@ -286,82 +298,93 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="10" column="43" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/ui-grid-group-columns.sass" timestamp="1591495611412">
-        <mark key="'" line="81" column="8" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="81" column="38" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/look-forward/arrow-look-forward.html" timestamp="1591499534831">
+        <mark key="[" line="39" column="60" />
+        <mark key="]" line="40" column="6" />
+        <mark key="^" line="40" column="6" />
+        <mark key="." line="40" column="5" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/projected-sessions/projected-sessions.ts" timestamp="1591494120159">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="18" column="28" />
-        <mark key="]" line="18" column="48" />
-        <mark key="." line="18" column="47" />
-        <mark key="^" line="18" column="48" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/projected-sessions/projected-sessions.ts" timestamp="1591499478334">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="17" column="48" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/fuck/ui-grid-group-columns.js" timestamp="1591496946424">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="146" column="44" />
-        <mark key="]" line="146" column="44" />
-        <mark key="^" line="146" column="44" />
-        <mark key="." line="146" column="43" />
+      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/hallspace_view.py" timestamp="1591498373563">
+        <mark key="[" line="34" column="42" />
+        <mark key="]" line="34" column="62" />
+        <mark key="^" line="34" column="62" />
+        <mark key="." line="34" column="61" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/services/async.filter.ts" timestamp="1591497229634">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" timestamp="1591499005664">
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="10" column="36" />
+        <mark key="^" line="10" column="36" />
+        <mark key="." line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/services/query-debounce.ts" timestamp="1591497269968">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.service.ts" timestamp="1591497342223">
-        <mark key="'" line="121" column="0" />
-        <mark key="[" line="114" column="56" />
-        <mark key="]" line="114" column="56" />
-        <mark key="^" line="113" column="40" />
-        <mark key="." line="114" column="56" />
+      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.service.ts" timestamp="1591497989602">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="21" />
+        <mark key="." line="5" column="20" />
+        <mark key="^" line="5" column="21" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.ts" timestamp="1591497363734">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/light/light-grid.ts" timestamp="1591497355205">
+      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/ui-grid-footer-group-columns.html" timestamp="1591497758786">
+        <mark key="[" line="20" column="46" />
+        <mark key="]" line="20" column="46" />
+        <mark key="." line="20" column="46" />
+        <mark key="^" line="1" column="59" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/hallspace/types.py" timestamp="1591498290997" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/arrowlytics.ints.ts" timestamp="1591499193081">
+        <mark key="[" line="125" column="54" />
+        <mark key="]" line="126" column="14" />
+        <mark key="^" line="126" column="14" />
+        <mark key="." line="126" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/sessions/kpis.py" timestamp="1591498178787">
+        <mark key="'" line="76" column="5" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/light/light-grid.ts" timestamp="1591498074823">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="18" column="18" />
-        <mark key="]" line="18" column="43" />
-        <mark key="^" line="18" column="43" />
-        <mark key="." line="18" column="42" />
+        <mark key="[" line="16" column="56" />
+        <mark key="]" line="16" column="78" />
+        <mark key="^" line="16" column="78" />
+        <mark key="." line="16" column="77" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/pipes/pipes.ts" timestamp="1591497310282">
-        <mark key="'" line="225" column="1" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="31" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/code/sc/web/static/common/typings/ng-modules.d.ts" timestamp="1591497490411">
+        <mark key="[" line="23" column="28" />
+        <mark key="]" line="24" column="26" />
+        <mark key="^" line="24" column="26" />
+        <mark key="." line="24" column="25" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/boost/details/ad-group-tabs/ad-group/keywords/positive/positive.dialog.ts" timestamp="1591497335563" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" timestamp="1591499609582">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="33" column="20" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/ui-grid-header-group-columns.html" timestamp="1591497766838">
+        <mark key="[" line="33" column="50" />
+        <mark key="]" line="33" column="50" />
+        <mark key="." line="33" column="50" />
+        <mark key="^" line="2" column="23" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/hallspace/kpis.py" timestamp="1591499123069">
+        <mark key="'" line="42" column="45" />
+        <mark key="[" line="95" column="26" />
+        <mark key="]" line="95" column="26" />
+        <mark key="." line="95" column="25" />
+        <mark key="^" line="95" column="26" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/sessions/types.py" timestamp="1591498299336" />
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/code/sc/web/sc/coms/search/params.py" />
-      <jump line="136" column="34" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/base.py" />
-      <jump line="18" column="11" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/look-forward/arrow-look-forward.ts" />
-      <jump line="11" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/projected-sessions/projected-sessions.ts" />
-      <jump line="36" column="27" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/projected-sessions/projected-sessions.ts" />
-      <jump line="3" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/projected-sessions/projected-sessions.ts" />
-      <jump line="75" column="25" filename="$USER_HOME$/code/sc/web/static/web/views/settings/acc-alerts/acc-alerts.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/settings/settings.html" />
-      <jump line="42" column="11" filename="$USER_HOME$/code/sc/web/static/web/views/settings/acc-alerts/acc-alerts.ts" />
-      <jump line="78" column="6" filename="$USER_HOME$/code/sc/web/sc/mods/support/rest/error_reports_view.py" />
-      <jump line="19" column="6" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/integrations_view.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/integrations/integrations_view.py" />
-      <jump line="24" column="16" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/integrations/integrations_view.py" />
-      <jump line="71" column="36" filename="$USER_HOME$/code/sc/web/static/web/views/settings/acc-alerts/acc-alerts.html" />
-      <jump line="44" column="4" filename="$USER_HOME$/code/sc/web/sc/mods/support/rest/error_reports_view.py" />
-      <jump line="34" column="34" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/integrations/integrations_view.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/settings/partner-options/partner-options.html" />
       <jump line="12" column="6" filename="$USER_HOME$/code/sc/web/static/web/views/boost/details/custom/boost-custom.html" />
       <jump line="11" column="25" filename="$USER_HOME$/code/sc/web/static/web/views/settings/acc-alerts/acc-alerts.html" />
       <jump line="404" column="16" filename="$USER_HOME$/code/sc/web/static/web/views/settings/partner-options/partner-options.html" />
@@ -445,66 +468,83 @@
       <jump line="83" column="0" filename="$USER_HOME$/code/sc/web/static/common/services/ng-mods.ts" />
       <jump line="224" column="1" filename="$USER_HOME$/code/sc/web/static/common/pipes/pipes.ts" />
       <jump line="64" column="6" filename="$USER_HOME$/code/sc/web/static/common/services/ng-mods.ts" />
+      <jump line="47" column="40" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.service.ts" />
+      <jump line="37" column="0" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.service.ts" />
+      <jump line="76" column="5" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/sessions/kpis.py" />
+      <jump line="75" column="4" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/hallspace/kpis.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/hallspace/kpis.py" />
+      <jump line="91" column="12" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/hallspace/kpis.py" />
+      <jump line="67" column="4" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/hallspace/kpis.py" />
+      <jump line="40" column="30" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/hallspace/kpis.py" />
+      <jump line="65" column="0" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/hallspace/kpis.py" />
+      <jump line="42" column="45" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/hallspace/kpis.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/projected-sessions/projected-sessions.ts" />
+      <jump line="30" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/projected-sessions/projected-sessions.ts" />
+      <jump line="26" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/projected-sessions/projected-sessions.ts" />
+      <jump line="6" column="12" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
+      <jump line="11" column="18" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
+      <jump line="29" column="2" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
+      <jump line="4" column="47" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAuZmlsdGVyKCdhc3luYycsIGFzeW5jRmlsdGVyKQo=</text>
+        <text encoding="base64">CiAgZ2V0RGF0ZUZvcm1hdChzcGFuOiBUaW1lU3BhbikgewogICAgcmV0dXJuIEFycm93Q29tbW9uLmRhdGVGb3JtYXRCeVNwYW4oc3BhbikKICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>debounce</text>
+        <text>span</text>
       </register>
       <register name="/" type="4">
-        <text>asdf</text>
+        <text>sessions</text>
       </register>
       <register name="0" type="4">
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAuZmlsdGVyKCdhc3luYycsIGFzeW5jRmlsdGVyKQo=</text>
+        <text encoding="base64">CiAgZ2V0RGF0ZUZvcm1hdChzcGFuOiBUaW1lU3BhbikgewogICAgcmV0dXJuIEFycm93Q29tbW9uLmRhdGVGb3JtYXRCeVNwYW4oc3BhbikKICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAuZGlyZWN0aXZlKCdyZXBlYXRIZWxwJywgWyckcGFyc2UnLCByZXBlYXRIZWxwXSkKICAuZGlyZWN0aXZlKCdudW1lcmljT25seScsIFsnJHBhcnNlJywgbnVtZXJpY09ubHldKQo=</text>
+        <text encoding="base64">ICAgIHRoaXMuZGF0ZWZvcm1hdCA9IHRoaXMuZ2V0RGF0ZUZvcm1hdChzcGFuKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JGRlYm91bmNlLiRpbmplY3QgPSBbJyR0aW1lb3V0JywgJyRxJ10K</text>
+        <text encoding="base64">ICBkYXRlZm9ybWF0ID0gdGhpcy5nZXREYXRlRm9ybWF0KHRoaXMuc3BhbikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAuZGlyZWN0aXZlKCduZ0VudGVyJywgbmdFbnRlcikKICAuZGlyZWN0aXZlKCdjbWRFbnRlcicsIGNtZEVudGVyKQo=</text>
+        <text encoding="base64">ICBzcGFuOiBUaW1lU3BhbiA9ICd3ZWVrJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGFzeW5jRmlsdGVyKCkgewogIGNvbnN0IHZhbHVlcyA9IHt9CiAgY29uc3Qgc3Vic2NyaXB0aW9ucyA9IHt9CgogIGZ1bmN0aW9uIGFzeW5jKGlucHV0LCBzY29wZSkgewogICAgLy8gTWFrZSBzdXJlIHdlIGhhdmUgYW4gT2JzZXJ2YWJsZSBvciBhIFByb21pc2UKICAgIGlmICghaW5wdXQgfHwgIShpbnB1dC5zdWJzY3JpYmUgfHwgaW5wdXQudGhlbikpIHsKICAgICAgcmV0dXJuIGlucHV0CiAgICB9CgogICAgY29uc3QgaW5wdXRJZCA9IG9iamVjdElkKGlucHV0KQogICAgaWYgKCEoaW5wdXRJZCBpbiBzdWJzY3JpcHRpb25zKSkgewogICAgICBjb25zdCBzdWJzY3JpcHRpb25TdHJhdGVneSA9CiAgICAgICAgKGlucHV0LnN1YnNjcmliZSAmJiBpbnB1dC5zdWJzY3JpYmUuYmluZChpbnB1dCkpIHx8CiAgICAgICAgKGlucHV0LnN1Y2Nlc3MgJiYgaW5wdXQuc3VjY2Vzcy5iaW5kKGlucHV0KSkgfHwgLy8gVG8gbWFrZSBpdCB3b3JrIHdpdGggSHR0cFByb21pc2UKICAgICAgICBpbnB1dC50aGVuLmJpbmQoaW5wdXQpCgogICAgICBzdWJzY3JpcHRpb25zW2lucHV0SWRdID0gc3Vic2NyaXB0aW9uU3RyYXRlZ3kodmFsdWUgPT4gewogICAgICAgIHZhbHVlc1tpbnB1dElkXSA9IHZhbHVlCgogICAgICAgIGlmIChzY29wZSAmJiBzY29wZS4kYXBwbHlBc3luYykgewogICAgICAgICAgc2NvcGUuJGFwcGx5QXN5bmMoKSAvLyBBdXRvbWF0aWMgc2FmZSBhcHBseSwgaWYgc2NvcGUgcHJvdmlkZWQKICAgICAgICB9CiAgICAgIH0pCgogICAgICBpZiAoc2NvcGUgJiYgc2NvcGUuJG9uKSB7CiAgICAgICAgLy8gQ2xlYW4gdXAgc3Vic2NyaXB0aW9uIGFuZCBpdHMgbGFzdCB2YWx1ZSB3aGVuIHRoZSBzY29wZSBpcyBkZXN0cm95ZWQuCiAgICAgICAgc2NvcGUuJG9uKCckZGVzdHJveScsICgpID0+IHsKICAgICAgICAgIGNvbnN0IHN1YiA9IHN1YnNjcmlwdGlvbnNbaW5wdXRJZF0KICAgICAgICAgIGlmIChzdWIpIHsKICAgICAgICAgICAgc3ViLnVuc3Vic2NyaWJlICYmIHN1Yi51bnN1YnNjcmliZSgpCiAgICAgICAgICAgIHN1Yi5kaXNwb3NlICYmIHN1Yi5kaXNwb3NlKCkKICAgICAgICAgIH0KICAgICAgICAgIGRlbGV0ZSBzdWJzY3JpcHRpb25zW2lucHV0SWRdCiAgICAgICAgICBkZWxldGUgdmFsdWVzW2lucHV0SWRdCiAgICAgICAgfSkKICAgICAgfQogICAgfQoKICAgIHJldHVybiB2YWx1ZXNbaW5wdXRJZF0KICB9CgogIC8vIE5lZWQgYSB3YXkgdG8gdGVsbCB0aGUgaW5wdXQgb2JqZWN0cyBhcGFydCBmcm9tIGVhY2ggb3RoZXIgKHNvIHdlIG9ubHkgc3Vic2NyaWJlIHRvIHRoZW0gb25jZSkKICBsZXQgbmV4dE9iamVjdElEID0gMAoKICBmdW5jdGlvbiBvYmplY3RJZChvYmopIHsKICAgIGlmICghb2JqLmhhc093blByb3BlcnR5KCdfX2FzeW5jRmlsdGVyT2JqZWN0SURfXycpKSB7CiAgICAgIG9iai5fX2FzeW5jRmlsdGVyT2JqZWN0SURfXyA9ICsrbmV4dE9iamVjdElECiAgICB9CgogICAgcmV0dXJuIG9iai5fX2FzeW5jRmlsdGVyT2JqZWN0SURfXwogIH0KCiAgLy8gU28gdGhhdCBBbmd1bGFyIGRvZXMgbm90IGNhY2hlIHRoZSByZXR1cm4gdmFsdWUKICBhc3luY1snJHN0YXRlZnVsJ10gPSB0cnVlCgogIHJldHVybiBhc3luYwp9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgSGFsbHNwYWNlUmVzb3VyY2UgfSBmcm9tICd3ZWIvaHR0cC9oai9oYWxsc3BhY2UucmVzb3VyY2UnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gbnVtZXJpY09ubHkoKSB7CiAgcmV0dXJuIHsKICAgIHJlcXVpcmU6ICduZ01vZGVsJywKICAgIGxpbms6IGZ1bmN0aW9uIChzY29wZSwgZWxlbWVudCwgYXR0cnMsIG1vZGVsQ3RybCkgewogICAgICBtb2RlbEN0cmwuJHBhcnNlcnMucHVzaChmdW5jdGlvbiAoaW5wdXRWYWx1ZSkgewogICAgICAgIGxldCB0cmFuc2Zvcm1lZElucHV0ID0gaW5wdXRWYWx1ZQogICAgICAgICAgPyBpbnB1dFZhbHVlLnJlcGxhY2UoL1teXGQtXS9nLCAnJykKICAgICAgICAgIDogbnVsbAoKICAgICAgICBpZiAodHJhbnNmb3JtZWRJbnB1dCAhPSBpbnB1dFZhbHVlKSB7CiAgICAgICAgICBtb2RlbEN0cmwuJHNldFZpZXdWYWx1ZSh0cmFuc2Zvcm1lZElucHV0KQogICAgICAgICAgbW9kZWxDdHJsLiRyZW5kZXIoKQogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIHRyYW5zZm9ybWVkSW5wdXQKICAgICAgfSkKICAgIH0sCiAgfQp9Cg==</text>
+        <text encoding="base64">ICAgICAgPGFwcHMtc3RhdHVzCiAgICAgICAgZmxleAogICAgICAgIGhlYWRlcj0iUGVuZGluZyIKICAgICAgICBwYXRoPSIvcGVuZGluZyIKICAgICAgICBzcGFuPSJ3ZWVrIgogICAgICAgIHBhcmFtcz0iY3RybC5wYXJhbXMiPgogICAgICA8L2FwcHMtc3RhdHVzPgoKICAgICAgPHByb2plY3RlZC1zZXNzaW9ucwogICAgICAgIGZsZXgKICAgICAgICBwYXJhbXM9ImN0cmwucGFyYW1zIj4KICAgICAgPC9wcm9qZWN0ZWQtc2Vzc2lvbnM+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIHJlcGVhdEhlbHAoJHBhcnNlOiBJUGFyc2VTZXJ2aWNlKSB7CiAgcmV0dXJuIHsKICAgIGxpbms6IGZ1bmN0aW9uIChzY29wZSwgZWxlbWVudCwgYXR0cnMpIHsKICAgICAgbGV0IGNvbGxlY3Rpb24gPSAkcGFyc2UoYXR0cnMucmVwZWF0SGVscCkoc2NvcGUpCiAgICAgIGlmIChjb2xsZWN0aW9uID09IG51bGwpIHsKICAgICAgICBzY29wZS4kcHJldiA9IHVuZGVmaW5lZAogICAgICAgIHNjb3BlLiRuZXh0ID0gdW5kZWZpbmVkCiAgICAgIH0gZWxzZSB7CiAgICAgICAgaWYgKHNjb3BlLiRpbmRleCA+IDApIHNjb3BlLiRwcmV2ID0gY29sbGVjdGlvbltzY29wZS4kaW5kZXggLSAxXQogICAgICAgIGlmIChzY29wZS4kaW5kZXggPCBjb2xsZWN0aW9uLmxlbmd0aCAtIDEpCiAgICAgICAgICBzY29wZS4kbmV4dCA9IGNvbGxlY3Rpb25bc2NvcGUuJGluZGV4ICsgMV0KICAgICAgfQogICAgfSwKICB9Cn0KCg==</text>
+        <text encoding="base64">ICBzcGFuOiBUaW1lU3BhbiA9ICd3ZWVrJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gY2xvc2VzdEZvcm0oZWw6IGFueSkgewogIGxldCBwYXJlbnQgPSBlbC5wYXJlbnQoKQogIHdoaWxlIChwYXJlbnQubGVuZ3RoICYmIHBhcmVudFswXS50YWdOYW1lICE9PSAnRk9STScpIHsKICAgIHBhcmVudCA9IHBhcmVudC5wYXJlbnQoKQogIH0KICByZXR1cm4gcGFyZW50Cn0KCg==</text>
+        <text encoding="base64">aW1wb3J0IHRlbXBsYXRlIGZyb20gJ3dlYi92aWV3cy9hcnJvd2x5dGljcy9rcGlzL2xvb2tpbmctZm9yd2FyZC9wcm9qZWN0ZWQtaGFsbHNwYWNlL3Byb2plY3RlZC1oYWxsc3BhY2UuaHRtbCcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY21kRW50ZXIsIG5nRW50ZXIsIHJlcGVhdEhlbHAgfSBmcm9tICdjb21tb24vcGlwZXMvcGlwZXMnCg==</text>
+        <text encoding="base64">ZXhwb3J0IGNsYXNzIEhhbGxzcGFjZUJyZWFrZG93bkdyb3VwIGV4dGVuZHMgQXJyb3dEYXRlR3JvdXAgewogIEBUeXBlKCgpID0+IEhhbGxzcGFjZUJyZWFrZG93bikKICByb3dzOiBIYWxsc3BhY2VCcmVha2Rvd25bXQp9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s//ctrl.acc.partner</text>
+        <text>%s//hallspace</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>asdf</last-search>
+      <last-search>sessions</last-search>
       <last-offset />
-      <last-pattern>asdf</last-pattern>
-      <last-replace>ctrl.acc.partner</last-replace>
-      <last-substitute>ctrl.partner</last-substitute>
+      <last-pattern>sessions</last-pattern>
+      <last-replace>hallspace</last-replace>
+      <last-substitute>sessions</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
