@@ -185,6 +185,7 @@
         <entry>csv</entry>
         <entry>contents</entry>
         <entry>ui-grid-header-cell</entry>
+        <entry>ui-grid-cell</entry>
         <entry>asdf</entry>
       </history-search>
       <history-cmd>
@@ -293,11 +294,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-header-group-columns.html" timestamp="1591559618196">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/static/common/components/grid/light/light-grid.ts" timestamp="1591562059691">
         <mark key="'" line="60" column="54" />
         <mark key="[" line="46" column="12" />
@@ -305,10 +301,11 @@
         <mark key="." line="47" column="28" />
         <mark key="^" line="47" column="29" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/light/light-grid.sass" timestamp="1591567845365">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/light/light-grid.sass" timestamp="1591572277892">
+        <mark key="'" line="27" column="39" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/node_modules/angular-ui-grid/ui-grid.js" timestamp="1591560942508" />
       <file name="$USER_HOME$/code/sc/web/static/web/views/analytics/days/analytics-days.ts" timestamp="1591562979171">
@@ -317,6 +314,11 @@
         <mark key="^" line="317" column="12" />
         <mark key="." line="320" column="0" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/static/common/styles/vars.sass" timestamp="1591571729528">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/fuck.sass" timestamp="1591567329937">
         <mark key="'" line="41" column="3" />
         <mark key="[" line="43" column="0" />
@@ -324,12 +326,18 @@
         <mark key="^" line="36" column="21" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" timestamp="1591561094454">
-        <mark key="'" line="40" column="9" />
-        <mark key="[" line="195" column="21" />
-        <mark key="]" line="195" column="25" />
-        <mark key="^" line="195" column="25" />
-        <mark key="." line="195" column="24" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" timestamp="1591570936250">
+        <mark key="'" line="95" column="0" />
+        <mark key="[" line="87" column="16" />
+        <mark key="]" line="87" column="18" />
+        <mark key="^" line="87" column="18" />
+        <mark key="." line="87" column="17" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.sass" timestamp="1591572569659">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="19" />
+        <mark key="^" line="6" column="19" />
+        <mark key="." line="6" column="18" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/http/billing/stripe/customers.resource.ts" timestamp="1591562650685" />
       <file name="$USER_HOME$/code/sc/web/static/web/views/settings/billing/products/customer/details/customer-details.dialog.ts" timestamp="1591562971802">
@@ -342,25 +350,19 @@
         <mark key="." line="94" column="30" />
         <mark key="^" line="96" column="15" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/grid.sass" timestamp="1591567913446">
-        <mark key="'" line="279" column="0" />
-        <mark key="[" line="309" column="9" />
-        <mark key="]" line="309" column="25" />
-        <mark key="." line="309" column="24" />
-        <mark key="^" line="309" column="25" />
+      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/grid.sass" timestamp="1591571697117">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="308" column="0" />
+        <mark key="]" line="308" column="0" />
+        <mark key="." line="308" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/account/__init__.py" timestamp="1591563144015" />
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/look-forward/arrow-look-forward.html" timestamp="1591560464574">
-        <mark key="[" line="29" column="19" />
-        <mark key="]" line="30" column="26" />
-        <mark key="^" line="30" column="26" />
-        <mark key="." line="30" column="25" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" timestamp="1591567857921">
-        <mark key="'" line="60" column="20" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" timestamp="1591572418167">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="68" column="10" />
+        <mark key="]" line="68" column="8" />
+        <mark key="." line="68" column="7" />
+        <mark key="^" line="68" column="8" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.service.ts" timestamp="1591560790748">
         <mark key="'" line="64" column="2" />
@@ -387,21 +389,6 @@
       <file name="$USER_HOME$/code/sc/web/static/web/views/analytics/days/analytics-days.html" timestamp="1591562507017" />
     </filemarks>
     <jumps>
-      <jump line="244" column="4" filename="$USER_HOME$/code/sc/web/static/common/components/grid/grid.sass" />
-      <jump line="29" column="0" filename="$USER_HOME$/code/sc/web/static/common/components/grid/grid.sass" />
-      <jump line="234" column="0" filename="$USER_HOME$/code/sc/web/static/common/components/grid/grid.sass" />
-      <jump line="253" column="4" filename="$USER_HOME$/code/sc/web/static/common/components/grid/grid.sass" />
-      <jump line="34" column="0" filename="$USER_HOME$/code/sc/web/static/common/components/grid/grid.sass" />
-      <jump line="58" column="35" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" />
-      <jump line="77" column="6" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/hallspace/kpis.py" />
-      <jump line="69" column="6" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
-      <jump line="86" column="18" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
-      <jump line="102" column="17" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
-      <jump line="12" column="25" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
-      <jump line="103" column="19" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
-      <jump line="64" column="8" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
-      <jump line="66" column="13" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
-      <jump line="110" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
       <jump line="93" column="39" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
       <jump line="298" column="21" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/hallspace-summary/hallspace-summary.ts" />
       <jump line="41" column="31" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/charges/arrow-charges.html" />
@@ -487,15 +474,30 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/settings/billing/products/customer/details/customer-details.dialog.html" />
       <jump line="8" column="27" filename="$USER_HOME$/code/sc/web/static/web/views/settings/billing/products/customer/details/customer-details.dialog.ts" />
       <jump line="68" column="24" filename="$USER_HOME$/code/sc/web/static/web/views/settings/billing/products/customer/details/customer-details.dialog.html" />
+      <jump line="70" column="36" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" />
+      <jump line="65" column="3" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" />
+      <jump line="84" column="7" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" />
+      <jump line="98" column="7" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" />
+      <jump line="33" column="11" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" />
+      <jump line="39" column="11" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" />
+      <jump line="51" column="7" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" />
+      <jump line="95" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
+      <jump line="9" column="0" filename="$USER_HOME$/code/sc/web/static/common/components/grid/grid.sass" />
+      <jump line="308" column="0" filename="$USER_HOME$/code/sc/web/static/common/components/grid/grid.sass" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/common/components/grid/grid.sass" />
+      <jump line="101" column="41" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" />
+      <jump line="22" column="39" filename="$USER_HOME$/code/sc/web/static/common/components/grid/light/light-grid.sass" />
+      <jump line="110" column="0" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" />
+      <jump line="58" column="0" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="+" type="4">
+        <text>41</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>41</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -510,28 +512,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxlZnQ6IDUwJQogICAgLXdlYmtpdC10cmFuc2Zvcm06IHRyYW5zbGF0ZVgoLTUwJSkKICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWCgtNTAlKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">QGltcG9ydCAiZ3JvdXAtY29sdW1ucy9mdWNrIgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiA1MDAK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChsb2Muc3RhdGUgJiYgbG9jLnN0YXRlQWJicigpKSB7CiAgICAgICAgICAgIHVzX3N0YXRlc1tsb2Muc3RhdGVBYmJyKCldID0gdHJ1ZQogICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IHdoaXRlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPG1kLXNlbGVjdC1oZWFkZXI+CiAgICAgICAgPG1kLWJ1dHRvbiBjbGFzcz0ibWQtcmFpc2VkIG1kLXByaW1hcnkiIG5nLWNsaWNrPSIkbWRTZWxlY3QuaGlkZSgkZXZlbnQpIj5TaG93IFBhdGllbnRzPC9tZC1idXR0b24+CiAgICAgIDwvbWQtc2VsZWN0LWhlYWRlcj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgb25TYW1lU2hpcHBpbmcoKSB7CiAgICB0aGlzLiRyZXMub25TYW1lKHRoaXMuYywgdGhpcy5zYW1lU2hpcHBpbmcpCiAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAkb25Jbml0KCkgewogICAgdGhpcy5jID0gdGhpcy5jIHx8IG1lKFN0cmlwZUN1c3RvbWVyLCB7IG5hbWU6IGFwcC5hY2NvdW50Lm5hbWUgfSkKICAgIHRoaXMuc2FtZVNoaXBwaW5nID0gdGhpcy4kcmVzLmlzU2hpcHBpbmdTYW1lKHRoaXMuYykKICB9Cgo=</text>
+        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiA1MDAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgY29uc3RydWN0b3IocHJpdmF0ZSAkcmVzOiBTdHJpcGVDdXN0b21lcnNSZXNvdXJjZSkge30K</text>
+        <text encoding="base64">JGdyaWQtYm9yZGVyOiBzb2xpZCAxcHggI2UzZTNlMwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s//xls</text>
