@@ -291,13 +291,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/apps-status/apps-status.ts" timestamp="1591544637706">
-        <mark key="'" line="21" column="26" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="47" column="41" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-summary-card/arrow-table.ts" timestamp="1591549428077">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="56" column="0" />
@@ -332,21 +325,17 @@
         <mark key="^" line="27" column="30" />
         <mark key="." line="27" column="29" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" timestamp="1591551658405">
-        <mark key="'" line="122" column="24" />
-        <mark key="[" line="124" column="33" />
-        <mark key="]" line="124" column="34" />
-        <mark key="." line="124" column="33" />
-        <mark key="^" line="124" column="34" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" timestamp="1591552553011">
+        <mark key="'" line="146" column="0" />
+        <mark key="[" line="168" column="56" />
+        <mark key="]" line="168" column="72" />
+        <mark key="." line="168" column="71" />
+        <mark key="^" line="168" column="72" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/node_modules/angular-ui-grid/ui-grid.core.js" timestamp="1591551176825" />
-      <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/appointments/exports.py" timestamp="1591544293376">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="17" column="64" />
-        <mark key="]" line="17" column="64" />
-        <mark key="." line="17" column="63" />
-        <mark key="^" line="17" column="64" />
+      <file name="$USER_HOME$/code/sc/web/node_modules/angular-ui-grid/ui-grid.core.js" timestamp="1591552636375">
+        <mark key="'" line="147" column="29" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/node_modules/@types/ui-grid/index.d.ts" timestamp="1591552202413" />
       <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/sessions_view.py" timestamp="1591549491868">
         <mark key="[" line="24" column="41" />
         <mark key="]" line="24" column="41" />
@@ -360,12 +349,11 @@
         <mark key="^" line="34" column="50" />
         <mark key="." line="34" column="49" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/arrow-appointments.html" timestamp="1591544632159">
-        <mark key="'" line="32" column="8" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="32" column="25" />
+      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-footer-group-columns.html" timestamp="1591552960027">
+        <mark key="[" line="22" column="53" />
+        <mark key="]" line="22" column="60" />
+        <mark key="^" line="22" column="60" />
+        <mark key="." line="22" column="59" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/apps-status/apps-status.html" timestamp="1591544649354">
         <mark key="[" line="12" column="18" />
@@ -379,17 +367,24 @@
         <mark key="^" line="21" column="16" />
         <mark key="." line="21" column="15" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/grid.sass" timestamp="1591553262352">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
+        <mark key="^" line="103" column="22" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/appointments/types.py" timestamp="1591549819436">
         <mark key="[" line="26" column="50" />
         <mark key="]" line="26" column="64" />
         <mark key="." line="26" column="63" />
         <mark key="^" line="26" column="64" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/details/appointment-details.ts" timestamp="1591544486116">
-        <mark key="'" line="29" column="33" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/code/sc/web/static/common/typings/ng-modules.d.ts" timestamp="1591552230479">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="13" />
+        <mark key="^" line="10" column="13" />
+        <mark key="." line="10" column="12" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/common/constants.ts" timestamp="1591551180384">
         <mark key="'" line="85" column="2" />
@@ -402,12 +397,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="13" filename="$USER_HOME$/code/sc/web/static/web/http/hj/charges.resource.ts" />
-      <jump line="19" column="13" filename="$USER_HOME$/code/sc/web/static/web/http/hj/payments.resource.ts" />
-      <jump line="16" column="13" filename="$USER_HOME$/code/sc/web/static/web/http/hj/adjustments.resource.ts" />
-      <jump line="138" column="18" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/exports.py" />
-      <jump line="100" column="4" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/common.py" />
-      <jump line="130" column="0" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/exports.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/exports.py" />
       <jump line="56" column="51" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/common.py" />
       <jump line="45" column="61" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/common.py" />
@@ -502,15 +491,21 @@
       <jump line="85" column="2" filename="$USER_HOME$/code/sc/web/static/common/constants.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/common/services/enums.ts" />
       <jump line="122" column="24" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
+      <jump line="135" column="28" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
+      <jump line="158" column="20" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
+      <jump line="5" column="57" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
+      <jump line="127" column="16" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
+      <jump line="146" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
+      <jump line="147" column="29" filename="$USER_HOME$/code/sc/web/node_modules/angular-ui-grid/ui-grid.core.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdjJywgYykK</text>
+        <text encoding="base64">ICAgICAgZGlzcGxheTogZmxleAo=</text>
       </register>
       <register name="-" type="4">
-        <text>b', b</text>
+        <text encoding="base64">bGV0IA==</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -519,34 +514,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdjJywgYykK</text>
+        <text encoding="base64">ICAgICAgZGlzcGxheTogZmxleAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGEsIGIsIGMK</text>
+        <text encoding="base64">ICAgICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbHMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCB2YWwgPSByb3cuZW50aXR5W2NvbC5jb2xEZWYuZ3JvdXBLZXldLm1vcm5fdXRpbAogICAgICAgICAgbGV0IHJldCA9IHRoaXMuZ2V0U2hhZGUodmFsKQogICAgICAgICAgcmV0dXJuIHJldCArICcgY2VudGVyJwo=</text>
+        <text encoding="base64">ICAgICAgYWdncmVnYXRpb25UeXBlOiBHcmlkQWdnVHlwZS5hdmcsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbC5jb2xEZWYuZGlzcGxheU5hbWUKICAgICAgICAgIGNvbnNvbGUubG9nKCdyb3dzJywgcm93cykKICAgICAgICAgIGNvbnNvbGUubG9nKCdjb2wnLCBjb2wpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjcmVhdGVkX3RpbWU6IEFycm93ID0gYXR0cmliKGNvbnZlcnRlcj10b19hcnJvdykK</text>
+        <text encoding="base64">ICAgIGVuYWJsZUZpbHRlcmluZzogYm9vbGVhbgogICAgc2VhcmNoPzogYW55CiAgICBzb3J0ZXI/OiBzdHJpbmcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCBxdWVyeSA9IHByZXBRdWVyeSh0aGlzLnF1ZXJ5a2V5LCBzcmMuY2F0ZWdvcnkpCg==</text>
+        <text encoding="base64">ICAgICAgICBhZ2dyZWdhdGlvbkhpZGVMYWJlbDogdHJ1ZSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjZWxsQ2xhc3M6IChncmlkLCByb3csIGNvbCkgPT4gY2VsbENsYXNzKGdyaWQsIHJvdywgY29sLCAnbW9ybl91dGlsJyksCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//xls</text>
