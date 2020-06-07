@@ -183,8 +183,9 @@
         <entry>aeaeae</entry>
         <entry>pct_</entry>
         <entry>csv</entry>
-        <entry>asdf</entry>
         <entry>contents</entry>
+        <entry>ui-grid-header-cell</entry>
+        <entry>asdf</entry>
       </history-search>
       <history-cmd>
         <entry>SplitVertically</entry>
@@ -292,19 +293,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/light/light-grid.ts" timestamp="1591556240226">
-        <mark key="'" line="31" column="2" />
-        <mark key="[" line="48" column="43" />
-        <mark key="]" line="48" column="44" />
-        <mark key="." line="48" column="43" />
-        <mark key="^" line="48" column="44" />
+      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-header-group-columns.html" timestamp="1591559618196">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-summary-card/arrow-table.ts" timestamp="1591549428077">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="54" column="13" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/light/light-grid.ts" timestamp="1591561072433">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="46" column="12" />
+        <mark key="]" line="47" column="29" />
+        <mark key="." line="47" column="28" />
+        <mark key="^" line="47" column="29" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/node_modules/angular-ui-grid/ui-grid.js" timestamp="1591560942508" />
       <file name="$USER_HOME$/code/sc/web/static/common/services/enums.ts" timestamp="1591551234376">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="240" column="0" />
@@ -312,56 +313,42 @@
         <mark key="^" line="239" column="8" />
         <mark key="." line="240" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/platforms/reviews/facebook.py" timestamp="1591549724210" />
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-summary-card/arrow-chart.ts" timestamp="1591549359248">
-        <mark key="'" line="86" column="3" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="^" line="83" column="28" />
-        <mark key="." line="83" column="0" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/http/hj/sessions.resource.ts" timestamp="1591549850754">
         <mark key="[" line="4" column="60" />
         <mark key="]" line="4" column="66" />
         <mark key="." line="4" column="65" />
         <mark key="^" line="4" column="66" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" timestamp="1591556080438" />
+      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/fuck.sass" timestamp="1591560544377">
+        <mark key="'" line="41" column="3" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="36" column="21" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" timestamp="1591561094454">
+        <mark key="'" line="40" column="9" />
+        <mark key="[" line="195" column="21" />
+        <mark key="]" line="195" column="25" />
+        <mark key="^" line="195" column="25" />
+        <mark key="." line="195" column="24" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/node_modules/angular-ui-grid/ui-grid.core.js" timestamp="1591552636375">
         <mark key="'" line="147" column="29" />
       </file>
       <file name="$USER_HOME$/code/sc/web/node_modules/@types/ui-grid/index.d.ts" timestamp="1591552202413" />
-      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/sessions_view.py" timestamp="1591549491868">
-        <mark key="[" line="24" column="41" />
-        <mark key="]" line="24" column="41" />
-        <mark key="^" line="24" column="41" />
-        <mark key="." line="24" column="40" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-summary-card/arrow-summary-card.ts" timestamp="1591549406399">
-        <mark key="'" line="79" column="0" />
-        <mark key="[" line="34" column="30" />
-        <mark key="]" line="34" column="50" />
-        <mark key="^" line="34" column="50" />
-        <mark key="." line="34" column="49" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-footer-group-columns.html" timestamp="1591552960027">
         <mark key="[" line="22" column="53" />
         <mark key="]" line="22" column="60" />
         <mark key="^" line="22" column="60" />
         <mark key="." line="22" column="59" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/arrowlytics.ints.ts" timestamp="1591549545024">
-        <mark key="[" line="21" column="13" />
-        <mark key="]" line="21" column="16" />
-        <mark key="^" line="21" column="16" />
-        <mark key="." line="21" column="15" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/grid.sass" timestamp="1591556166670">
-        <mark key="'" line="5" column="7" />
-        <mark key="[" line="306" column="0" />
-        <mark key="]" line="306" column="8" />
-        <mark key="." line="306" column="8" />
-        <mark key="^" line="103" column="22" />
+      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/grid.sass" timestamp="1591559850124">
+        <mark key="'" line="279" column="0" />
+        <mark key="[" line="308" column="42" />
+        <mark key="]" line="309" column="27" />
+        <mark key="." line="309" column="26" />
+        <mark key="^" line="309" column="27" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/appointments/types.py" timestamp="1591549819436">
         <mark key="[" line="26" column="50" />
@@ -369,18 +356,31 @@
         <mark key="." line="26" column="63" />
         <mark key="^" line="26" column="64" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" timestamp="1591557854395">
-        <mark key="'" line="40" column="20" />
-        <mark key="[" line="29" column="20" />
-        <mark key="]" line="29" column="26" />
-        <mark key="." line="29" column="25" />
-        <mark key="^" line="29" column="26" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/look-forward/arrow-look-forward.html" timestamp="1591560464574">
+        <mark key="[" line="29" column="19" />
+        <mark key="]" line="30" column="26" />
+        <mark key="^" line="30" column="26" />
+        <mark key="." line="30" column="25" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/typings/ng-modules.d.ts" timestamp="1591552230479">
-        <mark key="[" line="10" column="12" />
-        <mark key="]" line="10" column="13" />
-        <mark key="^" line="10" column="13" />
-        <mark key="." line="10" column="12" />
+      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" timestamp="1591559954413">
+        <mark key="'" line="54" column="20" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.service.ts" timestamp="1591560790748">
+        <mark key="'" line="64" column="2" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.ts" timestamp="1591561111106">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/common/typings/ng-modules.d.ts" timestamp="1591561008448">
+        <mark key="[" line="23" column="19" />
+        <mark key="]" line="23" column="20" />
+        <mark key="^" line="23" column="20" />
+        <mark key="." line="23" column="19" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/common/constants.ts" timestamp="1591551180384">
         <mark key="'" line="85" column="2" />
@@ -393,20 +393,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="4" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/exports.py" />
-      <jump line="24" column="13" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/procedure-groups-monthly/procedure-groups-monthly.ts" />
-      <jump line="21" column="3" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-summary-card/arrow-table.ts" />
-      <jump line="7" column="13" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-summary-card/arrow-summary-tables.ts" />
-      <jump line="56" column="2" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-summary-card/arrow-summary-tables.ts" />
-      <jump line="48" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/charges_view.py" />
-      <jump line="37" column="13" filename="$USER_HOME$/code/sc/web/static/web/views/survey-summary/overall-compare/overall-compare.ts" />
-      <jump line="37" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.html" />
-      <jump line="25" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.html" />
-      <jump line="102" column="24" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/common.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/common/components/grid/grid.sass" />
-      <jump line="16" column="15" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/config/offices/offices.ts" />
-      <jump line="28" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/config/offices/offices.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/config/offices/offices.html" />
       <jump line="32" column="0" filename="$USER_HOME$/code/sc/web/static/common/components/grid/grid.sass" />
       <jump line="153" column="21" filename="$USER_HOME$/code/sc/web/static/common/components/grid/grid.sass" />
@@ -493,51 +479,65 @@
       <jump line="31" column="2" filename="$USER_HOME$/code/sc/web/static/common/components/grid/light/light-grid.ts" />
       <jump line="13" column="0" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" />
       <jump line="31" column="20" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" />
+      <jump line="279" column="0" filename="$USER_HOME$/code/sc/web/static/common/components/grid/grid.sass" />
+      <jump line="83" column="37" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/fuck.sass" />
+      <jump line="8" column="0" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/fuck.sass" />
+      <jump line="35" column="0" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/fuck.sass" />
+      <jump line="55" column="37" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/fuck.sass" />
+      <jump line="58" column="7" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/fuck.sass" />
+      <jump line="69" column="37" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/fuck.sass" />
+      <jump line="72" column="7" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/fuck.sass" />
+      <jump line="23" column="35" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/fuck.sass" />
+      <jump line="26" column="33" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/fuck.sass" />
+      <jump line="29" column="3" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/fuck.sass" />
+      <jump line="64" column="2" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.service.ts" />
+      <jump line="62" column="0" filename="$USER_HOME$/code/sc/web/static/common/components/grid/light/light-grid.ts" />
+      <jump line="40" column="9" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>middle</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdGVUNLIFlPVScpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>middle</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>contents</text>
+        <text>asdf</text>
       </register>
       <register name="0" type="4">
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyOiAxcHggc29saWQgcmVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdGVUNLIFlPVScpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygkZWxtKQogICAgICAgIGNvbnNvbGUubG9nKCRhdHRycykKICAgICAgICAvLyAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LmNvbnRhaW5lcgogIHBvc2l0aW9uOiByZWxhdGl2ZQogIHRleHQtYWxpZ246IGNlbnRlcgogIGRpc3BsYXk6IGJsb2NrCiAgaGVpZ2h0OiAxMDAlCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGxheTogZmxleAo=</text>
+        <text encoding="base64">ICAgICAgICBncmlkR3JvdXBDb2x1bW5zU2VydmljZS5kZWZhdWx0R3JpZE9wdGlvbnModWlHcmlkQ3RybC5ncmlkKQogICAgICAgIHVpR3JpZEN0cmwuZ3JpZC5yZWdpc3RlckNvbHVtbnNQcm9jZXNzb3IoCiAgICAgICAgICBncmlkR3JvdXBDb2x1bW5zU2VydmljZS5ncm91cENvbHVtbnNQcm9jZXNzb3IsCiAgICAgICAgICAxMTAwLAogICAgICAgICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyCg==</text>
+        <text encoding="base64">ICAgIC8vdmVydGljYWwtYWxpZ246IG1pZGRsZQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9wOiA1MCUKICAgICAgICAgICAgdHJhbnNmb3JtOiB0cmFuc2xhdGVZKC01MCUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYWdncmVnYXRpb25UeXBlOiBHcmlkQWdnVHlwZS5hdmcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9zaXRpb246IGFic29sdXRlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbC5jb2xEZWYuZGlzcGxheU5hbWUKICAgICAgICAgIGNvbnNvbGUubG9nKCdyb3dzJywgcm93cykKICAgICAgICAgIGNvbnNvbGUubG9nKCdjb2wnLCBjb2wpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVpZ2h0OiBhdXRvCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//xls</text>
@@ -546,13 +546,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>contents</last-search>
+      <last-search>asdf</last-search>
       <last-offset />
-      <last-pattern>contents</last-pattern>
+      <last-pattern>asdf</last-pattern>
       <last-replace>xls</last-replace>
       <last-substitute>csv</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
