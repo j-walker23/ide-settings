@@ -292,6 +292,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/light/light-grid.ts" timestamp="1591556240226">
+        <mark key="'" line="31" column="2" />
+        <mark key="[" line="48" column="43" />
+        <mark key="]" line="48" column="44" />
+        <mark key="." line="48" column="43" />
+        <mark key="^" line="48" column="44" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-summary-card/arrow-table.ts" timestamp="1591549428077">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
@@ -319,12 +326,7 @@
         <mark key="." line="4" column="65" />
         <mark key="^" line="4" column="66" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-summary-card/arrow-summary-card.html" timestamp="1591544656848">
-        <mark key="[" line="26" column="32" />
-        <mark key="]" line="27" column="30" />
-        <mark key="^" line="27" column="30" />
-        <mark key="." line="27" column="29" />
-      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" timestamp="1591556080438" />
       <file name="$USER_HOME$/code/sc/web/node_modules/angular-ui-grid/ui-grid.core.js" timestamp="1591552636375">
         <mark key="'" line="147" column="29" />
       </file>
@@ -354,11 +356,11 @@
         <mark key="^" line="21" column="16" />
         <mark key="." line="21" column="15" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/grid.sass" timestamp="1591553262352">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
+      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/grid.sass" timestamp="1591556166670">
+        <mark key="'" line="5" column="7" />
+        <mark key="[" line="306" column="0" />
+        <mark key="]" line="306" column="8" />
+        <mark key="." line="306" column="8" />
         <mark key="^" line="103" column="22" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/appointments/types.py" timestamp="1591549819436">
@@ -390,9 +392,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="51" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/common.py" />
-      <jump line="45" column="61" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/common.py" />
-      <jump line="60" column="3" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/common.py" />
       <jump line="110" column="12" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/hallspace/kpis.py" />
       <jump line="91" column="4" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/exports.py" />
       <jump line="24" column="13" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/procedure-groups-monthly/procedure-groups-monthly.ts" />
@@ -490,6 +489,9 @@
       <jump line="146" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
       <jump line="147" column="29" filename="$USER_HOME$/code/sc/web/node_modules/angular-ui-grid/ui-grid.core.js" />
       <jump line="31" column="18" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" />
+      <jump line="101" column="13" filename="$USER_HOME$/code/sc/web/static/common/components/grid/grid.sass" />
+      <jump line="5" column="7" filename="$USER_HOME$/code/sc/web/static/common/components/grid/grid.sass" />
+      <jump line="31" column="2" filename="$USER_HOME$/code/sc/web/static/common/components/grid/light/light-grid.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
