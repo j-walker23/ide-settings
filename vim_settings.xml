@@ -296,9 +296,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/encounter.py" timestamp="1591642925378">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/sessions/exports.py" timestamp="1591644411473">
         <mark key="[" line="9" column="50" />
         <mark key="]" line="9" column="76" />
@@ -313,20 +310,25 @@
         <mark key="^" line="152" column="19" />
         <mark key="." line="153" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-summary-card/arrow-summary-card.ts" timestamp="1591643878764">
-        <mark key="[" line="120" column="17" />
-        <mark key="]" line="120" column="51" />
-        <mark key="." line="120" column="50" />
-        <mark key="^" line="120" column="51" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/hallspace-office-util/hallspace-office-util.ts" timestamp="1591643973075">
         <mark key="[" line="5" column="67" />
         <mark key="]" line="5" column="84" />
         <mark key="^" line="5" column="84" />
         <mark key="." line="5" column="83" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-common.ts" timestamp="1591644287880" />
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/charge.py" timestamp="1591642917874">
+      <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" timestamp="1591650654801">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1591649507310">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1591649419682">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/coms/utils/times.py" timestamp="1591643739894">
@@ -344,9 +346,6 @@
         <mark key="]" line="23" column="31" />
         <mark key="." line="23" column="30" />
         <mark key="^" line="23" column="31" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/demographic.py" timestamp="1591642920833">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/hallspace-office-util/hallspace-office-util.html" timestamp="1591643990887">
         <mark key="[" line="8" column="21" />
@@ -375,14 +374,14 @@
         <mark key="^" line="34" column="79" />
         <mark key="." line="34" column="78" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/doctor.py" timestamp="1591642922748">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1591650863526">
+        <mark key="'" line="167" column="32" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="24" filename="$USER_HOME$/code/sc/web/static/web/views/settings/billing/products/customer/details/customer-details.dialog.html" />
-      <jump line="70" column="36" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" />
-      <jump line="65" column="3" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" />
       <jump line="84" column="7" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" />
       <jump line="98" column="7" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" />
       <jump line="33" column="11" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" />
@@ -480,15 +479,18 @@
       <jump line="37" column="33" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/base.py" />
       <jump line="8" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/hallspace-office-util/hallspace-office-util.ts" />
       <jump line="189" column="0" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/base.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
+      <jump line="746" column="26" filename="$USER_HOME$/code/sc/web/cli/john.py" />
+      <jump line="170" column="32" filename="$USER_HOME$/code/sc/web/cli/john.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">IyBmcm9tIHNjLmFwcC5hcnJvd2x5dGljcyBpbXBvcnQgY29tbW9uLCBrcGlzCiMgZnJvbSBzYy5hcHAuYXJyb3dseXRpY3MuY2hhcmdlcy50eXBlcyBpbXBvcnQgQ2hhcmdlc0FyZ3MK</text>
       </register>
       <register name="-" type="4">
-        <text>CompareType</text>
+        <text encoding="base64">aXRzIG1hcmtlZCBhcyA=</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -497,34 +499,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">IyBmcm9tIHNjLmFwcC5hcnJvd2x5dGljcyBpbXBvcnQgY29tbW9uLCBrcGlzCiMgZnJvbSBzYy5hcHAuYXJyb3dseXRpY3MuY2hhcmdlcy50eXBlcyBpbXBvcnQgQ2hhcmdlc0FyZ3MK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CgpPayBATGF1cmVuLCBoZXJlIGlzIHdoYXQgSSBoYXZlIGZvciB5b3UuCgpTdW1tYXJ5OiBTZWVtcyBsaWtlIEdvb2dsZSBpcyBpbiB0cmFuc2l0aW9uIG9mIG1ha2luZyBQb3N0cyB3b3JrIGZvciBldmVyeW9uZS4KQW5kIGR1cmluZyB0aGUgbWVhbiB0aW1lLCBzb21lIGxvY2F0aW9ucyB3b3JrIHdoZW4gdGhleSBzYXkgdGhleSB3b24ndCwgYW5kIHNvbWUgZmFpbCwgd2hlbiB0aGV5IHNheSB0aGV5IHNob3VsZCB3b3JrLgpXb25kZXJmdWxseSBpbmNvbnNpc3RlbnQuCgpEZXRhaWxzOiBQb3N0cyAod2hhdCBHb29nbGUgY2FsbHMgTG9jYWwgUG9zdHMgc29tZXRpbWVzKSwgd2lsbCBub3Qgd29yayBmb3IgbG9jYXRpb25zCnRoZXkgbWFyayBhcyBwYXJ0IG9mIGEgY2hhaW4uIFNvbWV0aGluZyB3ZSBkb24ndCBoYXZlIGNvbnRyb2wgb3ZlciAodGhhdCBpIGtub3cgb2YsIEpUQiBtaWdodCBub3cgYmV0dGVyKS4KClRoYXQgaXMgbWFya2VkIGZvciBUd2luIENpdHkgU3BpbmUgbG9jYXRpb25zLiBNZWFuaW5nLCB0ZWNobmljYWxseSBubyBwb3N0cyBzaG91bGQgd29yay4KQnV0IEp1c3RpbiBoYXMgZm91bmQgb3RoZXIgbG9jYXRpb25zIGZvciBvdGhlciBhY2NvdW50cyB3aGVyZSB0aGV5IGFyZSBtYXJrZWQgZnJvbSBHb29nbGUsIGJ1dCB0aGVuIHRoZXkgc3RpbGwgd29yay4KVGhhdCBpcyB0aGUgaW5jb25zaXN0ZW50IHBhcnQuClNhZGx5IEkgZG9uJ3QgaGF2ZSBtdWNoIGZvciB5b3Ugc29sdXRpb24gd2lzZSwgYnV0IGhlcmUgaXMgYWxsIHRoZSBpbmZvLgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxldCBwYXJhbXMgPSB0aGlzLnBhcmFtcwo=</text>
+        <text encoding="base64">ZnJvbSBzYy5hcHAuYXJyb3dseXRpY3MuaGFsbHNwYWNlLmtwaXMgaW1wb3J0IG9mZmljZV9icmVha2Rvd24KZnJvbSBzYy5hcHAuYXJyb3dseXRpY3MuaGFsbHNwYWNlLnR5cGVzIGltcG9ydCBIYWxsc3BhY2VBcmdzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCBzcGFuID0gdGhpcy5zcGFuCg==</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8bGlnaHQtZ3JpZAogICAgICAgICAgW2dyb3VwXT0idHJ1ZSIKICAgICAgICAgIGRhdGE9ImN0cmwucm93cyIKICAgICAgICAgIG9wdGlvbnM9ImN0cmwuZ3JpZCI+CiAgICAgICAgPC9saWdodC1ncmlkPgo=</text>
+        <text encoding="base64">ICAgIGxldCBwYXJhbXMgPSB0aGlzLnBhcmFtcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCBzcGFuID0gdGhpcy5zcGFuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgZGF0YSA9IFtdCiAgZm9yIHJvdyBpbiBxOgogICAgZGF0YS5hcHBlbmQoCiAgICAgIHsKICAgICAgICAqKnJvdy5fYXNkaWN0KCksCiAgICAgICAgInZhbCI6IHJvdy51dGlsLAogICAgICAgICJ0eXBlIjogInBlcmNlbnRhZ2UiLAogICAgICAgICJkYXRlIjogdGltZXMuZGF0ZV9mcm9tX2ludCgieWVhciIsIHJvdy55ZWFycyksCiAgICAgIH0KICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bGlnaHQtZ3JpZAogICAgICAgICAgW2dyb3VwXT0idHJ1ZSIKICAgICAgICAgIGRhdGE9ImN0cmwucm93cyIKICAgICAgICAgIG9wdGlvbnM9ImN0cmwuZ3JpZCI+CiAgICAgICAgPC9saWdodC1ncmlkPgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s//hallspace</text>
