@@ -296,7 +296,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/sc/app/reports/aspire/build.py" timestamp="1591654858117">
+      <file name="$USER_HOME$/code/sc/web/sc/app/reports/aspire/build.py" timestamp="1591656705101">
         <mark key="'" line="250" column="2" />
       </file>
       <file name="/a.dummy" timestamp="1591653388176">
@@ -330,10 +330,10 @@
       </file>
       <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.7/enum.py" timestamp="1591654213482" />
       <file name="$USER_HOME$/code/sc/web/static/web/views/reports/list/reports-list.ts" timestamp="1591652130506">
-        <mark key="'" line="69" column="2" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+        <mark key="'" line="72" column="2" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/arrowlytics/types.py" timestamp="1591653747470">
         <mark key="[" line="0" column="0" />
@@ -341,7 +341,6 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/reports/one/reports-one.ts" timestamp="1591652070680" />
       <file name="$USER_HOME$/code/sc/web/sc/coms/utils/times.py" timestamp="1591654064787">
         <mark key="[" line="23" column="10" />
         <mark key="]" line="23" column="19" />
@@ -473,10 +472,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAgIHZhbCA9IAo=</text>
+        <text encoding="base64">ICBpZiBhcHAuZGV2Ogo=</text>
       </register>
       <register name="-" type="4">
-        <text>self.type == ChartValueType.percentage and val * 100 or val</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -485,34 +484,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCA9IAo=</text>
+        <text encoding="base64">ICBpZiBhcHAuZGV2Ogo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICIiIiIiIgo=</text>
+        <text encoding="base64">ICAgIHVzZXJzID0gWwogICAgICB1CiAgICAgIGZvciB1IGluIHVzZXJzCiAgICAgIGlmIGFueShlIGluIHUuZW1haWwgZm9yIGUgaW4gWyJ3YWxrZXIiLCAibWF4d2VsbCIsICJqdXN0aW4iLCAidGF5bG9yIl0pCiAgICBdCiAgICB0b3MgPSBbRW1haWwodS5lbWFpbCwgdS5uYW1lKSBmb3IgdSBpbiB1c2Vyc10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCA9IHNlbGYudmFsCg==</text>
+        <text encoding="base64">CiAgc2tpcHMgPSBbImRibGFrZUBzb2NpYWxjbGltZS5jb20iLCAiYWFsbGVuQHNvY2lhbGNsaW1lLmNvbSJdCiAgdXNlcnMgPSAoCiAgICBVc2VyLnNlYXJjaChVc2VyLnJvbGVzLmFueShSb2xlLm5hbWUuaW5fKGNvbnN0LnJvbGVzX3N1cGVyKSksIGZpZWxkcz0iZW1haWwsbmFtZSIpCiAgICAgIC5maWx0ZXIoCiAgICAgIH5Vc2VyLmVtYWlsLmluXyhza2lwcyksCiAgICAgIG9yXyhVc2VyLmVtYWlsLmNvbnRhaW5zKCJzb2NpYWxjbGltZSIpLCBVc2VyLmVtYWlsLmNvbnRhaW5zKCJzb2NpYWxjbGltYiIpKSwKICAgICkKICAgICAgLmFsbCgpCiAgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgX2dlbmVyYXRlX25leHRfdmFsdWVfKG5hbWUsIHN0YXJ0LCBjb3VudCwgbGFzdF92YWx1ZXMpOgogICAgcmV0dXJuIG5hbWUK</text>
+        <text encoding="base64">ICAgICdzbWF4d2VsbCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhcmdzID0gewogICAgImZpbHRlcnMiOiB7ImRhdGUiOiBbInJhbmdlIiwgWyIyMDIwLTA2LTA3VDAwOjAwOjAwWiIsICIyMDIwLTA3LTA3VDIzOjU5OjU5WiJdXX0sCiAgICAicXVlcnkiOiAiIiwKICAgICJzcGFuIjogImRheSIsCiAgfQoKICBhcmdzID0gSGFsbHNwYWNlQXJncy5mb3JfdWkoYXJncywgU3RhdHVzVHlwZS5QZW5kaW5nKQoKICByID0gb2ZmaWNlX2JyZWFrZG93bihhcmdzKQoKICAjIHByZXR0eShmb3JtYXRfbGlzdChxKSkKICAjIHByZXR0eShwcmVwYXJlX2Fycm93X3Jvd3MoYXJncywgcSkpCg==</text>
+        <text encoding="base64">ICAgIHZhbCA9IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB3ZWVrID0gIndlZWsiCiAgbW9udGggPSAibW9udGgiCiAgeWVhciA9ICJ5ZWFyIgo=</text>
+        <text encoding="base64">ICAgICIiIiIiIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRyeToKICAgICAgcmV0dXJuIHRvX2hqX2Fycm93KHYsIGNscy5mb3JtYXQpCiAgICBleGNlcHQgVmFsdWVFcnJvcjoKICAgICAgaWYgY2xzLnNpbGVudDoKICAgICAgICByZXR1cm4gTm9uZQogICAgICByYWlzZQo=</text>
+        <text encoding="base64">ICAgIHZhbCA9IHNlbGYudmFsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzaWxlbnQgPSBOb25lCg==</text>
+        <text encoding="base64">ICBkZWYgX2dlbmVyYXRlX25leHRfdmFsdWVfKG5hbWUsIHN0YXJ0LCBjb3VudCwgbGFzdF92YWx1ZXMpOgogICAgcmV0dXJuIG5hbWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbmFtZTogdGhpcy5wYXJhbXMubmFtZSwK</text>
+        <text encoding="base64">ICBhcmdzID0gewogICAgImZpbHRlcnMiOiB7ImRhdGUiOiBbInJhbmdlIiwgWyIyMDIwLTA2LTA3VDAwOjAwOjAwWiIsICIyMDIwLTA3LTA3VDIzOjU5OjU5WiJdXX0sCiAgICAicXVlcnkiOiAiIiwKICAgICJzcGFuIjogImRheSIsCiAgfQoKICBhcmdzID0gSGFsbHNwYWNlQXJncy5mb3JfdWkoYXJncywgU3RhdHVzVHlwZS5QZW5kaW5nKQoKICByID0gb2ZmaWNlX2JyZWFrZG93bihhcmdzKQoKICAjIHByZXR0eShmb3JtYXRfbGlzdChxKSkKICAjIHByZXR0eShwcmVwYXJlX2Fycm93X3Jvd3MoYXJncywgcSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//hallspace</text>
