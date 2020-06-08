@@ -303,7 +303,13 @@
         <mark key="." line="49" column="36" />
         <mark key="^" line="49" column="37" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/look-forward/arrow-look-forward.html" timestamp="1591578590327" />
+      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" timestamp="1591627530536">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="67" column="23" />
+        <mark key="]" line="67" column="24" />
+        <mark key="." line="67" column="24" />
+        <mark key="^" line="67" column="8" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/hallspace_view.py" timestamp="1591578659702">
         <mark key="'" line="13" column="7" />
         <mark key="[" line="22" column="6" />
@@ -370,11 +376,11 @@
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-summary-card/arrow-table.ts" timestamp="1591579016399" />
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.html" timestamp="1591579173416" />
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/session-details/session-details.ts" timestamp="1591578754806">
-        <mark key="'" line="49" column="16" />
-        <mark key="[" line="24" column="29" />
-        <mark key="]" line="24" column="29" />
-        <mark key="." line="24" column="28" />
-        <mark key="^" line="24" column="29" />
+        <mark key="'" line="52" column="16" />
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="27" column="29" />
+        <mark key="." line="27" column="28" />
+        <mark key="^" line="27" column="29" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/common/search/search.ts" timestamp="1591579909377">
         <mark key="[" line="215" column="26" />
@@ -508,7 +514,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">CldoZW4gQXJyb3dseXRpY3MgdXNlcyB0aGUgdGVybSAiR3JvdXAiIGluIGZpbHRlcmluZyBjb250ZXh0LAp3aGF0IGV4YWN0bHkgZG9lcyBpdCBtZWFuLCBhbmQgd2hhdCBuZWVkcyB0byBiZSBzdXBwb3J0ZWQgZnJvbSBTQz8KZWcuIFdoYXQgZG9lcyAiSW50ZXJuYWwiIGdyb3VwIG1lYW4gaW4gYWxsIHRoZSBkb2NzLgoKV2hhdCBpcyB0aGUgUGVuZGluZyBBcHBzIGxvZ2ljPwoK</text>
+        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiB0YWJsZQo=</text>
       </register>
       <register name="-" type="4">
         <text>map</text>
@@ -520,34 +526,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CldoZW4gQXJyb3dseXRpY3MgdXNlcyB0aGUgdGVybSAiR3JvdXAiIGluIGZpbHRlcmluZyBjb250ZXh0LAp3aGF0IGV4YWN0bHkgZG9lcyBpdCBtZWFuLCBhbmQgd2hhdCBuZWVkcyB0byBiZSBzdXBwb3J0ZWQgZnJvbSBTQz8KZWcuIFdoYXQgZG9lcyAiSW50ZXJuYWwiIGdyb3VwIG1lYW4gaW4gYWxsIHRoZSBkb2NzLgoKV2hhdCBpcyB0aGUgUGVuZGluZyBBcHBzIGxvZ2ljPwoK</text>
+        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiB0YWJsZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8aGFsbHNwYWNlLWRheXMKICAgICAgICAgIGRhdGE9ImN0cmwucm93cyQgfCBhc3luYyI+CiAgICAgICAgPC9oYWxsc3BhY2UtZGF5cz4K</text>
+        <text encoding="base64">CldoZW4gQXJyb3dseXRpY3MgdXNlcyB0aGUgdGVybSAiR3JvdXAiIGluIGZpbHRlcmluZyBjb250ZXh0LAp3aGF0IGV4YWN0bHkgZG9lcyBpdCBtZWFuLCBhbmQgd2hhdCBuZWVkcyB0byBiZSBzdXBwb3J0ZWQgZnJvbSBTQz8KZWcuIFdoYXQgZG9lcyAiSW50ZXJuYWwiIGdyb3VwIG1lYW4gaW4gYWxsIHRoZSBkb2NzLgoKV2hhdCBpcyB0aGUgUGVuZGluZyBBcHBzIGxvZ2ljPwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aGFsbHNwYWNlLWRheXMKICAgICAgICAgIGRhdGE9ImN0cmwucm93cyQgfCBhc3luYyI+CiAgICAgICAgPC9oYWxsc3BhY2UtZGF5cz4K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAubm8tcm93cwogICAgZGlzcGxheTogbm9uZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgLy8uc3VtbWFyeS1jZWxsCiAgLy8gIGRpc3BsYXk6IHRhYmxlLWNlbGwKICAvLyAgdmVydGljYWwtYWxpZ246IG1pZGRsZSAhaW1wb3J0YW50CiAgLy8gIGhlaWdodDogNDhweAogIC8vICB3aWR0aDogMTAwcHgKICAvLyAgcGFkZGluZy1sZWZ0OiA0cHgK</text>
+        <text encoding="base64">ICAubm8tcm93cwogICAgZGlzcGxheTogbm9uZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEhhbGxzcGFjZVN1bW1hcnlUYWJsZSwK</text>
+        <text encoding="base64">CiAgLy8uc3VtbWFyeS1jZWxsCiAgLy8gIGRpc3BsYXk6IHRhYmxlLWNlbGwKICAvLyAgdmVydGljYWwtYWxpZ246IG1pZGRsZSAhaW1wb3J0YW50CiAgLy8gIGhlaWdodDogNDhweAogIC8vICB3aWR0aDogMTAwcHgKICAvLyAgcGFkZGluZy1sZWZ0OiA0cHgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSGFsbHNwYWNlU3VtbWFyeVRhYmxlIH0gZnJvbSAnd2ViL3ZpZXdzL2Fycm93bHl0aWNzL2twaXMvaGFsbHNwYWNlLXN1bW1hcnkvaGFsbHNwYWNlLXN1bW1hcnknCg==</text>
+        <text encoding="base64">ICAgIEhhbGxzcGFjZVN1bW1hcnlUYWJsZSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgSGFsbHNwYWNlU3VtbWFyeVRhYmxlIH0gZnJvbSAnd2ViL3ZpZXdzL2Fycm93bHl0aWNzL2twaXMvaGFsbHNwYWNlLXN1bW1hcnkvaGFsbHNwYWNlLXN1bW1hcnknCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//hallspace</text>
