@@ -320,8 +320,12 @@
       <file name="/console" timestamp="1591676445517">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/billing/stripes/hints.py" timestamp="1591670834144">
-        <mark key="'" line="7" column="0" />
+      <file name="$USER_HOME$/code/sc/web/static/common/services/local-store.ts" timestamp="1591685693022">
+        <mark key="'" line="67" column="0" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="66" column="4" />
       </file>
       <file name="/a.sql" timestamp="1591680788117">
         <mark key="[" line="0" column="0" />
@@ -396,15 +400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="17" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/appointments_view.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/hallspace-line-util/hallspace-line-util.ts" />
-      <jump line="43" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/hallspace-line-util/hallspace-line-util.ts" />
-      <jump line="19" column="6" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/hallspace-line-util/hallspace-line-util.ts" />
-      <jump line="14" column="9" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/hallspace-details/hallspace-details.ts" />
-      <jump line="20" column="5" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/hallspace-office-util/hallspace-office-util.ts" />
-      <jump line="44" column="22" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/look-forward/arrow-look-forward.html" />
-      <jump line="9" column="13" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/hallspace-table.ts" />
-      <jump line="49" column="40" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/hallspace-table.ts" />
       <jump line="47" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-summary-card/arrow-table.ts" />
       <jump line="33" column="23" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
       <jump line="21" column="29" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/apps-status/apps-status.ts" />
@@ -496,15 +491,24 @@
       <jump line="386" column="64" filename="$USER_HOME$/code/sc/web/static/common/components/ms-navigation/ms-navigation.ts" />
       <jump line="274" column="6" filename="$USER_HOME$/code/sc/web/static/common/components/ms-navigation/ms-navigation.ts" />
       <jump line="568" column="0" filename="$USER_HOME$/code/sc/web/static/web/web.nav.ts" />
+      <jump line="65" column="0" filename="$USER_HOME$/code/sc/web/static/common/services/local-store.ts" />
+      <jump line="4" column="0" filename="$USER_HOME$/code/sc/web/static/common/services/local-store.ts" />
+      <jump line="46" column="20" filename="$USER_HOME$/code/sc/web/static/common/services/local-store.ts" />
+      <jump line="15" column="3" filename="$USER_HOME$/code/sc/web/static/common/services/local-store.ts" />
+      <jump line="63" column="3" filename="$USER_HOME$/code/sc/web/static/common/services/local-store.ts" />
+      <jump line="21" column="0" filename="$USER_HOME$/code/sc/web/static/common/services/local-store.ts" />
+      <jump line="62" column="3" filename="$USER_HOME$/code/sc/web/static/common/services/local-store.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/common/services/local-store.ts" />
+      <jump line="67" column="0" filename="$USER_HOME$/code/sc/web/static/common/services/local-store.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>getTrans().to().name</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgIGdyb3VwW2tleV0gPSBkYXRhCg==</text>
       </register>
       <register name="-" type="4">
-        <text>getTrans().to().name</text>
+        <text>group</text>
       </register>
       <register name="/" type="4">
         <text>notif</text>
@@ -513,34 +517,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMuc3RvcmUgPSBuZXcgTG9jYWxTdG9yZShnZXRUcmFucygpLnRvKCkubmFtZSkK</text>
+        <text encoding="base64">ICAgIGdyb3VwW2tleV0gPSBkYXRhCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZ2V0Rm9sZGVkT3BlbiwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIFJldHVybiBmb2xkZWQgb3BlbiBzdGF0dXMKICAgICAqCiAgICAgKiBAcmV0dXJucyB7Kn0KICAgICAqLwogICAgZnVuY3Rpb24gZ2V0Rm9sZGVkT3BlbigpIHsKICAgICAgcmV0dXJuIGZvbGRlZE9wZW4KICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGVsZXRlSXRlbSwK</text>
+        <text encoding="base64">ICAgIGlmIChsb2NhbFN0b3JhZ2UgPT0gbnVsbCkgcmV0dXJuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvKioKICAgKiBEZWxldGUgbmF2aWdhdGlvbiBpdGVtCiAgICoKICAgKiBAcGFyYW0gcGF0aAogICAqLwogIGZ1bmN0aW9uIGRlbGV0ZUl0ZW0ocGF0aCkgewogICAgaWYgKCFhbmd1bGFyLmlzU3RyaW5nKHBhdGgpKSB7CiAgICAgICRsb2cuZXJyb3IoJ3BhdGggbXVzdCBiZSBhIHN0cmluZyAoZWcuIGBkYXNoYm9hcmQucHJvamVjdGApJykKICAgICAgcmV0dXJuCiAgICB9CgogICAgLy8gTG9jYXRlIHRoZSBpdGVtIGJ5IHVzaW5nIGdpdmVuIHBhdGgKICAgIGxldCBpdGVtID0gbmF2aWdhdGlvbgogICAgY29uc3QgcGFydHMgPSBwYXRoLnNwbGl0KCcuJykKCiAgICBmb3IgKGxldCBwID0gMDsgcCA8IHBhcnRzLmxlbmd0aDsgcCsrKSB7CiAgICAgIGNvbnN0IGlkID0gcGFydHNbcF0KCiAgICAgIGZvciAobGV0IGkgPSAwOyBpIDwgaXRlbS5sZW5ndGg7IGkrKykgewogICAgICAgIGlmIChpdGVtW2ldLl9pZCA9PT0gaWQpIHsKICAgICAgICAgIC8vIElmIHdlIGhhdmUgYSBtYXRjaGluZyBwYXRoLAogICAgICAgICAgLy8gd2UgaGF2ZSBmb3VuZCBvdXIgb2JqZWN0OgogICAgICAgICAgLy8gcmVtb3ZlIGl0LgogICAgICAgICAgaWYgKGl0ZW1baV0uX3BhdGggPT09IHBhdGgpIHsKICAgICAgICAgICAgaXRlbS5zcGxpY2UoaSwgMSkKICAgICAgICAgICAgcmV0dXJuIHRydWUKICAgICAgICAgIH0KCiAgICAgICAgICAvLyBPdGhlcndpc2UgZ3JhYiB0aGUgY2hpbGRyZW4gb2YKICAgICAgICAgIC8vIHRoZSBjdXJyZW50IGl0ZW0gYW5kIGNvbnRpbnVlCiAgICAgICAgICBpdGVtID0gaXRlbVtpXS5jaGlsZHJlbgogICAgICAgICAgYnJlYWsKICAgICAgICB9CiAgICAgIH0KICAgIH0KCiAgICByZXR1cm4gZmFsc2UKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChyb2xlcy5PRkZJQ0VfU1RBRkYpCiAgICAgIHRoaXMubmF2LnNhdmVJdGVtKCdyZXBzLm5vdGlmaWNhdGlvbnMnLCB7CiAgICAgICAgdGl0bGU6ICdOb3RpZmljYXRpb25zJywKICAgICAgICBpY29uOiAnZW1haWwnLAogICAgICAgIHN0YXRlOiAnd2ViLm5vdGVzJywKICAgICAgICB3ZWlnaHQ6IDUuNywKICAgICAgfSkK</text>
+        <text encoding="base64">ICBzZXQgbWUoazogc3RyaW5nLCB2OiBhbnkpIHsKCiAgfQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc29ydDogc29ydEJ5V2VpZ2h0LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgLy8gY29uc3Qgc2VydmljZSA9IHRoaXMKCiAgLy8gTWV0aG9kcwogIC8vIHNlcnZpY2Uuc2F2ZUl0ZW0gPSBzYXZlSXRlbQogIC8vIHNlcnZpY2UuZGVsZXRlSXRlbSA9IGRlbGV0ZUl0ZW0KICAvLyBzZXJ2aWNlLnNvcnRCeVdlaWdodCA9IHNvcnRCeVdlaWdodAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyBWZXJ0aWNhbAo=</text>
+        <text encoding="base64">CiAgcHJpdmF0ZSBnZXRHcm91cCgpOiBhbnkgewogICAgaWYgKGxvY2FsU3RvcmFnZSA9PSBudWxsKSByZXR1cm4ge30KICAgIGxldCBncm91cEpzb24gPSBsb2NhbFN0b3JhZ2UuZ2V0SXRlbSh0aGlzLmdyb3VwS2V5KSB8fCAne30nCiAgICByZXR1cm4gSlNPTi5wYXJzZShncm91cEpzb24pCiAgfQoKICBwdWJsaWMgc2V0RGF0YShrZXksIGRhdGEpOiB2b2lkIHsKICAgIGlmIChsb2NhbFN0b3JhZ2UgPT0gbnVsbCkgcmV0dXJuCiAgICBsZXQgZ3JvdXAgPSB0aGlzLmdldEdyb3VwKCkKICAgIGdyb3VwW2tleV0gPSBkYXRhCiAgICBsb2NhbFN0b3JhZ2Uuc2V0SXRlbSh0aGlzLmdyb3VwS2V5LCBKU09OLnN0cmluZ2lmeShncm91cCkpCiAgfQoKICBwdWJsaWMgZ2V0RGF0YShrZXkpOiBhbnkgewogICAgbGV0IHsgW2tleV06IGRhdGEgfSA9IHRoaXMuZ2V0R3JvdXAoKQogICAgcmV0dXJuIGRhdGEgfHwge30KICB9CgogIHB1YmxpYyBkZWxldGVHcm91cCgpOiB2b2lkIHsKICAgIGlmIChsb2NhbFN0b3JhZ2UgPT0gbnVsbCkgcmV0dXJuCiAgICBsb2NhbFN0b3JhZ2UucmVtb3ZlSXRlbSh0aGlzLmdyb3VwS2V5KQogIH0KCiAgc2F2ZUtleShrOiBzdHJpbmcpIHsKICAgIGxldCBncm91cCA9IHRoaXMuZ2V0R3JvdXAoKQogIH0KCiAgcHVsbEtleShrOiBzdHJpbmcpIHsKCiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
