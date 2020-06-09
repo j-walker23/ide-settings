@@ -307,10 +307,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e48b375-fdd8-413d-be5c-4a28f85cc940/console.sql" timestamp="1591720116561">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e48b375-fdd8-413d-be5c-4a28f85cc940/console.sql" timestamp="1591727602811">
+        <mark key="'" line="30" column="23" />
+        <mark key="[" line="67" column="33" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="70" column="25" />
+        <mark key="^" line="82" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/reviews/search/reviews-search.ts" timestamp="1591707734661">
         <mark key="[" line="63" column="7" />
@@ -324,7 +326,7 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="/console" timestamp="1591725336445">
+      <file name="/console" timestamp="1591727558804">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/surveys/search/surveys-search.ts" timestamp="1591707115418">
@@ -344,6 +346,7 @@
       <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1591725550897">
         <mark key="'" line="40" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1591727577883" />
       <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/surveys/survey_results_view.py" timestamp="1591719753066">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -386,7 +389,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="12" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
       <jump line="55" column="0" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
       <jump line="63" column="11" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
       <jump line="62" column="0" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
@@ -486,6 +488,7 @@
       <jump line="65" column="12" filename="$USER_HOME$/code/sc/web/static/web/views/settings/messages/details/message-details.ts" />
       <jump line="253" column="6" filename="$USER_HOME$/code/sc/web/static/web/views/settings/messages/details/message-details.ts" />
       <jump line="40" column="0" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
+      <jump line="30" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2e48b375-fdd8-413d-be5c-4a28f85cc940/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
