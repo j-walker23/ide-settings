@@ -307,28 +307,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/console" timestamp="1591719861644">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/surveys/surveys.ts" timestamp="1591707210808">
-        <mark key="'" line="176" column="0" />
-        <mark key="[" line="35" column="55" />
-        <mark key="]" line="35" column="61" />
-        <mark key="." line="35" column="60" />
-        <mark key="^" line="35" column="61" />
-      </file>
-      <file name="$USER_HOME$/.dotfiles/zsh/zshrc.symlink" timestamp="1591721424446">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="1" />
-        <mark key="^" line="102" column="1" />
-        <mark key="." line="102" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1591719666787">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="2" />
-        <mark key="^" line="0" column="3" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e48b375-fdd8-413d-be5c-4a28f85cc940/console.sql" timestamp="1591720116561">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
@@ -346,7 +324,9 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/.dotfiles/python/path.zsh" timestamp="1591717962626" />
+      <file name="/console" timestamp="1591725336445">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/surveys/search/surveys-search.ts" timestamp="1591707115418">
         <mark key="'" line="67" column="21" />
         <mark key="[" line="23" column="0" />
@@ -361,17 +341,39 @@
         <mark key="^" line="42" column="66" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1591725550897">
+        <mark key="'" line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/surveys/survey_results_view.py" timestamp="1591719753066">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
         <mark key="^" line="40" column="6" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/surveys/surveys.ts" timestamp="1591707210808">
+        <mark key="'" line="176" column="0" />
+        <mark key="[" line="35" column="55" />
+        <mark key="]" line="35" column="61" />
+        <mark key="." line="35" column="60" />
+        <mark key="^" line="35" column="61" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/surveys/surveys.html" timestamp="1591707153290">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
         <mark key="^" line="19" column="14" />
         <mark key="." line="75" column="0" />
+      </file>
+      <file name="$USER_HOME$/.dotfiles/zsh/zshrc.symlink" timestamp="1591721424446">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="1" />
+        <mark key="^" line="102" column="1" />
+        <mark key="." line="102" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1591719666787">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="2" />
+        <mark key="^" line="0" column="3" />
       </file>
       <file name="$USER_HOME$/code/sc/web/cli/scripts/v700.py" timestamp="1591719675304">
         <mark key="." line="12" column="36" />
@@ -384,7 +386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="10" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
       <jump line="69" column="12" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
       <jump line="55" column="0" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
       <jump line="63" column="11" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
@@ -484,6 +485,7 @@
       <jump line="6" column="28" filename="$USER_HOME$/code/sc/web/static/web/views/surveys/search/survey-auto.service.ts" />
       <jump line="65" column="12" filename="$USER_HOME$/code/sc/web/static/web/views/settings/messages/details/message-details.ts" />
       <jump line="253" column="6" filename="$USER_HOME$/code/sc/web/static/web/views/settings/messages/details/message-details.ts" />
+      <jump line="40" column="0" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
