@@ -188,6 +188,7 @@
         <entry>Session</entry>
         <entry>session</entry>
         <entry>asdf</entry>
+        <entry>typing</entry>
       </history-search>
       <history-cmd>
         <entry>SplitVertically</entry>
@@ -296,7 +297,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/.dotfiles/python/install.sh" timestamp="1591668061296" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e48b375-fdd8-413d-be5c-4a28f85cc940/console.sql" timestamp="1591671082143">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="50" column="1" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/aspire/appointments/types.py" timestamp="1591659506933">
         <mark key="[" line="46" column="4" />
         <mark key="]" line="46" column="15" />
@@ -319,7 +326,7 @@
         <mark key="." line="257" column="1" />
         <mark key="^" line="257" column="2" />
       </file>
-      <file name="/console" timestamp="1591663044486">
+      <file name="/console" timestamp="1591671071512">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/mods/invite/views.py" timestamp="1591661943942">
@@ -334,6 +341,9 @@
         <mark key="]" line="82" column="28" />
         <mark key="." line="82" column="27" />
         <mark key="^" line="82" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/billing/stripes/hints.py" timestamp="1591670834144">
+        <mark key="'" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" timestamp="1591660367733">
         <mark key="[" line="50" column="10" />
@@ -365,6 +375,12 @@
         <mark key="." line="28" column="39" />
         <mark key="^" line="28" column="40" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/Pipfile" timestamp="1591670916311">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="18" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/aspire/base.py" timestamp="1591661051658">
         <mark key="'" line="52" column="8" />
         <mark key="[" line="46" column="19" />
@@ -393,11 +409,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="12" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/arrow-appointments.ts" />
-      <jump line="8" column="2" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/hallspace-table.ts" />
-      <jump line="86" column="2" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
-      <jump line="191" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
-      <jump line="64" column="25" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
       <jump line="30" column="41" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
       <jump line="117" column="32" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/hallspace-table.ts" />
       <jump line="42" column="25" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/arrow-appointments.html" />
@@ -493,51 +504,56 @@
       <jump line="40" column="34" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/appointments_view.py" />
       <jump line="88" column="34" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/appointments_view.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/mods/invite/views.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/code/sc/web/sc/app/billing/stripes/hints.py" />
+      <jump line="83" column="9" filename="$USER_HOME$/code/sc/web/Pipfile" />
+      <jump line="84" column="0" filename="$USER_HOME$/code/sc/web/Pipfile" />
+      <jump line="69" column="0" filename="$USER_HOME$/code/sc/web/Pipfile" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2e48b375-fdd8-413d-be5c-4a28f85cc940/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text>export VIRTUALENVWRAPPER_PYTHON=$(which python3)</text>
+        <text encoding="base64">Y2F0dHJzID0gIj09MS4wLjAiCg==</text>
       </register>
       <register name="-" type="4">
         <text>/usr/local/opt/python@3.8/bin/python3</text>
       </register>
       <register name="/" type="4">
-        <text>asdf</text>
+        <text>typing</text>
       </register>
       <register name="0" type="4">
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text>export VIRTUALENVWRAPPER_PYTHON=$(which python3)</text>
+        <text encoding="base64">Y2F0dHJzID0gIj09MS4wLjAiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0iYm9vdCI+YWxlcnQoJ2Z1Y2snKTwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">dHlwaW5nLWV4dGVuc2lvbnMgPSAiKiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBkZWZhdWx0Ogo=</text>
+        <text encoding="base64">bXlweS1leHRlbnNpb25zID0gIioiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>export VIRTUALENVWRAPPER_PYTHON=$(which python3)</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgcHJpbnQoQ2hhcnRWYWx1ZVR5cGUuY3VycmVuY3kpCiAgZm9yIGMgaW4gQ2hhcnRWYWx1ZVR5cGU6CiAgICBwcmludChjKQogICAgcHJpbnQocmVwcihjKSkKICAgIHByaW50KHN0cihjKSkK</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0iYm9vdCI+YWxlcnQoJ2Z1Y2snKTwvc2NyaXB0Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgpkZWYgY29udmVydF9lbnVtKGNsczogVHlwZVtUXSk6CiAgIiIiIiIiCiAgZnJvbSBzYy5jb21zLnV0aWxzLmF0dHJpYnMgaW1wb3J0IGNvbnZlcnQKCiAgcmV0dXJuIGNvbnZlcnQobGFtYmRhIHZhbDogdG9fZW51bShjbHMsIHZhbCkpCg==</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBkZWZhdWx0Ogo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmcm9tIHNjLmNvbXMudXRpbHMuYXR0cmlicyBpbXBvcnQgY29udmVydAo=</text>
+        <text encoding="base64">CiAgcHJpbnQoQ2hhcnRWYWx1ZVR5cGUuY3VycmVuY3kpCiAgZm9yIGMgaW4gQ2hhcnRWYWx1ZVR5cGU6CiAgICBwcmludChjKQogICAgcHJpbnQocmVwcihjKSkKICAgIHByaW50KHN0cihjKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIHByb2Nlc3Nfc2Vzc2lvbnNfZGF0YShkYXRhKToKICAiIiIgU2hvdWxkIGNoYW5nZSB0aGlzIHRvIHF1ZXJ5IHNvIHdlIGRvbid0IGhhdmUgdGhpcyBsb2dpYyBpbiBweXRob24gYW5kIHR5cGVzY3JpcHQiIiIKCiAgdGltZV9zcGFuID0gZGljdCgpCiAgZm9yIHJvdyBpbiBkYXRhOgogICAga2V5ID0gZiJ7cm93Wyd5ZWFyJ119IHtyb3dbJ21vbnRoJ119IgogICAgaWYgcm93WyJ0eXBlIl0gPT0gIm1vbnRoIjoKICAgICAga2V5ID0gZiJ7cm93Wyd5ZWFyJ119IHtyb3dbJ21vbnRoJ119IgogICAgZWxpZiByb3dbInR5cGUiXSA9PSAid2VlayI6CiAgICAgIGlmIHJvd1sid2VlayJdID09IDA6CiAgICAgICAgY29udGludWUKICAgICAga2V5ID0gZiJ7cm93Wyd5ZWFyJ119V3tyb3dbJ3dlZWsnXX0iCiAgICBlbGlmIHJvd1sidHlwZSJdID09ICJkYXkiOgogICAgICBrZXkgPSBmIntyb3dbJ2RhdGUnXX0iCgogICAgaWYgdGltZV9zcGFuLmdldChrZXkpIGlzIE5vbmU6CiAgICAgIHRpbWVfc3BhbltrZXldID0gZGljdChjb3VudD0wLCB5ZWFyPXJvd1sieWVhciJdLCBtb250aD1yb3dbIm1vbnRoIl0pCgogICAgdGltZV9zcGFuW2tleV1bImNvdW50Il0gKz0gcm93WyJtb3JuaW5nX2NyZWRpdCJdICsgcm93WyJhZnRlcm5vb25fY3JlZGl0Il0KCiAgbmV3X2RhdGEgPSBbXQogIGZvciByb3cgaW4gdGltZV9zcGFuOgogICAgbmV3X2RhdGEuYXBwZW5kKHRpbWVfc3Bhbltyb3ddKQoKICByZXR1cm4gbmV3X2RhdGEKCg==</text>
+        <text encoding="base64">CgpkZWYgY29udmVydF9lbnVtKGNsczogVHlwZVtUXSk6CiAgIiIiIiIiCiAgZnJvbSBzYy5jb21zLnV0aWxzLmF0dHJpYnMgaW1wb3J0IGNvbnZlcnQKCiAgcmV0dXJuIGNvbnZlcnQobGFtYmRhIHZhbDogdG9fZW51bShjbHMsIHZhbCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//hallspace</text>
@@ -546,13 +562,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>asdf</last-search>
+      <last-search>typing</last-search>
       <last-offset />
-      <last-pattern>asdf</last-pattern>
+      <last-pattern>typing</last-pattern>
       <last-replace>hallspace</last-replace>
       <last-substitute>session</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
