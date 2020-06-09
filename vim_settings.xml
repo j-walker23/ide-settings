@@ -83,7 +83,6 @@
         <entry>Doctor</entry>
         <entry>class</entry>
         <entry>Group</entry>
-        <entry>group</entry>
         <entry>ad-</entry>
         <entry>Ad</entry>
         <entry>ismulti</entry>
@@ -146,7 +145,6 @@
         <entry>optimi</entry>
         <entry>raw_id</entry>
         <entry>cons</entry>
-        <entry>console</entry>
         <entry>show</entry>
         <entry>indexes</entry>
         <entry>Credit</entry>
@@ -187,9 +185,19 @@
         <entry>Appointment</entry>
         <entry>Session</entry>
         <entry>session</entry>
-        <entry>asdf</entry>
         <entry>typing</entry>
         <entry>notif</entry>
+        <entry>collapsed</entry>
+        <entry>group</entry>
+        <entry>parent</entry>
+        <entry>console</entry>
+        <entry>img_right</entry>
+        <entry>saveItem</entry>
+        <entry>echo</entry>
+        <entry>sup</entry>
+        <entry>asdf</entry>
+        <entry>start</entry>
+        <entry>check</entry>
       </history-search>
       <history-cmd>
         <entry>SplitVertically</entry>
@@ -298,101 +306,88 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/static/common/models/account.model.ts" timestamp="1591681093391">
-        <mark key="[" line="120" column="23" />
-        <mark key="]" line="120" column="30" />
-        <mark key="^" line="120" column="30" />
-        <mark key="." line="120" column="29" />
+      <file name="$USER_HOME$/code/sc/web/gce/run-script.sh" timestamp="1591690668802">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/components/ms-navigation/ms-navigation.html" timestamp="1591682941802" />
-      <file name="$USER_HOME$/code/sc/web/static/common/components/ms-navigation/ms-navigation.sass" timestamp="1591683103166">
-        <mark key="[" line="8" column="2" />
-        <mark key="]" line="8" column="3" />
-        <mark key="^" line="8" column="3" />
-        <mark key="." line="8" column="2" />
+      <file name="$USER_HOME$/code/sc/web/gce/startup-script.sh" timestamp="1591689999850">
+        <mark key="'" line="89" column="12" />
+        <mark key="[" line="1020" column="142" />
+        <mark key="]" line="1020" column="142" />
+        <mark key="." line="1020" column="141" />
+        <mark key="^" line="1020" column="142" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/cli/apis/hj.py" timestamp="1591679819488">
-        <mark key="[" line="52" column="39" />
-        <mark key="]" line="52" column="39" />
-        <mark key="." line="52" column="38" />
-        <mark key="^" line="52" column="39" />
-      </file>
-      <file name="/console" timestamp="1591676445517">
+      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1591694766822">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/services/local-store.ts" timestamp="1591685693022">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-        <mark key="^" line="66" column="4" />
+      <file name="$USER_HOME$/code/sc/web/gce/travis_build.py" timestamp="1591694744953" />
+      <file name="$USER_HOME$/code/sc/web/gce/__init__.py" timestamp="1591692466771">
+        <mark key="[" line="76" column="20" />
+        <mark key="]" line="76" column="25" />
+        <mark key="^" line="76" column="25" />
+        <mark key="." line="76" column="24" />
       </file>
-      <file name="/a.sql" timestamp="1591680788117">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/grid.ts" timestamp="1591683558885" />
-      <file name="$USER_HOME$/code/sc/web/cli/__init__.py" timestamp="1591680902558">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="102" column="39" />
-        <mark key="]" line="102" column="38" />
-        <mark key="^" line="102" column="38" />
-        <mark key="." line="102" column="37" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/web.conf.ts" timestamp="1591681067939">
-        <mark key="[" line="33" column="23" />
-        <mark key="]" line="34" column="17" />
-        <mark key="^" line="34" column="17" />
-        <mark key="." line="34" column="16" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/components/ms-navigation/ms-navigation.ts" timestamp="1591684404772">
-        <mark key="[" line="240" column="55" />
-        <mark key="]" line="241" column="32" />
-        <mark key="." line="241" column="31" />
-        <mark key="^" line="241" column="32" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e48b375-fdd8-413d-be5c-4a28f85cc940/console.sql" timestamp="1591671082143">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="50" column="1" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1591680788166">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/README.md" timestamp="1591679832425">
-        <mark key="[" line="28" column="73" />
-        <mark key="]" line="28" column="74" />
-        <mark key="." line="28" column="73" />
-        <mark key="^" line="28" column="74" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/__init__.py" timestamp="1591681009764" />
-      <file name="$USER_HOME$/code/sc/web/sc/mods/web/viewhelp.py" timestamp="1591682332928">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
+      <file name="$USER_HOME$/code/sc/web/sc/mods/web/viewhelp.py" timestamp="1591692618577">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
         <mark key="^" line="79" column="55" />
-        <mark key="." line="77" column="0" />
+        <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/common.conf.ts" timestamp="1591681086277">
-        <mark key="[" line="76" column="14" />
-        <mark key="]" line="77" column="17" />
-        <mark key="^" line="77" column="17" />
-        <mark key="." line="77" column="16" />
+      <file name="/usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/subprocess.py" timestamp="1591692940254">
+        <mark key="'" line="57" column="25" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/web.nav.ts" timestamp="1591683786431">
-        <mark key="'" line="568" column="0" />
-        <mark key="[" line="364" column="27" />
-        <mark key="]" line="364" column="0" />
-        <mark key="." line="364" column="0" />
-        <mark key="^" line="364" column="0" />
+      <file name="$USER_HOME$/code/sc/web/.travis.yml" timestamp="1591694484621">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/Pipfile" timestamp="1591670916311">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="18" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1591694771695">
+        <mark key="'" line="31" column="26" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/mods/config.py" timestamp="1591679842744">
+      <file name="$USER_HOME$/code/sc/web/gce/travis_deploy.py" timestamp="1591694684951">
+        <mark key="'" line="178" column="4" />
+        <mark key="[" line="87" column="6" />
+        <mark key="]" line="87" column="6" />
+        <mark key="^" line="46" column="34" />
+        <mark key="." line="87" column="6" />
+      </file>
+      <file name="/Python Console" timestamp="1591694071396">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1591692094902">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/__init__.py" timestamp="1591692893193">
+        <mark key="[" line="60" column="21" />
+        <mark key="]" line="61" column="2" />
+        <mark key="^" line="61" column="2" />
+        <mark key="." line="61" column="1" />
+      </file>
+      <file name="/travis_deploy.py" timestamp="1591691653565" />
+      <file name="/a.sql" timestamp="1591689214535">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/common/components/ms-navigation/ms-navigation.ts" timestamp="1591689050796">
+        <mark key="^" line="813" column="44" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e48b375-fdd8-413d-be5c-4a28f85cc940/console.sql" timestamp="1591689233048">
+        <mark key="'" line="25" column="7" />
+        <mark key="[" line="53" column="21" />
+        <mark key="]" line="54" column="10" />
+        <mark key="^" line="54" column="10" />
+        <mark key="." line="54" column="9" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591689214564">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/gce/startup-script-back.sh" timestamp="1591690565877" />
+      <file name="$USER_HOME$/code/sc/web/sc/mods/config.py" timestamp="1591689768757">
+        <mark key="'" line="203" column="37" />
         <mark key="[" line="202" column="109" />
         <mark key="]" line="202" column="117" />
         <mark key="." line="202" column="116" />
@@ -400,151 +395,151 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/arrow-summary-card/arrow-table.ts" />
-      <jump line="33" column="23" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
-      <jump line="21" column="29" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/apps-status/apps-status.ts" />
-      <jump line="23" column="2" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/apps-canceled/apps-canceled.ts" />
-      <jump line="52" column="39" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/appointments_view.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/appointments/exports.py" />
-      <jump line="85" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/arrow-appointments.ts" />
-      <jump line="27" column="28" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/apps-status/apps-status.ts" />
-      <jump line="75" column="39" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/appointments_view.py" />
-      <jump line="46" column="73" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/appointments_view.py" />
-      <jump line="47" column="26" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/sessions_view.py" />
-      <jump line="41" column="28" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/arrow-appointments.html" />
-      <jump line="95" column="4" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/appointments_view.py" />
-      <jump line="60" column="24" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/appointments_view.py" />
-      <jump line="29" column="19" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/hallspace_view.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/hallspace_view.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/hallspace_view.py" />
-      <jump line="114" column="0" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/exports.py" />
-      <jump line="51" column="2" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
-      <jump line="20" column="17" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/hallspace/exports.py" />
-      <jump line="106" column="4" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/common.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/hallspace/exports.py" />
-      <jump line="269" column="0" filename="$USER_HOME$/code/sc/web/static/common/components/grid/grid.ts" />
-      <jump line="68" column="17" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" />
-      <jump line="26" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/hallspace-office-util/hallspace-office-util.ts" />
-      <jump line="45" column="0" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/charge.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/demographic.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/doctor.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/encounter.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/hallspace-days/hallspace-days.html" />
-      <jump line="2" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/hallspace-days/hallspace-days.html" />
-      <jump line="29" column="7" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
-      <jump line="82" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
-      <jump line="28" column="0" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/hallspace/exports.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/base.py" />
-      <jump line="193" column="4" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/base.py" />
-      <jump line="37" column="33" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/base.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/hallspace-office-util/hallspace-office-util.ts" />
-      <jump line="189" column="0" filename="$USER_HOME$/code/sc/web/sc/app/arrowlytics/base.py" />
+      <jump line="322" column="0" filename="$USER_HOME$/code/sc/web/static/web/web.nav.ts" />
+      <jump line="325" column="6" filename="$USER_HOME$/code/sc/web/static/web/web.nav.ts" />
+      <jump line="323" column="6" filename="$USER_HOME$/code/sc/web/static/web/web.nav.ts" />
+      <jump line="315" column="7" filename="$USER_HOME$/code/sc/web/static/web/web.nav.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/web/web.nav.ts" />
+      <jump line="208" column="13" filename="$USER_HOME$/code/sc/web/static/web/web.nav.ts" />
+      <jump line="216" column="15" filename="$USER_HOME$/code/sc/web/static/web/web.nav.ts" />
+      <jump line="225" column="13" filename="$USER_HOME$/code/sc/web/static/web/web.nav.ts" />
+      <jump line="233" column="15" filename="$USER_HOME$/code/sc/web/static/web/web.nav.ts" />
+      <jump line="243" column="13" filename="$USER_HOME$/code/sc/web/static/web/web.nav.ts" />
+      <jump line="249" column="15" filename="$USER_HOME$/code/sc/web/static/web/web.nav.ts" />
+      <jump line="256" column="13" filename="$USER_HOME$/code/sc/web/static/web/web.nav.ts" />
+      <jump line="264" column="15" filename="$USER_HOME$/code/sc/web/static/web/web.nav.ts" />
+      <jump line="271" column="17" filename="$USER_HOME$/code/sc/web/static/web/web.nav.ts" />
+      <jump line="283" column="15" filename="$USER_HOME$/code/sc/web/static/web/web.nav.ts" />
+      <jump line="289" column="17" filename="$USER_HOME$/code/sc/web/static/web/web.nav.ts" />
+      <jump line="296" column="15" filename="$USER_HOME$/code/sc/web/static/web/web.nav.ts" />
+      <jump line="303" column="15" filename="$USER_HOME$/code/sc/web/static/web/web.nav.ts" />
+      <jump line="310" column="15" filename="$USER_HOME$/code/sc/web/static/web/web.nav.ts" />
+      <jump line="320" column="13" filename="$USER_HOME$/code/sc/web/static/web/web.nav.ts" />
+      <jump line="718" column="38" filename="$USER_HOME$/code/sc/web/static/common/components/ms-navigation/ms-navigation.ts" />
+      <jump line="426" column="7" filename="$USER_HOME$/code/sc/web/static/web/web.nav.ts" />
+      <jump line="25" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2e48b375-fdd8-413d-be5c-4a28f85cc940/console.sql" />
+      <jump line="92" column="0" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
+      <jump line="114" column="0" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
+      <jump line="121" column="0" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
+      <jump line="117" column="10" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
-      <jump line="746" column="26" filename="$USER_HOME$/code/sc/web/cli/john.py" />
-      <jump line="170" column="32" filename="$USER_HOME$/code/sc/web/cli/john.py" />
-      <jump line="281" column="44" filename="$USER_HOME$/code/sc/web/sc/app/reports/aspire/build.py" />
-      <jump line="219" column="4" filename="$USER_HOME$/code/sc/web/sc/app/reports/aspire/build.py" />
-      <jump line="49" column="21" filename="$USER_HOME$/code/sc/web/sc/app/reports/aspire/build.py" />
-      <jump line="11" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" />
-      <jump line="112" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" />
-      <jump line="420" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
-      <jump line="1044" column="15" filename="$USER_HOME$/code/sc/web/static/web/views/reports/reports.html" />
-      <jump line="1008" column="17" filename="$USER_HOME$/code/sc/web/static/web/views/reports/reports.html" />
-      <jump line="62" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/reports/reports.ts" />
-      <jump line="73" column="2" filename="$USER_HOME$/code/sc/web/static/web/views/reports/list/reports-list.ts" />
-      <jump line="252" column="2" filename="$USER_HOME$/code/sc/web/sc/app/reports/aspire/build.py" />
-      <jump line="250" column="2" filename="$USER_HOME$/code/sc/web/sc/app/reports/aspire/build.py" />
-      <jump line="102" column="1" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/arrowlytics.ints.ts" />
-      <jump line="36" column="13" filename="$USER_HOME$/code/sc/web/cli/john.py" />
-      <jump line="25" column="15" filename="$USER_HOME$/code/sc/web/sc/app/aspire/types.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/app/aspire/types.py" />
-      <jump line="200" column="12" filename="$USER_HOME$/code/sc/web/sc/app/reports/aspire/build.py" />
-      <jump line="173" column="2" filename="$USER_HOME$/code/sc/web/sc/app/reports/aspire/build.py" />
-      <jump line="72" column="0" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/appointments_view.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/code/sc/web/sc/app/aspire/aspire_args.py" />
-      <jump line="84" column="0" filename="$USER_HOME$/code/sc/web/sc/app/aspire/aspire_args.py" />
-      <jump line="232" column="0" filename="$USER_HOME$/code/sc/web/sc/app/reports/aspire/build.py" />
-      <jump line="255" column="0" filename="$USER_HOME$/code/sc/web/sc/app/reports/aspire/build.py" />
-      <jump line="43" column="0" filename="$USER_HOME$/code/sc/web/sc/app/reports/aspire/build.py" />
-      <jump line="246" column="4" filename="$USER_HOME$/code/sc/web/sc/app/reports/aspire/build.py" />
-      <jump line="52" column="8" filename="$USER_HOME$/code/sc/web/sc/app/aspire/base.py" />
-      <jump line="263" column="4" filename="$USER_HOME$/code/sc/web/sc/app/reports/aspire/build.py" />
-      <jump line="11" column="6" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/payments_view.py" />
-      <jump line="76" column="16" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/appointments_view.py" />
-      <jump line="214" column="26" filename="$USER_HOME$/code/sc/web/sc/app/reports/aspire/build.py" />
-      <jump line="40" column="34" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/appointments_view.py" />
-      <jump line="88" column="34" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/appointments_view.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/mods/invite/views.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/code/sc/web/sc/app/billing/stripes/hints.py" />
-      <jump line="83" column="9" filename="$USER_HOME$/code/sc/web/Pipfile" />
-      <jump line="84" column="0" filename="$USER_HOME$/code/sc/web/Pipfile" />
-      <jump line="69" column="0" filename="$USER_HOME$/code/sc/web/Pipfile" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2e48b375-fdd8-413d-be5c-4a28f85cc940/console.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/cli/__init__.py" />
-      <jump line="1027" column="33" filename="$USER_HOME$/code/sc/web/static/common/components/ms-navigation/ms-navigation.ts" />
-      <jump line="1007" column="15" filename="$USER_HOME$/code/sc/web/static/common/components/ms-navigation/ms-navigation.ts" />
-      <jump line="695" column="9" filename="$USER_HOME$/code/sc/web/static/common/components/ms-navigation/ms-navigation.ts" />
-      <jump line="446" column="26" filename="$USER_HOME$/code/sc/web/static/common/components/ms-navigation/ms-navigation.ts" />
-      <jump line="990" column="19" filename="$USER_HOME$/code/sc/web/static/common/components/ms-navigation/ms-navigation.ts" />
-      <jump line="386" column="64" filename="$USER_HOME$/code/sc/web/static/common/components/ms-navigation/ms-navigation.ts" />
-      <jump line="274" column="6" filename="$USER_HOME$/code/sc/web/static/common/components/ms-navigation/ms-navigation.ts" />
-      <jump line="568" column="0" filename="$USER_HOME$/code/sc/web/static/web/web.nav.ts" />
-      <jump line="65" column="0" filename="$USER_HOME$/code/sc/web/static/common/services/local-store.ts" />
-      <jump line="4" column="0" filename="$USER_HOME$/code/sc/web/static/common/services/local-store.ts" />
-      <jump line="46" column="20" filename="$USER_HOME$/code/sc/web/static/common/services/local-store.ts" />
-      <jump line="15" column="3" filename="$USER_HOME$/code/sc/web/static/common/services/local-store.ts" />
-      <jump line="63" column="3" filename="$USER_HOME$/code/sc/web/static/common/services/local-store.ts" />
-      <jump line="21" column="0" filename="$USER_HOME$/code/sc/web/static/common/services/local-store.ts" />
-      <jump line="62" column="3" filename="$USER_HOME$/code/sc/web/static/common/services/local-store.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/common/services/local-store.ts" />
-      <jump line="67" column="0" filename="$USER_HOME$/code/sc/web/static/common/services/local-store.ts" />
+      <jump line="203" column="37" filename="$USER_HOME$/code/sc/web/sc/mods/config.py" />
+      <jump line="96" column="12" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
+      <jump line="119" column="9" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
+      <jump line="121" column="100" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
+      <jump line="1031" column="142" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
+      <jump line="117" column="0" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
+      <jump line="1020" column="141" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
+      <jump line="1066" column="35" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
+      <jump line="1067" column="19" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
+      <jump line="1069" column="0" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
+      <jump line="1070" column="0" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
+      <jump line="1072" column="42" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
+      <jump line="1075" column="37" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
+      <jump line="1076" column="39" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
+      <jump line="1082" column="156" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
+      <jump line="1083" column="15" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
+      <jump line="35" column="53" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
+      <jump line="36" column="78" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
+      <jump line="53" column="17" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
+      <jump line="77" column="13" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
+      <jump line="89" column="12" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
+      <jump line="7" column="7" filename="$USER_HOME$/code/sc/web/gce/run-script.sh" />
+      <jump line="128" column="0" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
+      <jump line="130" column="4" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
+      <jump line="221" column="2" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
+      <jump line="58" column="48" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
+      <jump line="10" column="16" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
+      <jump line="133" column="2" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
+      <jump line="60" column="12" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
+      <jump line="43" column="4" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
+      <jump line="53" column="6" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
+      <jump line="66" column="1" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
+      <jump line="68" column="10" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
+      <jump line="69" column="12" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
+      <jump line="63" column="11" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
+      <jump line="138" column="4" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
+      <jump line="134" column="4" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
+      <jump line="149" column="4" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
+      <jump line="213" column="17" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
+      <jump line="202" column="0" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
+      <jump line="54" column="4" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
+      <jump line="14" column="30" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
+      <jump line="51" column="39" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
+      <jump line="132" column="4" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
+      <jump line="211" column="12" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
+      <jump line="155" column="0" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
+      <jump line="177" column="4" filename="$USER_HOME$/code/sc/web/gce/travis_deploy.py" />
+      <jump line="456" column="54" filename="/usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/subprocess.py" />
+      <jump line="510" column="11" filename="/usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/subprocess.py" />
+      <jump line="592" column="46" filename="/usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/subprocess.py" />
+      <jump line="611" column="15" filename="/usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/subprocess.py" />
+      <jump line="729" column="53" filename="/usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/subprocess.py" />
+      <jump line="743" column="23" filename="/usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/subprocess.py" />
+      <jump line="943" column="51" filename="/usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/subprocess.py" />
+      <jump line="1061" column="9" filename="/usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/subprocess.py" />
+      <jump line="1062" column="28" filename="/usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/subprocess.py" />
+      <jump line="1063" column="27" filename="/usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/subprocess.py" />
+      <jump line="1066" column="16" filename="/usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/subprocess.py" />
+      <jump line="1858" column="30" filename="/usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/subprocess.py" />
+      <jump line="1860" column="49" filename="/usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/subprocess.py" />
+      <jump line="1862" column="54" filename="/usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/subprocess.py" />
+      <jump line="1866" column="26" filename="/usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/subprocess.py" />
+      <jump line="33" column="0" filename="/usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/subprocess.py" />
+      <jump line="35" column="27" filename="/usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/subprocess.py" />
+      <jump line="56" column="47" filename="/usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/subprocess.py" />
+      <jump line="57" column="25" filename="/usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/subprocess.py" />
+      <jump line="31" column="26" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgIGdyb3VwW2tleV0gPSBkYXRhCg==</text>
+      <register name="+" type="4">
+        <text>dev</text>
       </register>
       <register name="-" type="4">
-        <text>group</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
-        <text>notif</text>
+        <text>check</text>
       </register>
       <register name="0" type="4">
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdyb3VwW2tleV0gPSBkYXRhCg==</text>
+        <text encoding="base64">ZGlzdDogeGVuaWFsCnN1ZG86IHRydWUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGR0ID0gYXJyb3cudXRjbm93KCkudG8oIkFtZXJpY2EvRGVudmVyIikuZm9ybWF0KCJZWVlZLk0uRCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChsb2NhbFN0b3JhZ2UgPT0gbnVsbCkgcmV0dXJuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBhcnJvdwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzZXQgbWUoazogc3RyaW5nLCB2OiBhbnkpIHsKCiAgfQoK</text>
+        <text encoding="base64">ICAtIG15c3FsIC1lICdDUkVBVEUgREFUQUJBU0UgSUYgTk9UIEVYSVNUUyB0ZXN0czsnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWRkb25zOiBhcHQ6CiAgICBwYWNrYWdlczoKICAgICAgLSBsaWJ4bWxzZWMxLWRldgogICAgICAtIHBrZy1jb25maWcKCnNlcnZpY2VzOgogIC0gbXlzcWwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBDaGVja291dDogaHR0cDovL3NhcmdlLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdC9vdmVydmlldy5odG1sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSBnZXRHcm91cCgpOiBhbnkgewogICAgaWYgKGxvY2FsU3RvcmFnZSA9PSBudWxsKSByZXR1cm4ge30KICAgIGxldCBncm91cEpzb24gPSBsb2NhbFN0b3JhZ2UuZ2V0SXRlbSh0aGlzLmdyb3VwS2V5KSB8fCAne30nCiAgICByZXR1cm4gSlNPTi5wYXJzZShncm91cEpzb24pCiAgfQoKICBwdWJsaWMgc2V0RGF0YShrZXksIGRhdGEpOiB2b2lkIHsKICAgIGlmIChsb2NhbFN0b3JhZ2UgPT0gbnVsbCkgcmV0dXJuCiAgICBsZXQgZ3JvdXAgPSB0aGlzLmdldEdyb3VwKCkKICAgIGdyb3VwW2tleV0gPSBkYXRhCiAgICBsb2NhbFN0b3JhZ2Uuc2V0SXRlbSh0aGlzLmdyb3VwS2V5LCBKU09OLnN0cmluZ2lmeShncm91cCkpCiAgfQoKICBwdWJsaWMgZ2V0RGF0YShrZXkpOiBhbnkgewogICAgbGV0IHsgW2tleV06IGRhdGEgfSA9IHRoaXMuZ2V0R3JvdXAoKQogICAgcmV0dXJuIGRhdGEgfHwge30KICB9CgogIHB1YmxpYyBkZWxldGVHcm91cCgpOiB2b2lkIHsKICAgIGlmIChsb2NhbFN0b3JhZ2UgPT0gbnVsbCkgcmV0dXJuCiAgICBsb2NhbFN0b3JhZ2UucmVtb3ZlSXRlbSh0aGlzLmdyb3VwS2V5KQogIH0KCiAgc2F2ZUtleShrOiBzdHJpbmcpIHsKICAgIGxldCBncm91cCA9IHRoaXMuZ2V0R3JvdXAoKQogIH0KCiAgcHVsbEtleShrOiBzdHJpbmcpIHsKCiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
@@ -553,13 +548,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>notif</last-search>
+      <last-search>check</last-search>
       <last-offset />
-      <last-pattern>notif</last-pattern>
+      <last-pattern>check</last-pattern>
       <last-replace>hallspace</last-replace>
       <last-substitute>session</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
