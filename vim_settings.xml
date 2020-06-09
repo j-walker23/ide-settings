@@ -306,12 +306,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/gce/run-script.sh" timestamp="1591690668802">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/gce/startup-script.sh" timestamp="1591689999850">
+      <file name="$USER_HOME$/code/sc/web/gce/startup-script.sh" timestamp="1591695323315">
         <mark key="'" line="89" column="12" />
         <mark key="[" line="1020" column="142" />
         <mark key="]" line="1020" column="142" />
@@ -324,7 +319,18 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/gce/travis_build.py" timestamp="1591694744953" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_55.py" timestamp="1591695735560">
+        <mark key="'" line="9" column="14" />
+        <mark key="[" line="24" column="20" />
+        <mark key="]" line="24" column="35" />
+        <mark key="." line="24" column="34" />
+        <mark key="^" line="24" column="35" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/gce/travis_build.py" timestamp="1591695431025">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/gce/__init__.py" timestamp="1591692466771">
         <mark key="[" line="76" column="20" />
         <mark key="]" line="76" column="25" />
@@ -356,6 +362,12 @@
         <mark key="^" line="46" column="34" />
         <mark key="." line="87" column="6" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/tasks/alert.py" timestamp="1591696696458">
+        <mark key="[" line="246" column="25" />
+        <mark key="]" line="246" column="26" />
+        <mark key="." line="246" column="25" />
+        <mark key="^" line="246" column="26" />
+      </file>
       <file name="/Python Console" timestamp="1591694071396">
         <mark key="[" line="0" column="0" />
       </file>
@@ -368,36 +380,38 @@
         <mark key="^" line="61" column="2" />
         <mark key="." line="61" column="1" />
       </file>
-      <file name="/travis_deploy.py" timestamp="1591691653565" />
-      <file name="/a.sql" timestamp="1591689214535">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1591696515018">
+        <mark key="'" line="384" column="52" />
+        <mark key="[" line="434" column="0" />
+        <mark key="]" line="434" column="0" />
+        <mark key="." line="434" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/components/ms-navigation/ms-navigation.ts" timestamp="1591689050796">
-        <mark key="^" line="813" column="44" />
+      <file name="$USER_HOME$/code/sc/web/cli/scripts/m700.py" timestamp="1591696735532">
+        <mark key="[" line="169" column="43" />
+        <mark key="]" line="169" column="49" />
+        <mark key="^" line="169" column="49" />
+        <mark key="." line="169" column="48" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e48b375-fdd8-413d-be5c-4a28f85cc940/console.sql" timestamp="1591689233048">
-        <mark key="'" line="25" column="7" />
-        <mark key="[" line="53" column="21" />
-        <mark key="]" line="54" column="10" />
-        <mark key="^" line="54" column="10" />
-        <mark key="." line="54" column="9" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/platforms/syncs/catergory_service_sync.py" timestamp="1591696761327" />
+      <file name="$USER_HOME$/code/sc/web/gce/startup-script-back.sh" timestamp="1591695381613">
+        <mark key="[" line="424" column="0" />
+        <mark key="]" line="424" column="0" />
+        <mark key="." line="424" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591689214564">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/sc/web/cli/scripts/v700.py" timestamp="1591696552779">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="40" />
+        <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/gce/startup-script-back.sh" timestamp="1591690565877" />
-      <file name="$USER_HOME$/code/sc/web/sc/mods/config.py" timestamp="1591689768757">
-        <mark key="'" line="203" column="37" />
-        <mark key="[" line="202" column="109" />
-        <mark key="]" line="202" column="117" />
-        <mark key="." line="202" column="116" />
-        <mark key="^" line="202" column="117" />
+      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1591696791737">
+        <mark key="'" line="727" column="15" />
+        <mark key="[" line="767" column="75" />
+        <mark key="]" line="767" column="89" />
+        <mark key="^" line="767" column="89" />
+        <mark key="." line="767" column="88" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="322" column="0" filename="$USER_HOME$/code/sc/web/static/web/web.nav.ts" />
-      <jump line="325" column="6" filename="$USER_HOME$/code/sc/web/static/web/web.nav.ts" />
-      <jump line="323" column="6" filename="$USER_HOME$/code/sc/web/static/web/web.nav.ts" />
       <jump line="315" column="7" filename="$USER_HOME$/code/sc/web/static/web/web.nav.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/web/web.nav.ts" />
       <jump line="208" column="13" filename="$USER_HOME$/code/sc/web/static/web/web.nav.ts" />
@@ -495,15 +509,18 @@
       <jump line="56" column="47" filename="/usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/subprocess.py" />
       <jump line="57" column="25" filename="/usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/subprocess.py" />
       <jump line="31" column="26" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
+      <jump line="9" column="14" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_55.py" />
+      <jump line="384" column="52" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
+      <jump line="726" column="15" filename="$USER_HOME$/code/sc/web/cli/john.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>dev</text>
+        <text>keyword[0]</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>keyword[0]</text>
       </register>
       <register name="/" type="4">
         <text>check</text>
@@ -512,31 +529,31 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGlzdDogeGVuaWFsCnN1ZG86IHRydWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGR0ID0gYXJyb3cudXRjbm93KCkudG8oIkFtZXJpY2EvRGVudmVyIikuZm9ybWF0KCJZWVlZLk0uRCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmcm9tIHNjLmFwcC50YXNrcy5hbGVydCBpbXBvcnQgcnVuX3VucHJvY2Vzc2VkX25vdGlmaWNhdGlvbl9rZXl3b3Jkcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgY29scyA9IChmdW5jLmRpc3RpbmN0KE5vdGVLZXl3b3JkLmFjY291bnRfaWQpLmxhYmVsKCJhY2NvdW50X2lkIiksKQoKICBxID0gTm90ZUtleXdvcmQuc2VhcmNoKE5vdGVLZXl3b3JkLnByb2Nlc3NlZCA9PSBGYWxzZSkud2l0aF9lbnRpdGllcygqY29scykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBhcnJvdwo=</text>
+        <text encoding="base64">ICBzZXNzLmNvbW1pdCgpCiAgc2Vzcy5jbG9zZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAtIG15c3FsIC1lICdDUkVBVEUgREFUQUJBU0UgSUYgTk9UIEVYSVNUUyB0ZXN0czsnCg==</text>
+        <text encoding="base64">ICBwcmludCgiUmVzZXR0aW5nIGFsbCBub3RlIGtleXdvcmRzIHRvIG5vdCBwcm9jZXNzZWQiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YWRkb25zOiBhcHQ6CiAgICBwYWNrYWdlczoKICAgICAgLSBsaWJ4bWxzZWMxLWRldgogICAgICAtIHBrZy1jb25maWcKCnNlcnZpY2VzOgogIC0gbXlzcWwK</text>
+        <text encoding="base64">ICBmb3Iga2V5d29yZCBpbiBxLmFsbCgpOgogICAga2V5d29yZC5wcm9jZXNzZWQgPSBGYWxzZQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBDaGVja291dDogaHR0cDovL3NhcmdlLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdC9vdmVydmlldy5odG1sCg==</text>
+        <text encoding="base64">ICBxID0gTm90ZUtleXdvcmQuc2VhcmNoKE5vdGVLZXl3b3JkLnByb2Nlc3NlZCA9PSBUcnVlKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
