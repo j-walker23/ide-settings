@@ -199,6 +199,9 @@
         <entry>sup</entry>
         <entry>asdf</entry>
         <entry encoding="base64">XDxnZXRBbnN3ZXJcPg==</entry>
+        <entry>fluentd</entry>
+        <entry>nginx</entry>
+        <entry>fluent</entry>
       </history-search>
       <history-cmd>
         <entry>SplitVertically</entry>
@@ -307,12 +310,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/gce/startup-script.sh" timestamp="1591777832325">
-        <mark key="'" line="397" column="4" />
-        <mark key="[" line="1008" column="1" />
-        <mark key="]" line="1008" column="2" />
-        <mark key="." line="1008" column="1" />
-        <mark key="^" line="1008" column="2" />
+      <file name="$USER_HOME$/code/sc/web/gce/startup-script.sh" timestamp="1591783245648">
+        <mark key="'" line="1044" column="0" />
+        <mark key="[" line="1073" column="0" />
+        <mark key="]" line="1073" column="0" />
+        <mark key="." line="1073" column="0" />
+        <mark key="^" line="963" column="38" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/listings/listings.html" timestamp="1591772486929" />
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/details/appointment-details.html" timestamp="1591771497202" />
@@ -330,20 +333,8 @@
         <mark key="^" line="43" column="97" />
         <mark key="." line="43" column="96" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/meds/errors.py" timestamp="1591770368255">
-        <mark key="[" line="5" column="36" />
-        <mark key="]" line="5" column="38" />
-        <mark key="." line="5" column="37" />
-        <mark key="^" line="5" column="38" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/http/auth-locs.resource.ts" timestamp="1591776834955" />
       <file name="$USER_HOME$/code/sc/web/static/web/views/boost/manage/boost-manage.html" timestamp="1591773618066" />
-      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1591770231340">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="3" />
-        <mark key="^" line="0" column="4" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/integrations/config-errors/config-errors.ts" timestamp="1591773603017">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="149" column="0" />
@@ -369,17 +360,29 @@
         <mark key="^" line="11" column="46" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/platforms/listings/google/attributes.py" timestamp="1591776912370" />
-      <file name="$USER_HOME$/code/sc/web/gce/startup-script-back.sh" timestamp="1591777812738">
-        <mark key="[" line="360" column="1" />
-        <mark key="]" line="360" column="2" />
-        <mark key="^" line="360" column="2" />
-        <mark key="." line="360" column="1" />
+      <file name="$USER_HOME$/code/sc/web/gce/startup-script-back.sh" timestamp="1591782360761">
+        <mark key="'" line="359" column="23" />
+        <mark key="[" line="372" column="191" />
+        <mark key="]" line="372" column="200" />
+        <mark key="^" line="372" column="200" />
+        <mark key="." line="372" column="199" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/coms/ext/logstypes.py" timestamp="1591782899170">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/listings_view.py" timestamp="1591776947478">
         <mark key="[" line="161" column="55" />
         <mark key="]" line="161" column="55" />
         <mark key="." line="161" column="54" />
         <mark key="^" line="161" column="55" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/coms/ext/logprocessors.py" timestamp="1591782661246">
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="27" column="2" />
+        <mark key="^" line="27" column="2" />
+        <mark key="." line="27" column="1" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/listings/listings.ts" timestamp="1591772682899">
         <mark key="'" line="77" column="19" />
@@ -389,33 +392,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1858" column="30" filename="/usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/subprocess.py" />
-      <jump line="1860" column="49" filename="/usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/subprocess.py" />
-      <jump line="1862" column="54" filename="/usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/subprocess.py" />
-      <jump line="1866" column="26" filename="/usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/subprocess.py" />
-      <jump line="33" column="0" filename="/usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/subprocess.py" />
-      <jump line="35" column="27" filename="/usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/subprocess.py" />
-      <jump line="56" column="47" filename="/usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/subprocess.py" />
-      <jump line="57" column="25" filename="/usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/subprocess.py" />
-      <jump line="31" column="26" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
-      <jump line="9" column="14" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_55.py" />
-      <jump line="384" column="52" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
-      <jump line="726" column="15" filename="$USER_HOME$/code/sc/web/cli/john.py" />
-      <jump line="77" column="0" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
-      <jump line="139" column="6" filename="$USER_HOME$/code/sc/web/sc/sql/platform/auth/__init__.py" />
-      <jump line="432" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
-      <jump line="84" column="12" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
-      <jump line="89" column="12" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
-      <jump line="90" column="10" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
-      <jump line="92" column="14" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
-      <jump line="96" column="1" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
-      <jump line="1066" column="35" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
-      <jump line="1067" column="19" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
-      <jump line="1069" column="0" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
-      <jump line="1070" column="0" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
-      <jump line="1072" column="42" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
-      <jump line="1075" column="37" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
-      <jump line="1076" column="39" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
       <jump line="1082" column="156" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
       <jump line="1083" column="15" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
       <jump line="35" column="53" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
@@ -489,51 +465,78 @@
       <jump line="36" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/integrations/config-errors/config-errors.html" />
       <jump line="77" column="21" filename="$USER_HOME$/code/sc/web/static/web/views/analytics/days/analytics-days.ts" />
       <jump line="43" column="19" filename="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" />
+      <jump line="362" column="24" filename="$USER_HOME$/code/sc/web/gce/startup-script-back.sh" />
+      <jump line="368" column="27" filename="$USER_HOME$/code/sc/web/gce/startup-script-back.sh" />
+      <jump line="395" column="17" filename="$USER_HOME$/code/sc/web/gce/startup-script-back.sh" />
+      <jump line="400" column="27" filename="$USER_HOME$/code/sc/web/gce/startup-script-back.sh" />
+      <jump line="409" column="27" filename="$USER_HOME$/code/sc/web/gce/startup-script-back.sh" />
+      <jump line="415" column="22" filename="$USER_HOME$/code/sc/web/gce/startup-script-back.sh" />
+      <jump line="45" column="72" filename="$USER_HOME$/code/sc/web/gce/startup-script-back.sh" />
+      <jump line="46" column="13" filename="$USER_HOME$/code/sc/web/gce/startup-script-back.sh" />
+      <jump line="49" column="22" filename="$USER_HOME$/code/sc/web/gce/startup-script-back.sh" />
+      <jump line="359" column="23" filename="$USER_HOME$/code/sc/web/gce/startup-script-back.sh" />
+      <jump line="951" column="31" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
+      <jump line="1029" column="0" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
+      <jump line="1043" column="34" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
+      <jump line="1005" column="8" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
+      <jump line="1004" column="11" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
+      <jump line="1003" column="12" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
+      <jump line="999" column="15" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
+      <jump line="998" column="15" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
+      <jump line="20" column="25" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
+      <jump line="41" column="72" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
+      <jump line="42" column="13" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
+      <jump line="45" column="22" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
+      <jump line="1007" column="23" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
+      <jump line="1008" column="22" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
+      <jump line="1010" column="17" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
+      <jump line="1016" column="27" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
+      <jump line="1044" column="0" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text encoding="base64">IGdvb2dsZS1mbHVlbnRkLWNhdGNoLWFsbC1jb25maWc=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGdvb2dsZS1mbHVlbnRkLWNhdGNoLWFsbC1jb25maWc=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRBbnN3ZXJcPg==</text>
+        <text>fluent</text>
       </register>
       <register name="0" type="4">
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I3N1ZG8gc3VwZXJ2aXNvcmQgLWMgL2V0Yy9zdXBlcnZpc29yL3N1cGVydmlzb3JkLmNvbmYK</text>
+        <text encoding="base64">ICAgICAgZWRbImxvZ2dpbmcuZ29vZ2xlYXBpcy5jb20vc291cmNlTG9jYXRpb24iXSA9IHsKICAgICAgICAiZmlsZSI6IHJlY29yZC5maWxlbmFtZSwKICAgICAgICAiZnVuY3Rpb24iOiByZWNvcmQuZnVuY05hbWUsCiAgICAgICAgImxpbmUiOiByZWNvcmQubGluZW5vLAogICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiMgcHkgMy42IGh0dHA6Ly9hc2t1YnVudHUuY29tL3F1ZXN0aW9ucy84NjU1NTQvaG93LWRvLWktaW5zdGFsbC1weXRob24tMy02LXVzaW5nLWFwdC1nZXQKCiMgZXhwb3J0IEdPT0dMRV9DTE9VRF9ESVNBQkxFX0dSUEM9dHJ1ZSBmaXhlZCB0aGUgcHVic3ViIEdheEVycm9yIFVOQVZBSUxBQkxFIGJ1ZwoK</text>
+        <text encoding="base64">I3N1ZG8gc3VwZXJ2aXNvcmQgLWMgL2V0Yy9zdXBlcnZpc29yL3N1cGVydmlzb3JkLmNvbmYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgZGVmIGxpc3RpbmdfYW5hbHl0aWNzKHNlbGYpOgogICAgcmV0dXJuICgKICAgICAgSW52aXRlLnNlYXJjaCgpCiAgICAgIC53aXRoX2VudGl0aWVzKGZ1bmMuY291bnQoKS5sYWJlbCgicGVvcGxlIiksIEludml0ZS5jYW1wYWlnbl9pZCkKICAgICAgLmpvaW4oSW52aXRlLnNlY19sb2MpCiAgICAgIC5qb2luKEludml0ZS5jYW1wYWlnbikKICAgICAgLmpvaW4oUHJvdmlkZXIuZG9jdG9yKQogICAgICAuam9pbihEb2N0b3IuYXBwb2ludG1lbnRzKQogICAgICAuam9pbihBcHBvaW50bWVudC5kZW1vKQogICAgICAuZmlsdGVyKEludml0ZS5zZWNfbG9jX2lkLmlzbm90KE5vbmUpKQogICAgICAuZ3JvdXBfYnkoSW52aXRlLmNhbXBhaWduX2lkKQogICAgICAub3JkZXJfYnkoSW52aXRlLmNhbXBhaWduX2lkKQogICAgKQo=</text>
+        <text encoding="base64">CiMgcHkgMy42IGh0dHA6Ly9hc2t1YnVudHUuY29tL3F1ZXN0aW9ucy84NjU1NTQvaG93LWRvLWktaW5zdGFsbC1weXRob24tMy02LXVzaW5nLWFwdC1nZXQKCiMgZXhwb3J0IEdPT0dMRV9DTE9VRF9ESVNBQkxFX0dSUEM9dHJ1ZSBmaXhlZCB0aGUgcHVic3ViIEdheEVycm9yIFVOQVZBSUxBQkxFIGJ1ZwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgY2xpbmljaWFuX2lkID0gcmVxdWVzdC5hcmdzLmdldGxpc3QoImxvY19pZCIpCiAgICAjCiAgICAjIHJldHVybiAoCiAgICAjICAgQXBwb2ludG1lbnQuc2VhcmNoKGZpZWxkcz0icHJvdmlkZXIiKQogICAgIyAgIC53aXRoX2VudGl0aWVzKGZ1bmMuY291bnQoKS5sYWJlbCgicGVvcGxlIiksIFByb2NlZHVyZS5jcHRfY29kZSwgQ1BULmRlc2MpCiAgICAjICAgLmpvaW4oQXBwb2ludG1lbnQuZGVtbykKICAgICMgICAuam9pbihEZW1vZ3JhcGhpYy5wcm9jZWR1cmVzKQogICAgIyAgIC5qb2luKFByb2NlZHVyZS5jcHQpCiAgICAjICAgLmZpbHRlcihBcHBvaW50bWVudC5wcm92aWRlcl9pZC5pbl8oY2xpbmljaWFuX2lkKSkKICAgICMgICAuZ3JvdXBfYnkoQXBwb2ludG1lbnQucHJvdmlkZXJfaWQsIFByb2NlZHVyZS5jcHRfY29kZSkKICAgICMgICAub3JkZXJfYnkoRG9jdG9yLm5hbWUpCiAgICAjICkK</text>
+        <text encoding="base64">CiAgZGVmIGxpc3RpbmdfYW5hbHl0aWNzKHNlbGYpOgogICAgcmV0dXJuICgKICAgICAgSW52aXRlLnNlYXJjaCgpCiAgICAgIC53aXRoX2VudGl0aWVzKGZ1bmMuY291bnQoKS5sYWJlbCgicGVvcGxlIiksIEludml0ZS5jYW1wYWlnbl9pZCkKICAgICAgLmpvaW4oSW52aXRlLnNlY19sb2MpCiAgICAgIC5qb2luKEludml0ZS5jYW1wYWlnbikKICAgICAgLmpvaW4oUHJvdmlkZXIuZG9jdG9yKQogICAgICAuam9pbihEb2N0b3IuYXBwb2ludG1lbnRzKQogICAgICAuam9pbihBcHBvaW50bWVudC5kZW1vKQogICAgICAuZmlsdGVyKEludml0ZS5zZWNfbG9jX2lkLmlzbm90KE5vbmUpKQogICAgICAuZ3JvdXBfYnkoSW52aXRlLmNhbXBhaWduX2lkKQogICAgICAub3JkZXJfYnkoSW52aXRlLmNhbXBhaWduX2lkKQogICAgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgemlwID0gcmVxdWVzdC5hcmdzLmdldCgiemlwIikKICAgICMKICAgICMgcmV0dXJuICgKICAgICMgICBJbnZpdGUuc2VhcmNoKCkKICAgICMgICAgIC53aXRoX2VudGl0aWVzKAogICAgIyAgICAgICBmdW5jLmNvdW50KCkubGFiZWwoInBlb3BsZSIpLAogICAgIyAgICAgICBEZW1vZ3JhcGhpYy5wb3N0YWwubGFiZWwoInBhcmVudF96aXAiKSwKICAgICMgICAgICAgUHJvY2VkdXJlLmNwdF9jb2RlLAogICAgIyAgICAgICBDUFQuZGVzYywKICAgICMgICApCiAgICAjICAgICAuam9pbihJbnZpdGUuc2VjX2xvYykKICAgICMgICAgIC5qb2luKEludml0ZS5jYW1wYWlnbikKICAgICMgICAgIC5qb2luKFByb3ZpZGVyLmRvY3RvcikKICAgICMgICAgIC5qb2luKERvY3Rvci5hcHBvaW50bWVudHMpCiAgICAjICAgICAuam9pbihBcHBvaW50bWVudC5kZW1vKQogICAgIyAgICAgLmpvaW4oRGVtb2dyYXBoaWMucHJvY2VkdXJlcykKICAgICMgICAgIC5qb2luKFByb2NlZHVyZS5jcHQpCiAgICAjICAgICAuZmlsdGVyKEludml0ZS5zZWNfbG9jX2lkLmlzbm90KE5vbmUpKQogICAgIyAgICAgLmZpbHRlcihEZW1vZ3JhcGhpYy5wb3N0YWwgPT0gemlwKQogICAgIyAgICAgLmdyb3VwX2J5KERlbW9ncmFwaGljLnBvc3RhbCwgUHJvY2VkdXJlLmNwdF9jb2RlKQogICAgIyAgICAgLm9yZGVyX2J5KERlbW9ncmFwaGljLnBvc3RhbCkKICAgICMgKQo=</text>
+        <text encoding="base64">ICAgICMgY2xpbmljaWFuX2lkID0gcmVxdWVzdC5hcmdzLmdldGxpc3QoImxvY19pZCIpCiAgICAjCiAgICAjIHJldHVybiAoCiAgICAjICAgQXBwb2ludG1lbnQuc2VhcmNoKGZpZWxkcz0icHJvdmlkZXIiKQogICAgIyAgIC53aXRoX2VudGl0aWVzKGZ1bmMuY291bnQoKS5sYWJlbCgicGVvcGxlIiksIFByb2NlZHVyZS5jcHRfY29kZSwgQ1BULmRlc2MpCiAgICAjICAgLmpvaW4oQXBwb2ludG1lbnQuZGVtbykKICAgICMgICAuam9pbihEZW1vZ3JhcGhpYy5wcm9jZWR1cmVzKQogICAgIyAgIC5qb2luKFByb2NlZHVyZS5jcHQpCiAgICAjICAgLmZpbHRlcihBcHBvaW50bWVudC5wcm92aWRlcl9pZC5pbl8oY2xpbmljaWFuX2lkKSkKICAgICMgICAuZ3JvdXBfYnkoQXBwb2ludG1lbnQucHJvdmlkZXJfaWQsIFByb2NlZHVyZS5jcHRfY29kZSkKICAgICMgICAub3JkZXJfYnkoRG9jdG9yLm5hbWUpCiAgICAjICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVsc2U6CiAgICAgIHJhaXNlIFcK</text>
+        <text encoding="base64">ICAgICMgemlwID0gcmVxdWVzdC5hcmdzLmdldCgiemlwIikKICAgICMKICAgICMgcmV0dXJuICgKICAgICMgICBJbnZpdGUuc2VhcmNoKCkKICAgICMgICAgIC53aXRoX2VudGl0aWVzKAogICAgIyAgICAgICBmdW5jLmNvdW50KCkubGFiZWwoInBlb3BsZSIpLAogICAgIyAgICAgICBEZW1vZ3JhcGhpYy5wb3N0YWwubGFiZWwoInBhcmVudF96aXAiKSwKICAgICMgICAgICAgUHJvY2VkdXJlLmNwdF9jb2RlLAogICAgIyAgICAgICBDUFQuZGVzYywKICAgICMgICApCiAgICAjICAgICAuam9pbihJbnZpdGUuc2VjX2xvYykKICAgICMgICAgIC5qb2luKEludml0ZS5jYW1wYWlnbikKICAgICMgICAgIC5qb2luKFByb3ZpZGVyLmRvY3RvcikKICAgICMgICAgIC5qb2luKERvY3Rvci5hcHBvaW50bWVudHMpCiAgICAjICAgICAuam9pbihBcHBvaW50bWVudC5kZW1vKQogICAgIyAgICAgLmpvaW4oRGVtb2dyYXBoaWMucHJvY2VkdXJlcykKICAgICMgICAgIC5qb2luKFByb2NlZHVyZS5jcHQpCiAgICAjICAgICAuZmlsdGVyKEludml0ZS5zZWNfbG9jX2lkLmlzbm90KE5vbmUpKQogICAgIyAgICAgLmZpbHRlcihEZW1vZ3JhcGhpYy5wb3N0YWwgPT0gemlwKQogICAgIyAgICAgLmdyb3VwX2J5KERlbW9ncmFwaGljLnBvc3RhbCwgUHJvY2VkdXJlLmNwdF9jb2RlKQogICAgIyAgICAgLm9yZGVyX2J5KERlbW9ncmFwaGljLnBvc3RhbCkKICAgICMgKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVsaWYgbG9jYXRpb25fbmFtZToKICAgICAgIiIiIiIiCiAgICAgICMgYXBwdF9zZWFyY2ggPSAoCiAgICAgICMgICBBcHBvaW50bWVudC5zZWFyY2goZmllbGRzPSJsb2NhdGlvbiIpCiAgICAgICMgICAud2l0aF9lbnRpdGllcygKICAgICAgIyAgICAgZnVuYy5jb3VudCgpLmxhYmVsKCJwZW9wbGUiKSwgRGVtb2dyYXBoaWMucG9zdGFsLmxhYmVsKCJwYXJlbnRfemlwIikKICAgICAgIyAgICkKICAgICAgIyAgIC5qb2luKEFwcG9pbnRtZW50LmRlbW8pCiAgICAgICMgICAuZ3JvdXBfYnkoRGVtb2dyYXBoaWMucG9zdGFsKQogICAgICAjICAgLm9yZGVyX2J5KERlbW9ncmFwaGljLnBvc3RhbCkKICAgICAgIyApCiAgICAgICMgYXBwdF9zZWFyY2ggPSBhcHB0X3NlYXJjaC5maWx0ZXIoQXBwb2ludG1lbnQubG9jYXRpb24uaW5fKGxvY2F0aW9uX25hbWUpKQo=</text>
+        <text encoding="base64">ICAgIGVsc2U6CiAgICAgIHJhaXNlIFcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIG5hbWU6ICcgICcsCiAgICAgICAgZW5hYmxlU29ydGluZzogZmFsc2UsCiAgICAgICAgZW5hYmxlQ2VsbEVkaXQ6IGZhbHNlLAogICAgICAgIHdpZHRoOiAxMjAsCiAgICAgICAgY2VsbFRlbXBsYXRlOiBgCiAgICAgICAgICAgIDxtZC1idXR0b24KICAgICAgICAgICAgICBjbGFzcz0ibWQtYWNjZW50IG1kLXNtIG1kLXJhaXNlZCIKICAgICAgICAgICAgICBhcmlhLWxhYmVsPSJhZGQiCiAgICAgICAgICAgICAgKGNsaWNrKT0iZ3JpZC5hcHBTY29wZS5maXhFcnJvcihyb3cuZW50aXR5KSI+CiAgICAgICAgICAgICAgRklYCiAgICAgICAgICAgIDwvbWQtYnV0dG9uPgogICAgICAgIGAsCiAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIGVsaWYgbG9jYXRpb25fbmFtZToKICAgICAgIiIiIiIiCiAgICAgICMgYXBwdF9zZWFyY2ggPSAoCiAgICAgICMgICBBcHBvaW50bWVudC5zZWFyY2goZmllbGRzPSJsb2NhdGlvbiIpCiAgICAgICMgICAud2l0aF9lbnRpdGllcygKICAgICAgIyAgICAgZnVuYy5jb3VudCgpLmxhYmVsKCJwZW9wbGUiKSwgRGVtb2dyYXBoaWMucG9zdGFsLmxhYmVsKCJwYXJlbnRfemlwIikKICAgICAgIyAgICkKICAgICAgIyAgIC5qb2luKEFwcG9pbnRtZW50LmRlbW8pCiAgICAgICMgICAuZ3JvdXBfYnkoRGVtb2dyYXBoaWMucG9zdGFsKQogICAgICAjICAgLm9yZGVyX2J5KERlbW9ncmFwaGljLnBvc3RhbCkKICAgICAgIyApCiAgICAgICMgYXBwdF9zZWFyY2ggPSBhcHB0X3NlYXJjaC5maWx0ZXIoQXBwb2ludG1lbnQubG9jYXRpb24uaW5fKGxvY2F0aW9uX25hbWUpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIG5hbWU6ICcgICcsCiAgICAgICAgZW5hYmxlU29ydGluZzogZmFsc2UsCiAgICAgICAgZW5hYmxlQ2VsbEVkaXQ6IGZhbHNlLAogICAgICAgIHdpZHRoOiAxMjAsCiAgICAgICAgY2VsbFRlbXBsYXRlOiBgCiAgICAgICAgICAgIDxtZC1idXR0b24KICAgICAgICAgICAgICBjbGFzcz0ibWQtYWNjZW50IG1kLXNtIG1kLXJhaXNlZCIKICAgICAgICAgICAgICBhcmlhLWxhYmVsPSJhZGQiCiAgICAgICAgICAgICAgKGNsaWNrKT0iZ3JpZC5hcHBTY29wZS5maXhFcnJvcihyb3cuZW50aXR5KSI+CiAgICAgICAgICAgICAgRklYCiAgICAgICAgICAgIDwvbWQtYnV0dG9uPgogICAgICAgIGAsCiAgICAgIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
@@ -542,13 +545,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxnZXRBbnN3ZXJcPg==</last-search>
+      <last-search>fluent</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRBbnN3ZXJcPg==</last-pattern>
+      <last-pattern>fluent</last-pattern>
       <last-replace>hallspace</last-replace>
       <last-substitute>session</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
