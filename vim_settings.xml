@@ -151,7 +151,6 @@
         <entry>Encou</entry>
         <entry>type</entry>
         <entry>bold</entry>
-        <entry>debug</entry>
         <entry>details</entry>
         <entry encoding="base64">XDxzZXNzaW9uc1w+</entry>
         <entry>center</entry>
@@ -205,6 +204,7 @@
         <entry>Hallspace</entry>
         <entry>asdf</entry>
         <entry>cons</entry>
+        <entry>debug</entry>
       </history-search>
       <history-cmd>
         <entry>SplitVertically</entry>
@@ -274,6 +274,7 @@
         <entry>%s//hallspace</entry>
         <entry>%s//session</entry>
         <entry>%s//Session</entry>
+        <entry>%s//info</entry>
         <entry>action SplitVertically</entry>
       </history-cmd>
       <history-expr />
@@ -314,83 +315,88 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1591871999008">
-        <mark key="'" line="65" column="9" />
-        <mark key="[" line="72" column="13" />
-        <mark key="]" line="72" column="18" />
-        <mark key="." line="72" column="17" />
-        <mark key="^" line="72" column="18" />
+      <file name="$USER_HOME$/code/sc/web/sc/coms/ext/alchemy.py" timestamp="1591882180357">
+        <mark key="'" line="52" column="14" />
+        <mark key="[" line="237" column="5" />
+        <mark key="]" line="237" column="5" />
+        <mark key="." line="237" column="4" />
+        <mark key="^" line="237" column="5" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/transaction.py" timestamp="1591871079182">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="120" column="43" />
-        <mark key="]" line="120" column="48" />
-        <mark key="." line="120" column="47" />
-        <mark key="^" line="120" column="48" />
+      <file name="$USER_HOME$/code/trash/sqlalchemy/lib/sqlalchemy/orm/loading.py" timestamp="1591880941411" />
+      <file name="$USER_HOME$/code/sc/web/sc/core/mappers.py" timestamp="1591880201305" />
+      <file name="$USER_HOME$/code/trash/sqlalchemy/examples/dogpile_caching/environment.py" timestamp="1591881792500" />
+      <file name="$USER_HOME$/code/sc/medrank/medrank/config.py" timestamp="1591880263993" />
+      <file name="$USER_HOME$/code/trash/sqlalchemy/examples/dogpile_caching/caching_query.py" timestamp="1591881566788">
+        <mark key="'" line="177" column="8" />
       </file>
-      <file name="/console" timestamp="1591871522637">
+      <file name="$USER_HOME$/code/sc/medrank/medrank/sql/practices/restful.py" timestamp="1591880394003">
+        <mark key="'" line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/mods/config.py" timestamp="1591882009502">
+        <mark key="'" line="107" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/mods/celeryconfig.py" timestamp="1591879619263" />
+      <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" timestamp="1591879335291">
+        <mark key="'" line="10" column="31" />
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/coms/ext/cachepile.py" timestamp="1591881984092">
+        <mark key="'" line="25" column="21" />
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="34" />
+        <mark key="." line="0" column="33" />
+        <mark key="^" line="0" column="34" />
       </file>
-      <file name="$USER_HOME$/code/trash/sqlalchemy/examples/dogpile_caching/local_session_caching.py" timestamp="1591877507406" />
-      <file name="$USER_HOME$/code/trash/sqlalchemy/examples/dogpile_caching/caching_query.py" timestamp="1591877330355" />
-      <file name="$USER_HOME$/code/sc/medrank/medrank/sql/practices/restful.py" timestamp="1591872351629" />
-      <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" timestamp="1591871187365">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="20" column="9" />
-        <mark key="]" line="20" column="14" />
-        <mark key="^" line="20" column="14" />
-        <mark key="." line="20" column="13" />
+      <file name="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" timestamp="1591881892745">
+        <mark key="'" line="339" column="6" />
+        <mark key="[" line="617" column="34" />
+        <mark key="]" line="617" column="45" />
+        <mark key="." line="617" column="44" />
+        <mark key="^" line="617" column="45" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/encounters/arrow-encounters.html" timestamp="1591871251124">
-        <mark key="'" line="17" column="48" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="0" column="72" />
+      <file name="$USER_HOME$/code/sc/web/sc/core/caching_query.py" timestamp="1591881777932">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="89" column="6" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/apps-status/apps-status.html" timestamp="1591871234288" />
-      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1591872955004">
+      <file name="$USER_HOME$/code/sc/web/sc/sql/caching_query.py" timestamp="1591879396295">
+        <mark key="'" line="4" column="53" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="4" />
-        <mark key="^" line="0" column="5" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="54" column="26" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/migrations/versions/9898e3144153__108.py" timestamp="1591872107396">
+      <file name="$USER_HOME$/code/sc/web/sc/sql/__init__.py" timestamp="1591881935315">
+        <mark key="[" line="252" column="41" />
+        <mark key="]" line="252" column="61" />
+        <mark key="^" line="252" column="61" />
+        <mark key="." line="252" column="60" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/sql/sess_attrs_ext.py" timestamp="1591880487390" />
+      <file name="$USER_HOME$/code/sc/medrank/medrank/ext/cachepile.py" timestamp="1591879497866">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/mods/factory.py" timestamp="1591879829186">
+        <mark key="[" line="47" column="21" />
+        <mark key="]" line="48" column="24" />
+        <mark key="^" line="48" column="24" />
+        <mark key="." line="48" column="23" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/sql/sess_ext.py" timestamp="1591879137971">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/trash/sqlalchemy/examples/dogpile_caching/helloworld.py" timestamp="1591875804002" />
-      <file name="$USER_HOME$/code/sc/medrank/medrank/ext/cachepile.py" timestamp="1591872333392" />
     </filemarks>
     <jumps>
-      <jump line="951" column="31" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
-      <jump line="1029" column="0" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
-      <jump line="1043" column="34" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
-      <jump line="1005" column="8" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
-      <jump line="1004" column="11" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
-      <jump line="1003" column="12" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
-      <jump line="999" column="15" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
-      <jump line="998" column="15" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
-      <jump line="20" column="25" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
-      <jump line="41" column="72" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
-      <jump line="42" column="13" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
-      <jump line="45" column="22" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
-      <jump line="1007" column="23" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
-      <jump line="1008" column="22" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
-      <jump line="1010" column="17" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
-      <jump line="1016" column="27" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
-      <jump line="1044" column="0" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
-      <jump line="43" column="0" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
-      <jump line="199" column="8" filename="$USER_HOME$/code/sc/web/sc/mods/config.py" />
-      <jump line="161" column="2" filename="$USER_HOME$/code/sc/web/sc/mods/config.py" />
-      <jump line="215" column="2" filename="$USER_HOME$/code/sc/web/sc/mods/config.py" />
-      <jump line="35" column="11" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
-      <jump line="55" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
-      <jump line="30" column="10" filename="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/integrations/integrations.html" />
-      <jump line="70" column="32" filename="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/integrations/integrations.ts" />
-      <jump line="72" column="12" filename="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/integrations/integrations.ts" />
-      <jump line="120" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" />
-      <jump line="80" column="22" filename="$USER_HOME$/code/sc/web/sc/app/integs/ftps/utility.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/web/web.sass" />
       <jump line="9" column="0" filename="$USER_HOME$/code/sc/web/static/common/components/grid/grid-height.ts" />
       <jump line="103" column="25" filename="$USER_HOME$/code/sc/web/static/web/views/surveys/surveys.ts" />
       <jump line="44" column="6" filename="$USER_HOME$/code/sc/web/sc/sql/review/__init__.py" />
@@ -462,51 +468,80 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/transaction.py" />
       <jump line="65" column="9" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/migrations/versions/9898e3144153__108.py" />
+      <jump line="75" column="8" filename="$USER_HOME$/code/sc/web/sc/coms/ext/cachepile.py" />
+      <jump line="63" column="8" filename="$USER_HOME$/code/sc/web/sc/coms/ext/cachepile.py" />
+      <jump line="67" column="8" filename="$USER_HOME$/code/sc/web/sc/coms/ext/cachepile.py" />
+      <jump line="71" column="8" filename="$USER_HOME$/code/sc/web/sc/coms/ext/cachepile.py" />
+      <jump line="75" column="25" filename="$USER_HOME$/code/sc/web/sc/sql/caching_query.py" />
+      <jump line="4" column="53" filename="$USER_HOME$/code/sc/web/sc/sql/caching_query.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/sql/sess_ext.py" />
+      <jump line="9" column="31" filename="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" />
+      <jump line="14" column="0" filename="$USER_HOME$/code/sc/web/sc/coms/ext/cachepile.py" />
+      <jump line="160" column="0" filename="$USER_HOME$/code/sc/web/sc/mods/config.py" />
+      <jump line="211" column="30" filename="$USER_HOME$/code/sc/web/sc/mods/config.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/code/sc/web/sc/coms/ext/cachepile.py" />
+      <jump line="53" column="14" filename="$USER_HOME$/code/sc/web/sc/coms/ext/alchemy.py" />
+      <jump line="105" column="29" filename="$USER_HOME$/code/sc/web/sc/core/caching_query.py" />
+      <jump line="15" column="25" filename="$USER_HOME$/code/sc/web/sc/coms/ext/cachepile.py" />
+      <jump line="80" column="0" filename="$USER_HOME$/code/sc/web/sc/coms/ext/cachepile.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/code/sc/medrank/medrank/sql/practices/restful.py" />
+      <jump line="181" column="29" filename="$USER_HOME$/code/trash/sqlalchemy/examples/dogpile_caching/caching_query.py" />
+      <jump line="83" column="22" filename="$USER_HOME$/code/sc/web/sc/core/caching_query.py" />
+      <jump line="177" column="0" filename="$USER_HOME$/code/sc/web/sc/core/caching_query.py" />
+      <jump line="91" column="6" filename="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" />
+      <jump line="605" column="2" filename="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" />
+      <jump line="618" column="0" filename="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" />
+      <jump line="56" column="0" filename="$USER_HOME$/code/sc/web/sc/core/caching_query.py" />
+      <jump line="177" column="8" filename="$USER_HOME$/code/trash/sqlalchemy/examples/dogpile_caching/caching_query.py" />
+      <jump line="338" column="6" filename="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" />
+      <jump line="25" column="21" filename="$USER_HOME$/code/sc/web/sc/coms/ext/cachepile.py" />
+      <jump line="194" column="0" filename="$USER_HOME$/code/sc/web/sc/mods/config.py" />
+      <jump line="106" column="0" filename="$USER_HOME$/code/sc/web/sc/mods/config.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>prod</text>
+        <text>mysql_</text>
       </register>
       <register name="-" type="4">
-        <text>prod</text>
+        <text>mysql_</text>
       </register>
       <register name="/" type="4">
-        <text>cons</text>
+        <text>debug</text>
       </register>
       <register name="0" type="4">
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8aDI+PC9oMj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBNRU1DQUNIRURfSE9TVCA9ICdsb2NhbGhvc3QnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2FfYWRkX2luZGV4KEVuY291bnRlci5tb250aHMsIEVuY291bnRlci50eXBlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiIiJSZWNlaXZlIGNhY2hlIGtleXMgYXMgbG9uZyBjb25jYXRlbmF0ZWQgc3RyaW5nczsKICBkaXN0aWxsIHRoZW0gaW50byBhbiBtZDUgaGFzaC4KCiAgIiIiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFyZ3MgPSBFbmNvdW50ZXJBcmdzLmZvcl91aShyZXFfYXJncygpKQo=</text>
+        <text encoding="base64">ICBkZWYK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICByZXR1cm4gc3VwZXIoKS5fX2l0ZXJfXygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgZ2V0X2RldGFpbHMoYXJnczogRW5jb3VudGVyQXJncywgZG9fcGFnZT1UcnVlKToK</text>
+        <text encoding="base64">Y2xhc3MgT1JNQ2FjaGUob2JqZWN0KToKICAiIiJBbiBhZGQtb24gZm9yIGFuIE9STSA6Y2xhc3M6YC5TZXNzaW9uYCBvcHRpb25hbGx5IGxvYWRzIGZ1bGwgcmVzdWx0cwogIGZyb20gYSBkb2dwaWxlIGNhY2hlIHJlZ2lvbi4KCgogICIiIgoKICBkZWYgX19pbml0X18oc2VsZiwgcmVnaW9ucyk6CiAgICBzZWxmLmNhY2hlX3JlZ2lvbnMgPSByZWdpb25zCiAgICBzZWxmLl9zdGF0ZW1lbnRfY2FjaGUgPSB7fQoKICBkZWYgbGlzdGVuX29uX3Nlc3Npb24oc2VsZik6CiAgICBfc2VzcyA9IHNlc3MuX2dldF9jdXJyZW50X29iamVjdCgpCgogICAgZXZlbnQubGlzdGVuKF9zZXNzLCAiZG9fb3JtX2V4ZWN1dGUiLCBzZWxmLl9kb19vcm1fZXhlY3V0ZSkKCiAgZGVmIF9kb19vcm1fZXhlY3V0ZShzZWxmLCBvcm1fY29udGV4dCk6CgogICAgZm9yIG9wdCBpbiBvcm1fY29udGV4dC51c2VyX2RlZmluZWRfb3B0aW9uczoKICAgICAgaWYgaXNpbnN0YW5jZShvcHQsIFJlbGF0aW9uc2hpcENhY2hlKToKICAgICAgICBvcHQgPSBvcHQuX3Byb2Nlc3Nfb3JtX2NvbnRleHQob3JtX2NvbnRleHQpCiAgICAgICAgaWYgb3B0IGlzIE5vbmU6CiAgICAgICAgICBjb250aW51ZQoKICAgICAgaWYgaXNpbnN0YW5jZShvcHQsIEZyb21DYWNoZSk6CiAgICAgICAgZG9ncGlsZV9yZWdpb24gPSBzZWxmLmNhY2hlX3JlZ2lvbnNbb3B0LnJlZ2lvbl0KCiAgICAgICAgb3VyX2NhY2hlX2tleSA9IG9wdC5fZ2VuZXJhdGVfY2FjaGVfa2V5KAogICAgICAgICAgb3JtX2NvbnRleHQuc3RhdGVtZW50LCBvcm1fY29udGV4dC5wYXJhbWV0ZXJzLCBzZWxmCiAgICAgICAgKQoKICAgICAgICBpZiBvcHQuaWdub3JlX2V4cGlyYXRpb246CiAgICAgICAgICBjYWNoZWRfdmFsdWUgPSBkb2dwaWxlX3JlZ2lvbi5nZXQoCiAgICAgICAgICAgIG91cl9jYWNoZV9rZXksCiAgICAgICAgICAgIGV4cGlyYXRpb25fdGltZT1vcHQuZXhwaXJhdGlvbl90aW1lLAogICAgICAgICAgICBpZ25vcmVfZXhwaXJhdGlvbj1vcHQuaWdub3JlX2V4cGlyYXRpb24sCiAgICAgICAgICApCiAgICAgICAgZWxzZToKCiAgICAgICAgICBkZWYgY3JlYXRlZnVuYygpOgogICAgICAgICAgICByZXR1cm4gb3JtX2NvbnRleHQuaW52b2tlX3N0YXRlbWVudCgpLmZyZWV6ZSgpCgogICAgICAgICAgY2FjaGVkX3ZhbHVlID0gZG9ncGlsZV9yZWdpb24uZ2V0X29yX2NyZWF0ZSgKICAgICAgICAgICAgb3VyX2NhY2hlX2tleSwKICAgICAgICAgICAgY3JlYXRlZnVuYywKICAgICAgICAgICAgZXhwaXJhdGlvbl90aW1lPW9wdC5leHBpcmF0aW9uX3RpbWUsCiAgICAgICAgICApCgogICAgICAgIGlmIGNhY2hlZF92YWx1ZSBpcyBOT19WQUxVRToKICAgICAgICAgIHJhaXNlIEtleUVycm9yKCdrZXllcnJvcj8gdGhpcyBpcyBiaWdnZXIgdGhhbiBhIGtleWVycm9yLi4uJykKCiAgICAgICAgb3JtX3Jlc3VsdCA9IGxvYWRpbmcubWVyZ2VfZnJvemVuX3Jlc3VsdCgKICAgICAgICAgIG9ybV9jb250ZXh0LnNlc3Npb24sCiAgICAgICAgICBvcm1fY29udGV4dC5zdGF0ZW1lbnQsCiAgICAgICAgICBjYWNoZWRfdmFsdWUsCiAgICAgICAgICBsb2FkPUZhbHNlLAogICAgICAgICkKICAgICAgICByZXR1cm4gb3JtX3Jlc3VsdCgpCgogICAgZWxzZToKICAgICAgcmV0dXJuIE5vbmUKCiAgZGVmIGludmFsaWRhdGUoc2VsZiwgc3RhdGVtZW50LCBwYXJhbWV0ZXJzLCBvcHQpOgogICAgIiIiSW52YWxpZGF0ZSB0aGUgY2FjaGUgdmFsdWUgcmVwcmVzZW50ZWQgYnkgYSBzdGF0ZW1lbnQuIiIiCgogICAgc3RhdGVtZW50ID0gc3RhdGVtZW50Ll9fY2xhdXNlX2VsZW1lbnRfXygpCgogICAgZG9ncGlsZV9yZWdpb24gPSBzZWxmLmNhY2hlX3JlZ2lvbnNbb3B0LnJlZ2lvbl0KCiAgICBjYWNoZV9rZXkgPSBvcHQuX2dlbmVyYXRlX2NhY2hlX2tleShzdGF0ZW1lbnQsIHBhcmFtZXRlcnMsIHNlbGYpCgogICAgZG9ncGlsZV9yZWdpb24uZGVsZXRlKGNhY2hlX2tleSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2FjaGUgPSBjYWNoaW5nX3F1ZXJ5Lk9STUNhY2hlKHJlZ2lvbnMpCmNhY2hlLmxpc3Rlbl9vbl9zZXNzaW9uKFNlc3Npb24pCg==</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
@@ -515,11 +550,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>cons</last-search>
+      <last-search>debug</last-search>
       <last-offset />
-      <last-pattern>cons</last-pattern>
-      <last-replace>Session</last-replace>
-      <last-substitute>Hallspace</last-substitute>
+      <last-pattern>debug</last-pattern>
+      <last-replace>info</last-replace>
+      <last-substitute>debug</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
