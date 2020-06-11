@@ -144,7 +144,6 @@
         <entry>on_done</entry>
         <entry>optimi</entry>
         <entry>raw_id</entry>
-        <entry>cons</entry>
         <entry>show</entry>
         <entry>indexes</entry>
         <entry>Credit</entry>
@@ -205,6 +204,7 @@
         <entry>hallspace</entry>
         <entry>Hallspace</entry>
         <entry>asdf</entry>
+        <entry>cons</entry>
       </history-search>
       <history-cmd>
         <entry>SplitVertically</entry>
@@ -314,141 +314,133 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/cli/apis/hj.py" timestamp="1591860670351" />
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/session-credits-yoy/session-credits-yoy.ts" timestamp="1591860888385">
-        <mark key="[" line="45" column="13" />
-        <mark key="]" line="45" column="19" />
-        <mark key="." line="45" column="18" />
-        <mark key="^" line="45" column="19" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/appointments/types.py" timestamp="1591866773909">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="26" column="18" />
+        <mark key="^" line="26" column="18" />
+        <mark key="." line="26" column="17" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" timestamp="1591859480246">
-        <mark key="'" line="18" column="33" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/session-credits-yoy/session-credits-yoy.ts" timestamp="1591865282394">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="50" column="38" />
+        <mark key="]" line="50" column="60" />
+        <mark key="." line="50" column="59" />
+        <mark key="^" line="50" column="60" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/arrow-appointments.html" timestamp="1591859730391">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-        <mark key="^" line="7" column="40" />
+      <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" timestamp="1591865029857">
+        <mark key="'" line="9" column="31" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/arrowlytics.ints.ts" timestamp="1591862299210">
-        <mark key="[" line="138" column="8" />
-        <mark key="]" line="138" column="14" />
-        <mark key="." line="138" column="13" />
-        <mark key="^" line="138" column="14" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/arrowlytics.ints.ts" timestamp="1591865868301">
+        <mark key="'" line="167" column="0" />
+        <mark key="[" line="283" column="0" />
+        <mark key="]" line="283" column="0" />
+        <mark key="." line="283" column="0" />
+        <mark key="^" line="270" column="2" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/light/light-grid.ts" timestamp="1591858586370">
-        <mark key="'" line="21" column="13" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/hallspace-table.ts" timestamp="1591866507779">
+        <mark key="'" line="35" column="4" />
+        <mark key="[" line="52" column="76" />
+        <mark key="]" line="52" column="78" />
+        <mark key="^" line="52" column="78" />
+        <mark key="." line="52" column="77" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/base.py" timestamp="1591859612914">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/hallspace-days/hallspace-days.ts" timestamp="1591867049497">
+        <mark key="'" line="69" column="26" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="69" column="27" />
+        <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1591860855071">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="4" />
-        <mark key="^" line="0" column="5" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/appointments/crud.py" timestamp="1591866916233">
+        <mark key="[" line="23" column="67" />
+        <mark key="]" line="23" column="74" />
+        <mark key="." line="23" column="73" />
+        <mark key="^" line="23" column="74" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1591860505877">
-        <mark key="'" line="37" column="7" />
-        <mark key="[" line="72" column="13" />
-        <mark key="]" line="72" column="18" />
-        <mark key="." line="72" column="17" />
-        <mark key="^" line="72" column="18" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/session-days/session-days.ts" timestamp="1591866394536">
+        <mark key="'" line="41" column="52" />
+        <mark key="[" line="53" column="33" />
+        <mark key="]" line="53" column="31" />
+        <mark key="." line="53" column="30" />
+        <mark key="^" line="53" column="31" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/session-days/session-days.ts" timestamp="1591860970722">
-        <mark key="[" line="7" column="47" />
-        <mark key="]" line="7" column="42" />
-        <mark key="." line="7" column="41" />
-        <mark key="^" line="7" column="42" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/details/appointment-details.ts" timestamp="1591866424269">
+        <mark key="'" line="33" column="9" />
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="14" column="10" />
+        <mark key="." line="14" column="9" />
+        <mark key="^" line="14" column="10" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/hallspace/kpis.py" timestamp="1591859536970">
-        <mark key="[" line="93" column="6" />
-        <mark key="]" line="93" column="25" />
-        <mark key="^" line="93" column="25" />
-        <mark key="." line="93" column="24" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/hallspace-details/hallspace-details.ts" timestamp="1591865225004">
+        <mark key="'" line="12" column="13" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/session-days/hallspace-days.ts" timestamp="1591860958034">
-        <mark key="'" line="45" column="2" />
-        <mark key="[" line="11" column="47" />
-        <mark key="]" line="12" column="44" />
-        <mark key="." line="12" column="43" />
-        <mark key="^" line="12" column="44" />
+      <file name="$USER_HOME$/code/sc/web/static/web/http/hj/sessions.resource.ts" timestamp="1591867115815" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/session-details/session-details.html" timestamp="1591867108313">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="55" />
+        <mark key="." line="0" column="54" />
+        <mark key="^" line="0" column="55" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/demographic.py" timestamp="1591860801764">
-        <mark key="'" line="22" column="6" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/projected-sessions/projected-sessions.ts" timestamp="1591865309507">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="50" column="60" />
+        <mark key="]" line="50" column="82" />
+        <mark key="." line="50" column="81" />
+        <mark key="^" line="50" column="82" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1591859693566">
-        <mark key="'" line="401" column="4" />
-        <mark key="[" line="444" column="1" />
-        <mark key="]" line="450" column="0" />
-        <mark key="^" line="450" column="0" />
-        <mark key="." line="450" column="0" />
+      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" timestamp="1591867308784">
+        <mark key="[" line="81" column="4" />
+        <mark key="]" line="81" column="6" />
+        <mark key="^" line="81" column="6" />
+        <mark key="." line="81" column="5" />
       </file>
-      <file name="/kpis.py" timestamp="1591859652413" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e48b375-fdd8-413d-be5c-4a28f85cc940/console.sql" timestamp="1591859698087">
-        <mark key="'" line="62" column="24" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="^" line="104" column="0" />
-        <mark key="." line="104" column="0" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/session-table.ts" timestamp="1591867350208">
+        <mark key="'" line="51" column="3" />
+        <mark key="[" line="33" column="55" />
+        <mark key="]" line="33" column="54" />
+        <mark key="." line="33" column="53" />
+        <mark key="^" line="33" column="54" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" timestamp="1591859690471">
-        <mark key="'" line="118" column="1" />
-        <mark key="[" line="146" column="5" />
-        <mark key="]" line="146" column="25" />
-        <mark key="." line="146" column="24" />
-        <mark key="^" line="146" column="25" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" timestamp="1591866694072">
+        <mark key="'" line="44" column="4" />
+        <mark key="[" line="64" column="43" />
+        <mark key="]" line="65" column="4" />
+        <mark key="^" line="65" column="4" />
+        <mark key="." line="65" column="3" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/kpis.py" timestamp="1591859319752">
-        <mark key="'" line="15" column="21" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" timestamp="1591865193548">
+        <mark key="'" line="331" column="0" />
+        <mark key="[" line="360" column="44" />
+        <mark key="]" line="360" column="53" />
+        <mark key="." line="360" column="52" />
+        <mark key="^" line="360" column="53" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/hallspace-details/hallspace-details.html" timestamp="1591860909692">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/session-details/session-details.ts" timestamp="1591865263290">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1591860692644">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="8" />
-        <mark key="." line="85" column="8" />
-        <mark key="^" line="77" column="9" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/kpis.py" timestamp="1591866823856">
+        <mark key="'" line="109" column="40" />
+        <mark key="[" line="64" column="9" />
+        <mark key="]" line="64" column="17" />
+        <mark key="^" line="64" column="17" />
+        <mark key="." line="64" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/hallspace-details/hallspace-details.html" timestamp="1591867120599">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="0" column="47" />
+        <mark key="]" line="0" column="56" />
+        <mark key="^" line="0" column="56" />
+        <mark key="." line="0" column="55" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="28" filename="$USER_HOME$/code/sc/web/static/web/views/surveys/search/survey-auto.service.ts" />
-      <jump line="65" column="12" filename="$USER_HOME$/code/sc/web/static/web/views/settings/messages/details/message-details.ts" />
-      <jump line="253" column="6" filename="$USER_HOME$/code/sc/web/static/web/views/settings/messages/details/message-details.ts" />
-      <jump line="30" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2e48b375-fdd8-413d-be5c-4a28f85cc940/console.sql" />
-      <jump line="71" column="16" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs/customs.py" />
-      <jump line="159" column="13" filename="$USER_HOME$/code/sc/web/static/common/components/grid/grid.sass" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/migrations/versions/4f4b655e3a12__88.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/migrations/versions/2d820451cc65__89.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
-      <jump line="74" column="0" filename="$USER_HOME$/code/sc/web/cli/scripts/v700.py" />
-      <jump line="397" column="4" filename="$USER_HOME$/code/sc/web/gce/startup-script.sh" />
-      <jump line="103" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" />
-      <jump line="131" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" />
-      <jump line="58" column="29" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
-      <jump line="25" column="39" filename="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" />
-      <jump line="16" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/integrations/config-errors/config-errors.html" />
-      <jump line="28" column="21" filename="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/integrations/config-errors/config-errors.html" />
-      <jump line="64" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/integrations/config-errors/silenced/silenced-config-errors.html" />
-      <jump line="28" column="11" filename="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/integrations/config-errors/silenced/silenced-config-errors.ts" />
-      <jump line="25" column="27" filename="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/integrations/config-errors/silenced/silenced-config-errors.html" />
-      <jump line="77" column="19" filename="$USER_HOME$/code/sc/web/static/web/views/listings/listings.ts" />
-      <jump line="13" column="17" filename="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/integrations/config-errors/silenced/silenced-config-errors.html" />
-      <jump line="88" column="6" filename="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/integrations/config-errors/silenced/silenced-config-errors.ts" />
-      <jump line="17" column="12" filename="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/integrations/config-errors/config-errors.html" />
-      <jump line="51" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/integrations/config-errors/silenced/silenced-config-errors.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/integrations/config-errors/config-errors.html" />
-      <jump line="32" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/integrations/config-errors/config-errors.html" />
-      <jump line="44" column="9" filename="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/integrations/config-errors/silenced/silenced-config-errors.html" />
-      <jump line="16" column="43" filename="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/integrations/config-errors/config-errors.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/integrations/config-errors/config-errors.ts" />
       <jump line="36" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/integrations/config-errors/config-errors.html" />
       <jump line="77" column="21" filename="$USER_HOME$/code/sc/web/static/web/views/analytics/days/analytics-days.ts" />
       <jump line="43" column="19" filename="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" />
@@ -519,51 +511,81 @@
       <jump line="20" column="2" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/session-days/hallspace-days.ts" />
       <jump line="26" column="1" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/session-days/hallspace-days.ts" />
       <jump line="46" column="2" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/session-days/hallspace-days.ts" />
+      <jump line="41" column="22" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/session-table.ts" />
+      <jump line="95" column="2" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/session-table.ts" />
+      <jump line="42" column="16" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/session-table.ts" />
+      <jump line="11" column="6" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/session-table.ts" />
+      <jump line="20" column="18" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/session-table.ts" />
+      <jump line="93" column="2" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/session-table.ts" />
+      <jump line="32" column="16" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/session-days/session-days.ts" />
+      <jump line="26" column="6" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/hallspace-details/hallspace-details.html" />
+      <jump line="34" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/session-details/session-details.html" />
+      <jump line="44" column="4" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/looking-forward/projected-hallspace/projected-hallspace.ts" />
+      <jump line="29" column="6" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" />
+      <jump line="60" column="13" filename="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/kpis.py" />
+      <jump line="89" column="4" filename="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/kpis.py" />
+      <jump line="20" column="31" filename="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" />
+      <jump line="327" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" />
+      <jump line="332" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" />
+      <jump line="12" column="13" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/hallspace-details/hallspace-details.ts" />
+      <jump line="9" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/session-credits-yoy/session-credits-yoy.ts" />
+      <jump line="9" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/projected-sessions/projected-sessions.ts" />
+      <jump line="64" column="16" filename="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/kpis.py" />
+      <jump line="47" column="52" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/session-days/session-days.ts" />
+      <jump line="10" column="28" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/hallspace-table.ts" />
+      <jump line="167" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/arrowlytics.ints.ts" />
+      <jump line="51" column="3" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/session-table.ts" />
+      <jump line="6" column="13" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/hallspace-table.ts" />
+      <jump line="33" column="9" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/details/appointment-details.ts" />
+      <jump line="35" column="4" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/hallspace-table.ts" />
+      <jump line="109" column="40" filename="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/kpis.py" />
+      <jump line="70" column="26" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/hallspace-days/hallspace-days.ts" />
+      <jump line="33" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/hallspace-details/hallspace-details.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>any</text>
+        <text>last</text>
       </register>
       <register name="-" type="4">
-        <text>any</text>
+        <text>last</text>
       </register>
       <register name="/" type="4">
-        <text>asdf</text>
+        <text>cons</text>
       </register>
       <register name="0" type="4">
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbXBsYXRlIGZyb20gJ3N0YXRpYy93ZWIvdmlld3MvYXJyb3dseXRpY3Mva3Bpcy9zZXNzaW9uLWRheXMvc2Vzc2lvbi1kYXlzLmh0bWwnCg==</text>
+        <text encoding="base64">ICAgIGJvcmRlci1yaWdodDogJGdyaWQtYm9yZGVyICFpbXBvcnRhbnQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbXBsYXRlIGZyb20gJy4vc2Vzc2lvbi1kYXlzLmh0bWwnCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNyYywgdGltZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2Vzc2lvblRhYmxlIH0gZnJvbSAnd2ViL3ZpZXdzL2Fycm93bHl0aWNzL2NvbW1vbi9zZXNzaW9uLXRhYmxlJwo=</text>
+        <text encoding="base64">ICAgICMgZWxpZiBhcmdzLnRpbWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCBzdGF0cyA9IAo=</text>
+        <text encoding="base64">ICAgIGlzX29mZmljZV9tb3JuID0gYW5kXygKICAgICAgT2ZmaWNlLm9mZmljZSwgCiAgICApCiAgICBpc19vZmZpY2VfYWZ0ID0gYW5kXygKICAgICAgT2ZmaWNlLm9mZmljZSwgQXBwb2ludG1lbnQuYmVnaW5fdGltZS5iZXR3ZWVuKGFyZ3Muc3RhcnRfYWZ0LCBhcmdzLmVuZF9hZnQpCiAgICApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmbGV4PSI1MCIK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBpc19sYXN0OiBib29sID0gVHJ1ZQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBhcmdzID0gYmFzZV9hcmdzCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBASW5wdXQoKSBwYXRoID0gJy9wcm9qZWN0ZWQtYnJlYWtkb3duJwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGxldCBsZW4gPSByb3dzLmxlbmd0aAoKICAgIGxldCB2YWxzOiBudW1iZXJbXSA9IHJvd3MubWFwKHIgPT4gZ2V0dGVyKHIuZW50aXR5KSkuZmlsdGVyKHYgPT4gISF2KQoKICAgIGxldCByZXQgPSAwCiAgICBpZiAoW0dyaWRBZ2dUeXBlLmF2ZywgR3JpZEFnZ1R5cGUuc3VtXS5pbmNsdWRlcyh0eXBlKSkgewogICAgICByZXQgPSB2YWxzLnJlZHVjZSgoYSwgYikgPT4gYSArIGIsIDApCiAgICAgIGlmICh0eXBlID09IEdyaWRBZ2dUeXBlLmF2ZykgcmV0ID0gcmV0IC8gKGxlbiB8fCAxKQogICAgfSBlbHNlIGlmICh0eXBlID09IEdyaWRBZ2dUeXBlLmNvdW50KSB7CiAgICAgIHJldCA9IGxlbgogICAgfQoKICAgIHJldHVybiByZXQK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpZiBieSA9PSAnZG9jdG9yX2lkJzoK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>%s//Session</text>
@@ -572,13 +594,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>asdf</last-search>
+      <last-search>cons</last-search>
       <last-offset />
-      <last-pattern>asdf</last-pattern>
+      <last-pattern>cons</last-pattern>
       <last-replace>Session</last-replace>
       <last-substitute>Hallspace</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
