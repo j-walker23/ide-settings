@@ -327,13 +327,6 @@
         <mark key="." line="50" column="59" />
         <mark key="^" line="50" column="60" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" timestamp="1591865029857">
-        <mark key="'" line="9" column="31" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/arrowlytics.ints.ts" timestamp="1591865868301">
         <mark key="'" line="167" column="0" />
         <mark key="[" line="283" column="0" />
@@ -418,6 +411,13 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" timestamp="1591869517010">
+        <mark key="'" line="118" column="1" />
+        <mark key="[" line="108" column="5" />
+        <mark key="]" line="108" column="17" />
+        <mark key="." line="108" column="16" />
+        <mark key="^" line="108" column="17" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/kpis.py" timestamp="1591866823856">
         <mark key="'" line="109" column="40" />
@@ -540,10 +540,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>last</text>
+        <text>hj_charge</text>
       </register>
       <register name="-" type="4">
-        <text>last</text>
+        <text>hj_charge</text>
       </register>
       <register name="/" type="4">
         <text>cons</text>
