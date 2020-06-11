@@ -272,9 +272,9 @@
         <entry>%s//xls</entry>
         <entry>%s//Hallspace</entry>
         <entry>%s//hallspace</entry>
-        <entry>action SplitVertically</entry>
         <entry>%s//session</entry>
         <entry>%s//Session</entry>
+        <entry>action SplitVertically</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -522,7 +522,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s//Session</text>
+        <text>action SplitVertically</text>
       </register>
     </registers>
   </component>
