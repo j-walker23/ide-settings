@@ -334,6 +334,12 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="7" column="40" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/arrowlytics.ints.ts" timestamp="1591862299210">
+        <mark key="[" line="138" column="8" />
+        <mark key="]" line="138" column="14" />
+        <mark key="." line="138" column="13" />
+        <mark key="^" line="138" column="14" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/static/common/components/grid/light/light-grid.ts" timestamp="1591858586370">
         <mark key="'" line="21" column="13" />
       </file>
@@ -391,12 +397,6 @@
         <mark key="]" line="104" column="0" />
         <mark key="^" line="104" column="0" />
         <mark key="." line="104" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" timestamp="1591856542099">
-        <mark key="[" line="317" column="40" />
-        <mark key="]" line="317" column="44" />
-        <mark key="^" line="317" column="44" />
-        <mark key="." line="317" column="43" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" timestamp="1591859690471">
         <mark key="'" line="118" column="1" />
@@ -523,11 +523,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbXBsYXRlIGZyb20gJ3N0YXRpYy93ZWIvdmlld3MvYXJyb3dseXRpY3Mva3Bpcy9zZXNzaW9uLWRheXMvc2Vzc2lvbi1kYXlzLmh0bWwnCg==</text>
+      <register name="+" type="4">
+        <text>any</text>
       </register>
       <register name="-" type="4">
-        <text>hallspace</text>
+        <text>any</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
