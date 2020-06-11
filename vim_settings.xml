@@ -197,7 +197,6 @@
         <entry>start</entry>
         <entry>check</entry>
         <entry>sup</entry>
-        <entry>asdf</entry>
         <entry encoding="base64">XDxnZXRBbnN3ZXJcPg==</entry>
         <entry>fluentd</entry>
         <entry>nginx</entry>
@@ -205,6 +204,7 @@
         <entry>SQL =</entry>
         <entry>hallspace</entry>
         <entry>Hallspace</entry>
+        <entry>asdf</entry>
       </history-search>
       <history-cmd>
         <entry>SplitVertically</entry>
@@ -530,7 +530,7 @@
         <text>hallspace</text>
       </register>
       <register name="/" type="4">
-        <text>Hallspace</text>
+        <text>asdf</text>
       </register>
       <register name="0" type="4">
         <text>U', str, bytes)  # Must be str or bytes</text>
@@ -572,9 +572,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Hallspace</last-search>
+      <last-search>asdf</last-search>
       <last-offset />
-      <last-pattern>Hallspace</last-pattern>
+      <last-pattern>asdf</last-pattern>
       <last-replace>Session</last-replace>
       <last-substitute>Hallspace</last-substitute>
       <last-dir>1</last-dir>
