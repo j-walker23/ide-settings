@@ -360,11 +360,11 @@
         <mark key="^" line="0" column="72" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/kpis/apps-status/apps-status.html" timestamp="1591871234288" />
-      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1591872002544">
+      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1591872955004">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="3" />
-        <mark key="^" line="0" column="4" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="5" />
       </file>
       <file name="$USER_HOME$/code/sc/web/migrations/versions/9898e3144153__108.py" timestamp="1591872107396">
         <mark key="'" line="0" column="0" />
@@ -480,10 +480,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>local</text>
+        <text>prod</text>
       </register>
       <register name="-" type="4">
-        <text>local</text>
+        <text>prod</text>
       </register>
       <register name="/" type="4">
         <text>cons</text>
