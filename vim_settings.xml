@@ -328,6 +328,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Python Console" timestamp="1592062781030">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/lost-opportunity/arrow-lost.ts" timestamp="1592059775317">
         <mark key="[" line="38" column="3" />
         <mark key="]" line="39" column="2" />
@@ -339,22 +342,6 @@
         <mark key="]" line="26" column="36" />
         <mark key="." line="26" column="35" />
         <mark key="^" line="26" column="36" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/look-forward/kpis/projected-hallspace/projected-hallspace.ts" timestamp="1592060039623">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="50" column="74" />
-        <mark key="]" line="50" column="80" />
-        <mark key="^" line="50" column="80" />
-        <mark key="." line="50" column="79" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/common.conf.ts" timestamp="1591934919402">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/kpis/hallspace-days/hallspace-days.html" timestamp="1591936686234">
-        <mark key="[" line="2" column="2" />
-        <mark key="]" line="2" column="10" />
-        <mark key="^" line="2" column="10" />
-        <mark key="." line="2" column="9" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/look-forward/kpis/projected-hallspace/projected-hallspace.html" timestamp="1592059538325">
         <mark key="'" line="17" column="27" />
@@ -369,12 +356,6 @@
         <mark key="]" line="63" column="81" />
         <mark key="^" line="63" column="81" />
         <mark key="." line="63" column="80" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/session-details/session-details.ts" timestamp="1592060034582">
-        <mark key="[" line="19" column="20" />
-        <mark key="]" line="19" column="19" />
-        <mark key="^" line="19" column="19" />
-        <mark key="." line="19" column="18" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/common/search/params.ts" timestamp="1592060092792">
         <mark key="[" line="89" column="57" />
@@ -402,30 +383,55 @@
         <mark key="^" line="58" column="57" />
         <mark key="." line="58" column="56" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/kpis/hallspace-days/hallspace-days.ts" timestamp="1592063809113">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="61" column="25" />
+        <mark key="]" line="61" column="30" />
+        <mark key="." line="61" column="29" />
+        <mark key="^" line="61" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/kpis/session-days/session-days.ts" timestamp="1592063202427">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="42" column="14" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/core/caching_query.py" timestamp="1592063468701">
+        <mark key="[" line="34" column="10" />
+        <mark key="]" line="34" column="10" />
+        <mark key="^" line="34" column="10" />
+        <mark key="." line="34" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/look-forward/kpis/projected-hallspace/projected-hallspace.ts" timestamp="1592060039623">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="50" column="74" />
+        <mark key="]" line="50" column="80" />
+        <mark key="^" line="50" column="80" />
+        <mark key="." line="50" column="79" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/kpis/hallspace-days/hallspace-days.html" timestamp="1591936686234">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="2" column="10" />
+        <mark key="^" line="2" column="10" />
+        <mark key="." line="2" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/session-details/session-details.ts" timestamp="1592060034582">
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="19" column="19" />
+        <mark key="^" line="19" column="19" />
+        <mark key="." line="19" column="18" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/aspire/hallspace/kpis.py" timestamp="1592059636563">
         <mark key="[" line="107" column="0" />
         <mark key="]" line="107" column="0" />
         <mark key="." line="107" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/kpis/hallspace-days/hallspace-days.ts" timestamp="1592059933159">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="30" column="21" />
-        <mark key="]" line="30" column="26" />
-        <mark key="." line="30" column="25" />
-        <mark key="^" line="30" column="26" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/details/appointment-details.ts" timestamp="1591937020574">
         <mark key="[" line="26" column="31" />
         <mark key="]" line="17" column="3" />
         <mark key="^" line="17" column="3" />
         <mark key="." line="17" column="2" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/kpis/session-days/session-days.ts" timestamp="1591936759552">
-        <mark key="'" line="38" column="30" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="42" column="14" />
-        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/hallspace-details/hallspace-details.html" timestamp="1592060147210">
         <mark key="[" line="31" column="35" />
@@ -441,7 +447,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="236" column="82" filename="$USER_HOME$/code/sc/web/sc/app/reports/aspire/build.py" />
       <jump line="244" column="16" filename="$USER_HOME$/code/sc/web/sc/app/reports/aspire/build.py" />
       <jump line="254" column="16" filename="$USER_HOME$/code/sc/web/sc/app/reports/aspire/build.py" />
       <jump line="33" column="2" filename="$USER_HOME$/code/sc/web/sc/app/reports/aspire/build.py" />
@@ -541,6 +546,7 @@
       <jump line="16" column="0" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/hallspace_view.py" />
       <jump line="10" column="13" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/hallspace-table.ts" />
       <jump line="11" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/kpis/hallspace-days/hallspace-days.ts" />
+      <jump line="12" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/kpis/session-days/session-days.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
