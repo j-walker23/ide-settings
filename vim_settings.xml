@@ -370,12 +370,6 @@
         <mark key="^" line="66" column="33" />
         <mark key="." line="66" column="32" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/arrowlytics.ints.ts" timestamp="1591936460553">
-        <mark key="[" line="35" column="42" />
-        <mark key="]" line="35" column="42" />
-        <mark key="." line="35" column="42" />
-        <mark key="^" line="35" column="23" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/hallspace-table.ts" timestamp="1592059798392">
         <mark key="'" line="10" column="13" />
         <mark key="[" line="58" column="54" />
@@ -390,12 +384,12 @@
         <mark key="." line="61" column="29" />
         <mark key="^" line="61" column="30" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/kpis/session-days/session-days.ts" timestamp="1592063202427">
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/kpis/session-days/session-days.ts" timestamp="1592065676988">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="42" column="14" />
-        <mark key="." line="28" column="0" />
+        <mark key="[" line="70" column="21" />
+        <mark key="]" line="70" column="26" />
+        <mark key="^" line="70" column="26" />
+        <mark key="." line="70" column="25" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/core/caching_query.py" timestamp="1592063468701">
         <mark key="[" line="34" column="10" />
@@ -421,6 +415,12 @@
         <mark key="]" line="19" column="19" />
         <mark key="^" line="19" column="19" />
         <mark key="." line="19" column="18" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/appointments/kpis/session-days/session-days.html" timestamp="1592065651607">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="16" />
+        <mark key="." line="1" column="15" />
+        <mark key="^" line="1" column="16" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/aspire/hallspace/kpis.py" timestamp="1592059636563">
         <mark key="[" line="107" column="0" />
@@ -551,11 +551,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgIGxldCBmaWx0ZXJzID0gWwogICAgICBbJ3N0YXR1cycsICdQZW5kaW5nJ10sCiAgICAgIFsnbG9jYXRpb24nLCBzcmMubmFtZV0sCiAgICBdCg==</text>
+      <register name="+" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>filters</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
