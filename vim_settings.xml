@@ -418,12 +418,11 @@
         <mark key="." line="47" column="43" />
         <mark key="^" line="47" column="44" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/appointments/kpis.py" timestamp="1592135533877">
-        <mark key="'" line="168" column="57" />
-        <mark key="[" line="20" column="47" />
-        <mark key="]" line="20" column="56" />
-        <mark key="." line="20" column="55" />
-        <mark key="^" line="20" column="56" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/appointments/kpis.py" timestamp="1592135678118">
+        <mark key="[" line="28" column="33" />
+        <mark key="]" line="14" column="8" />
+        <mark key="." line="14" column="7" />
+        <mark key="^" line="14" column="8" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/look-forward/arrow-look-forward.html" timestamp="1592134634301">
         <mark key="[" line="18" column="27" />
@@ -573,10 +572,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>session_credits</text>
+        <text>AppointmentArgs</text>
       </register>
       <register name="-" type="4">
-        <text>session_credits</text>
+        <text>AppointmentArgs</text>
       </register>
       <register name="/" type="4">
         <text>HallspaceArgs</text>
@@ -585,34 +584,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNlc3Npb25zLmtwaXMuc2Vzc2lvbl9jcmVkaXRzKGFyZ3MpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJwYWdlIiwgcGFnZSkK</text>
+        <text encoding="base64">ICAgIHNlc3Npb25zLmtwaXMuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoZWwnLCBwYXJhbXMpCg==</text>
+        <text encoding="base64">ICAgIHNlc3Npb25zLmtwaXMuc2Vzc2lvbl9jcmVkaXRzKGFyZ3MpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAdmlldy5nZXQoIi9pbnZhbGlkYXRlIikK</text>
+        <text encoding="base64">ICAgIHByaW50KCJwYWdlIiwgcGFnZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzZWxmCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoZWwnLCBwYXJhbXMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgZG9TZWFyY2goKSB7CiAgICBsZXQgcGFyYW1zID0gdGhpcy5wYXJhbXMKICB9Cg==</text>
+        <text encoding="base64">ICBAdmlldy5nZXQoIi9pbnZhbGlkYXRlIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBzZWxmCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC5maWx0ZXIoQXBwb2ludG1lbnQuc3RhdHVzLmluXyhzdGF0dXNlcykpCg==</text>
+        <text encoding="base64">CiAgZG9TZWFyY2goKSB7CiAgICBsZXQgcGFyYW1zID0gdGhpcy5wYXJhbXMKICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHF1ZXJ5LCBmaWx0ZXJzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//SessionArgs</text>
