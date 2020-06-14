@@ -404,12 +404,12 @@
         <mark key="^" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/hallspace/kpis.py" timestamp="1592135561969">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="88" column="45" />
-        <mark key="]" line="88" column="58" />
-        <mark key="." line="88" column="57" />
-        <mark key="^" line="88" column="58" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/hallspace/kpis.py" timestamp="1592157394914">
+        <mark key="'" line="97" column="57" />
+        <mark key="[" line="23" column="2" />
+        <mark key="]" line="23" column="2" />
+        <mark key="." line="23" column="1" />
+        <mark key="^" line="23" column="2" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/look-forward/arrow-look-forward.ts" timestamp="1592135304766">
         <mark key="'" line="23" column="35" />
@@ -418,7 +418,7 @@
         <mark key="." line="47" column="43" />
         <mark key="^" line="47" column="44" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/appointments/kpis.py" timestamp="1592135678118">
+      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/appointments/kpis.py" timestamp="1592157384442">
         <mark key="[" line="28" column="33" />
         <mark key="]" line="14" column="8" />
         <mark key="." line="14" column="7" />
@@ -451,12 +451,12 @@
         <mark key="^" line="18" column="27" />
         <mark key="." line="18" column="26" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/kpis.py" timestamp="1592135523773">
-        <mark key="'" line="120" column="25" />
-        <mark key="[" line="87" column="52" />
-        <mark key="]" line="87" column="65" />
-        <mark key="^" line="87" column="65" />
-        <mark key="." line="87" column="64" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/kpis.py" timestamp="1592157428160">
+        <mark key="'" line="79" column="0" />
+        <mark key="[" line="20" column="2" />
+        <mark key="]" line="20" column="22" />
+        <mark key="^" line="20" column="22" />
+        <mark key="." line="20" column="21" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/charges/arrow-charges.ts" timestamp="1592134732720">
         <mark key="'" line="84" column="0" />
@@ -467,10 +467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="32" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/session-table.ts" />
-      <jump line="77" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/common/session-table.ts" />
-      <jump line="236" column="21" filename="$USER_HOME$/code/sc/web/sc/coms/search/search.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/code/sc/web/sc/coms/search/search.py" />
       <jump line="157" column="10" filename="$USER_HOME$/code/sc/web/sc/sql/user/__init__.py" />
       <jump line="129" column="22" filename="$USER_HOME$/code/sc/web/sc/app/aspire/hallspace/kpis.py" />
       <jump line="140" column="22" filename="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/kpis.py" />
@@ -567,15 +563,19 @@
       <jump line="159" column="57" filename="$USER_HOME$/code/sc/web/sc/app/aspire/appointments/kpis.py" />
       <jump line="90" column="26" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/appointments_view.py" />
       <jump line="41" column="40" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/lost-opportunity/arrow-lost.ts" />
+      <jump line="88" column="57" filename="$USER_HOME$/code/sc/web/sc/app/aspire/hallspace/kpis.py" />
+      <jump line="87" column="64" filename="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/kpis.py" />
+      <jump line="98" column="4" filename="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/kpis.py" />
+      <jump line="79" column="0" filename="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/kpis.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>AppointmentArgs</text>
+        <text>get_line_utilization</text>
       </register>
       <register name="-" type="4">
-        <text>AppointmentArgs</text>
+        <text>get_line_utilization</text>
       </register>
       <register name="/" type="4">
         <text>HallspaceArgs</text>
@@ -584,34 +584,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzZXNzaW9ucy5rcGlzLmdldF9zZXNzaW9uX2NyZWRpdHMoYXJncykuaW52YWxpZGF0ZSgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlc3Npb25zLmtwaXMuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNlc3Npb25zLmtwaXMuc2Vzc2lvbl9jcmVkaXRzKGFyZ3MpCg==</text>
+        <text encoding="base64">ICAgIHNlc3Npb25zLmtwaXMuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJwYWdlIiwgcGFnZSkK</text>
+        <text encoding="base64">ICAgIHNlc3Npb25zLmtwaXMuc2Vzc2lvbl9jcmVkaXRzKGFyZ3MpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoZWwnLCBwYXJhbXMpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJwYWdlIiwgcGFnZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBAdmlldy5nZXQoIi9pbnZhbGlkYXRlIikK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoZWwnLCBwYXJhbXMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzZWxmCg==</text>
+        <text encoding="base64">ICBAdmlldy5nZXQoIi9pbnZhbGlkYXRlIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgZG9TZWFyY2goKSB7CiAgICBsZXQgcGFyYW1zID0gdGhpcy5wYXJhbXMKICB9Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBzZWxmCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgZG9TZWFyY2goKSB7CiAgICBsZXQgcGFyYW1zID0gdGhpcy5wYXJhbXMKICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//SessionArgs</text>
