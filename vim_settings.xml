@@ -379,12 +379,6 @@
         <mark key="." line="10" column="56" />
         <mark key="^" line="10" column="57" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/kpis.py" timestamp="1592109658848">
-        <mark key="[" line="22" column="74" />
-        <mark key="]" line="23" column="13" />
-        <mark key="." line="23" column="12" />
-        <mark key="^" line="23" column="13" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/adjustments_view.py" timestamp="1592114601351">
         <mark key="'" line="44" column="4" />
         <mark key="[" line="2" column="0" />
@@ -392,12 +386,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="54" column="47" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/hallspace/kpis.py" timestamp="1592121558533">
+      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/hallspace/kpis.py" timestamp="1592126791421">
         <mark key="'" line="108" column="0" />
-        <mark key="[" line="91" column="48" />
-        <mark key="]" line="91" column="69" />
-        <mark key="^" line="91" column="69" />
-        <mark key="." line="91" column="68" />
+        <mark key="[" line="103" column="25" />
+        <mark key="]" line="103" column="29" />
+        <mark key="^" line="103" column="29" />
+        <mark key="." line="103" column="28" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/aspire/appointments/kpis.py" timestamp="1592110563309">
         <mark key="[" line="166" column="0" />
@@ -435,6 +429,12 @@
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="0" />
         <mark key="." line="100" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_57.py" timestamp="1592126821237">
+        <mark key="[" line="4" column="32" />
+        <mark key="]" line="4" column="32" />
+        <mark key="^" line="4" column="32" />
+        <mark key="." line="4" column="31" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/aspire/payments/kpis.py" timestamp="1592113778149">
         <mark key="'" line="87" column="23" />
@@ -557,10 +557,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>, statuses=StatusType.Arrived</text>
+        <text encoding="base64">IGlzIG5vdCBOb25l</text>
       </register>
       <register name="-" type="4">
-        <text>, statuses=StatusType.Arrived</text>
+        <text encoding="base64">IGlzIG5vdCBOb25l</text>
       </register>
       <register name="/" type="4">
         <text>HallspaceArgs</text>
@@ -569,31 +569,31 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFwcG9pbnRtZW50cy5rcGlzLmNhbmNlbGVkKEFwcG9pbnRtZW50QXJncy5mb3JfeW95KCkpCiAgICBhcHBvaW50bWVudHMua3Bpcy5zYW1lX2RheV9ub19zaG93KEFwcG9pbnRtZW50QXJncy5mb3JfeW95KCkpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBzYy5hcHAuYXNwaXJlLmhhbGxzcGFjZS50eXBlcyBpbXBvcnQgU2Vzc2lvbkFyZ3MK</text>
+        <text encoding="base64">ICBkaXNwbGF5cyA9IGNvbW1vbl9oYWxsc3BhY2VfY29scyhhcmdzKQogIGRpc3BsYXlzICs9IFtPZmZpY2UubmFtZS5sYWJlbCgiY2F0ZWdvcnkiKV0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBzYy5hcHAuYXNwaXJlLmhhbGxzcGFjZS50eXBlcyBpbXBvcnQgU2Vzc2lvbkFyZ3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBzYy5hcHAuYXNwaXJlLmhhbGxzcGFjZS50eXBlcyBpbXBvcnQgU2Vzc2lvbkFyZ3MK</text>
+        <text encoding="base64">ICAgIGFwcG9pbnRtZW50cy5rcGlzLmNhbmNlbGVkKEFwcG9pbnRtZW50QXJncy5mb3JfeW95KCkpCiAgICBhcHBvaW50bWVudHMua3Bpcy5zYW1lX2RheV9ub19zaG93KEFwcG9pbnRtZW50QXJncy5mb3JfeW95KCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkYXRlZm9ybWF0OiBzdHIgPSAiTU1NIEQiCg==</text>
+        <text encoding="base64">ZnJvbSBzYy5hcHAuYXNwaXJlLmhhbGxzcGFjZS50eXBlcyBpbXBvcnQgU2Vzc2lvbkFyZ3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBzYy5hcHAuYXNwaXJlLmFkanVzdG1lbnRzLnR5cGVzIGltcG9ydCBQYXltZW50QXJncwo=</text>
+        <text encoding="base64">ZnJvbSBzYy5hcHAuYXNwaXJlLmhhbGxzcGFjZS50eXBlcyBpbXBvcnQgU2Vzc2lvbkFyZ3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBzYy5hcHAuYXNwaXJlLmFkanVzdG1lbnRzLnR5cGVzIGltcG9ydCBQYXltZW50QXJncwo=</text>
+        <text encoding="base64">ZnJvbSBzYy5hcHAuYXNwaXJlLmhhbGxzcGFjZS50eXBlcyBpbXBvcnQgU2Vzc2lvbkFyZ3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBzYy5hcHAuYXNwaXJlLmFkanVzdG1lbnRzLnR5cGVzIGltcG9ydCBQYXltZW50QXJncwo=</text>
+        <text encoding="base64">ICBkYXRlZm9ybWF0OiBzdHIgPSAiTU1NIEQiCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ZnJvbSBzYy5hcHAuYXNwaXJlLmFkanVzdG1lbnRzLnR5cGVzIGltcG9ydCBQYXltZW50QXJncwo=</text>
