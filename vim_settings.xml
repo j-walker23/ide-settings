@@ -224,6 +224,7 @@
         <entry>charges</entry>
         <entry>.debug</entry>
         <entry>last-child</entry>
+        <entry>json</entry>
         <entry>asdf</entry>
       </history-search>
       <history-cmd>
@@ -359,12 +360,8 @@
         <mark key="." line="72" column="1" />
         <mark key="^" line="72" column="2" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" timestamp="1592229471091">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="22" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.8/site-packages/requests/sessions.py" timestamp="1592251961113">
+        <mark key="'" line="475" column="32" />
       </file>
       <file name="$USER_HOME$/code/sc/web/migrations/versions/9898e3144153__108.py" timestamp="1592243654462">
         <mark key="'" line="0" column="0" />
@@ -384,13 +381,7 @@
       <file name="$USER_HOME$/code/sc/web/migrations/versions/9f9ffd336892__108.py" timestamp="1592243657759">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/aspire.ints.ts" timestamp="1592225077902">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="10" column="53" />
-        <mark key="]" line="10" column="55" />
-        <mark key="." line="10" column="54" />
-        <mark key="^" line="10" column="55" />
-      </file>
+      <file name="/usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/__init__.py" timestamp="1592252139139" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1592251261523">
         <mark key="'" line="569" column="36" />
         <mark key="[" line="581" column="19" />
@@ -402,10 +393,14 @@
         <mark key="'" line="16" column="6" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/platforms/listings/google/__init__.py" timestamp="1592244353037" />
-      <file name="$USER_HOME$/code/sc/web/sc/app/platforms/api/google.py" timestamp="1592248904784">
-        <mark key="]" line="97" column="15" />
-        <mark key="^" line="97" column="15" />
-        <mark key="." line="97" column="14" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/platforms/api/google.py" timestamp="1592251873102">
+        <mark key="[" line="83" column="4" />
+        <mark key="]" line="83" column="6" />
+        <mark key="^" line="83" column="6" />
+        <mark key="." line="83" column="5" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.8/site-packages/requests/models.py" timestamp="1592251970734">
+        <mark key="'" line="262" column="22" />
       </file>
       <file name="$USER_HOME$/code/sc/web/migrations/versions/8cbb21f3e284__109.py" timestamp="1592243661705">
         <mark key="'" line="0" column="0" />
@@ -433,17 +428,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/lost-opportunity/kpis/same-day-no-show/apps-same-day-no-show.ts" />
-      <jump line="53" column="18" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/payments/arrow-payments.html" />
-      <jump line="55" column="27" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/charges/arrow-charges.html" />
-      <jump line="29" column="13" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/arrowlytics.sass" />
-      <jump line="8" column="43" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/encounters/kpis/encounters-yoy/encounters-yoy.ts" />
-      <jump line="22" column="8" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/encounters/kpis/encounters-yoy/encounters-yoy.ts" />
-      <jump line="26" column="15" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/encounters/kpis/encounters-yoy/encounters-yoy.ts" />
-      <jump line="12" column="9" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/encounters/kpis/encounters-yoy/encounters-yoy.ts" />
-      <jump line="38" column="38" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/encounters/kpis/encounters-yoy/encounters-yoy.ts" />
-      <jump line="36" column="2" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/encounters_view.py" />
-      <jump line="89" column="4" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics/encounters_view.py" />
       <jump line="65" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/encounters/arrow-encounters.ts" />
       <jump line="23" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/encounters/arrow-encounters.ts" />
       <jump line="75" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/encounters/arrow-encounters.ts" />
@@ -533,12 +517,23 @@
       <jump line="17" column="36" filename="$USER_HOME$/code/sc/web/cli/machine.py" />
       <jump line="935" column="61" filename="$USER_HOME$/code/sc/web/cli/john.py" />
       <jump line="45" column="14" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
+      <jump line="509" column="17" filename="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.8/site-packages/requests/sessions.py" />
+      <jump line="566" column="35" filename="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.8/site-packages/requests/sessions.py" />
+      <jump line="572" column="32" filename="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.8/site-packages/requests/sessions.py" />
+      <jump line="577" column="57" filename="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.8/site-packages/requests/sessions.py" />
+      <jump line="453" column="25" filename="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.8/site-packages/requests/sessions.py" />
+      <jump line="465" column="61" filename="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.8/site-packages/requests/sessions.py" />
+      <jump line="475" column="32" filename="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.8/site-packages/requests/sessions.py" />
+      <jump line="225" column="8" filename="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.8/site-packages/requests/models.py" />
+      <jump line="227" column="62" filename="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.8/site-packages/requests/models.py" />
+      <jump line="245" column="20" filename="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.8/site-packages/requests/models.py" />
+      <jump line="262" column="22" filename="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.8/site-packages/requests/models.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICBwcmludChqc29uLmR1bXBzKGpzKSkK</text>
+        <text encoding="base64">ICAgIHMgPSBnZXRfc2Vzc2lvbigpCg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;locations/8688644957448445428&quot;</text>
@@ -550,31 +545,31 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcmludChqc29uLmR1bXBzKGpzKSkK</text>
+        <text encoding="base64">ICAgIHMgPSBnZXRfc2Vzc2lvbigpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">d2hlcmUgZWlkID0gJ2xvY2F0aW9ucy84Njg4NjQ0OTU3NDQ4NDQ1NDI4Jwo=</text>
+        <text encoding="base64">ICBwcmludChqc29uLmR1bXBzKGpzKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">d2hlcmUgZWlkID0gJ2xvY2F0aW9ucy84Njg4NjQ0OTU3NDQ4NDQ1NDI4Jwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAibmFtZSI6ICJhY2NvdW50cy8xMTE2MTc2NzkxNjcxMTk0Mjk2MTIvbG9jYXRpb25zLzg2ODg2NDQ5NTc0NDg0NDU0Mjgvc2VydmljZUxpc3QiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBib2R5WyJzZXJ2aWNlSXRlbXMiXSA9IFtdCg==</text>
+        <text encoding="base64">ICAibmFtZSI6ICJhY2NvdW50cy8xMTE2MTc2NzkxNjcxMTk0Mjk2MTIvbG9jYXRpb25zLzg2ODg2NDQ5NTc0NDg0NDU0Mjgvc2VydmljZUxpc3QiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmcm9tIGNsaS5tYWNoaW5lIGltcG9ydCB0aXRzCg==</text>
+        <text encoding="base64">ICBib2R5WyJzZXJ2aWNlSXRlbXMiXSA9IFtdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmcm9tIGNsaS5tYWNoaW5lIGltcG9ydCB0aXRzCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -592,7 +587,7 @@
       <last-replace>.info</last-replace>
       <last-substitute>.debug</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
