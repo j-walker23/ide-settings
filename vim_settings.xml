@@ -346,18 +346,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/kpis/hallspace-line-util/hallspace-line-util.ts" timestamp="1592217883539">
-        <mark key="[" line="10" column="66" />
-        <mark key="]" line="11" column="49" />
-        <mark key="." line="11" column="48" />
-        <mark key="^" line="11" column="49" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" timestamp="1592218026263">
+      <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" timestamp="1592222862904">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="16" column="0" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="53" column="30" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/charges/kpis/procedure-groups-monthly/procedure-groups-monthly.ts" timestamp="1592217908816">
         <mark key="[" line="8" column="80" />
@@ -389,6 +383,12 @@
         <mark key="." line="7" column="54" />
         <mark key="^" line="7" column="55" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/config/offices/offices.ts" timestamp="1592222638236">
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="193" column="0" />
+        <mark key="." line="193" column="0" />
+        <mark key="^" line="191" column="33" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/encounters/arrow-encounters.ts" timestamp="1592217916636">
         <mark key="[" line="17" column="102" />
         <mark key="]" line="17" column="46" />
@@ -401,23 +401,23 @@
         <mark key="." line="4" column="39" />
         <mark key="^" line="4" column="40" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/common/arrow-summary-card/arrow-summary-table.ts" timestamp="1592217878445">
-        <mark key="[" line="11" column="79" />
-        <mark key="]" line="12" column="49" />
-        <mark key="." line="12" column="48" />
-        <mark key="^" line="12" column="49" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/maap/aspire-maap.ts" timestamp="1592217923333">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="8" column="41" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/kpis/hallspace-office-util/hallspace-office-util.ts" timestamp="1592217885733">
-        <mark key="[" line="10" column="37" />
-        <mark key="]" line="11" column="51" />
-        <mark key="." line="11" column="50" />
-        <mark key="^" line="11" column="51" />
+      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/aspire/doctors_view.py" timestamp="1592222418819">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="^" line="75" column="42" />
+        <mark key="." line="76" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/office.py" timestamp="1592222729528">
+        <mark key="[" line="33" column="52" />
+        <mark key="]" line="33" column="80" />
+        <mark key="^" line="33" column="80" />
+        <mark key="." line="33" column="79" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/config/doctors/doctors.ts" timestamp="1592221402508">
         <mark key="'" line="0" column="0" />
@@ -437,11 +437,11 @@
         <mark key="." line="10" column="40" />
         <mark key="^" line="10" column="41" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/kpis/session-credits-yoy/session-credits-yoy.ts" timestamp="1592217888028">
-        <mark key="[" line="6" column="66" />
-        <mark key="]" line="7" column="49" />
-        <mark key="." line="7" column="48" />
-        <mark key="^" line="7" column="49" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/config/offices/offices.html" timestamp="1592222462072">
+        <mark key="[" line="9" column="43" />
+        <mark key="]" line="10" column="10" />
+        <mark key="." line="10" column="9" />
+        <mark key="^" line="10" column="10" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/charges/kpis/charges-ref-source-variance/charges-ref-source-variance.ts" timestamp="1592217905464">
         <mark key="[" line="8" column="67" />
@@ -449,12 +449,10 @@
         <mark key="." line="8" column="56" />
         <mark key="^" line="8" column="57" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/kpis/hallspace-days/hallspace-days.ts" timestamp="1592217881121">
-        <mark key="'" line="35" column="2" />
-        <mark key="[" line="8" column="73" />
-        <mark key="]" line="9" column="44" />
-        <mark key="." line="9" column="43" />
-        <mark key="^" line="9" column="44" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/config/offices/search/offices-search.ts" timestamp="1592222481541">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/config/doctors/details/doctors.dialog.html" timestamp="1592221328546">
         <mark key="'" line="0" column="0" />
@@ -572,10 +570,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICB2aXNpYmxlOiBmYWxzZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>Handle during spec traversal</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -584,31 +582,31 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2aXNpYmxlOiBmYWxzZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2aXNpYmxlOiBmYWxzZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2aXNpYmxlOiBmYWxzZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LSBQaW4gcmlnaHQgdG90YWwvYXZnX3V0aWwgY29sdW1ucwo=</text>
+        <text encoding="base64">LSBEb2MvT2ZmaWNlIEdyb3VwcyBzb3J0aW5nIGlzIGJyb2tlbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbXBsYXRlIGZyb20gJ3dlYi92aWV3cy9hc3BpcmUvcGFnZXMvbWFhcC9zZWFyY2gvYXNwaXJlLXNlYXJjaC5odG1sJwo=</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aDogMTAwLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbXBsYXRlIGZyb20gJ3dlYi92aWV3cy9hc3BpcmUvcGFnZXMvbWFhcC9tYWFwLXRhYmxlL21hYXAtdGFibGUuaHRtbCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbXBsYXRlIGZyb20gJ3dlYi92aWV3cy9hc3BpcmUvcGFnZXMvbWFhcC9tYWFwLWJvdHRvbS10YWJsZS9tYWFwLWJvdHRvbS10YWJsZS5odG1sJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
