@@ -362,10 +362,19 @@
         <mark key="^" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/console" timestamp="1592204636492">
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/transaction.py" timestamp="1592209247162">
+        <mark key="'" line="32" column="6" />
+      </file>
+      <file name="/console" timestamp="1592209327884">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.8/site-packages/dogpile.cache-0.9.2.dist-info/METADATA" timestamp="1592206077700" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1592209482322">
+        <mark key="'" line="534" column="19" />
+        <mark key="[" line="570" column="0" />
+        <mark key="]" line="570" column="27" />
+        <mark key="." line="570" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" timestamp="1592204595241">
         <mark key="[" line="11" column="16" />
         <mark key="]" line="12" column="89" />
@@ -380,12 +389,6 @@
       </file>
       <file name="$USER_HOME$/code/trash/sqlalchemy/examples/dogpile_caching/local_session_caching.py" timestamp="1592206701454" />
       <file name="$USER_HOME$/code/trash/sqlalchemy/examples/dogpile_caching/caching_query.py" timestamp="1592208226432" />
-      <file name="$USER_HOME$/code/sc/web/static/web/web.conf.ts" timestamp="1592201754648">
-        <mark key="[" line="129" column="13" />
-        <mark key="]" line="129" column="19" />
-        <mark key="." line="129" column="18" />
-        <mark key="^" line="129" column="19" />
-      </file>
       <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.8/site-packages/dogpile/cache/region.py" timestamp="1592208571772" />
       <file name="$USER_HOME$/code/sc/web/static/web/permissions/permissions.ts" timestamp="1592202033585">
         <mark key="[" line="7" column="12" />
@@ -412,17 +415,15 @@
         <mark key="^" line="614" column="34" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/core/caching_query.py" timestamp="1592208423703" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" timestamp="1592204650779">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" timestamp="1592209325648">
         <mark key="'" line="166" column="14" />
-        <mark key="[" line="192" column="1" />
-        <mark key="]" line="197" column="0" />
-        <mark key="^" line="197" column="0" />
-        <mark key="." line="197" column="0" />
+        <mark key="[" line="203" column="20" />
+        <mark key="]" line="204" column="4" />
+        <mark key="^" line="204" column="4" />
+        <mark key="." line="204" column="3" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/look-forward/arrow-look-forward.html" />
-      <jump line="19" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/look-forward/arrow-look-forward.html" />
       <jump line="17" column="50" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/lost-opportunity/arrow-lost.html" />
       <jump line="25" column="26" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/encounters/arrow-encounters.html" />
       <jump line="8" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/arrowlytics/pages/encounters/kpis/encounters-by-type/encounters-by-type.ts" />
@@ -521,15 +522,17 @@
       <jump line="88" column="0" filename="$USER_HOME$/code/sc/web/cli/scripts/v700.py" />
       <jump line="166" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" />
       <jump line="30" column="2" filename="$USER_HOME$/code/sc/web/sc/coms/ext/cachepile.py" />
+      <jump line="32" column="6" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/transaction.py" />
+      <jump line="534" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>region=&quot;daily&quot;</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICBhbmQgYGdyb3Vwc2AubmFtZSA9ICdQQ0EnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>region=&quot;daily&quot;</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -538,34 +541,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgZGVmIGhqX2NhY2hlKHNlbGYsIGtleT1Ob25lLCByZWdpb249ImRhaWx5IikgLT4gIkJhc2VRdWVyeSI6CiAgICAiIiJBZGQgcXVlcnkub3B0aW9uIHRvIG1ha2UgdXNlIG9mIGRvZ3BpbGUgY2FjaGluZyIiIgogICAgcmV0dXJuIHNlbGYub3B0aW9ucyhGcm9tQ2FjaGUocmVnaW9uLCBrZXkpKQo=</text>
+        <text encoding="base64">ICBhbmQgYGdyb3Vwc2AubmFtZSA9ICdQQ0EnCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgIyBmb3IgciwgZXhwaXJlIGluIHJvd3M6CgogIHJlZ2lvbnMgPSB7CiAgICAiZGVmYXVsdCI6IG1ha2VfcmVnaW9uKGtleV9tYW5nbGVyPW1kNV9rZXlfbWFuZ2xlcikuY29uZmlndXJlKAogICAgICAiZG9ncGlsZS5jYWNoZS5tZW1jYWNoZWQiLAogICAgICBleHBpcmF0aW9uX3RpbWU9NjAgKiA2MCAqIDgsCiAgICAgIGFyZ3VtZW50cz17InVybCI6IGYne2FwcC5jb25maWdbIk1FTUNBQ0hFRF9IT1NUIl19OjExMjExJ30sCiAgICAgIHdyYXA9W0xvZ2dpbmdQcm94eV0sCiAgICApCiAgfQo=</text>
+        <text encoding="base64">ICBhbmQgaGpfdHJhbnNhY3Rpb24udHlwZSA9ICdBJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBhbmQgYGdyb3Vwc2AubmFtZSA9ICdQQ0EnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBoaiA9IG1ha2VfcmVnaW9uKCdoaicsIGtleV9tYW5nbGVyPW1kNV9rZXlfbWFuZ2xlciksIDYwICogNjAK</text>
+        <text encoding="base64">ICBhbmQgaGpfdHJhbnNhY3Rpb24udHlwZSA9ICdBJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgZGVmIGhqX2NhY2hlKHNlbGYsIGtleT1Ob25lLCByZWdpb249ImRhaWx5IikgLT4gIkJhc2VRdWVyeSI6CiAgICAiIiJBZGQgcXVlcnkub3B0aW9uIHRvIG1ha2UgdXNlIG9mIGRvZ3BpbGUgY2FjaGluZyIiIgogICAgcmV0dXJuIHNlbGYub3B0aW9ucyhGcm9tQ2FjaGUocmVnaW9uLCBrZXkpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgIyBoZXJlIHdlIHJldHVybiB0aGUga2V5IGFzIGEgbG9uZyBzdHJpbmcuICBvdXIgImtleSBtYW5nbGVyIgogICMgc2V0IHVwIHdpdGggdGhlIHJlZ2lvbiB3aWxsIGJvaWwgaXQgZG93biB0byBhbiBtZDUuCg==</text>
+        <text encoding="base64">CiAgIyBmb3IgciwgZXhwaXJlIGluIHJvd3M6CgogIHJlZ2lvbnMgPSB7CiAgICAiZGVmYXVsdCI6IG1ha2VfcmVnaW9uKGtleV9tYW5nbGVyPW1kNV9rZXlfbWFuZ2xlcikuY29uZmlndXJlKAogICAgICAiZG9ncGlsZS5jYWNoZS5tZW1jYWNoZWQiLAogICAgICBleHBpcmF0aW9uX3RpbWU9NjAgKiA2MCAqIDgsCiAgICAgIGFyZ3VtZW50cz17InVybCI6IGYne2FwcC5jb25maWdbIk1FTUNBQ0hFRF9IT1NUIl19OjExMjExJ30sCiAgICAgIHdyYXA9W0xvZ2dpbmdQcm94eV0sCiAgICApCiAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgVGhlcmUgYXJlIG1hbnkgYXBwcm9hY2hlcyB0byB0aGlzOyBoZXJlIHdlIHVzZSB0aGUgc2ltcGxlc3QsCiAgd2hpY2ggaXMgdG8gY3JlYXRlIGFuIG1kNSBoYXNoIG9mIHRoZSB0ZXh0IG9mIHRoZSBTUUwgc3RhdGVtZW50LAogIGNvbWJpbmVkIHdpdGggc3RyaW5naWZpZWQgdmVyc2lvbnMgb2YgYWxsIHRoZSBib3VuZCBwYXJhbWV0ZXJzCiAgd2l0aGluIGl0LiAgICAgVGhlcmUncyBhIGJpdCBvZiBhIHBlcmZvcm1hbmNlIGhpdCB3aXRoCiAgY29tcGlsaW5nIG91dCAicXVlcnkuc3RhdGVtZW50IiBoZXJlOyBvdGhlciBhcHByb2FjaGVzIGluY2x1ZGUKICBzZXR0aW5nIHVwIGFuIGV4cGxpY2l0IGNhY2hlIGtleSB3aXRoIGEgcGFydGljdWxhciBRdWVyeSwKICB0aGVuIGNvbWJpbmluZyB0aGF0IHdpdGggdGhlIGJvdW5kIHBhcmFtZXRlciB2YWx1ZXMuCgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBoaiA9IG1ha2VfcmVnaW9uKCdoaicsIGtleV9tYW5nbGVyPW1kNV9rZXlfbWFuZ2xlciksIDYwICogNjAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSBIYW5kbGUgcHJldmlvdXNfYXBwdDogQ2hlY2sgdGhlIHBlbmRpbmcgc3VicXVlcnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
