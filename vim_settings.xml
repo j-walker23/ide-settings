@@ -376,18 +376,13 @@
       <file name="$USER_HOME$/code/sc/web/migrations/versions/9898e3144153__108.py" timestamp="1592243654462">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/marketing_report/listings.py" timestamp="1592245566336" />
       <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1592244006720">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="44" column="16" />
         <mark key="]" line="44" column="20" />
         <mark key="." line="44" column="19" />
         <mark key="^" line="44" column="20" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" timestamp="1592224317964">
-        <mark key="[" line="32" column="23" />
-        <mark key="]" line="32" column="23" />
-        <mark key="." line="32" column="22" />
-        <mark key="^" line="32" column="23" />
       </file>
       <file name="$USER_HOME$/code/sc/web/migrations/versions/9f9ffd336892__108.py" timestamp="1592243657759">
         <mark key="'" line="0" column="0" />
@@ -411,13 +406,15 @@
         <mark key="'" line="16" column="6" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/platforms/listings/google/__init__.py" timestamp="1592244353037" />
-      <file name="$USER_HOME$/code/sc/web/static/common/constants.ts" timestamp="1592224657617">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/migrations/versions/8cbb21f3e284__109.py" timestamp="1592243661705">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" timestamp="1592245723425">
+        <mark key="'" line="166" column="14" />
+        <mark key="[" line="241" column="8" />
+        <mark key="]" line="242" column="10" />
+        <mark key="^" line="242" column="10" />
+        <mark key="." line="242" column="9" />
       </file>
       <file name="$USER_HOME$/code/sc/web/cli/machine.py" timestamp="1592243396199" />
       <file name="$USER_HOME$/code/sc/web/migrations/versions/88dff7b89f64__107.py" timestamp="1592243704919" />
@@ -534,11 +531,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="+" type="4">
+        <text>auth_locs</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>auth_locs</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
