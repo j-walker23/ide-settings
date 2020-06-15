@@ -344,23 +344,28 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" timestamp="1592208701049">
+        <mark key="[" line="77" column="19" />
+        <mark key="]" line="77" column="31" />
+        <mark key="^" line="77" column="31" />
+        <mark key="." line="77" column="30" />
+      </file>
       <file name="/Python Console" timestamp="1592205108693">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1592205131530">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/aspire/doctors_view.py" timestamp="1592208741842">
+        <mark key="[" line="34" column="10" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="/console" timestamp="1592204636492">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.8/site-packages/dogpile.cache-0.9.2.dist-info/METADATA" timestamp="1592206077700" />
-      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/aspire_args.py" timestamp="1592201710042">
-        <mark key="'" line="130" column="17" />
-        <mark key="[" line="130" column="12" />
-        <mark key="]" line="130" column="18" />
-        <mark key="^" line="130" column="18" />
-        <mark key="." line="130" column="17" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" timestamp="1592204595241">
         <mark key="[" line="11" column="16" />
         <mark key="]" line="12" column="89" />
@@ -373,20 +378,15 @@
         <mark key="." line="10" column="18" />
         <mark key="^" line="10" column="19" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/models/hj/new-app-type.model.ts" timestamp="1592201730311">
-        <mark key="[" line="3" column="22" />
-        <mark key="]" line="3" column="28" />
-        <mark key="." line="3" column="27" />
-        <mark key="^" line="3" column="28" />
-      </file>
       <file name="$USER_HOME$/code/trash/sqlalchemy/examples/dogpile_caching/local_session_caching.py" timestamp="1592206701454" />
+      <file name="$USER_HOME$/code/trash/sqlalchemy/examples/dogpile_caching/caching_query.py" timestamp="1592208226432" />
       <file name="$USER_HOME$/code/sc/web/static/web/web.conf.ts" timestamp="1592201754648">
         <mark key="[" line="129" column="13" />
         <mark key="]" line="129" column="19" />
         <mark key="." line="129" column="18" />
         <mark key="^" line="129" column="19" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.8/site-packages/dogpile/cache/region.py" timestamp="1592205011245" />
+      <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.8/site-packages/dogpile/cache/region.py" timestamp="1592208571772" />
       <file name="$USER_HOME$/code/sc/web/static/web/permissions/permissions.ts" timestamp="1592202033585">
         <mark key="[" line="7" column="12" />
         <mark key="]" line="7" column="18" />
@@ -399,27 +399,25 @@
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/coms/ext/cachepile.py" timestamp="1592205313633">
-        <mark key="'" line="30" column="2" />
+      <file name="$USER_HOME$/code/sc/web/sc/coms/ext/cachepile.py" timestamp="1592208605884">
+        <mark key="[" line="41" column="26" />
+        <mark key="]" line="41" column="41" />
+        <mark key="^" line="41" column="41" />
+        <mark key="." line="41" column="40" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" timestamp="1592205071677">
-        <mark key="[" line="653" column="38" />
-        <mark key="]" line="653" column="45" />
-        <mark key="." line="653" column="44" />
-        <mark key="^" line="653" column="45" />
+      <file name="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" timestamp="1592208505337">
+        <mark key="[" line="614" column="18" />
+        <mark key="]" line="614" column="34" />
+        <mark key="." line="614" column="33" />
+        <mark key="^" line="614" column="34" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/core/caching_query.py" timestamp="1592208423703" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" timestamp="1592204650779">
         <mark key="'" line="166" column="14" />
         <mark key="[" line="192" column="1" />
         <mark key="]" line="197" column="0" />
         <mark key="^" line="197" column="0" />
         <mark key="." line="197" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/tasks/hj/collecting.py" timestamp="1592201681751">
-        <mark key="[" line="42" column="25" />
-        <mark key="]" line="42" column="31" />
-        <mark key="." line="42" column="30" />
-        <mark key="^" line="42" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -528,10 +526,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>cache_key</text>
+        <text>region=&quot;daily&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>cache_key</text>
+        <text>region=&quot;daily&quot;</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -540,34 +538,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgZGVmIGhqX2NhY2hlKHNlbGYsIGtleT1Ob25lLCByZWdpb249ImRhaWx5IikgLT4gIkJhc2VRdWVyeSI6CiAgICAiIiJBZGQgcXVlcnkub3B0aW9uIHRvIG1ha2UgdXNlIG9mIGRvZ3BpbGUgY2FjaGluZyIiIgogICAgcmV0dXJuIHNlbGYub3B0aW9ucyhGcm9tQ2FjaGUocmVnaW9uLCBrZXkpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgIyBoZXJlIHdlIHJldHVybiB0aGUga2V5IGFzIGEgbG9uZyBzdHJpbmcuICBvdXIgImtleSBtYW5nbGVyIgogICMgc2V0IHVwIHdpdGggdGhlIHJlZ2lvbiB3aWxsIGJvaWwgaXQgZG93biB0byBhbiBtZDUuCg==</text>
+        <text encoding="base64">CiAgIyBmb3IgciwgZXhwaXJlIGluIHJvd3M6CgogIHJlZ2lvbnMgPSB7CiAgICAiZGVmYXVsdCI6IG1ha2VfcmVnaW9uKGtleV9tYW5nbGVyPW1kNV9rZXlfbWFuZ2xlcikuY29uZmlndXJlKAogICAgICAiZG9ncGlsZS5jYWNoZS5tZW1jYWNoZWQiLAogICAgICBleHBpcmF0aW9uX3RpbWU9NjAgKiA2MCAqIDgsCiAgICAgIGFyZ3VtZW50cz17InVybCI6IGYne2FwcC5jb25maWdbIk1FTUNBQ0hFRF9IT1NUIl19OjExMjExJ30sCiAgICAgIHdyYXA9W0xvZ2dpbmdQcm94eV0sCiAgICApCiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgVGhlcmUgYXJlIG1hbnkgYXBwcm9hY2hlcyB0byB0aGlzOyBoZXJlIHdlIHVzZSB0aGUgc2ltcGxlc3QsCiAgd2hpY2ggaXMgdG8gY3JlYXRlIGFuIG1kNSBoYXNoIG9mIHRoZSB0ZXh0IG9mIHRoZSBTUUwgc3RhdGVtZW50LAogIGNvbWJpbmVkIHdpdGggc3RyaW5naWZpZWQgdmVyc2lvbnMgb2YgYWxsIHRoZSBib3VuZCBwYXJhbWV0ZXJzCiAgd2l0aGluIGl0LiAgICAgVGhlcmUncyBhIGJpdCBvZiBhIHBlcmZvcm1hbmNlIGhpdCB3aXRoCiAgY29tcGlsaW5nIG91dCAicXVlcnkuc3RhdGVtZW50IiBoZXJlOyBvdGhlciBhcHByb2FjaGVzIGluY2x1ZGUKICBzZXR0aW5nIHVwIGFuIGV4cGxpY2l0IGNhY2hlIGtleSB3aXRoIGEgcGFydGljdWxhciBRdWVyeSwKICB0aGVuIGNvbWJpbmluZyB0aGF0IHdpdGggdGhlIGJvdW5kIHBhcmFtZXRlciB2YWx1ZXMuCgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBoaiA9IG1ha2VfcmVnaW9uKCdoaicsIGtleV9tYW5nbGVyPW1kNV9rZXlfbWFuZ2xlciksIDYwICogNjAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LSBIYW5kbGUgcHJldmlvdXNfYXBwdDogQ2hlY2sgdGhlIHBlbmRpbmcgc3VicXVlcnkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgIyBoZXJlIHdlIHJldHVybiB0aGUga2V5IGFzIGEgbG9uZyBzdHJpbmcuICBvdXIgImtleSBtYW5nbGVyIgogICMgc2V0IHVwIHdpdGggdGhlIHJlZ2lvbiB3aWxsIGJvaWwgaXQgZG93biB0byBhbiBtZDUuCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAjIHByaW50KCJKSDogU1lOQyBBTEwgTElTVElOR1MgT04gUFJPRCIpCg==</text>
+        <text encoding="base64">CiAgVGhlcmUgYXJlIG1hbnkgYXBwcm9hY2hlcyB0byB0aGlzOyBoZXJlIHdlIHVzZSB0aGUgc2ltcGxlc3QsCiAgd2hpY2ggaXMgdG8gY3JlYXRlIGFuIG1kNSBoYXNoIG9mIHRoZSB0ZXh0IG9mIHRoZSBTUUwgc3RhdGVtZW50LAogIGNvbWJpbmVkIHdpdGggc3RyaW5naWZpZWQgdmVyc2lvbnMgb2YgYWxsIHRoZSBib3VuZCBwYXJhbWV0ZXJzCiAgd2l0aGluIGl0LiAgICAgVGhlcmUncyBhIGJpdCBvZiBhIHBlcmZvcm1hbmNlIGhpdCB3aXRoCiAgY29tcGlsaW5nIG91dCAicXVlcnkuc3RhdGVtZW50IiBoZXJlOyBvdGhlciBhcHByb2FjaGVzIGluY2x1ZGUKICBzZXR0aW5nIHVwIGFuIGV4cGxpY2l0IGNhY2hlIGtleSB3aXRoIGEgcGFydGljdWxhciBRdWVyeSwKICB0aGVuIGNvbWJpbmluZyB0aGF0IHdpdGggdGhlIGJvdW5kIHBhcmFtZXRlciB2YWx1ZXMuCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QHNjcmlwdC5jb21tYW5kKCI3MjciKQpAbG9hZF9hcHAKZGVmIHY3MjcoKToKICAiIiIiIiIKICBmcm9tIGNsaS5zY3JpcHRzIGltcG9ydCBtNzAwCgogIG03MDAuc2V0X2NhdHMoKQogIG03MDAuc2V0X29pZHMoKQogIG03MDAuc2V0X3JlYWx0aW1lKCkKICBtNzAwLnNldF9wbGF0X3N5bmNzKCkKICBtNzAwLnNldF9xYl9pbnZzKCkKICBwcmludCgiVW5zdWIgQ2hpbGlzIikKICBwcmludCgiTnVsbENvbW1lbnRzIikKCgpAc2NyaXB0LmNvbW1hbmQoIjcyNiIpCkBsb2FkX2FwcApkZWYgdjcyNigpOgogICIiIiIiIgogIGZyb20gY2xpLnNjcmlwdHMgaW1wb3J0IG03MDAKCiAgbTcwMC5zZXRfcm9sZSgpCgoKQHNjcmlwdC5jb21tYW5kKCI3MjQiKQpAbG9hZF9hcHAKZGVmIHY3MjQoKToKICAiIiIiIiIKICBmcm9tIGNsaS5zY3JpcHRzIGltcG9ydCBtNzAwCgogIG03MDAuc2V0X2RlZmF1bHRfZ21iX3JlcGx5X2xpYnJhcnkoKQoKCkBzY3JpcHQuY29tbWFuZCgiNzIzIikKQGxvYWRfYXBwCmRlZiB2NzIzKCk6CiAgIiIiIiIiCiAgZnJvbSBjbGkuc2NyaXB0cyBpbXBvcnQgbTcwMAoKICBtNzAwLnNldF90YXJnZXRzKCkKCgpAc2NyaXB0LmNvbW1hbmQoIjcyMSIpCkBsb2FkX2FwcApkZWYgdjcyMSgpOgogICIiIiIiIgogIGZyb20gY2xpLnNjcmlwdHMgaW1wb3J0IG03MDAKCiAgbTcwMC5jbGVhbl9jYWxsX3RyYWNraW5nX2RhdGFfcGhvbmVudW1iZXJzKCkKCgpAc2NyaXB0LmNvbW1hbmQoIjcxOCIpCkBsb2FkX2FwcApkZWYgdjcxOCgpOgogICIiIiIiIgogIGZyb20gY2xpLnNjcmlwdHMgaW1wb3J0IG03MDAKCiAgIyBtNzAwLnNldF9xdWVzdGlvbl90ZW1wbGF0ZV9uYW1lKCkKICAjIG03MDAuc2V0X2RlZmF1bHRfcmVwbHlfbGlicmFyeSgpCiAgbTcwMC5uZXdfdXRtcygpCgoKQHNjcmlwdC5jb21tYW5kKCI3MTciKQpAbG9hZF9hcHAKZGVmIHY3MTcoKToKICAiIiIiIiIKICBmcm9tIGNsaS5zY3JpcHRzIGltcG9ydCBtNzAwCgogIG03MDAuc2V0X3Zhcl9zdWIoKQogIG03MDAuc2V0X2RlbGV0ZV9kZWZhdWx0cygpCiAgbTcwMC5zZXRfcHJvdmlkZXJzKCkKICBtNzAwLnNldF9wcm92X3N1cnZzKCkKICBtNzAwLnNldF9kZWZhdWx0X21lc3NhZ2VzKCkKICBtNzAwLnNldF91dG1zKCkKCgpAc2NyaXB0LmNvbW1hbmQoIjcxNiIpCkBsb2FkX2FwcApkZWYgdjcxNigpOgogICIiIiIiIgogIGZyb20gY2xpLnNjcmlwdHMgaW1wb3J0IG03MDAKCiAgbTcwMC5zZXRfdXRtcygpCgoKQHNjcmlwdC5jb21tYW5kKCI3MTUiKQpAbG9hZF9hcHAKZGVmIHY3MTUoKToKICAiIiIiIiIKICBmcm9tIGNsaS5zY3JpcHRzIGltcG9ydCBtNzAwCgogIG03MDAuc2V0X3BhcmVudHMoKQogIG03MDAuc2V0X2FyY2hpdmVkX2xpc3RpbmdzKCkKCgpAc2NyaXB0LmNvbW1hbmQoIjcxNCIpCkBsb2FkX2FwcApkZWYgdjcxNCgpOgogICIiIiIiIgogIGZyb20gY2xpLnNjcmlwdHMgaW1wb3J0IG03MDAKCiAgbTcwMC5sb2FkX2FyZWFjb2RlX292ZXJsYXkoKQoKCkBzY3JpcHQuY29tbWFuZCgiNzEzIikKQGxvYWRfYXBwCmRlZiB2NzEzKCk6CiAgIiIiIiIiCiAgZnJvbSBjbGkuc2NyaXB0cyBpbXBvcnQgbTcwMAoKICBtNzAwLmxvYWRfZGVmYXVsdF9pbWFnZSgpCgoKQHNjcmlwdC5jb21tYW5kKCI3MTIiKQpAbG9hZF9hcHAKZGVmIHY3MTIoKToKICAiIiIiIiIKICBmcm9tIGNsaS5zY3JpcHRzIGltcG9ydCBtNzAwCgogIG03MDAubG9hZF9jcHQoKQoKCkBzY3JpcHQuY29tbWFuZCgiNzExIikKQGxvYWRfYXBwCmRlZiB2NzExKCk6CiAgIiIiIiIiCiAgZnJvbSBjbGkuc2NyaXB0cyBpbXBvcnQgbTcwMAoKICBtNzAwLmltcG9ydF90d2lsaW8oKQoKCkBzY3JpcHQuY29tbWFuZCgiNzEwIikKQGxvYWRfYXBwCmRlZiB2NzEwKCk6CiAgIiIiIiIiCiAgZnJvbSBjbGkuc2NyaXB0cyBpbXBvcnQgbTcwMAoKICBtNzAwLnNldF9rd3MoKQoKCkBzY3JpcHQuY29tbWFuZCgiNzA5IikKQGxvYWRfYXBwCmRlZiB2NzA5KCk6CiAgIiIiIiIiCiAgZnJvbSBjbGkuc2NyaXB0cyBpbXBvcnQgbTcwMAoKICBtNzAwLnNldF9hZGR5cygpCgoKQHNjcmlwdC5jb21tYW5kKCI3MDgiKQpAbG9hZF9hcHAKZGVmIHY3MDgoKToKICAiIiIiIiIKICBmcm9tIGNsaS5zY3JpcHRzIGltcG9ydCBtNzAwCgogIG03MDAuc2V0X2ltZ3MoKQogIG03MDAuc2V0X3Byb3ZfaW1ncygpCiAgbTcwMC5zZXRfd2hpdGVsYWJlbHMoKQogIG03MDAuc2V0X2xvZ29zKCkKICBtNzAwLnNldF9zdWJfc3BlY2lhbHRpZXMoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBtNzAwLnB1YmxpY19yZXZpZXdfZGlzY2xhaW1lcigpCg==</text>
+        <text encoding="base64">LSBIYW5kbGUgcHJldmlvdXNfYXBwdDogQ2hlY2sgdGhlIHBlbmRpbmcgc3VicXVlcnkK</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
