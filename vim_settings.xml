@@ -408,11 +408,11 @@
         <mark key="^" line="3" column="33" />
         <mark key="." line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1592505220871">
-        <mark key="[" line="954" column="0" />
-        <mark key="]" line="954" column="0" />
-        <mark key="." line="954" column="0" />
-        <mark key="^" line="967" column="16" />
+      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1592509512351">
+        <mark key="[" line="978" column="29" />
+        <mark key="]" line="978" column="27" />
+        <mark key="^" line="978" column="27" />
+        <mark key="." line="978" column="26" />
       </file>
     </filemarks>
     <jumps>
@@ -520,11 +520,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">QGNvbW1pdF9vcl9yb2xsCg==</text>
+      <register name="+" type="4">
+        <text>name</text>
       </register>
       <register name="-" type="4">
-        <text>m.group(1)</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>sdf</text>
@@ -533,34 +533,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QGNvbW1pdF9vcl9yb2xsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAogICAgICAgICAgY2lkcyA9IGdldGF0dHIobW9kdWxlLCAiSEpfQ0xJRU5UX0lEUyIsIFtdKQogICAgICAgICAgZmlsdGVyZWRfdHlwZXMgPSBnZXRhdHRyKG1vZHVsZSwgImZpbHRlcmVkX3R5cGVzIiwgW10pCgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIyBwcmludChwLnBhcmVudCwgcC5uYW1lKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgbSA6PSByZS5zZWFyY2gociJhY2NvdW50X2lkID0gKFxkKykiLCBmLnJlYWQoKSk6CiAgICAgICAgZWxzZToKCiAgICAgICAgZGF0YSA9IHJlLnNlYXJjaChyImFjY291bnRfaWQgPSAoXGQrKSIsIGYucmVhZCgpKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFpZCA9IGludChtLmdyb3VwKDEpKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByaW50KHAubmFtZSwgIkZhaWxlZCB0byBmaW5kIGFjY291bnRfaWQiKQogICAgICAgICAgY29udGludWUK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByaW50KGFpZCwgdHlwZShhaWQpKQogICAgICAgICAgY29udGludWUK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIG5hbWUgPSBwLm5hbWUucmVwbGFjZSgiLnB5IiwgIiIpCiAgICAgICAgICBtb2R1bGUgPSBpbXBvcnRsaWIuaW1wb3J0X21vZHVsZShuYW1lKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb250aW51ZQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">QGNvbW1pdF9vcl9yb2xsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgIyBwcmludChwLnBhcmVudCwgcC5uYW1lKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICAgICAgaWYgbSA6PSByZS5zZWFyY2gociJhY2NvdW50X2lkID0gKFxkKykiLCBmLnJlYWQoKSk6CiAgICAgICAgZWxzZToKCiAgICAgICAgZGF0YSA9IHJlLnNlYXJjaChyImFjY291bnRfaWQgPSAoXGQrKSIsIGYucmVhZCgpKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByaW50KHAubmFtZSwgJ0ZhaWxlZCB0byBmaW5kIGFjY291bnRfaWQnKQogICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">ICAgICAgICAgIGFpZCA9IGludChtLmdyb3VwKDEpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHByaW50KHAubmFtZSwgIkZhaWxlZCB0byBmaW5kIGFjY291bnRfaWQiKQogICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
