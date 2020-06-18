@@ -349,9 +349,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/apis/hj_active_orthopedics.py" timestamp="1592495958068">
-        <mark key="'" line="52" column="4" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/apis/hj_active_orthopedics.py" timestamp="1592503768506">
+        <mark key="'" line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/apis/utils.py" timestamp="1592502461006" />
       <file name="$USER_HOME$/code/sc/web/cli/apis/hj.py" timestamp="1592493233062">
         <mark key="'" line="20" column="0" />
       </file>
@@ -372,6 +373,9 @@
         <mark key="." line="1110" column="44" />
         <mark key="^" line="1110" column="45" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/coms/ext/jsoncoders.py" timestamp="1592502906927">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/integ/__init__.py" timestamp="1592498341821" />
       <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" timestamp="1592497178881">
         <mark key="[" line="28" column="0" />
@@ -381,26 +385,10 @@
       <file name="$USER_HOME$/code/sc/web/package.json" timestamp="1592480681698">
         <mark key="'" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/adjustments/arrow-adjustments.html" timestamp="1592430110675">
+      <file name="/usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/importlib/__init__.py" timestamp="1592503149998" />
+      <file name="$USER_HOME$/code/sc/web/cli/__init__.py" timestamp="1592503676716" />
+      <file name="$USER_HOME$/code/sc/web/sc/coms/ext/classful.py" timestamp="1592503022082">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/light/light-grid.ts" timestamp="1592430000821">
-        <mark key="[" line="51" column="21" />
-        <mark key="]" line="51" column="24" />
-        <mark key="." line="51" column="23" />
-        <mark key="^" line="51" column="24" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/adjustments/kpis/adj-ntg/adj-ntg.ts" timestamp="1592430194322">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="43" column="2" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/charges/kpis/top-tier-compare/top-tier-compare.ts" timestamp="1592430178583">
-        <mark key="[" line="43" column="47" />
-        <mark key="]" line="43" column="45" />
-        <mark key="." line="43" column="44" />
-        <mark key="^" line="43" column="45" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/kpis.py" timestamp="1592494554819">
         <mark key="'" line="81" column="4" />
@@ -413,29 +401,20 @@
         <mark key="]" line="519" column="0" />
         <mark key="." line="519" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/charges/kpis/top-tier-compare/top-tier-compare.html" timestamp="1592430756880">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/adjustments/kpis/adj-ntg/adj-ntg.html" timestamp="1592430164017">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/crud.py" timestamp="1592494590998">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="3" column="33" />
         <mark key="^" line="3" column="33" />
         <mark key="." line="3" column="32" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1592504080725">
+        <mark key="[" line="127" column="19" />
+        <mark key="]" line="127" column="25" />
+        <mark key="." line="127" column="24" />
+        <mark key="^" line="127" column="25" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="4" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/aspire/charges_view.py" />
-      <jump line="51" column="18" filename="$USER_HOME$/code/sc/web/sc/coms/search/auto/auto_search.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" />
-      <jump line="15" column="0" filename="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" />
       <jump line="91" column="23" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" />
       <jump line="27" column="11" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" />
@@ -523,7 +502,6 @@
       <jump line="1107" column="4" filename="$USER_HOME$/code/sc/web/sc/app/tasks/integrate.py" />
       <jump line="526" column="4" filename="$USER_HOME$/code/sc/web/main_cron.py" />
       <jump line="259" column="8" filename="$USER_HOME$/code/sc/web/sc/app/tasks/integrate.py" />
-      <jump line="52" column="4" filename="$USER_HOME$/code/sc/web/sc/app/integs/apis/hj_active_orthopedics.py" />
       <jump line="541" column="3" filename="$USER_HOME$/code/sc/web/main_cron.py" />
       <jump line="228" column="4" filename="$USER_HOME$/code/sc/web/sc/app/tasks/integrate.py" />
       <jump line="56" column="4" filename="$USER_HOME$/code/sc/web/sc/app/integs/apis/hj_sieht.py" />
@@ -532,15 +510,20 @@
       <jump line="208" column="55" filename="$USER_HOME$/code/sc/web/sc/app/integs/apis/hj_sieht.py" />
       <jump line="100" column="24" filename="$USER_HOME$/code/sc/web/sc/app/integs/apis/hj_sieht.py" />
       <jump line="141" column="4" filename="$USER_HOME$/code/sc/web/sc/app/integs/apis/hj_sieht.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/coms/ext/classful.py" />
+      <jump line="52" column="4" filename="$USER_HOME$/code/sc/web/sc/app/integs/apis/hj_active_orthopedics.py" />
+      <jump line="22" column="16" filename="$USER_HOME$/code/sc/web/cli/john.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/code/sc/web/sc/app/integs/apis/hj_active_orthopedics.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/coms/ext/jsoncoders.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICMgCg==</text>
+        <text encoding="base64">ICAgICAgIyBwcmludChwLnBhcmVudCwgcC5uYW1lKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>fn</text>
+        <text>m.group(1)</text>
       </register>
       <register name="/" type="4">
         <text>sdf</text>
@@ -549,34 +532,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgCg==</text>
+        <text encoding="base64">ICAgICAgIyBwcmludChwLnBhcmVudCwgcC5uYW1lKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGhqX3Byb2Nlc3NvciA9IEhKU1thaWRdCg==</text>
+        <text encoding="base64">CiAgICAgICAgaWYgbSA6PSByZS5zZWFyY2gociJhY2NvdW50X2lkID0gKFxkKykiLCBmLnJlYWQoKSk6CiAgICAgICAgZWxzZToKCiAgICAgICAgZGF0YSA9IHJlLnNlYXJjaChyImFjY291bnRfaWQgPSAoXGQrKSIsIGYucmVhZCgpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgpicmV3IGluc3RhbGwgbXlzcWxANS43CnJ1biB0aGUgY29tbWFuZHMgQnJldyBzdWdnZXN0cywgYWRkIE15U1FMIHRvIGxhdW5jaGN0bCBzbyBpdCBhdXRvbWF0aWNhbGx5IGxhdW5jaGVzIGF0IHN0YXJ0dXAK</text>
+        <text encoding="base64">ICAgICAgICAgIGFpZCA9IGludChtLmdyb3VwKDEpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dW5zZXQgVE1QRElSCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHByaW50KHAubmFtZSwgIkZhaWxlZCB0byBmaW5kIGFjY291bnRfaWQiKQogICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgZm10OiBvZmYK</text>
+        <text encoding="base64">ICAgICAgICAgIHByaW50KGFpZCwgdHlwZShhaWQpKQogICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgpJbiBjYXNlIEkganVzdCBjb25mdXNlZCBldmVyeXRoaW5nIHdpdGggdGhlICJlcXVpdmFsZW50Ii4gWW91IGNhbiBpZ25vcmUgdGhhdC4KCkFsbCB0aGF0IGlzIG5lZWRlZCBpcyB0aGlzIGNvbHVtbiAicHJvdmlkZXIuaW50ZXJuYWxfcHJvdmlkZXJfaW5kIi4KVGhpcyBhbHJlYWR5IGV4aXN0cywgInZpZXdfcHJvdmlkZXIuaW50ZXJuYWxfcHJvdmlkZXJfaW5kIi4KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LSAK</text>
+        <text encoding="base64">ICAgICAgICAgIHByaW50KHAubmFtZSwgJ0ZhaWxlZCB0byBmaW5kIGFjY291bnRfaWQnKQogICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">d2hlcmUgCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW5zZXJ0IGludG8K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
