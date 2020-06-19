@@ -229,12 +229,12 @@
         <entry>boost</entry>
         <entry>exports</entry>
         <entry>parse_d</entry>
-        <entry>asdf</entry>
         <entry>.hj</entry>
         <entry>sadf</entry>
-        <entry>grid</entry>
         <entry>sdf</entry>
         <entry>center</entry>
+        <entry>grid</entry>
+        <entry>asdf</entry>
       </history-search>
       <history-cmd>
         <entry>SplitVertically</entry>
@@ -356,11 +356,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/integrations/healthjumps_view.py" timestamp="1592562515263">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" timestamp="1592565315011">
         <mark key="[" line="106" column="26" />
         <mark key="]" line="106" column="30" />
@@ -376,6 +371,9 @@
         <mark key="]" line="33" column="41" />
         <mark key="." line="33" column="40" />
         <mark key="^" line="33" column="41" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/vitally/event.py" timestamp="1592572036837">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/config/doctors/doctors.ts" timestamp="1592565594931">
         <mark key="[" line="130" column="18" />
@@ -431,14 +429,10 @@
         <mark key="]" line="14" column="26" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/tasks/invite.py" timestamp="1592562691879">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="143" column="58" />
-        <mark key="]" line="143" column="65" />
-        <mark key="^" line="143" column="65" />
-        <mark key="." line="143" column="64" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/static/common/components/multi-item/multi-item.sass" timestamp="1592567042673" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/med-imports/med-imports.ts" timestamp="1592580921578">
+        <mark key="'" line="37" column="13" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/tasks/hj/collecting.py" timestamp="1592563378585">
         <mark key="'" line="105" column="0" />
         <mark key="[" line="55" column="63" />
@@ -449,8 +443,6 @@
       <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/doctor.py" timestamp="1592565442634" />
     </filemarks>
     <jumps>
-      <jump line="247" column="35" filename="$USER_HOME$/code/sc/web/init.py" />
-      <jump line="68" column="8" filename="$USER_HOME$/code/sc/web/init.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/init.py" />
       <jump line="24" column="6" filename="$USER_HOME$/code/sc/web/init.py" />
       <jump line="172" column="58" filename="$USER_HOME$/code/sc/web/README.md" />
@@ -549,6 +541,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/config/offices/details/offices.dialog.html" />
       <jump line="4" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/config/offices/details/offices.dialog.html" />
       <jump line="77" column="3" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/config/offices/details/offices.dialog.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/app/vitally/event.py" />
+      <jump line="37" column="13" filename="$USER_HOME$/code/sc/web/static/web/views/nav-toolbar/med-imports/med-imports.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -560,7 +554,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>center</text>
+        <text>asdf</text>
       </register>
       <register name="0" type="4">
         <text>U', str, bytes)  # Must be str or bytes</text>
@@ -602,13 +596,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>center</last-search>
+      <last-search>asdf</last-search>
       <last-offset />
-      <last-pattern>center</last-pattern>
+      <last-pattern>asdf</last-pattern>
       <last-replace>.info</last-replace>
       <last-substitute>.debug</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
