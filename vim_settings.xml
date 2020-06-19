@@ -224,7 +224,6 @@
         <entry>json</entry>
         <entry>hj</entry>
         <entry>cloud_sql</entry>
-        <entry>mysql</entry>
         <entry>prin</entry>
         <entry>boost</entry>
         <entry>exports</entry>
@@ -236,6 +235,8 @@
         <entry>grid</entry>
         <entry>@@</entry>
         <entry>asdf</entry>
+        <entry>mysql</entry>
+        <entry>version</entry>
       </history-search>
       <history-cmd>
         <entry>SplitVertically</entry>
@@ -358,30 +359,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/config/offices/details/offices.dialog.html" timestamp="1592595170745">
-        <mark key="'" line="22" column="77" />
-        <mark key="[" line="4" column="76" />
-        <mark key="]" line="4" column="78" />
-        <mark key="." line="4" column="77" />
-        <mark key="^" line="4" column="78" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" timestamp="1592592719657">
-        <mark key="[" line="99" column="6" />
-        <mark key="]" line="99" column="7" />
-        <mark key="^" line="99" column="7" />
-        <mark key="." line="99" column="6" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/README.md" timestamp="1592601757714" />
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/office.py" timestamp="1592592751484">
-        <mark key="[" line="48" column="36" />
-        <mark key="]" line="48" column="63" />
-        <mark key="." line="48" column="62" />
-        <mark key="^" line="48" column="63" />
-      </file>
-      <file name="$USER_HOME$/.dotfiles/osx/new-osx.sh" timestamp="1592601368009" />
-      <file name="/console" timestamp="1592593003599">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/migrations/versions/55bf4a7376b5__114.py" timestamp="1592594176427">
         <mark key="[" line="63" column="45" />
         <mark key="]" line="72" column="0" />
@@ -396,6 +373,31 @@
         <mark key="^" line="642" column="22" />
       </file>
       <file name="$USER_HOME$/.dotfiles/bin/dot" timestamp="1592601457549" />
+      <file name="$USER_HOME$/code/sc/web/migrations/versions/35e7846440c1__114.py" timestamp="1592593105287">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/common/components/multi-item/multi-item.ts" timestamp="1592595324664">
+        <mark key="[" line="12" column="39" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="12" column="37" />
+        <mark key="^" line="12" column="38" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/bin/init.sh" timestamp="1592603706303" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/config/offices/details/offices.dialog.html" timestamp="1592595170745">
+        <mark key="'" line="22" column="77" />
+        <mark key="[" line="4" column="76" />
+        <mark key="]" line="4" column="78" />
+        <mark key="." line="4" column="77" />
+        <mark key="^" line="4" column="78" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/init.py" timestamp="1592603585296">
+        <mark key="'" line="7" column="19" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/README.md" timestamp="1592601757714" />
+      <file name="$USER_HOME$/.dotfiles/osx/new-osx.sh" timestamp="1592601368009" />
       <file name="$USER_HOME$/code/sc/web/migrations/mig_stuff.py" timestamp="1592594162153">
         <mark key="'" line="0" column="0" />
       </file>
@@ -405,23 +407,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/migrations/versions/35e7846440c1__114.py" timestamp="1592593105287">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/kpis.py" timestamp="1592595911065">
         <mark key="[" line="64" column="20" />
         <mark key="]" line="64" column="22" />
         <mark key="." line="64" column="21" />
         <mark key="^" line="64" column="22" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/components/multi-item/multi-item.ts" timestamp="1592595324664">
-        <mark key="[" line="12" column="39" />
-        <mark key="]" line="12" column="38" />
-        <mark key="." line="12" column="37" />
-        <mark key="^" line="12" column="38" />
       </file>
       <file name="$USER_HOME$/code/sc/web/migrations/versions/ebfa7470a29b__114.py" timestamp="1592594097206">
         <mark key="[" line="39" column="0" />
@@ -438,6 +428,12 @@
       <file name="/console_2" timestamp="1592601743807">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/instance/version.txt" timestamp="1592603690844">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="0" column="5" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/crud.py" timestamp="1592596130187">
         <mark key="[" line="32" column="30" />
         <mark key="]" line="34" column="5" />
@@ -446,10 +442,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="218" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" />
-      <jump line="102" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" />
-      <jump line="236" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" />
-      <jump line="244" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" />
       <jump line="366" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
       <jump line="200" column="0" filename="$USER_HOME$/code/sc/web/cli/apis/hj.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/cli/machine.py" />
@@ -546,6 +538,10 @@
       <jump line="630" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
       <jump line="23" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/config/offices/details/offices.dialog.html" />
       <jump line="22" column="77" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/config/offices/details/offices.dialog.html" />
+      <jump line="304" column="2" filename="$USER_HOME$/code/sc/web/init.py" />
+      <jump line="67" column="0" filename="$USER_HOME$/code/sc/web/init.py" />
+      <jump line="166" column="15" filename="$USER_HOME$/code/sc/web/init.py" />
+      <jump line="7" column="19" filename="$USER_HOME$/code/sc/web/init.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -557,7 +553,7 @@
         <text>`</text>
       </register>
       <register name="/" type="4">
-        <text>asdf</text>
+        <text>version</text>
       </register>
       <register name="0" type="4">
         <text>U', str, bytes)  # Must be str or bytes</text>
@@ -599,13 +595,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>asdf</last-search>
+      <last-search>version</last-search>
       <last-offset />
-      <last-pattern>asdf</last-pattern>
+      <last-pattern>version</last-pattern>
       <last-replace>@</last-replace>
       <last-substitute>@@</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
