@@ -377,9 +377,6 @@
         <mark key="." line="33" column="40" />
         <mark key="^" line="33" column="41" />
       </file>
-      <file name="/console" timestamp="1592562129793">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/config/doctors/doctors.ts" timestamp="1592565594931">
         <mark key="[" line="130" column="18" />
         <mark key="]" line="132" column="28" />
@@ -415,12 +412,18 @@
         <mark key="^" line="148" column="61" />
         <mark key="." line="148" column="60" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/config/offices/details/offices.dialog.html" timestamp="1592566915229">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="10" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="22" column="10" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/config/offices/details/offices.dialog.html" timestamp="1592568213129">
+        <mark key="'" line="72" column="3" />
+        <mark key="[" line="51" column="77" />
+        <mark key="]" line="51" column="77" />
+        <mark key="." line="51" column="77" />
+        <mark key="^" line="51" column="21" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/config/offices/details/offices.dialog.sass" timestamp="1592567839625">
+        <mark key="[" line="7" column="9" />
+        <mark key="]" line="8" column="13" />
+        <mark key="^" line="8" column="13" />
+        <mark key="." line="8" column="12" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/config/offices/offices.ts" timestamp="1592565917840">
         <mark key="'" line="124" column="7" />
@@ -434,7 +437,6 @@
         <mark key="]" line="14" column="26" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/utils.py" timestamp="1592562482630" />
       <file name="$USER_HOME$/code/sc/web/sc/app/tasks/invite.py" timestamp="1592562691879">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="143" column="58" />
@@ -442,6 +444,7 @@
         <mark key="^" line="143" column="65" />
         <mark key="." line="143" column="64" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/static/common/components/multi-item/multi-item.sass" timestamp="1592567042673" />
       <file name="$USER_HOME$/code/sc/web/sc/app/tasks/hj/collecting.py" timestamp="1592563378585">
         <mark key="'" line="105" column="0" />
         <mark key="[" line="55" column="63" />
@@ -452,10 +455,6 @@
       <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/doctor.py" timestamp="1592565442634" />
     </filemarks>
     <jumps>
-      <jump line="90" column="34" filename="$USER_HOME$/code/sc/web/init.py" />
-      <jump line="91" column="22" filename="$USER_HOME$/code/sc/web/init.py" />
-      <jump line="94" column="5" filename="$USER_HOME$/code/sc/web/init.py" />
-      <jump line="97" column="1" filename="$USER_HOME$/code/sc/web/init.py" />
       <jump line="247" column="35" filename="$USER_HOME$/code/sc/web/init.py" />
       <jump line="68" column="8" filename="$USER_HOME$/code/sc/web/init.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/init.py" />
@@ -552,15 +551,19 @@
       <jump line="127" column="7" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/config/offices/offices.ts" />
       <jump line="13" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/config/offices/details/offices.dialog.html" />
       <jump line="29" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/config/offices/details/offices.dialog.html" />
+      <jump line="28" column="25" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/config/offices/details/offices.dialog.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/config/offices/details/offices.dialog.html" />
+      <jump line="4" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/config/offices/details/offices.dialog.html" />
+      <jump line="77" column="3" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/config/offices/details/offices.dialog.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>class=&quot;md-block&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>class=&quot;md-block&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>center</text>
@@ -569,34 +572,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZmxleAo=</text>
+        <text encoding="base64">ICAgICAgICBmbGV4Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZmxleAo=</text>
+        <text encoding="base64">ICAgICAgICBmbGV4Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZmxleAo=</text>
+        <text encoding="base64">ICAgICAgICBmbGV4Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZmxleAo=</text>
+        <text encoding="base64">ICAgICAgICBmbGV4Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZmxleAo=</text>
+        <text encoding="base64">ICAgICAgICBmbGV4Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxtdWx0aS1pdGVtCiAgICAgIGZsZXgKICAgICAgW2lzXT0iY3RybC5pc211bHRpIgogICAgICBbKGNoZWNrKV09ImN0cmwubXVsdGkuZmFjaWxpdHlfdHlwZSI+CiAgICAgIDxtZC1pbnB1dC1jb250YWluZXIgY2xhc3M9Im1kLWJsb2NrIj4KICAgICAgICA8bGFiZWw+RmFjaWxpdHkgVHlwZTwvbGFiZWw+CiAgICAgICAgPG1kLXNlbGVjdCBuZy1tb2RlbD0iY3RybC5yb3cuZmFjaWxpdHlfdHlwZSIgbmctcmVxdWlyZWQ9IiFjdHJsLmlzbXVsdGkiPgogICAgICAgICAgPG1kLW9wdGlvbiB2YWx1ZT0iTWVkaWNhbE9mZmljZSI+CiAgICAgICAgICAgIE1lZGljYWwgT2ZmaWNlCiAgICAgICAgICA8L21kLW9wdGlvbj4KICAgICAgICAgIDxtZC1vcHRpb24gdmFsdWU9IlRoZXJhcHlPZmZpY2UiPgogICAgICAgICAgICBUaGVyYXB5IE9mZmljZQogICAgICAgICAgPC9tZC1vcHRpb24+CiAgICAgICAgPC9tZC1zZWxlY3Q+CiAgICAgIDwvbWQtaW5wdXQtY29udGFpbmVyPgogICAgPC9tdWx0aS1pdGVtPgo=</text>
+        <text encoding="base64">ICA8L2Rpdi4+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxtdWx0aS1pdGVtCiAgICAgIGZsZXgKICAgICAgW2lzXT0iY3RybC5pc211bHRpIgogICAgICBbKGNoZWNrKV09ImN0cmwubXVsdGkubnVtX3Jvb21zIj4KICAgICAgPG1kLWlucHV0LWNvbnRhaW5lciBjbGFzcz0ibWQtYmxvY2siPgogICAgICAgIDxsYWJlbD5OdW1iZXIgb2YgUm9vbXM8L2xhYmVsPgogICAgICAgIDxpbnB1dCBuZy1tb2RlbD0iY3RybC5yb3cubnVtX3Jvb21zIiB0eXBlPSJudW1iZXIiPgogICAgICAgIDxkaXYgY2xhc3M9ImlucHV0LWhpbnQiPgogICAgICAgICAgUGxhY2Vob2xkZXIgZm9yIGZ1dHVyZSBLUEkgYXJvdW5kIHJvb20gdXRpbGl6YXRpb24KICAgICAgICA8L2Rpdj4KICAgICAgPC9tZC1pbnB1dC1jb250YWluZXI+CiAgICA8L211bHRpLWl0ZW0+CgogICAgPG11bHRpLWl0ZW0KICAgICAgZmxleAogICAgICBbaXNdPSJjdHJsLmlzbXVsdGkiCiAgICAgIFsoY2hlY2spXT0iY3RybC5tdWx0aS5zcXVhcmVfZm9vdGFnZSI+CiAgICAgIDxtZC1pbnB1dC1jb250YWluZXIgY2xhc3M9Im1kLWJsb2NrIj4KICAgICAgICA8bGFiZWw+U3F1YXJlIEZvb3RhZ2U8L2xhYmVsPgogICAgICAgIDxpbnB1dCBuZy1tb2RlbD0iY3RybC5yb3cuc3F1YXJlX2Zvb3RhZ2UiIHR5cGU9Im51bWJlciI+CiAgICAgICAgPGRpdiBjbGFzcz0iaW5wdXQtaGludCI+CiAgICAgICAgICBVc2VkIHRvIHRyYWNrIHRoZSBzcXVhcmUgZm9vdGFnZSBmb3IgUFQgcmVwb3J0aW5nCiAgICAgICAgPC9kaXY+CiAgICAgIDwvbWQtaW5wdXQtY29udGFpbmVyPgogICAgPC9tdWx0aS1pdGVtPgo=</text>
+        <text encoding="base64">CiAgPGRpdiBjbD4KICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxtdWx0aS1pdGVtCiAgICAgIFtpc109ImN0cmwuaXNtdWx0aSIKICAgICAgWyhjaGVjayldPSJjdHJsLm11bHRpLmlzX3BhdGllbnRfc2F0Ij4KICAgICAgPHN3aXRjaC1oaW50CiAgICAgICAgbmctbW9kZWw9ImN0cmwucm93LmlzX3BhdGllbnRfc2F0IgogICAgICAgIGxhYmVsPSJQYXRpZW50IFNhdGlzZmFjdGlvbiI+CiAgICAgIDwvc3dpdGNoLWhpbnQ+CiAgICA8L211bHRpLWl0ZW0+CgogICAgPG11bHRpLWl0ZW0KICAgICAgW2lzXT0iY3RybC5pc211bHRpIgogICAgICBbKGNoZWNrKV09ImN0cmwubXVsdGkuaXNfaGFsbHNwYWNlIj4KICAgICAgPHN3aXRjaC1oaW50CiAgICAgICAgbmctbW9kZWw9ImN0cmwucm93LmlzX2hhbGxzcGFjZSIKICAgICAgICBsYWJlbD0iSGFsbHNwYWNlIj4KICAgICAgPC9zd2l0Y2gtaGludD4KICAgIDwvbXVsdGktaXRlbT4KCiAgICA8bXVsdGktaXRlbQogICAgICBbaXNdPSJjdHJsLmlzbXVsdGkiCiAgICAgIFsoY2hlY2spXT0iY3RybC5tdWx0aS5pc19sYWJvcl9tYW5hZ2VtZW50Ij4KICAgICAgPHN3aXRjaC1oaW50CiAgICAgICAgbmctbW9kZWw9ImN0cmwucm93LmlzX2xhYm9yX21hbmFnZW1lbnQiCiAgICAgICAgbGFiZWw9IkxhYm9yIE1hbmFnZW1lbnQiPgogICAgICA8L3N3aXRjaC1oaW50PgogICAgPC9tdWx0aS1pdGVtPgoKICAgIDxtdWx0aS1pdGVtCiAgICAgIFtpc109ImN0cmwuaXNtdWx0aSIKICAgICAgWyhjaGVjayldPSJjdHJsLm11bHRpLmlzX291dHBhdGllbnQiPgogICAgICA8c3dpdGNoLWhpbnQKICAgICAgICBuZy1tb2RlbD0iY3RybC5yb3cuaXNfb3V0cGF0aWVudCIKICAgICAgICBsYWJlbD0iT3V0cGF0aWVudCAoU3VyZ2VyeSBDdHIgQ29tcGxpYW5jZSkiPgogICAgICA8L3N3aXRjaC1oaW50PgogICAgPC9tdWx0aS1pdGVtPgo=</text>
+        <text encoding="base64">fSAgICA=</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
