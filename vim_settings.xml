@@ -372,18 +372,30 @@
         <mark key="^" line="24" column="37" />
       </file>
       <file name="$USER_HOME$/code/sc/web/cli/apis/sf.py" timestamp="1592644355299" />
-      <file name="$USER_HOME$/code/sc/web/bin/init.sh" timestamp="1592605446722" />
-      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/types.py" timestamp="1592645331673">
-        <mark key="'" line="11" column="6" />
-        <mark key="[" line="41" column="18" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/platforms/listings/insights/google.py" timestamp="1592645722003" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/hallspace/exports.py" timestamp="1592646307500">
+        <mark key="'" line="49" column="26" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/types.py" timestamp="1592646691191">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="41" column="14" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/aspire/common.py" timestamp="1592644540699">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/base.py" timestamp="1592646088100" />
       <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts_view.py" timestamp="1592644423938">
         <mark key="'" line="88" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/exports.py" timestamp="1592646675469">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/init.py" timestamp="1592607100776">
         <mark key="'" line="57" column="33" />
@@ -391,24 +403,17 @@
       <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/kpis/session-days/session-days.ts" timestamp="1592644760627">
         <mark key="'" line="39" column="16" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/README.md" timestamp="1592601757714" />
       <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/kpis/session-days2/session-days.ts" timestamp="1592644744841">
         <mark key="[" line="29" column="24" />
         <mark key="]" line="29" column="25" />
         <mark key="^" line="29" column="25" />
         <mark key="." line="29" column="24" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/kpis.py" timestamp="1592643507190">
+      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/kpis.py" timestamp="1592646321223">
         <mark key="[" line="64" column="20" />
         <mark key="]" line="64" column="22" />
         <mark key="." line="64" column="21" />
         <mark key="^" line="64" column="22" />
-      </file>
-      <file name="$USER_HOME$/.dotfiles/notes/setup.md" timestamp="1592604574748">
-        <mark key="[" line="33" column="24" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="34" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/coms/dm/decors.py" timestamp="1592644043810">
         <mark key="'" line="147" column="2" />
@@ -422,19 +427,12 @@
         <mark key="]" line="12" column="26" />
         <mark key="." line="12" column="26" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/version.txt" timestamp="1592603690844">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="0" column="5" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/hallspace/kpis.py" timestamp="1592644335008">
+      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/hallspace/kpis.py" timestamp="1592646311453">
         <mark key="'" line="31" column="12" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/crud.py" timestamp="1592646314012" />
     </filemarks>
     <jumps>
-      <jump line="170" column="2" filename="$USER_HOME$/code/sc/web/sc/app/aspire/exports.py" />
-      <jump line="61" column="21" filename="$USER_HOME$/code/sc/web/sc/coms/utils/times.py" />
       <jump line="37" column="48" filename="$USER_HOME$/code/sc/web/sc/app/aspire/appointments/exports.py" />
       <jump line="121" column="41" filename="$USER_HOME$/code/sc/web/sc/app/aspire/common.py" />
       <jump line="43" column="0" filename="$USER_HOME$/code/sc/web/sc/app/aspire/commons/exports.py" />
@@ -533,15 +531,17 @@
       <jump line="88" column="0" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts_view.py" />
       <jump line="39" column="16" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/kpis/session-days/session-days.ts" />
       <jump line="11" column="6" filename="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/types.py" />
+      <jump line="49" column="26" filename="$USER_HOME$/code/sc/web/sc/app/aspire/hallspace/exports.py" />
+      <jump line="21" column="21" filename="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/types.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>kpis.daily_credits(args)</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICBkYWlseV9ncm91cGVkX2Zvcm1hdDogc3RyID0gIk1NTSBEIgoK</text>
       </register>
       <register name="-" type="4">
-        <text>kpis.daily_credits(args)</text>
+        <text encoding="base64">c2VsZi5zcGFuIGlzIFRpbWVTcGFuLmRheSBhbmQg</text>
       </register>
       <register name="/" type="4">
         <text>version</text>
@@ -550,34 +550,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QGRlY29yYXRvcgpkZWYgZGF5X3NwYW5fcmVxdWlyZWQoZiwgKmFyZ3MsICoqa3dhcmdzKToKICAiIiIiIiIKICAjIHJlcV9hcmdzCg==</text>
+        <text encoding="base64">ICBkYWlseV9ncm91cGVkX2Zvcm1hdDogc3RyID0gIk1NTSBEIgoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZG1wb3J0IHNjLmFwcC5hc3BpcmUuY29tbW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBzYy5hcHAuYXNwaXJlIGltcG9ydCBmb3JtYXRzCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmltcG9ydCBzYy5hcHAuYXNwaXJlLmNvbW1vbgo=</text>
+        <text encoding="base64">CiAgaWYgc3BhbiBpcyBUaW1lU3Bhbi5kYXkgYW5kIHN0YXJ0Lm1vbnRoIDwgZW5kLm1vbnRoOgogICAgcmV0dXJuIHJvbGxpbmdfc3Bhbl9mb3JtYXQoc3BhbikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3VkbyB2aSAvZXRjL3NoZWxscwo=</text>
+        <text encoding="base64">CiAgQHByb3BlcnR5CiAgZGVmIGZvcm1hdF9kYXRlX3NwYW4oc2VsZik6CiAgICAiIiIiIiIKICAgIGlmIHNlbGYuc3BhbiBpcyBub3QgVGltZVNwYW4uZGF5OgogICAgICByZXR1cm4gc3VwZXIoKS5mb3JtYXRfZGF0ZV9zcGFuCgogICAgcmV0dXJuICJNTU0gRCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC5kZWJ1Z19wcmludCgpCg==</text>
+        <text encoding="base64">ICAgIAogICAgcmV0ID0gKAogICAgICBzZWxmLnJvbGxpbmcKICAgICAgYW5kIGV4cG9ydHMucm9sbGluZ19zcGFuX2Zvcm1hdChzZWxmLnNwYW4pCiAgICAgIG9yIGV4cG9ydHMuZGF0ZV9mb3JtYXRfYnlfc3BhbihzZWxmLnNwYW4pCiAgICApCiAgICByZXR1cm4gcmV0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZ1bmMuY291bnQoKS5sYWJlbCgiY291bnRfYWxsIiksCg==</text>
+        <text encoding="base64">ICBpZiByb2xsaW5nOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgLmZpbHRlcihPZmZpY2UuaXNfaGFsbHNwYWNlKQo=</text>
+        <text encoding="base64">QGRlY29yYXRvcgpkZWYgZGF5X3NwYW5fcmVxdWlyZWQoZiwgKmFyZ3MsICoqa3dhcmdzKToKICAiIiIiIiIKICAjIHJlcV9hcmdzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9mZmljZV9jb3VudF9tb3JuLmxhYmVsKCJvZmZpY2VfY291bnRfbW9ybiIpLAogICAgb2ZmaWNlX2NvdW50X2FmdC5sYWJlbCgib2ZmaWNlX2NvdW50X2FmdCIpLAogICAgaG9zX2NvdW50X21vcm4ubGFiZWwoImhvc19jb3VudF9tb3JuIiksCiAgICBob3NfY291bnRfYWZ0LmxhYmVsKCJob3NfY291bnRfYWZ0IiksCg==</text>
+        <text encoding="base64">ZG1wb3J0IHNjLmFwcC5hc3BpcmUuY29tbW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//@</text>
