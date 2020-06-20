@@ -367,11 +367,12 @@
         <mark key="." line="117" column="32" />
         <mark key="^" line="117" column="33" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/integrations/healthjumps_view.py" timestamp="1592653457430">
-        <mark key="[" line="55" column="35" />
-        <mark key="]" line="55" column="41" />
-        <mark key="^" line="55" column="41" />
-        <mark key="." line="55" column="40" />
+      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/integrations/healthjumps_view.py" timestamp="1592664696642">
+        <mark key="'" line="29" column="49" />
+        <mark key="[" line="56" column="6" />
+        <mark key="]" line="56" column="6" />
+        <mark key="^" line="56" column="6" />
+        <mark key="." line="56" column="5" />
       </file>
       <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" timestamp="1592652816765">
         <mark key="'" line="38" column="9" />
@@ -465,7 +466,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="371" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" />
       <jump line="93" column="0" filename="$USER_HOME$/code/sc/web/sc/app/tasks/customs/customs.py" />
       <jump line="35" column="4" filename="$USER_HOME$/code/sc/web/sc/app/tasks/hj/collecting.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/app/tasks/invite.py" />
@@ -565,15 +565,16 @@
       <jump line="32" column="6" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/transaction.py" />
       <jump line="70" column="2" filename="$USER_HOME$/code/sc/web/sc/app/tasks/hj/collecting.py" />
       <jump line="84" column="26" filename="$USER_HOME$/code/sc/web/sc/app/tasks/hj/collecting.py" />
+      <jump line="29" column="49" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/integrations/healthjumps_view.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>30</text>
+        <text>hj.collecting.</text>
       </register>
       <register name="-" type="4">
-        <text>30</text>
+        <text>hj.collecting.</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -582,34 +583,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZm9yIG51bSBpbiByZXZlcnNlZChyYW5nZSgxLCBtaW4ocGFnZSwgMikpKQo=</text>
+        <text encoding="base64">ICAgIGNpZHMgPSBqdW1wLmNpZHMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZm9yIG51bSBpbiByZXZlcnNlZChyYW5nZSgxLCBtaW4ocGFnZSwgMikpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKGYie3NlbGYua2luZH0gRmluZGluZyBsYXN0IHBhZ2Ugc2luY2UgLS0ge2xvbmdfZGF0ZV9mb3JtYXQoc2luY2UpfSIsIHBhcmFtcz1wYXJhbXMsIGNpZD1jaWQpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGxvZy5pbmZvKGYie3NlbGYua2luZH0gRmluZGluZyBsYXN0IHBhZ2Ugc2luY2UgLS0ge2xvbmdfZGF0ZV9mb3JtYXQoc2luY2UpfSIsIHBhcmFtcz1wYXJhbXMsIGNpZD1jaWQpCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGhqX2FsbCA9IGlzX2FsbF9oaigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgIGhqX2FsbCA9IGlzX2FsbF9oaigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwbGFpbgo=</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ZXhwbGFpbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2FfYWRkX2luZGV4KFRyYW5zYWN0aW9uLmNpZCwgVHJhbnNhY3Rpb24uaGpfbW9kaWZ5KQo=</text>
+        <text encoding="base64">ZXhwbGFpbgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s//@</text>
@@ -624,7 +625,7 @@
       <last-replace>@</last-replace>
       <last-substitute>@@</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
