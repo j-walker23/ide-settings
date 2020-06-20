@@ -359,9 +359,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/sc/coms/dm/view.py" timestamp="1592643621158">
-        <mark key="'" line="299" column="2" />
-      </file>
       <file name="/a.dummy" timestamp="1592644255134">
         <mark key="[" line="0" column="1" />
       </file>
@@ -375,6 +372,13 @@
       <file name="$USER_HOME$/code/sc/web/sc/app/platforms/listings/insights/google.py" timestamp="1592645722003" />
       <file name="$USER_HOME$/code/sc/web/sc/app/aspire/hallspace/exports.py" timestamp="1592646307500">
         <mark key="'" line="49" column="26" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" timestamp="1592647333416">
+        <mark key="'" line="33" column="16" />
+        <mark key="[" line="40" column="28" />
+        <mark key="]" line="42" column="45" />
+        <mark key="^" line="42" column="45" />
+        <mark key="." line="42" column="44" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/types.py" timestamp="1592646691191">
         <mark key="[" line="20" column="0" />
@@ -396,9 +400,6 @@
         <mark key="]" line="22" column="0" />
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/init.py" timestamp="1592607100776">
-        <mark key="'" line="57" column="33" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/kpis/session-days/session-days.ts" timestamp="1592644760627">
         <mark key="'" line="39" column="16" />
@@ -427,13 +428,13 @@
         <mark key="]" line="12" column="26" />
         <mark key="." line="12" column="26" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/tasks/hj/collecting.py" timestamp="1592647262324" />
       <file name="$USER_HOME$/code/sc/web/sc/app/aspire/hallspace/kpis.py" timestamp="1592646311453">
         <mark key="'" line="31" column="12" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/crud.py" timestamp="1592646314012" />
     </filemarks>
     <jumps>
-      <jump line="37" column="48" filename="$USER_HOME$/code/sc/web/sc/app/aspire/appointments/exports.py" />
       <jump line="121" column="41" filename="$USER_HOME$/code/sc/web/sc/app/aspire/common.py" />
       <jump line="43" column="0" filename="$USER_HOME$/code/sc/web/sc/app/aspire/commons/exports.py" />
       <jump line="132" column="15" filename="$USER_HOME$/code/sc/web/sc/app/aspire/exports.py" />
@@ -533,6 +534,7 @@
       <jump line="11" column="6" filename="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/types.py" />
       <jump line="49" column="26" filename="$USER_HOME$/code/sc/web/sc/app/aspire/hallspace/exports.py" />
       <jump line="21" column="21" filename="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/types.py" />
+      <jump line="33" column="16" filename="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
