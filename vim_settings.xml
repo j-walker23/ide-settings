@@ -372,28 +372,18 @@
         <mark key="." line="228" column="4" />
         <mark key="^" line="117" column="33" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/integrations/healthjumps_view.py" timestamp="1592717507120">
-        <mark key="'" line="26" column="49" />
-        <mark key="[" line="38" column="20" />
-        <mark key="]" line="38" column="33" />
-        <mark key="^" line="38" column="33" />
-        <mark key="." line="38" column="32" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/coms/ext/celery.py" timestamp="1592716476381">
-        <mark key="'" line="141" column="2" />
-      </file>
       <file name="/Python Console" timestamp="1592719760088">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console" timestamp="1592722825538">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1592723326147">
-        <mark key="'" line="646" column="24" />
-        <mark key="[" line="667" column="63" />
-        <mark key="]" line="667" column="18" />
-        <mark key="." line="667" column="17" />
-        <mark key="^" line="667" column="18" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1592736377685">
+        <mark key="'" line="687" column="24" />
+        <mark key="[" line="708" column="63" />
+        <mark key="]" line="708" column="18" />
+        <mark key="." line="708" column="17" />
+        <mark key="^" line="708" column="18" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/converter.py" timestamp="1592721211260">
         <mark key="[" line="67" column="0" />
@@ -406,6 +396,11 @@
         <mark key="]" line="37" column="58" />
         <mark key="." line="37" column="57" />
         <mark key="^" line="37" column="58" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/.editorconfig" timestamp="1592736343254">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/tasks/customs/customs.py" timestamp="1592719916940">
         <mark key="[" line="80" column="53" />
@@ -421,6 +416,12 @@
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/aspire/adjustments/kpis.py" timestamp="1592720679883">
         <mark key="'" line="15" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" timestamp="1592735531062">
+        <mark key="[" line="419" column="0" />
+        <mark key="]" line="435" column="0" />
+        <mark key="^" line="435" column="0" />
+        <mark key="." line="435" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/core/accbinds.py" timestamp="1592719968072" />
       <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/utils.py" timestamp="1592721055115">
@@ -578,8 +579,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>unknown</text>
+      <register name="+" type="2">
+        <text encoding="base64">bWF4X2xpbmVfbGVuZ3RoID0gODAK</text>
       </register>
       <register name="-" type="4">
         <text>unknown</text>
@@ -591,34 +592,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLmFsbCgpCg==</text>
+        <text encoding="base64">bWF4X2xpbmVfbGVuZ3RoID0gODAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgIyBjbHMgPSBBcHBvaW50bWVudAogICMgY2lkID0gIlROT0MwMSIKICAjIHJldCA9ICgKICAjICAgY2xzLnNlYXJjaChjbHMuY2lkID09IGNpZCkKICAjICAgLndpdGhfZW50aXRpZXMoZnVuYy5tYXgoY2xzLmhqX21vZGlmeSkubGFiZWwoImhqX21vZGlmeSIpKQogICMgICAub25lX29yX25vbmUoKQogICMgKQogICMKICAjIHByaW50KHJldCkKICAK</text>
+        <text encoding="base64">aWpfdmlzdWFsX2d1aWRlcyA9IDgwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgZnVjayA9IFtsYW1iZGE6IE5vbmUsIGxhbWJkYTogRmFsc2UsIGxhbWJkYTogImNvb2wiLCBsYW1iZGE6ICJ0aXRzIl0KCiAgc2hpdCA9IG5leHQoKHYgZm9yIGZuIGluIGZ1Y2sgaWYgKHYgOj0gZm4oKSkpLCBOb25lKQogIHByaW50KHNoaXQpCg==</text>
+        <text encoding="base64">aWpfdmlzdWFsX2d1aWRlcyA9IDgwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNpZCA9IHNlbGYuY2lkCgo=</text>
+        <text encoding="base64">ICAgICAgLmFsbCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgIyBjbHMgPSBBcHBvaW50bWVudAogICMgY2lkID0gIlROT0MwMSIKICAjIHJldCA9ICgKICAjICAgY2xzLnNlYXJjaChjbHMuY2lkID09IGNpZCkKICAjICAgLndpdGhfZW50aXRpZXMoZnVuYy5tYXgoY2xzLmhqX21vZGlmeSkubGFiZWwoImhqX21vZGlmeSIpKQogICMgICAub25lX29yX25vbmUoKQogICMgKQogICMKICAjIHByaW50KHJldCkKICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZmlsZSA9IHNlbGYudW5sb2FkZXIuYmFzZWZpbGUK</text>
+        <text encoding="base64">CiAgZnVjayA9IFtsYW1iZGE6IE5vbmUsIGxhbWJkYTogRmFsc2UsIGxhbWJkYTogImNvb2wiLCBsYW1iZGE6ICJ0aXRzIl0KCiAgc2hpdCA9IG5leHQoKHYgZm9yIGZuIGluIGZ1Y2sgaWYgKHYgOj0gZm4oKSkpLCBOb25lKQogIHByaW50KHNoaXQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBAcHJvcGVydHkKICAgIGRlZiBiYXNlZmlsZShzZWxmKToK</text>
+        <text encoding="base64">ICAgIGNpZCA9IHNlbGYuY2lkCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY2lkID0gc2VsZi5jaWQKICAgICAga2V5ID0gc2VsZi5jb2xsZWN0b3Iua2V5CiAgICAgIHJldHVybiBmImhqL3tzYWZlX2FpZCgpfS97Y2lkfS97a2V5fSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbQo=</text>
+        <text encoding="base64">ICAgICAgZmlsZSA9IHNlbGYudW5sb2FkZXIuYmFzZWZpbGUK</text>
       </register>
       <register name=":" type="4">
         <text>%s//@</text>
