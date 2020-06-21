@@ -54,7 +54,6 @@
         <entry>nvm</entry>
         <entry>fork</entry>
         <entry>too</entry>
-        <entry>revenue</entry>
         <entry>modifier</entry>
         <entry>P</entry>
         <entry>rvu</entry>
@@ -242,6 +241,7 @@
         <entry>self.kind</entry>
         <entry>log</entry>
         <entry>format_</entry>
+        <entry>revenue</entry>
         <entry>asdf</entry>
       </history-search>
       <history-cmd>
@@ -385,7 +385,50 @@
       <file name="/Python Console" timestamp="1592719760088">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/unloading.py" timestamp="1592715328382">
+        <mark key="[" line="52" column="44" />
+        <mark key="]" line="52" column="50" />
+        <mark key="^" line="52" column="50" />
+        <mark key="." line="52" column="49" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/converter.py" timestamp="1592721211260">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" timestamp="1592720853929">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="58" />
+        <mark key="." line="37" column="57" />
+        <mark key="^" line="37" column="58" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/utils.py" timestamp="1592715216548">
+        <mark key="[" line="73" column="22" />
+        <mark key="]" line="73" column="23" />
+        <mark key="." line="73" column="23" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/tasks/customs/customs.py" timestamp="1592719916940">
+        <mark key="[" line="80" column="53" />
+        <mark key="]" line="80" column="66" />
+        <mark key="." line="80" column="65" />
+        <mark key="^" line="80" column="66" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collecting.py" timestamp="1592719989201">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="8" />
+        <mark key="." line="62" column="8" />
+        <mark key="^" line="53" column="51" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/adjustments/kpis.py" timestamp="1592720679883">
+        <mark key="'" line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/core/accbinds.py" timestamp="1592719968072" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/utils.py" timestamp="1592721055115">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="21" />
+        <mark key="^" line="25" column="21" />
+        <mark key="." line="25" column="20" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/auth.py" timestamp="1592718769240">
         <mark key="'" line="36" column="6" />
         <mark key="[" line="17" column="0" />
@@ -401,80 +444,34 @@
       <file name="$USER_HOME$/code/sc/web/sc/app/tasks/hj/unloading.py" timestamp="1592715288369">
         <mark key="'" line="17" column="5" />
       </file>
-      <file name="$USER_HOME$/.dotfiles/git/aliases.zsh" timestamp="1592692333957">
-        <mark key="'" line="17" column="11" />
-        <mark key="[" line="17" column="24" />
-        <mark key="]" line="17" column="26" />
-        <mark key="^" line="17" column="26" />
-        <mark key="." line="17" column="25" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/unloading.py" timestamp="1592715328382">
-        <mark key="[" line="52" column="44" />
-        <mark key="]" line="52" column="50" />
-        <mark key="^" line="52" column="50" />
-        <mark key="." line="52" column="49" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/utils.py" timestamp="1592717795463">
         <mark key="[" line="21" column="9" />
         <mark key="]" line="21" column="64" />
         <mark key="^" line="21" column="64" />
         <mark key="." line="21" column="63" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/base.py" timestamp="1592720007203">
-        <mark key="'" line="93" column="38" />
-        <mark key="[" line="93" column="39" />
-        <mark key="]" line="93" column="39" />
-        <mark key="^" line="93" column="39" />
-        <mark key="." line="93" column="38" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/base.py" timestamp="1592721369130">
+        <mark key="'" line="120" column="12" />
+        <mark key="[" line="144" column="36" />
+        <mark key="]" line="144" column="42" />
+        <mark key="^" line="144" column="42" />
+        <mark key="." line="144" column="41" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" timestamp="1592719844366">
-        <mark key="'" line="38" column="9" />
-        <mark key="[" line="44" column="16" />
-        <mark key="]" line="46" column="32" />
-        <mark key="^" line="46" column="32" />
-        <mark key="." line="46" column="31" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/unloader.py" timestamp="1592715566928">
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/unloader.py" timestamp="1592721230812">
         <mark key="[" line="105" column="23" />
         <mark key="]" line="105" column="28" />
         <mark key="." line="105" column="27" />
         <mark key="^" line="105" column="28" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/utils.py" timestamp="1592715216548">
-        <mark key="[" line="73" column="22" />
-        <mark key="]" line="73" column="23" />
-        <mark key="." line="73" column="23" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/tasks/customs/customs.py" timestamp="1592719916940">
-        <mark key="[" line="80" column="53" />
-        <mark key="]" line="80" column="66" />
-        <mark key="." line="80" column="65" />
-        <mark key="^" line="80" column="66" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/tasks/hj/collecting.py" timestamp="1592720030225">
+      <file name="$USER_HOME$/code/sc/web/sc/app/tasks/hj/collecting.py" timestamp="1592721358598">
         <mark key="'" line="57" column="45" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="60" column="9" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collecting.py" timestamp="1592719989201">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="8" />
-        <mark key="." line="62" column="8" />
-        <mark key="^" line="53" column="51" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1592695863138">
-        <mark key="'" line="706" column="2" />
-        <mark key="[" line="737" column="35" />
-        <mark key="]" line="737" column="35" />
-        <mark key="^" line="737" column="46" />
-        <mark key="." line="737" column="35" />
+        <mark key="[" line="60" column="38" />
+        <mark key="]" line="60" column="44" />
+        <mark key="." line="60" column="43" />
+        <mark key="^" line="60" column="44" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/config/offices/details/offices.dialog.html" />
-      <jump line="22" column="77" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/config/offices/details/offices.dialog.html" />
       <jump line="304" column="2" filename="$USER_HOME$/code/sc/web/init.py" />
       <jump line="67" column="0" filename="$USER_HOME$/code/sc/web/init.py" />
       <jump line="166" column="15" filename="$USER_HOME$/code/sc/web/init.py" />
@@ -573,15 +570,17 @@
       <jump line="12" column="26" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/base.py" />
       <jump line="26" column="10" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/base.py" />
       <jump line="93" column="38" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/base.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/code/sc/web/sc/app/aspire/adjustments/kpis.py" />
+      <jump line="120" column="12" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/base.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICBkYXRhID0gCg==</text>
+        <text encoding="base64">ICAgIGNpZCA9IHNlbGYuY2lkCgo=</text>
       </register>
       <register name="-" type="4">
-        <text>res.get(&quot;data&quot;) or []</text>
+        <text>f&quot;{file}-errors&quot;</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -590,34 +589,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkYXRhID0gCg==</text>
+        <text encoding="base64">ICAgIGNpZCA9IHNlbGYuY2lkCgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcGFnZV9pbmZvID0gc3YuZmluZF9sYXN0X3BhZ2VzKCkKICAgICAgaWYgbm90IHBhZ2VfaW5mbzoKICAgICAgICBjb250aW51ZQoK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBpZiBtaXNzaW5nOgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY2lkPWNpZCwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGtleWVkID0gc2VsZi5mb3JtYXRfcmF3cyhkYXRhKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJvd3MgPSBsaXN0KGtleWVkLnZhbHVlcygpKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiAgICBsb2dfa2V5ID0gc2VsZi5raW5kCiAgICBpZiBwYWdlOgogICAgICBsb2dfa2V5ID0gZiJ7bG9nX2tleX0gUGFnZSB7cGFnZX0iCgogICAgbG9nLmluZm8oZiJ7bG9nX2tleX0gLS0gVXBzZXJ0aW5nPXtsZW4ocm93cyl9IikK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgZmlsZSA9IHNlbGYudW5sb2FkZXIuYmFzZWZpbGUK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICBAcHJvcGVydHkKICAgIGRlZiBiYXNlZmlsZShzZWxmKToK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgY2lkID0gc2VsZi5jaWQKICAgICAga2V5ID0gc2VsZi5jb2xsZWN0b3Iua2V5CiAgICAgIHJldHVybiBmImhqL3tzYWZlX2FpZCgpfS97Y2lkfS97a2V5fSIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBsaXN0KGtleV9ieShvcmlnLCBsYW1iZGEgcjogcGtfdmFscyhjbHMsIHIpKS52YWx1ZXMoKSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGJhZCA9IFtdCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsb2cuaW5mbyhmIntzdi5raW5kfSBmb3IgcGFnZSB7cGFnZX0gLS0ge2xlbihkYXRhKX0iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICMgZnJvbSBzYy5jb21zLnRlc3RpbmcudXRpbHMgaW1wb3J0IHByZXR0eQogICAgICAgICAgIyBwcmV0dHkocm93KQogICAgICAgICAgIyBwcmV0dHkoYmFkKQogICAgICAgICAgIyBicmVhawo=</text>
       </register>
       <register name=":" type="4">
         <text>%s//@</text>
