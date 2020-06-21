@@ -344,7 +344,7 @@
     <option name="QUOTED_IDENTIFIER_CASE" value="1" />
     <option name="QUOTE_IDENTIFIER" value="1" />
     <option name="QUERY_EL_COMMA" value="1" />
-    <option name="QUERY_IN_ONE_STRING" value="3" />
+    <option name="QUERY_ALIGN_ELEMENTS" value="false" />
     <option name="SUBQUERY_OPENING" value="3" />
     <option name="SUBQUERY_CONTENT" value="3" />
     <option name="SUBQUERY_CLOSING" value="4" />
@@ -359,13 +359,14 @@
     <option name="SELECT_NEW_LINE_AFTER_ALL_DISTINCT" value="true" />
     <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="2" />
     <option name="SELECT_USE_AS_WORD" value="2" />
+    <option name="FROM_EL_LINE" value="1" />
     <option name="FROM_EL_COMMA" value="1" />
-    <option name="FROM_WRAP_JOIN_1" value="false" />
-    <option name="FROM_WRAP_JOIN_2" value="false" />
     <option name="FROM_WRAP_ON" value="true" />
+    <option name="FROM_ALIGN_JOIN_TABLES" value="true" />
     <option name="FROM_INDENT_JOIN" value="false" />
-    <option name="FROM_PLACE_ON" value="10" />
+    <option name="FROM_ONLY_JOIN_INDENT" value="2" />
     <option name="WHERE_EL_LINE" value="101" />
+    <option name="WHERE_EL_BOUND" value="0" />
     <option name="ORDER_EL_LINE" value="101" />
     <option name="ORDER_EL_WRAP" value="1" />
     <option name="ORDER_EL_COMMA" value="1" />
@@ -387,7 +388,8 @@
     <option name="ROUTINE_PG_L_QUOTE_WRAP_AFTER" value="false" />
     <option name="ROUTINE_PG_R_QUOTE_WRAP_BEFORE" value="false" />
     <option name="ROUTINE_PG_R_QUOTE_WRAP_AFTER" value="true" />
-    <option name="IMP_COMMON_KEEP_BLANK_LINES_IN_CODE" value="0" />
+    <option name="IMP_COMMON_WRAP_EVERY_STATEMENT" value="true" />
+    <option name="IMP_COMMON_KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="IMP_DECLARE_EL_WRAP" value="1" />
     <option name="IMP_DECLARE_ALIGN_TYPE" value="false" />
     <option name="IMP_DECLARE_ALIGN_EQ" value="false" />
@@ -402,6 +404,7 @@
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
     <option name="ALIGN_INSIDE_QUERY_EXPRESSION" value="false" />
+    <option name="NEW_LINE_AROUND_SEMICOLON" value="true" />
     <option name="INDENT_JOIN" value="false" />
     <option name="INDENT_JOIN_CONDITION" value="false" />
   </SqlCodeStyleSettings>
@@ -513,8 +516,7 @@
     <option name="KEEP_LINE_BREAKS" value="false" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
-      <option name="TAB_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>

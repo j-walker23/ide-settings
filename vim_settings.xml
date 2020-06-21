@@ -243,6 +243,7 @@
         <entry>asdf</entry>
         <entry>on_done</entry>
         <entry>sadf</entry>
+        <entry>fmt</entry>
       </history-search>
       <history-cmd>
         <entry>SplitVertically</entry>
@@ -378,12 +379,13 @@
       <file name="/console" timestamp="1592722825538">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1592736377685">
-        <mark key="'" line="687" column="24" />
-        <mark key="[" line="708" column="63" />
-        <mark key="]" line="708" column="18" />
-        <mark key="." line="708" column="17" />
-        <mark key="^" line="708" column="18" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1592737694227">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="681" column="63" />
+        <mark key="]" line="681" column="18" />
+        <mark key="." line="681" column="17" />
+        <mark key="^" line="681" column="18" />
+        <mark key="n" line="9" column="2" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/converter.py" timestamp="1592721211260">
         <mark key="[" line="67" column="0" />
@@ -417,11 +419,12 @@
       <file name="$USER_HOME$/code/sc/web/sc/app/aspire/adjustments/kpis.py" timestamp="1592720679883">
         <mark key="'" line="15" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" timestamp="1592735531062">
-        <mark key="[" line="419" column="0" />
-        <mark key="]" line="435" column="0" />
-        <mark key="^" line="435" column="0" />
-        <mark key="." line="435" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" timestamp="1592738617453">
+        <mark key="'" line="30" column="32" />
+        <mark key="[" line="559" column="3" />
+        <mark key="]" line="560" column="0" />
+        <mark key="." line="560" column="0" />
+        <mark key="^" line="560" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/core/accbinds.py" timestamp="1592719968072" />
       <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/utils.py" timestamp="1592721055115">
@@ -475,14 +478,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="299" column="2" filename="$USER_HOME$/code/sc/web/sc/coms/dm/view.py" />
-      <jump line="113" column="23" filename="$USER_HOME$/code/sc/web/sc/coms/dm/decors.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/coms/dm/decors.py" />
-      <jump line="147" column="2" filename="$USER_HOME$/code/sc/web/sc/coms/dm/decors.py" />
-      <jump line="95" column="0" filename="$USER_HOME$/code/sc/web/sc/app/aspire/formats.py" />
-      <jump line="32" column="12" filename="$USER_HOME$/code/sc/web/sc/app/aspire/hallspace/kpis.py" />
-      <jump line="100" column="3" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts_view.py" />
-      <jump line="88" column="0" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts_view.py" />
       <jump line="39" column="16" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/kpis/session-days/session-days.ts" />
       <jump line="11" column="6" filename="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/types.py" />
       <jump line="49" column="26" filename="$USER_HOME$/code/sc/web/sc/app/aspire/hallspace/exports.py" />
@@ -575,51 +570,59 @@
       <jump line="48" column="19" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" />
       <jump line="37" column="57" filename="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" />
       <jump line="645" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
+      <jump line="690" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
+      <jump line="9" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
+      <jump line="52" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
+      <jump line="71" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
+      <jump line="142" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
+      <jump line="164" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
+      <jump line="27" column="32" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" />
+      <jump line="0" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">bWF4X2xpbmVfbGVuZ3RoID0gODAK</text>
+      <register name="+" type="4">
+        <text>717</text>
       </register>
       <register name="-" type="4">
-        <text>unknown</text>
+        <text>717</text>
       </register>
       <register name="/" type="4">
-        <text>sadf</text>
+        <text>fmt</text>
       </register>
       <register name="0" type="4">
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bWF4X2xpbmVfbGVuZ3RoID0gODAK</text>
+        <text encoding="base64">ICBhbmQgaGpfdHJhbnNhY3Rpb24uY2lkID0gJ1ROT0MwMScK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aWpfdmlzdWFsX2d1aWRlcyA9IDgwCg==</text>
+        <text encoding="base64">bWF4X2xpbmVfbGVuZ3RoID0gODAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">aWpfdmlzdWFsX2d1aWRlcyA9IDgwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLmFsbCgpCg==</text>
+        <text encoding="base64">aWpfdmlzdWFsX2d1aWRlcyA9IDgwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgIyBjbHMgPSBBcHBvaW50bWVudAogICMgY2lkID0gIlROT0MwMSIKICAjIHJldCA9ICgKICAjICAgY2xzLnNlYXJjaChjbHMuY2lkID09IGNpZCkKICAjICAgLndpdGhfZW50aXRpZXMoZnVuYy5tYXgoY2xzLmhqX21vZGlmeSkubGFiZWwoImhqX21vZGlmeSIpKQogICMgICAub25lX29yX25vbmUoKQogICMgKQogICMKICAjIHByaW50KHJldCkKICAK</text>
+        <text encoding="base64">ICAgICAgLmFsbCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgZnVjayA9IFtsYW1iZGE6IE5vbmUsIGxhbWJkYTogRmFsc2UsIGxhbWJkYTogImNvb2wiLCBsYW1iZGE6ICJ0aXRzIl0KCiAgc2hpdCA9IG5leHQoKHYgZm9yIGZuIGluIGZ1Y2sgaWYgKHYgOj0gZm4oKSkpLCBOb25lKQogIHByaW50KHNoaXQpCg==</text>
+        <text encoding="base64">CiAgIyBjbHMgPSBBcHBvaW50bWVudAogICMgY2lkID0gIlROT0MwMSIKICAjIHJldCA9ICgKICAjICAgY2xzLnNlYXJjaChjbHMuY2lkID09IGNpZCkKICAjICAgLndpdGhfZW50aXRpZXMoZnVuYy5tYXgoY2xzLmhqX21vZGlmeSkubGFiZWwoImhqX21vZGlmeSIpKQogICMgICAub25lX29yX25vbmUoKQogICMgKQogICMKICAjIHByaW50KHJldCkKICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNpZCA9IHNlbGYuY2lkCgo=</text>
+        <text encoding="base64">CiAgZnVjayA9IFtsYW1iZGE6IE5vbmUsIGxhbWJkYTogRmFsc2UsIGxhbWJkYTogImNvb2wiLCBsYW1iZGE6ICJ0aXRzIl0KCiAgc2hpdCA9IG5leHQoKHYgZm9yIGZuIGluIGZ1Y2sgaWYgKHYgOj0gZm4oKSkpLCBOb25lKQogIHByaW50KHNoaXQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNpZCA9IHNlbGYuY2lkCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZmlsZSA9IHNlbGYudW5sb2FkZXIuYmFzZWZpbGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//@</text>
@@ -628,9 +631,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>sadf</last-search>
+      <last-search>fmt</last-search>
       <last-offset />
-      <last-pattern>sadf</last-pattern>
+      <last-pattern>fmt</last-pattern>
       <last-replace>@</last-replace>
       <last-substitute>@@</last-substitute>
       <last-dir>1</last-dir>
