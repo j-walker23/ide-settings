@@ -228,7 +228,6 @@
         <entry>parse_d</entry>
         <entry>.hj</entry>
         <entry>sadf</entry>
-        <entry>sdf</entry>
         <entry>center</entry>
         <entry>grid</entry>
         <entry>@@</entry>
@@ -240,6 +239,7 @@
         <entry>\.tasks</entry>
         <entry>asdf</entry>
         <entry>log</entry>
+        <entry>sdf</entry>
       </history-search>
       <history-cmd>
         <entry>SplitVertically</entry>
@@ -362,21 +362,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" timestamp="1592693076739">
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" timestamp="1592703594139">
         <mark key="'" line="117" column="31" />
-        <mark key="[" line="116" column="10" />
-        <mark key="]" line="117" column="33" />
-        <mark key="." line="117" column="32" />
+        <mark key="[" line="256" column="0" />
+        <mark key="]" line="256" column="0" />
+        <mark key="." line="256" column="0" />
         <mark key="^" line="117" column="33" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/integrations/healthjumps_view.py" timestamp="1592696125911">
+      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/integrations/healthjumps_view.py" timestamp="1592703015300">
         <mark key="'" line="26" column="49" />
         <mark key="[" line="29" column="38" />
         <mark key="]" line="29" column="48" />
         <mark key="^" line="29" column="48" />
         <mark key="." line="29" column="47" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/coms/ext/celery.py" timestamp="1592697237384">
+      <file name="$USER_HOME$/code/sc/web/sc/coms/ext/celery.py" timestamp="1592703469413">
         <mark key="'" line="141" column="2" />
       </file>
       <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" timestamp="1592693870516">
@@ -391,12 +391,11 @@
         <mark key="]" line="198" column="0" />
         <mark key="." line="198" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/tasks/hj/collecting.py" timestamp="1592697541655">
-        <mark key="'" line="92" column="0" />
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="44" />
-        <mark key="." line="132" column="0" />
-        <mark key="^" line="132" column="24" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/tasks/hj/collecting.py" timestamp="1592703274295">
+        <mark key="[" line="58" column="26" />
+        <mark key="]" line="58" column="44" />
+        <mark key="." line="58" column="43" />
+        <mark key="^" line="58" column="44" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/cron.py" timestamp="1592695141807" />
       <file name="/Python Console" timestamp="1592665163145">
@@ -408,9 +407,6 @@
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
       </file>
-      <file name="/console" timestamp="1592651359837">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1592652470645">
         <mark key="'" line="619" column="0" />
         <mark key="[" line="648" column="10" />
@@ -418,12 +414,12 @@
         <mark key="." line="648" column="18" />
         <mark key="^" line="648" column="19" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collecting.py" timestamp="1592697493611">
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collecting.py" timestamp="1592703290787">
         <mark key="'" line="41" column="15" />
-        <mark key="[" line="67" column="30" />
-        <mark key="]" line="68" column="14" />
-        <mark key="." line="68" column="13" />
-        <mark key="^" line="68" column="14" />
+        <mark key="[" line="47" column="8" />
+        <mark key="]" line="47" column="10" />
+        <mark key="." line="47" column="9" />
+        <mark key="^" line="47" column="10" />
       </file>
       <file name="$USER_HOME$/.dotfiles/hubflow/functions.zsh" timestamp="1592661759218" />
       <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/base.py" timestamp="1592652154380">
@@ -431,6 +427,17 @@
         <mark key="]" line="49" column="31" />
         <mark key="." line="49" column="30" />
         <mark key="^" line="49" column="31" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/auth.py" timestamp="1592702950873">
+        <mark key="[" line="79" column="12" />
+        <mark key="]" line="79" column="17" />
+        <mark key="." line="79" column="16" />
+        <mark key="^" line="79" column="17" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/selects/accounts.py" timestamp="1592703008724">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/.dotfiles/git/aliases.zsh" timestamp="1592692333957">
         <mark key="'" line="17" column="11" />
@@ -446,12 +453,6 @@
         <mark key="^" line="117" column="37" />
         <mark key="." line="117" column="36" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/doctor.py" timestamp="1592651772366">
-        <mark key="'" line="20" column="37" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1592695863138">
         <mark key="'" line="706" column="2" />
         <mark key="[" line="737" column="35" />
@@ -461,10 +462,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="20" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/config/offices/offices.ts" />
-      <jump line="150" column="26" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/config/offices/offices.ts" />
-      <jump line="151" column="20" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/config/offices/offices.ts" />
-      <jump line="159" column="26" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/config/offices/offices.ts" />
       <jump line="160" column="20" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/config/offices/offices.ts" />
       <jump line="168" column="26" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/config/offices/offices.ts" />
       <jump line="169" column="20" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/config/offices/offices.ts" />
@@ -542,7 +539,6 @@
       <jump line="121" column="1" filename="$USER_HOME$/code/sc/web/sc/app/tasks/hj/collecting.py" />
       <jump line="53" column="28" filename="$USER_HOME$/code/sc/web/sc/app/tasks/hj/collecting.py" />
       <jump line="119" column="35" filename="$USER_HOME$/code/sc/web/sc/app/tasks/hj/collecting.py" />
-      <jump line="83" column="0" filename="$USER_HOME$/code/sc/web/sc/app/tasks/hj/collecting.py" />
       <jump line="166" column="4" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/base.py" />
       <jump line="17" column="11" filename="$USER_HOME$/.dotfiles/git/aliases.zsh" />
       <jump line="34" column="17" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collecting.py" />
@@ -561,51 +557,56 @@
       <jump line="56" column="4" filename="$USER_HOME$/code/sc/web/sc/coms/ext/celery.py" />
       <jump line="141" column="2" filename="$USER_HOME$/code/sc/web/sc/coms/ext/celery.py" />
       <jump line="92" column="0" filename="$USER_HOME$/code/sc/web/sc/app/tasks/hj/collecting.py" />
+      <jump line="97" column="49" filename="$USER_HOME$/code/sc/web/sc/app/tasks/hj/collecting.py" />
+      <jump line="131" column="0" filename="$USER_HOME$/code/sc/web/sc/app/tasks/hj/collecting.py" />
+      <jump line="83" column="7" filename="$USER_HOME$/code/sc/web/sc/app/tasks/hj/collecting.py" />
+      <jump line="58" column="1" filename="$USER_HOME$/code/sc/web/sc/app/tasks/hj/collecting.py" />
+      <jump line="66" column="30" filename="$USER_HOME$/code/sc/web/sc/app/tasks/hj/collecting.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICB0aW1lLnNsZWVwKHJhbmRvbS5jaG9pY2UobGlzdChyYW5nZSgxMCkpKSkK</text>
+        <text encoding="base64">ZGVmIHNwbGl0X2ludG9fc3luY19ncm91cHModHlwZXM6IExpc3RbVHlwZVtDb2xsZWN0b3JdXSk6CiAgIiIiIiIiCiAgZmFzdF90eXBlcyA9IERlbW9ncmFwaGljQ29sbGVjdG9yLCBEb2N0b3JDb2xsZWN0b3IsIE9mZmljZUNvbGxlY3RvcgoKICBmaXJzdCwgc2Vjb25kID0gdXRpbHMucGFydGl0aW9uKHR5cGVzLCBsYW1iZGEgcjogciBpbiBmYXN0X3R5cGVzKQogIHJldHVybiBmaXJzdCwgc2Vjb25kCg==</text>
       </register>
       <register name="-" type="4">
-        <text>, **filter_hj_log(res)</text>
+        <text>.delay()</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>sdf</text>
       </register>
       <register name="0" type="4">
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0aW1lLnNsZWVwKHJhbmRvbS5jaG9pY2UobGlzdChyYW5nZSgxMCkpKSkK</text>
+        <text encoding="base64">ZGVmIHNwbGl0X2ludG9fc3luY19ncm91cHModHlwZXM6IExpc3RbVHlwZVtDb2xsZWN0b3JdXSk6CiAgIiIiIiIiCiAgZmFzdF90eXBlcyA9IERlbW9ncmFwaGljQ29sbGVjdG9yLCBEb2N0b3JDb2xsZWN0b3IsIE9mZmljZUNvbGxlY3RvcgoKICBmaXJzdCwgc2Vjb25kID0gdXRpbHMucGFydGl0aW9uKHR5cGVzLCBsYW1iZGEgcjogciBpbiBmYXN0X3R5cGVzKQogIHJldHVybiBmaXJzdCwgc2Vjb25kCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzdiA9IGNvbGxlY3Rvcih0eXBlXywgY2lkKQo=</text>
+        <text encoding="base64">ICAgICMgZmxvdyA9IGdyb3VwKGdyb3VwMSkgfCBncm91cChkb25lMSkgfCBncm91cChncm91cDIpIHwgZ3JvdXAoZG9uZTIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkYXRhID0gcmVzLmdldCgiZGF0YSIpIG9yIFtdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZm9yIHBhZ2UsIHBhcmFtcyBpbiBwYWdlX2luZm86Cg==</text>
+        <text encoding="base64">ICBsb2cuYmluZChjaWQ9Y2lkLCBwYXRoPXN2LnBhdGgpCiAgbG9nLmluZm8oZiJDb2xsZWN0IFBhZ2UgLS0ge3BhZ2V9IikKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBjb2xsZWN0b3JzID0gaGpfdHlwZXMoanVtcCwgdHkpCgogICAgZm9yIGN0IGluIGNvbGxlY3RvcnM6CiAgICAgIGZvdW5kID0gRmFsc2UKICAgICAgZm9yIGNpZCBpbiBqdW1wLmNpZHM6CiAgICAgICAgbGFzdCA9IGNvbGxlY3RvcihjdCwgY2lkKS5sYXN0X21vZGlmaWVkKCkKICAgICAgICBmb3VuZCA9IGxhc3QgaXMgbm90IE5vbmUKICAgICAgaWYgZm91bmQ6CiAgICAgICAgYnJlYWsKICAgIGVsc2U6CiAgICAgIGlmIGp1bXAudW5sb2FkaW5nOgogICAgICAgIHJldHVybiB7InVubG9hZGluZyI6IFRydWV9CiAgICAgIGp1bXAudW5sb2FkaW5nID0gVHJ1ZQogICAgICB3aXRoIHRhc2tydW5uZXIoKToKICAgICAgICBoanMudW5sb2FkLnVubG9hZGluZyhqdW1wLCB0eT10eSkucnVuKCkKICAgICAgICByZXR1cm4geyJ1bmxvYWQiOiBUcnVlfQo=</text>
+        <text encoding="base64">CiAgIyAjIFNvbWV0aW1lcyBoZWFsdGhqdW1wIHdpbGwgaGF2ZSB1cGRhdGVkIGV2ZXJ5dGhpbmcsCiAgIyAjIGNhdXNpbmcgdXMgdG8gcmVzeW5jIGV2ZXJ5dGhpbmcgYW5kIHRoZW0gdG8gZ2V0CiAgIyAjIG1hZCBhdCB1cyBmb3IgdXNpbmcgdGhlaXIgYXBpLgogICMgbWF4X3BhZ2VzX3RvX3J1biA9IDIKICAjCiAgIyBhbGxfdGFza3MgPSBbXQogICMgdGFza3MgPSBkZWZhdWx0ZGljdChsaXN0KQogICMKICAjIGZpcnN0LCBzZWNvbmQgPSBzcGxpdF9pbnRvX3N5bmNfZ3JvdXBzKGhqX3R5cGVzKGhqLCB0eSkpCiAgIwogICMgZm9yIHR5cGVfIGluIGZpcnN0OgogICMgICBsYXN0X3BhZ2VzID0gZmlsdGVyX25vbmUoY29sbGVjdG9yKHR5cGVfLCBjaWQpLmZpbmRfbGFzdF9wYWdlcygpIGZvciBjaWQgaW4gaGouY2lkcykKICAjCiAgIyAgIGZvciBjaWQsIHBhZ2UsIHBhcmFtcyBpbiBsYXN0X3BhZ2VzOgogICMgICAgIHRhc2tzID0gWwogICMgICAgICAgY29sbGVjdF9wYWdlLnNpKHR5cGVfLCBjaWQsIG51bSwgcGFyYW1zKS5zZXQoY291bnRkb3duPW51bSkKICAjICAgICAgIGZvciBudW0gaW4gcmV2ZXJzZWQocmFuZ2UoMSwgbWluKHBhZ2UsIG1heF9wYWdlc190b19ydW4pKSkKICAjICAgICBdCgogICMgICAgIGFsbF90YXNrcy5hcHBlbmQoY2hhaW4oKnRhc2tzKSB8IGRhaWx5X2NoZWNrLnNpKHR5cGVfLCBjaWQpKQogICMKICAjIGdyb3VwKGFsbF90YXNrcykuZGVsYXkoKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGp1bXAgPSBIZWFsdGhqdW1wLmdldChpZGQpCg==</text>
+        <text encoding="base64">ICAgICAgIyB0b2RvOiBkZWxheSA+PSAxbWluCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNldF9oal9hbGwodHkpCg==</text>
+        <text encoding="base64">CiAgICAgIGZpcnN0LCBzZWNvbmQgPSBzcGxpdF9pbnRvX3N5bmNfZ3JvdXBzKGhqX3R5cGVzKGFjYy5oaiwgdHkpKQoKICAgICAgZ3JvdXAxID0gW3J1bl9hY2Muc2koYWNjLmhqLCB0eXBlXykgZm9yIHR5cGVfIGluIGZpcnN0XQogICAgICBncm91cDIgPSBbcnVuX2FjYy5zaShhY2MuaGosIHR5cGVfKSBmb3IgdHlwZV8gaW4gc2Vjb25kXQoKICAgICAgKGdyb3VwKGdyb3VwMSkgfCBncm91cChncm91cDIpKS5kZWxheSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpbmQoc2VsZikK</text>
+        <text encoding="base64">ICAgIC5maWx0ZXIoQWNjb3VudC5pZCAhPSBzd2V5ZSkK</text>
       </register>
       <register name=":" type="4">
         <text>%s//@</text>
@@ -614,9 +615,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>log</last-search>
+      <last-search>sdf</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>sdf</last-pattern>
       <last-replace>@</last-replace>
       <last-substitute>@@</last-substitute>
       <last-dir>1</last-dir>
