@@ -379,14 +379,21 @@
       <file name="/a.sql" timestamp="1592748874129">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1593453392938">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="2" />
-        <mark key="^" line="0" column="3" />
+      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1593454948657">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="5" />
       </file>
       <file name="/Dummy.txt" timestamp="1592748874145">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" timestamp="1593454970808">
+        <mark key="'" line="604" column="21" />
+        <mark key="[" line="618" column="0" />
+        <mark key="]" line="618" column="14" />
+        <mark key="^" line="618" column="14" />
+        <mark key="." line="618" column="13" />
       </file>
       <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1593453388377">
         <mark key="'" line="71" column="19" />
@@ -401,7 +408,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="7" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" />
       <jump line="117" column="31" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" />
       <jump line="694" column="19" filename="$USER_HOME$/code/sc/web/cli/john.py" />
       <jump line="706" column="2" filename="$USER_HOME$/code/sc/web/cli/john.py" />
@@ -501,6 +507,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/migrations/versions/2ae35437fac0__116.py" />
       <jump line="37" column="0" filename="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" />
       <jump line="71" column="19" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
+      <jump line="604" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
