@@ -374,7 +374,16 @@
         <mark key="." line="127" column="33" />
         <mark key="^" line="127" column="34" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/web-aKL4etZ6/lib/python3.8/site-packages/alembic/ddl/mysql.py" timestamp="1592748811837" />
+      <file name="/Dummy.txt" timestamp="1592748874145">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" timestamp="1592742244894">
+        <mark key="'" line="560" column="7" />
+        <mark key="[" line="611" column="21" />
+        <mark key="]" line="612" column="10" />
+        <mark key="^" line="612" column="10" />
+        <mark key="." line="612" column="9" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/transaction.py" timestamp="1592740659032">
         <mark key="'" line="32" column="6" />
         <mark key="[" line="116" column="71" />
@@ -390,6 +399,9 @@
       </file>
       <file name="/console" timestamp="1592722825538">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1592741719354">
+        <mark key="'" line="62" column="27" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1592737694227">
         <mark key="'" line="0" column="2" />
@@ -418,8 +430,21 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="/console.sql" timestamp="1593442862917">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.sql" timestamp="1592748874129">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_2" timestamp="1593442863218">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/tasks/hj/collecting.py" timestamp="1592742731558">
+        <mark key="'" line="57" column="45" />
+        <mark key="[" line="60" column="38" />
+        <mark key="]" line="60" column="44" />
+        <mark key="." line="60" column="43" />
+        <mark key="^" line="60" column="44" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collecting.py" timestamp="1592742768021">
         <mark key="'" line="90" column="4" />
@@ -430,29 +455,6 @@
       </file>
       <file name="$USER_HOME$/code/sc/web/migrations/versions/2ae35437fac0__116.py" timestamp="1592748825444">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592748874145">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" timestamp="1592742244894">
-        <mark key="'" line="560" column="7" />
-        <mark key="[" line="611" column="21" />
-        <mark key="]" line="612" column="10" />
-        <mark key="^" line="612" column="10" />
-        <mark key="." line="612" column="9" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1592741719354">
-        <mark key="'" line="62" column="27" />
-      </file>
-      <file name="/console_2" timestamp="1592722829577">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/tasks/hj/collecting.py" timestamp="1592742731558">
-        <mark key="'" line="57" column="45" />
-        <mark key="[" line="60" column="38" />
-        <mark key="]" line="60" column="44" />
-        <mark key="." line="60" column="43" />
-        <mark key="^" line="60" column="44" />
       </file>
       <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1592740012034">
         <mark key="'" line="706" column="2" />
@@ -622,7 +624,7 @@
       <last-replace>@</last-replace>
       <last-substitute>@@</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
