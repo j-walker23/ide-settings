@@ -369,13 +369,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/office.py" timestamp="1593481710939">
-        <mark key="'" line="58" column="65" />
-        <mark key="[" line="83" column="20" />
-        <mark key="]" line="83" column="41" />
-        <mark key="." line="83" column="40" />
-        <mark key="^" line="83" column="41" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/pages/session-details/session-details.ts" timestamp="1593489088622">
         <mark key="[" line="12" column="28" />
         <mark key="]" line="12" column="33" />
@@ -412,11 +405,12 @@
       <file name="$USER_HOME$/code/sc/web/sc/const.py" timestamp="1593487201035">
         <mark key="'" line="24" column="7" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/kpis/session-details/session-details.ts" timestamp="1593489391217">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="28" column="37" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/kpis/session-details/session-details.ts" timestamp="1593490690451">
+        <mark key="'" line="118" column="0" />
+        <mark key="[" line="44" column="61" />
+        <mark key="]" line="44" column="61" />
+        <mark key="^" line="44" column="61" />
+        <mark key="." line="44" column="60" />
       </file>
       <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" timestamp="1593486733460">
         <mark key="'" line="19" column="0" />
@@ -446,14 +440,21 @@
         <mark key="'" line="67" column="2" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/kpis.py" timestamp="1593489462617" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/kpis/hallspace-days/hallspace-days.ts" timestamp="1593490567295">
+        <mark key="'" line="112" column="0" />
+        <mark key="[" line="58" column="24" />
+        <mark key="]" line="58" column="25" />
+        <mark key="^" line="58" column="25" />
+        <mark key="." line="58" column="24" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/session-details/session-details.ts" timestamp="1593488921184">
         <mark key="[" line="16" column="27" />
         <mark key="]" line="16" column="31" />
         <mark key="." line="16" column="30" />
         <mark key="^" line="16" column="31" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/common/time-split-table.ts" timestamp="1593489116767">
-        <mark key="'" line="36" column="31" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/common/time-split-table.ts" timestamp="1593490370200">
+        <mark key="'" line="109" column="14" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/coms/search/auto/auto_search.py" timestamp="1593487737872">
         <mark key="[" line="143" column="69" />
@@ -463,10 +464,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="8" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/base.py" />
-      <jump line="144" column="4" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/base.py" />
-      <jump line="12" column="26" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/base.py" />
-      <jump line="26" column="10" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/base.py" />
       <jump line="93" column="38" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/base.py" />
       <jump line="15" column="0" filename="$USER_HOME$/code/sc/web/sc/app/aspire/adjustments/kpis.py" />
       <jump line="120" column="12" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/base.py" />
@@ -563,15 +560,19 @@
       <jump line="7" column="13" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/common/time-split-table.ts" />
       <jump line="111" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/common/time-split-table.ts" />
       <jump line="36" column="31" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/common/time-split-table.ts" />
+      <jump line="120" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/kpis/session-details/session-details.ts" />
+      <jump line="109" column="14" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/common/time-split-table.ts" />
+      <jump line="27" column="13" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/kpis/hallspace-days/hallspace-days.ts" />
+      <jump line="112" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/kpis/hallspace-days/hallspace-days.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">CiAgY29uc3RydWN0b3IoKSB7CiAgfQo=</text>
+      <register name="+" type="4">
+        <text encoding="base64">OiBzdHJpbmcg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXh0ZW5kcyBUaW1lU3BsaXRUYWJsZSA=</text>
+        <text encoding="base64">OiBzdHJpbmcg</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -580,34 +581,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgY29uc3RydWN0b3IoKSB7CiAgfQo=</text>
+        <text encoding="base64">ICAgIC8vIGxldCByZXQgPSB0aGlzLmdldFNoYWRlKHZhbCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKCkK</text>
+        <text encoding="base64">ICAgICAgICBhZ2dyZWdhdGlvbkhpZGVMYWJlbDogdHJ1ZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbXBsYXRlCiAgZnJvbSAnd2ViL3ZpZXdzL2FzcGlyZS9wYWdlcy9hcHBvaW50bWVudHMvcGFnZXMvaGFsbHNwYWNlLWRldGFpbHMvaGFsbHNwYWNlLWRldGFpbHMuaHRtbCcK</text>
+        <text encoding="base64">ICAgICAgICBhZ2dyZWdhdGlvblR5cGU6IChyb3dzOiBJR3JpZFJvd1tdLCBjb2w6IElHcmlkQ29sdW1uKSA9PiB7CiAgICAgICAgICBsZXQgdmFsID0gQXJyb3dDb21tb24uZm9vdGVyQWdnKAogICAgICAgICAgICByb3dzLAogICAgICAgICAgICB0aGlzLmFnZ1ZhbFR5cGUsCiAgICAgICAgICAgIGVudGl0eSA9PiBlbnRpdHlbY29sLmNvbERlZi5ncm91cEtleV0uYW1fdmFsLAogICAgICAgICAgKQogICAgICAgICAgcmV0dXJuIGZpbHRlcih2YWwpCiAgICAgICAgfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbXBsYXRlCiAgZnJvbSAnd2ViL3ZpZXdzL2FzcGlyZS9wYWdlcy9hcHBvaW50bWVudHMvcGFnZXMvc2Vzc2lvbi1kZXRhaWxzL3Nlc3Npb24tZGV0YWlscy5odG1sJwo=</text>
+        <text encoding="base64">ICAgICAgICBjZWxsVGVtcGxhdGU6IGFtQ2VsbCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbXBsYXRlIGZyb20gJ3dlYi92aWV3cy9hc3BpcmUvcGFnZXMvYXBwb2ludG1lbnRzL2twaXMvc2Vzc2lvbi1kZXRhaWxzL3Nlc3Npb24tZGV0YWlscy5odG1sJwo=</text>
+        <text encoding="base64">CiAgICBsZXQgcGlwZSA9IHRoaXMuYWdnVmFsRmlsdGVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBuYW1lID0gCg==</text>
+        <text encoding="base64">CiAgY29uc3RydWN0b3IoKSB7CiAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN1cGVyKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgbm93ID0gCg==</text>
+        <text encoding="base64">aW1wb3J0IHRlbXBsYXRlCiAgZnJvbSAnd2ViL3ZpZXdzL2FzcGlyZS9wYWdlcy9hcHBvaW50bWVudHMvcGFnZXMvaGFsbHNwYWNlLWRldGFpbHMvaGFsbHNwYWNlLWRldGFpbHMuaHRtbCcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgZmlsdGVycyA9IHV0aWxzLmZsYXR0ZW4oW2ZpbHRlcnMsIGFkZF9hdXRvX2ZpbHRlcnMoY2xzLCBhcmdzKV0pCg==</text>
+        <text encoding="base64">aW1wb3J0IHRlbXBsYXRlCiAgZnJvbSAnd2ViL3ZpZXdzL2FzcGlyZS9wYWdlcy9hcHBvaW50bWVudHMvcGFnZXMvc2Vzc2lvbi1kZXRhaWxzL3Nlc3Npb24tZGV0YWlscy5odG1sJwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s//@</text>
