@@ -409,7 +409,7 @@
       <file name="/console" timestamp="1593555477975">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1593555700986">
+      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1593557047295">
         <mark key="'" line="78" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1593541298022">
@@ -447,11 +447,11 @@
         <mark key="^" line="19" column="21" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1593555705286">
+      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1593557051840">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="3" />
-        <mark key="^" line="0" column="4" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="5" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/details/appointment-details.html" timestamp="1593539913059">
         <mark key="'" line="13" column="0" />
@@ -590,10 +590,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>local</text>
+        <text>prod</text>
       </register>
       <register name="-" type="4">
-        <text>local</text>
+        <text>prod</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
