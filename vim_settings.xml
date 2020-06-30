@@ -240,13 +240,18 @@
         <entry>revenue</entry>
         <entry>sadf</entry>
         <entry>fmt</entry>
-        <entry>sdf</entry>
         <entry>on_done</entry>
         <entry>asef</entry>
         <entry>.debug</entry>
         <entry>.join</entry>
         <entry>.sea</entry>
+        <entry>repeat</entry>
+        <entry>groups</entry>
         <entry>asdf</entry>
+        <entry>lastGr</entry>
+        <entry>sdf</entry>
+        <entry>lastGroup</entry>
+        <entry>header-cell</entry>
       </history-search>
       <history-cmd>
         <entry>SplitVertically</entry>
@@ -369,6 +374,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-header-group-columns.html" timestamp="1593497443727">
+        <mark key="[" line="54" column="14" />
+        <mark key="]" line="55" column="8" />
+        <mark key="." line="55" column="7" />
+        <mark key="^" line="55" column="8" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/pages/session-details/session-details.ts" timestamp="1593489088622">
         <mark key="[" line="12" column="28" />
         <mark key="]" line="12" column="33" />
@@ -395,32 +406,32 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/const.py" timestamp="1593487201035">
-        <mark key="'" line="24" column="7" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/kpis/session-details/session-details.ts" timestamp="1593494118643">
+      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/kpis/session-details/session-details.ts" timestamp="1593496298517">
         <mark key="'" line="37" column="0" />
         <mark key="j" line="71" column="37" />
-        <mark key="[" line="129" column="89" />
-        <mark key="]" line="130" column="8" />
-        <mark key="." line="130" column="7" />
-        <mark key="^" line="130" column="8" />
+        <mark key="[" line="164" column="22" />
+        <mark key="]" line="164" column="29" />
+        <mark key="." line="164" column="28" />
+        <mark key="^" line="164" column="29" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" timestamp="1593486733460">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="20" column="7" />
-        <mark key="]" line="22" column="43" />
-        <mark key="^" line="22" column="43" />
-        <mark key="." line="22" column="42" />
-      </file>
-      <file name="/console.sql" timestamp="1593486307579">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.sass" timestamp="1593497128680">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="24" column="24" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/utils.py" timestamp="1593487226089">
         <mark key="[" line="464" column="37" />
         <mark key="]" line="464" column="41" />
         <mark key="^" line="464" column="41" />
         <mark key="." line="464" column="40" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.service.ts" timestamp="1593496876098">
+        <mark key="'" line="115" column="50" />
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="^" line="37" column="20" />
+        <mark key="." line="120" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/aspire/exports.py" timestamp="1593488407673">
         <mark key="'" line="123" column="11" />
@@ -464,34 +475,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
-      <jump line="164" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
-      <jump line="27" column="32" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" />
-      <jump line="0" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
-      <jump line="32" column="6" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/transaction.py" />
-      <jump line="560" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" />
-      <jump line="197" column="0" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" />
-      <jump line="49" column="6" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" />
-      <jump line="65" column="6" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" />
-      <jump line="82" column="6" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" />
-      <jump line="126" column="6" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" />
-      <jump line="170" column="2" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" />
-      <jump line="168" column="6" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" />
-      <jump line="149" column="6" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" />
-      <jump line="147" column="24" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" />
-      <jump line="153" column="6" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" />
-      <jump line="62" column="27" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
-      <jump line="52" column="23" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/unloading.py" />
-      <jump line="75" column="0" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collecting.py" />
-      <jump line="155" column="0" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/unloading.py" />
-      <jump line="56" column="27" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/unload/unloading.py" />
-      <jump line="90" column="4" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collecting.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/migrations/versions/2ae35437fac0__116.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" />
-      <jump line="71" column="19" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
-      <jump line="604" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" />
-      <jump line="230" column="0" filename="$USER_HOME$/code/sc/web/cli/apis/hj.py" />
-      <jump line="276" column="10" filename="$USER_HOME$/code/sc/web/cli/apis/hj.py" />
       <jump line="69" column="0" filename="$USER_HOME$/code/sc/web/cli/apis/hj.py" />
       <jump line="587" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" />
       <jump line="66" column="11" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/auth.py" />
@@ -564,51 +547,79 @@
       <jump line="29" column="13" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/kpis/session-days/session-days.ts" />
       <jump line="176" column="18" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/kpis/session-details/session-details.ts" />
       <jump line="37" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/kpis/session-details/session-details.ts" />
+      <jump line="26" column="23" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-header-group-columns.html" />
+      <jump line="18" column="13" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-header-group-columns.html" />
+      <jump line="84" column="17" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.service.ts" />
+      <jump line="73" column="12" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.service.ts" />
+      <jump line="79" column="10" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.service.ts" />
+      <jump line="80" column="15" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.service.ts" />
+      <jump line="82" column="8" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.service.ts" />
+      <jump line="92" column="6" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.service.ts" />
+      <jump line="62" column="51" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.service.ts" />
+      <jump line="114" column="40" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.service.ts" />
+      <jump line="126" column="8" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.service.ts" />
+      <jump line="101" column="8" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.service.ts" />
+      <jump line="89" column="40" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.service.ts" />
+      <jump line="76" column="0" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.service.ts" />
+      <jump line="37" column="19" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.service.ts" />
+      <jump line="90" column="40" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.service.ts" />
+      <jump line="102" column="8" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.service.ts" />
+      <jump line="127" column="8" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.service.ts" />
+      <jump line="36" column="10" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.service.ts" />
+      <jump line="10" column="22" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.service.ts" />
+      <jump line="111" column="0" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.service.ts" />
+      <jump line="115" column="50" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.service.ts" />
+      <jump line="34" column="42" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-header-group-columns.html" />
+      <jump line="37" column="33" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-header-group-columns.html" />
+      <jump line="39" column="35" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-header-group-columns.html" />
+      <jump line="45" column="28" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-header-group-columns.html" />
+      <jump line="72" column="27" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-header-group-columns.html" />
+      <jump line="75" column="29" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-header-group-columns.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>warn</text>
+      <register name="+" type="2">
+        <text encoding="base64">CiAgICAgICAgPGRpdgogICAgICAgICAgbmctaWY9IiFjb2xDb250YWluZXIucGFyZW50cy5sZW5ndGgiCiAgICAgICAgICBjbGFzcz0idWktZ3JpZC1oZWFkZXItZ3JvdXAiCiAgICAgICAgICBuZy1jbGFzcz0iWwogICAgICAgICAgZ3JvdXAuY3NzQ2xhc3MsCiAgICAgICAgICB7CiAgICAgICAgICAgIG5hbWVkOiBncm91cC5uYW1lLAogICAgICAgICAgICB1bm5hbWVkOiAhZ3JvdXAubmFtZQogICAgICAgICAgfQogICAgICAgIF0iCiAgICAgICAgICBuZy1yZXBlYXQ9Imdyb3VwIGluIGNvbENvbnRhaW5lci5yZW5kZXJlZENvbHVtbkdyb3VwcyB0cmFjayBieSAkaW5kZXgiPgogICAgICAgICAgPGRpdgogICAgICAgICAgICBjbGFzcz0idWktZ3JpZC1oZWFkZXItZ3JvdXAtbmFtZSB1aS1ncmlkLWNlbGwtY29udGVudHMiCiAgICAgICAgICAgIG5nLWlmPSJncm91cC5uYW1lIiBuZy1iaW5kLWh0bWw9Imdyb3VwLm5hbWUiPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8ZGl2CiAgICAgICAgICAgIGNsYXNzPSJ1aS1ncmlkLWhlYWRlci1jZWxsLXdyYXBwZXIiPgogICAgICAgICAgICA8ZGl2CiAgICAgICAgICAgICAgcm9sZT0icm93IgogICAgICAgICAgICAgIGNsYXNzPSJ1aS1ncmlkLWhlYWRlci1jZWxsLXJvdyI+CiAgICAgICAgICAgICAgPGRpdgogICAgICAgICAgICAgICAgY2xhc3M9InVpLWdyaWQtaGVhZGVyLWNlbGwgdWktZ3JpZC1jbGVhcmZpeCIKICAgICAgICAgICAgICAgIG5nLWNsYXNzPSJ7CiAgICAgICAgICAgICAgICAnZmlyc3QtaW4tZ3JvdXAnOiBjb2wuaXNGaXJzdEluR3JvdXAsCiAgICAgICAgICAgICAgICAnbGFzdC1pbi1ncm91cCc6IGNvbC5pc0xhc3RJbkdyb3VwCiAgICAgICAgICAgICAgfSIKICAgICAgICAgICAgICAgIG5nLXJlcGVhdD0iY29sIGluIGdyb3VwLmNvbHVtbnMgdHJhY2sgYnkgY29sLnVpZCIKICAgICAgICAgICAgICAgIHVpLWdyaWQtaGVhZGVyLWNlbGwKICAgICAgICAgICAgICAgIGNvbD0iY29sIj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KCg==</text>
       </register>
       <register name="-" type="4">
-        <text>warn</text>
+        <text>ng-if=&quot;colContainer.parents.length&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>asdf</text>
+        <text>header-cell</text>
       </register>
       <register name="0" type="4">
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCB3aWR0aCA9IDQ2LAogICAgICBoZWFkZXJDZWxsQ2xhc3MgPSAnY2VudGVyJywKICAgICAgY2VudGVyID0gJ2NlbnRlcicKCg==</text>
+        <text encoding="base64">CiAgICAgICAgPGRpdgogICAgICAgICAgbmctaWY9IiFjb2xDb250YWluZXIucGFyZW50cy5sZW5ndGgiCiAgICAgICAgICBjbGFzcz0idWktZ3JpZC1oZWFkZXItZ3JvdXAiCiAgICAgICAgICBuZy1jbGFzcz0iWwogICAgICAgICAgZ3JvdXAuY3NzQ2xhc3MsCiAgICAgICAgICB7CiAgICAgICAgICAgIG5hbWVkOiBncm91cC5uYW1lLAogICAgICAgICAgICB1bm5hbWVkOiAhZ3JvdXAubmFtZQogICAgICAgICAgfQogICAgICAgIF0iCiAgICAgICAgICBuZy1yZXBlYXQ9Imdyb3VwIGluIGNvbENvbnRhaW5lci5yZW5kZXJlZENvbHVtbkdyb3VwcyB0cmFjayBieSAkaW5kZXgiPgogICAgICAgICAgPGRpdgogICAgICAgICAgICBjbGFzcz0idWktZ3JpZC1oZWFkZXItZ3JvdXAtbmFtZSB1aS1ncmlkLWNlbGwtY29udGVudHMiCiAgICAgICAgICAgIG5nLWlmPSJncm91cC5uYW1lIiBuZy1iaW5kLWh0bWw9Imdyb3VwLm5hbWUiPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8ZGl2CiAgICAgICAgICAgIGNsYXNzPSJ1aS1ncmlkLWhlYWRlci1jZWxsLXdyYXBwZXIiPgogICAgICAgICAgICA8ZGl2CiAgICAgICAgICAgICAgcm9sZT0icm93IgogICAgICAgICAgICAgIGNsYXNzPSJ1aS1ncmlkLWhlYWRlci1jZWxsLXJvdyI+CiAgICAgICAgICAgICAgPGRpdgogICAgICAgICAgICAgICAgY2xhc3M9InVpLWdyaWQtaGVhZGVyLWNlbGwgdWktZ3JpZC1jbGVhcmZpeCIKICAgICAgICAgICAgICAgIG5nLWNsYXNzPSJ7CiAgICAgICAgICAgICAgICAnZmlyc3QtaW4tZ3JvdXAnOiBjb2wuaXNGaXJzdEluR3JvdXAsCiAgICAgICAgICAgICAgICAnbGFzdC1pbi1ncm91cCc6IGNvbC5pc0xhc3RJbkdyb3VwCiAgICAgICAgICAgICAgfSIKICAgICAgICAgICAgICAgIG5nLXJlcGVhdD0iY29sIGluIGdyb3VwLmNvbHVtbnMgdHJhY2sgYnkgY29sLnVpZCIKICAgICAgICAgICAgICAgIHVpLWdyaWQtaGVhZGVyLWNlbGwKICAgICAgICAgICAgICAgIGNvbD0iY29sIj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNob3dDb2x1bW5Gb290ZXI6IHRydWUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZ3JpZC5zaG93Q29sdW1uRm9vdGVyID0gdGhpcy5yb3dzLmxlbmd0aCA+IDEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCBxdWVyeSA9IGdldFF1ZXJ5KCkgfHwgJycKICAgIGxldCBmaWx0ZXJzID0gW10KICAgIGlmICghcXVlcnkuaW5jbHVkZXMoJ3N0YXR1czonKSkgZmlsdGVycy5wdXNoKFsnc3RhdHVzJywgJ0Fycml2ZWQnXSkKICAgIGZpbHRlcnMucHVzaChbJ3Byb3ZpZGVyJywgc3JjLm5hbWVdKQoKICAgIGxldCBwYXJhbXMgPSBkYXRlU3BhblBhcmFtcyhzcmMuZGF0ZSwgJ2RheScsIGZpbHRlcnMpCiAgICBnZXRTdGF0ZSgpLmdvKCd3ZWIuYXNwaXJlLmFwcG9pbnRtZW50cy5oYWxsc3BhY2UtZGV0YWlscycsIHBhcmFtcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJvd3NfZm49YWRkX3RvdGFsLAo=</text>
+        <text encoding="base64">CiAgICAgICAgPGRpdgogICAgICAgICAgbmctaWY9ImNvbENvbnRhaW5lci5wYXJlbnRzLmxlbmd0aCIKICAgICAgICAgIGNsYXNzPSJ1aS1ncmlkLWhlYWRlci1ncm91cCIKICAgICAgICAgIG5nLWNsYXNzPSJbCiAgICAgICAgICBncm91cC5jc3NDbGFzcywKICAgICAgICAgIHsKICAgICAgICAgICAgbmFtZWQ6IGdyb3VwLm5hbWUsCiAgICAgICAgICAgIHVubmFtZWQ6ICFncm91cC5uYW1lCiAgICAgICAgICB9CiAgICAgICAgXSIKICAgICAgICAgIG5nLXJlcGVhdD0iZ3JvdXAgaW4gY29sQ29udGFpbmVyLnJlbmRlcmVkQ29sdW1uR3JvdXBzIHRyYWNrIGJ5ICRpbmRleCI+CiAgICAgICAgICA8ZGl2CiAgICAgICAgICAgIGNsYXNzPSJ1aS1ncmlkLWhlYWRlci1ncm91cC1uYW1lIHVpLWdyaWQtY2VsbC1jb250ZW50cyIKICAgICAgICAgICAgbmctaWY9Imdyb3VwLm5hbWUiIG5nLWJpbmQtaHRtbD0iZ3JvdXAubmFtZSI+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIAogICAgICAgICAgPGRpdgogICAgICAgICAgICBjbGFzcz0idWktZ3JpZC1oZWFkZXItY2VsbC13cmFwcGVyIj4KICAgICAgICAgICAgPGRpdgogICAgICAgICAgICAgIHJvbGU9InJvdyIKICAgICAgICAgICAgICBjbGFzcz0idWktZ3JpZC1oZWFkZXItY2VsbC1yb3ciPgogICAgICAgICAgICAgIDxkaXYKICAgICAgICAgICAgICAgIGNsYXNzPSJ1aS1ncmlkLWhlYWRlci1jZWxsIHVpLWdyaWQtY2xlYXJmaXgiCiAgICAgICAgICAgICAgICBuZy1jbGFzcz0iewogICAgICAgICAgICAgICAgJ2ZpcnN0LWluLWdyb3VwJzogY29sLmlzRmlyc3RJbkdyb3VwLAogICAgICAgICAgICAgICAgJ2xhc3QtaW4tZ3JvdXAnOiBjb2wuaXNMYXN0SW5Hcm91cAogICAgICAgICAgICAgIH0iCiAgICAgICAgICAgICAgICBuZy1yZXBlYXQ9ImNvbCBpbiBncm91cC5jb2x1bW5zIHRyYWNrIGJ5IGNvbC51aWQiCiAgICAgICAgICAgICAgICB1aS1ncmlkLWhlYWRlci1jZWxsCiAgICAgICAgICAgICAgICBjb2w9ImNvbCI+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICAKICAgICAgICA8L2Rpdj4KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXRbInJvd3MiXS5zb3J0KGtleT1sYW1iZGEgcjogclsidG90YWwiXSkK</text>
+        <text encoding="base64">CiAgICAgICAgPGRpdgogICAgICAgICAgY2xhc3M9InVpLWdyaWQtaGVhZGVyLXBhcmVudCIKICAgICAgICAgIG5nLXJlcGVhdD0icGFyZW50IGluIGNvbENvbnRhaW5lci5wYXJlbnRzIHRyYWNrIGJ5ICRpbmRleCI+CiAgICAgICAgICA8ZGl2CiAgICAgICAgICAgIGNsYXNzPSJ1aS1ncmlkLWhlYWRlci1wYXJlbnQtbmFtZSB1aS1ncmlkLWNlbGwtY29udGVudHMiCiAgICAgICAgICAgIG5nLWJpbmQtaHRtbD0icGFyZW50Lm5hbWUiPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgZGVmIGFkZF90b3RhbChzdWJzKToKICAgIHRvdGFsID0gc3VtKHJbImNyZWRpdHMiXSBmb3IgciBpbiBzdWJzKQogICAgZm9yIHIgaW4gc3ViczoKICAgICAgclsidG90YWwiXSA9IHRvdGFsCiAgICByZXR1cm4gc3Vicwo=</text>
+        <text encoding="base64">ICAgICAgICAgIG5nLWlmPSJncm91cC5wYXJlbnQiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIG5hbWU6ICd0b3RhbCcsCiAgICAgICAgZGlzcGxheU5hbWU6ICdUb3RhbCcsCiAgICAgICAgd2lkdGg6IDUwLAogICAgICAgIHBpbm5lZFJpZ2h0OiB0cnVlLAogICAgICAgIGNlbGxDbGFzczogJ2NlbnRlcicsCiAgICAgICAgYWdncmVnYXRpb25IaWRlTGFiZWw6IHRydWUsCiAgICAgICAgYWdncmVnYXRpb25UeXBlOiAocm93czogSUdyaWRSb3dbXSkgPT4gewogICAgICAgICAgbGV0IHZhbCA9IEFycm93Q29tbW9uLmZvb3RlckFnZygKICAgICAgICAgICAgcm93cywKICAgICAgICAgICAgR3JpZEFnZ1R5cGUuc3VtLAogICAgICAgICAgICBlbnRpdHkgPT4gZW50aXR5LnRvdGFsLAogICAgICAgICAgKQogICAgICAgICAgcmV0dXJuICRmaWx0ZXIoJ251bWJlcicpKHZhbCkKICAgICAgICB9LAogICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICYubmFtZWQK</text>
       </register>
       <register name=":" type="4">
         <text>%s//@</text>
@@ -617,13 +628,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>asdf</last-search>
+      <last-search>header-cell</last-search>
       <last-offset />
-      <last-pattern>asdf</last-pattern>
+      <last-pattern>header-cell</last-pattern>
       <last-replace>@</last-replace>
       <last-substitute>@@</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
