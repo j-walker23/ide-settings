@@ -376,6 +376,13 @@
         <mark key="." line="28" column="43" />
         <mark key="^" line="28" column="44" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/office.py" timestamp="1593481710939">
+        <mark key="'" line="58" column="65" />
+        <mark key="[" line="83" column="20" />
+        <mark key="]" line="83" column="41" />
+        <mark key="." line="83" column="40" />
+        <mark key="^" line="83" column="41" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/aspire/appointments/kpis.py" timestamp="1593467888322">
         <mark key="'" line="72" column="15" />
         <mark key="[" line="181" column="0" />
@@ -383,12 +390,12 @@
         <mark key="." line="181" column="0" />
         <mark key="^" line="178" column="6" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1593479415126">
-        <mark key="'" line="739" column="0" />
-        <mark key="[" line="744" column="0" />
-        <mark key="]" line="744" column="0" />
-        <mark key="^" line="743" column="109" />
-        <mark key="." line="744" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1593481721882">
+        <mark key="'" line="743" column="0" />
+        <mark key="[" line="765" column="0" />
+        <mark key="]" line="765" column="0" />
+        <mark key="." line="765" column="0" />
+        <mark key="^" line="765" column="2" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/aspire/__init__.py" timestamp="1593480880060">
         <mark key="[" line="25" column="12" />
@@ -420,13 +427,6 @@
         <mark key="^" line="656" column="12" />
         <mark key="." line="656" column="11" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/coms/search/search.py" timestamp="1593466862960">
-        <mark key="'" line="153" column="38" />
-        <mark key="[" line="159" column="52" />
-        <mark key="]" line="160" column="17" />
-        <mark key="^" line="160" column="17" />
-        <mark key="." line="160" column="16" />
-      </file>
       <file name="/" timestamp="1593467192268">
         <mark key="[" line="0" column="0" />
       </file>
@@ -451,6 +451,13 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="60" column="51" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/doctor.py" timestamp="1593481700243">
+        <mark key="'" line="43" column="47" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="58" column="41" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/invite/invite.sass" timestamp="1593478522043">
         <mark key="'" line="75" column="2" />
       </file>
@@ -462,9 +469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="5" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collecting.py" />
-      <jump line="79" column="6" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collecting.py" />
-      <jump line="97" column="7" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collecting.py" />
       <jump line="8" column="0" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collecting.py" />
       <jump line="58" column="1" filename="$USER_HOME$/code/sc/web/sc/app/tasks/hj/collecting.py" />
       <jump line="108" column="9" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/base.py" />
@@ -562,15 +566,18 @@
       <jump line="69" column="0" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/aspire/doctors_view.py" />
       <jump line="24" column="0" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/aspire/doctors_view.py" />
       <jump line="22" column="0" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/aspire/doctors_view.py" />
+      <jump line="743" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
+      <jump line="43" column="47" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/doctor.py" />
+      <jump line="58" column="65" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/office.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>[]</text>
+      <register name="+" type="2">
+        <text encoding="base64">d2hlcmUK</text>
       </register>
       <register name="-" type="4">
-        <text>[]</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -579,34 +586,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA3MTcgPSBhY2NvdW50X2lkIGFuZAo=</text>
+        <text encoding="base64">d2hlcmUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbjogLTE4cHggMAogICAgaGVpZ2h0OiA5NHB4Cg==</text>
+        <text encoding="base64">c2FfYWRkX2luZGV4KERvY3Rvci5uYW1lLCBEb2N0b3IuaW50ZXJuYWwpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBuYW1lID0gJ0FsbGlzb24gRmF3dmVyJyBhbmQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC5qb2luKEFwcG9pbnRtZW50Lm9mZmljZSkK</text>
+        <text encoding="base64">ICAoaGpfZG9jdG9yLm5hbWUgbGlrZSBjb25jYXQoY29uY2F0KCclJywgZmF3KSwgJyUnKSkgYW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC5qb2luKEFwcG9pbnRtZW50Lm9mZmljZSkK</text>
+        <text encoding="base64">ICA3MTcgPSBhY2NvdW50X2lkIGFuZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC5qb2luKEFwcG9pbnRtZW50Lm9mZmljZSkK</text>
+        <text encoding="base64">ICAgIG1hcmdpbjogLTE4cHggMAogICAgaGVpZ2h0OiA5NHB4Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC5zZWFyY2goQXBwb2ludG1lbnQuYXJyaXZlZCwgcGFyYW1zPWFyZ3MucHJlcHBlZF9wYXJhbXMpCg==</text>
+        <text encoding="base64">ICAgIC5qb2luKEFwcG9pbnRtZW50Lm9mZmljZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC5kZWJ1Z19wcmludCgpCg==</text>
+        <text encoding="base64">ICAgIC5qb2luKEFwcG9pbnRtZW50Lm9mZmljZSkK</text>
       </register>
       <register name=":" type="4">
         <text>%s//@</text>
