@@ -249,9 +249,9 @@
         <entry>groups</entry>
         <entry>asdf</entry>
         <entry>lastGr</entry>
-        <entry>sdf</entry>
         <entry>lastGroup</entry>
         <entry>header-cell</entry>
+        <entry>sdf</entry>
       </history-search>
       <history-cmd>
         <entry>SplitVertically</entry>
@@ -374,7 +374,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-header-group-columns.html" timestamp="1593497443727">
+      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-header-group-columns.html" timestamp="1593498074704">
+        <mark key="'" line="30" column="7" />
         <mark key="[" line="54" column="14" />
         <mark key="]" line="55" column="8" />
         <mark key="." line="55" column="7" />
@@ -426,8 +427,8 @@
         <mark key="^" line="464" column="41" />
         <mark key="." line="464" column="40" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.service.ts" timestamp="1593496876098">
-        <mark key="'" line="115" column="50" />
+      <file name="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.service.ts" timestamp="1593498099073">
+        <mark key="'" line="50" column="30" />
         <mark key="[" line="120" column="0" />
         <mark key="]" line="120" column="0" />
         <mark key="^" line="37" column="20" />
@@ -475,8 +476,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="0" filename="$USER_HOME$/code/sc/web/cli/apis/hj.py" />
-      <jump line="587" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" />
       <jump line="66" column="11" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/auth.py" />
       <jump line="58" column="7" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/auth.py" />
       <jump line="16" column="55" filename="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" />
@@ -575,6 +574,8 @@
       <jump line="45" column="28" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-header-group-columns.html" />
       <jump line="72" column="27" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-header-group-columns.html" />
       <jump line="75" column="29" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-header-group-columns.html" />
+      <jump line="30" column="7" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-header-group-columns.html" />
+      <jump line="50" column="30" filename="$USER_HOME$/code/sc/web/static/common/components/grid/group-columns/grid-group-columns.service.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -586,7 +587,7 @@
         <text>ng-if=&quot;colContainer.parents.length&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>header-cell</text>
+        <text>sdf</text>
       </register>
       <register name="0" type="4">
         <text>U', str, bytes)  # Must be str or bytes</text>
@@ -628,9 +629,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>header-cell</last-search>
+      <last-search>sdf</last-search>
       <last-offset />
-      <last-pattern>header-cell</last-pattern>
+      <last-pattern>sdf</last-pattern>
       <last-replace>@</last-replace>
       <last-substitute>@@</last-substitute>
       <last-dir>1</last-dir>
