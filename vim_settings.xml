@@ -390,6 +390,12 @@
         <mark key="^" line="743" column="109" />
         <mark key="." line="744" column="0" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/aspire/__init__.py" timestamp="1593480880060">
+        <mark key="[" line="25" column="12" />
+        <mark key="]" line="25" column="16" />
+        <mark key="." line="25" column="15" />
+        <mark key="^" line="25" column="16" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/aspire/appointments/exports.py" timestamp="1593467921616">
         <mark key="]" line="104" column="82" />
         <mark key="." line="104" column="81" />
@@ -413,11 +419,6 @@
         <mark key="]" line="656" column="12" />
         <mark key="^" line="656" column="12" />
         <mark key="." line="656" column="11" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" timestamp="1593466303538">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/coms/search/search.py" timestamp="1593466862960">
         <mark key="'" line="153" column="38" />
@@ -566,10 +567,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>, Doctor.appointments.any()</text>
+        <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>, Doctor.appointments.any()</text>
+        <text>[]</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
