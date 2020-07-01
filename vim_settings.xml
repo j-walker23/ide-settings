@@ -386,23 +386,20 @@
       <file name="/Dummy.txt" timestamp="1593567506314">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" timestamp="1593568699641">
-        <mark key="[" line="576" column="36" />
-        <mark key="]" line="576" column="36" />
+      <file name="/Python Console" timestamp="1593619942613">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" timestamp="1593619635223">
+        <mark key="[" line="577" column="0" />
+        <mark key="]" line="577" column="0" />
         <mark key="^" line="576" column="22" />
-        <mark key="." line="576" column="36" />
+        <mark key="." line="577" column="0" />
       </file>
       <file name="/console" timestamp="1593567791045">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1593616544338">
         <mark key="'" line="56" column="35" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/pages/hallspace-details/hallspace-details.ts" timestamp="1593617414006">
-        <mark key="[" line="40" column="27" />
-        <mark key="]" line="40" column="37" />
-        <mark key="." line="40" column="36" />
-        <mark key="^" line="40" column="37" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/aspire/__init__.py" timestamp="1593568796898">
         <mark key="[" line="41" column="60" />
@@ -434,6 +431,12 @@
         <mark key="]" line="734" column="0" />
         <mark key="^" line="733" column="16" />
         <mark key="." line="734" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/coms/search/auto/auto_search.py" timestamp="1593619939673">
+        <mark key="[" line="138" column="30" />
+        <mark key="]" line="138" column="38" />
+        <mark key="^" line="138" column="38" />
+        <mark key="." line="138" column="37" />
       </file>
     </filemarks>
     <jumps>
@@ -542,10 +545,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>search</text>
+        <text>last.clause, *self.extra_filters</text>
       </register>
       <register name="-" type="4">
-        <text>search</text>
+        <text>last.clause, *self.extra_filters</text>
       </register>
       <register name="/" type="4">
         <text>idd</text>
@@ -554,28 +557,28 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB3dGYgPSBJbWFnZS5nZXQoTm9uZSkK</text>
+        <text encoding="base64">ICAgICAgIyAqKHV0aWxzLnRvX2xpc3QobWFudWFsX2ZpbHRlcnMpKSwgTWlnaHQgYmUgbmVlZGVkIGZvciBzb21lIEFycm93bHl0aWNzIHRoaW5ncwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICB3dGYgPSBJbWFnZS5nZXQoTm9uZSkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBzYy5jb25zdCBpbXBvcnQgUFJJTUlUSVZFUwo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICB3dGYgPSBJbWFnZS5nZXQoTm9uZSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBzYy5jb25zdCBpbXBvcnQgUFJJTUlUSVZFUwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwo=</text>
