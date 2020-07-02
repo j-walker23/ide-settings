@@ -266,6 +266,7 @@
         <entry>page</entry>
         <entry>api</entry>
         <entry>sdf</entry>
+        <entry>months</entry>
         <entry>asdf</entry>
       </history-search>
       <history-cmd>
@@ -389,113 +390,97 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/arrowlytics_view.py" timestamp="1593680041709">
-        <mark key="[" line="17" column="6" />
-        <mark key="]" line="17" column="12" />
-        <mark key="." line="17" column="11" />
-        <mark key="^" line="17" column="12" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/appointments/types.py" timestamp="1593684327309" />
+      <file name="$USER_HOME$/code/sc/web/static/web/http/hj/appointments.resource.ts" timestamp="1593684269155" />
+      <file name="/a.dummy" timestamp="1593682887369">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1593680705043">
-        <mark key="[" line="0" column="1" />
+      <file name="$USER_HOME$/code/sc/web/sc/coms/search/params.py" timestamp="1593684108379" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/reports/__init__.py" timestamp="1593684188226">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/kpis/hallspace-office-util/hallspace-office-util.ts" timestamp="1593677784065">
-        <mark key="'" line="26" column="0" />
+      <file name="$USER_HOME$/code/sc/web/static/common/components/date-search/date-search.ts" timestamp="1593683763870">
+        <mark key="'" line="46" column="21" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/search/appointments-auto.service.ts" timestamp="1593680872545" />
-      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/arrow-appointments.html" timestamp="1593677981465">
-        <mark key="'" line="57" column="27" />
+      <file name="$USER_HOME$/code/sc/web/static/common/components/date-search/date-search.html" timestamp="1593683783411">
+        <mark key="'" line="7" column="39" />
+        <mark key="[" line="12" column="40" />
+        <mark key="]" line="12" column="42" />
+        <mark key="." line="12" column="41" />
+        <mark key="^" line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/kpis/session-details/session-details.ts" timestamp="1593678594091">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="106" column="13" />
-        <mark key="]" line="106" column="15" />
-        <mark key="^" line="106" column="15" />
-        <mark key="." line="106" column="14" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/maap_queries.py" timestamp="1593683965904" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/base.py" timestamp="1593682958873" />
+      <file name="$USER_HOME$/code/sc/web/static/web/http/hj/reports/monthly-kpi.resource.ts" timestamp="1593684281305">
+        <mark key="[" line="17" column="43" />
+        <mark key="]" line="17" column="55" />
+        <mark key="^" line="17" column="55" />
+        <mark key="." line="17" column="54" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" timestamp="1593678103765">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="24" column="0" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/reports/types.py" timestamp="1593684335577">
+        <mark key="[" line="25" column="10" />
+        <mark key="]" line="25" column="17" />
+        <mark key="^" line="25" column="17" />
+        <mark key="." line="25" column="16" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/types.py" timestamp="1593679754182">
-        <mark key="'" line="12" column="6" />
-        <mark key="[" line="51" column="51" />
-        <mark key="]" line="51" column="51" />
-        <mark key="^" line="51" column="51" />
-        <mark key="." line="51" column="50" />
+      <file name="$USER_HOME$/code/sc/web/static/common/util/times.ts" timestamp="1593683690553">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="65" column="2" />
+        <mark key="]" line="65" column="6" />
+        <mark key="." line="65" column="5" />
+        <mark key="^" line="65" column="6" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/search/appointments-search.html" timestamp="1593680900601" />
-      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/maap/types.py" timestamp="1593679778442">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="6" column="14" />
+      <file name="$USER_HOME$/code/sc/web/static/common/components/date-search/date-search.dialog.html" timestamp="1593683593059">
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="14" column="15" />
+        <mark key="." line="14" column="14" />
+        <mark key="^" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/aspire/maap_view.py" timestamp="1593679699559">
-        <mark key="'" line="21" column="37" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="8" column="10" />
+      <file name="$USER_HOME$/code/sc/web/static/common/components/date-search/date-search.dialog.ts" timestamp="1593683742890">
+        <mark key="'" line="73" column="13" />
+        <mark key="[" line="123" column="41" />
+        <mark key="]" line="123" column="42" />
+        <mark key="." line="123" column="42" />
+        <mark key="^" line="123" column="50" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/reports/monthly-kpi/search/monthly-kpi-search.html" timestamp="1593680923917">
+      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/aspire/reports/monthly_kpi_view.py" timestamp="1593684318790">
+        <mark key="[" line="25" column="57" />
+        <mark key="]" line="25" column="64" />
+        <mark key="." line="25" column="63" />
+        <mark key="^" line="25" column="64" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/reports/monthly-kpi/search/monthly-kpi-search.html" timestamp="1593683714674">
         <mark key="'" line="6" column="7" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="6" column="8" />
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="17" />
+        <mark key="^" line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/kpis.py" timestamp="1593678579476">
-        <mark key="'" line="15" column="7" />
-        <mark key="[" line="104" column="54" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
-        <mark key="^" line="105" column="0" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/reports/monthly-kpi/monthly-kpi.ts" timestamp="1593684299133">
+        <mark key="'" line="29" column="29" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="42" column="39" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/reports/monthly-kpi/search/monthly-kpi-auto.service.ts" timestamp="1593680887010">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="6" column="34" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/reports/monthly/crud.py" timestamp="1593684148455">
+        <mark key="[" line="20" column="3" />
+        <mark key="]" line="22" column="10" />
+        <mark key="^" line="22" column="10" />
+        <mark key="." line="22" column="9" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/maap/search/aspire-search.html" timestamp="1593680916869" />
-      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/maap/aspire-maap.html" timestamp="1593680796040">
-        <mark key="'" line="18" column="69" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/dashboard/dash.py" timestamp="1593683870129" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/reports/monthly/__init__.py" timestamp="1593684206458">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="32" />
+        <mark key="^" line="0" column="32" />
+        <mark key="." line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/hallspace/kpis.py" timestamp="1593677703275">
-        <mark key="'" line="125" column="33" />
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="14" />
-        <mark key="." line="132" column="0" />
-        <mark key="^" line="88" column="12" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/maap/aspire-maap.ts" timestamp="1593679917222" />
     </filemarks>
     <jumps>
-      <jump line="1289" column="32" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
-      <jump line="609" column="27" filename="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" />
-      <jump line="585" column="9" filename="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" />
-      <jump line="291" column="36" filename="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" />
-      <jump line="294" column="37" filename="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" />
-      <jump line="296" column="57" filename="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" />
-      <jump line="297" column="38" filename="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" />
-      <jump line="301" column="38" filename="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" />
-      <jump line="303" column="36" filename="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" />
-      <jump line="305" column="28" filename="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" />
-      <jump line="306" column="31" filename="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" />
-      <jump line="307" column="57" filename="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" />
-      <jump line="308" column="38" filename="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" />
-      <jump line="312" column="44" filename="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" />
-      <jump line="356" column="9" filename="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" />
-      <jump line="357" column="34" filename="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" />
-      <jump line="359" column="6" filename="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" />
-      <jump line="360" column="9" filename="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" />
-      <jump line="362" column="17" filename="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" />
-      <jump line="567" column="7" filename="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" />
       <jump line="535" column="63" filename="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" />
       <jump line="534" column="28" filename="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" />
       <jump line="533" column="13" filename="$USER_HOME$/code/sc/web/sc/coms/search/base_query.py" />
@@ -575,15 +560,36 @@
       <jump line="18" column="69" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/maap/aspire-maap.html" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/reports/monthly-kpi/search/monthly-kpi-auto.service.ts" />
       <jump line="15" column="7" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/reports/monthly-kpi/search/monthly-kpi-search.html" />
+      <jump line="68" column="68" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/maap/aspire-maap.ts" />
+      <jump line="76" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/reports/monthly-kpi/monthly-kpi.html" />
+      <jump line="12" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/kpis/hallspace-line-util/hallspace-line-util.html" />
+      <jump line="20" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/reports/monthly-kpi/monthly-kpi.html" />
+      <jump line="108" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/reports/monthly-kpi/monthly-kpi.ts" />
+      <jump line="109" column="4" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/config/doctors/doctors.ts" />
+      <jump line="49" column="0" filename="$USER_HOME$/code/sc/web/static/common/util/times.ts" />
+      <jump line="123" column="19" filename="$USER_HOME$/code/sc/web/static/common/components/date-search/date-search.dialog.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/common/components/date-search/date-search.dialog.ts" />
+      <jump line="125" column="0" filename="$USER_HOME$/code/sc/web/static/common/components/date-search/date-search.dialog.ts" />
+      <jump line="34" column="2" filename="$USER_HOME$/code/sc/web/static/common/components/date-search/date-search.dialog.ts" />
+      <jump line="40" column="14" filename="$USER_HOME$/code/sc/web/static/common/components/date-search/date-search.dialog.ts" />
+      <jump line="42" column="13" filename="$USER_HOME$/code/sc/web/static/common/components/date-search/date-search.dialog.ts" />
+      <jump line="73" column="13" filename="$USER_HOME$/code/sc/web/static/common/components/date-search/date-search.dialog.ts" />
+      <jump line="12" column="0" filename="$USER_HOME$/code/sc/web/static/common/components/date-search/date-search.ts" />
+      <jump line="30" column="11" filename="$USER_HOME$/code/sc/web/static/common/components/date-search/date-search.ts" />
+      <jump line="46" column="21" filename="$USER_HOME$/code/sc/web/static/common/components/date-search/date-search.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/static/common/components/date-search/date-search.html" />
+      <jump line="11" column="38" filename="$USER_HOME$/code/sc/web/static/common/components/date-search/date-search.html" />
+      <jump line="7" column="39" filename="$USER_HOME$/code/sc/web/static/common/components/date-search/date-search.html" />
+      <jump line="29" column="29" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/reports/monthly-kpi/monthly-kpi.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">CiAgPHNtYXJ0LXNlYXJjaAogICAgZmxleAogICAgbmctaWY9IiFjdHJsLmhpZGVTZWFyY2giCiAgICBbYXV0b3NlcnZpY2VdPSJjdHJsLmF1dG8iCiAgICBbYXV0b3VybF09ImZhbHNlIgogICAgWyhxdWVyeSldPSJjdHJsLnF1ZXJ5IgogICAgKGRvc2VhcmNoKT0iY3RybC5vbkJhcigkZXZlbnQpIj4KICA8L3NtYXJ0LXNlYXJjaD4K</text>
+        <text encoding="base64">ICAgIGdldFJlcHV0YXRpb24K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmctaWY9ImN0cmwuaGlkZVNlYXJjaCIg</text>
+        <text>path</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -592,34 +598,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgPHNtYXJ0LXNlYXJjaAogICAgZmxleAogICAgbmctaWY9IiFjdHJsLmhpZGVTZWFyY2giCiAgICBbYXV0b3NlcnZpY2VdPSJjdHJsLmF1dG8iCiAgICBbYXV0b3VybF09ImZhbHNlIgogICAgWyhxdWVyeSldPSJjdHJsLnF1ZXJ5IgogICAgKGRvc2VhcmNoKT0iY3RybC5vbkJhcigkZXZlbnQpIj4KICA8L3NtYXJ0LXNlYXJjaD4K</text>
+        <text encoding="base64">ICAgIGdldFJlcHV0YXRpb24K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkaXNwbGF5ID0gYXNwaXJlQXV0b0Rpc3BsYXlzKFsnQXBwb2ludG1lbnQgVHlwZScsICd0eXBlOlRZUEUnXSkK</text>
+        <text encoding="base64">ZnJvbSAubW9udGhseSBpbXBvcnQgZXhwb3J0cwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhcHB0OiBpbnQgPSA4CiAgc3VyZ2ljYWxfYXBwdDogaW50ID0gMQogIHN0YXJ0X21vcm46IHN0ciA9ICIwNzowMCIKICBlbmRfbW9ybjogc3RyID0gIjEyOjAwIgogIHN0YXJ0X2FmdDogc3RyID0gIjEzOjAwIgogIGVuZF9hZnQ6IHN0ciA9ICIxNzowMCIKCiAgQGNsYXNzbWV0aG9kCiAgZGVmIGRlZmF1bHRzKGNscywgYXJnczogRGljdCk6CiAgICAiIiIiIiIKICAgIGlmIG5vdCBhcmdzLmdldCgiYXBwdCIpOgogICAgICBoaiA9IEhlYWx0aGp1bXAuZ2V0KHNhZmVfYWlkKCkpCiAgICAgIGFyZ3MudXBkYXRlKAogICAgICAgIGFwcHQ9aGouYXBwdCwKICAgICAgICBzdXJnaWNhbF9hcHB0PWhqLnN1cmdpY2FsX2FwcHQsCiAgICAgICAgc3RhcnRfbW9ybj1oai5zdGFydF9tb3JuLAogICAgICAgIGVuZF9tb3JuPWhqLmVuZF9tb3JuLAogICAgICAgIHN0YXJ0X2FmdD1oai5zdGFydF9hZnQsCiAgICAgICAgZW5kX2FmdD1oai5lbmRfYWZ0LAogICAgICApCgogIEBjbGFzc21ldGhvZAogIGRlZiBmb3JfZGV0YWlscyhjbHMsIHJlcTogRGljdCwgc3RhdHVzZXM9U3RhdHVzVHlwZS5BcnJpdmVkLCAqKmt3YXJncyk6CiAgICByZXR1cm4gY2xzLnNwYW5fZGF5cyhyZXEsIHN0YXR1c2VzPXN0YXR1c2VzLCAqKmt3YXJncykKCiAgQGNsYXNzbWV0aG9kCiAgZGVmIGZvcl9jcmVkaXRzKGNscywgcmVxOiBEaWN0LCBzdGF0dXNlcz1TdGF0dXNUeXBlLkFycml2ZWQsICoqa3dhcmdzKToKICAgIHJldHVybiBjbHMuZm9yX3lveShyZXEsIHN0YXR1c2VzPXN0YXR1c2VzLCAqKmt3YXJncykKCiAgQGNsYXNzbWV0aG9kCiAgZGVmIGZvcl9wZW5kaW5nX2NyZWRpdHMoY2xzLCByZXE6IERpY3QsIHN0YXR1c2VzPVN0YXR1c1R5cGUuUGVuZGluZywgKiprd2FyZ3MpOgogICAgcmV0dXJuIGNscy5mb3JfdWkocmVxLCBzdGF0dXNlcz1zdGF0dXNlcywgKiprd2FyZ3MpCgogIEBjbGFzc21ldGhvZAogIGRlZiBmb3JfY2F0ZWdvcmllcyhjbHMsIHJlcTogRGljdCwgc3RhdHVzZXM9U3RhdHVzVHlwZS5BcnJpdmVkLCAqKmt3YXJncyk6CiAgICByZXR1cm4gY2xzLmNvbXBhcmVfeXRkKAogICAgICByZXEsIHN0YXR1c2VzPXN0YXR1c2VzLCBzcGFuPVRpbWVTcGFuLm1vbnRoLCBsYXN0X2NvbXBsZXRlZF9tb250aD1UcnVlLCAqKmt3YXJncwogICAgKQoKICBAcHJvcGVydHkKICBkZWYgZGFpbHlfZ3JvdXBlZF9mb3JtYXQoc2VsZik6CiAgICAiIiIiIiIKICAgIHJldCA9ICJNTU0gRCIKICAgIHN0YXJ0LCBlbmQgPSBzZWxmLmRhdGVzCiAgICBpZiBzdGFydC55ZWFyIDwgZW5kLnllYXI6CiAgICAgICJNTU0gRCwgWVlZWSIKICAgIHJldHVybiByZXQKCiAgZGVmIHBhcnNlX2RhaWx5X2RhdGUoc2VsZiwgZHRfc3RyOiBzdHIpOgogICAgIiIiIiIiCiAgICB5ZWFyID0gc2VsZi5kYXRlc1sxXS55ZWFyCiAgICBkdF9zdHIgPSBmIntkdF9zdHJ9LCB7eWVhcn0iCgogICAgZm10ID0gc2VsZi5kYWlseV9ncm91cGVkX2Zvcm1hdAogICAgaWYgIiwgIiBub3QgaW4gZm10OgogICAgICBmbXQgKz0gIiwgWVlZWSIKICAgIHJldHVybiBhcnJvdy5nZXQoZHRfc3RyLCBmbXQpCg==</text>
+        <text encoding="base64">ICAgIGZ1bmMueWVhcihSZXZpZXcuY3JlYXRlZF9hdCkubGFiZWwoInllYXIiKSwKICAgIGZ1bmMuZGF0ZV9mb3JtYXQoUmV2aWV3LmNyZWF0ZWRfYXQsICIleSVtIikubGFiZWwoIm1vbnRoIiksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgZGVmIGNyZWRpdHNfeW95KHNlbGYpOgogICAgIiIiIiIiCiAgICBhcmdzID0gU2Vzc2lvbkFyZ3MuZm9yX2NyZWRpdHMocmVxX2FyZ3MoKSkKICAgIHJldHVybiBzZXNzaW9ucy5rcGlzLnNlc3Npb25fY3JlZGl0cyhhcmdzKQoKICBAdmlldy5nZXQoIi9jcmVkaXRzLXlveS94bHMiKQogIGRlZiBjcmVkaXRzX3lveV94bHMoc2VsZik6CiAgICAiIiIiIiIKICAgIGFyZ3MgPSBTZXNzaW9uQXJncy5mb3JfY3JlZGl0cyhyZXFfYXJncygpKQogICAgcmV0dXJuIHNlc3Npb25zLmV4cG9ydHMuc2Vzc2lvbl9jcmVkaXRzKGFyZ3MpCgogIGRlZiBwcm9qZWN0ZWRfY3JlZGl0cyhzZWxmKToKICAgICIiIiIiIgogICAgYXJncyA9IFNlc3Npb25BcmdzLmZvcl9wZW5kaW5nX2NyZWRpdHMocmVxX2FyZ3MoKSkKICAgIHJldHVybiBzZXNzaW9ucy5rcGlzLnByb2plY3RlZF9jcmVkaXRzKGFyZ3MpCgogIEB2aWV3LmdldCgiL3Byb2plY3RlZC1jcmVkaXRzL3hscyIpCiAgZGVmIHByb2plY3RlZF9jcmVkaXRzX3hscyhzZWxmKToKICAgICIiIiIiIgogICAgYXJncyA9IFNlc3Npb25BcmdzLmZvcl9wZW5kaW5nX2NyZWRpdHMocmVxX2FyZ3MoKSkKICAgIHJldHVybiBzZXNzaW9ucy5leHBvcnRzLnByb2plY3RlZF9jcmVkaXRzKGFyZ3MpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGFydCwgZW5kKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGFydCwgZW5kKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSAuIGltcG9ydCBleHBvcnRzLCBtb250aGx5X2twaSwgdHlwZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UXVlc3Rpb25zOgoKLSBDaGVjayBTZXNzaW9uIENyZWRpdHMgd2l0aCBtdWx0aXBsZSBsb2NhdGlvbnMKICBodHRwczovL2xvY2FsLnNvY2lhbGNsaW1lLmNvbS9hcHAvYXNwaXJlL2FwcG9pbnRtZW50cy9zZXNzaW9ucz9hY2NvdW50aWQ9NzYwJnF1ZXJ5PXN0YXR1czpBcnJpdmVkJTIwcHJvdmlkZXI6JTIyUGF1bCUyMERydXJ5JTIyJmZpbHRlcnM9JTdCJTIyZGF0ZSUyMjolNUIlMjJyYW5nZSUyMiwlNUIlMjIyMDIwLTA2LTE5VDAwOjAwOjAwWiUyMiwlMjIyMDIwLTA2LTMwVDIzOjU5OjU5WiUyMiU1RCU1RCU3RAo=</text>
+        <text encoding="base64">CiAgQHZpZXcucm91dGUoIi9hdXRvLzxrZXk+L3ZhbHVlcyIpCiAgZGVmIGF1dG8oc2VsZiwga2V5KToKICAgICIiIiIiIgogICAgcmV0dXJuIGFzcGlyZV9mYXN0X2F1dG9zKEFwcG9pbnRtZW50LCBrZXkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LSBNYWtlIGNhY2hpbmcgbGVnaXQgZXZlcnkgbW9ybmluZy4KLSBjaGFpbiBwcm9jZXNzIGVuY291bnRlcnMgdG8gbmV3IHN5bmMgY2hvcmQKLSBBc3luYyBmaXJzdCBwYXJ0IGdldHRpbmcgcGFnZXMgYmV0d2VlbiB0eXBlcz8/Cg==</text>
+        <text encoding="base64">aW1wb3J0IHRlbXBsYXRlIGZyb20gJy4vYXJyb3ctYXBwb2ludG1lbnRzLmh0bWwnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgLy8gbm9pbnNwZWN0aW9uIEpTVW51c2VkR2xvYmFsU3ltYm9scwogIG9uRGV0YWlscyhwYXJhbXM6IGFueSkgewogICAgZ2V0U3RhdGUoKS5nbygnLmRldGFpbHMnLCBwYXJhbXMpCiAgfQoKICAvLyBub2luc3BlY3Rpb24gSlNVbnVzZWRHbG9iYWxTeW1ib2xzCiAgb25SYXcoKSB7CiAgICB0b2FzdFNpbXBsZSgnU3RhcnRlZCwgbWF5IHRha2UgYSBtaW51dGUnKQogICAgbGV0IHBhcmFtcyA9IHRoaXMucGFyYW1zCiAgICBsZXQgdXJsID0gYnVpbGRVcmwoYCR7dGhpcy4kcmVzLnVybCgpfS9yYXdgLCBwYXJhbXMpCiAgICB3aW5kb3cubG9jYXRpb24uaHJlZiA9IHVybAogIH0KCiAgb25JbnZhbGlkYXRlKCkgewogICAgcmV0dXJuIHRoaXMuJHJlcy5pbnZhbGlkYXRlKHRoaXMucGFyYW1zLCAnL2xvb2tpbmctYmFjaycpCiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
@@ -634,7 +640,7 @@
       <last-replace>Hallspace</last-replace>
       <last-substitute>Session</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
