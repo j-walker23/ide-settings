@@ -385,8 +385,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e48b375-fdd8-413d-be5c-4a28f85cc940/console.sql" timestamp="1593652427153">
-        <mark key="'" line="146" column="0" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" timestamp="1593656333470">
+        <mark key="'" line="204" column="38" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/details/appointment-details.ts" timestamp="1593649105914">
         <mark key="'" line="88" column="8" />
@@ -405,39 +405,23 @@
       <file name="/console" timestamp="1593651965654">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1593649438242">
-        <mark key="'" line="38" column="14" />
-      </file>
-      <file name="/by-locs.ts" timestamp="1593653937961" />
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/charge.py" timestamp="1593651257108">
-        <mark key="'" line="80" column="2" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1593656677830">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="1309" column="9" />
+        <mark key="]" line="1309" column="11" />
+        <mark key="^" line="1309" column="11" />
+        <mark key="." line="1309" column="10" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/notes/details/edits/by-locs.ts" timestamp="1593653933979" />
-      <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" timestamp="1593652380038">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="53" column="26" />
-        <mark key="^" line="53" column="26" />
-        <mark key="." line="53" column="25" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" timestamp="1593652430766">
-        <mark key="'" line="288" column="19" />
-        <mark key="[" line="316" column="0" />
-        <mark key="]" line="323" column="0" />
-        <mark key="." line="323" column="0" />
-        <mark key="^" line="323" column="0" />
+      <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" timestamp="1593656598306">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="36" column="48" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="/console.sql" timestamp="1593651269959">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/notes/details/note-details.html" timestamp="1593653511578">
-        <mark key="'" line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/notes/details/note-contact-filters/note-contact-filters.html" timestamp="1593654072700">
-        <mark key="[" line="50" column="8" />
-        <mark key="]" line="51" column="2" />
-        <mark key="^" line="51" column="2" />
-        <mark key="." line="51" column="1" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/common/components/grid/grid.ts" timestamp="1593648760181">
         <mark key="'" line="266" column="28" />
@@ -449,22 +433,34 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/crud.py" timestamp="1593648350694">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="37" column="38" />
-        <mark key="]" line="37" column="38" />
-        <mark key="." line="37" column="37" />
-        <mark key="^" line="37" column="38" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e48b375-fdd8-413d-be5c-4a28f85cc940/console.sql" timestamp="1593652427153">
+        <mark key="'" line="146" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1593649438242">
+        <mark key="'" line="38" column="14" />
+      </file>
+      <file name="/by-locs.ts" timestamp="1593653937961" />
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/charge.py" timestamp="1593651257108">
+        <mark key="'" line="80" column="2" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" timestamp="1593656298798">
+        <mark key="'" line="318" column="0" />
+        <mark key="[" line="316" column="0" />
+        <mark key="]" line="323" column="0" />
+        <mark key="." line="323" column="0" />
+        <mark key="^" line="323" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/notes/details/note-details.html" timestamp="1593653511578">
+        <mark key="'" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/notes/details/note-contact-filters/note-contact-filters.html" timestamp="1593654072700">
+        <mark key="[" line="50" column="8" />
+        <mark key="]" line="51" column="2" />
+        <mark key="^" line="51" column="2" />
+        <mark key="." line="51" column="1" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="211" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/kpis/hallspace-days/hallspace-days.ts" />
-      <jump line="170" column="12" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/kpis/hallspace-days/hallspace-days.ts" />
-      <jump line="210" column="43" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/kpis/hallspace-days/hallspace-days.ts" />
-      <jump line="139" column="8" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/kpis/hallspace-days/hallspace-days.ts" />
-      <jump line="158" column="8" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/kpis/hallspace-days/hallspace-days.ts" />
-      <jump line="105" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/kpis/hallspace-days/hallspace-days.ts" />
-      <jump line="54" column="0" filename="$USER_HOME$/code/sc/web/sc/app/aspire/hallspace/crud.py" />
       <jump line="22" column="0" filename="$USER_HOME$/code/sc/web/sc/app/aspire/hallspace/details.py" />
       <jump line="74" column="10" filename="$USER_HOME$/code/sc/web/sc/sql/__init__.py" />
       <jump line="65" column="37" filename="$USER_HOME$/code/sc/web/sc/app/aspire/hallspace/details.py" />
@@ -558,15 +554,22 @@
       <jump line="146" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2e48b375-fdd8-413d-be5c-4a28f85cc940/console.sql" />
       <jump line="288" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" />
       <jump line="13" column="0" filename="$USER_HOME$/code/sc/web/static/web/views/notes/details/note-details.html" />
+      <jump line="318" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" />
+      <jump line="204" column="38" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/collect/collectors.py" />
+      <jump line="1264" column="27" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
+      <jump line="1310" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
+      <jump line="50" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
+      <jump line="43" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" />
+      <jump line="41" column="0" filename="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="+" type="4">
+        <text>(distinct h.id</text>
       </register>
       <register name="-" type="4">
-        <text>hj_source_encounter</text>
+        <text>(distinct h.id</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -575,34 +578,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">am9pbiBoal9zb3VyY2VfZW5jb3VudGVyIGhzZQogICAgIG9uIGhzZS5pZCA9IGguc291cmNlX2VuY291bnRlcl9pZAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGltaXQgMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">LSBHRVQgSUUgU0VUVVAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaGouY2lkcyA9IGluZm9bImNpZHMiXQogICAgICBoai5maWx0ZXJlZF90eXBlcyA9IGluZm9bImZpbHRlcmVkX3R5cGVzIl0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJkZW1vLnBvc3RhbCI6ICJQYXRpZW50IEhvbWUgWmlwIENvZGUiLAogICAgImRlbW8uY2l0eSI6ICJQYXRpZW50IEhvbWUgQ2l0eSIsCiAgICAiZGVtby5zdGF0ZSI6ICJQYXRpZW50IEhvbWUgU3RhdGUiLAo=</text>
+        <text encoding="base64">CgotLS0tLS0tLS0tIG9wdGltaXplIHRhYmxlcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJkYXRlIjogIkFwcHQuIERhdGUiLAogICAgImJlZ2luX3RpbWUiOiAiQXBwdC4gVGltZSIsCiAgICAidHlwZSI6ICJBcHB0LiBUeXBlIiwKICAgICJzdGF0dXMiOiAiQXBwdC4gU3RhdHVzIiwK</text>
+        <text encoding="base64">IyBmbXQ6IG9mZgpzZXQgRk9SRUlHTl9LRVlfQ0hFQ0tTPTA7CnNldCBVTklRVUVfQ0hFQ0tTPTA7CnRydW5jYXRlIHRhYmxlIGhqX2VuY291bnRlcjsKdHJ1bmNhdGUgdGFibGUgaGpfc291cmNlX2VuY291bnRlcjsKdHJ1bmNhdGUgdGFibGUgaGpfdHJhbnNhY3Rpb247CnRydW5jYXRlIHRhYmxlIGhqX2NoYXJnZTsKdHJ1bmNhdGUgdGFibGUgaGpfYXBwb2ludG1lbnQ7CnRydW5jYXRlIHRhYmxlIGhqX2RlbW9ncmFwaGljOwp0cnVuY2F0ZSB0YWJsZSBoal9vZmZpY2U7CnRydW5jYXRlIHRhYmxlIGhqX2RvY3RvcjsKc2V0IEZPUkVJR05fS0VZX0NIRUNLUz0xOwpzZXQgVU5JUVVFX0NIRUNLUz0xOwoKc2V0IEZPUkVJR05fS0VZX0NIRUNLUz0wOwpzZXQgVU5JUVVFX0NIRUNLUz0wOwp0cnVuY2F0ZSB0YWJsZSBoal9jaGFyZ2U7CnNldCBGT1JFSUdOX0tFWV9DSEVDS1M9MTsKc2V0IFVOSVFVRV9DSEVDS1M9MTsKIyBmbXQ6IG9uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJncm91cC5uYW1lIjogIlByb3ZpZGVyIEdyb3VwIiwK</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBjYW1wYWlnbnMgYwp3aGVyZQogIHVzZXJfaWQgaXMgbm90IG51bGwKOwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJvZmZpY2UubmFtZSI6ICJMb2NhdGlvbiIsCg==</text>
+        <text encoding="base64">LSBNYXliZSBjYWNoZSBhbGwgaW50ZXJuYWwgcHJvdmlkZXJzPwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJkZW1vLmZ1bGxfbmFtZSI6ICJQYXRpZW50IE5hbWUiLAo=</text>
+        <text encoding="base64">LSBXaWRlbiBleGNlbCBjb2x1bW5zCg==</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
