@@ -392,16 +392,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/office.py" timestamp="1593825351777" />
       <file name="/fragment.py" timestamp="1593838008787">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/cli/apis/hj.py" timestamp="1593826169199">
-        <mark key="'" line="313" column="6" />
-        <mark key="[" line="337" column="18" />
-        <mark key="]" line="337" column="26" />
-        <mark key="^" line="337" column="26" />
-        <mark key="." line="337" column="25" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/kpis/hallspace-office-util/hallspace-office-util.ts" timestamp="1593853637042">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="35" column="63" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1593841380895">
         <mark key="'" line="1693" column="1" />
@@ -409,6 +407,12 @@
         <mark key="]" line="1737" column="30" />
         <mark key="." line="1737" column="29" />
         <mark key="^" line="1737" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/arrow-appointments.html" timestamp="1593853592690">
+        <mark key="'" line="72" column="14" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/aspire/hallspace_view.py" timestamp="1593853385719">
+        <mark key="'" line="22" column="30" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/aspire/__init__.py" timestamp="1593850890886">
         <mark key="[" line="39" column="14" />
@@ -423,24 +427,26 @@
         <mark key="." line="71" column="19" />
         <mark key="^" line="71" column="20" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/encounters/kpis.py" timestamp="1593826548887">
+      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/encounters/kpis.py" timestamp="1593853481480">
         <mark key="'" line="18" column="0" />
       </file>
       <file name="/kpis.py" timestamp="1593839436892" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/types.py" timestamp="1593853910506">
+        <mark key="[" line="56" column="44" />
+        <mark key="]" line="56" column="49" />
+        <mark key="." line="56" column="48" />
+        <mark key="^" line="56" column="49" />
+      </file>
       <file name="$USER_HOME$/code/sc/web/static/common/components/grid/light/light-grid.ts" timestamp="1593838824487">
         <mark key="[" line="50" column="40" />
         <mark key="]" line="50" column="41" />
         <mark key="." line="50" column="40" />
         <mark key="^" line="50" column="41" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1593826123682">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="4" />
-        <mark key="^" line="0" column="5" />
-      </file>
-      <file name="/default" timestamp="1593826076432">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/kpis/hallspace-office-util/hallspace-office-util.html" timestamp="1593853716565">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/aspire/appointments_view.py" timestamp="1593850755204">
         <mark key="'" line="41" column="25" />
@@ -457,19 +463,11 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="35" column="22" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/charge.py" timestamp="1593827303772" />
-      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" timestamp="1593836511484">
+      <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" timestamp="1593853582524">
         <mark key="'" line="25" column="6" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" timestamp="1593827054095">
-        <mark key="'" line="325" column="1" />
-        <mark key="[" line="498" column="57" />
-        <mark key="]" line="498" column="68" />
-        <mark key="^" line="498" column="68" />
-        <mark key="." line="498" column="67" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/kpis/hallspace-days/hallspace-days.ts" timestamp="1593838614614">
         <mark key="'" line="209" column="26" />
@@ -477,19 +475,15 @@
       <file name="/console_2" timestamp="1593838011468">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/hallspace/kpis.py" timestamp="1593852694517">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="115" column="2" />
-        <mark key="]" line="115" column="2" />
-        <mark key="^" line="115" column="2" />
-        <mark key="." line="115" column="1" />
+      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/common/arrow-summary-card/arrow-summary-card.ts" timestamp="1593853666426" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/hallspace/kpis.py" timestamp="1593853549949">
+        <mark key="[" line="149" column="34" />
+        <mark key="]" line="149" column="48" />
+        <mark key="^" line="149" column="48" />
+        <mark key="." line="149" column="47" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="20" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/arrow-appointments.html" />
-      <jump line="123" column="33" filename="$USER_HOME$/code/sc/web/sc/app/aspire/hallspace/kpis.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/code/sc/web/sc/app/aspire/hallspace/kpis.py" />
-      <jump line="28" column="31" filename="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/maap/aspire-maap.ts" />
       <jump line="134" column="10" filename="$USER_HOME$/code/sc/web/sc/app/aspire/exports.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/sc/web/sc/app/aspire/exports.py" />
       <jump line="227" column="32" filename="$USER_HOME$/code/sc/web/sc/app/aspire/exports.py" />
@@ -586,15 +580,19 @@
       <jump line="795" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" />
       <jump line="41" column="25" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/aspire/appointments_view.py" />
       <jump line="785" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console_2.sql" />
+      <jump line="22" column="30" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/aspire/hallspace_view.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/code/sc/web/sc/app/aspire/hallspace/kpis.py" />
+      <jump line="111" column="44" filename="$USER_HOME$/code/sc/web/sc/app/aspire/hallspace/kpis.py" />
+      <jump line="73" column="51" filename="$USER_HOME$/code/sc/web/sc/app/aspire/hallspace/kpis.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>both_</text>
+        <text>day</text>
       </register>
       <register name="-" type="4">
-        <text>both_</text>
+        <text>day</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -603,34 +601,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvY19zdWIuYy5kYXlzLAo=</text>
+        <text encoding="base64">ICBbc3Bhbl09ImN0cmwuc3BhbiIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN1YiwK</text>
+        <text encoding="base64">ICBASW5wdXQoKSBzcGFuOiBUaW1lU3Bhbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBfZ2V0X2xpbmVfdXRpbGl6YXRpb24oYXJncykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmRlZiBfZ2V0X2xpbmVfdXRpbGl6YXRpb24oYXJnczogU2Vzc2lvbkFyZ3MpOgogICIiIiIiIgogIGJvdGhfYW1fYW5kX3BtID0gMgoKICBzdWIgPSBnZXRfdXRpbF9zdWIoYXJncykuc3VicXVlcnkoInN1YiIpCgogIGNyZWRpdHNfID0gZnVuYy5zdW0oc3ViLmMuY3JlZGl0cykKCiAgZGF5X2NvdW50ID0gZnVuYy5jb3VudChkaXN0aW5jdChzdWIuYy5kYXlzKSkKICBsb2NfY291bnQgPSBmdW5jLmNvdW50KGRpc3RpbmN0KHN1Yi5jLm9mZmljZV9pZCkpCgogIHdvcmtpbmdfZGF5cyA9IGRheV9jb3VudCAqIGxvY19jb3VudAoKICAjIGNvdW50IGRpc3RpbmN0IGhhbGxzLCBsaWtlIGVuY291bnRlci90cmFucy9jaGFyZ2UKICBoYWxscyA9IE9mZmljZS5udW1faGFsbHMKICBhdmFpbGFibGUgPSAoaGFsbHMgKiB3b3JraW5nX2RheXMgKiBib3RoX2FtX2FuZF9wbSkubGFiZWwoImF2YWlsYWJsZSIpCiAgdXRpbCA9IGNyZWRpdHNfIC8gYXZhaWxhYmxlCgogIGRpc3BsYXlzID0gWwogICAgc3ViLmNbYXJncy5zcGFuc10sCiAgICBjcmVkaXRzXy5sYWJlbCgiY3JlZGl0cyIpLAogICAgdXRpbC5sYWJlbCgidmFsIiksCiAgICBhdmFpbGFibGUubGFiZWwoImF2YWlsYWJsZSIpLAogICAgaGFsbHMubGFiZWwoImhhbGxzIiksCiAgICB3b3JraW5nX2RheXMubGFiZWwoIndvcmtpbmdfZGF5cyIpLAogICAgZGF5X2NvdW50LmxhYmVsKCJkYXlfY291bnQiKSwKICAgIGxvY19jb3VudC5sYWJlbCgibG9jX2NvdW50IiksCiAgXQoKICByZXR1cm4gKAogICAgc2Vzcy5xdWVyeSgqZGlzcGxheXMpCiAgICAuam9pbihPZmZpY2UsIHN1Yi5jLm9mZmljZV9pZCA9PSBPZmZpY2UuaWQpCiAgICAuZ3JvdXBfYnkoc3ViLmNbYXJncy5zcGFuc10pCiAgICAuZGVidWdfcHJpbnQoKQogICAgIyAuY2FjaGUoKQogICkK</text>
+        <text encoding="base64">ICAgIGxvY19zdWIuYy5kYXlzLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kIChoal9hcHBvaW50bWVudC5tb250aHMgYmV0d2VlbiAxOTAxIGFuZCAxOTAzCiAgICAgICAgICAgIG9yIGhqX2FwcG9pbnRtZW50Lm1vbnRocyBiZXR3ZWVuIDIwMDEgYW5kIDIwMDMpCg==</text>
+        <text encoding="base64">ICAgIHN1YiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvY19zdWIuYy5vZmZpY2VfaWQsCg==</text>
+        <text encoding="base64">ICBfZ2V0X2xpbmVfdXRpbGl6YXRpb24oYXJncykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN1Yi5jW2FyZ3Muc3BhbnNdLAo=</text>
+        <text encoding="base64">CmRlZiBfZ2V0X2xpbmVfdXRpbGl6YXRpb24oYXJnczogU2Vzc2lvbkFyZ3MpOgogICIiIiIiIgogIGJvdGhfYW1fYW5kX3BtID0gMgoKICBzdWIgPSBnZXRfdXRpbF9zdWIoYXJncykuc3VicXVlcnkoInN1YiIpCgogIGNyZWRpdHNfID0gZnVuYy5zdW0oc3ViLmMuY3JlZGl0cykKCiAgZGF5X2NvdW50ID0gZnVuYy5jb3VudChkaXN0aW5jdChzdWIuYy5kYXlzKSkKICBsb2NfY291bnQgPSBmdW5jLmNvdW50KGRpc3RpbmN0KHN1Yi5jLm9mZmljZV9pZCkpCgogIHdvcmtpbmdfZGF5cyA9IGRheV9jb3VudCAqIGxvY19jb3VudAoKICAjIGNvdW50IGRpc3RpbmN0IGhhbGxzLCBsaWtlIGVuY291bnRlci90cmFucy9jaGFyZ2UKICBoYWxscyA9IE9mZmljZS5udW1faGFsbHMKICBhdmFpbGFibGUgPSAoaGFsbHMgKiB3b3JraW5nX2RheXMgKiBib3RoX2FtX2FuZF9wbSkubGFiZWwoImF2YWlsYWJsZSIpCiAgdXRpbCA9IGNyZWRpdHNfIC8gYXZhaWxhYmxlCgogIGRpc3BsYXlzID0gWwogICAgc3ViLmNbYXJncy5zcGFuc10sCiAgICBjcmVkaXRzXy5sYWJlbCgiY3JlZGl0cyIpLAogICAgdXRpbC5sYWJlbCgidmFsIiksCiAgICBhdmFpbGFibGUubGFiZWwoImF2YWlsYWJsZSIpLAogICAgaGFsbHMubGFiZWwoImhhbGxzIiksCiAgICB3b3JraW5nX2RheXMubGFiZWwoIndvcmtpbmdfZGF5cyIpLAogICAgZGF5X2NvdW50LmxhYmVsKCJkYXlfY291bnQiKSwKICAgIGxvY19jb3VudC5sYWJlbCgibG9jX2NvdW50IiksCiAgXQoKICByZXR1cm4gKAogICAgc2Vzcy5xdWVyeSgqZGlzcGxheXMpCiAgICAuam9pbihPZmZpY2UsIHN1Yi5jLm9mZmljZV9pZCA9PSBPZmZpY2UuaWQpCiAgICAuZ3JvdXBfYnkoc3ViLmNbYXJncy5zcGFuc10pCiAgICAuZGVidWdfcHJpbnQoKQogICAgIyAuY2FjaGUoKQogICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvY19jb3VudC5sYWJlbCgibG9jX2NvdW50IiksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kIChoal9hcHBvaW50bWVudC5tb250aHMgYmV0d2VlbiAxOTAxIGFuZCAxOTAzCiAgICAgICAgICAgIG9yIGhqX2FwcG9pbnRtZW50Lm1vbnRocyBiZXR3ZWVuIDIwMDEgYW5kIDIwMDMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsb2NfY291bnQgPSBmdW5jLmNvdW50KGRpc3RpbmN0KHN1Yi5jLm9mZmljZV9pZCkpCg==</text>
+        <text encoding="base64">ICAgIGxvY19zdWIuYy5vZmZpY2VfaWQsCg==</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
