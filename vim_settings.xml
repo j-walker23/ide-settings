@@ -431,8 +431,8 @@
         <mark key="'" line="18" column="0" />
       </file>
       <file name="/kpis.py" timestamp="1593839436892" />
-      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/types.py" timestamp="1593853910506">
-        <mark key="[" line="56" column="44" />
+      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/types.py" timestamp="1593958613572">
+        <mark key="[" line="56" column="49" />
         <mark key="]" line="56" column="49" />
         <mark key="." line="56" column="48" />
         <mark key="^" line="56" column="49" />
@@ -442,6 +442,12 @@
         <mark key="]" line="50" column="41" />
         <mark key="." line="50" column="40" />
         <mark key="^" line="50" column="41" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/base.py" timestamp="1593958619978">
+        <mark key="[" line="51" column="31" />
+        <mark key="]" line="51" column="35" />
+        <mark key="." line="51" column="34" />
+        <mark key="^" line="51" column="35" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/kpis/hallspace-office-util/hallspace-office-util.html" timestamp="1593853716565">
         <mark key="[" line="9" column="0" />
@@ -456,12 +462,6 @@
         <mark key="]" line="796" column="71" />
         <mark key="^" line="796" column="71" />
         <mark key="." line="796" column="70" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/generate.py" timestamp="1593837258641">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="35" column="22" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/appointment.py" timestamp="1593853582524">
         <mark key="'" line="25" column="6" />
@@ -589,10 +589,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>day</text>
+        <text>False</text>
       </register>
       <register name="-" type="4">
-        <text>day</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
