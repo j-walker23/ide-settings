@@ -399,6 +399,12 @@
       <file name="/console" timestamp="1594051696092">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/kpis/hallspace-office-util/hallspace-office-util.ts" timestamp="1594053146011">
+        <mark key="[" line="52" column="64" />
+        <mark key="]" line="52" column="66" />
+        <mark key="^" line="52" column="66" />
+        <mark key="." line="52" column="65" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63c3f730-eb70-4e48-9398-a3626a30e0d9/console.sql" timestamp="1593992549697">
         <mark key="'" line="1745" column="47" />
         <mark key="[" line="1784" column="10" />
@@ -408,11 +414,6 @@
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/arrow-appointments.html" timestamp="1593991889060">
         <mark key="'" line="35" column="10" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/exports.py" timestamp="1593987785683">
-        <mark key="[" line="68" column="47" />
-        <mark key="]" line="68" column="47" />
-        <mark key="." line="68" column="47" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/aspire/__init__.py" timestamp="1593988302875">
         <mark key="[" line="39" column="30" />
@@ -429,11 +430,11 @@
         <mark key="." line="48" column="24" />
         <mark key="^" line="48" column="24" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1594051580757">
+      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1594052600196">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="3" />
-        <mark key="^" line="0" column="4" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="5" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/pages/appointments/kpis/hallspace-office-util/hallspace-office-util.html" timestamp="1593993073822">
         <mark key="[" line="8" column="0" />
@@ -441,6 +442,7 @@
         <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/assign-dash/search/assign-dash-search.ts" timestamp="1594051092255" />
+      <file name="$USER_HOME$/code/sc/web/node_modules/moment/moment.d.ts" timestamp="1594053112443" />
       <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1594051577524">
         <mark key="'" line="62" column="27" />
       </file>
@@ -459,7 +461,7 @@
         <mark key="." line="86" column="58" />
         <mark key="^" line="86" column="59" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" timestamp="1594051958185">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" timestamp="1594051981211">
         <mark key="'" line="34" column="13" />
         <mark key="[" line="614" column="0" />
         <mark key="]" line="618" column="41" />
@@ -585,10 +587,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>and</text>
+        <text>currentEnd</text>
       </register>
       <register name="-" type="4">
-        <text>and</text>
+        <text>currentEnd</text>
       </register>
       <register name="/" type="4">
         <text>debug</text>
@@ -597,34 +599,34 @@
         <text>U', str, bytes)  # Must be str or bytes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZW5kID0gbW9tZW50XyhlbmRPZignbW9udGgnLCBub3cuc3VidHJhY3QoMSwgJ21vbnRoJykpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBmbXQ6IG9mZgo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyBmbXQ6IG9mZgo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCBwYXJhbXMgPSBkYXRlU3BhblBhcmFtcyhzcmMuZGF0ZSwgJ21vbnRoJywgY29scykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGxldCBwYXJhbXMgPSBkYXRlU3BhblBhcmFtcyhzcmMuZGF0ZSwgJ21vbnRoJywgY29scykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNyZWRpdHNfLmxhYmVsKCJjcmVkaXRzIiksCiAgICBhdmFpbGFibGUubGFiZWwoImF2YWlsYWJsZSIpLAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjcmVkaXRzXyA9IGZ1bmMuc3VtKHN1Yi5jLmNyZWRpdHMpCg==</text>
+        <text encoding="base64">ICAgIGNyZWRpdHNfLmxhYmVsKCJjcmVkaXRzIiksCiAgICBhdmFpbGFibGUubGFiZWwoImF2YWlsYWJsZSIpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhcmdzID0gZXZvbHZlKGFyZ3MsIHNwYW49VGltZVNwYW4ueWVhcikK</text>
+        <text encoding="base64">ICBjcmVkaXRzXyA9IGZ1bmMuc3VtKHN1Yi5jLmNyZWRpdHMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
