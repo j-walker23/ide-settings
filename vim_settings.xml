@@ -413,11 +413,11 @@
         <mark key="'" line="90" column="2" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/platforms/syncs/cron/starters.py" timestamp="1594074060021" />
-      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1594073388569">
+      <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1594076012291">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="3" />
-        <mark key="^" line="0" column="4" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="5" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/platforms/listings/google/score.py" timestamp="1594066972928">
         <mark key="'" line="0" column="0" />
@@ -560,11 +560,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">CiAgYWNjcyA9IHNlbGVjdHMubGlzdGluZ3Muc3luY2VkX2J5X2FjY291bnQoQWNjb3VudC5pc19tZWRpY2FsKQoKICBmb3IgYWNjLCBhbHMgaW4gYWNjcy5pdGVtcygpOgogICAgd2l0aCBhY2NfYmluZChhY2MpOgogICAgICBmb3IgYWwgaW4gYWxzOgogICAgICAgICMgY2FsbCB2b2x1bWUgZm4KCgo=</text>
+      <register name="+" type="4">
+        <text>prod</text>
       </register>
       <register name="-" type="4">
-        <text>delay</text>
+        <text>prod</text>
       </register>
       <register name="/" type="4">
         <text>debug</text>
