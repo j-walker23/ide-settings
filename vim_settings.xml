@@ -268,9 +268,10 @@
         <entry>months</entry>
         <entry>Trans</entry>
         <entry>office</entry>
-        <entry>asdf</entry>
         <entry>agg</entry>
         <entry>debug</entry>
+        <entry>cache</entry>
+        <entry>asdf</entry>
       </history-search>
       <history-cmd>
         <entry>SplitVertically</entry>
@@ -394,9 +395,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/code/sc/web/static/common/models/account.model.ts" timestamp="1594071918085" />
-      <file name="$USER_HOME$/code/sc/web/static/common/search/search.ints.ts" timestamp="1594050998640">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="/console" timestamp="1594051696092">
         <mark key="[" line="0" column="0" />
       </file>
@@ -409,8 +407,21 @@
       <file name="$USER_HOME$/code/sc/web/sc/app/platforms/syncs/setup/setup.py" timestamp="1594074165018">
         <mark key="'" line="30" column="4" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/search/params.ts" timestamp="1594050987779">
-        <mark key="'" line="90" column="2" />
+      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/aspire/hallspace_view.py" timestamp="1594089951912">
+        <mark key="'" line="42" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/aspire/__init__.py" timestamp="1594089964265">
+        <mark key="[" line="51" column="60" />
+        <mark key="]" line="51" column="71" />
+        <mark key="^" line="51" column="71" />
+        <mark key="." line="51" column="70" />
+      </file>
+      <file name="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" timestamp="1594089678189">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="4" column="34" />
+        <mark key="]" line="5" column="420" />
+        <mark key="^" line="5" column="420" />
+        <mark key="." line="5" column="419" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/platforms/syncs/cron/starters.py" timestamp="1594074060021" />
       <file name="$USER_HOME$/code/sc/web/instance/env.txt" timestamp="1594076012291">
@@ -424,20 +435,14 @@
       </file>
       <file name="$USER_HOME$/code/sc/web/static/web/views/assign-dash/search/assign-dash-search.ts" timestamp="1594051092255" />
       <file name="$USER_HOME$/code/sc/web/node_modules/moment/moment.d.ts" timestamp="1594053112443" />
-      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1594073383121">
-        <mark key="'" line="40" column="0" />
+      <file name="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" timestamp="1594089755289">
+        <mark key="'" line="78" column="0" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/app/platforms/api/google.py" timestamp="1594074255482">
         <mark key="'" line="25" column="6" />
       </file>
       <file name="$USER_HOME$/code/sc/web/sc/coms/ext/mailer.py" timestamp="1594071981976">
         <mark key="'" line="64" column="6" />
-      </file>
-      <file name="$USER_HOME$/code/sc/web/static/common/search/search.ts" timestamp="1594051088553">
-        <mark key="[" line="86" column="56" />
-        <mark key="]" line="86" column="59" />
-        <mark key="." line="86" column="58" />
-        <mark key="^" line="86" column="59" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a0903b86-c748-42ad-9985-4d77a02de0d0/console.sql" timestamp="1594075201395">
         <mark key="'" line="608" column="4" />
@@ -446,26 +451,14 @@
         <mark key="." line="624" column="21" />
         <mark key="^" line="624" column="22" />
       </file>
-      <file name="$USER_HOME$/code/sc/web/static/web/views/aspire/common/arrow-summary-card/arrow-summary-card.html" timestamp="1593993077423">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="34" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/code/sc/web/static/web/web.nav.ts" timestamp="1594071900411" />
       <file name="$USER_HOME$/code/sc/web/sc/app/tasks/syncing.py" timestamp="1594074441122" />
       <file name="$USER_HOME$/code/sc/web/cli/john.py" timestamp="1594074513455" />
+      <file name="$USER_HOME$/code/sc/web/sc/coms/search/auto/auto_search.py" timestamp="1594089984157">
+        <mark key="'" line="10" column="27" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="15" filename="$USER_HOME$/code/sc/web/sc/app/aspire/payments/exports.py" />
-      <jump line="48" column="4" filename="$USER_HOME$/code/sc/web/sc/app/aspire/charges/crud.py" />
-      <jump line="88" column="0" filename="$USER_HOME$/code/sc/web/sc/app/aspire/hallspace/kpis.py" />
-      <jump line="27" column="7" filename="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/kpis.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/code/sc/web/sc/sql/integ/hj/tables/sessions.py" />
-      <jump line="49" column="6" filename="$USER_HOME$/code/sc/web/sc/sql/__init__.py" />
-      <jump line="25" column="27" filename="$USER_HOME$/code/sc/web/sc/app/integs/hjs/encounters/process.py" />
-      <jump line="97" column="31" filename="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/generate.py" />
-      <jump line="17" column="21" filename="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/generate.py" />
-      <jump line="92" column="6" filename="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/generate.py" />
       <jump line="66" column="16" filename="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/generate.py" />
       <jump line="88" column="12" filename="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/generate.py" />
       <jump line="26" column="20" filename="$USER_HOME$/code/sc/web/sc/app/aspire/sessions/generate.py" />
@@ -556,6 +549,16 @@
       <jump line="40" column="0" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
       <jump line="30" column="4" filename="$USER_HOME$/code/sc/web/sc/app/platforms/syncs/setup/setup.py" />
       <jump line="25" column="6" filename="$USER_HOME$/code/sc/web/sc/app/platforms/api/google.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/code/sc/web/instance/local/notes/shit-hj" />
+      <jump line="78" column="0" filename="$USER_HOME$/code/sc/web/instance/local/develop_settings.py" />
+      <jump line="42" column="30" filename="$USER_HOME$/code/sc/web/sc/mods/web/rest/accounts/aspire/hallspace_view.py" />
+      <jump line="59" column="12" filename="$USER_HOME$/code/sc/web/sc/coms/search/auto/auto_search.py" />
+      <jump line="61" column="4" filename="$USER_HOME$/code/sc/web/sc/coms/search/auto/auto_search.py" />
+      <jump line="71" column="79" filename="$USER_HOME$/code/sc/web/sc/coms/search/auto/auto_search.py" />
+      <jump line="103" column="3" filename="$USER_HOME$/code/sc/web/sc/coms/search/auto/auto_search.py" />
+      <jump line="145" column="12" filename="$USER_HOME$/code/sc/web/sc/coms/search/auto/auto_search.py" />
+      <jump line="146" column="23" filename="$USER_HOME$/code/sc/web/sc/coms/search/auto/auto_search.py" />
+      <jump line="10" column="27" filename="$USER_HOME$/code/sc/web/sc/coms/search/auto/auto_search.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -567,7 +570,7 @@
         <text>prod</text>
       </register>
       <register name="/" type="4">
-        <text>debug</text>
+        <text>asdf</text>
       </register>
       <register name="0" type="4">
         <text>U', str, bytes)  # Must be str or bytes</text>
@@ -609,13 +612,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>debug</last-search>
+      <last-search>asdf</last-search>
       <last-offset />
-      <last-pattern>debug</last-pattern>
+      <last-pattern>asdf</last-pattern>
       <last-replace>Hallspace</last-replace>
       <last-substitute>Session</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
