@@ -21,6 +21,7 @@
       <mapping pattern="git-hf-chore" type="Shell Script" />
       <mapping pattern="git-hf-refactor" type="Shell Script" />
       <mapping pattern="git-hf-bug" type="Shell Script" />
+      <mapping pattern="medrank" type="nginx" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
