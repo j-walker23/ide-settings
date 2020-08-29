@@ -26,7 +26,7 @@
   <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myValues">
       <value>
-        <list size="34">
+        <list size="45">
           <item index="0" class="java.lang.String" itemvalue="nobr" />
           <item index="1" class="java.lang.String" itemvalue="noembed" />
           <item index="2" class="java.lang.String" itemvalue="comment" />
@@ -61,6 +61,17 @@
           <item index="31" class="java.lang.String" itemvalue="grid" />
           <item index="32" class="java.lang.String" itemvalue="arrow-filter-chips" />
           <item index="33" class="java.lang.String" itemvalue="al-edit-item" />
+          <item index="34" class="java.lang.String" itemvalue="md-card" />
+          <item index="35" class="java.lang.String" itemvalue="md-toolbar" />
+          <item index="36" class="java.lang.String" itemvalue="md-expansion-panel-collapsed" />
+          <item index="37" class="java.lang.String" itemvalue="md-expansion-panel-header" />
+          <item index="38" class="java.lang.String" itemvalue="md-expansion-panel" />
+          <item index="39" class="java.lang.String" itemvalue="md-input-container" />
+          <item index="40" class="java.lang.String" itemvalue="md-datepicker" />
+          <item index="41" class="java.lang.String" itemvalue="page-submit" />
+          <item index="42" class="java.lang.String" itemvalue="loc-sparkline" />
+          <item index="43" class="java.lang.String" itemvalue="location-trend-box" />
+          <item index="44" class="java.lang.String" itemvalue="loc-header" />
         </list>
       </value>
     </option>
