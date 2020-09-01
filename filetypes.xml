@@ -5,6 +5,7 @@
       <removed_mapping ext="conf" approved="true" type="HOCON" />
       <mapping ext="one" type="JSON" />
       <mapping ext="lock" type="JSON" />
+      <mapping pattern="oldmysqlconf" type="PLAIN_TEXT" />
       <mapping pattern=".sentrycliignore" type="PLAIN_TEXT" />
       <mapping pattern="shit-hj" type="PLAIN_TEXT" />
       <mapping pattern="whatthefuckever" type="PLAIN_TEXT" />
