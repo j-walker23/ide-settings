@@ -73,7 +73,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="dbrelm" value="$prop$: ColList[sql.$model$] = relationship('$model$', secondary='$sec$', backref=backref('$back$'))" description="many to many" toReformat="true" toShortenFQNames="true">
+  <template name="dbrelm" value="$prop$: Union[Column, List[sql.$model$]] = relationship('$model$', secondary='$sec$', backref=backref('$back$'))" description="many to many" toReformat="true" toShortenFQNames="true">
     <variable name="prop" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="model" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="sec" expression="" defaultValue="" alwaysStopAt="true" />
@@ -89,7 +89,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="dbrel" value="$prop$: ColList[sql.$model$] = relationship('$model$', cascade='all, delete-orphan', passive_deletes=True)" description="one to many" toReformat="true" toShortenFQNames="true">
+  <template name="dbrel" value="$prop$: Union[Column, List[sql.$model$]] = relationship('$model$', cascade='all, delete-orphan', passive_deletes=True)" description="one to many" toReformat="true" toShortenFQNames="true">
     <variable name="prop" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="model" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -152,8 +152,9 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="dbrelo" value="$prop$: Col[sql.$model$] = relationship('$model$', uselist=False)" description="one to one" toReformat="true" toShortenFQNames="true">
+  <template name="dbrelo" value="$prop$: Union[Column, sql.$type$] = relationship('$model$', uselist=False)" description="one to one" toReformat="true" toShortenFQNames="true">
     <variable name="prop" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="model" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
