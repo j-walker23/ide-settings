@@ -242,14 +242,14 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="duo" value="$col$: Col[sql.$type$]" description="db col union type sql model" toReformat="true" toShortenFQNames="true">
+  <template name="duo" value="$col$: Union[Column, sql.$type$]" description="db col union type sql model" toReformat="true" toShortenFQNames="true">
     <variable name="col" expression="clipboard()" defaultValue="" alwaysStopAt="false" />
     <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="dum" value="$col$: ColMany[sql.$type$]" description="db col union type sql model list" toReformat="true" toShortenFQNames="true">
+  <template name="dum" value="$col$: Union[Column, List[sql.$type$]]" description="db col union type sql model list" toReformat="true" toShortenFQNames="true">
     <variable name="col" expression="clipboard()" defaultValue="" alwaysStopAt="false" />
     <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
