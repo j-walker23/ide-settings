@@ -88,4 +88,12 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="enu" value="static readonly $name$ = new AspireFilter('$name$', '$id$')&#10;" description="static readonly FACILITY = new AspireFilter('FACILITY', 'facility')" toReformat="true" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="id" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
