@@ -290,8 +290,9 @@
     <option name="IMP_DECLARE_EL_WRAP" value="1" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
     <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
+    <option name="EXPR_CASE_WHEN_WRAP" value="false" />
+    <option name="EXPR_CASE_THEN_ALIGN" value="true" />
     <option name="EXPR_CASE_ELSE_ALIGN_THEN" value="true" />
-    <option name="EXPR_CASE_END" value="1" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </PostgresCodeStyleSettings>
   <Python>
