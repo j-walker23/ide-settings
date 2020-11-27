@@ -5,12 +5,12 @@
       <option name="TAB_SIZE" value="2" />
     </value>
   </option>
-  <option name="RIGHT_MARGIN" value="80" />
+  <option name="RIGHT_MARGIN" value="200" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <option name="FORMATTER_ON_TAG" value="fmt: on" />
   <option name="FORMATTER_OFF_TAG" value="fmt: off" />
   <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
-  <option name="SOFT_MARGINS" value="80" />
+  <option name="SOFT_MARGINS" value="200" />
   <DB2CodeStyleSettings version="2">
     <option name="ALIAS_CASE" value="4" />
     <option name="KEYWORD_CASE" value="1" />
@@ -472,20 +472,28 @@
     </arrangement>
   </codeStyleSettings>
   <codeStyleSettings language="JSON">
+    <option name="RIGHT_MARGIN" value="200" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="2" />
+    <option name="SOFT_MARGINS" value="200" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
+    <option name="RIGHT_MARGIN" value="80" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+    <option name="SOFT_MARGINS" value="80" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Markdown">
+    <option name="RIGHT_MARGIN" value="80" />
+    <option name="SOFT_MARGINS" value="80" />
   </codeStyleSettings>
   <codeStyleSettings language="MySQL">
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
@@ -493,6 +501,13 @@
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="PostgreSQL">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
@@ -520,9 +535,11 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
+    <option name="RIGHT_MARGIN" value="80" />
     <option name="BLANK_LINES_AROUND_METHOD_IN_INTERFACE" value="0" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+    <option name="SOFT_MARGINS" value="80" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
