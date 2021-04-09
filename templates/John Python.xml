@@ -152,10 +152,9 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="dbrelo" value="$prop$: Union[Column, sql.$type$] = relationship('$model$', uselist=False)" description="one to one" toReformat="true" toShortenFQNames="true">
+  <template name="dbrelo" value="$prop$: Union[Column, sql.$type$] = relationship('$type$', uselist=False)" description="one to one" toReformat="true" toShortenFQNames="true">
     <variable name="prop" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="model" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
     </context>
