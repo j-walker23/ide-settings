@@ -1,5 +1,5 @@
 <templateSet group="John HTML">
-  <template name="icon" value="&lt;md-icon md-svg-icon=&quot;$icon$&quot;&gt;&lt;/md-icon&gt;" description="" toReformat="true" toShortenFQNames="true">
+  <template name="icon" value="&lt;md-icon md-svg-icon=&quot;$icon$&quot;&gt;&lt;/md-icon&gt;" description="" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="icon" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
