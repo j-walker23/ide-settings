@@ -102,6 +102,9 @@
     <mouse-shortcut keystroke="control button2" />
   </action>
   <action id="InsertLiveTemplate" />
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="shift meta i" />
+  </action>
   <action id="Macro.Newest Console">
     <keyboard-shortcut first-keystroke="ctrl meta alt period" />
   </action>
