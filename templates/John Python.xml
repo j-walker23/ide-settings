@@ -261,4 +261,10 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="dbl" value="$p$: ColDictList = Column(JSONListType())" description="JSONListType" toReformat="true" toShortenFQNames="true">
+    <variable name="p" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
