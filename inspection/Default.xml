@@ -103,6 +103,7 @@
     </scope>
     <option name="myStrictlyCheckProperties" value="false" />
   </inspection_tool>
+  <inspection_tool class="JSUnusedGlobalSymbols" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PyArgumentListInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PyCallByClassInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PyDataclassInspection" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -148,6 +149,7 @@
         <option value="sc.sql.integ.hj.base.HJNameMix.*" />
         <option value="property.__add__" />
         <option value="property.__invert__" />
+        <option value="reportlab.graphics.charts.axes.NormalDateXValueAxis.*" />
       </list>
     </option>
   </inspection_tool>
