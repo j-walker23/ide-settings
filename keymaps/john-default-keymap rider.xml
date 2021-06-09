@@ -6,7 +6,9 @@
     <keyboard-shortcut first-keystroke="meta 8" />
   </action>
   <action id="ActivateHierarchyToolWindow" />
-  <action id="ActivateProblemsViewToolWindow" />
+  <action id="ActivateProblemsViewToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta f2" />
+  </action>
   <action id="ActivatePythonConsoleToolWindow">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
@@ -180,6 +182,7 @@
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
+  <action id="StopBackgroundProcesses" />
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="meta alt t" />
     <keyboard-shortcut first-keystroke="shift meta 0" />
