@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="all-client" />
-    <option name="defaultScopeName" value="all-client" />
+    <option name="customScope" />
+    <option name="defaultScopeName" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="SEARCH_SCOPE" value="all-client" />
+    <option name="SEARCH_SCOPE" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
