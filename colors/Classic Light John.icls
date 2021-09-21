@@ -1,0 +1,58 @@
+<scheme name="Classic Light John" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2021-09-20T20:08:52</property>
+    <property name="ide">Python</property>
+    <property name="ideVersion">2021.2.2.0.0</property>
+    <property name="modified">2021-09-20T21:02:05</property>
+    <property name="originalScheme">_@user_Default</property>
+  </metaInfo>
+  <attributes>
+    <option name="PY.ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="21a0b1" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.DOT">
+      <value>
+        <option name="FOREGROUND" value="f6a804" />
+      </value>
+    </option>
+    <option name="PY.FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="a71d36" />
+      </value>
+    </option>
+    <option name="PY.FUNC_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="429e3" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="80" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="9e11e3" />
+      </value>
+    </option>
+    <option name="PY.METHOD_CALL">
+      <value>
+        <option name="FOREGROUND" value="a71d36" />
+      </value>
+    </option>
+    <option name="PY.SELF_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="956903" />
+      </value>
+    </option>
+    <option name="PY.STRING.U">
+      <value>
+        <option name="FOREGROUND" value="6400" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
