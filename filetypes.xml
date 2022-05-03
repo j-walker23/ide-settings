@@ -6,6 +6,7 @@
       <mapping pattern="woolf" type="AUTO_DETECTED" />
       <mapping pattern="allcodes" type="AUTO_DETECTED" />
       <mapping pattern="502s" type="AUTO_DETECTED" />
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping ext="one" type="JSON" />
       <mapping ext="lock" type="JSON" />
       <mapping pattern="placeholders" type="PLAIN_TEXT" />
