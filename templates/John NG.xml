@@ -38,14 +38,14 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="nsel" value="this.$n$ = store.pipe(select($selector$))&#10;$END$" description="this.loading$ = store.pipe(select())" toReformat="true" toShortenFQNames="true">
+  <template name="nsel" value="this.$n$ = this.store.pipe(select($selector$))&#10;$END$" description="this.loading$ = store.pipe(select())" toReformat="true" toShortenFQNames="true">
     <variable name="n" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
-    <variable name="selector" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <variable name="selector" expression="jsSuggestImportedEntityName()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="nseld" value="this.$n$ = store.pipe(select($selector$))&#10;$END$" description="this.loading$ = store.pipe(select())" toReformat="true" toShortenFQNames="true">
+  <template name="nseld" value="this.$n$ = this.store.pipe(select($selector$))&#10;$END$" description="this.loading$ = store.pipe(select())" toReformat="true" toShortenFQNames="true">
     <variable name="n" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
     <variable name="selector" expression="clipboard()" defaultValue="" alwaysStopAt="false" />
     <context>
