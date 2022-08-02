@@ -52,4 +52,15 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="ndis" value="this.store.dispatch($selector$)" description="this.store.dispatch(SavePractice({ id: this.pr.id, changes: { img_url } }))" toReformat="true" toShortenFQNames="true">
+    <variable name="selector" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="nss" value=", private store: Store" description=", private store: Store" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
