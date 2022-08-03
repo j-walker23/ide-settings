@@ -42,4 +42,9 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template name="hfmt" value="&lt;!-- fmt: off --&gt;&#10;$SELECTION$&#10;&lt;!-- fmt: on --&gt;" description="surround with fmt: off" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
 </templateSet>
