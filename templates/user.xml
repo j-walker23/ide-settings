@@ -1,6 +1,6 @@
 <templateSet group="user">
   <template name="mlab" value="&lt;mat-label&gt;$val$&lt;/mat-label&gt;" description="mat-label" toReformat="true" toShortenFQNames="true">
-    <variable name="val" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="val" expression="clipboard()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="HTML_TEXT" value="true" />
     </context>
