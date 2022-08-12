@@ -24,6 +24,7 @@
       <mapping pattern="git-hf-bug" type="Shell Script" />
       <mapping pattern="git-hf-chore" type="Shell Script" />
       <mapping ext="symlink" type="Shell Script" />
+      <mapping pattern="medrank" type="nginx" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="HOCON" />
